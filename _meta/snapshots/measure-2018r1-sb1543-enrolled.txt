@@ -1,0 +1,1089 @@
+79th OREGON LEGISLATIVE ASSEMBLY--2018 Regular Session
+Enrolled
+Senate Bill 1543
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Senate Interim Committee on Judiciary)
+CHAPTER .................................................
+AN ACT
+Relating to public safety; creating new provisions;  amending ORS 137.221, 137.225, 137.372, 137.540,
+147.395, 147.397, 161.336, 161.390, 161.705, 162.375, 166.412, 166.436, 180.700, 423.105 and 837.365;
+and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 180.700 is amended to read:
+180.700. (1) The Attorney General shall appoint an advisory committee composed [ at least ] of :
+(a) Representatives from local supervisory authorities, batterers’ intervention programs and
+domestic violence victims’ advocacy groups ; and
+(b) Persons who:
+(A) Are experienced with evidence-based practices specific to reducing recidivism  that
+take into account risk factors, needs and responsiveness to treatment; and
+(B) Represent  the diverse groups that interact with violence prevention and batterers’
+intervention programs.
+(2) The Attorney General, in consultation with the advisory committee, shall adopt rules  that
+establish standards for batterers’ intervention programs. The rules adopted must include, but  are
+not limited to:
+[(1)] (a)  Standards for contacts between the defendant and the victim;
+[(2)] (b)  Standards for the dissemination of otherwise confidential medical, mental health and
+treatment records;
+[(3)] (c)  Standards that protect to the greatest extent practicable the confidentiality  of defend-
+ants who are participating in domestic violence deferred sentencing agreements;
+[(4)] (d)  A requirement that the designated batterers’  intervention program must report to the
+defendant’s local supervisory authority any criminal assaults, threats to harm the victim or  any
+substantial violation of the program’s rules by the defendant; and
+[(5)] (e)  Standards for batterers’ intervention  programs that are most likely to end domestic vi-
+olence and increase victims’ safety.
+(3) The standards established by the rules  described in subsection (2) of this section
+must:
+(a) Consist of separate standards for  batterers’ intervention programs that address male
+defendants, female defendants, defendants offending against  same-sex victims and circum-
+stances in which the defendant or victim is gender nonconforming; and
+Enrolled Senate Bill 1543 (SB 1543-B) Page 1
+(b) Be based on scientific research and direct practice both with persons who have  per-
+petrated domestic violence and with persons who have survived domestic violence.
+(4) As used in this section, “supervisory authority” has the meaning given that term in
+ORS 144.087.
+SECTION 2.  ORS 147.397 is amended to read:
+147.397. (1) Subject to the availability of funds from gifts, grants  and donations in the Sexual
+Assault Victims’ Emergency Medical Response  Fund, the Department of Justice shall pay the costs
+of:
+(a) A complete medical assessment obtained by the victim of a sexual assault  if the victim ob-
+tains the medical assessment no later than 84 hours after the sexual assault.
+(b) A partial medical assessment obtained  by the victim of a sexual assault if the victim obtains
+the medical assessment no later than seven days after the sexual assault.
+(2) The department may not deny payment under this section for any of the following reasons:
+(a) The victim of a sexual assault has not reported the assault to a law enforcement agency.
+(b) The identity of a victim of a sexual assault is not readily available to the department because
+forensic evidence has been collected from the victim  and preserved in a manner intended to protect
+the victim’s identity.
+(3) The  department shall develop a form that the victim of a sexual assault must complete if the
+victim wants the department to pay for a medical  assessment as provided in subsection (1) of this
+section. The department shall make copies  of the form available to providers of medical assessments.
+The form must inform the victim that:
+(a) A complete or partial  medical assessment can be obtained regardless of whether the victim
+reports the assault to a law enforcement agency; and
+(b) A complete or partial medical assessment can be performed  and evidence collected in a
+manner intended to protect the victim’s identity.
+(4) When the victim of a sexual assault completes  the form developed by the department under
+subsection (3) of this section, the victim shall submit the form to  the provider of the medical as-
+sessment. The provider shall submit the form with a bill for the medical assessment to  the depart-
+ment. A provider who submits a bill under this subsection may not bill the victim or the  victim’s
+insurance carrier for the medical assessment except to the extent  that the department is unable to
+pay the bill due to lack of funds or declines to pay the bill.
+(5) Providers of medical assessments that seek reimbursement under this section shall:
+(a) Maintain records of  medical assessments that protect the identity of victims of sexual assault
+and keep confidential the identity of victims who have not reported  the sexual assault to a law
+enforcement agency;
+(b) Store sexual assault  forensic evidence [ collection] kits and transfer custody of the kits to  a
+law enforcement agency having jurisdiction  over the geographic area where the provider is located;
+and
+(c) Cooperate with law enforcement agencies to develop and implement procedures that protect
+the identities of victims while allowing  retrieval and assessment of sexual assault forensic  evi-
+dence [ collection] kits and related evidence.
+(6) Law enforcement agencies that receive evidence [ collection kits ] as provided by subsection
+(5) of this section shall preserve [ the kits and any related evidence for at least six months. ]:
+(a) A sexual assault forensic  evidence kit for no less than 60 years after collection of the
+evidence; and
+(b) Any related evidence for at least six months.
+(7) A provider may not charge  the department more for a complete medical assessment or a
+partial medical assessment than the  maximum amounts established by the department by rule for the
+assessments.
+(8) The victim of a sexual assault may obtain  a medical assessment and complete and submit a
+form under this  section regardless of whether the victim reports the sexual assault to a law
+enforcement agency.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 2
+(9) This section does not require the department to pay any costs of  treatment for injuries re-
+sulting from the sexual assault.
+(10) The department shall create, and make available  to medical assessment providers,
+informational materials  describing the services payable by the fund as described in sub-
+section (1) of this section. A provider shall ensure that the informational  materials are made
+available to sexual assault victims.
+[(10)] (11) The department may adopt rules necessary to carry out the provisions of this  section.
+SECTION 3.  ORS 147.395 is amended to read:
+147.395. As used in ORS 147.397:
+(1) “Complete medical assessment” means an assessment that consists of:
+(a) A medical examination;
+(b) The collection of forensic evidence using an evidence collection kit approved by the  De-
+partment of State Police; and
+(c) The offering and, if requested, provision of emergency contraception,  sexually transmitted
+disease prevention and, for a victim who is 17 years  of age or younger, prescriptions for emergency
+contraception.
+(2) “Medical assessment” means a complete or partial medical assessment.
+(3) “Partial medical assessment” means an assessment that consists of:
+(a) A medical examination; and
+(b) The  offering and, if requested, provision of emergency contraception, sexually transmitted
+disease prevention and, for a victim who is 17 years  of age or younger, prescriptions for emergency
+contraception.
+(4) “Sexual assault forensic evidence kit” has the meaning given that  term in ORS
+181A.323.
+SECTION 4.
+ ORS 161.390 is amended to read:
+161.390. (1) The Oregon Health Authority shall adopt rules for the assignment  of persons to
+state mental hospitals or secure intensive community inpatient  facilities under ORS 161.365 and
+161.370 and for establishing standards for evaluation and treatment of persons  committed to a state
+hospital or a secure intensive community inpatient facility or ordered to a community  mental health
+program under ORS 161.315 to 161.351.
+(2) When  the Psychiatric Security Review Board requires the preparation of a predischarge or
+preconditional release plan before a  hearing or as a condition of granting discharge or conditional
+release for a person committed under ORS 161.315 to 161.351 to a  state hospital or a secure inten-
+sive community inpatient facility for custody, care and treatment, the authority  is responsible for
+and shall prepare the plan.
+(3) In carrying out a conditional release plan  prepared under subsection (2) of this section, the
+authority may contract  with a community mental health program, other public agency or private
+corporation or an individual to  provide supervision and treatment for the conditionally released
+person.
+(4)(a) The board shall maintain and keep current the medical, social and criminal history of  all
+persons committed to its jurisdiction. The confidentiality  of records maintained by the board shall
+be determined pursuant to ORS 192.338, 192.345 and 192.355.
+(b) Except as otherwise  provided by law, upon request of the board, a state hospital, a
+community mental health program  and any other health care service provider shall provide
+the board with all medical records pertaining to a person  committed to the jurisdiction of
+the board.
+(5) The evidentiary phase of a hearing conducted by the board under ORS 161.315  to 161.351 is
+not a deliberation for purposes of ORS 192.690.
+SECTION 5.  ORS 161.336 is amended to read:
+161.336. (1)(a) When a person  is conditionally released under ORS 161.315 to 161.351, the person
+is subject  to those supervisory orders of the Psychiatric Security Review Board as are in the best
+interests of justice, the protection of society and the welfare of the person.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 3
+(b) An order of conditional release entered by the board may  designate any person or state,
+county or local agency  capable of supervising the person upon release, subject to the conditions
+described in the order of conditional release.
+(c) Prior to  the designation, the board shall notify the person or state, county or local agency
+to whom conditional release is contemplated and provide  the person or state, county or local agency
+an opportunity to be heard.
+(d) After receiving an order  entered under this section, the person or state, county or local
+agency designated in the order shall assume supervision of the  person in accordance with the con-
+ditions described in the order and any modifications of the conditions ordered by the board.
+(2) Conditions of  release contained in orders entered under this section may be modified from
+time to time and conditional releases may be terminated as provided in ORS 161.351.
+(3)(a) As  a condition of release, the person may be required to report to any state or local
+mental health facility for evaluation. Whenever medical, psychiatric  or psychological treatment is
+recommended, the order may  require the person, as a condition of release, to cooperate with and
+accept the treatment from the facility.
+(b) The facility to which the person has been referred for evaluation shall  perform the evalu-
+ation and  submit a written report of its findings to the board. If the facility finds that treatment of
+the person is appropriate, it shall include its recommendations for  treatment in the report to the
+board.
+(c) Whenever treatment is provided by the facility, it shall furnish reports  to the board on a
+regular basis concerning the progress of the person.
+(d) Copies of all reports submitted to the board pursuant to this section shall be furnished to
+the person and the person’s counsel. The confidentiality of  these reports is determined pursuant to
+ORS 192.338, 192.345 and 192.355.
+(e) The facility shall comply with the  conditional release order and any modifications of the
+conditions ordered by the board.
+[(4)(a) If at any time while the person is under the jurisdiction of the board it  appears to the board
+or its chairperson that the person has violated the terms of the conditional release or that the  mental
+health of  the individual has changed, the board or its chairperson may order the person returned for
+evaluation or treatment to a state hospital or, if the person is under 18 years of age,  to a secure in-
+tensive community inpatient facility. A written order of the board, or its chairperson on behalf of  the
+board, is sufficient  warrant for any law enforcement officer to take into custody such person and
+transport the person accordingly.  A sheriff, municipal police officer, constable, parole and probation
+officer, prison official or  other peace officer shall execute the order, and the person shall be returned
+as soon as practicable to the state hospital  or secure intensive community inpatient facility designated
+in the order. ]
+(4)(a)(A) A  written or electronic order for the return of a person on conditional release
+to a state hospital or other facility designated by the supervising entity or, if the person  is
+under 18 years of age,  to a secure intensive community inpatient facility or other facility
+designated by the supervising entity, may be issued by:
+(i) The supervising entity;
+(ii) A person designated by the supervising  entity, if the designation is made as part of
+a written policy; or
+(iii) The community mental  health program director, if the person has absconded from
+conditional release.
+(B) An order described in this paragraph may be issued when the supervising  entity, the
+authorized designee or, if the person  has absconded, the community mental health program
+director, has determined that:
+(i) The person has violated the terms of conditional release; or
+(ii) The mental health of the person has  changed such that the supervising entity, or, if
+applicable, the authorized designee or  the community mental health program director, rea-
+sonably believes that the person may no longer be fit for conditional release.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 4
+(C) A written order under this paragraph is sufficient warrant for any law enforcement
+officer to take  into custody and transport the person named in the order. A peace officer
+shall execute the order and the person  shall be transported as described in paragraph (c) of
+this subsection.
+(b) [ The community mental health  program director ] A peace officer , the director of the facility
+providing treatment to a person on  conditional release[ , any peace officer ] or any person responsible
+for the supervision of  a person on conditional release may take a person on conditional release into
+custody , or  request that the person be taken into custody , if there is reasonable cause to believe
+the person is a substantial danger to others because of a [ qualifying] mental disorder and that  the
+person is in need of immediate care, custody or  treatment. [ Any person taken into custody pursuant
+to this subsection shall be transported as soon  as practicable to a state hospital or, if the person is
+under 18 years of age, to a secure intensive community inpatient facility. ]
+(c) When a person is taken into custody by a peace  officer under this subsection, the
+agency employing the  peace officer shall cause the person, as soon as practicable, to be
+transported to a state hospital or other facility designated by  the supervising entity. If the
+person was  taken into custody pursuant to an order described in paragraph (a) of this sub-
+section, the supervising entity shall facilitate the reimbursement of reasonable costs of the
+transport to the agency employing the peace officer.
+[(c)] (d) Within 20 days following the return of the person to a state  hospital or secure intensive
+community inpatient facility under this subsection, the board shall conduct a hearing. The board
+shall provide notice of the hearing to the person,  the attorney representing the person and the At-
+torney General. The state must prove by a preponderance  of the evidence the person’s unfitness for
+conditional release. The hearing shall be conducted in accordance with ORS 161.346.
+(e) As  used in this subsection, “supervising entity” means the board or the chairperson
+or executive director of the board.
+(5)(a) Any person conditionally released under this section may apply to the board for discharge
+from or  modification of an order of conditional release on the ground that the person is no longer
+affected by a qualifying mental disorder or,  if still so affected, no longer presents a substantial
+danger to others and no longer requires supervision, medication, care or treatment. Notice of the
+hearing on an application for  discharge or modification of an order of conditional release shall be
+made to the Attorney General. The applicant, at the  hearing pursuant to this subsection, must prove
+by a preponderance of the evidence the applicant’s fitness for discharge or modification of the  order
+of conditional release. Applications by  the person for discharge or modification of conditional re-
+lease may not be filed more often than once every six months.
+(b) Upon application by any  person or agency responsible for supervision or treatment pursuant
+to an order of  conditional release, the board shall conduct a hearing to determine if the conditions
+of release  shall be continued, modified or terminated. The application shall be accompanied by a
+report setting forth the facts supporting the application.
+(6) A person who has spent five  years on conditional release shall be brought before the board
+for hearing within 30 days before the expiration of the five-year period. The board shall review  the
+person’s status and  determine whether the person should be discharged from the jurisdiction of the
+board.
+SECTION 6.
+ ORS 837.365 is amended to read:
+837.365. (1) Except as provided in subsection [ (2)] (3)  of this  section, a person may not inten-
+tionally, knowingly or recklessly operate or cause to be operated  an unmanned aircraft system that
+is:
+(a) Capable of firing a bullet or projectile ; or
+(b) Specifically designed or modified to cause, and is presently capable  of causing, serious
+physical injury as defined in ORS 161.015.  [otherwise operate or cause to be operated an unmanned
+aircraft system in a manner that causes the system to  function as a dangerous weapon as defined in
+ORS 161.015.]
+Enrolled Senate Bill 1543 (SB 1543-B) Page 5
+(2)(a) Except as provided in paragraphs (b) and (c) of this subsection,  violation of subsection (1)
+of this section is a Class A misdemeanor.
+(b) Violation of subsection (1) of this section is a Class C  felony if the person intentionally,
+knowingly or recklessly operates an unmanned aircraft system [ to fire ] and the unmanned aircraft
+system fires  a  bullet or projectile . [ or otherwise operates an unmanned aircraft system in a manner
+that causes the system to  function as a dangerous weapon as defined in ORS 161.015, violation of
+subsection (1) of this section is a Class C felony. ]
+(c) Violation of subsection (1) of this section is a Class  B felony if the person intentionally,
+knowingly or recklessly operates an unmanned aircraft system [ to fire ] and the unmanned aircraft
+system:
+(A) Fires  a bullet or projectile  that causes serious physical  injury, as defined in ORS
+161.015, to another person; or
+(B)(i) Is specifically designed or modified to cause, and  is presently capable of causing,
+serious physical injury as defined in ORS 161.015; and
+(ii) The design or modification causes serious physical injury, as defined  in ORS 161.015,
+to another person.  [ or otherwise operates an unmanned aircraft system in  a manner that causes the
+system to function as a dangerous weapon as defined in ORS 161.015,  and the operation of the un-
+manned aircraft system causes  serious physical injury to another person as both terms are defined in
+ORS 161.015, violation of subsection (1) of this section is a Class B felony. ]
+(3) Subsection (1) of this section does not apply if:
+(a) The  person uses the unmanned aircraft system to release, discharge, propel or eject a non-
+lethal projectile for purposes other than to injure or kill persons or animals;
+(b) The person uses the unmanned aircraft system for nonrecreational purposes in compliance
+with specific authorization from the Federal Aviation Administration;
+(c) The person notifies the Oregon Department of Aviation, the Oregon State Police  and any
+other agency that issues a  permit or license for the activity requiring the use of the unmanned
+aircraft system of the time and location at which the person intends  to use an unmanned aircraft
+system that is  capable of releasing, discharging, propelling or ejecting a projectile at least five days
+before the person uses the system;
+(d) If the person  intends to use an unmanned aircraft system that is capable of releasing, dis-
+charging, propelling or ejecting a  projectile in an area open to the public, the person provides rea-
+sonable notice to the public of the time and location at which the  person intends to use the
+unmanned aircraft system; and
+(e) The person maintains a liability insurance policy in an amount not less than $1  million that
+covers injury resulting from use of the unmanned aircraft system.
+(4) The notification requirement of subsection (3)(c) of this section does not apply to:
+(a) A career school licensed under ORS 345.010 to 345.450;
+(b) A community college as defined in ORS 341.005;
+(c) [ An education service district as defined in ORS 334.003 ] A school ;
+(d) The Oregon Health and Science University;
+(e) A public university listed in ORS 352.002; or
+(f) An institution that is exempt from ORS 348.594 to 348.615 under ORS 348.597 (2).
+(5) Notwithstanding subsection (3) of this section, a  person may not use an unmanned aircraft
+system that is capable of releasing, discharging, propelling  or ejecting a projectile for purposes of
+crowd management.
+(6) As used  in this section, “school” means a public or private institution of learning
+providing instruction at levels kindergarten through grade 12, or their equivalents.
+SECTION 7.
+ ORS 137.221 is amended to read:
+137.221. (1) Notwithstanding ORS 138.540, a court may vacate a  judgment of conviction for the
+crime of prostitution under ORS 167.007 or for violating a municipal prostitution ordinance  as
+described in this section.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 6
+(2)(a) A person may  request vacation of a judgment of conviction for prostitution by filing a
+motion in the county of conviction. The motion may be  filed at least 21 days after the judgment of
+conviction is entered.
+(b) A copy of the motion shall be served on the district attorney.
+(c) The motion must contain an explanation of facts supporting  a claim that the person was the
+victim of sex trafficking  at or around the time of the conduct giving rise to the prostitution con-
+viction. The motion must further contain an explanation of why  those facts were not presented to
+the trial court.
+(3) Upon receiving the  motion described in subsection (2) of this section, the court shall hold a
+hearing. At the hearing, the  person has the burden of proof and may present evidence that, at or
+around the time of the conduct giving rise to the  prostitution conviction, the person was the victim
+of sex trafficking. The court shall consider  any evidence the court deems of sufficient credibility and
+probative value in  determining whether the person was a victim of sex trafficking. The evidence
+may include, but is not limited to:
+(a) Certified records of a state or federal  court proceeding demonstrating that the person was
+a victim of sex trafficking;
+(b) Certified records from federal immigration proceedings recognizing  the person as a victim
+of sex trafficking; and
+(c) A sworn statement from a trained professional staff member of a victim services organiza-
+tion, an attorney, a member of  the clergy or a medical or other professional, certifying that the
+person has sought assistance addressing trauma associated with being a sex trafficking victim.
+(4) If the court finds, by clear and convincing evidence, that  the person was the victim of sex
+trafficking at or around the time of the  conduct giving rise to the prostitution conviction, the court
+shall grant the motion.
+(5) If the court grants a motion under this section,  the court shall vacate the judgment of con-
+viction for prostitution and may make other orders as the court considers appropriate.
+(6) If the court grants a motion under this section while an appeal  of the judgment of conviction
+is pending, the court shall immediately forward a copy of the vacation  order to the appellate court.
+(7) As used in this section[ ,]:
+(a) “Municipal prostitution ordinance” means a municipal ordinance  prohibiting a person
+from engaging in, or offering or agreeing to engage in, sexual  conduct or sexual contact in
+return for a fee.
+(b) “Sex trafficking”  means the use of force, intimidation, fraud or coercion to cause a person
+to engage, or attempt to engage, in a commercial sex act.
+SECTION 8.
+ ORS 423.105 is amended to read:
+423.105. (1) As used in this section:
+(a) “Collected moneys” means moneys that  have been collected from an inmate trust account
+by the Department of Corrections pursuant to this section.
+(b) “Court-ordered financial obligation” means:
+(A) A compensatory fine imposed pursuant to ORS 137.101, an award of restitution as  defined
+in ORS 137.103 or any other fines, fees or court-appointed attorney fees imposed in a criminal action;
+(B) A child support obligation;
+(C) A civil judgment including a money award for a crime victim entered against an  inmate re-
+sulting from a crime committed by the inmate; or
+(D) A civil judgment including a money award  entered against an inmate resulting from an
+action for the inmate’s assault or battery of a Department of Corrections or Oregon  Corrections
+Enterprises employee.
+(c) “Eligible moneys” means moneys deposited in  an inmate trust account that are subject to
+collection under this section, including but not limited  to inmate performance monetary awards and
+moneys received from  an inmate’s family members or friends. “Eligible moneys” does not include
+protected moneys.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 7
+(d) “Inmate” means a  person who is at least 18 years of age and in the physical custody of the
+Department of Corrections. “Inmate” does not include:
+(A) A  person on leave from prison due to participation in an alternative incarceration program
+established under ORS 421.504 or short-term transitional leave under ORS 421.168.
+(B) A person transferred into or out of  department custody pursuant to an interstate corrections
+compact.
+(C) A person in the physical custody of the Oregon Youth Authority.
+(D) A person in the physical custody of a county jail or other county detention facility.
+(e) “Protected moneys”  means moneys deposited in an inmate trust account that are not subject
+to collection under state or federal law or under this section including but not limited to:
+(A) Disability benefits for veterans;
+(B) Moneys received from a Native American tribe or tribal government;
+(C) Moneys dedicated for medical, dental or optical expenses or emergency trips;
+(D) Railroad retirement benefits; or
+(E) Moneys paid as compensation to an inmate in a prison work program established under the
+Prison Industries Enhancement Certification Program, or a successor program designated by the
+United States Director of the Bureau of Justice Assistance pursuant to 18 U.S.C. 1761.
+(2)(a) The Department of Corrections shall  collect eligible moneys from an inmate trust account
+if the inmate owes court-ordered financial obligations as described in this section.
+(b) Notwithstanding any other provision of this section, the department may deduct a fixed
+percentage of each inmate  performance monetary award made to an inmate, to be credited to a
+general victims assistance fund, before crediting the  remainder of the award to the inmate trust
+account.
+(3)(a) The Department of Justice and the  Judicial Department shall provide an accounting to the
+Department of Corrections of court-ordered financial obligations, if any, owed by each  inmate. The
+accounting records may be provided electronically in a format agreed upon by the departments.
+(b) Upon receipt of the accounting records described in paragraph (a) of  this subsection, the
+Department of Corrections shall collect a portion of  eligible moneys from the inmate trust account
+of each inmate as follows:
+(A) Until an inmate not sentenced to  death or to life imprisonment without the possibility of
+release or parole has $500 in a transitional fund to facilitate  reentry after release, 10 percent of
+eligible moneys shall be collected for court-ordered financial obligations and  five percent of eligible
+moneys shall be collected and transferred to the inmate’s transitional fund.
+(B) After the inmate has at  least $500 in the transitional fund, or if the inmate has been sen-
+tenced to death or  to life imprisonment without the possibility of release or parole, the department
+shall collect 15 percent of eligible moneys for court-ordered financial obligations.
+(C) After court-ordered financial obligations have been paid, an inmate not sentenced  to death
+or to  life imprisonment without the possibility of release or parole may elect to continue to transfer
+five percent of eligible moneys into the transitional fund.
+(c) Notwithstanding ORS 18.615  or any other provision of law, while moneys held in an
+inmate’s transitional fund described in this subsection remain within the custody  or control
+of the Department of Corrections, those moneys are neither assignable nor subject  to exe-
+cution, garnishment, attachment or any other process.
+(4) There are three levels of priority for  the application of collected moneys to court-ordered
+financial obligations, with Level  I obligations having the highest priority and Level III obligations
+having the lowest priority. The levels are as follows:
+(a) Level I obligations are compensatory fines imposed pursuant to ORS  137.101, awards of
+restitution defined in ORS 137.103 and fines, fees  or court-appointed attorney fees imposed in a
+criminal action.
+(b) Level II obligations are child support obligations  and civil judgments including a money
+award for a crime victim entered against an inmate resulting  from a crime committed by the inmate.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 8
+(c) Level III obligations  are civil judgments including a money award entered against an inmate
+resulting from  an action for the inmate’s assault or battery of a Department of Corrections or
+Oregon Corrections Enterprises employee.
+(5)(a) After receiving  the accounting records described in subsection (3) of this section, the De-
+partment of Corrections shall disburse the collected moneys for  court-ordered financial obligations
+to the Department of Justice and the Judicial Department.
+(b) The Department of Justice  and the Judicial Department shall apply the collected moneys
+received from the  Department of Corrections under this subsection to an inmate’s court-ordered fi-
+nancial obligations according to the priority levels of the obligations.
+(6)(a) The Department of Justice may create a subaccount in which to deposit the collected
+moneys received from the Department of Corrections under this section.
+(b) The Judicial Department may create a subaccount in which to deposit the collected moneys
+received from the Department of Corrections under this section.
+(c) The Department of Corrections  may create subaccounts for the purposes of storing collected
+moneys prior to disbursement under this section.
+(7) The Department of Corrections, the Department  of Justice and the Judicial Department may
+adopt rules to implement this section.
+SECTION 9.  ORS 162.375 is amended to read:
+162.375. (1) A person commits the crime of initiating a false report  if the person knowingly ini-
+tiates a false alarm or report that is  transmitted to a fire department, law enforcement agency or
+other organization that deals with emergencies involving danger to life or property.
+(2) Initiating a false report is a Class A misdemeanor.
+(3)(a) The court shall include in the sentence of any  person convicted under this section a re-
+quirement that the person repay the costs incurred in  responding to and investigating the false re-
+port.
+(b) If the response to the  false report involved the deployment of a law enforcement special
+weapons and tactics (SWAT) team or a similar law enforcement group,  the court shall impose, and
+may not suspend, a term of incarceration of :
+(A) At least 10 days.
+(B) At least 30 days if the deployment resulted in death or serious physical  injury to
+another person.
+SECTION 10.
+ ORS 137.540 is amended to read:
+137.540. (1) The court may sentence the defendant to probation subject to the  following general
+conditions unless specifically deleted by the court. The probationer shall:
+(a) Pay supervision fees, fines, restitution or other fees ordered by the court.
+(b) Not use or possess controlled substances except pursuant to a medical prescription.
+(c) Submit to testing for controlled substance, cannabis or alcohol use  if the probationer has a
+history of substance abuse or if there is a reasonable suspicion that the  probationer has illegally
+used controlled substances.
+(d) Participate in a substance abuse  evaluation as directed by the supervising officer and follow
+the recommendations of the evaluator if there are reasonable grounds to believe  there is a history
+of substance abuse.
+(e) Remain in the State  of Oregon until written permission to leave is granted by the Depart-
+ment of Corrections or a county community corrections agency.
+(f) If physically able, find and maintain gainful full-time employment, approved schooling, or  a
+full-time combination  of both. Any waiver of this requirement must be based on a finding by the
+court stating the reasons for the waiver.
+(g) Change neither employment nor residence without prior  permission from the Department of
+Corrections or a county community corrections agency.
+(h) Permit the parole and probation officer to visit the  probationer or the probationer’s work
+site or residence and to conduct  a walk-through of the common areas and of the rooms in the resi-
+dence occupied by or under the control of the probationer.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 9
+(i) Consent to the search of person, vehicle or premises upon the request of a representative of
+the supervising officer if the supervising officer has reasonable  grounds to believe that evidence of
+a violation will be found,  and submit to fingerprinting or photographing, or both, when requested
+by the Department of Corrections or a county community corrections  agency for supervision pur-
+poses.
+(j) Obey all laws, municipal, county, state and federal.
+(k) Promptly and truthfully answer all reasonable inquiries  by the Department of Corrections
+or a county community corrections agency.
+(L) Not possess weapons, firearms or dangerous animals.
+(m) Report as required and abide by the direction of the supervising officer.
+(n) If recommended  by the supervising officer, successfully complete a sex offender treatment
+program approved by  the supervising officer and submit to polygraph examinations at the direction
+of the supervising officer if the probationer:
+(A) Is under supervision for a sex offense under ORS 163.305 to 163.467;
+(B) Was previously convicted of a sex offense under ORS 163.305 to 163.467; or
+(C) Was previously convicted in another jurisdiction  of an offense that would constitute a sex
+offense under ORS 163.305 to 163.467 if committed in this state.
+(o) Participate in a mental health evaluation as directed by the supervising officer  and follow
+the recommendation of the evaluator.
+(p) If required to report as a sex offender under ORS 163A.015, report with the Department  of
+State Police, a city police department, a county sheriff’s office or the supervising agency:
+(A) When supervision begins;
+(B) Within 10 days of a change in residence;
+(C) Once each year within 10 days of the probationer’s date of birth;
+(D) Within 10 days of the  first day the person works at, carries on a vocation at or attends an
+institution of higher education; and
+(E) Within 10 days of  a change in work, vocation or attendance status at an institution of higher
+education.
+(q) Submit to a risk  and needs assessment as directed by the supervising officer and follow
+reasonable recommendations resulting from the assessment .
+(2) In addition to the general  conditions, the court may impose any special conditions of pro-
+bation that are reasonably related to the crime of conviction or the needs of the probationer  for the
+protection of the public or reformation of the  probationer, or both, including, but not limited to, that
+the probationer shall:
+(a) For crimes committed prior to November 1, 1989,  and misdemeanors committed on or after
+November 1, 1989,  be confined to the county jail or be restricted to the probationer’s own residence
+or to the premises thereof,  or be subject to any combination of such confinement and restriction,
+such confinement or restriction or combination thereof to be for a period not to exceed  one year
+or one-half of the maximum period  of confinement that could be imposed for the offense for which
+the defendant is convicted, whichever is the lesser.
+(b) For felonies committed on or after November 1, 1989:
+(A) Be confined in  the county jail, or be subject to other custodial sanctions under community
+supervision, or both, as provided by rules of the Oregon Criminal Justice Commission; and
+(B) Comply with any special conditions of probation that are imposed  by the supervising officer
+in accordance with subsection (9) of this section.
+(c) For crimes committed on or after December 5, 1996, sell  any assets of the probationer as
+specifically ordered by the court in order to pay restitution.
+(d) For crimes constituting delivery of a controlled  substance, as those terms are defined in ORS
+475.005, or for telephonic harassment under ORS 166.090, or for  crimes involving domestic violence,
+as defined in ORS 135.230, be prohibited  from using Internet websites that provide anonymous text
+message services.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 10
+(3)(a) If a person is released  on probation following conviction of stalking under ORS 163.732
+(2)(b) or violating a court’s stalking protective  order under ORS 163.750 (2)(b), the court may include
+as a special condition of the person’s probation reasonable residency restrictions.
+(b) If the court imposes the special condition of probation described in this subsection  and if at
+any time during  the period of probation the victim moves to a location that causes the probationer
+to be in violation of the special condition of probation, the  court may not require the probationer
+to change the probationer’s residence in order to comply with the special condition of probation.
+(4) When a person who is a  sex offender is released on probation, the court shall impose as a
+special condition of  probation that the person not reside in any dwelling in which another sex
+offender who is on probation,  parole or post-prison supervision resides, without the approval of the
+person’s supervising parole and probation officer, or in which more than one other sex offender  who
+is on probation, parole or post-prison supervision resides, without the  approval of the director of the
+probation agency that is  supervising the person or of the county manager of the Department of
+Corrections, or a designee of the  director or manager. As soon as practicable, the supervising parole
+and probation officer  of a person subject to the requirements of this subsection shall review the
+person’s living arrangement with the person’s sex offender treatment provider to ensure that the
+arrangement supports the goals of offender rehabilitation and community safety. As used  in this
+subsection:
+(a) “Dwelling” has the meaning given that term in ORS 469B.100.
+(b) “Dwelling” does not include a residential treatment facility or a halfway house.
+(c) “Halfway house” means a publicly or privately operated profit or nonprofit residential  facil-
+ity that provides rehabilitative care and treatment for sex offenders.
+(d) “Sex offender” has the meaning given that term in ORS 163A.005.
+(5)(a) If the person is released on probation following conviction of a sex crime,  as defined in
+ORS 163A.005,  or an assault, as defined in ORS 163.175 or 163.185, and the victim was under 18
+years of  age, the court, if requested by the victim, shall include as a special condition of the person’s
+probation that the person not reside within three miles of the victim unless:
+(A) The victim resides in a county having a population of less than 130,000  and the person is
+required to reside in that county;
+(B) The person demonstrates to the court by a preponderance of the evidence that  no mental
+intimidation or pressure was brought to bear during the commission of the crime;
+(C) The person demonstrates to the court by a preponderance of the evidence that imposition
+of the condition will deprive the person of a residence that would be materially significant in aiding
+in the rehabilitation of the person or in the success of the probation; or
+(D) The  person resides in a halfway house. As used in this subparagraph, “halfway house” means
+a publicly or privately operated profit or nonprofit residential facility  that provides rehabilitative
+care and treatment for sex offenders.
+(b) A victim may request imposition of the  special condition of probation described in this sub-
+section at the time of sentencing in person or through the prosecuting attorney.
+(c) If the court imposes the special condition of probation described in this subsection and  if at
+any time during the period of probation the victim moves to within three miles of  the probationer’s
+residence, the court may not require the  probationer to change the probationer’s residence in order
+to comply with the special condition of probation.
+(6) When a person who is a sex offender, as defined in ORS  163A.005, is released on probation,
+the Department of Corrections or  the county community corrections agency, whichever is appro-
+priate, shall notify the city police department,  if the person is going to reside within a city, and the
+county sheriff’s office of the county in which  the person is going to reside of the person’s release
+and the conditions of the person’s release.
+(7) Failure to abide by all  general and special conditions of probation may result in arrest,
+modification of conditions, revocation  of probation or imposition of structured, intermediate sanc-
+tions in accordance with rules adopted under ORS 137.595.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 11
+(8) The court may order that probation be supervised by the court. If the  court orders that
+probation be supervised by the court, the defendant  shall pay a fee of $100 to the court. Fees im-
+posed under this subsection in the circuit court shall be deposited by the  clerk of the court in the
+General Fund. Fees imposed in a justice court under this subsection shall be paid to  the county
+treasurer. Fees imposed in a  municipal court under this subsection shall be paid to the city treas-
+urer.
+(9)(a) The court may at any time modify the conditions of probation.
+(b) When the  court orders a defendant placed under the supervision of the Department of Cor-
+rections or a community corrections  agency, the supervising officer may file with the court a pro-
+posed modification to the special conditions of probation.  The supervising officer shall provide a
+copy of the proposed modification to  the district attorney and the probationer. If the district attor-
+ney:
+(A) Files an objection to the proposed modification less than five judicial days after the proposed
+modification was filed, the court shall schedule a hearing no later than 10 judicial days after  the
+proposed modification was filed, unless the court finds good cause to  schedule a hearing at a later
+time.
+(B) Does not file an objection to the proposed modification less  than five judicial days after the
+proposed modification was filed, the proposed modification becomes effective  five judicial days after
+the proposed modification was filed.
+(10) A court may not order revocation of probation as a result of the probationer’s  failure to
+pay restitution unless the court determines from  the totality of the circumstances that the purposes
+of the probation are not being served.
+(11) It is not a cause  for revocation of probation that the probationer failed to apply for or ac-
+cept employment at any workplace where there is a  labor dispute in progress. As used in this sub-
+section, “labor dispute” has the meaning for that term provided in ORS 662.010.
+(12)(a) If the court determines that a defendant has violated the terms  of probation, the court
+shall collect a $25 fee from the defendant and may impose a fee for the costs of  extraditing the de-
+fendant to  this state for the probation violation proceeding if the defendant left the state in violation
+of the conditions of the defendant’s probation. The fees imposed  under this subsection become part
+of the judgment and may be collected in the same manner as a fine.
+(b) Probation violation fees collected under this subsection in the circuit court  shall be depos-
+ited by the clerk of the court in the General Fund. Extradition cost fees collected  in the circuit
+court under this subsection shall  be deposited by the clerk of the court in the Arrest and Return
+Account established by ORS 133.865. Fees  collected in a justice court under this subsection shall
+be paid to the county treasurer.  Fees collected in a municipal court under this subsection shall be
+paid to the city treasurer.
+(13) As used in  this section, “attends,” “institution of higher education,” “works” and “carries
+on a vocation” have the meanings given those terms in ORS 163A.005.
+SECTION 11.
+ ORS 161.705 is amended to read:
+161.705. (1) Notwithstanding ORS 161.525, the court may enter judgment of conviction  for a
+Class A misdemeanor and make disposition accordingly when:
+[(1)(a)] (a)(A)  A person is convicted of any Class C felony; or
+[(b)] (B)  A person convicted of a Class C felony [ described in paragraph (a) of  this subsection ],
+of possession or delivery of marijuana or a marijuana item as defined in ORS 475B.015  constituting
+a Class B felony, of possession of a controlled substance constituting a Class B felony  or of a
+Class A felony pursuant to ORS 166.720, has successfully completed a sentence of probation; and
+[(2)] (b) The court, considering the nature and circumstances of the crime and the history and
+character of the defendant, believes that [ it] a felony conviction  would be unduly  harsh [ to sentence
+the defendant for a felony ].
+(2) The entry of judgment of conviction for a Class A misdemeanor under  this section
+may be made:
+Enrolled Senate Bill 1543 (SB 1543-B) Page 12
+(a) At the time of conviction, for offenses described in subsection (1)(a)(A) of this section;
+or
+(b) At any time after the sentence of probation has been completed,  for offenses de-
+scribed in subsection (1)(a)(B) of this section.
+SECTION 12.  ORS 137.225 is amended to read:
+137.225. (1)(a) Except as provided in paragraph (c) of this subsection, at any time after the lapse
+of three years from the date of pronouncement of judgment, any defendant who  has fully complied
+with and  performed the sentence of the court and whose conviction is described in subsection (5)
+of this section by motion may apply to the  court where the conviction was entered for entry of an
+order setting aside the conviction. A person who is  still under supervision, or who is still
+incarcerated, as part of the sentence for the  offense that is the subject of the motion has not fully
+complied with or performed the sentence of the court.
+(b) At any time after the lapse of one year from the date of any arrest, issuance of a  criminal
+citation or criminal charge, if no accusatory instrument was filed, or at any time after  an acquittal
+or a dismissal  of the charge, the arrested, cited or charged person may apply to the court that would
+have jurisdiction over the crime for which the person  was arrested, cited or charged, for entry of
+an order setting aside the record of the arrest, citation or charge. For the purpose of computing  the
+one-year period, time  during which the person has secreted himself or herself within or without this
+state is not included.
+(c) A person whose sentence of probation was revoked may not  apply to the court for entry of
+an order setting aside the conviction for which the person was sentenced to  probation for a period
+of 10 years from the date of revocation.
+(2)(a) A copy of the motion and a full set of the defendant’s fingerprints shall  be served upon
+the office of the prosecuting attorney who prosecuted the  crime or violation, or who had authority
+to prosecute the charge if there was no accusatory instrument filed, and opportunity shall  be given
+to contest the motion. The fingerprint card with the notation “motion for setting aside conviction,”
+or “motion for setting aside arrest, citation or charge record” as  the case may be, shall be for-
+warded to the Department of State Police. Information  resulting from the fingerprint search along
+with the fingerprint card shall be returned to the prosecuting attorney.
+(b) When a prosecuting attorney is served with a copy of a motion to set  aside a conviction
+under this section, the prosecuting attorney shall provide a copy of  the motion and notice of the
+hearing date to the victim, if any, of  the crime by mailing a copy of the motion and notice to the
+victim’s last-known address.
+(c) When a person makes  a motion under subsection (1)(a) of this section, the person must pay
+a fee of $80 to the Department of State Police. The  person shall attach a certified check payable to
+the Department of State Police in the amount of $80 to the  fingerprint card that is served upon the
+prosecuting attorney. The office of the prosecuting attorney shall forward the check  with the
+fingerprint card to the Department of State Police.
+(d) In addition to the fee established under paragraph (c) of this  subsection, when a person
+makes a motion under  subsection (1)(a) of this section the person must pay the filing fee established
+under ORS 21.135.
+(e) The prosecuting attorney may  not charge the defendant a fee for performing the require-
+ments described in this section.
+(3) Upon hearing the motion, the court may require the filing of such affidavits and may require
+the taking of such proofs as the court deems proper. The court  shall allow the victim to make a
+statement at the hearing. Except  as otherwise provided in subsection (12) of this section, if the court
+determines that the circumstances  and behavior of the applicant from the date of conviction, or from
+the date of arrest, citation or charge as the  case may be, to the date of the hearing on the motion
+warrant setting aside  the conviction, or the arrest, citation or charge record as the case may be,
+the court shall enter an appropriate order that shall state the original arrest or citation charge and
+the conviction charge,  if any and if different from the original, date of charge, submitting agency
+and disposition. The order shall further state that positive identification has been established  by the
+Enrolled Senate Bill 1543 (SB 1543-B) Page 13
+Department of  State Police and further identified as to Department of State Police number or sub-
+mitting agency number. Upon the entry of the order, the applicant for purposes of the law shall
+be deemed not to have been previously convicted, or arrested, cited or  charged as the case may be,
+and the court shall issue an order sealing the record of conviction and other official records  in the
+case, including the records  of arrest, citation or charge whether or not the arrest, citation or charge
+resulted in a further criminal proceeding.
+(4) The clerk of the court shall forward a certified copy of the order to such agencies as directed
+by the court. A certified copy must be sent to  the Department of Corrections when the person has
+been in the custody  of the Department of Corrections. Upon entry of the order, the conviction, ar-
+rest, citation, charge or other proceeding shall be deemed not to have occurred, and the applicant
+may answer accordingly any questions relating to its occurrence.
+(5) The provisions of subsection (1)(a) of this section apply to a conviction for:
+(a) A Class B felony, except for  a violation of ORS 166.429 or any crime classified as a person
+felony as that term is defined in the rules of the Oregon Criminal Justice Commission, only if:
+(A)(i) Twenty years or more have  elapsed from the date of the conviction sought to be set aside
+or of the release of the person  from imprisonment for the conviction sought to be set aside, which-
+ever is later; and
+(ii) The person has not been  convicted of, arrested or criminally cited for or charged with any
+other offense, excluding motor vehicle violations, after the date the person was convicted of the of-
+fense sought to  be set aside. Notwithstanding subsection (1) of this section, a conviction, arrest, ci-
+tation or charge that has been set  aside under this section shall be considered for the purpose of
+determining whether this subparagraph is applicable; or
+(B) The Class B felony is described in paragraphs (b) to [ (e)] (d) of this subsection.
+(b) Any misdemeanor, Class C felony or felony punishable as a misdemeanor  pursuant to ORS
+161.705.
+[(c) Unlawful possession of a controlled substance classified in Schedule I. ]
+[(d)] (c)  An offense constituting a violation under state law or local ordinance.
+[(e)] (d) An offense committed before  January 1, 1972, that, if committed after that date, would
+qualify for an order under this section.
+(6) Notwithstanding  subsection (5) of this section, the provisions of subsection (1)(a) of this
+section do not apply to a conviction for:
+(a) Criminal mistreatment in the second degree under ORS 163.200 if the victim at the time  of
+the crime was 65 years of age or older.
+(b) Criminal mistreatment in the first degree under ORS 163.205 if the victim at  the time of the
+crime was 65 years of age or older, or when the offense constitutes child abuse as defined  in ORS
+419B.005.
+(c) Endangering the welfare of a minor  under ORS 163.575 (1)(a), when the offense constitutes
+child abuse as defined in ORS 419B.005.
+(d) Criminally negligent homicide under ORS  163.145, when that offense was punishable as a
+Class C felony.
+(e) Assault in the third degree under ORS 163.165 (1)(h).
+(f) Any sex crime, unless:
+(A) The sex crime is listed in ORS 163A.140 (1)(a) and:
+(i) The person has been relieved of the  obligation to report as a sex offender pursuant to a court
+order entered under ORS 163A.145 or 163A.150; and
+(ii) The person has not been convicted of, found guilty except for insanity of  or found to be
+within the jurisdiction of the  juvenile court based on a crime for which the court is prohibited from
+setting aside the conviction under this section; or
+(B) The sex crime constitutes a Class C felony and:
+(i) The person was under 16 years of age at the time of the offense;
+(ii) The person is:
+(I) Less than two years and 180 days older than the victim; or
+Enrolled Senate Bill 1543 (SB 1543-B) Page 14
+(II) At least two years and 180 days older,  but less than three years and 180 days older, than
+the victim and the court finds that setting aside  the conviction is in the interests of justice and of
+benefit to the person and the community;
+(iii) The  victim’s lack of consent was due solely to incapacity to consent by reason of being less
+than a specified age;
+(iv) The victim was at least 12 years of age at the time of the offense;
+(v) The person has not been convicted of,  found guilty except for insanity of or found to be
+within the jurisdiction of the  juvenile court based on a crime for which the court is prohibited from
+setting aside the conviction under this section; and
+(vi) Each conviction or finding described in this subparagraph involved the same victim.
+(7) Notwithstanding  subsection (5) of this section, the provisions of subsection (1) of this section
+do not apply to:
+(a) A conviction for a state or municipal traffic offense.
+(b) A person convicted, within the  10-year period immediately preceding the filing of the motion
+pursuant to subsection (1) of this section, of any other offense,  excluding motor vehicle violations,
+whether or not  the other conviction is for conduct associated with the same criminal episode that
+caused the arrest, citation, charge or conviction that is sought to  be set aside. A single violation,
+other than a motor vehicle violation, within the  last 10 years is not a conviction under this sub-
+section. Notwithstanding subsection (1) of this  section, a conviction that has been set aside under
+this section shall be considered for the purpose of determining whether this paragraph  is applicable.
+(c) A person who at  the time the motion authorized by subsection (1) of this section is pending
+before the court is under charge of commission of any crime.
+(8) The provisions of subsection (1)(b) of this section do not apply to:
+(a) A person arrested or criminally  cited for or charged with an offense within the three-year
+period immediately preceding  the filing of the motion for any offense, excluding motor vehicle vio-
+lations, and excluding arrests, citations or charges for conduct associated with the  same criminal
+episode that caused the arrest, citation or charge that is sought to be set aside. An  arrest, citation
+or charge that has been set  aside under this section may not be considered for the purpose of de-
+termining whether this paragraph is applicable.
+(b) An arrest or citation for  driving while under the influence of intoxicants if the charge is
+dismissed as a result of the person’s successful completion of a diversion agreement  described in
+ORS 813.200.
+(9) The provisions of subsection (1) of this section apply to  convictions, arrests, citations and
+charges that occurred before, as  well as those that occurred after, September 9, 1971. There is no
+time limit for making an application.
+(10) For purposes of any civil action in which  truth is an element of a claim for relief or affir-
+mative defense, the provisions of subsection (3) of this section providing  that the conviction, arrest,
+citation, charge or other proceeding be deemed not to have occurred do not apply and a  party may
+apply to the court for  an order requiring disclosure of the official records in the case as may be
+necessary in the interest of justice.
+(11) Upon motion  of any prosecutor or defendant in a case involving records sealed under this
+section, supported by affidavit showing good cause, the court with jurisdiction  may order the reo-
+pening and disclosure of any records sealed under this section for  the limited purpose of assisting
+the investigation of the movant. However,  such an order has no other effect on the orders setting
+aside the conviction or the arrest, citation or charge record.
+(12) Unless the court makes written findings by clear and convincing evidence that granting  the
+motion would not be in the best  interests of justice, the court shall grant the motion and enter an
+order as provided in subsection (3) of this section if the defendant has been convicted of one  of the
+following crimes and is otherwise eligible for relief under this section:
+(a) Abandonment of a child, ORS 163.535.
+(b) Attempted assault in the second degree, ORS 163.175.
+(c) Assault in the third degree, ORS 163.165.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 15
+(d) Coercion, ORS 163.275.
+(e) Criminal mistreatment in the first degree, ORS 163.205.
+(f) Attempted escape in the first degree, ORS 162.165.
+(g) Incest, ORS 163.525, if the victim was at least 18 years of age.
+(h) Intimidation in the first degree, ORS 166.165.
+(i) Attempted kidnapping in the second degree, ORS 163.225.
+(j) Attempted robbery in the second degree, ORS 164.405.
+(k) Robbery in the third degree, ORS 164.395.
+(L) Supplying contraband, ORS 162.185.
+(m) Unlawful use of a weapon, ORS 166.220.
+(13) As used in this section, “sex crime” has the meaning given that term in ORS 163A.005.
+SECTION 13.
+ ORS 137.372 is amended to read:
+137.372. (1)(a) Notwithstanding the provisions of ORS 137.370 (2), an offender who has  been re-
+voked from a probationary sentence for a felony  committed on or after November 1, 1989, and whose
+sentence was imposed  as a downward dispositional departure under the rules of the Oregon Criminal
+Justice  Commission,  shall receive credit for the time served in jail after arrest and before com-
+mencement of  the probationary sentence and for the time served in jail as part of the probationary
+sentence. However, if the credit for the  time served in jail as described in this paragraph is greater
+than 90 days, the sentencing judge may limit or deny credit for any of  that time that exceeds 90
+days.
+(b) Notwithstanding the provisions  of ORS 137.370 (2), an offender who has been revoked from
+a probationary sentence  for a felony committed on or after November 1, 1989, and whose sentence
+was imposed as a presumptive or optional  probationary  sentence under the rules of the Oregon
+Criminal Justice Commission, shall receive credit for the time served in jail after arrest and  before
+commencement of the probationary sentence and for the  time served in jail as part of the
+probationary sentence, unless the sentencing judge orders otherwise.
+(2) Notwithstanding the  provisions of ORS 137.370 (2), an offender who is sentenced to
+imprisonment in the  custody of the Department of Corrections following the failure to complete a
+diversion program described in ORS 430.450 to 430.555 or a specialty court program in which  the
+offender was not on probation shall  receive credit for the time served in jail after arrest and before
+commencement of the program and for the time served in jail  as a sanction for violating the terms
+of the program, unless the sentencing judge orders otherwise.
+(3) Notwithstanding  the provisions of ORS 137.320 (4), an offender who has been ordered con-
+fined as part of a  probationary sentence for a felony committed on or after July 18, 1995, shall re-
+ceive credit for  the time served in jail after arrest and before commencement of the term unless the
+sentencing judge orders otherwise.
+(4) As used in this section, “specialty court” has the meaning given that term in ORS 137.680.
+SECTION 14.
+(1) Jurisdiction is conferred upon the Supreme Court to determine whether
+chapter 673, Oregon Laws 2017, violates  any provision of the Oregon Constitution, for the
+following appeals:
+(a) In a civil action, any appeal in which the notice of appeal  was filed after January 1,
+2018, and before April 1, 2018; or
+(b) In an appeal by a criminal defendant, any appeal in which:
+(A) The only assignment of error relates to the constitutionality  of a section of chapter
+673, Oregon Laws 2017;
+(B) A notice of appeal was filed after January 1, 2018, and before April 1, 2018; and
+(C) The defendant requests in writing, no later than April 13, 2018, that the  appeal be
+decided by the Supreme Court.
+(2) The Supreme Court shall,  to the extent practicable, expedite its disposition of appeals
+under subsection (1)(a) of this section as provided in the rules of appellate procedure.
+SECTION 15.
+ If House  Bill 4145 becomes law, ORS 166.412, as amended by section 4, chapter
+, Oregon Laws 2018 (Enrolled House Bill 4145), is amended to read:
+Enrolled Senate Bill 1543 (SB 1543-B) Page 16
+166.412. (1) As used in this section:
+(a) “Antique firearm” has the meaning given that term in 18 U.S.C. 921;
+(b) “Department” means the Department of State Police;
+(c) “Firearm” has the meaning given that term in ORS 166.210, except that  it does not include
+an antique firearm;
+(d) “Firearms transaction record” means the firearms transaction record required by 18  U.S.C.
+921 to 929;
+(e) “Firearms transaction thumbprint form” means a form provided by the department under
+subsection (11) of this section;
+(f) “Gun dealer” means a person engaged in the business,  as defined in 18 U.S.C. 921, of selling,
+leasing or otherwise transferring a firearm,  whether the person is a retail dealer, pawnbroker or
+otherwise; and
+(g) “Purchaser” means a person who  buys, leases or otherwise receives a firearm from a gun
+dealer.
+(2) Except as provided in subsections (3)(c)  and (12) of this section, a gun dealer shall comply
+with the following before a firearm is delivered to a purchaser:
+(a) The purchaser shall present to the gun  dealer current identification meeting the require-
+ments of subsection (4) of this section.
+(b) The  gun dealer shall complete the firearms transaction record and obtain the signature of
+the purchaser on the record.
+(c) The gun dealer shall obtain the thumbprints of the purchaser on  the firearms transaction
+thumbprint form and attach the form to the gun dealer’s copy of the firearms transaction record to
+be filed with that copy.
+(d) The gun dealer shall request by telephone that the department conduct a  criminal history
+record check on the purchaser and shall provide the following information to the department:
+(A) The federal firearms license number of the gun dealer;
+(B) The business name of the gun dealer;
+(C) The place of transfer;
+(D) The name of the person making the transfer;
+(E) The make, model, caliber and manufacturer’s number of the firearm being transferred;
+(F) The name and date of birth of the purchaser;
+(G) The Social Security number of the  purchaser if the purchaser voluntarily provides this
+number to the gun dealer; and
+(H) The type, issuer and identification number of the identification presented by the purchaser.
+(e) The gun dealer shall receive  a unique approval number for the transfer from the department
+and record the approval number on the firearms  transaction record and on the firearms transaction
+thumbprint form.
+(f) The gun dealer  may destroy the firearms transaction thumbprint form five years after the
+completion of the firearms transaction thumbprint form.
+(3)(a) Upon receipt of a request of the gun dealer for  a criminal history record check, the de-
+partment shall immediately, during the gun dealer’s telephone call or by return call:
+(A) Determine, from criminal records and other information  available to it, whether the pur-
+chaser is disqualified under ORS 166.470 from completing the purchase; and
+(B) Notify the gun  dealer when a purchaser is disqualified from completing the transfer or pro-
+vide the gun dealer with a unique approval number indicating  that the purchaser is qualified to
+complete the transfer.
+(b) If the department is unable to determine if the purchaser  is qualified or disqualified from
+completing the transfer within 30 minutes, the department  shall notify the gun dealer and provide
+the gun dealer with an estimate of the time when the department will provide the  requested infor-
+mation.
+(c) If the department fails to provide a unique approval number  to a gun dealer or to notify the
+gun dealer that the purchaser is disqualified under  paragraph (a) of this subsection before the close
+Enrolled Senate Bill 1543 (SB 1543-B) Page 17
+of the gun dealer’s next business day following the request by the gun dealer  for a criminal history
+record check, the gun dealer may deliver the firearm to the purchaser.
+(4)(a) Identification  required of the purchaser under subsection (2) of this section shall include
+one piece  of current identification bearing a photograph and the date of birth of the purchaser that:
+(A) Is issued  under the authority of the United States Government, a state, a political subdivi-
+sion of a state, a foreign  government, a political subdivision of a foreign government, an interna-
+tional governmental organization or an international quasi-governmental organization; and
+(B) Is intended to be used for identification of an individual  or is commonly accepted for the
+purpose of identification of an individual.
+(b) If the identification presented by the purchaser under paragraph (a)  of this subsection does
+not include the current address of the purchaser, the purchaser shall present a second piece  of
+current identification that contains  the current address of the purchaser. The Superintendent of
+State Police may specify by rule  the type of identification that may be presented under this para-
+graph.
+(c) The department  may require that the gun dealer verify the identification of the purchaser
+if that identity is in question by sending the thumbprints of the purchaser to the department.
+(5) The department shall establish a telephone number that shall be operational  seven days a
+week between the hours of 8 a.m. and 10 p.m. for the purpose of responding to inquiries from gun
+dealers for a criminal history record check under this section.
+(6) No public employee, official  or agency shall be held criminally or civilly liable for performing
+the investigations required by this section provided  the employee, official or agency acts in good
+faith and without malice.
+(7)(a) The department may retain  a record of the information obtained during a request for a
+criminal history record check for no more than five years.
+(b) The record of the information obtained during a request for a criminal  history record check
+by a gun dealer is exempt from disclosure under public records law.
+(c) If the department determines that a purchaser is prohibited from  possessing a firearm under
+ORS 166.250 (1)(c), the  department shall report the attempted transfer, the purchaser’s name and any
+other personally identifiable information to all federal,  state and local law enforcement agencies and
+district attorneys that have jurisdiction over the  location or locations where the attempted transfer
+was made and where the purchaser resides.
+(d) If the department determines that, based on the  judgment of conviction, the purchaser is
+prohibited from possessing a firearm as a condition of  probation or that the purchaser is currently
+on post-prison supervision or parole, the  department shall report the attempted transfer to the
+purchaser’s supervising officer and the district attorney of the county in  which the conviction oc-
+curred.
+(e) If the department determines that the purchaser is prohibited from possessing a firearm  due
+to a court order described in ORS 166.255 (1)(a), the department  shall report the attempted transfer
+to the court that issued the order.
+(f) If the  department determines that the purchaser is under the jurisdiction of the Psychiatric
+Security Review Board, the department shall report the attempted transfer to the board.
+(g) Reports required  by paragraphs (c) to (f) of this subsection shall be made within 24 hours
+after the determination is made, unless a  report would compromise an ongoing investigation, in
+which case the report may be delayed as long as necessary to avoid  compromising the investigation.
+(h) On  or before January 31 of each year, a law enforcement agency or a prosecuting attorney’s
+office that received a report pursuant to paragraph (c) of this subsection during the previous  cal-
+endar year shall inform the department of [ the] any  action that was taken concerning [ each at-
+tempted transfer ] the report  and the outcome of the action.
+(i) The department shall annually publish a written report, based on any  information received
+under paragraph (h) of this subsection, detailing the following information for the previous year:
+(A) The number of purchasers whom  the department determined were prohibited from possessing
+a firearm under ORS 166.250 (1)(c), arranged by category of prohibition;
+Enrolled Senate Bill 1543 (SB 1543-B) Page 18
+(B) The number of reports made pursuant to paragraph (c) of this subsection;
+(C) The number of investigations arising from the  reports made pursuant to paragraph (c) of this
+subsection, the number of investigations concluded and  the number of investigations referred for
+prosecution, all arranged by category of prohibition; and
+(D) The number of criminal charges arising from the reports made pursuant to paragraph (c)  of
+this subsection and the disposition of the charges, both arranged by category of prohibition.
+(8) A law enforcement agency may inspect the records of a gun dealer relating  to transfers of
+firearms with the consent of a gun dealer in the  course of a reasonable inquiry during a criminal
+investigation or under the authority of a properly authorized subpoena or search warrant.
+(9) When a firearm is delivered, it shall be unloaded.
+(10) In accordance with applicable provisions of  ORS chapter 183, the Superintendent of State
+Police may adopt rules necessary for:
+(a) The design of the firearms transaction thumbprint form;
+(b) The maintenance of a procedure  to correct errors in the criminal records of the department;
+(c) The provision of a security system to identify gun  dealers that request a criminal history
+record check under subsection (2) of this section; and
+(d) The creation and maintenance of a database of the business hours of gun dealers.
+(11) The department shall publish the  firearms transaction thumbprint form and shall furnish the
+form to gun dealers on application at cost.
+(12) This section  does not apply to transactions between persons licensed as dealers under 18
+U.S.C. 923.
+(13)(a) If requested by a transferor who is not a gun dealer, a  gun dealer may request a criminal
+background check pursuant to ORS 166.435 or  166.438 and may charge a reasonable fee for provid-
+ing the service.
+(b) A gun dealer that  requests a criminal background check under this subsection is immune
+from civil  liability for any use of the firearm by the recipient or transferee, provided that the gun
+dealer requests the criminal background check as described in this section.
+SECTION 16.
+ If House Bill 4145 becomes law, ORS 166.436, as amended by  section 5, chapter
+, Oregon Laws 2018 (Enrolled House Bill 4145), is amended to read:
+166.436. (1) The  Department of State Police shall make the telephone number established under
+ORS 166.412 (5) available  for requests for criminal background checks under this section from per-
+sons who are not gun dealers and who are transferring firearms at gun shows.
+(2) Prior to transferring a firearm  at a gun show, a transferor who is not a gun dealer may re-
+quest by telephone that  the department conduct a criminal background check on the recipient and
+shall provide the following information to the department:
+(a) The name, address and telephone number of the transferor;
+(b) The make, model, caliber and manufacturer’s number of the firearm being transferred;
+(c) The name, date of birth, race, sex and address of the recipient;
+(d) The Social  Security number of the recipient if the recipient voluntarily provides that number;
+(e) The address of the place where the transfer is occurring; and
+(f) The type, issuer and  identification number of a current piece of identification bearing a re-
+cent photograph of the recipient presented by the recipient.  The identification presented by the re-
+cipient must meet the requirements of ORS 166.412 (4)(a).
+(3)(a) Upon receipt of a request for a criminal background check under  this section, the de-
+partment shall immediately, during the telephone call or by return call:
+(A) Determine from  criminal records and other information available to it whether the recipient
+is disqualified under ORS 166.470 from completing  the transfer or is otherwise prohibited by state
+or federal law from possessing a firearm; and
+(B) Notify the transferor when  a recipient is disqualified from completing the transfer or provide
+the transferor with a unique approval number indicating  that the recipient is qualified to complete
+the transfer. The unique approval number is a permit valid for  24 hours for the requested transfer.
+Enrolled Senate Bill 1543 (SB 1543-B) Page 19
+If the firearm is not transferred from the transferor to the recipient  within 24 hours after receipt
+of the unique approval number, a new request must be made by the transferor.
+(b) If the department is unable to determine whether the recipient is qualified  for or disqualified
+from completing the transfer within  30 minutes of receiving the request, the department shall notify
+the transferor and provide the transferor with an estimate of the time when the  department will
+provide the requested information.
+(4) A public employee or public  agency incurs no criminal or civil liability for performing the
+criminal background checks required by this section, provided the employee or agency  acts in good
+faith and without malice.
+(5)(a) The department may retain  a record of the information obtained during a request for a
+criminal background check under this section for the period of time provided in ORS 166.412 (7).
+(b) The record of the information  obtained during a request for a criminal background check
+under this section is exempt from disclosure under public records law.
+(c) If the department determines that a recipient is prohibited from possessing  a firearm under
+ORS 166.250 (1)(c), the department  shall report the attempted transfer, the recipient’s name and any
+other personally identifiable information to all federal,  state and local law enforcement agencies and
+district attorneys that have jurisdiction over the  location or locations where the attempted transfer
+was made and where the recipient resides.
+(d) If the department determines that, based on  the judgment of conviction, the recipient is
+prohibited from possessing a firearm as a condition of  probation or that the recipient is currently
+on post-prison supervision or parole, the  department shall report the attempted transfer to the
+recipient’s supervising officer and the district attorney of the county in which  the conviction oc-
+curred.
+(e) If the department determines that the recipient is prohibited from possessing a firearm due
+to a court order described in ORS 166.255 (1)(a), the department  shall report the attempted transfer
+to the court that issued the order.
+(f) If the department determines that the recipient is under the jurisdiction of the  Psychiatric
+Security Review Board, the department shall report the attempted transfer to the board.
+(g) Reports required by paragraphs (c) to (f) of this subsection shall be made within  24 hours
+after the determination is made, unless a report  would compromise an ongoing investigation, in
+which case the report may be delayed as long as necessary to avoid  compromising the investigation.
+(h) On  or before January 31 of each year, a law enforcement agency or a prosecuting attorney’s
+office  that  received a report pursuant to paragraph (c) of this subsection during the previous cal-
+endar year shall inform the department of [ the] any  action that was taken concerning [ each at-
+tempted transfer ] the report  and the outcome of the action.
+(i) The department  shall annually publish a written report, based on any information received
+under paragraph (h) of this subsection, detailing the following information for the previous year:
+(A) The number of recipients whom the department determined  were prohibited from possessing
+a firearm under ORS 166.250 (1)(c), arranged by category of prohibition;
+(B) The number of reports made pursuant to paragraph (c) of this subsection;
+(C) The number of investigations arising from the  reports made pursuant to paragraph (c) of this
+subsection, the number of investigations concluded and  the number of investigations referred for
+prosecution, all arranged by category of prohibition; and
+(D) The number of criminal charges arising from the reports made pursuant to paragraph (c)  of
+this subsection and the disposition of the charges, both arranged by category of prohibition.
+(6) The  recipient of the firearm must be present when the transferor requests a criminal back-
+ground check under this section.
+(7)(a) Except as otherwise provided in paragraph (b) of this subsection, a transferor who receives
+notification under this  section that the recipient is qualified to complete the transfer of a firearm,
+has the recipient fill out the form required by ORS 166.438 (1)(a) and retains the  form as required
+by ORS 166.438 (2) is immune from civil liability for any  use of the firearm from the time of the
+Enrolled Senate Bill 1543 (SB 1543-B) Page 20
+transfer unless the transferor knows,  or reasonably should know, that the recipient is likely to
+commit an unlawful act involving the firearm.
+(b) The immunity provided by paragraph (a) of this subsection does not apply:
+(A) If the transferor knows, or reasonably should know, that the recipient of  the firearm intends
+to deliver  the firearm to a third person who the transferor knows, or reasonably should know, may
+not lawfully possess the firearm; or
+(B) In any product liability civil action under ORS 30.900 to 30.920.
+SECTION 17.
+Section 14 of this 2018 Act is repealed on July 1, 2023.
+SECTION 18. (1) The amendments to ORS 423.105 by section 8 of this  2018 Act become
+operative on June 30, 2018.
+(2) The  amendments to ORS 166.412 and 166.436 by sections 15 and 16 of this 2018 Act
+become operative on January 1, 2019.
+SECTION 19. (1) The amendments to ORS 137.540, 162.375 and 837.365 by sections 6, 9  and
+10 of this 2018 Act apply to offenses committed  on or after the effective date of this 2018 Act.
+(2) The amendments to ORS 137.372 by section 13 of this 2018 Act apply to sentences
+imposed on or after the effective date of this 2018 Act.
+SECTION 20. This 2018 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2018 Act takes effect
+on its passage.
+Passed by Senate February 21, 2018
+Repassed by Senate March 3, 2018
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Peter Courtney, President of Senate
+Passed by House March 3, 2018
+..................................................................................
+Tina Kotek, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2018
+Approved:
+........................M.,........................................................., 2018
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2018
+..................................................................................
+Dennis Richardson, Secretary of State
+Enrolled Senate Bill 1543 (SB 1543-B) Page 21

@@ -1,0 +1,244 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Senate Bill 823
+Sponsored by COMMITTEE ON JUDICIARY AND BALLOT MEASURE 110 IMPLEMENTATION
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Specifies procedures for providing notice  to defendant in charging instrument and at
+arraignment when  conviction would result in firearm prohibition. Specifies procedures for proving
+nature of relationship between defendant and alleged victim for certain crimes. Directs court to
+make determination concerning relationship and enter  order prohibiting defendant from possessing
+firearms. Directs  court to notify Department of State Police and county sheriff concerning prohibi-
+tion order for entry into databases. Appropriates  moneys to department to fund entry of order into
+Law Enforcement Data System.
+Requires law enforcement agency to directly notify restraining order petitioner,  instead of De-
+partment of Justice, when respondent requests return of firearm or ammunition.
+A BILL FOR AN ACT
+Relating to firearm notifications;  creating new provisions; amending ORS 166.257; and repealing ORS
+181A.287.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Upon charging a defendant with an  offense described in ORS 166.255 (1)(b),
+the district attorney shall allege in the charging instrument one of the following relation-
+ships existing between the defendant and the person alleged to  be the victim of the offense,
+at the time of the offense:
+(1) The defendant is the current or former spouse of the victim;
+(2) The defendant is the parent or guardian of the victim;
+(3) The defendant shares a minor child in common with the victim;
+(4) The defendant is cohabiting with or has cohabited with the victim;
+(5) The defendant and the victim are adults related by blood or marriage; or
+(6) The defendant and the victim have been involved in a sexually intimate relationship.
+SECTION 2.
+(1)(a) When a defendant is charged with  an offense described in ORS 166.255
+(1)(b), the district  attorney shall, unless waived by the defendant or for good cause shown,
+at arraignment or no later than 45  days prior to trial or entry of a guilty or no contest plea,
+serve on the defendant  and file with the court a notice stating that, due to the nature of the
+relationship between the  defendant and the alleged victim, the defendant will be prohibited
+from possessing firearms and ammunition if convicted of the offense. The notice must spec-
+ify a type of relationship listed in section 1 of this 2021 Act.
+(b) When a  defendant is charged with stalking under ORS 163.732, the district attorney
+shall, unless waived by the defendant or for good cause shown, at arraignment or no later
+than 45 days prior to trial or entry of a guilty or no contest plea, serve on the defendant  and
+file with the court a notice stating that, due to the nature of the offense, the defendant  will
+be prohibited from possessing firearms and ammunition if convicted of the offense.
+(2) The Department of Justice, in consultation with the State  Court Administrator, shall
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3358
+SB 823
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+develop a form to be used to provide a notice described in subsection (1)  of this section. The
+form must:
+(a) Allow the district attorney, if applicable,  to specify the relationship between the de-
+fendant and the alleged victim, and  whether the relationship between the defendant and the
+alleged victim would cause the defendant to be prohibited from possessing firearms  and am-
+munition under Oregon law or under both Oregon and federal law; and
+(b) Advise  the defendant that the failure to allege any specified relationship between the
+defendant and the victim, or the absence of a court determination or order under section 3
+of this 2021 Act, does not affect the lawfulness of the defendant’s possession of firearms  or
+ammunition under ORS 166.250 or 166.255, other Oregon law or federal law.
+SECTION 3.
+(1) If  a defendant has been charged with an offense described in ORS 166.255
+(1)(b) on a charging  instrument alleging that the relationship existing between the defendant
+and the person  alleged to be the victim of the offense, at the time of the offense, is of a type
+listed in section 1 of this 2021 Act, the specified relationship may be established as follows:
+(a) At any time prior to  entry of a plea of guilty or no contest, the defendant may stip-
+ulate, orally on the record or in writing, to the nature of  the relationship. Upon the stipu-
+lation, the court shall find that the relationship has been established  and shall proceed under
+subsection (2) of this section.
+(b) If the defendant enters a plea of guilty or no contest to the  offense described in ORS
+166.255 (1)(b), but does not stipulate or admit to the nature of the  relationship between the
+defendant and the victim, the district attorney has the burden of proving the nature of the
+relationship beyond a reasonable doubt. If the  court finds that the burden of proof has been
+met, the court shall proceed under subsection (2) of this section.
+(c) If the defendant proceeds to trial on the offense described  in ORS 166.255 (1)(b), the
+district attorney has the burden  of proving the nature of the relationship beyond a reason-
+able doubt. The fact finder shall return a special verdict of “yes” or “no”  on the issue of
+whether the nature of the  relationship between the defendant and victim is as alleged. If the
+fact finder returns a verdict of “yes,” the court shall proceed under  subsection (2) of this
+section.
+(2) If the nature of the  relationship between the defendant and the victim has been es-
+tablished under  subsection (1) of this section, upon conviction of the offense described in
+ORS 166.255 (1)(b), the court shall:
+(a) Make a written determination concerning the nature of the relationship;
+(b) Enter an order prohibiting the defendant from possessing firearms and  ammunition;
+and
+(c) Inform the defendant that the Department  of State Police and the sheriff will be no-
+tified concerning the order for purposes of entry into state and federal databases.
+(3) Upon conviction of stalking under ORS 163.732, the court shall:
+(a) Enter an order prohibiting the defendant from possessing firearms and  ammunition;
+and
+(b) Inform the defendant that the  Department of State Police and the sheriff will be no-
+tified concerning the order for purposes of entry into state and federal databases.
+(4)(a) The court shall notify the Department of State Police and the county sheriff when
+the court enters an order described in subsection (2) or (3) of this section.
+(b) Upon receipt of the notification described in paragraph (a) of this subsection:
+[2]
+SB 823
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+(A) The Department of State Police shall enter the information into any appropriate state
+or national databases; and
+(B) The sheriff shall enter the information into any appropriate state or national data-
+bases.
+(5) The State Court Administrator shall develop a form to be used for the determination
+and order described in subsection (2) of this section and the order described in subsection  (3)
+of this section. The form must allow the court to designate  the crime of conviction, specify
+the relationship between the defendant and the victim,  if applicable, and specify whether the
+conviction or  relationship causes the defendant to be prohibited from possessing firearms
+and ammunition under Oregon law or under both Oregon and federal law.
+(6) The absence of a  court determination or order under this section does not affect the
+lawfulness of the defendant’s  possession of firearms or ammunition under ORS 166.250 or
+166.255, other Oregon law or federal law.
+SECTION 4.
+The Department of State Police, when entering information received under
+section 3 of  this 2021 Act into a state or national database, shall ensure, and shall develop
+a process if  necessary to ensure, that the information specifies whether the defendant is
+prohibited from possessing firearms and ammunition under Oregon law or under both Oregon
+and federal law.
+SECTION 5.
+ ORS 166.257 is amended to read:
+166.257. (1) Upon receiving a request to return a  firearm or ammunition relinquished to a law
+enforcement agency pursuant to ORS 166.256, the law enforcement agency shall:
+(a) Notify [ the Department of Justice of the return request for the purposes  of notifying ] the
+petitioner of the order  of the return request ; and
+(b) Hold the firearm or ammunition for 72 hours after receiving the request.
+(2) Prior to returning the firearm or ammunition, the law enforcement agency shall:
+(a) Confirm that the person to whom the  law enforcement agency will return the firearm or
+ammunition is the lawful owner of the firearm or ammunition, or a person with a possessory right
+to the firearm or ammunition; and
+(b) Perform a criminal background  check as defined in ORS 166.432 to confirm that the person
+is not prohibited from possessing a firearm or ammunition under state or federal law.
+SECTION 6.
+ORS 181A.287 is repealed.
+SECTION 7. In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Department of State Police, for the  biennium beginning July 1, 2021, out of the
+General Fund, the amount of $115,000, to fund the Law Enforcement Data System for the
+purposes of implementing sections 1 to 4 of this 2021 Act.
+[3]

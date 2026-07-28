@@ -72,6 +72,32 @@ MEASURE_SELECT = [
 DOCUMENT_SELECT = ["SessionKey", "MeasurePrefix", "MeasureNumber",
                    "VersionDescription", "DocumentUrl", "ModifiedDate"]
 
+# --- appropriations-only scope -------------------------------------------------------
+#
+# Matched against CatchLine + RelatingTo + MeasureSummary, all of which arrive in the
+# metadata page BEFORE any PDF is fetched — so a filtered session costs one metadata call
+# and downloads bill text only for what it keeps.
+#
+# WHY THIS SCOPE EXISTS. Mirroring all 15 sessions that funded FY2019-FY2025 means 11,958
+# measures and takes this repo from ~500 MB to ~2.6 GB, which also lands in the MCP image
+# (the Dockerfile COPYs the whole repo). Appropriation-shaped measures are ~6% of a
+# session, and they are the ones oregon-budget extracts line items from. Scope decided
+# with the maintainer, 2026-07-28.
+#
+# DELIBERATELY BROAD. "moneys" alone catches a great deal, and that is the intended
+# direction: a false positive costs one PDF, while a false negative silently drops an
+# appropriation from the budget corpus's reach. Precision is the extractor's job — it
+# already reports "no dollar amounts found" for a bill that carries none.
+APPROPRIATION_RE = re.compile(
+    r"appropriat|moneys|expenditure limitation|budget|lottery bonds|"
+    r"revenue bonds|general fund|other funds|federal funds", re.I)
+
+
+def is_appropriation_shaped(m: dict) -> bool:
+    blob = " ".join(str(m.get(k) or "") for k in
+                    ("CatchLine", "RelatingTo", "RelatingToFull", "MeasureSummary"))
+    return bool(APPROPRIATION_RE.search(blob))
+
 # §2.1b's recommended version policy: what was proposed and what became law.
 WANTED_VERSIONS = ("Introduced", "Enrolled")
 
@@ -462,7 +488,8 @@ def build_body(m: dict, session: str, session_name: str, doc_id: str,
 # Per-session ingest
 # --------------------------------------------------------------------------
 
-def ingest_session(session: str, limit: int | None, concurrency: int, catalog: dict):
+def ingest_session(session: str, limit: int | None, concurrency: int, catalog: dict,
+                   appropriations_only: bool = False):
     print(f"=== {session} ===")
     session_name = fetch_session_name(session)
 
@@ -491,6 +518,16 @@ def ingest_session(session: str, limit: int | None, concurrency: int, catalog: d
         by_measure.setdefault(key, {})[d["VersionDescription"]] = d["DocumentUrl"]
 
     measures = sorted(measures, key=lambda m: (m["MeasurePrefix"], m["MeasureNumber"]))
+
+    # Filter BEFORE the download phase so a scoped run costs one metadata call and fetches
+    # bill text only for what it keeps. The full metadata snapshot written above is
+    # deliberately unfiltered — it remains the complete audit trail for the session even
+    # when only a subset becomes documents.
+    n_before = len(measures)
+    if appropriations_only:
+        measures = [m for m in measures if is_appropriation_shaped(m)]
+        print(f"  appropriations-only: {len(measures)} of {n_before} measures match")
+
     scope = measures[:limit] if limit else measures
 
     out_dir = MEASURES_DIR / session
@@ -621,6 +658,10 @@ def main():
                     help="only process the first N measures (by prefix,number) "
                          "this session -- for proving the pipeline, NOT for full runs "
                          "(a full session is ~1.7h at concurrency 4; see PHASE5-MCP-SPEC.md §7)")
+    ap.add_argument("--appropriations-only", action="store_true",
+                    help="mirror only appropriation-shaped measures (~6%% of a session). "
+                         "Filters on metadata before downloading any bill text, and "
+                         "records scope: appropriations-only in the catalog and index.")
     ap.add_argument("--concurrency", type=int, default=MAX_CONCURRENCY,
                     help=f"PDF-download concurrency, hard-capped at {MAX_CONCURRENCY}")
     args = ap.parse_args()
@@ -633,7 +674,20 @@ def main():
 
     totals = {}
     for session in args.sessions:
-        totals[session] = ingest_session(session, args.limit, args.concurrency, catalog)
+        totals[session] = ingest_session(session, args.limit, args.concurrency, catalog,
+                                         args.appropriations_only)
+        # A partially-ingested session MUST say it is partial. Without this the catalog
+        # and index report a session as mirrored while holding 6% of it, and any reader —
+        # human or agent — would reasonably read absence as "no such measure".
+        catalog.setdefault(session, {})["scope"] = (
+            "appropriations-only" if args.appropriations_only else "complete")
+        if args.appropriations_only:
+            catalog[session]["scope_note"] = (
+                "Only measures whose catch line, relating-to or summary matched an "
+                "appropriation pattern were mirrored. The session's other measures exist "
+                "upstream and are NOT absent from the legislature — they are absent from "
+                "this mirror. The unfiltered metadata snapshot for the session is still "
+                "committed under _meta/snapshots/.")
         CATALOG_PATH.write_text(yaml.safe_dump(catalog, sort_keys=False, allow_unicode=True, width=110))
 
     # regenerate measures/_index.md (mirrors ingest_ors.py's statutes/_index.md)
@@ -641,13 +695,18 @@ def main():
             "Mirrored Oregon Legislature measure metadata, one file per measure, plus",
             "Introduced/Enrolled bill text where a document is on file (§2.1b).",
             "**Non-authoritative** — this is a point-in-time mirror, never the live status.", "",
-            "| Session | Session name | Measures (odata.count) | Documents (odata.count) | Written this run |",
-            "|---|---|---|---|---|"]
+            "`Scope` says whether a session is mirrored **complete** or filtered to",
+            "**appropriations-only**. A filtered session holds roughly 6% of its measures:",
+            "what is missing exists upstream and is absent from this mirror, not from the",
+            "legislature. `Measures (odata.count)` is always the session's true size.", "",
+            "| Session | Session name | Measures (odata.count) | Documents (odata.count) | Mirrored | Scope |",
+            "|---|---|---|---|---|---|"]
     for session, cat in sorted(catalog.items()):
         lines.append(f"| {session} | {cat.get('session_name','')} | "
                      f"{cat.get('measures_total_odata_count','?')} | "
                      f"{cat.get('measure_documents_total_odata_count','?')} | "
-                     f"{len(cat.get('measures', {}))} |")
+                     f"{len(cat.get('measures', {}))} | "
+                     f"{cat.get('scope', 'complete')} |")
     lines += ["", "Per-measure status: [`_meta/catalog/measures.yml`](../_meta/catalog/measures.yml).", ""]
     MEASURES_DIR.mkdir(parents=True, exist_ok=True)
     (MEASURES_DIR / "_index.md").write_text("\n".join(lines))

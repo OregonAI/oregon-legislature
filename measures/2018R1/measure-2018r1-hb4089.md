@@ -1,0 +1,868 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2018r1-hb4089
+title: 'HB 4089 (2018R1): Gives hemp research program currently operated by State Department of Agriculture
+  name of Oregon Industrial Hemp Agricultural Pilot Program.'
+doc_type: dataset_doc
+citation: 2018 Regular Session House Bill 4089
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4089/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 923d4ddf0ba36ed686963c46861f93430f4359f831249bb7abbd3bdf36fd6044
+snapshot_id: measure-2018r1-hb4089-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 475B.010
+  - ORS 475B.015
+  - ORS 475B.025
+  - ORS 475B.030
+  - ORS 475B.033
+  - ORS 475B.035
+  - ORS 475B.040
+  - ORS 475B.045
+  - ORS 475B.050
+  - ORS 475B.055
+  - ORS 475B.060
+  - ORS 475B.063
+  - ORS 475B.065
+  - ORS 475B.068
+  - ORS 475B.070
+  - ORS 475B.085
+  - ORS 475B.090
+  - ORS 475B.100
+  - ORS 475B.105
+  - ORS 475B.115
+  - ORS 475B.119
+  - ORS 475B.136
+  - ORS 475B.139
+  - ORS 475B.144
+  - ORS 475B.146
+  - ORS 475B.154
+  - ORS 475B.158
+  - ORS 475B.163
+  - ORS 475B.173
+  - ORS 475B.177
+  - ORS 475B.206
+  - ORS 475B.211
+  - ORS 475B.216
+  - ORS 475B.224
+  - ORS 475B.232
+  - ORS 475B.236
+  - ORS 475B.241
+  - ORS 475B.246
+  - ORS 475B.256
+  - ORS 475B.261
+  - ORS 475B.266
+  - ORS 475B.276
+  - ORS 475B.281
+  - ORS 475B.286
+  - ORS 475B.296
+  - ORS 475B.301
+  - ORS 475B.311
+  - ORS 475B.337
+  - ORS 475B.341
+  - ORS 475B.349
+  - ORS 475B.461
+  - ORS 475B.474
+  - ORS 475B.479
+  - ORS 475B.486
+  - ORS 475B.491
+  - ORS 475B.501
+  - ORS 475B.506
+  - ORS 475B.514
+  - ORS 475B.518
+  - ORS 475B.521
+  - ORS 475B.523
+  - ORS 475B.526
+  - ORS 475B.529
+  - ORS 475B.555
+  - ORS 475B.560
+  - ORS 475B.565
+  - ORS 475B.785
+  - ORS 475B.810
+  - ORS 475B.831
+  - ORS 475B.858
+  - ORS 561.275
+  - ORS 561.605
+  - ORS 571.300
+  - ORS 571.305
+  - ORS 571.324
+  - ORS 571.330
+  - ORS 571.333
+  - ORS 571.336
+  - ORS 571.339
+  - ORS 571.348
+  - ORS 633.511
+  - ORS 633.680
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2018r1
+- hb
+session_key: 2018R1
+measure_prefix: HB
+measure_number: 4089
+prefix_meaning: House Bill
+catch_line: Gives hemp research program currently operated by State Department of Agriculture name of
+  Oregon Industrial Hemp Agricultural Pilot Program.
+minority_catch_line: null
+measure_summary: "\tGives hemp research program currently operated by State Department of Agriculture\
+  \ name of Oregon Industrial Hemp Agricultural Pilot Program. Authorizes actions by department to carry\
+  \ out program. \n\tSpecifies that agricultural hemp seed is agricultural seed or flower seed for purposes\
+  \ of statutes regulating labeling, testing, certifying or other aspects of seeds. Directs Director of\
+  \ Agriculture and Dean of College of Agricultural Sciences of Oregon State University to establish program\
+  \ for labeling and certification of agricultural hemp seed. \n\tProvides that accredited independent\
+  \ testing laboratory that has been approved by Oregon Health Authority or department may test industrial\
+  \ hemp and industrial hemp commodities and products produced or processed by grower, handler or agricultural\
+  \ hemp seed producer. Requires that industrial hemp intended for human consumption be entered into tracking\
+  \ system prior to laboratory testing and through delivery to licensed premises. \n\tModifies other provisions\
+  \ related to regulation of industrial hemp. Authorizes Oregon Liquor Control Commission actions regarding\
+  \ industrial hemp to enforce and ensure compliance with marijuana laws and provisions of industrial\
+  \ hemp laws that incorporate requirements, restrictions or other provisions of marijuana laws. \n\t\
+  Prohibits sale of industrial hemp containing more than 0.3 percent tetrahydrocannabinol to consumer\
+  \ by person other than licensed retailer. \n\tChanges description of limit on production and storage\
+  \ of homegrown cannabis plants. Prohibits production, processing or storage of homemade industrial hemp\
+  \ extracts. \n\tAllows department to adopt rule establishing higher average tetrahydrocannabinol concentration\
+  \ limit for industrial hemp if higher average concentration limit is established by federal law. Revises\
+  \ language regarding grower retention of agricultural hemp seed for producing industrial hemp. \n\t\
+  Establishes Industrial Hemp Fund. Appropriates fund moneys to department for purposes of implementing,\
+  \ administering and enforcing industrial hemp statutes. Directs certain moneys to fund. \n\tDeclares\
+  \ emergency, effective on passage."
+relating_to: Relating to industrial hemp; and declaring an emergency.
+relating_to_full: Relating to industrial hemp; and declaring an emergency.
+at_the_request_of: (at the request of Oregon Industrial Hemp Farmers Association (OIHFA))
+lc_number: 103
+measure_created_date: '2018-01-12T17:39:40'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 40371
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 475B.010
+  - ORS 475B.015
+  - ORS 475B.025
+  - ORS 475B.030
+  - ORS 475B.033
+  - ORS 475B.035
+  - ORS 475B.040
+  - ORS 475B.045
+  - ORS 475B.050
+  - ORS 475B.055
+  - ORS 475B.060
+  - ORS 475B.063
+  - ORS 475B.065
+  - ORS 475B.068
+  - ORS 475B.070
+  - ORS 475B.085
+  - ORS 475B.090
+  - ORS 475B.100
+  - ORS 475B.105
+  - ORS 475B.115
+  - ORS 475B.119
+  - ORS 475B.136
+  - ORS 475B.139
+  - ORS 475B.144
+  - ORS 475B.146
+  - ORS 475B.154
+  - ORS 475B.158
+  - ORS 475B.163
+  - ORS 475B.173
+  - ORS 475B.177
+  - ORS 475B.206
+  - ORS 475B.211
+  - ORS 475B.216
+  - ORS 475B.224
+  - ORS 475B.232
+  - ORS 475B.236
+  - ORS 475B.241
+  - ORS 475B.246
+  - ORS 475B.256
+  - ORS 475B.261
+  - ORS 475B.266
+  - ORS 475B.276
+  - ORS 475B.281
+  - ORS 475B.286
+  - ORS 475B.296
+  - ORS 475B.301
+  - ORS 475B.311
+  - ORS 475B.337
+  - ORS 475B.341
+  - ORS 475B.349
+  - ORS 475B.461
+  - ORS 475B.474
+  - ORS 475B.479
+  - ORS 475B.486
+  - ORS 475B.491
+  - ORS 475B.501
+  - ORS 475B.506
+  - ORS 475B.514
+  - ORS 475B.518
+  - ORS 475B.521
+  - ORS 475B.523
+  - ORS 475B.526
+  - ORS 475B.529
+  - ORS 475B.555
+  - ORS 475B.560
+  - ORS 475B.565
+  - ORS 475B.785
+  - ORS 475B.810
+  - ORS 475B.831
+  - ORS 475B.858
+  - ORS 561.275
+  - ORS 561.605
+  - ORS 571.300
+  - ORS 571.305
+  - ORS 571.324
+  - ORS 571.330
+  - ORS 571.333
+  - ORS 571.336
+  - ORS 571.339
+  - ORS 571.348
+  - ORS 633.511
+  - ORS 633.680
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2018R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4089`.
+
+# HB 4089 — 2018 Regular Session (2018R1)
+
+## At a glance
+
+- **Measure:** House Bill 4089, 2018 Regular Session (2018R1)
+- **At the request of:** (at the request of Oregon Industrial Hemp Farmers Association (OIHFA))
+- **LC number:** 103
+- **Created:** 2018-01-12T17:39:40
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 40371 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4089/Enrolled>.
+
+## Summary
+
+**Catchline:** Gives hemp research program currently operated by State Department of Agriculture name of Oregon Industrial Hemp Agricultural Pilot Program.
+
+**Relating to:** Relating to industrial hemp; and declaring an emergency.
+
+Gives hemp research program currently operated by State Department of Agriculture name of Oregon Industrial Hemp Agricultural Pilot Program. Authorizes actions by department to carry out program. 
+ Specifies that agricultural hemp seed is agricultural seed or flower seed for purposes of statutes regulating labeling, testing, certifying or other aspects of seeds. Directs Director of Agriculture and Dean of College of Agricultural Sciences of Oregon State University to establish program for labeling and certification of agricultural hemp seed. 
+ Provides that accredited independent testing laboratory that has been approved by Oregon Health Authority or department may test industrial hemp and industrial hemp commodities and products produced or processed by grower, handler or agricultural hemp seed producer. Requires that industrial hemp intended for human consumption be entered into tracking system prior to laboratory testing and through delivery to licensed premises. 
+ Modifies other provisions related to regulation of industrial hemp. Authorizes Oregon Liquor Control Commission actions regarding industrial hemp to enforce and ensure compliance with marijuana laws and provisions of industrial hemp laws that incorporate requirements, restrictions or other provisions of marijuana laws. 
+ Prohibits sale of industrial hemp containing more than 0.3 percent tetrahydrocannabinol to consumer by person other than licensed retailer. 
+ Changes description of limit on production and storage of homegrown cannabis plants. Prohibits production, processing or storage of homemade industrial hemp extracts. 
+ Allows department to adopt rule establishing higher average tetrahydrocannabinol concentration limit for industrial hemp if higher average concentration limit is established by federal law. Revises language regarding grower retention of agricultural hemp seed for producing industrial hemp. 
+ Establishes Industrial Hemp Fund. Appropriates fund moneys to department for purposes of implementing, administering and enforcing industrial hemp statutes. Directs certain moneys to fund. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to industrial hemp; and declaring an emergency.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2018 Regular Session
+Enrolled
+House Bill 4089
+Sponsored by Representative WILSON, Senator PROZANSKI, Representative  MCLAIN; Represen-
+tatives BARRETO, ESQUIVEL, FAHEY, GOMBERG, HELFRICH,  HELM, LEWIS, MCKEOWN,
+OLSON, POWER, RESCHKE, SALINAS, SMITH DB,  SOLLMAN, SPRENGER, STARK,
+WHISNANT, WITT, Senators BAERTSCHIGER  JR, DEBOER, DEMBROW, FREDERICK,
+GIROD, HANSELL, JOHNSON, KRUSE, MANNING JR, OLSEN (at the request of  Oregon In-
+dustrial Hemp Farmers Association (OIHFA)) (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to  industrial hemp; creating new provisions; amending ORS 475B.301, 475B.311, 475B.337,
+475B.341, 475B.349, 475B.831, 571.300, 571.305,  571.330, 571.333, 571.339 and 571.348; repealing
+ORS 571.324; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+OREGON INDUSTRIAL HEMP AGRICULTURAL
+PILOT PROGRAM
+SECTION 1. Sections 2 and 3 of this 2018 Act are added to and made a part of ORS 571.300
+to 571.348.
+SECTION 2. ORS 571.300 to 571.348 shall be known and may be cited as the  Oregon In-
+dustrial Hemp Agricultural Pilot Program and Research Act.
+SECTION 3. The State Department of Agriculture shall administer  an Oregon Industrial
+Hemp Agricultural Pilot Program for the purpose of studying the growth,  cultivation and
+marketing of industrial hemp in this state. In carrying out the program, the department:
+(1) Shall administer ORS 571.300 to 571.348;
+(2) Shall adopt by rule any record  keeping and reporting requirements necessary to ad-
+minister the program;
+(3) May purchase, possess, seize or dispose of  industrial hemp products or commodities
+as the department deems necessary to enforce and ensure compliance with ORS  571.300 to
+571.348 or department rules relating to ORS 571.300 to 571.348; and
+(4) May exercise any other power  or perform any other function necessary to administer
+the program.
+SECTION 4.
+Section 3 of this 2018  Act is intended to name the State Department of Ag-
+riculture hemp research  program operating immediately prior to the effective date of this
+2018 Act the Oregon Industrial Hemp  Agricultural Pilot Program. The Oregon Industrial
+Hemp Agricultural Pilot Program is a continuation of the hemp research  program operating
+immediately prior to the effective date of this 2018 Act and  not a new program. Any refer-
+ences in any statutory or uncodified law or resolution of the Legislative Assembly, or in a
+rule, document, record or proceeding authorized by the  Legislative Assembly, to the hemp
+Enrolled House Bill 4089 (HB 4089-B) Page 1
+research program operated by  the department immediately prior to the effective date of this
+2018 Act are considered  to be references to the Oregon Industrial Hemp Agricultural Pilot
+Program.
+SECTION 5. Section 4 of this 2018 Act is repealed January 2, 2019.
+AGRICULTURAL HEMP SEED CERTIFICATE PROGRAM
+SECTION 6. Section 7 of  this 2018 Act is added to and made a part of ORS 571.300 to
+571.348.
+SECTION 7. (1) For purposes of ORS 633.511 to 633.750,  agricultural hemp seed is an ag-
+ricultural seed or a flower seed, as those terms are defined in ORS 633.511.
+(2) The Director of Agriculture, or the director’s agent, and the  Dean of the College of
+Agricultural Sciences of Oregon State University, or the dean’s  agent, shall establish a pro-
+gram for the labeling and certification of agricultural hemp seed. For purposes of the pro-
+gram:
+(a) The director and the dean shall perform their respective duties under ORS 633.511  to
+633.750 with respect to  agricultural hemp seed in the same manner that the director and
+dean perform their respective duties under ORS 633.511 to 633.750 with respect to  other ag-
+ricultural seed  or flower seed, including but not limited to those duties related to labeling,
+testing and certifying seeds; and
+(b) The director and the dean shall exercise their respective functions and powers under
+ORS 633.511 to 633.750 with respect to agricultural hemp seed in the same manner that the
+director and dean exercise their  respective functions and powers under ORS 633.511 to
+633.750 with respect to other agricultural seed or flower seed,  including but not limited to
+inspecting and sampling seeds and making rules and regulations under ORS 633.680.
+(3) Notwithstanding subsections (1) and (2) of this section, if  the director in consultation
+with the dean determines that a  specific provision of ORS 633.511 to 633.750, or a specific rule
+or regulation made  under ORS 633.511 to 633.750, that applies to other agricultural seed or
+flower seed is inadequate or not suitable for the regulation  of agricultural hemp seed, the
+director may by rule exempt agricultural hemp seed from the provision, rule or regulation
+and make rules providing more adequate or suitable regulation of agricultural hemp seed.
+(4)(a) The director and the dean shall  collaborate with growers registered under ORS
+571.305 in performing their respective duties and  exercising their respective functions and
+powers under ORS 633.511 to 633.750 with respect to agricultural hemp seed.
+(b) The director and the dean may collaborate with growers  registered under ORS 571.305
+and other stakeholders to develop a heritage agricultural hemp seed for this state.
+(5) The director and the dean  may collaborate with entities authorized to certify seeds
+under the laws of other states in performing their respective duties and exercising  their re-
+spective functions and powers under  ORS 633.511 to 633.750 with respect to agricultural hemp
+seed.
+(6) A  grower registered under ORS 571.305 is not required, for purposes related to grow-
+ing industrial hemp, to use an  agricultural hemp seed variety certified under the program
+described in this section.
+(7) The  State Department of Agriculture may establish by rule waivers to, or exemptions
+from, tests  that would otherwise be conducted to determine a crop’s average
+tetrahydrocannabinol concentration for crops planted  with agricultural hemp seed varieties
+certified pursuant to the program described in this section.
+INDUSTRIAL HEMP TESTING
+SECTION 8.
+Sections 9 and 10 of this 2018 Act are added to and  made a part of ORS
+571.300 to 571.348.
+Enrolled House Bill 4089 (HB 4089-B) Page 2
+SECTION 9. The State Department  of Agriculture may by rule or order establish a
+process providing for the remediation of a violation  of ORS 571.330 or 571.333 that is com-
+mitted by a grower or handler registered under ORS 571.305 and is not committed  inten-
+tionally.
+SECTION 10. The State Department of  Agriculture may charge growers and handlers
+registered under ORS  571.305 fees reasonably calculated by the department to pay the cost
+of sampling or testing industrial hemp or  industrial hemp commodities or products under
+ORS 571.330 and 571.333. Moneys from fees charged  under this section shall be deposited in
+the Industrial Hemp Fund established under section 30 of this 2018 Act.
+SECTION 11.  ORS 571.330 is amended to read:
+571.330. (1) For purposes  of this section, “consumption” means to ingest, inhale or topically ap-
+ply to the skin or hair.
+[(2)] (2)(a) A laboratory licensed by the Oregon  Liquor Control Commission under ORS 475B.560
+and accredited by the Oregon Health Authority  pursuant to ORS 475B.565 may test industrial hemp
+and industrial hemp commodities and products produced or processed by a grower, handler or  agri-
+cultural hemp seed producer registered under ORS 571.305.
+(b) An accredited independent testing laboratory that has been  approved by the authority
+or the State Department of Agriculture may  test industrial hemp and industrial hemp com-
+modities and products produced or processed by a grower, handler or agricultural hemp seed
+producer registered under ORS 571.305.
+(3) A [ handler registered under ORS  571.305] grower or handler  may not sell or transfer  an
+industrial hemp commodity or product  that is intended for human consumption unless the commodity
+or product  is tested by a laboratory described in subsection (2) of this section to ensure that the
+commodity or product meets the requirements adopted  by the Oregon Health Authority under ORS
+475B.555 (1)(a) and (b) and (2) for testing marijuana items.
+(4) For purposes of this section, the [ State Department of  Agriculture ] department  shall adopt
+rules:
+(a) Establishing protocols for the testing of industrial hemp commodities and products; and
+(b) Establishing  procedures for determining batch sizes and for sampling industrial hemp com-
+modities and products.
+(5) This section does not apply to:
+(a) Agricultural hemp seed;
+(b) Seeds of the plant genus Cannabis within the plant  family Cannabaceae that are in-
+capable of germination;
+(c) Products derived from seeds described in paragraph (b) of this subsection; or
+(d) Other parts of industrial hemp that the department identifies by rule as exempt.
+SECTION 12.
+ ORS 571.333 is amended to read:
+571.333. (1) The State Department of Agriculture may enter into an agreement with  the Oregon
+Health Authority for the purpose of developing  standards for investigating and testing an industrial
+hemp crop to  [ ensure that the crop contains an ] determine the  average tetrahydrocannabinol con-
+centration [ that does not exceed 0.3 percent on a dry weight basis ] of the crop .
+(2) In accordance  with standards developed under subsection (1) of this section, a laboratory
+[licensed by the Oregon Liquor Control Commission under ORS  475B.560 and accredited by the au-
+thority pursuant to ORS 475B.565 ] described in ORS 571.330 may test an  industrial hemp crop for
+the purpose  of determining the average tetrahydrocannabinol concentration of the crop. The labo-
+ratory must provide the  test results to the department in a form and manner prescribed by
+the department.
+[(3) A laboratory described in subsection (2) of this section must provide the test results to the de-
+partment in a form and manner prescribed by the department. ]
+INDUSTRIAL HEMP COMMODITIES OR PRODUCTS
+Enrolled House Bill 4089 (HB 4089-B) Page 3
+SECTION 13. Sections 14, 15 and 15a of this 2018 Act  are added to and made a part of
+ORS 571.300 to 571.348.
+SECTION 14. (1) The  Oregon Liquor Control Commission may purchase, possess, seize
+or dispose of industrial hemp products or commodities located on a  premises licensed under
+ORS 475B.070, 475B.090, 475B.100, 475B.105 or 475B.560 or other area under the control of the
+premises licensee as the commission deems necessary to enforce  and ensure compliance
+with:
+(a) ORS 475B.010 to 475B.545, 475B.550 to 475B.590 or 475B.600 to 475B.655 or rules adopted
+by the commission relating  to ORS 475B.010 to 475B.545, 475B.550 to 475B.590 or 475B.600 to
+475B.655; or
+(b) Any provision  in ORS 571.300 to 571.348 or in rules adopted by the commission or
+State Department of Agriculture under  ORS 571.300 to 571.348 that makes a requirement,
+restriction or other provision of ORS 475B.010 to 475B.545, 475B.550  to 475B.590 or 475B.600
+to 475B.655 applicable to industrial hemp.
+(2) If  the commission purchases, possesses, seizes or disposes of industrial hemp pro-
+ducts or commodities under this section to enforce or ensure  compliance with a provision
+of ORS 571.300 to  571.348 or rule adopted by the department under ORS 571.300 to 571.348 that
+makes a requirement, restriction or other provision of ORS 475B.010 to 475B.545,  475B.550
+to 475B.590 or 475B.600 to 475B.655 applicable to industrial hemp, the commission shall notify
+the department of the commission action as soon as practicable.
+SECTION 15.
+(1) As used in this section:
+(a) “Consumption” has the meaning given that term in ORS 571.330.
+(b) “Processor” means a person licensed under ORS 475B.090.
+(c) “Retailer” means a person licensed under ORS 475B.105.
+(d) “Wholesaler” means a person licensed under ORS 475B.100.
+(2) Except as provided in section 15a of this 2018 Act, a processor, retailer  or wholesaler
+may purchase, receive, transfer,  sell or transport industrial hemp, or an industrial hemp
+commodity or product that contains cannabinoids and is intended  for human consumption,
+only if:
+(a) The  processor, retailer or wholesaler received the hemp, commodity or product from
+a grower or handler registered under ORS 571.305 or a processor;
+(b) The grower, handler  or processor under paragraph (a) of this subsection is registered
+by the Oregon Liquor Control Commission as provided under ORS 571.336; and
+(c) The hemp, commodity or product meets the requirements for marijuana items under
+ORS 475B.010 to 475B.545, 475B.550 to 475B.590 and 475B.600  to 475B.655 and rules adopted by
+the commission.
+(3) A grower, handler or processor registered as described under ORS 571.336  (2)(a) shall
+enter hemp,  commodity or product that contains cannabinoids, is intended for human con-
+sumption and is intended for transfer, sale or transport to a processor, retailer or wholesaler
+licensed under ORS 475B.010 to 475B.545 into the tracking system described in ORS 475B.177
+before the hemp, commodity or product is transferred  to a laboratory described in ORS
+571.330 (2) for testing of a type described under  ORS 475B.555. The commission shall continue
+to track the hemp, commodity or product  entered into the system under this subsection
+when the hemp, commodity or product is transferred, sold  or transported to a premises li-
+censed under ORS 475B.010 to 475B.545, or to other areas under  the control of the premises
+licensee.
+(4) The State Department of  Agriculture shall adopt rules regarding the activities of
+growers and handlers under this section.
+(5) The commission shall adopt rules regarding the activities of processors, retailers,
+wholesalers and laboratories under this section.
+SECTION 15a.
+(1) As used in this section:
+(a) “Consumer” has the meaning given that term in ORS 475B.015.
+Enrolled House Bill 4089 (HB 4089-B) Page 4
+(b) “Retailer” means a person licensed under ORS 475B.105.
+(2) Industrial hemp products that contain more  than 0.3 percent tetrahydrocannabinol
+may not be sold to a consumer by a person other than a retailer.
+(3) The Oregon Liquor Control Commission shall adopt rules establishing  measures the
+commission deems necessary for ensuring compliance with this section.
+SECTION 16.
+ ORS 571.339 is amended to read:
+571.339. A person may not make a retail sale of industrial hemp commodities or products in this
+state unless the industrial hemp commodities or products and the  industrial hemp used to process
+the industrial hemp commodities or products meet the [ same or substantially the same ] requirements
+for processing industrial hemp commodities or products or growing industrial hemp set  forth in ORS
+571.300 to 571.348 and rules adopted under ORS 571.300 to 571.348. This  section does not apply to
+the retail sale  of industrial hemp commodities or products by a marijuana retailer, as defined in ORS
+475B.015, that holds a license issued under ORS 475B.105.
+NOTE: Sections 17 and  18 were deleted by amendment. Subsequent sections were not renum-
+bered.
+PERSONAL POSSESSION
+SECTION 19. Section 20 of this 2018 Act is added to  and made a part of ORS 571.300 to
+571.348.
+SECTION 20. (1) ORS 571.300 to 571.348 do not apply to the production or storage  of
+homegrown plants in the genus Cannabis within  the plant family Cannabaceae at a household
+by one  or more persons 21 years of age or older, if the total amount of homegrown plants
+at the household does not exceed four plants at any time.
+(2) As used in this section, “homegrown” and “household”  have the meanings given those
+terms in ORS 475B.015.
+SECTION 21.  ORS 475B.301 is amended to read:
+475B.301. ORS 475B.025, 475B.030, 475B.033, 475B.035,  475B.040, 475B.045, 475B.050, 475B.055,
+475B.060, 475B.063, 475B.065, 475B.068, 475B.070, 475B.085,  475B.090, 475B.100, 475B.105, 475B.115,
+475B.119, 475B.136, 475B.139, 475B.144, 475B.146,  475B.154, 475B.158, 475B.163, 475B.173, 475B.177,
+475B.206, 475B.211, 475B.216, 475B.224, 475B.232, 475B.236,  475B.241, 475B.246, 475B.256, 475B.261,
+475B.266, 475B.276, 475B.281, 475B.286, 475B.296,  475B.461, 475B.474, 475B.479, 475B.486, 475B.491,
+475B.501, 475B.506, 475B.514, 475B.518, 475B.521, 475B.523, 475B.526 and 475B.529 do not apply:
+(1) To the production or storage of homegrown [ marijuana] plants in the  genus Cannabis
+within the plant family Cannabaceae  that are otherwise subject to ORS 475B.010 to 475B.545
+at a household by one or more persons  21 years of age and older, if the total amount of homegrown
+[marijuana] plants at the household does not exceed four [ marijuana] plants at any time.
+(2) To the possession or  storage of usable marijuana items at a household by one or more per-
+sons 21 years of age or older, if the total  amount of usable marijuana at the household does not
+exceed eight ounces of usable marijuana at any time.
+(3) To the making, processing, possession or storage of cannabinoid products at a  household by
+one or more persons 21 years of age and older, if the total amount of cannabinoid products at  the
+household does not exceed 16 ounces in solid form at any time.
+(4) To the making, processing, possession or storage of cannabinoid products at a  household by
+one or more persons 21 years of age and older, if the total amount of cannabinoid products at  the
+household does not exceed 72 ounces in liquid form at any time.
+(5) To  the making, processing, possession or storage of cannabinoid concentrates at a household
+by one or more  persons 21 years of age or older, if the total amount of cannabinoid concentrates
+at the household does not exceed 16 ounces at any time.
+(6) To the possession of cannabinoid  extracts at a household by one or more persons 21 years
+of age  or older, if the cannabinoid extracts were purchased from a marijuana retailer that holds a
+license under ORS 475B.105, or transferred by a medical marijuana  dispensary registered by the
+Enrolled House Bill 4089 (HB 4089-B) Page 5
+Oregon Health Authority under ORS 475B.858, and the total amount of cannabinoid extracts  at the
+household does not exceed one ounce at any time.
+(7) To the delivery of not more than one ounce of usable marijuana at a time by  a person 21
+years of age or older to another person 21 years of age or older for noncommercial purposes.
+(8) To the delivery of not more than 16 ounces of  cannabinoid products in solid form at a time
+by a person 21 years  of age or older to another person 21 years of age or older for noncommercial
+purposes.
+(9) To the delivery of not more than 72 ounces of cannabinoid products  in liquid form at a time
+by a person 21 years of age or older to another person 21 years of age  or older for noncommercial
+purposes.
+(10) To the delivery of  not more than 16 ounces of cannabinoid concentrates at a time by a
+person 21 years of age or older to  another person 21 years of age or older for noncommercial pur-
+poses.
+SECTION 22.  ORS 475B.311 is amended to read:
+475B.311. (1) A  person other than a marijuana processor that holds a license issued under ORS
+475B.090 may not process cannabinoid extracts into a cannabinoid product.
+(2) A person may not produce, process or store homemade industrial hemp extracts.
+[(2)] (3) Violation of this section is a Class A misdemeanor.
+SECTION 23.  ORS 475B.337 is amended to read:
+475B.337. (1) Except for  licensees and licensee representatives acting in accordance with ORS
+475B.010 to 475B.545 and any rule adopted under ORS 475B.010 to 475B.545, it is unlawful for  any
+person 21 years of age or older to possess, knowingly or intentionally:
+(a) An amount  of [ marijuana] plants in the genus Cannabis within the plant family
+Cannabaceae in excess of the amount allowed under ORS 475B.301 (1).
+(b) More than one ounce of usable marijuana in a public place.
+(c) More than eight ounces of usable marijuana.
+(d) More than 16 ounces of cannabinoid products in solid form or cannabinoid concentrates.
+(e) More than 72 ounces of cannabinoid products in liquid form.
+(f) More than one ounce of cannabinoid extracts.
+(g) A  cannabinoid extract that was not purchased from a marijuana retailer that holds a license
+issued under ORS 475B.105.
+(2) Except as provided in subsection (3) of this section, unlawful  possession of a marijuana item
+is a Class A misdemeanor.
+(3) Unlawful possession of a marijuana item is:
+(a) A Class B violation, if the amount possessed  is not more than two times the applicable
+maximum amount specified in subsection (1)(a) to (f) of this section.
+(b) A Class B misdemeanor, if the amount possessed is more than two times, but not more  than
+four times, the applicable maximum amount specified in subsection (1)(a) to (f) of this section.
+(c) A Class C felony, if the amount possessed is:
+(A) More than 16 times the applicable maximum amount specified in subsection (1)(a), (c),  (d),
+(e) or (f) of this subsection;
+(B) More than eight pounds of usable marijuana in a public place; or
+(C) More than one-quarter ounce of cannabinoid extract that was not purchased from a
+marijuana retailer that holds a license issued under ORS 475B.105.
+SECTION 24.
+ ORS 475B.341 is amended to read:
+475B.341. (1) Except for  licensees and licensee representatives acting in accordance with ORS
+475B.010 to 475B.545 and any rule adopted under ORS 475B.010 to 475B.545, it is unlawful for  any
+person under 21 years of age to possess, knowingly or intentionally:
+(a) An amount  of [ marijuana] plants in the genus Cannabis within the plant family
+Cannabaceae in excess of the amount allowed under ORS 475B.301 (1).
+(b) More than one ounce of usable marijuana in a public place.
+(c) More than eight ounces of usable marijuana.
+Enrolled House Bill 4089 (HB 4089-B) Page 6
+(d) More than 16 ounces of cannabinoid products in solid form or cannabinoid concentrates.
+(e) More than 72 ounces of cannabinoid products in liquid form.
+(f) More than one ounce of cannabinoid extracts.
+(g) A  cannabinoid extract that was not purchased from a marijuana retailer that holds a license
+under ORS 475B.105.
+(2) Except as provided in subsection (3) of this section, unlawful  possession of a marijuana item
+by a person under 21 years of age is a Class A misdemeanor.
+(3) Unlawful possession  of a marijuana item by a person under 21 years of age is a Class C
+felony, if the amount possessed is:
+(a) More than  16 times the applicable maximum amount specified in subsection (1)(a), (c), (d), (e)
+or (f) of this subsection;
+(b) More than eight pounds of usable marijuana in a public place; or
+(c) More than one-quarter ounce of cannabinoid extract  that was not purchased from a
+marijuana retailer that holds a license issued under ORS 475B.105.
+SECTION 25.
+ ORS 475B.349 is amended to read:
+475B.349. (1) Except for licensees and licensee representatives acting in  accordance with ORS
+475B.010 to 475B.545 and any rule adopted under ORS 475B.010 to 475B.545,  and except for a person
+acting within the scope of  and in compliance with ORS 475B.301, it is unlawful for any person to
+manufacture a marijuana item.
+(2) Except as provided in subsection (3) of this section, unlawful manufacture of a  marijuana
+item is a Class A misdemeanor.
+(3) Unlawful manufacture of a marijuana item is:
+(a) A Class B misdemeanor, if a person 21 years of  age or older unlawfully manufactures
+homegrown marijuana at a household and the  total number of homegrown [ marijuana] plants in the
+genus Cannabis within the plant family Cannabaceae at the household exceeds four [ marijuana]
+plants but does not exceed eight [ marijuana] plants.
+(b) A Class C felony, if:
+(A) A person unlawfully manufactures marijuana  and the total number of [ marijuana] plants in
+the genus Cannabis within the plant family Cannabaceae exceeds 12 [ marijuana] plants; or
+(B) A person unlawfully manufactures  a cannabinoid product or a cannabinoid concentrate and
+the total amount of  cannabinoid products or the total amount of cannabinoid concentrates exceeds
+twice the applicable maximum amount specified in ORS 475B.337 (1)(d), (e) or (f).
+(c) A Class B felony, if a person unlawfully manufactures a cannabinoid extract.
+SECTION 26.
+ ORS 475B.831 is amended to read:
+475B.831. (1)(a) A registry identification cardholder  and the designated primary caregiver of the
+registry identification cardholder may jointly possess:
+(A) Six or fewer mature marijuana plants; and
+(B) Twelve or fewer immature marijuana plants.
+(b)(A) Unless an address is the marijuana grow site  of a person designated to produce marijuana
+by a  registry identification cardholder, the address where a registry identification cardholder or the
+primary caregiver of  a registry identification cardholder produces marijuana may be used to produce
+not more than:
+(i) Six or fewer mature marijuana plants per registry identification cardholder, up to 12  mature
+marijuana plants; and
+(ii) Twelve or fewer immature marijuana plants per registry identification cardholder,  up to 24
+immature marijuana plants.
+(B) Except as provided in subparagraph (C) of this paragraph, an address that  is subject to this
+paragraph may not be used to  produce [ marijuana] plants in the genus Cannabis within the plant
+family Cannabaceae pursuant to ORS 475B.301.
+(C) Subject to subparagraph (D) of this paragraph, an  address that is subject to this paragraph
+may be used  to produce [ marijuana] plants in the genus Cannabis within the plant family
+Cannabaceae pursuant to ORS 475B.301 if a person other  than a registry identification cardholder
+Enrolled House Bill 4089 (HB 4089-B) Page 7
+who is using the  address to produce marijuana plants pursuant to ORS 475B.785 to 475B.949 resides
+at the address.
+(D) An address that is subject to  this paragraph may not be used to produce more than 12 total
+mature marijuana plants.
+(2)(a) A  person may be designated to produce marijuana under ORS 475B.810 by no more than
+four registry identification cardholders.
+(b) A person who is designated to produce marijuana  by a registry identification cardholder may
+produce no more than six mature marijuana plants and  no more than 12 immature marijuana plants
+that are 24 inches or more  in height for a registry identification cardholder who designates the
+person to produce marijuana.
+(3) If the address of a  person responsible for a marijuana grow site under ORS 475B.810 is lo-
+cated within city limits in an area zoned for residential use:
+(a) Except as provided in paragraph  (b) of this subsection, no more than 12 mature marijuana
+plants and no more than 24 immature marijuana plants that are 24 inches or more in  height may
+be produced at the address; or
+(b) Subject to subsection (5) of this section, if each person responsible for a marijuana grow site
+located at the address first registered with the Oregon Health Authority under  ORS 475B.810 before
+January 1, 2015:
+(A) No more than the amount of mature marijuana plants located at  that address on December
+31, 2014, in excess of 12 mature marijuana plants, not to  exceed 24 mature marijuana plants, may
+be produced at the address; and
+(B) No more than 48  immature marijuana plants that are 24 inches or more in height may be
+produced at the address.
+(4) If the address of a  person responsible for a marijuana grow site under ORS 475B.810 is lo-
+cated in an area other than an area described in subsection (3) of this section:
+(a) Except as provided in paragraph  (b) of this subsection, no more than 48 mature marijuana
+plants and no more than 96 immature marijuana plants that are 24 inches or more in  height may
+be produced at the address; or
+(b) Subject to subsections (5) and (6) of this section, if  each person responsible for a marijuana
+grow site located at the address first registered with the authority under ORS 475B.810 before
+January 1, 2015:
+(A) No more than the amount of mature marijuana plants located at  that address on December
+31, 2014, in excess of 48 mature marijuana plants, not to  exceed 96 mature marijuana plants, may
+be produced at the address; and
+(B) No more than  192 immature marijuana plants that are 24 inches or more in height may be
+produced at the address.
+(5) If the authority suspends or  revokes the registration of a person responsible for a marijuana
+grow site that is located at an address described in subsection (3)(b) or (4)(b) of this section:
+(a) No more than 12 mature marijuana plants and no more than 24 immature  marijuana plants
+that are 24 inches or more in height may be subsequently produced  at any address described in
+subsection (3) of this section at which the person  responsible for that marijuana grow site produces
+marijuana.
+(b) No more than 48 mature marijuana plants and no more than 96 immature  marijuana plants
+that are 24 or more inches in height may be subsequently produced  at any address described in
+subsection (4) of this section at which the person  responsible for that marijuana grow site produces
+marijuana.
+(6) If a registry identification cardholder who designated a person to  produce marijuana for the
+registry identification cardholder pursuant to ORS 475B.810 terminates the designation, the  person
+responsible for the marijuana grow site whose designation has been terminated may not be desig-
+nated to produce marijuana by another  registry identification cardholder, except that the person
+may be  designated by another registry identification cardholder if no more than 48 mature
+marijuana plants  and no more than 96 immature marijuana plants that are 24 or more inches in
+Enrolled House Bill 4089 (HB 4089-B) Page 8
+height are produced at  the address for the marijuana grow site at which the person produces
+marijuana.
+(7) Subject to the limits described in subsections (2)  to (6) of this section, if multiple persons
+responsible for a  marijuana grow site under ORS 475B.810 are located at the same address, the
+persons designated to produce marijuana by registry  identification cardholders who are located at
+that address may collectively  produce marijuana plants for any number of registry identification
+cardholders who designate the persons to produce marijuana.
+(8) If a law enforcement officer determines that there is a number of marijuana plants at  an
+address in excess of the quantities specified  in this section, or that an address is being used to
+produce a number of marijuana  plants in excess of the quantities specified in subsection (1)(b) of this
+section, the law enforcement officer may confiscate only the excess number of marijuana plants.
+TETRAHYDROCANNABINOL CONCENTRATION
+SECTION 27.  ORS 571.300 is amended to read:
+571.300. As used in ORS 571.300 to 571.348:
+(1) “Agricultural hemp seed” means Cannabis seed:
+(a) That is sold to or intended to be sold to registered growers for planting; or
+(b) That remains in an unprocessed or partially processed condition that  is capable of
+germination.
+(2) “Crop” means industrial hemp grown under a single registration.
+(3) “Grower” means a person, joint venture or cooperative that produces industrial hemp.
+(4) “Handler” means a person, joint venture or cooperative that receives industrial  hemp for
+processing into commodities, products or agricultural hemp seed.
+(5) “Industrial hemp”:
+(a) Except as provided in this paragraph,  means all nonseed parts and varieties of  the
+Cannabis plant, whether growing  or not, that contain an average tetrahydrocannabinol concen-
+tration that does not  exceed 0.3 percent on a dry weight basis. The State Department of Agri-
+culture, by rule, may adopt any higher  average tetrahydrocannabinol concentration limit
+established in federal law.
+(b) Means any Cannabis seed:
+(A) That is part of a crop;
+(B) That is retained by a grower for future planting;
+(C) That is agricultural hemp seed;
+(D) That is for processing into or for use as agricultural hemp seed; or
+(E) That has been processed in a manner or to an extent that  the Cannabis seed is incapable
+of germination.
+(c) Does not mean industrial hemp commodities or products.
+(6) “Industrial hemp concentrate” means an industrial hemp product obtained by  separating
+cannabinoids from industrial hemp by:
+(a) A mechanical process;
+(b) A  chemical extraction process using a nonhydrocarbon-based solvent, such as water, vege-
+table glycerin, vegetable oils, animal fats, isopropyl alcohol or ethanol;
+(c) A chemical extraction process using carbon dioxide, provided that  the process does not in-
+volve the use of high heat or pressure; or
+(d) Any other process identified by the [ State] department [ of Agriculture ] by rule.
+(7) “Industrial hemp extract”  means an industrial hemp product obtained by separating
+cannabinoids from industrial hemp by:
+(a) A  chemical extraction process using a hydrocarbon-based solvent, such as butane, hexane
+or propane;
+(b) A chemical extraction process using carbon dioxide, if the process uses high heat  or pres-
+sure; or
+Enrolled House Bill 4089 (HB 4089-B) Page 9
+(c) Any other process identified by the department by rule.
+SECTION 28.
+ ORS 571.305 is amended to read:
+571.305. (1) To grow or handle industrial hemp, a  person must be registered with the State De-
+partment of Agriculture as a grower or handler.
+(2)(a) Only a grower or handler registered under this section may produce agricultural hemp
+seed. For a  grower or handler to produce agricultural hemp seed, the grower or handler must be
+registered with the department as an agricultural hemp seed producer.
+(b) Notwithstanding paragraph (a) of this subsection:
+(A) A grower registered under this section that  retains agricultural hemp seed [ as described in
+ORS 571.324] for the purpose of personally propagating industrial hemp in a subsequent year
+is not required to register with the department as an agricultural hemp seed producer; and
+(B) A grower or handler  registered under this section that produces Cannabis seeds that are
+incapable of germination, or a handler registered under this section that processes Cannabis  seeds
+that are incapable of germination into commodities or products, is  not required to register with the
+department as an agricultural hemp seed producer.
+(3) An applicant for registration under this section must  submit to the department, in a form
+and manner prescribed by the department, the following information:
+(a) The name and address of the applicant;
+(b) The name and address of the industrial hemp operation of the applicant; and
+(c) Any other information required by the department by rule.
+(4) Registration  under this section is valid for a one-year term, beginning on January 1. A
+grower, handler or agricultural hemp seed producer may renew a registration under this  section in
+a form and manner prescribed by the department.
+(5) A registration under this section is a personal privilege and is not transferable.
+(6) A grower or handler  registered under this section must keep records as required by the de-
+partment by rule. Upon not less than three days’ notice, the department may  subject the records to
+inspection or audit during normal business hours. The department may make an  inspection or audit
+for the purpose of ensuring compliance with:
+(a) A provision of ORS 571.300 to 571.348;
+(b) A rule adopted under a provision of ORS 571.300 to 571.348; or
+(c) An order issued by the department pursuant to a  provision of ORS 571.300 to 571.348 or a
+rule adopted under a provision of ORS 571.300 to 571.348.
+(7) In addition to any inspection conducted pursuant to ORS 561.275, the department may inspect
+any crop during the crop’s growth phase and take a representative composite sample for field anal-
+ysis. If a crop  contains an average tetrahydrocannabinol concentration exceeding 0.3 percent on a
+dry weight basis or a tetrahydrocannabinol concentration exceeding the concentration allowed
+under federal law, whichever is  greater , the department may detain, seize or embargo the crop
+as provided under ORS 561.605 to 561.620 , subject to  any process established under section 9
+of this 2018 Act .
+(8) The department may charge growers, handlers and  agricultural hemp seed producers appli-
+cation  fees , registration and renewal of registration fees , administrative change  fees and fees for
+other services in amounts  reasonably calculated by the department to pay  the cost of adminis-
+tering ORS 571.300 to  571.348. Moneys from fees charged under this subsection shall be deposited
+in the [ Department of Agriculture Service Fund and are continuously appropriated to the  department
+for purposes of carrying out the duties of the department  under ORS 571.300 to 571.348. ] Industrial
+Hemp Fund established under section 30 of this 2018 Act.
+(9) The department may adopt rules establishing public health and safety standards  and
+industry best practices for growers and handlers registered under this section.
+INDUSTRIAL HEMP FUND
+Enrolled House Bill 4089 (HB 4089-B) Page 10
+SECTION 29. Section 30 of this 2018 Act is added to  and made a part of ORS 571.300 to
+571.348.
+SECTION 30. There is established in the State Treasury, separate and distinct  from the
+General Fund, the Industrial Hemp  Fund. Interest earned by the fund shall be credited to
+the fund. The fund shall consist of  all moneys credited to or deposited in the fund. Moneys
+in the fund are continuously appropriated to the State Department  of Agriculture for the
+purposes of implementing, administering and enforcing ORS 571.300 to 571.348.
+SECTION 31.  ORS 571.348 is amended to read:
+571.348. (1) Subject to the provisions of ORS chapter 183, the State Department of Agriculture
+may impose a civil penalty not to exceed $2,500 on a [ grower,  handler or agricultural hemp seed
+producer] person for violating:
+(a) A provision of ORS 571.300 to 571.348;
+(b) A rule adopted under a provision of ORS 571.300 to 571.348; or
+(c) An order issued by the department pursuant to  a provision of ORS 571.300 to 571.348 or a
+rule adopted under a provision of ORS 571.300 to 571.348.
+(2) The department may not discipline a [ grower, handler or agricultural hemp seed  producer ]
+person under this section on the basis that possessing, delivering and manufacturing industrial
+hemp are prohibited by federal law.
+(3) All moneys collected by the department under this section shall be  deposited in the General
+Fund in the State Treasury to the  credit of the [ Department of Agriculture Account. All moneys de-
+posited in the account pursuant to this section are continuously appropriated to the  department for the
+purpose of administering ORS 571.300 to 571.348. ] Industrial Hemp Fund established under sec-
+tion 30 of this 2018 Act.
+REPEAL
+SECTION 32.
+ORS 571.324 is repealed.
+FISCAL PROVISIONS
+SECTION 33. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 1 (2), chapter 578, Oregon Laws 2017, for the biennium
+ending June 30, 2019, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the Oregon Liquor Control Commission, for marijuana  regu-
+lation, is increased by $284,856 for expenses related to the regulation of hemp.
+CAPTIONS
+SECTION 34. The unit captions used in this 2018 Act are provided  only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2018 Act.
+EMERGENCY
+SECTION 35. This 2018 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2018 Act takes effect
+on its passage.
+Enrolled House Bill 4089 (HB 4089-B) Page 11
+Passed by House March 3, 2018
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate March 3, 2018
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2018
+Approved:
+........................M.,........................................................., 2018
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2018
+..................................................................................
+Dennis Richardson, Secretary of State
+Enrolled House Bill 4089 (HB 4089-B) Page 12
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 475B.010, ORS 475B.015, ORS 475B.025, ORS 475B.030, ORS 475B.033, ORS 475B.035, ORS 475B.040, ORS 475B.045, ORS 475B.050, ORS 475B.055, ORS 475B.060, ORS 475B.063, ORS 475B.065, ORS 475B.068, ORS 475B.070, ORS 475B.085, ORS 475B.090, ORS 475B.100, ORS 475B.105, ORS 475B.115, ORS 475B.119, ORS 475B.136, ORS 475B.139, ORS 475B.144, ORS 475B.146, ORS 475B.154, ORS 475B.158, ORS 475B.163, ORS 475B.173, ORS 475B.177, ORS 475B.206, ORS 475B.211, ORS 475B.216, ORS 475B.224, ORS 475B.232, ORS 475B.236, ORS 475B.241, ORS 475B.246, ORS 475B.256, ORS 475B.261, ORS 475B.266, ORS 475B.276, ORS 475B.281, ORS 475B.286, ORS 475B.296, ORS 475B.301, ORS 475B.311, ORS 475B.337, ORS 475B.341, ORS 475B.349, ORS 475B.461, ORS 475B.474, ORS 475B.479, ORS 475B.486, ORS 475B.491, ORS 475B.501, ORS 475B.506, ORS 475B.514, ORS 475B.518, ORS 475B.521, ORS 475B.523, ORS 475B.526, ORS 475B.529, ORS 475B.555, ORS 475B.560, ORS 475B.565, ORS 475B.785, ORS 475B.810, ORS 475B.831, ORS 475B.858, ORS 561.275, ORS 561.605, ORS 571.300, ORS 571.305, ORS 571.324, ORS 571.330, ORS 571.333, ORS 571.336, ORS 571.339, ORS 571.348, ORS 633.511, ORS 633.680
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `923d4ddf0ba36ed686963c46861f93430f4359f831249bb7abbd3bdf36fd6044` (snapshot `_meta/snapshots/measure-2018r1-hb4089-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4089/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `5dbbaa3be2ba8d51755fc46997ffac6bd532e0a2edbf3fb30f2a6b7017d58ece` (snapshot `_meta/snapshots/measure-2018r1-hb4089-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4089/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2018R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4089` (part of the batched per-session fetch), sha256 `bca18089f38921052b3a5eaec76cd832e1ebed6c2cb2100be71a9423d261c9a8` of the shared session snapshot `_meta/snapshots/measures-2018r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

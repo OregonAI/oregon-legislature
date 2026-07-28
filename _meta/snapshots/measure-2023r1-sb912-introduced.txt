@@ -1,0 +1,678 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 912
+Sponsored by COMMITTEE ON LABOR AND BUSINESS (at the request of Employment Department)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Authorizes Director of Employment  Department to deduct amount from future weekly family and
+medical leave insurance benefits for overpayments  due to individual’s fault. Authorizes director to
+deduct amount from future weekly benefits for overpayments not due to individual’s fault. Limits
+collection period to  five years following week in which erroneous payment finally established, except
+in case of fraud. Specifies contents of notices of recovery. Authorizes director to waive recovery  of
+overpaid  benefits,  except in case of fraud. Requires director to establish process by which covered
+individual may request hearing to obtain review of final determination of director  regarding benefit
+deductions.
+Provides that person is ineligible for benefits after person is convicted of fraud.
+Authorizes director to cancel unrecoverable benefits paid as  overpayments under certain cir-
+cumstances.
+Authorizes director to request offset of moneys owed to  debtor by state against certain benefit
+overpayments.
+Authorizes director to collect employer  assistance grant repayments and contributions from
+self-employed individuals and tribal governments,  including penalties and interest. Allows director
+to attach liens on  real or personal property as result of failure to remit such repayments and con-
+tributions.
+Authorizes director to assess  penalties against employer that violates requirements applicable
+to employer-offered family and medical leave benefit plans. Requires director to establish process
+by which employer may request hearing to obtain review of penalty assessments.
+Authorizes  director  to waive, reduce or compromise outstanding nonpayment contribution bal-
+ances of $10 or less. Authorizes director to retain overpayments of  mandatory contributions for
+overpayments that do not exceed $10.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the family and medical leave  insurance program; creating new provisions; amending ORS
+657B.120, 657B.280, 657B.320 and 657B.410; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 8 of this 2023 Act are added to and  made a part of ORS chapter
+657B.
+SECTION 2. Deduction of benefits paid in error not due to recipient fault;  director dis-
+cretion; civil action by director.  (1)(a) If the  Director of the Employment Department decides
+that a covered individual has been paid benefits to which the covered individual is not enti-
+tled because of an error not due to the covered individual providing a false  statement or
+misrepresentation of a material fact or not disclosing  a material fact, or because an initial
+decision to  pay benefits is subsequently reversed by a decision finding that the covered indi-
+vidual is not eligible for the benefits, then the covered individual is  liable to have the amount
+of any benefits paid in error deducted  from any future benefits otherwise payable to the
+covered individual under this chapter for any week or weeks within five  years following the
+week in which the decision establishing the erroneous payment became final.
+(b) For purposes of paragraph (a) of this subsection, the director may deduct all or any
+part of the covered individual’s future weekly benefits.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4028
+SB 912
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Any notice provided to a covered individual of the  individual’s liability for recovery
+of benefits under this section must include a description of:
+(A) The basis for the director’s decision that benefits have been overpaid; and
+(B) The consequences of  the overpayment, including recovery of the overpaid amount and
+the possibility of waiver under section 3 of this 2023 Act.
+(2) Subject to ORS 657B.410, a decision of the director under this section does  not au-
+thorize the recovery of the amount of any benefits paid to a covered individual  until the de-
+cision is final.
+(3) The director may bring a civil action  against a covered individual to recover amounts
+paid to the individual in excess of the maximum benefits allowable pursuant to this  chapter.
+SECTION 3.
+Waiver of recovery of overpaid benefits.  (1) The Director  of the Employment
+Department shall waive recovery of overpaid benefits under section  2 of this 2023 Act if the
+director finds that the benefits are recoverable due to a change in state law, the application
+of which has caused the disqualification of benefits previously paid.
+(2) The director may not waive recovery under this section of overpaid  benefits that are
+subject to the penalty imposed under ORS 657B.120 (3).
+(3) The director may waive establishment  and recovery of overpaid benefits when no de-
+cision has been issued under ORS 657B.120 or section  2 of this 2023 Act and the amount of
+the overpayment is equal to or less than one-half of the  maximum weekly benefit amount in
+effect at the time the overpayment is discovered.
+(4) Any waiver  granted under this section extinguishes all liability of the debtor for the
+waived amounts.
+SECTION 4.
+Ineligibility for benefits upon conviction of fraud in obtaining benefits. (1)
+If a person is convicted by a court of competent jurisdiction of  willfully making a false
+statement or misrepresentation,  or willfully failing to report a material fact, to obtain any
+benefits under this  chapter, in addition to any penalties imposed by the court, the person
+shall:
+(a) Be ineligible for benefits  based upon wages paid to the person in the calendar quarter
+in which the person was convicted and in all prior calendar quarters; and
+(b) Be ineligible for benefits after the conviction until the person has reimbursed the Paid
+Family and Medical Leave Insurance Fund established under ORS 657B.430 for the  full
+amount received as a result of  the false statement or misrepresentation or of the failure to
+report a material fact.
+(2) The provisions of this section are in addition and  supplemental to the provisions of
+ORS 657B.120.
+SECTION 5. Cancellation of unrecoverable benefits. (1)(a) If any amount paid to a covered
+individual as benefits, for which the covered individual has been found liable under the  pro-
+visions of ORS 657B.120 to repay or to have deducted from benefits payable, has been  neither
+repaid nor deducted within a period of five years following the date the decision  establishing
+the overpayment became  final, and is equal to or less than one-half of the state maximum
+weekly benefit amount in effect at the time the overpayment is  discovered, or determined
+by the Director of the Employment Department to be uncollectible,  the overpayment, to-
+gether with the record of the overpayment and the resulting shortage, may be canceled.
+(b) Notwithstanding paragraph (a) of this subsection, the  overpayment may not be can-
+celed if the debt is being recovered by payments  or deductions that were received within the
+[2]
+SB 912
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+last three months or if  repayment of the overpayment is required under section 4 of this 2023
+Act.
+(2) If an amount paid to a covered individual as benefits, for which the covered  individual
+has been found liable under the provisions  of section 2 of this 2023 Act to have deducted from
+benefits payable, has not been waived under section 3 of this 2023 Act, paid or deducted from
+benefits otherwise payable to the individual for any week or weeks within five years following
+the week in which  the decision establishing the overpayment became final, the overpayment,
+together with the record of the overpayment and the resulting shortage, shall be canceled.
+(3) When in  the judgment of the director the best interests of the Employment Depart-
+ment are served in an effort to settle accounts, the director may waive, reduce or compro-
+mise any part or all of  the interest or penalty charged pursuant to ORS 657B.120. The
+director may determine that  the amount of interest or penalty due and unpaid is uncollect-
+ible, and write off the amount. In making the  determination that interest or a penalty is
+uncollectible, the director shall consider, among other factors:
+(a) The administrative costs of continued  collection efforts in relation to the amount due;
+(b) The accessibility of the debtor for effective collection actions; and
+(c) The debtor’s financial condition and  ability to pay the amount due, both current and
+projected.
+SECTION 6.
+Offset of moneys owed  to debtor by state governments against certain ben-
+efit overpayments; fees.  (1) The Director of the Employment Department may request an
+offset against liquidated state debt under this section only if:
+(a) The debt is legally enforceable;
+(b) The debt is past due;
+(c) The debt was caused by the debtor’s:
+(A) Willfully making a false statement or misrepresentation,  or willfully failing to report
+a material fact, to obtain any benefits under this chapter;
+(B) Failure to report earnings or to report earnings accurately; or
+(C) Failure to make contributions required under ORS  657B.150 for which the state has
+determined the debtor to be liable and that remain uncollected;
+(d) The debtor’s  appeal period for contesting the debt and the element of causation de-
+scribed in paragraph (c) of this subsection has expired; and
+(e) The director has provided at  least 60 days’ advance written notice to the debtor that
+the debt will be offset pursuant to this section  and that the debtor has the right to request
+administrative review under rules adopted by the director.
+(2)(a) The director may pay a charge to  the Department of Revenue pursuant to ORS
+293.250 for processing a request to offset against liquidated state debt  a state tax refund
+owed to the debtor.
+(b) The net amount received from the Department of Revenue after  deduction of fees
+charged under paragraph (a) of this subsection shall be offset against the debt.
+SECTION 7.
+Penalties for employers with employer-offered benefit plans.  (1) If the  Di-
+rector of the Employment Department determines that an employer that offers benefits
+pursuant to a plan approved under ORS 657B.210 has  at any time violated any requirements
+applicable to  plans approved under ORS 657B.210, the director may assess the following pen-
+alties against the employer:
+(a) $1,000 for the first violation.
+[3]
+SB 912
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) $2,000 for the second and each subsequent violation.
+(2) The director may waive  collection of a penalty assessed under subsection (1) of this
+section if the employer corrects the violation within 30 days of receiving a notice of the vi-
+olation and the notice is for a first violation.
+(3) The director may waive collection of any penalties if the director  determines the vi-
+olation to be an inadvertent error by the employer.
+(4) Monetary penalties collected under this section shall  be deposited in the Paid Family
+and Medical Leave Insurance Fund established under ORS 657B.430.
+(5) An employer may appeal the director’s assessment of a penalty under this section  as
+provided in ORS 657B.410.
+SECTION 8.
+Authority of director to compromise or adjust debts  or overpayments.  When
+in the judgment of the Director of the Employment  Department the best interests of the
+Employment Department are served, the director may:
+(1) Waive, reduce or compromise any balance of  $10 or less from a contribution due un-
+der ORS 657B.150; or
+(2) Retain any overpayment of $10 or less from a contribution paid under ORS 657B.150.
+SECTION 9.
+ ORS 657B.120 is amended to read:
+657B.120. (1) An  employer may not willfully make or cause to be made false statements or
+willfully fail to report a material fact regarding the claim of  an eligible employee or regarding an
+employee’s eligibility for family and medical leave insurance benefits under this chapter.
+(2) The Director of the Employment Department may assess a civil  penalty in an amount not to
+exceed $1,000 against an employer for each occurrence that violates subsection (1) of this section.
+(3) If the director determines that a  covered individual willfully made a false statement or
+willfully failed to report a material fact in order  to obtain benefits under this chapter, the covered
+individual is:
+(a) Disqualified from claiming benefits for one year; and
+(b) Liable for a penalty  imposed at a rate prescribed by the director of at least 15 percent, but
+not greater than 30 percent, of the amount of benefits the individual received to which the individual
+was not entitled.
+(4)(a) If the  director determines that a covered individual has received benefits to which the
+individual was not entitled, the director may:
+[(a)] (A) Seek repayment of benefits from  the covered individual in a manner prescribed by the
+director by rule; [ and] or
+[(b)] (B) Have the amount of the benefits deducted from  any future benefits otherwise payable
+to the individual under ORS 657B.100.
+(b) For purposes of paragraph (a)(B) of this subsection,  the director may deduct all or
+any part of the covered individual’s future weekly benefits.
+(c) Except as  provided in paragraph (d) of this subsection, benefits described in paragraph
+(a) of this subsection may be collected for any  week or weeks within five years following the
+week in which the decision establishing the erroneous payment became final.
+(d) Notwithstanding paragraph (c) of this subsection, overpaid benefits subject to  the
+penalty imposed under subsection (3)(b) of this section may be collected at any time.
+(e) Notice provided to a covered individual of the individual’s liability for  recovery of
+benefits under this section must include a description of:
+(A) The basis for the director’s decision that benefits have been overpaid; and
+[4]
+SB 912
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) The consequences of the overpayment, including the methods of recovery  of the
+overpaid amount, with interest and penalties,  and the possibility of waiver under section 3
+of this 2023 Act.
+(5) If benefits are  paid because of an error that is not due to provision of a false statement,
+nondisclosure of a material fact or misrepresentation by a covered individual, the director  may
+waive, in whole or in part, the amount of any such payments for which recovery under  subsection
+(4) of this section would be against equity, good conscience or administrative efficiency.
+(6) A decision of the director  under this section does not authorize the recovery of the amount
+of any benefits paid to a covered individual until the decision is final and the decision specifies:
+(a) That the covered individual, by reason of false statement, nondisclosure or misrepresentation,
+is liable to repay the amount to the Paid Family and Medical Leave  Insurance Fund established
+under ORS 657B.430;
+(b) The nature of the false statement, nondisclosure or misrepresentation;
+(c) The week or weeks for which the benefits were paid; and
+(d) That any amount subject to recovery and any penalty due under this  section may be col-
+lected by the director in a civil action against the employer or covered individual brought in  the
+name of the director.
+(7)(a) The director may bring a civil action against an individual to collect any amount
+subject to recovery and any penalty due under this section.
+(b) Any judgment rendered shall bear interest at the rate  provided in subsection (8) of
+this section.
+(8) Interest on  any amount liable to be repaid under this section shall be paid and col-
+lected at the same time repayment of benefits is made by the individual, at the rate of  one
+percent per month. In computing the interest, a fraction of a month shall  be counted as a
+full month.
+(9)(a) Deductions from paid  family and medical leave insurance benefits pursuant to
+subsection (4) of  this section shall be applied solely to the amount of the benefits liable to
+be repaid under this section.
+(b) All other payments shall be applied first to  court costs, then to penalties, then to
+interest, then to the amount liable to be repaid.
+(10) The following amounts collected under this section shall be paid into  the Paid Family
+and Medical Leave Insurance Fund established under ORS 657B.430:
+(a) Amounts in repayment of benefits; and
+(b) The penalties imposed under subsection (3)(b) of this section.
+[(7)] (11) The director shall adopt rules establishing standards and procedures  for the repayment
+of benefits and payment of penalties and interest under this section.
+[(8)] (12) An employer or covered  individual may appeal a determination made under this section
+as provided in ORS 657B.410.
+SECTION 10.
+ ORS 657B.280 is amended to read:
+657B.280. (1) This section applies to:
+(a) An employer that fails to remit to the Department of Revenue any amount  of contributions
+due under ORS 657B.150;
+(b) An  individual liable to repay any amount of benefits paid under this chapter to which the
+individual was not entitled; [ and]
+(c) A person liable under ORS 657B.330 for amounts due under this chapter[ .];
+[5]
+SB 912
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) A  self-employed individual or tribal government that fails to remit to the Department
+of Revenue any amount of contributions due under ORS 657B.130;
+(e) An employer liable  to repay any amount of grant moneys awarded under ORS 657B.200
+for which the employer was not eligible; and
+(f) An individual liable for any amounts due under this chapter.
+(2) If a judgment or final administrative order is rendered in favor of  the Director of the Em-
+ployment Department for amounts described in subsection (1) of this  section, the amounts shall be
+a lien in favor of the  director upon all property, whether real or personal, belonging to the em-
+ployer, individual or person.
+(3) The lien shall be perfected and attach:
+(a) To real and personal property located within the  county, upon the recording of a warrant,
+as provided in ORS 657B.300, with the clerk of the county in which the property is located.
+(b) To personal property wherever located within the state, upon:
+(A) The recording of a warrant, as provided  in ORS 657B.300, with the clerk of any county; and
+(B) The filing of a copy of the warrant with the Secretary of State as provided in  ORS 657B.290.
+(4) The lien created by this  section may be foreclosed by a suit in the circuit court in the
+manner provided by law for the foreclosure of other liens on real or personal property.
+SECTION 11.
+ ORS 657B.320 is amended to read:
+657B.320. (1) If an employer defaults  with respect to any amount of contributions required to
+be made by the employer to the Paid Family and Medical Leave Insurance  Fund established under
+ORS 657B.430 or with respect to the repayment of  any grant moneys awarded to the employer
+under ORS 657B.200 for which the employer was not eligible , the unpaid amount,  together with
+interest and penalties,  shall be collected by the Director of the Employment Department in a civil
+action against the employer brought in the name of the director.
+(2)(a) Judgment rendered on a civil action brought  under subsection (1) of this section in favor
+of the director shall bear interest at the rate provided in subsection (3) of this section.
+(b) An employer’s compliance with the requirements  of ORS 657B.150 shall date from the time
+that contributions were collected from the employer  or grants were received by the employer .
+(c) The amount of contributions or any grant repayment described in subsection  (1) of this
+section collected from an employer, together with interest  and penalties, shall be paid into the fund.
+(3)(a) Interest upon any  amounts due from an employer shall be paid and collected at the rate
+of one and one-half percent per month from the date  prescribed for the payment to the fund. In
+computing the interest, a fraction of a month shall be counted as a full month.
+(b) Interest shall be paid at the  same time contributions  or grant repayments  are required to
+be paid by the employer to the fund.
+(4) If an employer fails to pay contributions required by ORS 657B.150 at the time  prescribed
+by the director, the employer shall be in default.
+(5) If an employer is awarded grant  moneys under ORS 657B.200 for which the employer
+was not eligible and the employer fails to repay the moneys to the Employment Department
+within 30 days after receiving notice from the department explaining the  employer’s obli-
+gation to repay the moneys, the employer shall be in default.
+[(5)] (6) If an employer that is in default  with respect to payment of contributions or a grant
+repayment fails to make payment within 10 days after written demand has been  made by the di-
+rector, the employer shall be subject to a penalty of 10 percent of  the amount of the contributions
+or the grant repayment . A demand for payment shall be deemed to have been made when deposited
+[6]
+SB 912
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+in the mail addressed to the employer at the employer’s last known address  of record with the di-
+rector.
+[(6)] (7)(a) If any part of a deficiency is  due to fraud with intent to avoid payment of contribu-
+tions to the fund, then 50 percent of the total amount  of the deficiency, in addition to the deficiency,
+shall be assessed, collected and paid, in the same manner as if it were a  deficiency, and deposited
+in the fund.
+(b) If an  employer’s award of grant moneys under ORS 657B.200 was obtained by fraud
+or misrepresentation by the employer, then 50 percent of the total amount of  the grant
+award, in addition  to the amount of the grant repayment due to the department, shall be
+assessed, collected and paid, in the same manner as if it  were a deficiency, and deposited in
+the fund.
+[(7)] (8) Civil actions brought in the name of the director under this section to  collect contri-
+butions, grant repayments,  interest or penalties from an employer shall be  entitled to preference
+upon the calendar over all civil cases that involve only private parties.
+[(8)(a)] (9)(a) Notwithstanding the provisions of this section, the director may agree to  accept
+from an employer or former employer with a delinquent account any amount the director finds  rea-
+sonable under the circumstances as consideration  in settlement of the full amount of contributions,
+grant repayments,  interest or penalties due if the director finds that:
+(A) The total interest collectible on the delinquent account is in excess of 25 percent  of the
+principal;
+(B) The employer  or former employer no longer conducts an active business and has insufficient
+net assets to pay the full amount of all contributions, grant repayments,  interest or penalties due;
+and
+(C) The employer or former employer can pay some but not all of the delinquent amounts.
+(b) Whenever a settlement agreement is made pursuant to paragraph (a)  of this subsection, a
+written record signed by  the director shall be maintained in the files of the director. Such records
+shall set forth:
+(A) The name of the employer or former employer against whom the liability was assessed;
+(B) The amount of the assessed liability;
+(C) The amount of the liability paid;
+(D) The amount of the liability canceled or waived; and
+(E) A sworn statement of the employer or former  employer setting forth the complete financial
+responsibility of the employer or former employer and containing  a full disclosure of all matters
+bearing upon the ability of the employer or former employer to  pay the full amount of the liability
+assessed.
+[(9)] (10) The director shall file a full and true copy of  the record of each settlement agreement
+with the Secretary of State as a public record.
+[(10)] (11) Any amount agreed to in settlement of the director’s claims on behalf  of the fund
+pursuant to subsection [ (8)(a)] (9)(a) of  this section shall be first credited to the contributions or
+grant repayments  due from the employer or former employer , whichever is applicable,  until the
+principal amount of contributions or grant repayments  due has  been satisfied and shall be depos-
+ited in the fund.
+SECTION 12.
+ ORS 657B.410 is amended to read:
+657B.410. (1) The Director of the Employment Department shall establish a process by which:
+(a) An employer may request a hearing to obtain review of  a final decision of the director re-
+[7]
+SB 912
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+garding any of the following:
+(A) Approval or  denial of an employer’s application for approval of a plan under ORS
+657B.210[.];
+(B) The assessment of penalties under section 7 of this 2023 Act; or
+(C) A determination made under ORS 657B.120.
+(b) A covered individual may request a hearing to obtain review of a final decision of  the di-
+rector regarding any of the following :
+(A) Approval or denial of  a claim submitted to the director for payment of family and medical
+leave insurance benefits;
+(B) The weekly benefit amount payable to a covered individual as  determined under ORS
+657B.050; or
+(C) Disqualification from the receipt of benefits including liability or repayment of benefits  as
+determined under ORS 657B.120 and section 2 of this 2023 Act .
+(2) Notwithstanding ORS 183.315, the  process established by the director under this section shall
+comply with provisions for a contested case under ORS chapter 183 and is subject  to judicial review
+as provided in ORS 183.482.
+SECTION 13.
+The section captions  used in this 2023 Act are provided only for the con-
+venience of the reader and do not become  part of the statutory law of this state or express
+any legislative intent in the enactment of this 2023 Act.
+SECTION 14. This 2023 Act takes effect on the 91st day after the date on which  the 2023
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[8]

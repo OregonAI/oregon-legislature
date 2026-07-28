@@ -1,0 +1,1105 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Senate Bill 1044
+Sponsored by Senator BEYER, Representative  REARDON; Senator DEMBROW, Representatives EVANS, HELM,
+MARSH, NERON, SALINAS, SCHOUTEN (at the request of Forth, Oregon Environmental Council,  Climate
+Solutions, Portland General Electric)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes goals that promote zero-emission vehicle  use and requires entities of executive de-
+partment to promote zero-emission vehicle use.
+Requires State Department of Energy to  assess market for zero-emission vehicles and report to
+Governor and Legislative Assembly certain information related to zero-emission vehicles.
+Establishes certain requirements for purchases and leases of zero-emission  vehicles for state
+fleet purchases or leases.
+Authorizes public utilities to submit public benefit  proposals to recover in rates no more than
+$500,000 per year from customers of public utilities costs of installing electric vehicle charging
+stations.
+Authorizes  school  districts to use public purpose charge moneys for school fleet audits, for
+purchase or lease of zero-emission vehicles and for purchase or installation  of electric vehicle
+charging stations.
+A BILL FOR AN ACT
+Relating to transportation electrification; creating new provisions; and amending  ORS 276.255,
+283.327, 283.337, 283.343, 757.355 and 757.612.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section, “zero-emission vehicle” means a  battery electric
+vehicle, a  plug-in hybrid electric vehicle or a hydrogen fuel cell vehicle or any type of vehicle
+defined by the State Department of Energy by rule as a “zero-emission  vehicle” if the
+vehicle’s type and fuel are consistent with the goals set forth in this section.
+(2) The Legislative Assembly finds that:
+(a) Motor vehicle emissions contribute significantly to air pollution in this state.
+(b) In 2019, the Oregon transportation sector was responsible for approximately  40 per-
+cent of this state’s greenhouse gas emissions.
+(c) Motor vehicle emissions, especially  greenhouse gases, are difficult to reduce and will
+rise over time if not limited by additional laws and regulations.
+(d) Absent  significant changes in the types of motor vehicles used by people and busi-
+nesses in Oregon, the state will not meet the greenhouse gas emissions reduction goals  set
+forth in ORS 468A.205.
+(e) In ORS 757.357, the Legislative  Assembly found that transportation electrification is
+necessary to reduce petroleum use, achieve optimum levels of energy  efficiency and carbon
+reduction, meet federal and state air  quality standards, meet this state’s greenhouse gas
+emissions reduction goals  set forth in ORS 468A.205 and improve the public health and
+safety.
+(f) Existing federal and state incentives and  programs are insufficient to transform the
+motor vehicle market  on a timeline that will protect Oregonians from the worst impacts of
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4180
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+global climate change.
+(g) The purchase and ownership of zero-emission vehicles can reduce the  overall energy
+costs paid by Oregon households and the specific costs associated with  meeting transporta-
+tion needs.
+(h) A robust  and well-operating market for zero-emission vehicles is essential to meeting
+this state’s greenhouse gas emissions reduction goals.
+(3) The Legislative Assembly declares the following goals:
+(a) Transformation of the motor vehicle market must occur no later than 2035.
+(b) Programs and support must be provided to accelerate Oregonians’ purchase and use
+of zero-emission  vehicles until greenhouse gas emissions from vehicles are declining at a rate
+consistent with this state’s greenhouse gas emissions reduction goals  set forth in ORS
+468A.205.
+(c) The adoption and  use of zero-emission vehicles must be evaluated regularly to deter-
+mine whether the rate of the adoption and use of zero-emission vehicles will put the  state
+on course to meet its greenhouse gas emissions reduction goals.
+(4) All entities of the executive department, as defined in ORS 174.112, shall exert  influ-
+ence on the motor vehicle market by:
+(a) Purchasing or leasing light-duty or medium-duty  zero-emission vehicles, consistent
+with ORS 283.327, when purchasing or leasing vehicles;
+(b) Adopting policies and rules that promote the goals set forth in this section; and
+(c) Considering proposals submitted in the report  required by ORS 469.059 that relate to
+zero-emission vehicles and adopting the proposals when feasible.
+SECTION 2.
+(1) In  the report required by ORS 469.059, the State Department of Energy
+shall provide:
+(a) An assessment of the market for zero-emission vehicles;
+(b) An  assessment of the state’s progress in promoting the goals set forth in section 1
+of this 2019 Act; and
+(c) The date on which the state is predicted to meet the goals set forth  in section 1 of
+this 2019 act.
+(2) The department may contract with third parties to perform  assessments under sub-
+section (1) of this section.
+(3) To assess the state’s progress under subsection (1)(b) of this  section, the department
+shall use the following ranked criteria:
+(a) First, an evaluation of whether the transportation sector is on course to reduce  the
+transportation-related share of greenhouse gas emissions, consistent  with the greenhouse
+gas emissions reduction goals set forth in ORS 268A.205.
+(b) Second, sales figures and numbers of zero-emission vehicles that are owned  in
+Oregon, including forecasts as to whether:
+(A) By 2020, 50,000 registered motor vehicles will be zero-emission vehicles;
+(B) By 2025, 250,000 registered motor vehicles will be zero-emission vehicles;
+(C) By 2030, 25 percent of registered motor vehicles, and  at least 50 percent of new motor
+vehicles sold annually, will be zero-emission vehicles; and
+(D) By 2035, 50 percent of registered  motor vehicles, and at least 90 percent of new motor
+vehicles sold annually, will be zero-emission vehicles.
+(c) Third, the availability and reliability  of public and private electric vehicle charging
+[2]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+infrastructure relative to the availability and reliability of electric  vehicle charging
+infrastructure needed to support the targets for zero-emission vehicle  sales and registration
+that are identified in subsection (3)(b) of this section.
+(d) Fourth, any incremental  purchase cost difference, after federal and state incentives,
+between the purchase cost of a zero-emission vehicle and the purchase cost  of a comparable
+vehicle capable of using alternative fuel.
+(e) Fifth, the zero-emission  vehicles that are available for purchase in all market seg-
+ments.
+(f) Sixth, Oregonians’ awareness of motor  vehicle options, the benefits of owning zero-
+emission vehicles and the true costs of motor vehicle ownership.
+(g) Seventh, the carbon  intensity of fuel consumed by the Oregon transportation sector
+as a whole.
+(h) Eighth, the conversion  of freight and mass transit in this state to zero-emission op-
+erations.
+(4) If the  department determines that the state is not on course to meet the goals set
+forth in section 1 of this 2019 Act, the department shall recommend legislation  for inclusion
+in the report required by ORS 469.059. The  recommended legislation must promote the
+zero-emission vehicle market, encourage transportation electrification and further the goals
+set forth in section 1 of this 2019 Act.
+(5) As used in this section, “zero-emission vehicle”  has the meaning given that term in
+section 1 of this 2019 Act.
+SECTION 3.
+(1) As used in this section:
+(a) “Electric vehicle charging station” means:
+(A) Equipment that  provides alternating or direct current to a battery electric vehicle
+or a plug-in hybrid electric vehicle; or
+(B) Infrastructure that supports the equipment identified in subparagraph (A)  of this
+paragraph, such as wiring, conduit, concrete, electrical  panel, switchgear, metering equip-
+ment, controls and  directly connected distribution system infrastructure, or any combination
+thereof.
+(b) “Public benefit location” means real property that is owned, leased or  controlled by
+a public body, as defined in ORS 174.109, and that  contains at least 10 parking stalls for use
+by members of the public or by public vehicle fleets.
+(c) “Public benefit proposal”  means a filing in which a public utility seeks to recover in
+rates the  costs of installing electric vehicle charging stations at public benefit locations
+within the public utility’s service territory.
+(2) Under a public benefit proposal:
+(a) A public utility may not recover more than $500,000 per year from all customers  of
+the public utility for the costs of installing electric vehicle charging stations;
+(b) Amounts approved for inclusion in  rates must allow for a reasonable rate of return
+on any investment;
+(c) The public utility may use a deferred accounting  mechanism for capital investment;
+and
+(d) Costs that the public utility may recover include capital,  construction, operation and
+maintenance costs.
+(3)(a) In consultation with or  at the request of a public body, a public utility may file a
+[3]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+public benefit proposal with the Public  Utility Commission as a supplemental filing to an
+application that the public  utility files under ORS 757.357 for a program to accelerate trans-
+portation electrification.
+(b) Notwithstanding ORS 757.357  (4), the commission shall approve a public benefit pro-
+posal if a public utility demonstrates that:
+(A) The public utility has consulted with  the public body that owns, leases or controls the
+public benefit location and the public body finds  that the electric vehicle charging station is
+an important component of accomplishing the goals  set forth in section 1 of this 2019 Act
+or the requirements under ORS 283.327;
+(B) The public benefit  proposal seeks to minimize overall costs and maximize overall
+benefits to utility customers from the public benefit proposal, such as by:
+(i) Using multiple sources of funding to support the public benefit proposal;
+(ii) Using electric vehicle charging stations to contribute  to the utility system through
+demand response programs or time-of-use pricing; or
+(iii) Returning revenues from electric vehicle charging stations to utility customers;
+(C) The public benefit  proposal is supported by data or analysis that indicates that an
+investment such as that proposed by the public benefit proposal can improve energy effi-
+ciency or travel, reduce environmental and health impacts  from air pollution, reduce
+greenhouse gas emissions related to transportation, create high-quality jobs or provide  other
+economic benefits; or
+(D) The public benefit proposal will not  provide for recovery in excess of $500,000 per year
+from all customers of the public utility for the costs of  installing electric vehicle charging
+stations.
+(4) The commission shall  take action on a public benefit proposal within 120 days after
+receipt unless the commission has good cause for delay. If the  commission fails to take
+action on a  public benefit proposal within 120 days, the commission shall provide the public
+utility with an explanation of the delay and an estimate of the additional time necessary  to
+take action.
+(5) If the commission finds that a public benefit proposal fails to meet a  criterion listed
+in subsection (2) of this section,  the public utility may resubmit the public benefit proposal.
+The commission shall take action  on the resubmitted public benefit proposal as described in
+subsection (4) of this section.
+SECTION 4.
+ ORS 276.255, as amended by section 1, chapter 90, Oregon Laws 2018, is  amended
+to read:
+276.255. (1)(a) A state agency  may locate, on premises the state agency owns or controls, devices
+or facilities that the state  agency installs, or has installed, specifically to deliver electricity to the
+public for electric motor vehicles.
+(b) A state agency may contract with a vendor , including a public utility pursuant to section
+3 of  this 2019 Act,  that will distribute, dispense or otherwise make available electricity from de-
+vices or facilities described in paragraph (a) of this subsection.
+(2)(a) The Oregon Department of Administrative Services may install  or have installed devices
+or facilities described  in subsection (1)(a) of this section in as many locations as are sufficient to
+meet demand for the devices or facilities.
+(b) The department by rule shall establish criteria by means of  which a state agency shall de-
+termine an appropriate number of locations at which the state agency may install or have  installed
+[4]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+devices or facilities described in subsection (1)(a) of this section.
+(c) Notwithstanding  paragraph (b) of this subsection, a state agency may install or have installed
+devices or facilities described in subsection (1)(a)  of this section at more than the number of lo-
+cations determined in accordance with the department’s rule if  the state agency obtains a grant to
+support the installations at each additional location.
+(3) A state agency that contracts with  a vendor under subsection (1)(b) of this section shall re-
+quire in the contract that the vendor:
+(a) Indemnify the state agency against any claim related to or arising out  of the vendor’s oper-
+ations on premises that the state agency owns or controls; and
+(b) Obtain a policy of liability insurance in  an amount sufficient to pay foreseeable claims that
+relate to or arise out of the vendor’s  operations, name the state agency as an insured party in the
+policy and maintain  coverage under the policy during the term of the contract and for two years
+after the contract term expires.
+(4) A state agency may by order establish and adjust prices for using devices or facilities  de-
+scribed in subsection (1)(a) of this  section that are located on premises the state agency owns or
+controls. The state agency shall set the price for using the devices or facilities at a level that:
+(a) Recovers  to the maximum extent practicable the cost of operating and administering the
+devices or facilities described in subsection (1)(a) of this section; and
+(b) Does not exceed 110 percent of the average market price for delivering electricity  to the
+public for the purpose described in subsection (1)(a)  of this section in the county in which the device
+or facility is located.
+(5) Subject to subsection (4) of this section, a  state agency shall set a uniform price for deliv-
+ering electricity at devices and facilities located  on premises that the state agency owns or controls.
+The state agency shall use criteria and a methodology that the department specifies for  calculating
+the uniform price.
+(6) The department shall report to  the Legislative Assembly in the manner provided by ORS
+192.245 not later than February 1, 2019, February 1, 2021, and February 1, 2023, concerning state
+agency implementation of the authority granted in this section. Each report must, as of  the date
+of the report:
+(a) List the number of devices or  facilities for delivering electricity to the public for electric
+motor vehicles that state agencies installed or had  installed in the previous two years and the total
+number of installations that have occurred since June 2, 2018;
+(b) List the number of  devices or facilities that state agencies have planned for installation in
+the next two years;
+(c) List the cost to the state agency of each installation and calculate:
+(A) An average cost for installations that state agencies have completed or had completed; and
+(B) An overall trend line for costs that state agencies have incurred;
+(d) Specify the current uniform price that each state agency charges under subsection (5)  of this
+section and any changes in the uniform price that occurred in the previous two years;
+(e) Specify for each state agency an average rate of utilization for all of the devices or facilities
+located on premises that the  state agency owns or controls, calculated as the ratio of the time each
+day during  which a person is actually using the devices or facilities and the time each day in which
+the devices and facilities are available for use; and
+(f) Specify whether  and to what extent using electric motor vehicles and devices or facilities
+located on premises that state agencies own  or control to provide electricity for state agency elec-
+[5]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tric motor vehicles results in a cost savings to the state  agency in comparison to using motor ve-
+hicles that do not use electricity for propulsion.
+SECTION 5.  ORS 283.327 is amended to read:
+283.327. (1)(a) Unless a  state agency finds that it is not feasible for a zero-emission vehi-
+cle, as defined in section 1 of this 2019 Act, to meet the specific use for  which a vehicle will
+be purchased or leased, the agency shall purchase or lease zero-emission  vehicles for at least
+25 percent of new light-duty state fleet purchases and leases,  to the extent zero-emission
+vehicles are available.
+(b) If the agency finds that purchasing or  leasing zero-emission vehicles is not feasible,
+the agency may purchase or lease light-duty or medium-duty vehicles that  are capable of
+using alternative fuel and that meet the  requirements established by the Comprehensive
+National Energy Policy Act of 1992 (P.L. 102-486).
+(c) If the agency finds  that purchasing or leasing zero-emission vehicles is not feasible
+and that purchasing or leasing light-duty or medium-duty  vehicles that are capable of using
+alternative fuel and that meet the requirements established by the Comprehensive National
+Energy Policy Act of 1992 (P.L. 102-486) is not feasible, the agency may purchase or  lease
+vehicles that the  Department of Environmental Quality has identified by rule as low-emission
+vehicles.
+[(1)] (2) To the maximum extent [ economically possible ] feasible, state-owned motor vehicles shall
+be zero-emission vehicles or  use alternative fuel for operation.
+[(2) State agencies shall acquire only  motor vehicles capable of using alternative fuel, except that
+acquired vehicles assigned to areas  unable economically to dispense alternative fuel need not be so
+configured.]
+(3) A state agency that purchases or leases  a vehicle that is not a zero-emission vehicle
+shall submit a report  to the State Department of Energy that explains the reason for the
+purchase of an  alternative fuel, hybrid or low-emission vehicle and demonstrates that a
+zero-emission vehicle was not feasible.  To assess the feasibility of a zero-emission vehicle
+under this subsection, a state agency may not consider any  incremental cost of a zero-
+emission vehicle over  a comparable use vehicle. The State Department of Energy shall con-
+sult with the Oregon Department of Administrative Services to develop requirements for the
+reports required by this subsection.
+[(3)] (4)  Each agency  owning motor vehicles shall comply with all safety standards established
+by the United States Department of Transportation in  the conversion, operation and maintenance
+of vehicles using alternative fuel.
+[(4)] (5)  To  the maximum extent economically possible, state-owned structures shall use biofuel,
+or direct-application electricity  generated from biofuel, where diesel is currently utilized for sta-
+tionary or back-up generation.
+SECTION 6.
+ ORS 283.327, as amended by section 5 of this 2019 Act, is amended to read:
+283.327. (1)(a)  Unless a state agency finds that it is not feasible for a zero-emission vehicle, as
+defined in section 1 of this 2019 Act, to meet the specific use for which  a vehicle will be purchased
+or leased, [ the agency shall purchase or lease zero-emission vehicles  for at least 25 percent of new
+light-duty state fleet purchases and leases, to the extent zero-emission vehicles are available. ] the
+agency shall purchase or lease zero-emission vehicles for all  new light-duty and medium-duty
+state fleet purchases and leases.
+(b) If the agency  finds that purchasing or leasing zero-emission vehicles is not feasible, the
+[6]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+agency may purchase  or lease light-duty or medium-duty vehicles that are capable of using alterna-
+tive fuel and that meet the requirements established by  the Comprehensive National Energy Policy
+Act of 1992 (P.L. 102-486).
+(c) If the agency finds that purchasing or leasing zero-emission vehicles is not feasible  and that
+purchasing or leasing light-duty  or medium-duty vehicles that are capable of using alternative fuel
+and that meet the requirements  established by the Comprehensive National Energy Policy Act of
+1992 (P.L.  102-486) is not feasible, the agency may purchase or lease vehicles that the Department
+of Environmental Quality has identified by rule as low-emission vehicles.
+(2) To  the maximum extent feasible, state-owned motor vehicles shall be zero-emission vehicles
+or use alternative fuel for operation.
+(3) A state agency that purchases  or leases a vehicle that is not a zero-emission vehicle shall
+submit a report to the State  Department of Energy that explains the reason for the purchase of an
+alternative fuel, hybrid  or low-emission vehicle and demonstrates that a zero-emission vehicle was
+not feasible. To assess the feasibility of a zero-emission  vehicle under this subsection, a state agency
+may not consider any incremental cost of a zero-emission vehicle over a comparable use  vehicle.
+The State Department of Energy shall consult with  the Oregon Department of Administrative Ser-
+vices to develop requirements for the reports required by this subsection.
+(4) Each agency owning motor vehicles shall comply with all safety standards  established by the
+United States  Department of Transportation in the conversion, operation and maintenance of vehi-
+cles using alternative fuel.
+(5) To the maximum extent economically  possible, state-owned structures shall use biofuel, or
+direct-application electricity generated from biofuel,  where diesel is currently utilized for stationary
+or back-up generation.
+SECTION 7.  ORS 283.337 is amended to read:
+283.337. (1) Prior to  December 31 of each year, each agency owning motor vehicles shall submit
+an annual report to the Department of Environmental Quality and the State  Department of Energy.
+The report shall contain at a minimum:
+[(1)] (a) The number of vehicles acquired that are capable of using alternative fuel;
+[(2)] (b) The number of vehicles converted from the  use of gasoline to the use of alternative fuel;
+[(3)] (c)  The [ quantity] amount of each type of alternative fuel used  in the vehicles ; [ and]
+(d) The number of zero-emission vehicles, as  defined in section 1 of this 2019 Act, ac-
+quired;
+(e) The amount of electricity used in the vehicles; and
+[(4)] (f)  Any other information  required by the Department of Environmental Quality and the
+State Department of Energy.
+(2) For purposes of  the report, plug-in hybrid electric vehicles are not vehicles that are
+capable of using alternative fuel.
+SECTION 8.  ORS 283.343 is amended to read:
+283.343. At least biennially, the Oregon Department of Administrative Services shall  examine
+compliance with rules adopted pursuant to ORS  283.340 by state agencies owning vehicles. The
+department shall submit biennially to the  Joint Legislative Audit Committee a management report
+on state-owned motor vehicles that includes:
+(1) Summaries of agency compliance examinations, with specific  emphasis on noncomplying state
+agency fleets;
+(2) Numbers of motor vehicles, listed by model and by state agency;
+[7]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) Mileage utilization of motor vehicles, listed by state agency;
+(4) Operating cost per mile of motor vehicles, listed by state agency; and
+(5) Recommendations for increasing motor vehicle utilization, for  decreasing the overall motor
+vehicle population , for increasing the percentage of zero-emission vehicles within the  motor
+pool and agency fleets and for absorbing noncomplying state agency fleets into the motor pool.
+SECTION 9.
+ ORS 757.355 is amended to read:
+757.355. (1) Except as provided in section 3 of this 2019  Act and  subsection (2) of this section,
+a public utility may not, directly or indirectly, by any device, charge, demand, collect  or receive
+from any customer rates that  include the costs of construction, building, installation or real or
+personal property not presently used for providing utility service to the customer.
+(2) The Public Utility Commission may allow rates for a water utility that  include the costs of
+a specific capital improvement if the water utility  is required to use the additional revenues solely
+for the purpose of completing the capital improvement.
+SECTION 10.  ORS 757.612 is amended to read:
+757.612. (1) There is established  an annual public purpose expenditure standard for electric
+companies and Oregon Community Power to  fund new cost-effective energy conservation, new mar-
+ket transformation efforts, the above-market costs of new renewable energy  resources and new
+low-income weatherization. The public  purpose expenditure standard shall be funded by the public
+purpose charge described in subsection (2) of this section.
+(2)(a) Beginning on the date an  electric company or Oregon Community Power offers direct ac-
+cess to retail  electricity consumers, except residential electricity consumers, the electric company
+or Oregon Community Power shall collect a public  purpose charge from all of the retail electricity
+consumers located within the  electric company’s or Oregon Community Power’s service area until
+January 1,  2026. Except as provided in paragraph (b) of this subsection, the public purpose charge
+shall be equal to three percent of the total revenues collected by the electric company, Oregon
+Community Power or the electricity service supplier from retail electricity consumers for electricity
+services,  distribution  services, ancillary services, metering and billing, transition charges and other
+types of costs included in electric rates on July 23, 1999.
+(b) For an aluminum plant that averages  more than 100 average megawatts of electricity use
+per year, the electric company or Oregon  Community Power, whichever serves territory that abuts
+the greatest percentage of the site of the aluminum plant, shall  collect from the aluminum company
+a public purpose charge equal to one percent of the total revenue  from the sale of electricity ser-
+vices to the aluminum plant from any source.
+(3)(a) The Public Utility  Commission shall establish rules implementing the provisions of this
+section relating to electric companies and Oregon Community Power.
+(b) Except as  provided in paragraph (e) of this subsection, funds collected through public pur-
+pose charges under subsection (2) of this section shall be allocated as follows:
+(A) Sixty-three percent for new  cost-effective energy conservation and new market transforma-
+tion efforts.
+(B) Nineteen  percent for the above-market costs of constructing and operating new renewable
+energy resources with  a nominal electric generating capacity, as defined in ORS 469.300, of 20
+megawatts or less.
+(C) Thirteen percent for new low-income weatherization.
+(D) Five percent for deposit in the Housing and Community Services Department Electricity
+Public Purpose Charge Fund established by ORS 456.587 (1) for the purpose of providing grants as
+[8]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+described in ORS 458.625 (2).
+(c) The costs of administering  subsections (1) to (6) of this section for an electric company or
+Oregon Community Power shall be paid out of the funds collected through public  purpose charges.
+The commission may require an electric company or  Oregon Community Power to direct funds col-
+lected through public purpose charges to state agencies responsible for implementing  subsections (1)
+to (6) of this section in order to pay the costs of administering subsections (1)  to (6) of this section.
+(d) The commission  shall direct the manner in which public purpose charges are collected and
+spent by an electric company or Oregon Community  Power and may require an electric company
+or Oregon Community Power to expend funds through  competitive bids or other means designed to
+encourage competition, except that funds dedicated for new  low-income weatherization shall be di-
+rected to the Housing and Community Services Department for purposes related to new low-income
+weatherization. The commission may also require funds collected  through public purpose charges to
+be paid to a nongovernmental entity for investment in public purposes described in subsection (1)
+of this section. Notwithstanding any other provision of this subsection:
+(A) If an electric company collected the funds, at least 80 percent of the funds  allocated for new
+cost-effective energy conservation shall be  spent within the service area of the electric company;
+or
+(B) If Oregon Community  Power collected the funds, at least 80 percent of the funds allocated
+for new cost-effective energy conservation shall be  spent within the service area of Oregon Com-
+munity Power.
+(e)(A) The first 10 percent of funds  collected each year by an electric company or Oregon
+Community Power under subsection (2) of this section shall be distributed to school  districts that
+are located in the  service territory of the electric company or Oregon Community Power. The funds
+shall be distributed  to individual school districts according to the weighted average daily member-
+ship (ADMw) of each school district for the prior fiscal year  as calculated under ORS 327.013. The
+commission shall establish by rule a methodology for distributing a  proportionate share of funds
+under this paragraph to school districts that  are only partially located in the service territory of the
+electric company or Oregon Community Power.
+(B) A school district  that receives funds under this paragraph shall use the funds first to pay
+for energy or fleet  audits for schools located within the school district. A school district may not
+expend additional funds received under this paragraph [ on] for  a school until an [ energy] audit has
+been completed for that school. To the extent practicable, a school  district shall coordinate with the
+State Department of Energy and incorporate federal funding in complying with  this paragraph.
+Following completion of an  [ energy] audit for an individual school, the school district may expend
+funds received under this paragraph [to implement the energy audit] for the school. Once an
+[energy] audit has  been conducted [ and completely implemented ] for each school within the school
+district,  the  school district may expend funds received under this paragraph for any of the following
+purposes:
+(i) Conducting additional energy or fleet  audits. A school district shall conduct an energy audit
+prior to expending funds  on any other purpose authorized under this paragraph unless the school
+district has:
+(I) Performed an energy audit within the three years  immediately prior to receiving the
+funds[.]; or
+(II) Performed a fleet audit at any  time prior to receiving the funds and determined that
+the previous fleet audit is up to date.
+[9]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(ii) Weatherizing school district facilities and upgrading  the energy efficiency of school district
+facilities.
+(iii) Energy conservation education programs.
+(iv) Purchasing electricity from environmentally focused sources.
+(v) Investing in renewable energy resources.
+(vi) Purchasing or leasing zero-emission vehicles,  as defined in section 1 of this 2019 Act,
+including buses.
+(vii) Purchasing or installing electric vehicle charging stations,  as defined in section 3
+of this 2019 Act.
+(f) The commission  may not establish a different public purpose charge than the public purpose
+charge described in subsection (2) of this section.
+(g) If the commission requires funds collected through public purpose charges to be paid  to a
+nongovernmental entity, the entity shall:
+(A) Include on the entity’s board of directors an ex officio member designated  by the commis-
+sion, who shall also serve on the entity’s nominating committee for filling board vacancies.
+(B) Require  the entity’s officers and directors to provide an annual disclosure of economic in-
+terest to be filed  with the commission on or prior to April 15 of each calendar year for public review
+in a form similar to the statement of economic interest required for  public officials under ORS
+244.060.
+(C) Require  the entity’s officers and directors to declare actual and potential conflicts of interest
+at regular  meetings of the entity’s governing body when such conflicts arise, and require an officer
+or director to abstain from participating in any discussion or voting on any item where  that officer
+or director has an actual conflict of interest. For the purposes of this subparagraph,  “actual conflict
+of interest” and “potential conflict of interest” have the meanings given  those terms in ORS 244.020.
+(D) Annually, arrange for an independent auditor to audit the entity’s financial statements, and
+direct the auditor to file an audit opinion with the commission for public review.
+(E) Annually file with the commission the entity’s budget, action  plan and quarterly and annual
+reports for public review.
+(F) At least once  every five years, contract for an independent management evaluation to review
+the entity’s operations,  efficiency and effectiveness, and direct the independent reviewer to file a
+report with the commission for public review.
+(h) The commission  may remove from the board of directors of a nongovernmental entity an of-
+ficer or director who fails to provide an annual disclosure of  economic interest, or who fails to de-
+clare an actual or potential conflict of interest, as described in paragraph (g)(B)  and (C) of this
+subsection, if the failure is  connected to the allocation or expenditure of funds collected through
+public purpose charges and paid to the entity.
+(4)(a) An electric company that satisfies its obligations under this section:
+(A) Has no further obligation to invest in new cost-effective energy conservation, new  market
+transformation or new low-income weatherization, or to provide a  commercial energy conservation
+services program; and
+(B) Is not subject to ORS 469.631 to 469.645 and 469.860 to 469.900.
+(b) Oregon Community Power, for any period during which Oregon Community  Power collects
+a public purpose charge under subsection (2) of this section:
+(A) Has  no further obligation to invest in new cost-effective energy conservation, new market
+transformation or new low-income  weatherization, or to provide a commercial energy conservation
+[10]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+services program; and
+(B) Is not subject to ORS 469.631 to 469.645 and 469.860 to 469.900.
+(5)(a) A retail electricity consumer that uses more  than one average megawatt of electricity at
+any site in the prior year shall receive a credit  against public purpose charges billed by an electric
+company or Oregon Community Power for  that site. The amount of the credit shall be equal to the
+total amount of qualifying expenditures for new  cost-effective energy conservation, not to exceed 68
+percent of the annual public purpose charges, and the above-market costs of new renewable  energy
+resources incurred by the retail electricity consumer, not to exceed 19  percent of the annual public
+purpose charges, less administration costs incurred under  this paragraph and paragraphs (b) and (c)
+of this subsection. The credit may not exceed, on an annual basis, the lesser of:
+(A) The amount of the retail electricity consumer’s qualifying expenditures; or
+(B) The portion  of the public purpose charge billed to the retail electricity consumer that is
+dedicated to new cost-effective energy conservation, new  market transformation or the above-market
+costs of new renewable energy resources.
+(b) To obtain a credit under paragraph (a) of this subsection, a  retail electricity consumer shall
+file with the State Department of Energy a description of the  proposed conservation project or new
+renewable energy resource and a declaration that the retail electricity consumer  plans to incur the
+qualifying expenditure. The  State Department of Energy shall issue a notice of precertification
+within 30 days of receipt of the filing, if such filing is consistent with paragraph (a) of this sub-
+section. The credit may be taken  after a retail electricity consumer provides a letter from a certified
+public accountant to the  State Department of Energy verifying that the precertified qualifying ex-
+penditure has been made.
+(c) Credits earned by a retail electricity consumer  as a result of qualifying expenditures that
+are not used in one year may be carried forward for use in subsequent years.
+(d)(A) A retail electricity consumer that uses more than one average megawatt of electricity  at
+any site in the prior year may  request that the State Department of Energy hire an independent
+auditor to assess the potential  for conservation investments at the site. If the independent auditor
+determines there is  no available conservation measure at the site that would have a simple payback
+of one to 10 years, the retail electricity consumer shall be relieved of 54 percent of its payment
+obligation for public purpose charges related to the site. If the independent  auditor determines that
+there are potential conservation measures available  at the site, the retail electricity consumer shall
+be entitled to a  credit against public purpose charges related to the site equal to 54 percent of the
+public purpose charges less the estimated cost of available conservation measures.
+(B) A retail electricity consumer shall be entitled each year to the credit described in this  par-
+agraph unless  a subsequent independent audit determines that new conservation investment oppor-
+tunities are available. The State Department  of Energy may require that a new independent audit
+be performed on the site to determine  whether new conservation measures are available, provided
+that the independent audits occur no more than once every two years.
+(C) The retail electricity consumer shall pay the cost of the independent audits  described in this
+paragraph.
+(6) Electric utilities and retail electricity consumers  shall receive a fair and reasonable credit
+for the public purpose expenditures of  their energy suppliers. The State Department of Energy shall
+adopt rules to determine eligible expenditures and the method by which such credits are accounted
+for and used.  The State Department of Energy also shall adopt methods to account for eligible public
+purpose expenditures made through consortia or collaborative projects.
+[11]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(7)(a) In addition to the public purpose charge  provided under subsection (2) of this section, an
+electric company or Oregon Community Power  shall collect funds for low-income electric bill pay-
+ment assistance in an amount determined under paragraph (b) of this subsection.
+(b) The commission shall establish the amount  to be collected by each electric company from
+retail electricity consumers, and the rates to be charged  by each electric company to retail elec-
+tricity consumers, so that the forecasted collection by all  electric companies in calendar year 2018
+is $20 million. In subsequent calendar years, the commission may not  decrease the rates below those
+established for calendar year  2018. The commission may temporarily adjust the rates if forecasted
+collections or actual collections are less than $20 million in  any calendar year. A retail electricity
+consumer may  not be required to pay more than $500 per month per site for low-income electric bill
+payment assistance.
+(c) Funds collected  through the low-income electric bill payment assistance charge shall be paid
+into the Housing and Community Services Department Low-Income  Electric Bill Payment Assistance
+Fund established by ORS  456.587 (2). Moneys deposited in the fund under this paragraph shall be
+used by the Housing and Community Services Department solely  for purposes related to low-income
+electric bill payment assistance  and for the Housing and Community Services Department’s cost of
+administering this subsection. Funds collected by an electric company or  Oregon Community Power
+under this subsection shall be expended in the service area of the electric  company or Oregon
+Community Power from which the funds are collected.
+(d)(A) The Housing and Community  Services Department shall determine the manner in which
+funds collected under this subsection will be allocated by  the Housing and Community Services
+Department to energy assistance program providers for the purpose of providing low-income  bill
+payment and crisis assistance.
+(B) The Housing and Community Services Department,  in consultation with electric companies,
+shall investigate and may  implement alternative delivery models to effectively reduce service dis-
+connections and related costs to retail electricity consumers and electric utilities.
+(C) Priority assistance shall  be directed to low-income electricity consumers who are in danger
+of having their electricity service disconnected.
+(D) The Housing and Community Services Department shall maintain records  and provide those
+records  upon  request to an electric company, Oregon Community Power and the Citizens’ Utility
+Board established under ORS chapter 774 on a quarterly basis. Records maintained must include
+the numbers of low-income  electricity consumers served, the average amounts paid to low-income
+electricity consumers and the type of assistance provided to low-income electricity consumers.
+Electric companies and Oregon Community Power shall, if requested, provide  the Housing and
+Community Services Department with aggregate data relating to low-income electricity  consumers
+served on a quarterly basis to support program development.
+(e) Interest on moneys deposited in the Housing  and Community Services Department Low-
+Income Electric Bill Payment Assistance  Fund established by ORS 456.587 (2) may be used to pro-
+vide bill payment and crisis  assistance to electricity consumers whose primary source of heat is not
+electricity.
+(f) Notwithstanding  ORS 757.310, the commission may allow an electric company or Oregon
+Community Power to provide reduced rates or other  bill payment or crisis assistance or low-income
+program assistance to a low-income household eligible for assistance under the federal Low Income
+Home Energy Assistance Act of 1981, as amended and in effect on July 23, 1999.
+(8) For purposes of this section, “retail electricity consumers” includes any direct service  in-
+[12]
+SB 1044
+1
+2
+3
+4
+5
+6
+7
+dustrial consumer that purchases electricity without purchasing distribution services from the  elec-
+tric  utility.
+(9) For purposes  of this section, funds collected by Oregon Community Power through public
+purpose charges are not considered moneys received from electric utility operations.
+SECTION 11. The amendments to ORS 283.327 by section 6 of this  2019 Act become op-
+erative on January 1, 2025.
+[13]

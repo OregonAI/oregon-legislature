@@ -1,0 +1,762 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Senate Bill 5505
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Oregon Department of Administrative Services)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes amounts authorized for issuance of general obligation bonds, revenue bonds,  certif-
+icates of participation and other financing agreements for biennium.
+Establishes amounts allocated for private activity bonds.
+Makes legislative  findings regarding benefits to higher education institutions and community
+colleges from issuance of bonds under Article XI-G of Oregon Constitution.
+Declares emergency, effective July 1, 2021.
+A BILL FOR AN ACT
+Relating to state financial administration; creating new provisions; amending  ORS 283.085; and de-
+claring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+The amounts authorized, as provided by ORS 286A.035, for issuance  of gen-
+eral obligation bonds of the state during the 2021-2023 biennium are as follows:
+GENERAL OBLIGATION BONDS
+General Fund Obligations
+(1) Higher Education Coordinating
+Commission (Art. XI-G):
+(a) Eastern Oregon University,
+Inlow Hall Renovation,
+Phase II ................................ $ 600,000
+(b) Oregon State University:
+(A) Cascades Phase II Remediation
+and Campus Infrastructure .. $ 870,000
+(B) Cordley Hall Renovation,
+Phase II ................................ $ 25,375,000
+(c) Portland State University,
+Gateway Center Reuse and
+Extension .............................. $ 5,105,000
+(d) University of Oregon,
+Heritage Building Renovation $ 5,960,000
+(e) Blue Mountain Community
+College, Facility for
+Agricultural Resource
+Management.......................... $ 6,615,000
+Note: For budget, see 2021-2023 Biennial Budget
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 9505
+SB 5505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(f) Central Oregon Community
+College, Classroom Building
+Redmond Campus.................. $ 8,125,000
+(g) Chemeketa Community
+College, Building 7 Remodel.. $ 8,125,000
+(h) Klamath Community College,
+Childcare Resource Learning
+Center ................................... $ 1,540,000
+(i) Linn-Benton Community
+College, Agricultural Center . $ 8,125,000
+(j) Mt. Hood Community College,
+Maywood Park Center........... $ 8,125,000
+(k) Oregon Coast Community
+College, Workforce Education
+and Resiliency Center ........... $ 8,125,000
+(L) Rogue Community College,
+Transportation Technology
+Center ................................... $ 7,120,000
+(m) Tillamook Bay Community
+College, Classroom and
+Office Building and
+Renovations........................... $ 8,125,000
+(n) Treasure Valley Community
+College, Nursing-Allied
+Health Professions Center .... $ 5,015,000
+(2) Department of Environmental
+Quality (Art. XI-H) ............... $ 10,300,000 
+(3) Oregon Business Development
+Department (Art. XI-M) ....... $ 110,995,000
+(4) Oregon Business Development
+Department (Art. XI-N) ........ $ 50,620,000
+(5) Department of Education
+(Art. XI-P) ............................ $ 138,065,000
+(6) Oregon Department of
+Administrative
+Services (Art. XI-Q):
+(a) Department of Revenue,
+Electronic Valuation
+Information System .............. $ 4,245,000
+(b) Oregon Military Department:
+(A) Ashland Armory Service
+Life Extension ....................... $ 5,480,000
+(B) Corvallis Armory Service
+Life Extension ....................... $ 4,375,000
+(C) Kliever Armory Service
+[2]
+SB 5505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Life Extension....................... $ 6,265,000
+(D) McMinnville Armory
+Service Life Extension .......... $ 5,640,000
+(c) Oregon State Police:
+(A) Central Point Office Capital
+Improvement and Renewal ... $ 3,260,000
+(B) Central Point Office
+Expansion.............................. $ 34,435,000
+(C) Springfield Forensic Lab and
+Medical Examiner’s Office .... $ 62,710,000
+(D) Springfield Patrol Area
+Command Office.................... $ 14,490,000
+(d) Department of Corrections:
+(A) Capital Improvement and
+Renewal................................. $ 70,745,000
+(B) Adult in Custody
+Computing Platform.............. $ 475,000
+(C) Distribution Services
+Equipment............................. $ 1,365,000
+(D) Mailroom Centralization ....... $ 1,495,000
+(E) Off-Net Telephone
+Infrastructure ....................... $ 3,920,000
+(F) Opioid Overdose
+Prevention Body Scanners .... $ 1,080,000
+(G) Opioid Overdose
+Prevention TruNarc .............. $ 195,000
+(H) OSP Minimum Security
+Training and Recruiting
+Center ................................... $ 4,590,000
+(I) Skype to Teams Migration .... $ 800,000
+(e) Oregon Youth Authority:
+(A) Camp Riverbend Dorm
+Renovation............................ $ 6,975,000
+(B) Capital Improvements........... $ 6,880,000
+(C) JJIS IT System
+Modernization....................... $ 16,855,000
+(D) MacLaren Emergency
+Generator Replacement ........ $ 1,825,000
+(E) MacLaren West Cottages
+Renovations........................... $ 8,125,000
+(F) Oak Creek Parole and
+Probation Building Removal
+and Replacement................... $ 1,685,000
+(G) Tillamook Dorm Renovation . $ 10,495,000
+(f) Oregon Health Authority:
+[3]
+SB 5505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) OSH Salem Additional
+Office Space .......................... $ 1,775,000
+(B) OSH Salem Remodel
+Therapy Tub Rooms .............. $ 650,000
+(C) OSH Salem Well Water
+Treatment Facility ................ $ 4,555,000
+(D) OSH Salem/Junction City
+Automated Dispensing
+Cabinets ................................ $ 3,555,000
+(E) OSH Salem/Junction City
+Equipment Replacement ....... $ 935,000
+(F) OSH Salem/Pendleton
+Deferred Maintenance........... $ 1,425,000
+(g) Higher Education
+Coordinating Commission:
+(A) Public Universities Capital
+Improvement and Renewal ... $ 80,810,000
+(B) Eastern Oregon University,
+Inlow Hall Renovation,
+Phase II ................................ $ 17,920,000
+(C) Oregon State University:
+(i) Cascades Phase II Remediation
+and Campus Infrastructure .. $ 16,040,000
+(ii) Cordley Hall Renovation,
+Phase II ................................ $ 61,690,000
+(D) Portland State University,
+Gateway Center Reuse and
+Extension .............................. $ 45,585,000
+(E) University of Oregon,
+Heritage Building Renovation $ 53,285,000
+(F) FAMIS System Replacement $ 5,105,000
+(h) Department of Education:
+(A) Oregon School for the Deaf
+ADA Restrooms .................... $ 1,065,000
+(B) Oregon School for the Deaf
+Fire Alarm System
+Replacement.......................... $ 3,145,000
+(C) Oregon School for the Deaf
+Windows Upgrade ................. $ 1,425,000
+(i) State Forestry Department:
+(A) Capital Improvements........... $ 4,885,000
+(B) Toledo Facility Replacement
+Phase II ................................ $ 1,121,580
+(j) Oregon Department of
+Fish and Wildlife,
+[4]
+SB 5505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Deferred Maintenance........... $ 10,175,000
+(k) Housing and Community
+Services Department,
+Local Innovation and Fast
+Track (LIFT) Housing
+Permanent Supportive
+Housing, Land
+Acquisition............................ $ 252,180,000
+(L) Judicial Department:
+(A) Benton County Courthouse ... $ 26,985,000
+(B) Clackamas County
+Courthouse............................ $ 63,700,000
+(C) Lane County Courthouse ...... $ 94,895,000
+(D) Linn County Courthouse ....... $ 16,110,000
+(E) Supreme Court Building
+Renovation............................ $ 21,950,000
+Dedicated Fund Obligations
+(7) Department of Veterans’
+Affairs (Art. XI-A) ................ $ 180,000,000
+(8) Department of Environmental
+Quality (Art. XI-H) ............... $ 10,000,000
+(9) Housing and Community
+Services Department
+(Art. XI-I(2)) ......................... $ 50,000,000
+(10) Oregon Department of
+Administrative Services
+(Art. XI-Q):
+(a) Executive Building Interior
+and Seismic Renovation ........ $ 45,620,000
+(b) North Valley Complex
+Infrastructure Upgrades/
+Tenant Improvements ........... $ 60,820,000
+(c) Yellow Parking Lot Paving ... $ 4,055,000
+(d) State Forestry Department,
+Toledo Facility Replacement,
+Phase II ................................ $ 1,558,420
+(e) Oregon Liquor Control
+Commission:
+(A) Liquor Warehouse Conveyor
+System .................................. $ 10,175,000
+(B) Liquor Warehouse Land
+and Building.......................... $ 53,170,000
+(C) Liquor Warehouse
+Management IT System ........ $ 27,390,000
+Total General Obligation
+[5]
+SB 5505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Bonds
+....................................  $ 1,929,090,000
+SECTION 2. The amounts authorized, as provided by  ORS 286A.035, for issuance of re-
+venue bonds of the state during the 2021-2023 biennium are as follows:
+REVENUE BONDS
+Direct Revenue Bonds
+Housing and Community
+Services Department ............. $ 500,000,000
+Department of
+Transportation...................... $ 880,000,000
+Oregon Business Development
+Department ........................... $ 30,000,000 
+Oregon Department of
+Administrative Services,
+Lottery Revenue Bonds ........ $ 342,545,000
+Total Direct Revenue
+Bonds ....................................  $ 1,752,545,000
+Pass-Through Revenue Bonds
+Oregon Business Development
+Department, Industrial
+Development Bonds............... $ 600,000,000
+Oregon Business Development
+Department, Beginning and
+Expanding Farmer Loan
+Program ................................ $ 2,500,000
+Oregon Facilities Authority .. $ 1,000,000,000
+Housing and Community
+Services Department ............. $ 900,000,000
+Total Pass-Through Revenue
+Bonds ....................................  $ 2,502,500,000
+Total Revenue Bonds ............ $ 4,255,045,000
+SECTION 3. The amount authorized, as provided  by ORS 286A.035, for issuance of cer-
+tificates of participation and other financing  agreements of the state during the 2021-2023
+biennium for the Oregon Department of Administrative Services is $201,240,000.
+SECTION 4. (1) For calendar year 2022, the amount of $442,862,385 is  allocated for private
+activity bonds, as provided in ORS 286A.615, as follows:
+(a) Oregon Business Development
+Department, Industrial
+Development Bonds............... $ 40,000,000
+(b) Oregon Business Development
+Department, Beginning and
+Expanding Farmer Loan
+Program ................................ $ 1,000,000
+(c) Housing and Community
+Services Department ............. $ 250,000,000
+[6]
+SB 5505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) Private Activity Bond
+Committee............................. $ 151,862,385
+(2) For calendar year  2023, the amount of $442,862,385 is allocated for private activity
+bonds, as provided in ORS 286A.615, as follows:
+(a) Oregon Business Development
+Department, Industrial
+Development Bonds............... $ 40,000,000
+(b) Oregon Business Development
+Department, Beginning and
+Expanding Farmer Loan
+Program ................................ $ 1,000,000
+(c) Housing and Community
+Services Department ............. $ 250,000,000
+(d) Private Activity Bond
+Committee............................. $ 151,862,385
+(3) If  an increase in this state’s population, a sufficient increase in the Consumer Price
+Index or a change in federal law allows the private activity bond limit as  set by the Internal
+Revenue Code of 1986, as amended, to exceed $442,862,385  during the 2022 calendar year or
+$442,862,385 during the 2023  calendar year, the increase is allocated to the Private Activity
+Bond Committee.
+SECTION 5.
+For purposes of Article XI-G, section 1, of the Oregon Constitution, the
+Legislative Assembly determines that the  projects authorized to be financed pursuant to
+section 1 (1) of  this 2021 Act with bonds issued under Article XI-G of the Oregon Constitution
+will benefit higher education institutions or activities or community colleges  authorized by
+law to receive state aid.
+SECTION 6. Bonds authorized under section 1 (1) of this 2021  Act may not be issued until
+the constructing authority certifies that the constructing authority has matching funds
+available for the  same or similar purposes as the Article XI-G bonds that will fund the grant
+to the constructing authority, that the matching  funds are not proceeds of indebtedness in-
+curred by the state under any other article of  the Oregon Constitution, and that the
+matching funds are available to the constructing  authority in an amount at least equal to
+the amount of indebtedness incurred by  the state through the issuance of the Article XI-G
+bonds.
+SECTION 7.
+Of the proceeds from the lottery revenue bonds authorized under section 2
+of this 2021 Act, $6,500,000 may be used to provide the required matching funds in  relation
+to the Article XI-G bonds authorized under section 1 (1)(e) of this 2021 Act.
+SECTION 8. (1) Out of the amount specified in section 1 (6)(L)(A) of this  2021 Act, the
+State Treasurer may issue  Article XI-Q bonds in an amount not to exceed $26,600,000 of net
+proceeds for the purposes and in the manner specified  in section 8, chapter 705, Oregon Laws
+2013, plus an amount estimated by the State Treasurer to pay estimated bond-related costs.
+(2) Out of the amount specified  in section 1 (6)(L)(B) of this 2021 Act, the State Treasurer
+may issue Article XI-Q bonds in an amount not to exceed $63,000,000 of net  proceeds for the
+purposes and in the manner specified in section 8, chapter  705, Oregon Laws 2013, plus an
+amount estimated by the State Treasurer to pay estimated bond-related costs.
+(3) Out of the amount specified in section  1 (6)(L)(C) of this 2021 Act, the State Treasurer
+[7]
+SB 5505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+may issue Article XI-Q bonds in an amount not to exceed $94,000,000 of net  proceeds for the
+purposes and in the manner specified in  section 8, chapter 705, Oregon Laws 2013, plus an
+amount estimated by the State Treasurer to pay estimated bond-related costs.
+(4) Out of the amount  specified in section 1 (6)(L)(D) of this 2021 Act, the State Treasurer
+may issue Article XI-Q bonds in an amount not to exceed $15,900,000 of net  proceeds for the
+purposes and in the manner specified in section 8, chapter  705, Oregon Laws 2013, plus an
+amount estimated by the State Treasurer to pay estimated bond-related costs.
+SECTION 9.
+ ORS 283.085 is amended to read:
+283.085. As used in ORS 283.085 to 283.092:
+(1) “Available funds” means funds appropriated or otherwise made available by the  Legislative
+Assembly to pay amounts due under a financing agreement  for the fiscal period in which the pay-
+ments are due, unexpended proceeds of  the financing agreement and reserves or other amounts that
+have been deposited in trust to pay amounts due under the financing agreement.
+(2) “Credit enhancement agreement” means any agreement or  contractual relationship between
+the state and any bank, trust company, insurance company,  surety bonding company, pension fund
+or other financial institution providing additional credit on  or security for a financing agreement
+or certificates of participation authorized by ORS 283.085 to 283.092.
+(3) “Financing agreement” means a lease purchase agreement, an installment sale  agreement, a
+loan agreement or any other agreement:
+(a) To finance real or personal property that is or will be owned and operated by the state or
+any of its agencies;
+(b) To  finance infrastructure, including but not limited to telecommunications systems, systems
+for water, sewage, electricity, steam or natural gas and other equipment or improvements  that are
+necessary or appropriate to support a facility that is, or will be, owned or operated by the state;
+(c) To finance infrastructure components that are, or will be, owned or operated  by a local
+government agency of this state if the Director of the Oregon Department of Administrative Services
+determines that financing the  infrastructure facilitates the construction or operation of an adult or
+juvenile corrections facility or a public safety training facility owned or operated by  the state or
+any of its agencies;
+(d) To finance all or a portion of the state’s pension liabilities  for retirement, health care or
+disability benefits, in an amount  that produces net proceeds that do not exceed the State Treasurer’s
+estimate of those liabilities based on information provided to  the State Treasurer by the Public
+Employees Retirement System;
+(e) To finance:
+(A) The release of all or a portion of the Elliott State Forest from restrictions resulting  from
+ownership of that forest by the Common School Fund; or
+(B) Compensation paid to the Common School  Fund for the preservation of noneconomic benefits
+of the forest through the imposition, transfer or sale of restrictions such as easements, use require-
+ments or other methods that preserve noneconomic benefits of the forest for the public,  including
+recreation, aesthetics, wildlife or habitat preservation or other environmental and quality of life
+considerations; [or]
+(f) To finance the costs of broadband projects in  Oregon communities through grants,
+loans or other methods, including costs of  planning, engineering, improvement, acquisition,
+construction and deployment of broadband infrastructure, including  middle-mile and last-
+mile infrastructure, costs of acquiring equipment and other technology to operate broadband
+[8]
+SB 5505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+networks, and costs of acquiring or providing broadband services; or
+[(f)] (g) To refinance previously executed financing agreements.
+(4) “Financing costs” means costs or expenses  that the director determines are necessary or
+desirable in connection with entering  into financing agreements and maintaining the certificate of
+participation program, including but not limited to payment of:
+(a) Amounts due under financing agreements;
+(b) Costs and obligations the director or any other agency of  the state incurs in connection with
+the exercise of a power granted by ORS 283.085 to 283.092; and
+(c) Amounts due in connection with the investment of proceeds of financing agreements.
+(5) “Personal property” means tangible personal property, software and fixtures.
+(6) “Property rights”  means, with respect to personal property, the rights of a secured party
+under ORS chapter 79, and, with respect to real property, the rights of a trustee or  lender under a
+lease authorized by ORS 283.089 (1)(e).
+(7) “Software” means software and training and maintenance contracts related to the operation
+of computing equipment.
+SECTION 10.
+This 2021 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2021 Act takes effect
+July 1, 2021.
+[9]

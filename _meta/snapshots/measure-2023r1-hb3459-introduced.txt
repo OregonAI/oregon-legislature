@@ -1,0 +1,194 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 3459
+Sponsored by Representative HARTMAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Prohibits energy utility  from disconnecting service to residential customer for failure to pay
+amount owed for energy services.
+Prohibits energy utility from seeking to collect from residential customer who spends six percent
+or more of household income on energy costs.
+Requires energy utility to accept reasonable partial payment or payment  plan for overdue
+amounts. Requires any partial payment or payment plan to be less than six percent of  customer’s
+household monthly income.
+Permits energy utility to recover costs for overdue amounts in rates to all residential  service
+customers.
+Requires energy utility to provide Housing and  Community Services Department with contact
+information for residential customers who have higher than average energy usage. Requires depart-
+ment to contact customers to help customers access programs and resources that may  assist with
+reducing energy usage.
+A BILL FOR AN ACT
+Relating to energy utility residential customers.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 and 3 of  this 2023 Act are added to and made a part of ORS
+chapter 757.
+SECTION 2. (1) As used in this section:
+(a) “Customer” means the person in whose name an energy utility residential  service is
+provided.
+(b) “Energy burden” means the percentage of  household monthly gross income spent on
+energy costs.
+(c) “Energy utility” means a public utility, a people’s utility district organized  under ORS
+chapter 261, a municipal utility operating  under ORS chapter 225 or a cooperative organized
+under ORS chapter 62 that provides or delivers electricity or gas service.
+(d) “Seek to collect” includes:
+(A) Engaging in collection efforts for an amount owed that is overdue.
+(B) Hiring a third-party person or agency to collect an amount owed that is overdue.
+(C) Assigning to a third party an amount owed that is overdue.
+(2) An energy utility may not disconnect service to a customer of the energy utility for
+the reason that the customer failed to pay an amount owed to the energy utility.
+(3)(a) An  energy utility may not seek to collect from a customer who fails to pay an
+amount owed if the customer has an energy burden of six percent or more.
+(b) Notwithstanding paragraph (a) of this subsection, the energy utility may:
+(A) Continue to conduct the energy utility’s regular billing practices;
+(B) Contact the customer for purposes of offering or accepting  a reasonable partial pay-
+ment or payment plan for the amount owed that is overdue; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2861
+HB 3459
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(C) Provide the customer with information about organizations, programs or other re-
+sources that provide financial assistance or support services.
+(4)(a) Subject to the requirements in paragraph (b) this subsection, an energy  utility may
+seek to collect from  a customer who fails to pay an amount owed if the customer has an
+energy burden of less than six percent.
+(b) The energy utility shall:
+(A) Provide written notice to the customer at least 20 days prior to beginning  to seek to
+collect on an amount owed that is overdue; and
+(B) Accept a reasonable partial payment or  payment plan for an amount owed that is
+overdue.
+(5)(a) A partial payment or payment plan agreed to under this section may not include
+terms that require a customer to pay a monthly amount that is six percent or more  of the
+customer’s household monthly gross income.
+(b) An energy utility shall provide written notice to the customer at least 20  days prior
+to beginning to seek to collect on an amount owed under an agreed-upon  partial payment or
+payment plan if a customer fails to pay under the agreed-upon partial payment or payment
+plan.
+(6)(a) An  energy utility shall provide the Housing and Community Services Department
+the name and address of each customer from whom the energy utility seeks to collect whose
+annual income is 50 percent of the federal poverty rate guidelines or less.
+(b) The department shall contact the customer whose name is provided under  paragraph
+(a) of this subsection for  purposes of helping the customer access programs or resources
+that provide low-cost weatherization or other assistance for reducing energy usage.
+(7) An energy utility shall  establish billing procedures that provide a period of no less
+than 30 days from the date of a billing transmittal  for all current charges, including payment
+for final bills, to the date the payment for the charges is due.
+(8) The Public Utility Commission, for an energy utility that is a public  utility, or the
+governing body, for an energy utility that is a people’s  utility district, municipal utility or
+cooperative, may allow for costs  of overdue amounts owed to be recoverable in the rates of
+the energy utility, at a rate increase not to exceed one percent of the total revenues col-
+lected by the energy utility from all of the energy utility’s residential service customers.
+SECTION 3.
+(1) As used in this section, “energy utility” means a public utility, a people’s
+utility district organized under ORS chapter 261, a municipal utility operating under ORS
+chapter 225 or a cooperative organized under ORS chapter  62 that provides or delivers elec-
+tricity or gas service.
+(2) The Public Utility Commission, for an energy utility that is a public  utility, or the
+governing body, for an energy utility that is a people’s  utility district, municipal utility or
+cooperative, shall establish a program to identify residential customers who have higher than
+average energy usage and to connect those  residential customers with the Housing and
+Community Services Department for assistance with reducing their energy usage.
+(3) Under the program, an energy utility shall:
+(a) Identify each residential customer of the energy utility that has an energy usage  that
+is at least 135  percent of the average residential customer energy usage for the period from
+November 1 through March 31;
+(b) Provide the department with the name, address and energy  usage of each residential
+[2]
+HB 3459
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+customer identified under paragraph (a) of this subsection; and
+(c) Notify each residential customer identified under  paragraph (a) of this subsection the
+residential customer’s energy usage in comparison to the average residential  customer’s
+energy usage and provide the residential customer with the following:
+(A) Contact information  to an appropriate office within the department that may help the
+residential customer access programs or resources to assist with  reducing energy usage; and
+(B) Information on programs and resources that may assist with  reducing the residential
+customer’s energy usage.
+(4) The  department may reach out to a residential customer whose name was provided
+by an energy utility under subsection (3) of this section for  purposes of helping the residen-
+tial customer  access programs or resources to assist with reducing the residential
+customer’s energy usage.
+[3]

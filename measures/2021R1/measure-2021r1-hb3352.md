@@ -1,0 +1,560 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2021r1-hb3352
+title: 'HB 3352 (2021R1): Renames Health Care for All Oregon Children program as Cover All People program
+  and expands eligibility to adults who would qualify for Medicaid-funded state medical assistance program
+  but for their immigration status.'
+doc_type: dataset_doc
+citation: 2021 Regular Session House Bill 3352
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3352/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 6f2df916e99cc370bb118fd3dd70911599f50b1270a3078e2154e9ed2b7b7f49
+snapshot_id: measure-2021r1-hb3352-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 125.305
+  - ORS 127.505
+  - ORS 127.700
+  - ORS 192.245
+  - ORS 192.553
+  - ORS 192.556
+  - ORS 192.573
+  - ORS 410.150
+  - ORS 411.400
+  - ORS 411.402
+  - ORS 413.175
+  - ORS 413.201
+  - ORS 413.223
+  - ORS 413.225
+  - ORS 414.025
+  - ORS 414.231
+  - ORS 414.577
+  - ORS 414.578
+  - ORS 419B.372
+  - ORS 419C.481
+  - ORS 438.010
+  - ORS 442.015
+  - ORS 443.014
+  - ORS 443.850
+  - ORS 677.759
+  - ORS 680.200
+  - ORS 687.011
+  - ORS 687.405
+  - ORS 688.010
+  - ORS 688.405
+  - ORS 688.815
+  - ORS 688.819
+  - ORS 689.005
+  - ORS 691.405
+  - ORS 731.106
+  - ORS 743B.005
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2021r1
+- hb
+session_key: 2021R1
+measure_prefix: HB
+measure_number: 3352
+prefix_meaning: House Bill
+catch_line: Renames Health Care for All Oregon Children program as Cover All People program and expands
+  eligibility to adults who would qualify for Medicaid-funded state medical assistance program but for
+  their immigration status.
+minority_catch_line: null
+measure_summary: "\tRenames Health Care for All Oregon Children program as Cover All People program and\
+  \ expands eligibility to adults who would qualify for Medicaid-funded state medical assistance program\
+  \ but for their immigration status. <b>Allows Oregon Health Authority to restrict eligibility to specific\
+  \ categories or groups of individuals to stay within legislative appropriation for this biennium.</b>\
+  \ \n\tTakes effect on 91st day following adjournment sine die."
+relating_to: Relating to access to health care; and prescribing an effective date.
+relating_to_full: Relating to access to health care; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 3560
+measure_created_date: '2021-02-24T12:33:33'
+measure_modified_date: '2021-07-30T11:32:09'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 25143
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 125.305
+  - ORS 127.505
+  - ORS 127.700
+  - ORS 192.245
+  - ORS 192.553
+  - ORS 192.556
+  - ORS 192.573
+  - ORS 410.150
+  - ORS 411.400
+  - ORS 411.402
+  - ORS 413.175
+  - ORS 413.201
+  - ORS 413.223
+  - ORS 413.225
+  - ORS 414.025
+  - ORS 414.231
+  - ORS 414.577
+  - ORS 414.578
+  - ORS 419B.372
+  - ORS 419C.481
+  - ORS 438.010
+  - ORS 442.015
+  - ORS 443.014
+  - ORS 443.850
+  - ORS 677.759
+  - ORS 680.200
+  - ORS 687.011
+  - ORS 687.405
+  - ORS 688.010
+  - ORS 688.405
+  - ORS 688.815
+  - ORS 688.819
+  - ORS 689.005
+  - ORS 691.405
+  - ORS 731.106
+  - ORS 743B.005
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3352`.
+
+# HB 3352 — 2021 Regular Session (2021R1)
+
+## At a glance
+
+- **Measure:** House Bill 3352, 2021 Regular Session (2021R1)
+- **LC number:** 3560
+- **Created:** 2021-02-24T12:33:33
+- **Metadata last modified (upstream):** 2021-07-30T11:32:09
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 25143 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3352/Enrolled>.
+
+## Summary
+
+**Catchline:** Renames Health Care for All Oregon Children program as Cover All People program and expands eligibility to adults who would qualify for Medicaid-funded state medical assistance program but for their immigration status.
+
+**Relating to:** Relating to access to health care; and prescribing an effective date.
+
+Renames Health Care for All Oregon Children program as Cover All People program and expands eligibility to adults who would qualify for Medicaid-funded state medical assistance program but for their immigration status. <b>Allows Oregon Health Authority to restrict eligibility to specific categories or groups of individuals to stay within legislative appropriation for this biennium.</b> 
+ Takes effect on 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to access to health care; and prescribing an effective date.
+
+## Full text
+
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Enrolled
+House Bill 3352
+Sponsored by  Representatives CAMPOS, SALINAS, ALONSO LEON, DEXTER, REYNOLDS, Sen-
+ator STEINER HAYWARD; Representatives GRAYBER, HOLVEY, HUDSON,  KROPF, MARSH,
+MEEK, NOSSE, PHAM, POWER, PRUSAK, RUIZ, SCHOUTEN, SMITH WARNER,
+VALDERRAMA, WILLIAMS, Senators GELSER, LIEBER
+CHAPTER .................................................
+AN ACT
+Relating to access to  health care; creating new provisions; amending ORS 192.556, 413.201, 413.225,
+414.231 and 414.578; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 414.231 is amended to read:
+414.231. (1) As used in this section[ ,]:
+(a) “Adult” means a person 19 years of age or older.
+(b) “Child” means a person under 19 years of age.
+(2) The [ Health Care for All Oregon  Children ] Cover All People  program is established to make
+affordable, accessible health care available to all [ of Oregon’s children ] residents in  this state . The
+program provides medical assistance [ to children ], funded in whole or  in part by Title XIX of the
+Social Security Act, by the State Children’s Health Insurance Program  under Title XXI of the Social
+Security Act [ and] or  by  moneys appropriated or allocated [ for that purpose ] by the Legislative As-
+sembly to supplement funds received under Titles XIX or XXI of the Social Security Act .
+(3) A child is eligible for medical assistance under subsection (2)  of this section if the child re-
+sides in this state and the income of the child’s family is at or below 300 percent of  the federal
+poverty guidelines.
+(4) An adult is eligible for medical assistance  under subsection (2) of this section if the
+adult resides in this state and  would be eligible for medical assistance but for the adult’s
+immigration status.
+[(4)] (5) There is no asset limit to qualify for the program.
+[(5)(a)] (6)(a)  A child receiving medical assistance through the [ Health Care  for All Oregon
+Children] Cover All  People program is continuously eligible for a minimum period of 12 months or
+until the child reaches 19 years of age, whichever comes first.
+(b) The Department of Human Services or the Oregon Health Authority shall reenroll a child
+for successive 12-month periods  of enrollment as long as the child is eligible for medical assistance
+on the date of reenrollment and the child has not yet reached 19 years of age.
+(c) A child may not be required to submit a new application as a condition of reenrollment under
+paragraph (b) of this subsection.
+[(6)] (7) The department or the authority  must determine [ the child’s ] eligibility for or reenroll-
+ment in medical assistance  under this section  using information and  sources available to the de-
+partment or  the authority. If information and sources available to the department or the authority
+Enrolled House Bill 3352 (HB 3352-B) Page 1
+are not adequate to verify [ the child’s ] eligibility, the department or the authority may  require the
+[child] adult  or [ the] a  child’s caretaker to  provide additional documentation in accordance with
+ORS 411.400 and 411.402. Information requested or obtained by the department or the authority un-
+der this subsection is subject to the requirements of ORS 410.150 and 413.175.
+SECTION 2.
+ ORS 413.201 is amended to read:
+413.201. (1) The Oregon Health Authority  is responsible for statewide outreach , [ and marketing
+of] education and engagement for  the [ Health Care for All Oregon Children ] Cover All People
+program established in ORS 414.231 and administered by the authority with the goal  of enrolling in
+the program  all eligible [ children] individuals residing in this state. The authority, in collaboration
+with the work group described in subsection (3) of this section, shall  evaluate and implement the
+outreach , [ and marketing ] education and engagement  strategies designed to  most effectively en-
+courage [ the] enrollment [ of children ] in the program.
+(2) To maximize the enrollment and retention of eligible [ children] individuals in the  [ Health
+Care for All Oregon Children ] Cover All People program, the authority shall develop and administer
+a grant  program to provide funding to organizations and community based groups to deliver cul-
+turally specific and targeted outreach , [ and direct ] application assistance  and navigation to:
+(a) Members of racial, ethnic and language minority communities;
+(b) Children  and families  living in geographic isolation; and
+(c) Children and [ family members ] families  with  additional barriers to accessing health care,
+such as cognitive, mental health or  sensory disorders, physical disabilities or chemical
+dependency[ , and children experiencing ] or  homelessness.
+(3) The authority shall convene a work group, consisting of  individuals with experience in con-
+ducting outreach to the individuals described in subsection (2)(a) to (c) of this section, to advise  and
+assist the authority in carrying out its duties under this  section  and in developing an implemen-
+tation plan to ensure that community feedback is included from a health equity perspective .
+SECTION 3.
+ ORS 192.556 is amended to read:
+192.556. As used in ORS 192.553 to 192.581:
+(1) “Authorization” means a document written in plain language that contains at least  the fol-
+lowing:
+(a) A description of the information to be used  or disclosed that identifies the information in a
+specific and meaningful way;
+(b) The name or other specific identification of the person or persons authorized to  make the
+requested use or disclosure;
+(c) The name or other specific identification of the person or  persons to whom the covered en-
+tity may make the requested use or disclosure;
+(d) A description of each purpose of the requested use  or disclosure, including but not limited
+to a statement that the use or disclosure is at the request of the individual;
+(e) An expiration date or an expiration event that relates to the  individual or the purpose of the
+use or disclosure;
+(f) The signature of the individual or personal representative of the individual and the date;
+(g) A description of the authority of the personal representative, if applicable; and
+(h) Statements adequate to place the individual on notice of the following:
+(A) The individual’s right to revoke the authorization in writing;
+(B) The exceptions to the right to revoke the authorization;
+(C) The ability or inability to condition treatment, payment, enrollment or  eligibility for benefits
+on whether the individual signs the authorization; and
+(D) The potential for information disclosed pursuant to the authorization to be subject to
+redisclosure by the recipient and no longer protected.
+(2) “Covered entity” means:
+(a) A state health plan;
+(b) A health insurer;
+Enrolled House Bill 3352 (HB 3352-B) Page 2
+(c) A health care provider  that transmits any health information in electronic form to carry out
+financial or administrative activities in connection  with a transaction covered by ORS 192.553 to
+192.581; or
+(d) A health care clearinghouse.
+(3) “Health care” means care, services or supplies related to the health of an individual.
+(4) “Health care operations” includes but is not limited to:
+(a) Quality assessment, accreditation, auditing and improvement activities;
+(b) Case management and care coordination;
+(c) Reviewing the competence, qualifications or performance of health  care providers or health
+insurers;
+(d) Underwriting activities;
+(e) Arranging for legal services;
+(f) Business planning;
+(g) Customer services;
+(h) Resolving internal grievances;
+(i) Creating deidentified information; and
+(j) Fundraising.
+(5) “Health care provider” includes but is not limited to:
+(a) A psychologist, occupational therapist, regulated social worker, professional counselor  or
+marriage and family  therapist licensed or otherwise authorized to practice under ORS chapter 675
+or an employee of the psychologist, occupational therapist, regulated  social worker, professional
+counselor or marriage and family therapist;
+(b) A physician or physician assistant licensed under ORS chapter 677, an acupuncturist licensed
+under ORS 677.759 or an employee of the physician, physician assistant or acupuncturist;
+(c) A nurse or nursing home administrator licensed  under ORS chapter 678 or an employee of
+the nurse or nursing home administrator;
+(d) A dentist licensed under ORS chapter 679 or an employee of the dentist;
+(e) A dental hygienist or denturist licensed under ORS chapter 680 or an employee of  the dental
+hygienist or denturist;
+(f) A  speech-language pathologist or audiologist licensed under ORS chapter 681 or an employee
+of the speech-language pathologist or audiologist;
+(g) An emergency medical services provider licensed under ORS chapter 682;
+(h) An optometrist licensed under ORS chapter 683 or an employee of the optometrist;
+(i) A chiropractic physician licensed under ORS chapter 684 or an employee  of the chiropractic
+physician;
+(j) A naturopathic physician licensed under ORS chapter  685 or an employee of the naturopathic
+physician;
+(k) A massage therapist licensed under ORS 687.011 to 687.250 or an employee  of the massage
+therapist;
+(L) A direct entry midwife licensed under ORS 687.405 to 687.495 or an employee  of the direct
+entry midwife;
+(m) A physical  therapist licensed under ORS 688.010 to 688.201 or an employee of the physical
+therapist;
+(n) A medical imaging licensee under ORS 688.405 to  688.605 or an employee of the medical
+imaging licensee;
+(o) A respiratory care  practitioner licensed under ORS 688.815 or an employee of the respiratory
+care practitioner;
+(p) A polysomnographic technologist licensed under ORS 688.819 or an employee of  the poly-
+somnographic technologist;
+(q) A pharmacist licensed under ORS chapter 689 or an employee of the pharmacist;
+(r) A dietitian licensed under ORS 691.405 to 691.485 or an employee of the dietitian;
+Enrolled House Bill 3352 (HB 3352-B) Page 3
+(s) A funeral service practitioner  licensed under ORS chapter 692 or an employee of the funeral
+service  practitioner;
+(t) A health care facility as defined in ORS 442.015;
+(u) A home health agency as defined in ORS 443.014;
+(v) A hospice program as defined in ORS 443.850;
+(w) A clinical laboratory as defined in ORS 438.010;
+(x) A pharmacy as defined in ORS 689.005; and
+(y) Any other person or entity that furnishes, bills for or is paid for  health care in the normal
+course of business.
+(6) “Health information” means any oral or written information in any form or medium that:
+(a) Is created or received by a covered entity, a public health  authority, an employer, a life
+insurer, a school, a university or a health care provider that is not a covered entity; and
+(b) Relates to:
+(A) The past, present or future physical or mental health or condition of an individual;
+(B) The provision of health care to an individual; or
+(C) The past, present or future payment for the provision of health care to an individual.
+(7) “Health insurer” means an insurer as defined in ORS 731.106 who offers:
+(a) A health benefit plan as defined in ORS 743B.005;
+(b) A short term health insurance policy, the duration  of which does not exceed three months
+including renewals;
+(c) A student health insurance policy;
+(d) A Medicare supplemental policy; or
+(e) A dental only policy.
+(8) “Individually identifiable health information” means  any oral or written health information
+in any form or medium that is:
+(a) Created or received by a covered entity, an employer or a health care provider that is  not
+a covered entity; and
+(b) Identifiable to an individual,  including demographic information that identifies the individual,
+or for which there is a reasonable basis  to believe the information can be used to identify an indi-
+vidual, and that relates to:
+(A) The past, present or future physical or mental health or condition of an individual;
+(B) The provision of health care to an individual; or
+(C) The past, present or future payment for the provision of health care to an individual.
+(9) “Payment” includes but is not limited to:
+(a) Efforts to obtain premiums or reimbursement;
+(b) Determining eligibility or coverage;
+(c) Billing activities;
+(d) Claims management;
+(e) Reviewing health care to determine medical necessity;
+(f) Utilization review; and
+(g) Disclosures to consumer reporting agencies.
+(10) “Personal representative” includes but is not limited to:
+(a) A person appointed as a guardian under ORS 125.305,  419B.372, 419C.481 or 419C.555 with
+authority to make medical and health care decisions;
+(b) A  person appointed as a health care representative under ORS 127.505 to 127.660 or a rep-
+resentative under ORS 127.700 to 127.737 to make health care decisions or mental  health treatment
+decisions;
+(c) A person appointed as a personal representative under ORS chapter 113; and
+(d) A person described in ORS 192.573.
+(11)(a) “Protected health information”  means individually identifiable health information that is
+maintained or transmitted in any form of electronic or other medium by a covered entity.
+(b) “Protected health information”  does not mean individually identifiable health information in:
+Enrolled House Bill 3352 (HB 3352-B) Page 4
+(A) Education records covered by  the federal Family Educational Rights and Privacy Act (20
+U.S.C. 1232g);
+(B) Records described at 20 U.S.C. 1232g(a)(4)(B)(iv); or
+(C) Employment records held by a covered entity in its role as employer.
+(12) “State health plan” means:
+(a) Medical assistance as defined in ORS 414.025;
+(b) The [ Health Care for All Oregon Children ] Cover All People  program; or
+(c) Any medical assistance or premium assistance program operated by the Oregon  Health Au-
+thority.
+(13) “Treatment” includes but is not limited to:
+(a) The provision, coordination or management of health care; and
+(b) Consultations and referrals between health care providers.
+SECTION 4.
+ ORS 413.225 is amended to read:
+413.225. (1) As used in this section:
+(a) “Community health center or safety net clinic” means a nonprofit medical clinic  or school-
+based health center that provides primary physical health, vision, dental or mental health  services
+to low-income patients without charge or using a sliding scale based on the income of the patient.
+(b) “School-based health center” means a health clinic that:
+(A) Is located on the grounds of a school in a school district or on the  grounds of a school op-
+erated by a federally recognized Indian tribe or tribal organization;
+(B) Is organized through collaboration among schools,  communities and health providers, in-
+cluding public health authorities;
+(C) Is administered by a county, state, federal or private organization  that ensures that certif-
+ication requirements are met and  provides project funding through grants, contracts, billing or other
+sources of funds;
+(D) Is operated exclusively for the purpose of providing health services such as:
+(i) Primary care;
+(ii) Preventive health care;
+(iii) Management and monitoring of chronic health conditions;
+(iv) Behavioral health care;
+(v) Oral health care;
+(vi) Health education services; and
+(vii) The administration  of vaccines recommended by the Centers for Disease Control and Pre-
+vention;
+(E) Provides health services to children and adolescents by  licensed or certified health profes-
+sionals; and
+(F) May provide one or more health services to children and adolescents by:
+(i) A student enrolled in a professional medical, nursing or dental program at  an accredited
+university if the health service is within the student’s field of study and training; or
+(ii) An expanded practice dental hygienist  holding a permit issued under ORS 680.200 for oral
+health care.
+(2)(a) The Oregon Health Authority shall award grants to community health centers or  safety
+net clinics, including school-based health centers, to ensure the capacity  of each grantee to provide
+health care services to underserved or vulnerable populations.
+(b) The authority shall work with the  Centers for Medicare and Medicaid Services and
+stakeholders to identify additional sources of  funding for school-based health center expenditures for
+which federal financial participation is available under Title XIX or Title XXI of the Social  Security
+Act.
+(3) The authority shall provide outreach for the  [ Health Care for All Oregon Children ] Cover
+All People program, including development  and administration of an application assistance program,
+and including grants to provide funding to organizations and local groups for  outreach and enroll-
+Enrolled House Bill 3352 (HB 3352-B) Page 5
+ment activities for the program, within the limits of funds provided by the  Legislative Assembly for
+this purpose.
+(4) The authority shall, using funds allocated by the Legislative Assembly:
+(a) Provide funds for the expansion and continuation of school-based  health centers that are
+operating on July 29, 2013, and that become certified under ORS 413.223;
+(b) Direct funds  to communities with certified school-based health centers and to communities
+planning for certified school-based health centers; and
+(c) Create a pool of funds available to provide financial incentives to:
+(A) Increase the number of school-based  health centers identified as patient centered primary
+care homes without requiring school-based health centers to be identified as  patient centered pri-
+mary care homes;
+(B) Improve the coordination of the care of patients served by coordinated care  organizations
+and school-based health centers; and
+(C) Improve the effectiveness of the delivery of health services through school-based  health
+centers to children who qualify for medical assistance.
+(5) The  authority shall by rule adopt criteria for awarding grants and providing funds in ac-
+cordance with this section.
+(6) The authority shall analyze and evaluate the implementation of the  [ Health Care for All
+Oregon Children ] Cover All People  program.
+SECTION 5.
+ ORS 414.578 is amended to read:
+414.578. (1) A  community health improvement plan adopted by a coordinated care organization
+and its community advisory  council in accordance with ORS 414.577 shall include a component for
+addressing the health  of children and youth in the areas served by the coordinated care organization
+including, to the extent practicable, a strategy and a plan for:
+(a) Working with programs developed by the Early Learning Council, Early Learning  Hubs, the
+Youth Development Council and the school health providers in the region; and
+(b) Coordinating the effective and efficient delivery of  health care to children and adolescents
+in the community.
+(2) A  community health improvement plan must be based on research, including research into
+adverse childhood  experiences, and must identify funding sources and additional funding necessary
+to address the health needs of children and adolescents in the  community and to meet the goals of
+the plan. The plan must also:
+(a) Evaluate the adequacy of the  existing school-based health resources including school-based
+health centers and school nurses to meet the specific pediatric and adolescent health care needs  in
+the community;
+(b) Make recommendations to improve  the school-based health center and school nurse system,
+including the addition or improvement of electronic medical records and billing systems;
+(c) Take into consideration whether integration of school-based health  centers with the larger
+health system or system of community clinics would further advance the goals of the plan;
+(d) Improve the integration of all  services provided to meet the needs of children, adolescents
+and families;
+(e) Focus on primary care, behavioral health and oral health; and
+(f) Address promotion of health and prevention and early intervention in  the treatment of chil-
+dren and adolescents.
+(3) A coordinated care organization shall  involve in the development of its community health
+improvement plan, school-based health centers, school nurses, school mental  health providers and
+individuals representing:
+(a) Programs developed by the Early Learning Council and Early Learning Hubs;
+(b) Programs developed by the Youth Development Council in the region;
+(c) The Healthy Start Family Support Services program in the region;
+(d) The [ Health Care for All Oregon Children ] Cover All People  program and other medical  as-
+sistance  programs;
+Enrolled House Bill 3352 (HB 3352-B) Page 6
+(e) Relief nurseries in the region;
+(f) Community health centers;
+(g) Oral health care providers;
+(h) Community mental health providers;
+(i) Administrators of county health  department programs that offer preventive health services
+to children;
+(j) Hospitals in the region; and
+(k) Other appropriate child and adolescent health program administrators.
+(4) The Oregon Health Authority may provide incentive grants to coordinated care organizations
+for the purpose of contracting with individuals or organizations  to help coordinate integration
+strategies identified in the community health improvement plan adopted by the community  advisory
+council. The authority may  also provide funds to coordinated care organizations to improve systems
+of services that will promote the implementation of the plan.
+(5) Each coordinated care organization shall report to the  authority, in the form and manner
+prescribed by the authority, on the progress of the integration  strategies and implementation of the
+plan for working with the programs developed by the Early Learning Council, Early Learning  Hubs,
+the Youth Development Council and school health care providers  in the region, as part of the de-
+velopment and implementation of the community health improvement plan. The  authority shall
+compile the information biennially and report the information  to the Legislative Assembly by De-
+cember 31 of each even-numbered year.
+SECTION 6.
+(1) The Oregon Health  Authority, in collaboration with the Department of
+Consumer and Business Services if necessary, shall seek any federal approval or waivers of
+federal requirements  necessary to maximize federal financial participation in the costs of
+providing medical assistance to adults in the Cover All People program established  in ORS
+414.231.
+(2) Implementation of the amendments to ORS 414.231 by section 1 of this 2021  Act is not
+contingent upon federal approval or waivers described in subsection (1) of this section.
+SECTION 7. If necessary to stay within the moneys appropriated to the  Oregon Health
+Authority under section 11 of this  2021 Act, the authority may, based on recommendations
+of the work group described in ORS 413.201 (3), restrict eligibility under ORS 414.231 (4)  to
+specific categories or groups of individuals based on criteria adopted by the authority by rule.
+SECTION 8. The Oregon Health Authority shall report to the 2023 regular session  of the
+Legislative Assembly, in the manner described in ORS 192.245, on the implementation of the
+amendments to ORS 413.201 and 414.231 by sections 1 and 2 of this 2021 Act.
+SECTION 9.
+(1) The amendments to ORS 413.201 by section 2 of  this 2021 Act become
+operative on November 1, 2021.
+(2) The amendments to ORS 192.556, 413.225, 414.231 and 414.578 by sections  1 and 3 to 5
+of this 2021 Act become operative on July 1, 2022.
+(3) The Oregon Health Authority shall take  all steps prior to the operative dates specified
+in this section that are necessary to carry out the amendments to:
+(a) ORS 413.201 by section 2 of this 2021 Act on and after November 1, 2021; and
+(b) ORS 192.556, 413.225, 414.231 and 414.578 by sections 1 and  3 to 5 of this 2021 Act on
+and after July 1, 2022.
+SECTION 10.
+Section 7 of this 2021 Act is repealed on June 30, 2023.
+SECTION 11. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Oregon Health Authority, for the biennium beginning July 1, 2021, out of the
+General Fund, the amount of $100,000,000, which may be expended for  carrying out the
+amendments to ORS 413.201 and 414.231 by sections 1 and 2 of this 2021 Act.
+SECTION 12.
+This 2021 Act takes effect on the 91st day after the date on  which the 2021
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+Enrolled House Bill 3352 (HB 3352-B) Page 7
+Passed by House June 24, 2021
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate June 26, 2021
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2021
+Approved:
+........................M.,........................................................., 2021
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2021
+..................................................................................
+Shemia Fagan, Secretary of State
+Enrolled House Bill 3352 (HB 3352-B) Page 8
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 125.305, ORS 127.505, ORS 127.700, ORS 192.245, ORS 192.553, ORS 192.556, ORS 192.573, ORS 410.150, ORS 411.400, ORS 411.402, ORS 413.175, ORS 413.201, ORS 413.223, ORS 413.225, ORS 414.025, ORS 414.231, ORS 414.577, ORS 414.578, ORS 419B.372, ORS 419C.481, ORS 438.010, ORS 442.015, ORS 443.014, ORS 443.850, ORS 677.759, ORS 680.200, ORS 687.011, ORS 687.405, ORS 688.010, ORS 688.405, ORS 688.815, ORS 688.819, ORS 689.005, ORS 691.405, ORS 731.106, ORS 743B.005
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `6f2df916e99cc370bb118fd3dd70911599f50b1270a3078e2154e9ed2b7b7f49` (snapshot `_meta/snapshots/measure-2021r1-hb3352-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3352/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `53792215503725c75fa848ac7777e3b189d4efacb2d6e76f185b89a405be7d6c` (snapshot `_meta/snapshots/measure-2021r1-hb3352-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3352/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3352` (part of the batched per-session fetch), sha256 `5da569ca758abb18ddc62b98b159745491357dbe8bf5488fc371a795d58c4c1e` of the shared session snapshot `_meta/snapshots/measures-2021r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

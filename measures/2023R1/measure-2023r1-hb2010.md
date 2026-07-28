@@ -1,0 +1,1483 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2023r1-hb2010
+title: 'HB 2010 (2023R1): Directs Oregon Watershed Enhancement Board to establish program to provide grants
+  to water suppliers.'
+doc_type: dataset_doc
+citation: 2023 Regular Session House Bill 2010
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2010/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 004777bf31e7ed0251cee3b0e6259438bb21f304e7f291c69806794c2fb53fc8
+snapshot_id: measure-2023r1-hb2010-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.109
+  - ORS 174.111
+  - ORS 174.116
+  - ORS 182.535
+  - ORS 182.545
+  - ORS 192.245
+  - ORS 192.254
+  - ORS 198.010
+  - ORS 271.715
+  - ORS 285A.096
+  - ORS 294.805
+  - ORS 448.115
+  - ORS 468B.155
+  - ORS 536.007
+  - ORS 536.027
+  - ORS 536.220
+  - ORS 536.340
+  - ORS 536.410
+  - ORS 537.143
+  - ORS 537.144
+  - ORS 537.230
+  - ORS 537.348
+  - ORS 537.455
+  - ORS 537.505
+  - ORS 537.534
+  - ORS 537.630
+  - ORS 537.745
+  - ORS 537.747
+  - ORS 537.767
+  - ORS 537.797
+  - ORS 537.798
+  - ORS 540.530
+  - ORS 541.669
+  - ORS 541.673
+  - ORS 541.677
+  - ORS 568.210
+  - ORS 660.300
+  - ORS 672.002
+  - ORS 672.005
+  - ORS 672.255
+  - ORS 672.505
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2023r1
+- hb
+session_key: 2023R1
+measure_prefix: HB
+measure_number: 2010
+prefix_meaning: House Bill
+catch_line: Directs Oregon Watershed Enhancement Board to establish program to provide grants to water
+  suppliers.
+minority_catch_line: null
+measure_summary: "\t\t<i>Requires State Department of Agriculture to study water. Directs department to\
+  \ submit findings to interim committees of Legislative Assembly related to natural resources not later\
+  \ than September 15, 2024.</i>] \n\t<b>Directs Oregon Watershed Enhancement Board to establish program\
+  \ to provide grants to water suppliers. Establishes Community Drinking Water Enhancement and Protection\
+  \ Fund for purposes related to program. \n\tMakes certain changes related to purposes for which moneys\
+  \ in Water Well Abandonment, Repair and Replacement Fund may be used. \n\tDirects Legislative Policy\
+  \ and Research Director to report, on or before January 15, 2024, on water infrastructure-related benefits\
+  \ for low-income persons. \n\tDirects Water Resources Department to take certain actions on or before\
+  \ October 1, 2024, related to implementing 1998 Stewardship and Supply Initiative. \n\tDirects Oregon\
+  \ Consensus at Portland State University to establish collaborative process related to Chewaucan River\
+  \ watershed. \n\tMakes certain changes related to integrated state water resources policy. \n\tDirects\
+  \ Oregon State University Extension Service and Oregon State University Agricultural Experiment Station\
+  \ to jointly establish agricultural water management technical assistance program. \n\tDirects Oregon\
+  \ State University Extension Service and Oregon State University Agricultural Experiment Station to\
+  \ jointly prepare annual reports related to program and climate-related impacts on agricultural producers.\
+  \ \n\tEstablishes Place-Based Water Planning Fund and authorizes Water Resources Director to award grants\
+  \ from fund. \n\tMakes certain changes related to requirements for certification as water right examiner.\
+  \ \n\tDirects Department of Environmental Quality to take certain actions related to water reuse or\
+  \ recycled water programs and projects. \n\tDirects Oregon Department of Administrative Services to\
+  \ enter into contract with Oregon Association of Water Utilities for certain purposes. \n\tAuthorizes\
+  \ Water Resources Department to require certain reporting related to water use. \n\tMakes certain changes\
+  \ related to loans and grants from Water Supply Development Account. \n\tDirects Oregon Business Development\
+  \ Department to establish Aquifer Recharge Due Diligence Grant Program and Aquifer Recharge Testing\
+  \ Forgivable Loan Program and annually report on programs. Establishes Aquifer Recharge Fund for purposes\
+  \ related to programs. \n\tDirects Oregon Department of Administrative Services to provide grants related\
+  \ to treatment of western juniper. Directs Oregon State University to take certain actions related to\
+  \ assisting grant recipients. \n\tAppropriates moneys to certain state agencies for purposes related\
+  \ to water. Establishes maximum limits for certain payments related to water. \n\tDeclares emergency,\
+  \ effective on passage.</b>"
+relating_to: Relating to water; and declaring an emergency.
+relating_to_full: Relating to water; and declaring an emergency.
+at_the_request_of: null
+lc_number: 4514
+measure_created_date: '2023-05-23T16:04:55'
+measure_modified_date: '2023-08-21T11:16:09'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 87462
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.109
+  - ORS 174.111
+  - ORS 174.116
+  - ORS 182.535
+  - ORS 182.545
+  - ORS 192.245
+  - ORS 192.254
+  - ORS 198.010
+  - ORS 271.715
+  - ORS 285A.096
+  - ORS 294.805
+  - ORS 448.115
+  - ORS 468B.155
+  - ORS 536.007
+  - ORS 536.027
+  - ORS 536.220
+  - ORS 536.340
+  - ORS 536.410
+  - ORS 537.143
+  - ORS 537.144
+  - ORS 537.230
+  - ORS 537.348
+  - ORS 537.455
+  - ORS 537.505
+  - ORS 537.534
+  - ORS 537.630
+  - ORS 537.745
+  - ORS 537.747
+  - ORS 537.767
+  - ORS 537.797
+  - ORS 537.798
+  - ORS 540.530
+  - ORS 541.669
+  - ORS 541.673
+  - ORS 541.677
+  - ORS 568.210
+  - ORS 660.300
+  - ORS 672.002
+  - ORS 672.005
+  - ORS 672.255
+  - ORS 672.505
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2010`.
+
+# HB 2010 — 2023 Regular Session (2023R1)
+
+## At a glance
+
+- **Measure:** House Bill 2010, 2023 Regular Session (2023R1)
+- **LC number:** 4514
+- **Created:** 2023-05-23T16:04:55
+- **Metadata last modified (upstream):** 2023-08-21T11:16:09
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 87462 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2010/Enrolled>.
+
+## Summary
+
+**Catchline:** Directs Oregon Watershed Enhancement Board to establish program to provide grants to water suppliers.
+
+**Relating to:** Relating to water; and declaring an emergency.
+
+<i>Requires State Department of Agriculture to study water. Directs department to submit findings to interim committees of Legislative Assembly related to natural resources not later than September 15, 2024.</i>] 
+ <b>Directs Oregon Watershed Enhancement Board to establish program to provide grants to water suppliers. Establishes Community Drinking Water Enhancement and Protection Fund for purposes related to program. 
+ Makes certain changes related to purposes for which moneys in Water Well Abandonment, Repair and Replacement Fund may be used. 
+ Directs Legislative Policy and Research Director to report, on or before January 15, 2024, on water infrastructure-related benefits for low-income persons. 
+ Directs Water Resources Department to take certain actions on or before October 1, 2024, related to implementing 1998 Stewardship and Supply Initiative. 
+ Directs Oregon Consensus at Portland State University to establish collaborative process related to Chewaucan River watershed. 
+ Makes certain changes related to integrated state water resources policy. 
+ Directs Oregon State University Extension Service and Oregon State University Agricultural Experiment Station to jointly establish agricultural water management technical assistance program. 
+ Directs Oregon State University Extension Service and Oregon State University Agricultural Experiment Station to jointly prepare annual reports related to program and climate-related impacts on agricultural producers. 
+ Establishes Place-Based Water Planning Fund and authorizes Water Resources Director to award grants from fund. 
+ Makes certain changes related to requirements for certification as water right examiner. 
+ Directs Department of Environmental Quality to take certain actions related to water reuse or recycled water programs and projects. 
+ Directs Oregon Department of Administrative Services to enter into contract with Oregon Association of Water Utilities for certain purposes. 
+ Authorizes Water Resources Department to require certain reporting related to water use. 
+ Makes certain changes related to loans and grants from Water Supply Development Account. 
+ Directs Oregon Business Development Department to establish Aquifer Recharge Due Diligence Grant Program and Aquifer Recharge Testing Forgivable Loan Program and annually report on programs. Establishes Aquifer Recharge Fund for purposes related to programs. 
+ Directs Oregon Department of Administrative Services to provide grants related to treatment of western juniper. Directs Oregon State University to take certain actions related to assisting grant recipients. 
+ Appropriates moneys to certain state agencies for purposes related to water. Establishes maximum limits for certain payments related to water. 
+ Declares emergency, effective on passage.</b>
+
+**RelatingToFull (verbatim upstream field):** Relating to water; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Enrolled
+House Bill 2010
+Sponsored by Representatives HELM, OWENS, Senators  LIEBER, DEMBROW; Representatives
+GAMBA, KROPF, LEVY B, LEVY E, NELSON, RUIZ, WALTERS, Senators FINDLEY,
+HANSELL
+CHAPTER .................................................
+AN ACT
+Relating to water; creating new provisions;  amending ORS 536.220, 537.767, 537.797, 537.798 and
+541.669; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section, “water supplier” and “water  system” have the
+meanings given those terms in ORS 448.115.
+(2) The Oregon Watershed Enhancement  Board shall establish a program to provide
+grants to water suppliers to protect, restore or enhance sources of drinking water.
+(3) Grants awarded under this section shall be used by a grant recipient for:
+(a) Acquiring lands from willing sellers where the protection, restoration or enhancement
+of those lands will benefit a source of drinking water used by the water supplier;
+(b) Entering into covenants, easements or  similar agreements to protect, restore or en-
+hance lands described in paragraph (a) of this subsection; or
+(c) Repaying a loan used to finance a project to protect, restore or enhance lands  con-
+sistent with paragraph (a) or (b) of this subsection.
+(4)(a) Grants awarded under this section may not exceed $3,000,000.
+(b) The board shall award grants under this section on a rolling basis.
+(5) For purposes  of obtaining a grant under this section, a water supplier may form a
+partnership with a holder, as defined in ORS 271.715, other than  a state agency. The board
+may establish by rule requirements for partnerships formed pursuant to this subsection.
+(6) Applications for a grant under this section shall be  made in the form and manner
+prescribed by the board. An  application must demonstrate that the project will protect, re-
+store or enhance a source of drinking water, and must be supported by  evidence. The board
+shall review completed grant applications, rank grant applications based on criteria  estab-
+lished by the board by rule under subsection (7)  of this section and approve or deny the ap-
+plications. If the board  denies a grant application, the board shall notify the applicant in
+writing of the reason or reasons that the grant application was denied.
+(7) The board shall adopt rules for  the administration of the grant program established
+under this section. Rules adopted under  this subsection may include, but need not be limited
+to:
+(a) Eligibility criteria for water suppliers, including but not limited to:
+(A) Eligible water system types; and
+Enrolled House Bill 2010 (HB 2010-A) Page 1
+(B) Requirements that eligible water suppliers  serve rural communities, communities
+experiencing lower incomes or communities that  are at or below a specified population level;
+(b) Requirements for grant applications and the grant application process;
+(c) Criteria for ranking grant applications;
+(d) Requirements setting forth the  amount of matching funds a grant applicant must
+provide to be eligible to receive a grant;
+(e) A schedule for when grant applications are due and grants will be awarded; or
+(f) Provisions setting  forth how the board will verify that grant funds have been used for
+the purposes for which the grant was awarded, including but not limited to:
+(A) Provisions requiring status reports  or other verification measures that ensure that
+the terms and conditions of any  agreement between the board and the grant recipient are
+being performed;
+(B) Provisions describing methods of protecting, enhancing or  restoring sources of
+drinking water; and
+(C) Provisions requiring the development of a long-term management plan for acquired
+lands.
+(8)(a) A grant recipient is responsible for fulfilling the terms and conditions of any
+agreement:
+(A) Between the grant recipient and the board; and
+(B) Between the grant recipient and a landowner, or  other person, necessary for the
+grant recipient to carry out the project for which a grant has been awarded.
+(b) The board is not liable to any person for the failure of a grant recipient to  fulfill the
+terms or conditions of any agreement between the person and the grant recipient.
+SECTION 2.
+No later than April  1 of each even-numbered year, the Oregon Watershed
+Enhancement Board shall submit a  report, in the manner provided by ORS 192.254, to the
+interim committees of the Legislative Assembly related to  water. The report shall describe
+the performance of the grant program established under section 1 of this 2023 Act. The  re-
+port must include, but need not be limited to:
+(1) Each grant awarded under the program since the last report;
+(2) The types and amounts of resources leveraged by grant moneys;
+(3) A description of projects currently in development;
+(4) An estimate of future project demand; and
+(5) Recommendations, if  any, for changes to the design, scope or administration of the
+program to better fulfill the purposes of section 1 of this 2023 Act.
+SECTION 3.
+Notwithstanding section 2 of this 2023 Act, the Oregon  Watershed En-
+hancement Board shall first submit a report under  section 2 of this 2023 Act no later than
+April 1, 2025.
+SECTION 4. The Community Drinking  Water Enhancement and Protection Fund is es-
+tablished in the State Treasury,  separate and distinct from the General Fund. Interest
+earned by the Community Drinking Water Enhancement and Protection Fund shall  be cred-
+ited to the fund. The fund shall consist of all moneys credited to  the fund, including moneys
+appropriated or transferred to the fund by the  Legislative Assembly. Moneys in the fund are
+continuously appropriated to the Oregon Watershed Enhancement Board for  the purpose of
+carrying out section 1 of this 2023 Act.
+SECTION 5.  ORS 537.767 is amended to read:
+537.767. (1) As used in this section, “repair” may include, but is  not limited to, a well deepening.
+(2) Moneys in the Water Well Abandonment, Repair and  Replacement Fund may be disbursed
+under authority of the Water Resources Director  for the purposes described in this section. The
+Water Resources Department may disburse moneys from the fund to provide financial assistance:
+(a) To a person, as defined in ORS 536.007, or member of a federally  recognized Indian tribe in
+Oregon to permanently abandon a water well or to repair or replace a water well that  is used for
+household purposes;
+Enrolled House Bill 2010 (HB 2010-A) Page 2
+(b) To nonprofit, governmental or other institutions that meet qualifications  established by Wa-
+ter Resources Commission rules, for programs to permanently abandon water wells and  to repair
+or replace water wells used for household purposes;
+(c) As cost-sharing with other programs to permanently abandon water wells and  to repair or
+replace water wells used for household purposes; or
+(d) To pay the cost  of direct services of a water well constructor licensed under ORS 537.747
+to purchase necessary  materials and perform the work needed for abandoning, repairing or replacing
+water wells that are eligible under this section.
+(3) Except as provided  in subsection (4) of this section, financial assistance provided under
+subsection (2) of this section may not exceed:
+(a) 75 percent of the cost to permanently abandon a water well;
+(b) 75 percent of the cost to repair or to replace a water well used for household purposes; or
+(c) 50 percent of the cost of developing a program to permanently abandon, repair  or replace
+water wells, when paid to an institution described in subsection (2)(b) of this section.
+(4) Notwithstanding subsection (3) of this section, financial  assistance provided under subsection
+(2) of this section  to an individual with lower income, as defined by the department, may cover the
+full cost of the materials or work described in subsection (2) of this section.
+(5) An expenditure from the fund is subject to at least one of the following purposes:
+(a) The permanent abandonment, repair or replacement of water wells in which deficiencies  in
+the well construction might:
+(A) Result in waste, loss of artesian pressure or ground water declines;
+(B) Serve as a conduit for contamination; or
+(C) Otherwise be a detriment to public health or safety.
+(b) The repair or replacement of water wells  used for household purposes by persons of lower
+or moderate income.
+(c) The  replacement of water wells used for household purposes in areas of declining ground
+water levels where other sources of water for household purposes are not feasible.
+(d) The abandonment, repair or replacement of water wells consistent with  water resources
+management purposes specified by rule by the commission.
+(e) The abandonment, repair or replacement of water wells damaged due to natural disasters.
+(f) The abandonment, repair or replacement of water wells used for household  purposes
+in areas of ground water  contamination, if contaminant levels in the water from the water
+wells exceed levels permitted under drinking water standards.
+(6) If the department provides  funding to an institution under subsection (2)(b) of this section,
+the department shall require that the institution:
+(a) Use accounting, auditing and fiscal procedures that conform with generally accepted gov-
+ernment accounting standards;
+(b) Give preference to persons of lower or moderate  income and to small businesses that do not
+qualify for other financing;
+(c) Demonstrate past success in  offering, underwriting, servicing and managing loans or grants
+to:
+(A) Persons of lower or moderate income; or
+(B) Persons representing a wide range of qualifications for credit; and
+(d) Have a plan for  engaging other stakeholders in outreach and marketing efforts for a loan
+or grant program.
+(7) The department :
+(a) Shall consult with the Department of Environmental Quality and the  Oregon Health
+Authority to establish criteria related to identifying areas of  ground water contamination
+and assessing contaminant  levels when evaluating applications under subsection (5)(f) of this
+section.
+Enrolled House Bill 2010 (HB 2010-A) Page 3
+(b) May deny applications for  financial assistance under this section that are not likely
+to result in the improvement of ground water quality or the meeting of  drinking water
+standards.
+(c) May enter into contracts,  intergovernmental agreements or other arrangements with public
+or private entities for any purposes consistent with this section.
+(8) The commission may adopt rules to implement this section, including rules that:
+(a) Prioritize the issuance  of the funding for a purpose described in subsection (5) of this section.
+(b) Establish a preference for providing the funding to  individuals of moderate or lower income.
+(c) Establish that the funding may only be  provided to individuals of moderate or lower income.
+SECTION 6.
+(1) On or before January 15, 2024,  the Legislative Policy and Research Di-
+rector, or a designee  of the director, shall prepare and submit a report to a committee or
+interim committee of the Legislative Assembly related to water on:
+(a) Processes and outcomes in Oregon related  to recent federal funding opportunities to
+assist low-income drinking water, wastewater and stormwater ratepayers.
+(b) Approaches and funding sources for  an ongoing statewide assistance program for
+low-income drinking water, wastewater and stormwater ratepayers.
+(c) Approaches and  funding sources to help low-income individuals and households fi-
+nance the replacement or repair of private residential  drinking water and sewer
+infrastructure.
+(d) Opportunities to leverage federal funds for the  purposes described in paragraphs (b)
+and (c) of this subsection.
+(2) In preparing the report, the director, or the designee of the director, shall  consult
+with individuals and entities with relevant knowledge from diverse geographies  and perspec-
+tives, such as:
+(a) Municipally and privately  owned or operated drinking water and wastewater utility
+providers of various sizes.
+(b) Organizations with experience in providing technical assistance  to water and
+wastewater utilities.
+(c) Organizations with experience  in rate assistance or support for low-income drinking
+water, wastewater or stormwater ratepayers.
+(d) Organizations representing cities, counties and special districts.
+(3) All state agencies shall assist and advise as requested by the director,  or the designee
+of the director, in order to undertake the duties described in subsections (1) and (2) of this
+section.
+SECTION 7.
+On or before October 1, 2024, the Water Resources  Department shall de-
+velop, and provide to a committee or interim committee of the Legislative  Assembly related
+to water, an updated scope and estimated  cost and timeline for implementing the 1998
+Stewardship and Supply Initiative and  a proposed approach to sequencing development of
+river basin assessment reports.
+SECTION 8. (1) Oregon Consensus at Portland State  University and Oregon State Uni-
+versity shall establish a collaborative process for:
+(a) Developing a shared understanding of  water management in the Chewaucan River
+watershed; and
+(b) Identifying broadly supported actions related to the Chewaucan  River watershed that
+will strive to:
+(A) Meet water needs, including needs for  agricultural operations, communities, Lake
+Abert, wet meadows and fish and wildlife;
+(B) Address the ecological health of Lake  Abert and the entire Chewaucan River
+watershed; and
+(C) Consider social, economic and environmental benefits and impacts.
+Enrolled House Bill 2010 (HB 2010-A) Page 4
+(2) The process must be guided by a governance agreement that describes conditions  for
+participation, the scope of the  collaborative process, how decisions will be made and how the
+process will:
+(a) Be developed by a  collaborative group that represents a balance of interests, including
+but not limited to interests in in-stream and out-of-stream water;
+(b) Address current and future in-stream and out-of-stream water needs;
+(c) Promote contemplation of actions that are consistent with the state water  resources
+policy as  defined in ORS 536.007 and water-related state laws that are in effect on the effec-
+tive date of this 2023 Act;
+(d) Be developed  through an open and transparent process that fosters public partic-
+ipation; and
+(e) Be developed  in consultation with the Department of Environmental Quality, the
+State Department  of Fish and Wildlife, the Water Resources Department and affected
+federally recognized Indian tribes.
+(3) The process may not delay or preclude the activities of agencies, including  activities
+such as applying for  in-stream water rights, regulating water use, managing water rights,
+collecting water-related data and performing technical analyses.
+(4) The process may not interfere with water appropriations  granted on or before the
+effective date of this 2023 Act for privately held surface and ground water rights to use water
+from the Chewaucan River watershed and the tributaries of the watershed.
+(5) The process may not delay or preclude the activities of private landowners, including
+activities such as applying for new water rights, for water right transfer,  for changes in
+points of diversion or appropriation or for irrigation uses, or any other activities  allowed
+under water-related state laws.
+SECTION 9.
+Section 8 of this 2023 Act is repealed on June 30, 2025.
+SECTION 10.  ORS 536.220 is amended to read:
+536.220. (1) The Legislative Assembly recognizes and declares that:
+(a) The maintenance of the present level of the economic and general welfare of  the people of
+this state and  the future growth and development of this state for the increased economic and gen-
+eral welfare of the people thereof are in large part dependent upon a  proper utilization and control
+of the water  resources of this state, and such use and control is therefore a matter of greatest
+concern and highest priority.
+(b) A proper utilization and control of the water resources of this state can be achieved  only
+through a coordinated, integrated state water resources policy, through plans and programs for  the
+development of such water  resources and through other activities designed to encourage, promote
+and secure the maximum beneficial  use and control of such water resources, all carried out by a
+single state agency.
+(c) The economic and general welfare of the people  of this state have been seriously impaired
+and are in danger of further impairment by the exercise of  some single-purpose power or influence
+over the water resources of this state or portions thereof by each of a  large number of public au-
+thorities, and by an equally large number of legislative declarations by  statute of single-purpose
+policies with regard to such water resources, resulting  in friction and duplication of activity among
+such public authorities, in confusion as to what is primary and what is  secondary beneficial use or
+control of such water resources  and in a consequent failure to utilize and control such water re-
+sources for multiple purposes for the maximum beneficial use and control possible and necessary.
+(2) The Legislative Assembly, therefore, finds that:
+(a) It is in the interest of the  public welfare that a coordinated, integrated state water resources
+policy be formulated  and means provided for its enforcement, that plans and programs for the de-
+velopment and enlargement of the water  resources of this state be devised and promoted and that
+other activities designed to encourage, promote and secure the maximum beneficial  use and control
+of such water  resources and the development of additional water supplies be carried out by a single
+state agency that, in carrying out its functions, shall  give proper and adequate consideration to the
+Enrolled House Bill 2010 (HB 2010-A) Page 5
+multiple aspects of the beneficial use and control of such water resources with an impartiality  of
+interest except that designed to best protect and promote the public welfare generally.
+(b) The state water resources policy shall be consistent with the goal set  forth in ORS 468B.155.
+(3)[(a)] The Water Resources Department shall develop an integrated state water  resources
+strategy to implement  the state water resources policy specified in subsection (2) of this section.
+The department shall design the strategy to  meet Oregon’s in-stream and out-of-stream water needs.
+[(b)] (4) The Water Resources Department shall work in close  cooperation with the Department
+of Environmental  Quality , the Oregon Watershed Enhancement Board, the State Department
+of Agriculture  and the State Department of Fish and Wildlife to develop the integrated state water
+resources strategy , in consultation with other state, local and federal agencies, with other  states,
+with Indian tribes, with stakeholders and with the public.
+[(c)] (5)  The Water Resources Department,  in close cooperation with the Department of Envi-
+ronmental Quality , the  State Department of Agriculture  and the State Department of Fish and
+Wildlife, shall develop data on an  ongoing basis to forecast Oregon’s in-stream and out-of-stream
+water needs, including but not limited  to in-stream, [ underground] ground water, human consump-
+tion, irrigated agriculture  and water supply needs, for the  purpose of developing and updating the
+integrated state water resources strategy.
+[(d)] (6) The integrated state water resources strategy shall describe [ the following ]:
+[(A)] (a)  Oregon’s in-stream and out-of-stream  water needs, including but not limited to
+ecosystem services, water quality and water supply needs.
+(b) Critical water issues at the state level and within water basins across this state.
+[(B)] (c)  Objectives of the strategy.
+[(C)] (d) Actions that are designed to achieve the objectives of the strategy.
+[(D)] (e)  Plans [ related to ] and actions concerning  water-related natural hazards and  the
+challenges presented by climate change.
+[(E)] (f)  Provisions to ensure communication [ and partnership ] and engagement with the pub-
+lic.
+(g) Provisions to promote meaningful engagement with environmental  justice communi-
+ties, as defined in ORS 182.535, consistent with the requirements of ORS 182.545.
+(h) Provisions to promote partnerships  with Indian tribes, public bodies, as defined in
+ORS 174.109, and key stakeholders  to implement recommended actions, as appropriate.
+(i) How the integrated state water  resources strategy will be implemented at multiple
+scales in a balanced, equitable and integrated manner.
+(j) How to support implementation of priority  actions recommended in other relevant
+state-developed or state-recognized plans or strategies .
+[(F)] (k)  Specific  functions and roles to be played by state agencies, including but not limited
+to the Department of Environmental Quality, the State Department of Fish  and Wildlife,  the
+State Department of Agriculture, the State Forestry Department, the Department of  Human Ser-
+vices, the Oregon Business Development Department, the  Department of Land Conservation and
+Development, the Oregon Watershed Enhancement Board, the State Parks and Recreation  Depart-
+ment, the Oregon Health Authority,  the Department of  State Lands and other relevant state
+agencies , along with provisions to achieve interagency coordination .
+(L) Provisions  to achieve coordination with federal agencies and states that neighbor
+Oregon.
+[(G)] (m)  Public policy options and recommendations.
+[(H)] (n)  Relevant strategy factors, including but not limited to population growth and land  use
+change.
+[(I)] (o)  Recommendations [ of the Water Resources Department ] regarding the continuous moni-
+toring of climate change effects on Oregon’s water supply and regarding water  user actions that are
+necessary to address climate change.
+(p) Processes by which a biennial  work plan will be developed and by which implementa-
+tion of the work plan will be coordinated.
+Enrolled House Bill 2010 (HB 2010-A) Page 6
+[(e)(A) ] (7) Before adopting or revising the integrated  state water resources strategy,  the
+Water Resources Commission shall give  notice to  the Environmental Quality Commission, the
+Oregon Watershed Enhancement Board, the State [ Department] Board of Agriculture , [ and] the
+State [ Department of ] Fish  and Wildlife  Commission and any other agency referenced in the
+strategy [ notice of the integrated state water  resources strategy prior to adoption of the strategy ]. The
+strategy , and any revisions to the strategy,  shall take effect upon adoption  by the Water Re-
+sources Commission.
+[(B)] (8)  The Water Resources Commission shall review  and update the integrated state water
+resources strategy at least  every  [ five] eight years. [ The Water Resources Commission shall give
+notice to the Environmental  Quality Commission, the State Department of Agriculture and the State
+Department of Fish and Wildlife prior to adopting any revisions of the strategy. Revisions of  the
+strategy shall take effect upon the Water Resources Commission’s  adoption of the revised strategy by
+reference in rule. ]
+(9) All agencies of state government, as defined in ORS 174.111, shall:
+(a) Assist the Water Resources Department, as requested,  in performing the duties de-
+scribed in this section; and
+(b) Furnish information as necessary to develop, update  and implement the integrated
+state water resources strategy.
+[(4)] (10) This section does not limit the authority granted the Environmental Quality Commis-
+sion or the Department of Environmental Quality under ORS chapter 468B.
+SECTION 11.
+The amendments to ORS 536.220  by section 10 of this 2023 Act become op-
+erative on  the first date after the effective date of this 2023 Act on which the Water Re-
+sources Commission adopts  updates to the integrated state water resources strategy
+described in ORS 536.220.
+SECTION 12. The Oregon State University Extension  Service and the Oregon State Uni-
+versity Agricultural Experiment Station shall jointly establish an agricultural water man-
+agement technical  assistance program. The technical assistance program shall be a
+voluntary, nonregulatory and incentive-based program that may include the following ele-
+ments:
+(1) Staffing of agricultural water management specialists based in different regions  of
+this state who will be responsible for:
+(a) Building collaborative relationships with water and land managers; and
+(b) Developing research-based water  management programs that utilize data collected
+under subsection (6) of this section to provide publicly available statewide and  regional tools
+for water and land managers that foster regionally specific knowledge and expertise.
+(2) Connecting  agricultural producers to information, resources, tools, programs, part-
+ners, funding opportunities and other  incentives to improve on-farm water management
+practices and outcomes for the producers’ operations and water resources.
+(3) Creating a voluntary demonstration network of  willing agricultural producers to de-
+velop on-farm demonstration projects  featuring water-related management practices that
+yield quantifiable water quality and quantity benefits for the producers’ operations and water
+resources and to promote the uptake of effective practices, including, but not limited to:
+(a) Modification of irrigation equipment;
+(b) Measurement and monitoring of water diversions and water use;
+(c) Use of data in decision-making;
+(d) Irrigation management practices;
+(e) Soil management practices;
+(f) Dryland farming practices;
+(g) Crop rotations and rotational grazing practices;
+(h) Temporary  or permanent voluntary in-stream flow restoration, such as in-stream
+leasing and split-season leasing, as described in ORS 537.348;
+Enrolled House Bill 2010 (HB 2010-A) Page 7
+(i) Use of the program for the allocation of conserved  water established under ORS
+537.455 to 537.500;
+(j) Novel water sharing agreements or arrangements that benefit  other in-stream and
+out-of-stream water uses;
+(k) Water reuse;
+(L) Effective use of state and federal programs;
+(m) Practices that restore and protect fish and wildlife habitat;
+(n) Practices that reduce energy use and costs;
+(o) Fish screening and fish passage; and
+(p) Experimentation with alternative crops and drought-resistant crops.
+(4) Identifying, studying and mitigating the effects of projects and practices implemented
+under subsection (3)  of this section on in-stream and out-of-stream water users and uses,
+and conducting related outreach.
+(5) Organizing workshops and tours to  promote innovative agricultural water manage-
+ment practices.
+(6) Establishing and  maintaining or supporting publicly available weather and irrigation
+information systems designed to collect, process and make publicly available climate and
+weather-related data and provide to agricultural  producers tools that support increased
+production, increased resilience to drought and flood events and  the efficient management
+of water resources.
+(7) In consultation with the Water Resources Department,  contracting with an organ-
+ization that provides publicly accessible, reproducible, satellite-based evapotranspiration data
+using open science methods, open data  services and an ensemble of well-established
+evapotranspiration models to:
+(a) Support ongoing and reliable evapotranspiration data production  and platform main-
+tenance for public use across this state;
+(b) Support data collection and technical analyses to  improve the accuracy of the data
+for different regions in Oregon; and
+(c) Conduct outreach to agricultural producers and other subject matter experts to verify
+accuracy and increase usability of the data.
+(8) Partnering with agricultural producers and other subject matter experts to check the
+accuracy of data, develop new tools, adapt available tools, experiment with  new technologies
+and approaches and identify best management practices.
+(9) Performing and publishing research related to agricultural water management.
+(10) Developing and updating Oregon-specific guides, manuals and  other resources, with
+a focus on resources  that will increase the likelihood of securing federal funding and assist-
+ance for agricultural water management and increase the effective delivery of desired out-
+comes.
+(11) Providing technical assistance to small farmers or ranchers in accessing state  and
+federal assistance programs, including but not limited to disaster assistance programs.
+SECTION 13.
+(1) To carry out the technical assistance program described in  section 12
+of this 2023 Act, the Oregon State University Extension  Service and the Oregon State Uni-
+versity Agricultural Experiment Station may:
+(a) Support the acquisition and maintenance of equipment necessary for the  collection
+of weather  data, climate data and data related to agricultural water use and management,
+including equipment that measures or monitors water supply, water diversions,  water use
+and evapotranspiration. Equipment may include, but need not be limited to:
+(A) AgriMet weather stations;
+(B) Other weather stations;
+(C) Eddy covariance stations;
+(D) Lysimeters;
+(E) Stream gauges;
+Enrolled House Bill 2010 (HB 2010-A) Page 8
+(F) Soil moisture meters; and
+(G) Water use measuring devices.
+(b) Form partnerships with agricultural producers to site data collection  equipment and
+use the data collected in on-farm management practices,  with preference given to producers
+that agree to develop on-farm demonstration projects, as  described in section 12 (3) of this
+2023 Act.
+(c) Form partnerships and enter into cost-sharing  agreements with institutions capable
+of maintaining data collection equipment and processing data, including, but not  limited to,
+the United States Geological Survey, the United States Bureau of Reclamation, the Natural
+Resources Conservation Service of the  United States Department of Agriculture, the Na-
+tional Weather Service of the National Oceanic  and Atmospheric Administration, the State
+Department of Agriculture, the Water  Resources Department, the State Department of Fish
+and Wildlife, the Department of Environmental Quality, the Oregon Watershed Enhancement
+Board, the Oregon Climate Service and soil and water conservation districts.
+(d) Convene statewide or region-specific advisory groups  or working groups to advise on
+any aspect of the program.
+(2) All data collected  under subsection (1) of this section using public funds must be made
+publicly available.
+(3) In establishing and maintaining the  voluntary demonstration network described in
+section 12 (3) of this 2023  Act, the Oregon State University Extension Service and the Oregon
+State University Agricultural Experiment Station:
+(a) May receive and expend funds from any source to:
+(A) Design and implement  demonstration projects under section 12 (3) of this 2023 Act;
+or
+(B) Provide stipends to agricultural producers participating in the voluntary  demon-
+stration network described in section 12 (3) of this 2023 Act for time, equipment and related
+expenses.
+(b) Shall prioritize projects that have the potential to increase drought resiliency  and
+provide quantifiable water quantity and quality benefits to other in-stream and out-of-stream
+water users or uses.
+SECTION 14.
+(1) The Oregon State University Extension Service and  the Oregon State
+University Agricultural Experiment Station shall jointly:
+(a) Prepare an annual report describing  climate-related impacts on agricultural produc-
+ers, including, but not limited to, flood  and drought impacts, and recommendations to in-
+crease agricultural resilience; and
+(b) Submit the report in the manner provided by ORS 192.245  to the interim committees
+of the Legislative Assembly related to agriculture no later than September 15 of each year.
+(2) The Oregon State University Extension Service and the  Oregon State University Ag-
+ricultural Experiment Station shall  jointly report on the progress of the technical assistance
+program established under section 12 of this 2023 Act in the manner provided by ORS 192.245
+to the interim committees  of the Legislative Assembly related to agriculture no later than
+September 15 of each even-numbered year.
+SECTION 15.
+The Place-Based Water Planning Fund is established in the State  Treasury,
+separate and distinct from the General  Fund. Interest earned by the Place-Based Water
+Planning Fund shall be credited to the fund. The fund consists  of moneys appropriated to the
+fund by the Legislative Assembly and  federal, public or private moneys designated for deposit
+in the fund. Moneys in the fund are continuously appropriated  to the Water Resources De-
+partment for the purpose of carrying out the provisions of section 16 of this 2023 Act.
+SECTION 16. (1) As used in this section:
+(a) “Eligible implementation coordination costs”:
+(A) Means costs associated with actions taken to coordinate  the implementation of a
+state-recognized place-based integrated water resources plan.
+Enrolled House Bill 2010 (HB 2010-A) Page 9
+(B) Does not include the costs of implementing a project.
+(b) “Environmental justice community” has  the meaning given that term in ORS 182.535.
+(c) “Indian tribe” means a federally recognized Indian tribe  in Oregon that has members
+residing on a reservation or tribal trust lands in Oregon.
+(d) “Person” has the meaning given that term in ORS 536.007.
+(e) “Place-based integrated water resources plan” means a plan that:
+(A) Is developed for a planning area associated with waters from sources within a  shared
+hydrologic boundary;
+(B) Is developed in collaboration with a balanced representation of interests;
+(C) Addresses current and future in-stream and out-of-stream needs;
+(D) Includes the development of actions that are consistent with the state water re-
+sources policy and other state laws concerning the water resources of this state;
+(E) Is developed  using an open, equitable and transparent process that fosters public
+participation and meaningful engagement with environmental justice communities, consist-
+ent with the requirements of ORS 182.545;
+(F) Is developed in consultation with the Water  Resources Department and other rele-
+vant state agencies;
+(G) Facilitates implementation of local water resources solutions  and supports the
+knowledge and relationships needed to implement the solutions;
+(H) Assesses actions that are compatible with local comprehensive plans;
+(I) Strives to integrate solutions to cost-effectively achieve multiple benefits;
+(J) Is consistent with the guiding principles  of the integrated state water resources
+strategy; and
+(K) Complies with the rules of the Water  Resources Commission, including any rules
+regarding the development of place-based integrated water resources plans.
+(f) “Place-based integrated  water resources planning” means a collaborative and inclusive
+process that is designed to:
+(A) Gather information to develop a shared understanding of  water resources and iden-
+tify critical issues and knowledge gaps;
+(B) Examine the existing  and future in-stream and out-of-stream water needs for people,
+the economy and the environment;
+(C) Identify  and prioritize strategic, integrated solutions to understand and meet in-
+stream and out-of-stream water needs; and
+(D) Develop, implement and update a place-based integrated water resources plan.
+(g) “Public body” has the meaning given that term in ORS 174.109.
+(h) “Situation  assessment” means an assessment conducted for the purpose of under-
+standing the  status of an issue, stakeholder perspectives and the needs and conditions that
+potentially affect  the feasibility and design of a collaborative process to develop and imple-
+ment a place-based integrated water resources plan.
+(i) “State-recognized place-based integrated water resources plan”  means a place-based
+integrated water resources plan that has been reviewed by the  Water Resources Commission
+and recognized by a commission resolution stating that the completed place-based  integrated
+water resources plan adheres to applicable requirements.
+(2) The Water Resources Director may award grants with  moneys from the Place-Based
+Water Planning Fund established  in section 15 of this 2023 Act to fund the costs of actions
+supporting place-based integrated water resources planning, including costs of:
+(a) Filling gaps in state, tribal and local capacity, knowledge and skill sets.
+(b) Developing data and associated analyses tailored to  the area of a place-based inte-
+grated water resources plan.
+(c) Assessing critical issues within the planning area.
+Enrolled House Bill 2010 (HB 2010-A) Page 10
+(d) Building knowledge and relationships among state agencies, organizations with ties
+to or an interest in the planning area and people who live in, work in or are  interested in
+the planning area.
+(e) Assisting groups with preparing and assessing readiness to engage in  relevant plan-
+ning.
+(f) Assisting with building the capacity of a community to engage in relevant planning.
+(g) Facilitating and managing a collaborative process to support relevant planning.
+(h) Developing, or supporting development of, a place-based  integrated water resources
+plan.
+(i) Facilitating associated public participation, including  participation by members of en-
+vironmental justice communities, through education, outreach, financial  support and other
+activities.
+(j) Updating a state-recognized place-based integrated water resources plan.
+(k) Eligible implementation coordination costs.
+(3) In awarding grants, the department may require cost matching by applicants.
+(4) The grants may  be awarded to persons, public bodies, Indian tribes and nonprofit or-
+ganizations.
+(5) The grants may be awarded as cost sharing  with other programs that support place-
+based integrated water resources planning.
+(6) In addition to disbursing moneys in the fund  as described in subsection (2) of this
+section, the Water Resources Director may use moneys in the fund  to further place-based
+integrated water resources planning by entering into  agreements or contracting for the fol-
+lowing:
+(a) Efforts related to interagency coordination.
+(b) Situation assessments.
+(c) The collection or development of  data, data inventories or other technical information
+necessary for planning.
+(d) Technical assistance.
+(e) The development of guidelines and best practices.
+(f) Providing opportunities for public participation.
+(g) The development or provision of training and learning opportunities.
+(h) Holding events and gatherings.
+(i) Evaluations to identify lessons learned and areas for improvement.
+(j) Consultation with Indian tribes.
+(k) Other actions in  support of place-based integrated water resources planning that
+benefit a specific area in this state or the state as a whole.
+(7) Before issuing funding under subsection (2) or (6) of  this section, the Water Re-
+sources Director  shall consult with the Department of Environmental Quality, Department
+of Land  Conservation and Development, Oregon Health Authority, Oregon Watershed En-
+hancement Board, State Department of Agriculture and State  Department of Fish and
+Wildlife to understand agency capacity to:
+(a) Participate in place-based integrated water resources planning.
+(b) Provide information and assistance described in subsection (9) of this section.
+(8) Before issuing funding under subsection (2) of this section, the Water  Resources Di-
+rector shall notify county and tribal  governments within the proposed planning boundary of
+an application.
+(9) The Water Resources Department, Department of Environmental Quality, Depart-
+ment of Land Conservation and  Development, Oregon Health Authority, Oregon Watershed
+Enhancement Board, State Department of  Agriculture and State Department of Fish and
+Wildlife may provide  technical information and assistance to, and enter into contracts or
+agreements with, a person, public body, Indian  tribe or nonprofit organization to facilitate
+implementation of this section.
+Enrolled House Bill 2010 (HB 2010-A) Page 11
+(10) The Water Resources Commission shall consider  state-recognized place-based inte-
+grated water resources plans when updating the integrated state water resources strategy.
+(11) The commission may adopt rules to implement this section, including rules that:
+(a) Further clarify the expenditures that may be funded by the grants.
+(b) Prioritize the issuance of funding for purposes described in this  section and establish
+a system for scoring and ranking  projects that includes consideration of groups’ readiness
+for planning and projects’ alignment with strategic priorities determined by state water laws
+and relevant state agencies.
+(c) Establish requirements for promoting public  participation and engaging environ-
+mental justice communities.
+(d) Establish criteria and a process  for state recognition of a place-based integrated wa-
+ter resources plan.
+(e) Describe how the implementation of actions  outlined in a state-recognized place-based
+integrated water resources plan may be considered and supported.
+(f) Establish reporting  and other requirements necessary to maintain the status of a
+state-recognized place-based integrated water resources  plan, including requirements con-
+cerning:
+(A) Progress on implementing a place-based integrated water resources plan.
+(B) How strategies and actions outlined in a place-based integrated  water resources plan
+must continue to represent a balance of in-stream and out-of-stream water interests.
+(C) How the planning process continues to demonstrate a commitment to collaboration
+and adherence to  principles of place-based integrated water resources planning and the in-
+tegrated state water resources strategy described in ORS 536.220.
+(12) In developing rules described in subsection (11) of this  section, the commission shall
+consult with the agencies described in subsection (7) of this section and other affected
+agencies.
+SECTION 17.
+ ORS 537.797 is amended to read:
+537.797. (1) As used in this section:
+(a) “District” means:
+(A) An irrigation district formed under ORS chapter 545;
+(B) A drainage district formed under ORS chapter 547;
+(C) A water improvement district formed under ORS chapter 552; or
+(D) A water control district formed under ORS chapter 553.
+(b) “Registered geologist” has the meaning given that term in ORS 672.505.
+(c) “Registered professional  engineer” and “registered professional land surveyor” have
+the meanings given those terms in ORS 672.002.
+(2) The Water Resources Commission by rule shall  establish criteria for [ the] certification [ of
+registered, professional land surveyors and engineers and geologists practicing as defined in ORS
+672.005 and 672.505, respectively, ] under ORS 537.798  to conduct surveys to determine whether a
+permittee has completed all work necessary to perfect an appropriation  of water under ORS 537.230,
+537.630 and 540.530.
+(3) An individual may apply for certification under ORS 537.798 if the individual meets the
+criteria established by rule by the commission and is a:
+(a) Registered professional engineer;
+(b) Registered professional land surveyor;
+(c) Registered geologist; or
+(d) District employee who:
+(A) Is, at the time of applying, employed full-time by a district;
+(B) Has been employed by a district for seven or more years; and
+(C) Has seven or more years of relevant technical experience conducting similar work.
+SECTION 18.
+ ORS 537.798 is amended to read:
+Enrolled House Bill 2010 (HB 2010-A) Page 12
+537.798. (1)  The State Board of Examiners for Engineering and Land Surveying may issue a
+water right examiner certificate to [ a registered professional land surveyor, registered professional
+engineer or registered geologist  who meets the criteria established by the Water Resources Commission
+under] an applicant described in  ORS  537.797. The board shall require an applicant for the certif-
+icate to pass an examination establishing the qualification of the applicant to be a water right  ex-
+aminer. The Water Resources Department shall prepare, administer and score the examination.
+(2) The board shall establish fees for the examination, certification and renewal  of certification
+of water  right examiners. The fees shall be based upon the expenses of the board and the department
+in conducting the certification program. The board  shall reimburse the department for department
+expenses related to the preparation, administration and scoring of the examination.
+(3) The board may adopt rules to regulate persons  certified as water right examiners. The rules
+may include, but need not be limited to, rules establishing standards of professional conduct and
+rules establishing professional development or continuing education requirements.
+(4) Upon receipt  of a complaint, or upon its own initiative, the board may investigate any al-
+leged or suspected violation  by a water right examiner of ORS 672.002 to 672.325, the criteria es-
+tablished under ORS 537.797, Water Resources  Commission  rules or a board rule adopted under
+this section or ORS 672.255. If  the board finds that a violation has occurred, in addition to any other
+disciplinary or regulatory  authority of the board, the board may suspend, revoke or modify a cer-
+tificate issued under this section. Board action to suspend, revoke or modify the certificate is sub-
+ject to the provisions of ORS chapter 183 relating to contested cases.
+SECTION 19.
+ ORS 537.797, as amended by section 17 of this 2023 Act, is amended to read:
+537.797. [(1) As used in this section: ]
+[(a) “District” means: ]
+[(A) An irrigation district formed under ORS chapter 545; ]
+[(B) A drainage district formed under ORS chapter 547; ]
+[(C) A water improvement district formed under ORS chapter 552; or ]
+[(D) A water control district formed under ORS chapter 553. ]
+[(b) “Registered geologist” has the meaning given that term in ORS 672.505. ]
+[(c) “Registered professional engineer” and “registered professional land  surveyor” have the
+meanings given those terms in ORS 672.002. ]
+[(2)] The Water Resources Commission by rule shall establish criteria  for the certification [ un-
+der ORS 537.798 ] of geologists,  as defined in ORS 672.505, and persons engaged in the practice
+of engineering and the  practice of land surveying, as those terms are defined in ORS 672.005,
+to conduct surveys to determine whether a permittee  has completed all work necessary to perfect
+an appropriation of water under ORS 537.230, 537.630 and 540.530.
+[(3) An individual may apply for certification under  ORS 537.798 if the individual meets the cri-
+teria established by rule by the commission and is a: ]
+[(a) Registered professional engineer; ]
+[(b) Registered professional land surveyor; ]
+[(c) Registered geologist; or ]
+[(d) District employee who: ]
+[(A) Is, at the time of applying, employed full-time by a district; ]
+[(B) Has been employed by a district for seven or more years; and ]
+[(C) Has seven or more years of relevant technical experience conducting similar work. ]
+SECTION 20.  ORS 537.798, as amended by section 18 of this 2023 Act, is amended to read:
+537.798. (1) The State Board of Examiners for Engineering and Land Surveying may issue  a
+water right examiner certificate  to [ an applicant described in ] a registered professional land sur-
+veyor, registered professional engineer or registered geologist who meets  the criteria estab-
+lished by the Water Resources  Commission under  ORS 537.797. The board shall require an
+applicant for the certificate to pass an examination establishing the qualification  of the applicant
+to be a water right examiner.  The Water Resources Department shall prepare, administer and score
+the examination.
+Enrolled House Bill 2010 (HB 2010-A) Page 13
+(2) The board  shall establish fees for the examination, certification and renewal of certification
+of water  right examiners. The fees shall be based upon the expenses of the board and the department
+in conducting the certification program. The board  shall reimburse the department for department
+expenses related to the preparation, administration and scoring of the examination.
+(3) The board may adopt rules to regulate persons  certified as water right examiners. The rules
+may include, but need not be limited to, rules establishing standards of professional conduct and
+rules establishing professional development or continuing education requirements.
+(4) Upon receipt of a complaint, or upon its own initiative, the board may investigate  any al-
+leged or suspected violation by a water right examiner of ORS 672.002 to 672.325,  the criteria es-
+tablished under ORS 537.797, [ Water Resources ] commission rules or a board rule adopted  under this
+section or ORS 672.255. If the board finds that a violation has occurred, in addition to  any other
+disciplinary or regulatory authority of the board, the board may suspend, revoke or modify  a cer-
+tificate issued under this section. Board action to suspend, revoke or modify the certificate is sub-
+ject to the provisions of ORS chapter 183 relating to contested cases.
+SECTION 21.
+The amendments to ORS 537.797 and 537.798 by sections 19 and 20  of this
+2023 Act become operative on July 1, 2027.
+SECTION 22. (1) The Department of Environmental Quality,  in consultation with the
+Water Resources Department and other relevant state agencies  and interested parties, shall
+address barriers to, and develop technical assistance  resources to support, expanded benefi-
+cial water reuse or recycled water programs and projects within this state.
+(2) In carrying out  the objectives of this section, the Department of Environmental
+Quality shall:
+(a) Characterize recycled water and beneficial land  application project types that are
+priorities to support water quality, water supply or use and habitat  or ecosystem needs in
+this state;
+(b) Identify regulatory and other impediments to expanding water reuse;
+(c) Identify environmentally protective approaches successfully  employed by other states
+with robust water reuse programs that may be applicable to Oregon;
+(d) Identify potential regulatory changes, including but not limited to changes to  internal
+guidance, administrative rules or statutes  needed to remove impediments, and propose an
+implementation schedule for enacting proposed changes; and
+(e) Develop technical assistance guidance,  or other resources, for local jurisdictions and
+industries to seek  permitting and development of recycled water and other beneficial land
+application programs that achieve the objectives of this section.
+(3) The department shall submit  a progress report on the resources developed under this
+section in the manner provided by ORS 192.245, to the  interim committees of the Legislative
+Assembly related to water no later than December 31, 2023.
+(4) The department shall submit a final report, including completed resources developed
+under this section, in the manner provided  by ORS 192.245, to the interim committees of the
+Legislative Assembly related  to water no later than September 15, 2024. The department
+shall, at a minimum, identify in the report under this subsection:
+(a) Changes that agencies can make or have completed  to internal policies, guidance and
+processes;
+(b) Recommended changes that require  an agency to amend administrative rules or adopt
+new administrative rules;
+(c) Recommended changes that would require the  Legislative Assembly to create new law
+or amend existing law;
+(d) Programmatic needs to remove impediments  to water reuse and beneficial land ap-
+plication expansion and to support access to and  acceleration of water reuse and beneficial
+land application projects; and
+(e) Technical assistance resources and incentives  that would support jurisdictions in
+evaluating and pursuing reuse and beneficial land application projects.
+Enrolled House Bill 2010 (HB 2010-A) Page 14
+SECTION 23. Section 22 of this 2023 Act is repealed on January 2, 2025.
+SECTION 24. (1) The Oregon Department of Administrative Services  shall enter into a
+contract with the Oregon Association of Water Utilities that includes, but need not be  lim-
+ited to, a provision requiring the association to:
+(a) Perform, or enter into a contract with a third  party to perform, a study of the needs
+and vulnerabilities of small and very small community water systems,  including but not
+limited to the following topics:
+(A) Water supply reliability.
+(B) Source and treated water quality.
+(C) Utility board and operations management.
+(D) Infrastructure.
+(E) Droughts, floods and earthquakes.
+(F) Funding, financial stability and water rates.
+(G) Regulations and safe drinking water standards.
+(H) Opportunities for emergency interties, system consolidation and regionalization.
+(b) Provide technical, financial and managerial support and resources to small and  very
+small community water systems, which may include support and resources related to:
+(A) Water supply reliability.
+(B) Source and treated water quality.
+(C) Utility board and operations management.
+(D) Infrastructure.
+(E) Droughts, floods and earthquakes.
+(F) Funding, financial stability and water rates.
+(G) Regulations and safe drinking water standards.
+(H) Applying for and managing funds associated with state and  federal funding programs.
+(I) Assessing and supporting opportunities for emergency interties, system  consolidation
+and regionalization.
+(c) Hire and employ  one training specialist and two technical assistance providers to
+provide support and resources to address the needs and  vulnerabilities of small and very
+small community water systems in this state.
+(d) Consult with the  Oregon Health Authority, the Department of Environmental Quality,
+the Water Resources Department,  county environmental health departments and county
+emergency managers in designing the parameters of the study described in  paragraph (a) of
+this subsection.
+(e) Submit a report in the manner provided by ORS 192.245  to the interim committees
+of the Legislative Assembly related to water no later than December 31, 2024.
+(2) The Oregon Department of Administrative Services shall  distribute moneys to the
+Oregon Association of Water Utilities for the purposes of carrying out subsection (1) of  this
+section.
+(3) The  Oregon Health Authority, the Department of Environmental Quality and the
+Water  Resources  Department shall cooperate with the Oregon Association of Water Utilities,
+and provide to the association any data or information requested by the  association, in im-
+plementing this section.
+SECTION 25.
+Section 24 of this 2023 Act is repealed on January 2, 2025.
+SECTION 26. (1) If the Water Resources Department requires an entity to measure  the
+use of water diverted,  stored or otherwise appropriated by the entity under a right estab-
+lished by  a water right permit, water right certificate, limited license, decree, order of de-
+termination or ground water registration, the department may  require the entity to report
+the measured use to the department.
+(2) The Water Resources Commission shall adopt rules as provided under  ORS 536.027 to
+carry out subsection (1) of this section.
+SECTION 27.  ORS 541.669 is amended to read:
+Enrolled House Bill 2010 (HB 2010-A) Page 15
+541.669. (1) The Water Resources Commission shall adopt rules establishing  a system for scoring
+and ranking projects to determine which projects  are to be awarded loans and grants from the
+Water Supply Development  Account, including but not limited to the application of minimum criteria
+designed to  achieve the outcomes described in ORS 541.677. The criteria shall be based on the public
+benefit categories described in ORS 541.673. The commission shall make the  loan and grant funding
+decisions [ once] at least twice  each year. Applications must be filed with the Water Resources De-
+partment. The department shall accept an application  for a loan or grant at any time, but shall es-
+tablish [ a yearly deadline ] a separate deadline for the [ consideration of a pool ] filing of applications
+before each time the commission makes loan and grant funding decisions .
+(2) The  department shall conduct a preliminary review of applications to check for completeness,
+eligibility and minimum requirements upon receipt of each application. The  department shall return
+incomplete applications to the applicant.  The department shall provide public notice by posting new
+funding applications on the department’s website for a 60-day period prior to reviewing  the appli-
+cations. The department shall provide for the receipt  of public comment on the applications during
+the 60-day period that applications are posted on the department’s website.
+(3) The department shall forward applications that have passed preliminary review, along  with
+any comments received from applicants or the  public, to a technical review team consisting of rep-
+resentatives of the Water  Resources Department, the Department of Environmental Quality, the
+State Department of  Fish and Wildlife, the State Department of Agriculture, the Oregon Business
+Development Department, affected Indian tribes, any collaborative  body established by the Governor
+to address challenges, opportunities  and priorities for the region affected by the project and addi-
+tional experts as determined by the Water Resources Department. The  technical review team shall
+conduct the initial scoring and  ranking for the projects described in the applications, consider
+comments from applicants and the public and make loan and grant funding recommendations to  the
+commission. The commission shall determine the  final scoring and ranking of projects and make the
+final decision  regarding which projects are awarded loans or grants from the account. Before the
+commission makes a final decision on an application, the commission shall offer one  additional op-
+portunity for public comment.
+(4) The commission is not required to  obligate all available account moneys during a funding
+cycle. Any available account moneys that are not obligated during a funding  cycle shall be carried
+forward and be made available for projects in future funding cycles.
+(5) The department shall  document the ranking of all applications and make the application
+ranking publicly available after the funding decisions by the commission have been published.
+SECTION 28. (1) The Oregon Business Development Department shall establish and ad-
+minister the Aquifer Recharge  Due Diligence Grant Program under which the Oregon
+Infrastructure Finance Authority established under ORS 285A.096 may award  due diligence
+grants, in accordance with this section and section 29 of this 2023 Act, to public bodies listed
+in subsection (2) of this section in  order to fund activities set forth in subsection (3) of this
+section.
+(2) Any of the following public bodies may apply for a due diligence grant under the pro-
+gram in the manner prescribed under section 29 of this 2023 Act:
+(a) A municipal subdivision of this state.
+(b) A port organized under ORS chapter 777 or 778.
+(c) A district as defined in ORS 198.010.
+(d) An Oregon Indian tribe as defined in ORS 294.805.
+(e) A county.
+(3) The authority may  award grants to fund any of the following due diligence activities
+related to aquifer recharge and aquifer storage and recovery:
+(a) Test pit construction.
+(b) Borings and soil sampling necessary to design recharge basin or aquifer  storage and
+recovery well size and location.
+Enrolled House Bill 2010 (HB 2010-A) Page 16
+(c) Aquifer modeling necessary to meet the  standards for a request to the Water Re-
+sources Department for a limited license under ORS 537.143 and 537.144 or to test aquifer
+storage and recovery in accordance with testing criteria under ORS 537.505 to 537.534.
+(d) Design and engineering necessary to reach the final 50 percent of design and  engi-
+neering necessary to result in a biddable project for  aquifer recharge basins, aquifer storage
+and recovery wells and  works, aquifer storage and recovery treatment systems and
+conveyance works from water source to recharge site.
+(e) Sampling required by  the Department of Environmental Quality to establish parame-
+ters for monitoring and sampling source water quality and aquifer water quality.
+(f) Monitoring and sampling  plan development associated with limited license require-
+ments of the Water Resources Department and the Department of Environmental Quality.
+(g) Applying for a limited license and public coordination.
+(4) All or a portion of the basin or aquifer to which a grant  application relates must have
+been:
+(a) Restrictively classified under ORS 536.340;
+(b) Withdrawn  by the Water Resources Department from further groundwater appropri-
+ation under ORS 536.410; or
+(c) Designated as critical under statute or rule or  order of the Water Resources Com-
+mission or the Water Resources Department.
+(5) The Oregon Business Development Department may adopt any rules the department
+considers necessary or convenient for the administration of this section and section  29 of
+this 2023 Act.
+SECTION 29.
+(1) The governing body of a public body listed in section 28  of this 2023 Act
+seeking a due diligence grant under this section and section 28 of this  2023 Act must submit
+to the Oregon Business  Development Department an application in the form and manner
+prescribed by the department.
+(2) To qualify for a due diligence grant, an application must be  accompanied by doc-
+umentation satisfactory to the department that the following  items have been completed or
+are available for inspection:
+(a)(A) A United States Geological Survey ground  water characterization model for the
+targeted aquifer establishing a baseline of aquifer properties;
+(B) A peer-reviewed academic model for the targeted aquifer establishing  a baseline of
+aquifer properties; or
+(C) Documentation of  agency-developed or publicly-developed reports determining that
+the targeted aquifer is a potential candidate  for recharge testing in order to prove that
+baseline data exists to warrant additional due diligence for recharging the aquifer;
+(b) Documentation establishing that source water is  available to conduct aquifer re-
+charge testing at the targeted volume and rate of the test;
+(c) Documentation  establishing that ground water use in the targeted aquifer has been
+monitored and metered for  at least five years immediately prior to the date on which the
+application is submitted; and
+(d) Documentation showing that  the basin or aquifer to which the application relates is
+eligible under section 28 (4) of this 2023 Act.
+(3)(a) Once the  department has determined that an application is complete, the depart-
+ment shall approve or reject the application.
+(b) Rejection of an application does not  preclude the governing body from reapplying at
+any time with respect to the same or another basin or aquifer.
+(c) If the  department approves an application, the Oregon Infrastructure Finance Au-
+thority shall determine the amount of the grant award in accordance  with subsection (4) of
+this section and the department shall disburse the moneys to the applicant.
+(d) Rejection of an application and the amount of a grant award may not be appealed.
+Enrolled House Bill 2010 (HB 2010-A) Page 17
+(4) The authority may award grants in any amount that does not exceed the eligible  due
+diligence costs substantiated in the application.
+SECTION 30. (1) The Oregon Business Development Department shall establish  and ad-
+minister the Aquifer Recharge  Testing Forgivable Loan Program under which the Oregon
+Infrastructure Finance Authority may make  forgivable loans, in accordance with this section
+and section 31 of this 2023 Act, to public bodies listed in subsection (2) of this section in order
+to fund the costs set forth in subsection (3) of this section.
+(2) Any of the following public bodies may apply for a forgivable loan under the program
+in the manner prescribed under section 31 of this 2023 Act:
+(a) A municipal subdivision of this state.
+(b) A port organized under ORS chapter 777 or 778.
+(c) A district as defined in ORS 198.010.
+(d) An Oregon Indian tribe as defined in ORS 294.805.
+(e) A county.
+(3) The authority may make forgivable loans for any of the following costs related  to
+aquifer recharge and aquifer storage and recovery testing:
+(a) Energy costs.
+(b) Operation and maintenance costs associated with the treatment and delivery of
+source water for the purposes of testing aquifer recharge or aquifer storage and recovery.
+(c) Monitoring and reporting costs required by the monitoring plan of a limited license.
+(4) All or a portion of the basin or aquifer to which a loan application relates must  have
+been:
+(a) Restrictively classified under ORS 536.340;
+(b) Withdrawn  by the Water Resources Department from further groundwater appropri-
+ation under ORS 536.410; or
+(c) Designated as critical under statute or rule or  order of the Water Resources Com-
+mission or the Water Resources Department.
+(5) Forgivable loans shall be made under this section and section 31 of this  2023 Act in
+a principal amount that does not  exceed the costs set forth in the application over the pe-
+riod, not to exceed five years, of the limited license issued by  the Water Resources Depart-
+ment under ORS 537.143 and  537.144 or 537.505 to 537.534 that is associated with the
+application submitted under section 31 of this 2023 Act.
+(6) The Oregon Business Development Department may adopt any rules the department
+considers necessary or convenient for the administration of this section and section  31 of
+this 2023 Act.
+SECTION 31.
+(1)(a) The governing body of a  public body listed in section 30 of this 2023
+Act seeking a forgivable loan under this section and section 30 of this 2023  Act must submit
+to the Oregon Business Development Department an application in the  form and manner
+prescribed by the department.
+(b) To qualify for a forgivable loan, an application must  be accompanied by documenta-
+tion:
+(A) Of a valid limited  license to conduct aquifer recharge testing or aquifer storage and
+recovery testing at the site to which the application relates; and
+(B) That shows the basin or  aquifer to which the application relates is eligible under
+section 30 (4) of this 2023 Act.
+(2)(a) Once the  department has determined that an application is complete, the depart-
+ment shall approve or reject the application.
+(b) Rejection of an application does not  preclude the governing body from reapplying at
+any time with respect to the same or another basin or aquifer.
+(c) If the  department approves an application, the Oregon Infrastructure Finance Au-
+thority shall determine the amount of the forgivable loan  in accordance with section 30 (5)
+of this 2023 Act and the  department shall duly negotiate a loan agreement with the applicant.
+Enrolled House Bill 2010 (HB 2010-A) Page 18
+(d) Rejection of an application and the amount of a forgivable loan may not be appealed.
+(3)(a) Upon completion of the activities for which the forgivable loan was made,  the
+governing body that received the  loan must submit documentation satisfactory to the de-
+partment that  100 percent of the water placed into the recharge went into the waters of this
+state and was not recovered under a secondary use limited license or  secondary use permit
+obtained under ORS 537.534.
+(b) If the department is satisfied with the documentation, 100 percent of  the amount of
+the loan shall be forgiven.
+(c) If the department determines  that water was used impermissibly within the terms
+of paragraph (a) of this subsection, the department may require repayment of the loan in
+an amount proportional to the percentage of the water that was used impermissibly,  with
+interest at a rate not to exceed five percent.
+(d) Loan amounts and interest repaid  under paragraph (c) of this subsection shall be
+credited to the Aquifer Recharge Fund established under section 33 of this 2023 Act.
+SECTION 32.
+Not later than September 15 of  each year, the Oregon Business Develop-
+ment Department and recipients of  funding under sections 28 to 33 of this 2023 Act shall
+prepare and submit a report, in the  manner required under ORS 192.245, to the interim
+committees of the Legislative Assembly related  to water, detailing the use of the funding and
+the results of the recharge testing so funded.
+SECTION 33. (1) The Aquifer Recharge Fund is established in the State Treasury,  sepa-
+rate and distinct from the General Fund. Interest earned  by the Aquifer Recharge Fund
+shall be credited to the fund. All moneys in the  fund are continuously appropriated to the
+Oregon Business Development  Department for the use of the Oregon Infrastructure Finance
+Authority established under ORS 285A.096 to fulfill the purposes  set forth in sections 28 to
+33 of this 2023 Act.
+(2) The fund shall consist of all moneys credited  to the fund, including but not limited
+to:
+(a) Moneys appropriated, allocated, transferred or otherwise credited to the  fund by the
+Legislative Assembly, the department or the authority;
+(b) Earnings received on moneys in the fund;
+(c) Repayment of financial  assistance provided under sections 28 to 33 of this 2023 Act,
+including interest;
+(d) Moneys transferred to the  fund from the federal government, state agencies or local
+governments; and
+(e) Moneys  deposited in the fund from any other source, including, but not limited to,
+grants and gifts.
+(3) The authority may  directly or indirectly grant, expend or lend moneys in the fund for
+the purposes set forth in sections 28 to 33 of this 2023 Act.
+(4)(a) The authority shall administer the fund.
+(b) The Oregon Business Development  Department may adopt rules and policies for the
+administration of the fund.
+SECTION 34.
+(1) Sections 28 to 33 of this 2023 Act are repealed on January 2, 2032.
+(2) Any moneys remaining in the Aquifer Recharge Fund established  under section 33 of
+this 2023 Act on the date specified in subsection (1) of this section that are unexpended, un-
+obligated and  not subject to any conditions shall be transferred to the Administrative Ser-
+vices Economic Development Fund.
+SECTION 35.
+(1) As used in this section, “local workforce development  board” and
+“workforce program” have the meanings given those terms in ORS 660.300.
+(2) The Oregon Department of Administrative Services shall  provide grants to soil and
+water conservation districts  organized under ORS 568.210 to 568.808 and 568.900 to 568.933 and
+to counties for  the treatment of western juniper to minimize the negative impacts of western
+juniper on water resources and ecological health.
+Enrolled House Bill 2010 (HB 2010-A) Page 19
+(3) Grant recipients shall use grant funds only to:
+(a) Consistent with the requirements of this section, treat western  juniper in areas
+where treatment will provide the greatest benefit to water resources and ecological health;
+(b) Consistent with the requirements of this  section, remove western juniper at times,
+and using methods, that will reduce the risk of repropagation after removal; and
+(c) Cover the administrative expenses of the grant recipient related to the  grant pro-
+gram, except that no more than eight percent of grant  funds may be used to cover admin-
+istrative expenses.
+(4) In determining areas to conduct western  juniper treatment, grant recipients shall
+incorporate criteria from the western juniper  management field guide developed by the
+Oregon Watershed Enhancement Board, including:
+(a) Conifer encroachment prioritization;
+(b) Hydrological prioritization, including a consideration of the location of the  proposed
+project site in relation to surface waters;
+(c) Biological prioritization, including resilience to  disturbance and resistance to exotic
+annual grasses; and
+(d) Canopy interspaces, including bunchgrass age classes  and exotic annual grasses or
+noxious weeds present at intermediate levels in interspaces.
+(5) In selecting treatment project  sites and conducting treatment, grant recipients shall
+seek to retain old growth juniper trees, as determined by tree characteristics that include:
+(a) Flattened, rounded or uneven tops;
+(b) A spreading crown;
+(c) Large branches near the base of the tree;
+(d) Large, dead branches, missing bark and abundant light green lichen;
+(e) Thick fibrous bark with well-developed vertical furrows; and
+(f) Leader growth in the upper quarter of the tree that is less than one inch per year.
+(6) Treatment sites must be no less than 100 acres.
+(7) Pretreatment analysis of treatment sites must include:
+(a) Risk assessments for annual grass weeds; and
+(b) An analysis of existing perennial understory to determine if reseeding is required.
+(8) Fuel loads associated with western  juniper treatment shall be removed from the
+treatment site.
+(9) Any grazing plan for a treatment site must be developed in cooperation with  the
+landowner and the applicable soil and water conservation district.
+(10) A grant recipient shall develop a post-treatment maintenance plan for the  treatment
+site prior to beginning treatment.
+(11) Grant applicants may consult  with Oregon State University, local governments, as
+defined in ORS 174.116, conservation organizations or  other organizations or experts to
+identify areas that meet the criteria described in subsection (3)(a) of this section.
+(12) A grant recipient shall:
+(a) Work with Oregon State University to track  and monitor the effects of the program
+on water resources, ecological health and economic and workforce development and to  pro-
+vide quarterly and annual reports to the department;
+(b) Work with a local workforce development board  or other organizations to create or
+expand an existing workforce  program that provides services to individuals performing
+western juniper treatment or to allow individuals performing western juniper treatment to
+participate in an existing workforce program; and
+(c)(A) Prepare reports describing any proposed, ongoing  or completed western juniper
+treatment project including:
+(i) Site conditions before treatment;
+(ii) Project methodologies and implementation;
+(iii) Site conditions and maintenance efforts after treatment; and
+Enrolled House Bill 2010 (HB 2010-A) Page 20
+(iv) An assessment of the effectiveness of the treatment.
+(B) A grant  recipient shall submit the reports required under this paragraph to Oregon
+State University no later than two and five years, respectively, after receiving a grant under
+this section and shall make the reports publicly available.
+SECTION 36.
+(1) Oregon State  University shall consult with recipients of grants under
+section 35 of this 2023 Act to assist the recipients with establishing monitoring areas in
+central Oregon, Harney County and Klamath County.
+(2) Monitoring must be conducted for a period of at least five years and must include:
+(a) Overstory and understory vegetation surveys to assess soil, water  and vegetation
+relationships; and
+(b) Monitoring of soil moisture, springflow, streamflow and weather.
+(3) Monitoring may include technological  platforms or other systems to monitor
+vegetative cover, perennial grass cover, annual grass cover or tree and shrub cover.
+SECTION 37.
+(1) The Oregon Department of Administrative Services shall provide a grant
+to an organization formed pursuant  to an intergovernmental agreement under ORS chapter
+190 that operates in at least three of the following counties:
+(a) Crook County;
+(b) Jefferson County;
+(c) Klamath County;
+(d) Deschutes County;
+(e) Harney County; or
+(f) Lake County.
+(2) The organization shall:
+(a) In rural areas  of this state, coordinate efforts to identify and apply for sources of
+funding for  western juniper treatment, or other water conservation projects, among cities,
+counties or other organizations; and
+(b) Coordinate activities among grant recipients described in section 36 of this 2023 Act.
+SECTION 38.
+The Oregon Department of Administrative Services shall provide the grants
+described in section 35 of this 2023 Act  no later than July 1, 2023, or 60 days after the ef-
+fective date of this 2023 Act, whichever is later.
+SECTION 39. Recipients of grants described in section 35 of this 2023  Act, as well as or-
+ganizations described in sections 37, 51 and 52 of this 2023 Act, may  accept moneys from
+state agencies, federal or private funds or grants or the Emergency Board, in  addition to the
+grants, for purposes described in sections 35 and 36 of this 2023 Act.
+SECTION 40. In addition to and  not in lieu of any other appropriation, there is appro-
+priated to the Oregon  Watershed Enhancement Board, for the biennium beginning July 1,
+2023, out of the General Fund, the amount of $1,000,000, for deposit in the Community
+Drinking Water Enhancement and Protection Fund established under  section 4 of this 2023
+Act.
+SECTION 41.
+In addition to and  not in lieu of any other appropriation, there is appro-
+priated to the Higher Education Coordinating  Commission, for the biennium beginning July
+1, 2023, out of the General Fund, the amount of $420,000, for  distribution to Oregon Consen-
+sus at Portland State  University, which must be used for the purposes described in section
+8 of this 2023 Act and may be used  for awarding grants and stipends to participants in the
+collaborative process described in section 8 of this 2023 Act.
+SECTION 42. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Higher Education Coordinating Commission,  for the biennium beginning July
+1, 2023,  out of the General Fund, the amount of $150,000, for distribution to Oregon State
+University, which must be used for the purposes described in section 8 of this 2023 Act.
+SECTION 43. In addition to and  not in lieu of any other appropriation, there is appro-
+priated to the Water  Resources Department, for the biennium beginning July 1, 2023, out of
+the General Fund, the amount of $254,870, which may be expended for:
+Enrolled House Bill 2010 (HB 2010-A) Page 21
+(1) Funding a staff position at the department; or
+(2) In consultation with Harney County Court, contracting with a qualified entity to:
+(a) Advise ground water users in  the Greater Harney Valley Groundwater Area of Con-
+cern, and other interested stakeholders that work on  ground water management in the
+Greater Harney Valley Groundwater  Area of Concern, concerning voluntary agreements
+among ground water users from the same ground water reservoir, as described in  ORS
+537.745;
+(b) Assess the opportunities and limitations of using the voluntary agreements in the
+Greater Harney Valley Groundwater Area of Concern; and
+(c) Assist ground water users in the Greater Harney Valley Groundwater Area of Con-
+cern with developing the voluntary agreements.
+SECTION 44.
+In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Water Resources Department, for the biennium beginning July 1,  2023, out of
+the General Fund, the amount of $2,000,000, for deposit in the  Place-Based Water Planning
+Fund established under section 15 of this 2023 Act.
+SECTION 45. In addition to and  not in lieu of any other appropriation, there is appro-
+priated to the Oregon Department of Administrative  Services, for the biennium beginning
+July 1, 2023, out of the General Fund, the amount of $1,000,000, for distribution to the High
+Desert Partnership:
+(1) To design and implement projects for restoring or maintaining  wet meadow, wetland
+and lake conditions for birds,  farmers and ranchers on the Silvies River Floodplain, on the
+Donner und Blitzen River Floodplain, at Malheur  Lake and in the Malheur National Wildlife
+Refuge;
+(2) For research and public engagement related  to the projects described in subsection
+(1) of this section; and
+(3) To support  collaborative partnerships related to the projects described in subsection
+(1) of this section.
+SECTION 46. In addition to and  not in lieu of any other appropriation, there is appro-
+priated to the Oregon Department of Administrative  Services, for the biennium beginning
+July 1, 2023, out of the General Fund, the amount of $1,000,000, for purposes of  implementing
+section 24 of this 2023 Act.
+SECTION 47. In addition to and  not in lieu of any other appropriation, there is appro-
+priated to the Oregon Business Development  Department, for the biennium beginning July
+1, 2023, out of the General Fund, the  amount of $3,000,000, for deposit in the Aquifer Re-
+charge Fund established under section 33 of this 2023 Act.
+SECTION 48. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Oregon Department of  Administrative Services, for the biennium beginning
+July 1, 2023, out of the General Fund, the following amounts which may be expended  for the
+purposes of providing grants under section 35 of this 2023 Act, as follows:
+(1) $850,000 for providing a grant to a soil and water conservation district located in
+Crook County.
+(2) $325,000 for providing a grant to a soil and water conservation district located in
+Jefferson County.
+(3) $125,000 for providing a grant to a soil and water conservation district located in
+Klamath County.
+(4) $125,000 for providing a grant to a soil and water conservation district located in
+Deschutes County.
+(5) $300,000 for providing a grant to soil and water conservation district located in Harney
+County.
+(6) $125,000 for providing a grant to a soil and water  conservation district located in Lake
+County.
+(7) $300,000 for providing a grant to Wheeler County.
+Enrolled House Bill 2010 (HB 2010-A) Page 22
+SECTION 49. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Oregon Department of  Administrative Services, for the biennium beginning
+July 1, 2023, out of the General Fund, the amount of $85,000, which may  be expended for the
+purpose of carrying out section 37 of this 2023 Act.
+SECTION 50. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Higher Education Coordinating Commission,  for the biennium beginning July
+1, 2023, out of the General Fund, the amount of $365,000 for  distribution to Oregon State
+University for the purpose of carrying out the provisions of section 35 of this 2023 Act.
+SECTION 51. Notwithstanding any  other law limiting expenditures, the amount of
+$1,000,000 is established, for the biennium  beginning July 1, 2023, as the maximum limit for
+payment of expenses  by the Oregon Watershed Enhancement Board for the purpose of car-
+rying out section 1 of this 2023 Act through use  of funds from the Community Drinking
+Water Enhancement and Protection Fund established by section 4 of this 2023 Act.
+SECTION 52. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Watershed Enhancement Board by section 1, chapter ___,  Oregon Laws
+2023 (Enrolled Senate Bill 5539), for the biennium beginning  July 1, 2023, for operations, is
+increased by $247,049, for administering the provisions of sections 1 to 3 of this 2023 Act.
+SECTION 53. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Watershed Enhancement Board by section 1, chapter ___,  Oregon Laws
+2023 (Enrolled Senate Bill 5539), for the biennium beginning  July 1, 2023, for operations, is
+increased by $77,940, for carrying out the provisions of section 11 of  this 2023 Act and the
+amendments to ORS 536.220 by section 10 of this 2023 Act.
+SECTION 54. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 4 (3), chapter ___, Oregon Laws 2023 (Enrolled Senate  Bill
+5524), for the biennium beginning July 1, 2023, as the maximum limit for payment of expenses
+from fees, moneys or other revenues, including Miscellaneous Receipts, but  excluding lottery
+funds and federal funds, collected or received by the Oregon Business Development  Depart-
+ment, for infrastructure, is increased by $3,000,000, for the  purposes described in sections
+28 to 32 of this 2023 Act.
+SECTION 55. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Oregon Business Development Department,  for the biennium beginning July
+1, 2023, out of the General  Fund, the amount of $271,188, for administering the Aquifer Re-
+charge Testing Forgivable Loan Program established under section 30 of this 2023 Act.
+SECTION 56. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Higher Education  Coordinating Commission by section 1 (10), chapter ___,
+Oregon Laws 2023 (Enrolled House Bill 5025), for the biennium beginning  July 1, 2023, for
+public university statewide public  services, is increased by $3,085,581, for distribution to
+Oregon State University’s Southern Oregon Research  and Extension Center to carry out the
+provisions of sections 12 to 14 of this 2023 Act.
+SECTION 57. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Department  of Environmental Quality by section 1 (2), chapter ___, Oregon Laws
+2023 (Enrolled House Bill 5018), for the biennium beginning July 1, 2023, for water quality, is
+increased by $679,085, for carrying out the provisions of sections 16 and 22 of this 2023 Act.
+SECTION 58.
+Notwithstanding any other provision of law, the General Fund appropriation
+made to the State Department of Agriculture by section 1 (3), chapter ___,  Oregon Laws 2023
+(Enrolled House Bill 5002), for the biennium  beginning July 1, 2023, for natural resources, is
+increased by $269,762, for carrying out the provisions of section 16 of this 2023 Act.
+SECTION 59. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Water Resources Department by section 1 (5), chapter ___,  Oregon Laws 2023
+(Enrolled House Bill 5043), for the biennium beginning July 1,  2023, for director’s office, is
+increased by $631,202, for carrying out the provisions of sections 5 to 11  and 15 to 27 of this
+2023 Act.
+Enrolled House Bill 2010 (HB 2010-A) Page 23
+SECTION 60. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Water  Resources Department by section 1 (1), chapter ___, Oregon Laws 2023
+(Enrolled House Bill 5043), for the biennium beginning July 1, 2023, for agency administration,
+is increased by $398,569, for carrying out the provisions of sections 6 to  9, 11, 15, 16 and 21
+to 26 of this 2023 Act and the amendments to statutes by  sections 5, 10, 17 to 20 and 27 of
+this 2023 Act.
+SECTION 61.
+Notwithstanding any  other law limiting expenditures, the amount of
+$2,000,000 is established, for the biennium  beginning July 1, 2023, as the maximum limit for
+payment of expenses by the  Water Resources Department for the purpose of carrying out
+section 16 of  this 2023 Act through use of funds from the Place-Based Water Planning Fund
+established under section 15 of this 2023 Act.
+SECTION 62. This 2023 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2023 Act takes effect
+on its passage.
+Passed by House June 14, 2023
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Dan Rayfield, Speaker of House
+Passed by Senate June 22, 2023
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2023
+Approved:
+........................M.,........................................................., 2023
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2023
+..................................................................................
+Secretary of State
+Enrolled House Bill 2010 (HB 2010-A) Page 24
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 174.109, ORS 174.111, ORS 174.116, ORS 182.535, ORS 182.545, ORS 192.245, ORS 192.254, ORS 198.010, ORS 271.715, ORS 285A.096, ORS 294.805, ORS 448.115, ORS 468B.155, ORS 536.007, ORS 536.027, ORS 536.220, ORS 536.340, ORS 536.410, ORS 537.143, ORS 537.144, ORS 537.230, ORS 537.348, ORS 537.455, ORS 537.505, ORS 537.534, ORS 537.630, ORS 537.745, ORS 537.747, ORS 537.767, ORS 537.797, ORS 537.798, ORS 540.530, ORS 541.669, ORS 541.673, ORS 541.677, ORS 568.210, ORS 660.300, ORS 672.002, ORS 672.005, ORS 672.255, ORS 672.505
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `004777bf31e7ed0251cee3b0e6259438bb21f304e7f291c69806794c2fb53fc8` (snapshot `_meta/snapshots/measure-2023r1-hb2010-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2010/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `321772b3636c90ddbd15004e1b400ed658dda744ab164e16e537bc8c94d8abeb` (snapshot `_meta/snapshots/measure-2023r1-hb2010-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2010/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2010` (part of the batched per-session fetch), sha256 `93fbdf58369388064230f7ba2c78bd17b78e15ffa1d19e5c25089297c647cbe1` of the shared session snapshot `_meta/snapshots/measures-2023r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,434 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 3415
+Sponsored by  Representatives NOBLE, HACK; Representatives GREENLICK, KENNEMER, KENY-GUYER,
+NEARMAN, NOSSE, RAYFIELD, Senators GELSER, MONNES ANDERSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Imposes requirements upon mental  health treatment providers and programs to ensure culturally
+and linguistically appropriate care for individuals who are deaf or hard of hearing. Authorizes  civil
+penalty for violation of requirements.
+Prohibits and designates as unlawful practice denial of access to culturally and  linguistically
+affirmative mental health services based on residual hearing ability or previous experience in al-
+ternative mode of communication.
+Requires Oregon Health Authority to appoint Coordinator of Mental Health Services  for Deaf
+and Hard of Hearing Individuals and specifies duties.
+A BILL FOR AN ACT
+Relating to mental health services provided to individuals with impaired abilities to hear sounds.
+Whereas individuals who are deaf or hard of hearing, as a group,  represent an underserved
+population in many respects, particularly with respect to mental health services; and
+Whereas individuals who are deaf or hard  of hearing often require highly specialized mental
+health services; and
+Whereas research shows that individuals who are deaf or hard of  hearing are subject to signif-
+icantly more risks to their mental health than individuals who are able to hear due to  many factors,
+including but not limited to a lack of communication access in general and to family members, ed-
+ucators and treating professionals,  lack of access to appropriate educational services and lack of
+appropriate physical and mental health treatment services; and
+Whereas some individuals who are deaf or hard of  hearing may have secondary disabilities that
+impact the type and manner of mental health services that they need; and
+Whereas being deaf or hard of hearing impacts the most basic of human needs, which is the
+ability to communicate with other human beings; and
+Whereas many individuals who  are deaf or hard of hearing use sign language, which may be
+their primary language, while others  express and receive language orally and aurally, with or
+without visual signs or cues; and
+Whereas it is essential for the mental health and  well-being of individuals who are deaf or hard
+of hearing that mental health programs recognize the unique nature  of being deaf or hard of hearing
+and ensure that all  individuals who are deaf or hard of hearing have appropriate and fully accessible
+counseling and therapeutic options; and
+Whereas it is essential that individuals who are  deaf or hard of hearing have mental health
+options in which their unique communication mode is respected and utilized and  that mental health
+professionals are proficient in the primary communication mode  of individuals who are deaf or hard
+of hearing; and
+Whereas it is essential that individuals who are deaf  or hard of hearing have mental health
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4218
+HB 3415
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+options in which psychiatrists, psychologists,  therapists, counselors, social workers and other mental
+health providers understand the unique nature of being deaf or hard of hearing and  are specifically
+trained to work with individuals who are deaf or hard of hearing; and
+Whereas it is essential that individuals who are  deaf or hard of hearing have access to mental
+health professionals who are familiar with their unique culture and needs; and
+Whereas it  is essential that individuals who are deaf or hard of hearing are involved in deter-
+mining the extent, content and purpose of mental health programs and services; and
+Whereas it is essential that individuals who are deaf or hard of hearing  have programs in which
+they have direct and appropriate access to a full continuum of services, including but not limited
+to all modes of therapy and evaluations; and
+Whereas it is essential that individuals who are deaf or hard of hearing have specialized  pro-
+grams that provide for their  unique mental health needs, including appropriate research, curricula,
+staff and outreach; and
+Whereas mental health providers must make an individual determination for each individual who
+is deaf or  hard of hearing of the most accessible mental health services that take into consideration
+the findings in this preamble; and
+Whereas given their  unique communication needs, individuals who are deaf or hard of hearing
+would benefit from the development and implementation of state and regional programs that  address
+their the mental health needs; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 1 to 6 of this 2017 Act shall be known and may be cited as the
+Mental Health for Deaf and Hard of Hearing Individuals’ Bill of Rights.
+SECTION 2. As used in sections 1 to 6 of this 2017 Act:
+(1) “Accessible mental  health services” means the full range of mental health services
+provided, with the use  of auxiliary aids or services, by appropriately licensed mental health
+professionals who are not fluent in the primary communication mode, style or language  of
+the individual requiring such services.
+(2) “American  Sign Language” means the visual language used by deaf and hard of
+hearing people in the  United States and Canada, with semantic, syntactic, morphological and
+phonological rules that are distinct from English.
+(3) “Auxiliary aids or services” includes but is not limited to:
+(a) Qualified interpreters;
+(b) Signed English;
+(c) Cued speech;
+(d) Written communications; and
+(e) Assistive listening devices.
+(4) “Communication mode, style or language”  means the following systems or methods
+of communication used by deaf and hard of hearing individuals:
+(a) American Sign Language;
+(b) English-based manual or  sign systems that use manual signs in English word order,
+sometimes with added affixes that are not present in American Sign Language; and
+(c) Minimal  sign language systems to communicate with others who use home-based
+signs, idiosyncratic signs or a sign system or language from another country.
+(5) “Culturally and linguistically affirmative mental health services”  means the full range
+of mental health services  provided, without the use of an interpreter or other auxiliary aids
+[2]
+HB 3415
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or services,  to a deaf or hard of hearing individual by appropriately licensed mental health
+professionals fluent in the  primary communication mode, style or language as well as the
+cultural needs of the individual requiring such services.
+(6) “Deaf individual” means an individual who has a hearing loss which is  so severe that
+the individual has difficulty in processing linguistic information through hearing, with  or
+without amplification or other assistive technology.
+(7) “Hard  of hearing individual” means an individual who has a hearing loss, which may
+be permanent or fluctuating or corrected  by amplification or other assistive technology or
+means, that presents challenges in processing linguistic information through hearing.
+(8) “Primary communication mode, style  or language” means the communication mode,
+style or language that is preferred by and most effective for a particular individual, as de-
+termined by appropriate language assessment undertaken  by individuals proficient in the
+communication mode, style or language being assessed.
+SECTION 3.
+The Oregon Health Authority shall:
+(1) Make available throughout this state mental  health programs that provide culturally
+and linguistically affirmative mental health services to deaf and hard  of hearing individuals
+in their primary communication mode, style or language.
+(2) Develop, train  and retain a mental health professional workforce sufficient to ensure
+appropriate culturally and linguistically affirmative mental health services for  deaf and hard
+of hearing individuals in their primary communication mode, style or language,  including but
+not limited to:
+(a) Occupational therapists familiar with the unique needs of individuals who  are deaf or
+hard of hearing;
+(b) Prevention specialists;
+(c) Chemical dependency counselors; and
+(d) Social workers.
+(3) Develop, train and make available resources sufficient to ensure appropriate, acces-
+sible mental health services for deaf and hard of hearing individuals in their  primary com-
+munication mode, style or language, including but not limited to:
+(a) Qualified interpreters certified or otherwise able  to render effective communication
+in the mental health setting;
+(b) Relay or certified deaf interpreters; and
+(c) Foreign sign language interpreters.
+(4) Monitor state-funded mental health  programs, schools, courts, medical facilities, long
+term care facilities and providers  of addiction and substance abuse treatment to ensure that
+deaf and hard of hearing individuals of all ages are adequately served.
+(5) Allocate adequate funding for all  mental health programs that provide accessible
+mental health services to deaf and hard of hearing individuals.
+(6) Develop and implement strategies and plans to address the unmet need in geograph-
+ical areas where there are an insufficient  number of mental health professionals adequately
+trained in any communication mode, style or language to treat deaf or hard of  hearing indi-
+viduals, including but not limited to authorizing qualified mental health professionals licensed
+by another state to treat or otherwise serve the needs of deaf  or hard of hearing individuals
+in this state.
+(7) Authorize the use  of technology, in treatment, that allows deaf or hard of hearing
+[3]
+HB 3415
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+individuals to receive culturally and linguistically affirmative mental health  services from
+mental health professionals who are licensed in this state or another state.
+SECTION 4. (1) An individual who is deaf or hard of hearing may not be denied access
+to culturally and linguistically affirmative mental health services in the individual’s preferred
+communication mode, style or language on the basis that:
+(a) The individual has a residual hearing ability, whether assisted or not; or
+(b) The individual has previous experience with another communication mode, style  or
+language.
+(2) This section does not prohibit the provision of mental health treatment  in more than
+one communication mode, style or language for  any particular individual. An individual shall
+receive treatment in the communication mode, style or language that is determined to be
+most effective.
+(3) Violation of subsection  (1) of this section is an unlawful practice that is subject to
+enforcement under ORS chapter 659A.
+SECTION 5.
+(1) The Oregon Health Authority shall  appoint a Coordinator of Mental
+Health Services for  Deaf and Hard of Hearing Individuals to coordinate the statewide pro-
+vision of  culturally and linguistically affirmative mental health services to deaf and hard of
+hearing individuals.
+(2) The  coordinator must have leadership abilities and extensive experience in treating
+deaf individuals and must:
+(a) Be fluent in American Sign Language  and possess a thorough understanding of the
+culture of the deaf community;
+(b) Have completed  clinical training and possess a minimum of five years of experience
+providing direct services to deaf individuals with mental health needs;
+(c) Possess at least a master’s degree in a behavioral health or other  relevant clinical
+field, with a preference given to individuals who are licensed to practice independently;
+(d) Know and understand applicable federal and state laws;
+(e) Be  capable of or have experience in creating or integrating programs in the mental
+health service delivery system in this state to ensure that  deaf and hard of hearing individ-
+uals have access to the full continuum of mental health care; and
+(f) Demonstrate the aptitude to develop policies and procedures based on  the actual ser-
+vice needs of deaf and hard of hearing individuals.
+(3) The coordinator shall be responsible for ensuring  that culturally and linguistically
+affirmative mental health services are available to deaf and hard of hearing individuals
+statewide and shall have the authority to:
+(a) Take steps necessary to ensure access  to training, consultation and technical assist-
+ance by mental health treatment providers in various  settings, including but not limited to
+inpatient hospitalization, outpatient treatment and residential programs  serving deaf and
+hard of hearing  individuals with mental health needs or addiction or substance abuse disor-
+ders;
+(b) Facilitate  collaboration between state agencies and departments to maximize the use
+of state resources and joint planning;
+(c) Develop, oversee  and directly supervise staff responsible for the statewide delivery
+of accessible mental health services;
+(d) Establish statewide  mental health standards for the care of deaf and hard of hearing
+[4]
+HB 3415
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+individuals, including standards for American Sign Language skills in mental health settings;
+(e) Allocate mental health funds or grants to public and  private mental health providers
+to achieve optimum service delivery within the system of care in this state; and
+(f) Collect and  evaluate clinical and programmatic outcomes data from each mental
+health service provider serving deaf or hard of hearing individuals in this state.
+SECTION 6. (1) A deaf or hard of hearing individual admitted to a  hospital or residential
+treatment center must be assigned to a qualified staff  member or clinical treatment team
+with the  primary responsibility for coordinating and implementing the individual’s treatment
+plan.
+(2) A hospital  or residential treatment center must have written procedures to ensure
+that deaf or hard of hearing individuals are provided culturally and linguistically affirmative
+mental health services, including but not limited to the following:
+(a) Direct access to  mental health services by a staff member who meets qualification
+criteria adopted by  the Oregon Health Authority by rule for fluency in the language or
+communication mode, style or language preferred by the individual.
+(b) If the services described in paragraph (a) of this subsection cannot be made  available,
+free language assistance in compliance with federal and state laws. All interpreters must  be
+qualified to work in  the treatment setting according to standards adopted by rule by the
+authority. Family members may not be used as interpreters under any circumstances.
+(3) The authority or the coordinator shall specify how mental health services  must be
+provided if in-person interpreters are not available. If remote interpreters  are used, the
+provider of mental health services shall be responsible for ensuring that  the remote inter-
+preters are qualified to provide the interpretation of mental health services.
+(4) If qualified interpreters are offered but refused by a deaf  or hard of hearing individual
+in need of mental health services, the mental health service provider must  obtain a signed
+waiver from the individual of the right to accessible mental health services  and retain the
+waiver in the individual’s case record.
+(5) Diagnostic testing of  deaf and hard of hearing individuals requires expertise in the
+administration and interpretation of standardized objective or projective tests and must be
+performed by qualified mental health treatment providers with the level  of fluency in sign
+language or other mode of communication prescribed by the authority by rule.
+SECTION 7.
+(1) The Oregon Health Authority may impose a civil penalty of up to $5,000
+on a person for failure to comply with section 6 of this 2017 Act.
+(2) Civil  penalties under this section must be imposed in the manner provided by ORS
+183.745.
+(3) All penalties recovered under this section shall be paid into the State Treasury and
+credited to the Oregon Health Authority Fund established under ORS 413.101.
+SECTION 8. The requirements of  section 4 of this 2017 Act apply to conduct occurring
+on or after the effective date of this 2017 Act.
+[5]

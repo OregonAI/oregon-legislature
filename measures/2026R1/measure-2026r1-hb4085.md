@@ -1,0 +1,519 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-hb4085
+title: 'HB 4085 (2026R1): Allows a person to operate an autonomous vehicle with the automated driving
+  system engaged without a grant of driving privileges if certain conditions are met.'
+doc_type: dataset_doc
+citation: 2026 Regular Session House Bill 4085
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4085/Introduced
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: ffd554aabfc838af07c15aeb97ed76d2c9342ca74fd52928620eefe53a8f817c
+snapshot_id: measure-2026r1-hb4085-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.116
+  - ORS 735.400
+  - ORS 742.502
+  - ORS 742.520
+  - ORS 801.026
+  - ORS 806.060
+  - ORS 807.010
+  - ORS 807.020
+  - ORS 807.060
+  - ORS 807.062
+  - ORS 807.070
+  - ORS 807.280
+  - ORS 810.070
+  - ORS 811.700
+  - ORS 811.705
+  - ORS 811.710
+  - ORS 811.715
+  - ORS 821.150
+  - ORS 821.170
+  - ORS 821.172
+  - ORS 821.176
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- hb
+session_key: 2026R1
+measure_prefix: HB
+measure_number: 4085
+prefix_meaning: House Bill
+catch_line: Allows a person to operate an autonomous vehicle with the automated driving system engaged
+  without a grant of driving privileges if certain conditions are met.
+minority_catch_line: null
+measure_summary: "\tDigest: Allows the use of a self-driving vehicle without a license or permit. Allows\
+  \ the use of a self-driving vehicle to transport persons or property for hire. Preempts local laws and\
+  \ rules. (Flesch Readability Score: 62.6). \n\tAllows a person to operate an autonomous vehicle with\
+  \ the automated driving system engaged without a grant of driving privileges if certain conditions are\
+  \ met. Requires an automated driving system to be able to achieve a minimal risk condition or issue\
+  \ a request to intervene. Requires an autonomous vehicle to operate in compliance with state vehicle\
+  \ laws and comply with federal safety standards. Provides for exemptions. \n\tAllows the Department\
+  \ of Transportation to grant an autonomous vehicle that operates exclusively by an automated driving\
+  \ system and without an onboard driver an exemption to any state equipment requirement. \n\tRequires\
+  \ a person operating an autonomous vehicle that is involved in a collision that results in damages to\
+  \ property to perform certain duties. Exempts a person operating an autonomous vehicle from other certain\
+  \ duties of a driver. \n\tPrescribes financial responsibility requirements for a person operating an\
+  \ autonomous vehicle. \n\tAuthorizes a person to operate an autonomous vehicle for the purpose of transporting\
+  \ persons or property for hire if the person provides certain information to the department and provides\
+  \ a first responder interaction plan. Prescribes that authorization does not expire unless suspended\
+  \ or revoked. \n\tExempts autonomous vehicles and on-demand autonomous vehicle networks from provisions\
+  \ related to motor carriers. Prohibits local governments from regulating, imposing a tax or fee on or\
+  \ requiring a license or permit for on-demand autonomous vehicle networks. Prohibits local governments\
+  \ from prohibiting or regulating the operation of autonomous vehicles or on-demand autonomous vehicle\
+  \ networks."
+relating_to: Relating to autonomous vehicles.
+relating_to_full: Relating to autonomous vehicles; creating new provisions; and amending ORS 807.020.
+at_the_request_of: null
+lc_number: 79
+measure_created_date: '2026-01-16T16:25:26'
+measure_modified_date: '2026-02-02T11:44:17'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 25679
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.116
+  - ORS 735.400
+  - ORS 742.502
+  - ORS 742.520
+  - ORS 801.026
+  - ORS 806.060
+  - ORS 807.010
+  - ORS 807.020
+  - ORS 807.060
+  - ORS 807.062
+  - ORS 807.070
+  - ORS 807.280
+  - ORS 810.070
+  - ORS 811.700
+  - ORS 811.705
+  - ORS 811.710
+  - ORS 811.715
+  - ORS 821.150
+  - ORS 821.170
+  - ORS 821.172
+  - ORS 821.176
+  from_relating_to_full:
+  - ORS 807.020
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4085`.
+
+# HB 4085 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** House Bill 4085, 2026 Regular Session (2026R1)
+- **LC number:** 79
+- **Created:** 2026-01-16T16:25:26
+- **Metadata last modified (upstream):** 2026-02-02T11:44:17
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 25679 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4085/Introduced>.
+
+## Summary
+
+**Catchline:** Allows a person to operate an autonomous vehicle with the automated driving system engaged without a grant of driving privileges if certain conditions are met.
+
+**Relating to:** Relating to autonomous vehicles.
+
+Digest: Allows the use of a self-driving vehicle without a license or permit. Allows the use of a self-driving vehicle to transport persons or property for hire. Preempts local laws and rules. (Flesch Readability Score: 62.6). 
+ Allows a person to operate an autonomous vehicle with the automated driving system engaged without a grant of driving privileges if certain conditions are met. Requires an automated driving system to be able to achieve a minimal risk condition or issue a request to intervene. Requires an autonomous vehicle to operate in compliance with state vehicle laws and comply with federal safety standards. Provides for exemptions. 
+ Allows the Department of Transportation to grant an autonomous vehicle that operates exclusively by an automated driving system and without an onboard driver an exemption to any state equipment requirement. 
+ Requires a person operating an autonomous vehicle that is involved in a collision that results in damages to property to perform certain duties. Exempts a person operating an autonomous vehicle from other certain duties of a driver. 
+ Prescribes financial responsibility requirements for a person operating an autonomous vehicle. 
+ Authorizes a person to operate an autonomous vehicle for the purpose of transporting persons or property for hire if the person provides certain information to the department and provides a first responder interaction plan. Prescribes that authorization does not expire unless suspended or revoked. 
+ Exempts autonomous vehicles and on-demand autonomous vehicle networks from provisions related to motor carriers. Prohibits local governments from regulating, imposing a tax or fee on or requiring a license or permit for on-demand autonomous vehicle networks. Prohibits local governments from prohibiting or regulating the operation of autonomous vehicles or on-demand autonomous vehicle networks.
+
+**RelatingToFull (verbatim upstream field):** Relating to autonomous vehicles; creating new provisions; and amending ORS 807.020.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4085
+Sponsored by Representatives MCLAIN, BOSHART DAVIS; Representatives DOBSON, PHAM H, Senators
+GORSEK, MEEK, REYNOLDS, STARR (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Allows the use of a self-driving vehicle without a license or permit. Allows  the use of
+a self-driving vehicle to transport  persons or property for hire. Preempts local laws and rules.
+(Flesch Readability Score: 62.6).
+Allows a person to operate an autonomous vehicle with the automated  driving system engaged
+without a grant of  driving privileges if certain conditions are met. Requires an automated driving
+system to be able to achieve a minimal risk condition or issue a request to  intervene. Requires an
+autonomous vehicle  to operate in compliance with state vehicle laws and comply with federal safety
+standards. Provides for exemptions.
+Allows the Department of Transportation to grant  an autonomous vehicle that operates exclu-
+sively by an automated driving system and without an onboard driver an exemption  to any state
+equipment requirement.
+Requires a person operating an autonomous vehicle that is  involved in a collision that results
+in damages to property  to perform certain duties. Exempts a person operating an autonomous vehi-
+cle from other certain duties of a driver.
+Prescribes financial responsibility requirements for a person operating an autonomous vehicle.
+Authorizes a person to operate an autonomous vehicle for the purpose of  transporting persons
+or property for hire if the  person provides certain information to the department and provides a first
+responder interaction plan. Prescribes that  authorization does not expire unless suspended or re-
+voked.
+Exempts autonomous vehicles and on-demand autonomous vehicle networks from provisions  re-
+lated to motor carriers. Prohibits local governments from  regulating, imposing a tax or fee on or
+requiring a license or permit for on-demand autonomous vehicle  networks. Prohibits local govern-
+ments from prohibiting or regulating the operation of autonomous vehicles or  on-demand auton-
+omous vehicle networks.
+A BILL FOR AN ACT
+Relating to autonomous vehicles; creating new provisions; and amending ORS 807.020.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 13 of this 2026 Act are added to and made a part of the Oregon
+Vehicle Code.
+SECTION 2. Definitions. As used in sections 2 to 13 of this 2026 Act:
+(1) “Automated driving system” means the hardware and software that are  collectively
+capable of performing the dynamic driving tasks on  a sustained basis within one or more
+operational design domains.
+(2) “Autonomous vehicle” means a  motor vehicle that is equipped with an automated
+driving system.
+(3)(a) “Dynamic driving task” means the real-time  operational and tactical functions re-
+quired to operate a motor vehicle on a highway or on premises open to the public.
+(b) “Dynamic driving task” includes:
+(A) Lateral vehicle motion control by steering;
+(B) Longitudinal motion control by accelerating or decelerating;
+(C) Monitoring the driving environment by detecting,  recognizing, classifying and pre-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 79
+paring a response to objects and events;
+(D) Executing appropriate responses to objects and events;
+(E) Planning maneuvers; and
+(F) Enhancing the motor vehicle’s conspicuity through lighting, signaling or gesturing.
+(c) “Dynamic driving task” does  not include trip planning, including decisions regarding
+whether, when and where to go or the route to take.
+(4) “Minimal risk condition” means a stable, stopped  condition to which an onboard op-
+erator or automated driving system may bring a motor vehicle in response to a  system fail-
+ure, request to intervene or cessation  of an operational design domain to reduce the risk of
+a collision.
+(5) “Onboard operator”  means a natural person who is seated in a motor vehicle, pos-
+sesses the proper  class of license or endorsement for the motor vehicle in which the person
+is seated and is able to assume control of and operate the motor vehicle.
+(6) “On-demand autonomous vehicle network” means a  transportation service network
+that uses a software application or  other digital means to dispatch or otherwise enable the
+prearrangement of transportation with autonomous vehicles for the purpose of  transporting
+passengers or goods, including for-hire transportation and transportation for compensation.
+(7) “Operational design domain” means the conditions  under which an automated driving
+system is specifically designed to function, including but not limited to  environmental, ge-
+ographic and time-of-day restrictions,  and the requisite presence or absence of certain traffic
+or roadway characteristics.
+(8) “Request to intervene”  means notification by an automated driving system to an
+onboard operator indicating that the onboard operator should promptly begin or resume
+performing part or all of the dynamic driving task.
+SECTION 3.
+Levels of driving automation. The Department of Transportation, taking into
+consideration the recommendations in the Society of  Automotive Engineers’ “Taxonomy and
+Definitions for Terms Related to Driving Automation Systems for  On-Road Motor Vehicles,
+Standard J3016,” April 2021 Edition,  shall by rule define the driving automation levels of au-
+tomated driving systems.
+SECTION 4. Operation of autonomous vehicles;  automated driving systems. A person
+may operate an autonomous  vehicle on the highways of this state with the automated driving
+system engaged if the following conditions are met:
+(1) If the automated driving system becomes unable  to perform the dynamic driving task:
+(a) The automated driving system will achieve a minimal risk condition; or
+(b) If the  automated driving system is unable to achieve a minimal risk condition and
+relies on an onboard operator, the automated driving  system will issue a request to inter-
+vene;
+(2) The autonomous vehicle is  capable of operating in compliance with all state vehicle
+laws, except those laws for which the department has granted an exemption; and
+(3) The autonomous vehicle and  its automated driving system comply with all applicable
+Federal Motor  Vehicle Safety Standards for its model year, except those standards for which
+an exemption has been granted by the National Highway  Traffic Safety Administration or by
+provision of federal law.
+SECTION 5.
+Driver of autonomous vehicle. (1) When the automated driving system of an
+autonomous vehicle is engaged, the automated driving system is the driver or operator  of
+the autonomous vehicle for the purposes of the Oregon Vehicle  Code and any administrative
+rule adopted pursuant to the Oregon Vehicle Code.
+(2) Notwithstanding subsection (1) of this section,  when the automated driving system
+of an autonomous vehicle is engaged,  the onboard operator or owner of the autonomous ve-
+hicle shall be subject to any  citation or penalty for violation of an applicable traffic or vehicle
+law.
+SECTION 6.
+Exemption to  state equipment requirements. The Department of Transpor-
+tation may grant an autonomous vehicle that operates  exclusively by an automated driving
+system and without an onboard operator an exemption  to any state equipment requirements
+under ORS chapter 815 or 816.
+SECTION 7. Duties of operator. (1)(a) A person operating an autonomous vehicle that is
+involved in a collision that results in damage to property shall perform the duties of a driver
+described in ORS 811.700.
+(b) A person operating an  autonomous vehicle is exempt from the duties of a driver as
+described in ORS 811.705, 811.710 and 811.715.
+(2)(a) A  person operating an autonomous vehicle shall provide the Department of Trans-
+portation a copy of any collision  report that the person is required to provide the National
+Highway Traffic Safety Administration within  24 hours after the person provides the collision
+report to the National Highway Traffic Safety Administration.
+(b) A person is exempt from  the requirement under paragraph (a) of this subsection if
+the report is made available to the department under federal law.
+SECTION 8. Insurance. (1) A person operating an autonomous vehicle shall:
+(a) Comply with the financial responsibility requirements under ORS 806.060; and
+(b) Maintain a motor vehicle  liability policy that meets the requirements under ORS
+742.502 and 742.520.
+(2) In addition to  the requirements under subsection (1) of this section, a person oper-
+ating an autonomous vehicle with the automated driving system engaged  shall maintain a
+motor vehicle liability  policy that provides combined single limit per occurrence third-party
+liability coverage of at least $1 million.
+(3) A person may satisfy the requirements under this section  by maintaining an insur-
+ance policy issued by:
+(a) An insurer licensed in this state; or
+(b) A surplus lines licensee under ORS 735.400 to 735.495.
+SECTION 9.
+Operating as commercial vehicle. A person may operate an autonomous ve-
+hicle as a commercial vehicle under ORS chapter 826.
+SECTION 10. Transport of persons or property  for hire. (1) As used in this section and
+section 11 of this 2026  Act, “for-hire carrier” means a person who operates an autonomous
+vehicle for the  purpose of transporting persons or property for hire or who publicly purports
+to be willing to transport persons or property for hire by autonomous vehicle.
+(2) A person may not operate an autonomous  vehicle without an onboard operator as a
+for-hire carrier  in this state unless the person receives authorization from the Department
+of Transportation under this section.
+(3) The department shall authorize a person to operate an  autonomous vehicle without
+an onboard operator as a for-hire carrier in this state if the person:
+(a) Submits an application that includes the  information listed under subsection (4) of
+this section; and
+(b) Provides the department with a first responder interaction plan described  under
+subsection (5) of this section.
+(4) An application submitted under subsection  (3) of this section must include the fol-
+lowing information:
+(a) The person’s name, address and contact information;
+(b) For each autonomous vehicle included in the application, the vehicle tag number  and
+state of issuance, vehicle information number,  make, model and year and proof of current
+vehicle registration; and
+(c) A written statement certifying that each autonomous vehicle included in  the appli-
+cation complies with the requirements listed under section 4 of this 2026 Act.
+(5) A first responder  interaction plan provided under subsection (3) of this section must
+include the following:
+(a) Documentation that the person operating the autonomous vehicle has  employed a
+fleet support specialist who will be available during  any period of time that the autonomous
+vehicle is operating;
+(b) How to contact and communicate with the fleet support specialist;
+(c) How to safely remove the autonomous vehicle from the roadway;
+(d) How to safely tow the autonomous vehicle;
+(e) How to recognize whether the autonomous vehicle has the automated driving system
+engaged or not; and
+(f) Any other information regarding hazardous conditions  or public safety risks associ-
+ated with the operation of the autonomous vehicle.
+(6) Authorization granted to  a person to operate an autonomous vehicle without an
+onboard operator as a for-hire carrier under this section shall not  expire unless suspended
+or revoked pursuant to section 12 of this 2026 Act.
+(7) A person who is granted authorization under this section shall provide the department
+with any updated information described under subsection (3) of this  section within 30 days
+after the change in information.
+(8) The provisions of ORS chapter 825 do not apply  to a person or autonomous vehicle
+authorized to operate as a for-hire carrier under this section.
+SECTION 11.
+On-demand autonomous  vehicle network. (1) An on-demand autonomous
+vehicle network that receives authorization to operate as a for-hire carrier under  section 10
+of this 2026 Act shall:
+(a) Disclose to a customer the fare or  fare calculator method on the network’s website
+or mobile application prior to arranging a ride; and
+(b) Within a reasonable period of time after a ride is complete,  transmit an electric re-
+ceipt, which must include the origin and destination  of the ride, the total time and distance
+of the ride and the total amount charged for the ride, to the customer.
+(2)(a) It is the intent  of the Legislative Assembly to provide for a uniform state law to
+govern exclusively on-demand autonomous vehicle networks.
+(b) With respect to on-demand  autonomous vehicle networks, a local government may
+not:
+(A) Regulate;
+(B) Impose a tax or fee; or
+(C) Require a license or permit.
+(c) Notwithstanding paragraph (b) of this subsection, an airport may:
+(A) Charge an on-demand autonomous vehicle  network a fee that is consistent with any
+fee the airport charges persons providing similar services; or
+(B) Designating locations for staging, picking up customers or  dropping off customers
+that are reasonably  equivalent to locations the airport designates for use by other persons
+providing similar services.
+(3)(a) An on-demand autonomous vehicle network:
+(A) Is exempt from the provisions of ORS chapter 825;
+(B) Is not a common carrier; and
+(C) May not provide taxicab or street hail services.
+(b) As used in  this subsection, “street hail” means an immediate arrangement on a street
+with a driver by a person  using any method other than a digital network to seek immediate
+transportation.
+SECTION 12.
+Suspension or revocation of  authorization. (1) As used in this section,
+“authorization holder” means a person who the Department of Transportation authorizes to
+operate an  autonomous vehicle without an onboard operator as a for-hire carrier under
+section 10 of this 2026 Act.
+(2) The Department of Transportation  shall follow the procedures under this section if
+the department determines that:
+(a) An autonomous vehicle operating with authorization granted under section 10 of this
+2026 Act is not in safe operational condition; and
+(b) Operation of  the autonomous vehicle on the public highways of this state endangers
+the public by creating a substantial risk of death or has caused death, serious  permanent
+disfigurement or protracted loss or impairment  of the function of any bodily member or or-
+gan.
+(3)(a) The department shall provide the authorization holder notice of intent to:
+(A) Suspend or revoke the authorization; or
+(B) Impose restrictions on the operation of the autonomous vehicle.
+(b) The notice must:
+(A) Include a summary of the department’s determination and supporting evidence;
+(B) Specify the enforcement action the department will  take if the authorization holder
+fails to provide a certification as described in subsection (4) of this section; and
+(C) Provide the authorization holder a reasonable period of time to:
+(i) Correct the issues identified by the department; and
+(ii) Provide the department a certification as described in subsection (4) of this section.
+(4) Within the period of time provided in the notice, the authorization holder shall:
+(a) Ensure that the issues identified by the department in the notice are corrected; and
+(b) Provide the department a certification that:
+(A) Acknowledges that the issues have been corrected;
+(B) Explains how the issues have been corrected; and
+(C) Identifies any operational measures implemented.
+(5) Upon written request by the authorization holder, the department may give the  au-
+thorization holder additional time to respond under subsection (4) of this section.
+(6) If the authorization holder fails to comply with subsection (4) of this  section, the de-
+partment shall issue a decision that carries out the enforcement action specified in the no-
+tice.
+(7) Within 10 days of receiving  a decision, the authorization holder may submit a written
+request to the department to review the decision. Within 10 days of receiving  a written re-
+quest to review the decision, the department  shall review the decision and issue a final de-
+termination that upholds or rescinds the decision.
+(8) A final determination by the department under this section is subject to  review in the
+manner prescribed under ORS chapter 183 for contested cases.
+(9) Notwithstanding the period of time that is provided in  a notice under subsection (3)
+of this section, the department  shall rescind a suspension, revocation or restriction on the
+operation of the autonomous vehicle if, at any time, the authorization holder complies  with
+subsection (4) of this section.
+SECTION 13.
+Controlling authority; rules. (1) Except  as provided under sections 2 to 13
+of this 2026 Act, autonomous  vehicles and automated driving systems are governed exclu-
+sively by state law.
+(2) A local government  or local service district, as those terms are defined in ORS
+174.116, may not:
+(a) Prohibit the operation of an autonomous vehicle or on-demand autonomous  vehicle
+network;
+(b) Impose a tax, fee, performance standard or  other requirement specific only to the
+operation of an autonomous vehicle or on-demand autonomous vehicle network.
+(3) The Department of Transportation  shall adopt rules necessary to carry out the pro-
+visions of sections 2 to 13 of this 2026 Act.
+SECTION 14.  ORS 807.020 is amended to read:
+807.020. A person who is granted a driving privilege by this section  may exercise the driving
+privilege described without  violation of the requirements under ORS 807.010. A grant of driving
+privileges to operate a motor vehicle under this section is subject to suspension  and revocation the
+same as other  driving privileges granted under the vehicle code. This section is in addition to any
+exemptions from the vehicle code under ORS 801.026. The following persons are  granted the de-
+scribed driving privileges:
+(1) A person who is not a resident of this  state or who has been a resident of this state for less
+than 30 days may operate a motor vehicle without an Oregon license or driver permit  if the person
+holds a current out-of-state license issued to the person. For the purpose of this subsection, a  person
+is a resident of this state if the person meets the residency requirements described in  ORS 807.062.
+To qualify under this subsection, the person must have the  out-of-state license or driver permit in
+the person’s possession. A person is not granted driving privileges under this subsection:
+(a) If the person is under the minimum age required to be eligible for  driving privileges under
+ORS 807.060;
+(b) During a period of suspension or revocation by this state or any other jurisdiction of  driving
+privileges or of the right to apply for a license or driver permit  issued by this state or any other
+jurisdiction;  or
+(c) That exceed the driving privileges granted  to the person by the out-of-state license or driver
+permit.
+(2) A person who is a member of the Armed Forces of the United  States or a member of the
+commissioned corps of the National Oceanic and Atmospheric Administration  may operate a motor
+vehicle without an Oregon license or  driver permit if the person is operating a motor vehicle in the
+course of the person’s duties  in the Armed Forces or the National Oceanic and Atmospheric Ad-
+ministration.
+(3) A person without a license  or driver permit may operate a road roller or road machinery
+that is not required to be registered under the laws of this state.
+(4) A person without a license or driver permit may  temporarily operate, draw, move or propel
+a farm tractor or implement of husbandry.
+(5) A person without  a license or driver permit may operate a motor vehicle to demonstrate
+driving ability during the course of  an examination administered under ORS 807.070 for the purpose
+of qualifying for a license or  driver permit. This subsection only applies when an authorized exam-
+iner is in a seat beside the driver of the motor vehicle.
+(6) Driving privileges for snowmobiles are exclusively as provided in ORS 821.150.
+(7) Driving privileges for Class  I all-terrain vehicles are exclusively as provided in ORS 821.170,
+unless a person  is operating a Class I all-terrain vehicle on an all-terrain vehicle highway access
+route that is designated by the Oregon Transportation Commission as open to all-terrain vehicles.
+(8) Driving privileges for Class III all-terrain vehicles are exclusively as provided in ORS
+821.172, unless a person is  operating a Class III all-terrain vehicle on an all-terrain vehicle highway
+access route that is designated by the commission as open to all-terrain vehicles.
+(9) Driving privileges for Class IV all-terrain vehicles are exclusively as provided in ORS
+821.176, unless a person is  operating a Class IV all-terrain vehicle on an all-terrain vehicle highway
+access route that is designated by the commission as open to all-terrain vehicles.
+(10) A person without a license or driver permit may operate a golf cart in  accordance with an
+ordinance adopted under ORS 810.070.
+(11) The spouse of a member of the Armed Forces of the United States on active duty or the
+spouse of a member of the commissioned corps of the National  Oceanic and Atmospheric Adminis-
+tration who  is accompanying the member on assignment in this state may operate a motor vehicle
+if the spouse has a current out-of-state  license or driver permit issued to the spouse by another state
+in the spouse’s possession.
+(12) A person who is a member of the Armed Forces of  the United States on active duty or a
+member of the commissioned corps of the National Oceanic and  Atmospheric Administration may
+operate a motor vehicle if the person  has a current out-of-state license or driver permit in the
+person’s possession that is issued to the  person by the person’s state of domicile or by the Armed
+Forces of the United States in a foreign country. Driving privileges described  under this subsection
+that are granted by the Armed Forces  apply only for a period of 45 days from the time the person
+returns to the United States.
+(13) A person who does not  hold a motorcycle endorsement may operate a motorcycle if the
+person is:
+(a) Within an enclosed cab;
+(b) Operating a vehicle designed to travel  with three wheels in contact with the ground at
+speeds of less than 15 miles per hour; or
+(c) Operating an autocycle.
+(14) Except  as provided in subsection (15) of this section, a person may operate a bicycle without
+any grant of driving privileges.
+(15) A person may operate the following without any grant of driving  privileges if the person is
+16 years of age or older:
+(a) A Class 1 electric assisted bicycle;
+(b) A Class 2 electric assisted bicycle; or
+(c) A Class 3 electric assisted bicycle.
+(16) A  person may operate a motor assisted scooter without a driver license or driver permit if
+the person is 16 years of age or older.
+(17) A person who is not a resident of this state or who has been  a resident of this state for less
+than 30 days may operate a motor vehicle without an Oregon license or driver permit  if the person
+is at least 15 years of age  and has in the person’s possession a current out-of-state equivalent of a
+Class C instruction driver permit issued to the person. For the purpose of this subsection, a person
+is a resident  of this state if the person meets the residency requirements described in ORS 807.062.
+A person operating a motor  vehicle under authority of this subsection has the same privileges and
+is subject to the same  restrictions as a person operating under the authority of a Class C instruction
+driver permit issued as provided in ORS 807.280.
+(18) A person may operate an electric personal assistive mobility device without any grant of
+driving privileges if the person is 16 years of age or older.
+(19)(a) A person may operate an autonomous vehicle  with the automated driving system
+engaged without any grant of driving privileges if the  conditions listed under section 4 of this
+2026 Act are met.
+(b) As used in this subsection, “autonomous vehicle” and “automated driving system”
+have the meanings given those terms in section 2 of this 2026 Act.
+SECTION 15.
+Captions. The section captions used in this 2026  Act are provided only for
+the convenience of the reader and  do not become part of the statutory law of this state or
+express any legislative intent in the enactment of this 2026 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 807.020
+- From bill text (Introduced version): ORS 174.116, ORS 735.400, ORS 742.502, ORS 742.520, ORS 801.026, ORS 806.060, ORS 807.010, ORS 807.020, ORS 807.060, ORS 807.062, ORS 807.070, ORS 807.280, ORS 810.070, ORS 811.700, ORS 811.705, ORS 811.710, ORS 811.715, ORS 821.150, ORS 821.170, ORS 821.172, ORS 821.176
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-28, sha256 `ffd554aabfc838af07c15aeb97ed76d2c9342ca74fd52928620eefe53a8f817c` (snapshot `_meta/snapshots/measure-2026r1-hb4085-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4085/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4085` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,610 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2021r1-sb587
+title: 'SB 587 (2021R1): Requires Department of Revenue to issue license to qualified retailers of tobacco
+  products and inhalant delivery systems that do not hold license or other authorization issued by city
+  or local public health authority.'
+doc_type: dataset_doc
+citation: 2021 Regular Session Senate Bill 587
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB587/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: b526ab883e995b187920847e339d261e73f469ee165a67554c2b71242df272fa
+snapshot_id: measure-2021r1-sb587-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 167.750
+  - ORS 167.755
+  - ORS 167.760
+  - ORS 167.765
+  - ORS 167.775
+  - ORS 167.780
+  - ORS 167.785
+  - ORS 183.413
+  - ORS 183.470
+  - ORS 190.110
+  - ORS 192.311
+  - ORS 238.082
+  - ORS 293.445
+  - ORS 305.280
+  - ORS 305.404
+  - ORS 323.005
+  - ORS 323.403
+  - ORS 323.595
+  - ORS 413.101
+  - ORS 431.003
+  - ORS 431.413
+  - ORS 431.415
+  - ORS 431A.153
+  - ORS 431A.175
+  - ORS 431A.178
+  - ORS 431A.180
+  - ORS 431A.183
+  - ORS 475B.105
+  - ORS 475B.858
+  - ORS 689.005
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2021r1
+- sb
+session_key: 2021R1
+measure_prefix: SB
+measure_number: 587
+prefix_meaning: Senate Bill
+catch_line: Requires Department of Revenue to issue license to qualified retailers of tobacco products
+  and inhalant delivery systems that do not hold license or other authorization issued by city or local
+  public health authority.
+minority_catch_line: null
+measure_summary: "\tRequires Department of Revenue to issue license to qualified retailers of tobacco\
+  \ products and inhalant delivery systems that do not hold license or other authorization issued by city\
+  \ or local public health authority. Defines \"tobacco products\" and \"inhalant delivery system.\" Allows\
+  \ department to impose civil penalty for specified violations. Continuously appropriates moneys in suspense\
+  \ account to department for specified purposes. \n\tDirects department, Oregon Health Authority and\
+  \ local public health authorities to share information for effective administration of Act and cigarette\
+  \ and tobacco tax laws and to enter into agreements for purposes of collecting fees imposed by Oregon\
+  \ Health Authority and local public health authorities. \n\tAllows Oregon Health Authority to impose\
+  \ civil penalty for violation of certain state public health and safety laws related to tobacco products\
+  \ and inhalant delivery systems. Continuously appropriates moneys in Oregon Health Authority Fund to\
+  \ authority for purposes of administration and enforcement. \n\tAllows local public health authority\
+  \ to enforce local standards for regulation of sale of tobacco products and inhalant delivery systems\
+  \ or enforce state standards for regulation of sale of tobacco products and inhalant delivery systems.\
+  \ Prohibits city or local public health authority from adopting ordinance, after effective date of Act,\
+  \ to prohibit colocation of retailer of tobacco products or inhalant delivery systems with pharmacy.\
+  \ \n\tAllows certain cities and local public health authorities to require license or other authorization\
+  \ issued by city or local public health authority to make retail sales of tobacco products or inhalant\
+  \ delivery systems. \n\tTakes effect on 91st day following adjournment sine die.\t."
+relating_to: Relating to public health; and prescribing an effective date.
+relating_to_full: Relating to public health; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 1064
+measure_created_date: '2020-12-23T11:17:14'
+measure_modified_date: '2021-08-20T10:14:35'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 31131
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 167.750
+  - ORS 167.755
+  - ORS 167.760
+  - ORS 167.765
+  - ORS 167.775
+  - ORS 167.780
+  - ORS 167.785
+  - ORS 183.413
+  - ORS 183.470
+  - ORS 190.110
+  - ORS 192.311
+  - ORS 238.082
+  - ORS 293.445
+  - ORS 305.280
+  - ORS 305.404
+  - ORS 323.005
+  - ORS 323.403
+  - ORS 323.595
+  - ORS 413.101
+  - ORS 431.003
+  - ORS 431.413
+  - ORS 431.415
+  - ORS 431A.153
+  - ORS 431A.175
+  - ORS 431A.178
+  - ORS 431A.180
+  - ORS 431A.183
+  - ORS 475B.105
+  - ORS 475B.858
+  - ORS 689.005
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 587`.
+
+# SB 587 — 2021 Regular Session (2021R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 587, 2021 Regular Session (2021R1)
+- **LC number:** 1064
+- **Created:** 2020-12-23T11:17:14
+- **Metadata last modified (upstream):** 2021-08-20T10:14:35
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 31131 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB587/Enrolled>.
+
+## Summary
+
+**Catchline:** Requires Department of Revenue to issue license to qualified retailers of tobacco products and inhalant delivery systems that do not hold license or other authorization issued by city or local public health authority.
+
+**Relating to:** Relating to public health; and prescribing an effective date.
+
+Requires Department of Revenue to issue license to qualified retailers of tobacco products and inhalant delivery systems that do not hold license or other authorization issued by city or local public health authority. Defines "tobacco products" and "inhalant delivery system." Allows department to impose civil penalty for specified violations. Continuously appropriates moneys in suspense account to department for specified purposes. 
+ Directs department, Oregon Health Authority and local public health authorities to share information for effective administration of Act and cigarette and tobacco tax laws and to enter into agreements for purposes of collecting fees imposed by Oregon Health Authority and local public health authorities. 
+ Allows Oregon Health Authority to impose civil penalty for violation of certain state public health and safety laws related to tobacco products and inhalant delivery systems. Continuously appropriates moneys in Oregon Health Authority Fund to authority for purposes of administration and enforcement. 
+ Allows local public health authority to enforce local standards for regulation of sale of tobacco products and inhalant delivery systems or enforce state standards for regulation of sale of tobacco products and inhalant delivery systems. Prohibits city or local public health authority from adopting ordinance, after effective date of Act, to prohibit colocation of retailer of tobacco products or inhalant delivery systems with pharmacy. 
+ Allows certain cities and local public health authorities to require license or other authorization issued by city or local public health authority to make retail sales of tobacco products or inhalant delivery systems. 
+ Takes effect on 91st day following adjournment sine die. .
+
+**RelatingToFull (verbatim upstream field):** Relating to public health; and prescribing an effective date.
+
+## Full text
+
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Enrolled
+Senate Bill 587
+Sponsored by Senator TAYLOR, Representative  SALINAS; Senators GORSEK, MANNING JR,
+PATTERSON, STEINER HAYWARD, Representatives  DEXTER, PRUSAK, REYNOLDS, WILDE
+(Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to public health; creating new provisions; amending ORS 431A.178 and  431A.183; repealing
+ORS 167.785 and 431A.180; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+TOBACCO RETAILER LICENSURE
+SECTION 1. Definitions. As used in sections 1 to 14 of this 2021 Act:
+(1) “Governing body of a local public health authority” has the  meaning given that term
+in ORS 431.003.
+(2) “Inhalant delivery system” has the meaning given that term in ORS 431A.175.
+(3) “Local public health authority” has the meaning given that term in ORS 431.003.
+(4) “Premises” means the  real property on which a business that makes retail sales of
+tobacco products or inhalant delivery systems is located.
+(5) “Tobacco products” has the meaning given that term in ORS 431A.175.
+SECTION 2.
+Purpose. The purpose of sections 1 to 14 of this 2021 Act is to  improve
+enforcement of local ordinances and rules, state laws and rules and federal laws  and regu-
+lations that govern the retail sale of tobacco products and inhalant delivery systems.
+SECTION 3. Licensure requirement.  A person may not make  a retail sale of a tobacco
+product or an inhalant delivery system at or from a premises located in this state  unless the
+person sells the tobacco product or inhalant delivery  system at or from a premises licensed
+or otherwise authorized under section 5 or 18 of this 2021 Act.
+SECTION 4. Premises to which Act does not apply. Notwithstanding section 3  of this
+2021 Act, sections 1 to 14 of this 2021 Act do not apply to a person making  a retail sale of
+an inhalant delivery system at  a medical marijuana dispensary registered under ORS
+475B.858 or at a premises for which a license has been issued under ORS  475B.105, unless the
+person makes a retail sale of an inhalant delivery system that contains nicotine.
+SECTION 5. Licensure. (1) Except as provided in subsection (8) of this section,  the De-
+partment of Revenue shall issue licenses to, and annually renew licenses for, a  person that
+makes retail sales of tobacco products or inhalant delivery systems at qualified premises.
+(2) To be qualified for licensure under this section, a premises:
+(a) Must be a premises that is fixed and permanent;
+(b) May not be located in an area that is zoned exclusively for residential use; and
+Enrolled Senate Bill 587 (SB 587-B) Page 1
+(c) Must meet any qualification  for engaging in the retail sale of tobacco products and
+inhalant delivery systems enacted as an ordinance by the governing body of a local public
+health authority under section 17 of this 2021 Act, provided that the department has know-
+ledge of the qualification pursuant to an agreement entered into  under section 13 of this 2021
+Act.
+(3) For the purpose of licensing premises  under this section, the department shall adopt
+rules establishing:
+(a) Procedures for applying for and renewing licenses; and
+(b) Licensure application, issuance and renewal fees.
+(4) An application submitted under this section and information related  to applying for
+or renewing a license under this  section is confidential and not subject to public disclosure
+under ORS 192.311 to 192.478. However, the department may share an application submitted
+under this section and information related to applying  for or renewing a license under this
+section with the Department of Justice, the Oregon Health Authority or a  local public health
+authority.
+(5) The Department of Revenue shall publish a list that includes the name  of each person
+to which a license has been issued under this  section, the address of each premises for which
+a license has been issued under this section and any other  information that the department
+determines is relevant to the public with  respect to the retail sale of tobacco products and
+inhalant delivery systems.
+(6) Fees established under subsection (3)(b)  of this section must be reasonably calculated
+to cover but not exceed the costs incurred by the department in administering sections 1 to
+14 of this 2021 Act.
+(7) All moneys collected under this section shall  be deposited in the suspense account
+described in section 10 of this 2021 Act.
+(8) The department may not require a person that makes retail sales of tobacco  products
+or inhalant delivery systems to obtain a license under this section if the  person holds a li-
+cense or other authorization issued by a city or  local public health authority pursuant to
+section 18 of this 2021 Act.
+SECTION 6.
+Proof of licensure.  A person to which a license or other  authorization has
+been issued under section 5 or 18 of  this 2021 Act must post proof of licensure or other au-
+thorization in a clear and conspicuous  place at the premises for which the license or other
+authorization has been issued.
+SECTION 7. Revocation, suspension, refusal to issue or renew. (1) The Department of
+Revenue may  revoke, suspend or refuse to issue or renew a license issued under section 5
+of this 2021 Act if the person that holds  or seeks the license, an individual who participates
+in the management of  the premises for which the license has been or would be issued or an
+individual who is employed for the purpose of making retail sales at the premises:
+(a) Violates sections  1 to 14 of this 2021 Act, a rule adopted under sections 1 to 14 of this
+2021 Act or any other state law or rule or federal law or regulation that governs  the retail
+sale of tobacco products or inhalant delivery systems or state taxation;
+(b) Violates an ordinance enacted by the governing  body of a local public health authority
+or a rule adopted by a local public health authority that governs the retail sale of tobacco
+products or inhalant delivery systems; or
+(c) Makes a false statement to the department.
+(2) The department may only revoke, suspend or refuse  to issue or renew a license pur-
+suant to subsection (1)(b) of this section if a local public health authority:
+(a) Has provided the person that holds or seeks the license, the individual  who partic-
+ipates in the management of the premises for which the license has  been or would be issued
+or the individual who is employed for the purpose of making retail  sales at the premises with
+a process for contesting the violation that is substantially similar to the process provided
+under ORS 183.413 to 183.470; and
+Enrolled Senate Bill 587 (SB 587-B) Page 2
+(b) Provides the department  with a final order establishing that the person or individual
+is in violation of an ordinance that is  substantially similar to the requirements for a final
+order under ORS 183.470.
+(3) Except as provided by  state tax law or as otherwise identified by the department by
+rule or order, a decision by the department to revoke, suspend or  refuse to issue or renew
+a license under this section may be appealed as a contested case under ORS chapter 183.
+(4) The department shall adopt rules to provide that, subject to subsection (2)  of this
+section, a license issued under section 5 of this 2021 Act must be suspended  for an amount
+of time established by the department by rule if a person  described in subsection (1) of this
+section is found to have committed an act described in subsection (1)(a) to (c) of this section
+three or more times.
+SECTION 8. Civil penalty. (1) The Department of Revenue may impose a civil  penalty
+against a person that holds or seeks a license issued under section 5 of this 2021 Act  if the
+person that holds or seeks the license, an individual who participates  in the management of
+the premises for which the license has been or would be issued or an individual who is  em-
+ployed for the purpose of making retail sales at the premises:
+(a) Violates sections  1 to 14 of this 2021 Act, a rule adopted under sections 1 to 14 of this
+2021 Act or any other state law or rule or federal law or regulation that governs  the retail
+sale of tobacco products or inhalant delivery systems or state taxation; or
+(b) Makes a false statement to the department.
+(2) A civil penalty imposed under this section may not exceed $1,000 per violation.
+(3) Amounts collected by the department under this section shall  be deposited in the
+General Fund.
+(4) Except as provided by state tax law or as otherwise identified  by the department by
+rule or order,  an imposition of a civil penalty under this section may be appealed as a con-
+tested case under ORS chapter 183.
+(5) If  a civil penalty is imposed under this section, a civil penalty may not be imposed for
+the commission of the same act under ORS 431A.178 or pursuant to  an ordinance or rule
+adopted under section 17 of this 2021 Act.
+SECTION 9.
+Seizure and forfeiture of contraband tobacco products and contraband
+inhalant delivery systems.  (1)  For purposes of this section, a tobacco product or inhalant
+delivery system  sold or held for sale at or from a premises for which a license has not been
+issued under section 5 of this 2021 Act is a contraband tobacco product or contraband
+inhalant delivery system.
+(2) A contraband tobacco product or  contraband inhalant delivery system found by the
+Department of  Revenue or a law enforcement agency may be seized immediately by the de-
+partment or agency and is subject to forfeiture. If seized  and forfeited under this section,
+the contraband tobacco product or the contraband inhalant  delivery system must be de-
+stroyed.
+(3) Notwithstanding ORS 305.280 or 323.416, a  seizure and forfeiture made under this
+section may be appealed to the magistrate division of the Oregon Tax  Court within 30 days
+of the date of the seizure in the manner provided in ORS 305.404 to 305.560.
+SECTION 10.
+Suspense account for administration  and enforcement.  (1) Amounts col-
+lected by the Department of Revenue under section 5 of this  2021 Act shall be paid to the
+State Treasurer to be held in a suspense account established under ORS 293.445.
+(2) From moneys held in the suspense account, the department may pay  expenses for the
+administration and enforcement of  sections 1 to 14 of this 2021 Act and the collection of fees
+under sections 1 to 14 of this 2021 Act. Refunds, including refunds of erroneous overpay-
+ments or refunds of other moneys received in which the department has no legal  interest,
+shall be paid out of the suspense account.
+(3) Amounts necessary to make payments as described in subsection (2) of this  section
+are continuously appropriated to the department from the suspense account.
+Enrolled Senate Bill 587 (SB 587-B) Page 3
+SECTION 11. Rules. The Department of Revenue may adopt rules necessary for the ef-
+fective administration of sections 1 to 14 of this 2021 Act.
+SECTION 12. Fees. The Oregon Health Authority shall adopt  by rule fees necessary to
+pay the expenses of administering and enforcing ORS 431A.175 and 431A.183 and  section 17
+of this 2021 Act. Pursuant to an agreement entered into under section 13 of this 2021 Act,
+the Department of Revenue shall  collect the fee moneys for, and transfer the fee moneys to,
+the authority. Moneys transferred to the authority under this section  must be deposited in
+the Oregon Health Authority Fund established under ORS 413.101. Moneys deposited in the
+fund under this section are continuously appropriated to the authority for  the purposes of
+administering and enforcing ORS 431A.175 and 431A.183 and section 17 of this 2021 Act.
+SECTION 13.
+Intergovernmental agreements. (1) The Department of  Revenue and the
+Oregon Health Authority shall:
+(a) Share information necessary for the effective administration  of sections 1 to 14 and
+17 of this 2021 Act and ORS 431A.175 and 431A.183; and
+(b) Enter into an agreement for purposes of collecting fee  moneys for the authority
+pursuant to section 12 of this 2021  Act from each retailer of tobacco products or inhalant
+delivery systems at the same time that the department collects fee moneys  from the retailer
+under section 5 of this 2021 Act,  and transferring the fee moneys collected pursuant to sec-
+tion 12 of this  2021 Act to the authority for deposit in the Oregon Health Authority Fund
+established under ORS 413.101.
+(2) The department and each local public health authority that does  not require licensure
+or other authorization pursuant to section 18 of this 2021 Act shall:
+(a) Share information necessary for the effective  administration of sections 1 to 14 and
+17 of this 2021 Act; and
+(b) Enter into an agreement  for purposes of collecting any fee moneys for the local public
+health authority  pursuant to section 17 of this 2021 Act from each retailer of tobacco pro-
+ducts or inhalant delivery  systems located within the area over which the local public health
+authority has jurisdiction at the same time that the department  collects fee moneys from
+the retailer under section 5 of this 2021 Act,  and transferring the fee moneys collected pur-
+suant to section 17 of this 2021 Act to the local public health authority for deposit in a fund
+of the local public health authority.
+(3) The department and each city or local public health  authority that requires licensure
+or other authorization pursuant to section 18 of this 2021 Act shall:
+(a) Share information necessary for the effective administration  of the licensure or other
+authorization pursuant to section 18 of this 2021 Act and ORS 323.005 to  323.482, 323.500 to
+323.645 and 323.700 to 323.730 and any rules adopted under ORS 323.005 to 323.482, 323.500 to
+323.645 or 323.700 to 323.730; and
+(b) Enter into an agreement under which the city or  local public health authority agrees
+to enforce standards described in section 17 (2)(a)  of this 2021 Act against persons licensed
+or otherwise authorized by  the city or local public health authority under section 18 of this
+2021 Act, including through revocation of the license or  other authorization of a person that
+violates the  standards or ORS 323.005 to 323.482, 323.500 to 323.645 and 323.700 to 323.730 and
+any rules adopted under ORS 323.005 to 323.482, 323.500 to 323.645 or 323.700 to 323.730.
+(4) The Oregon Health Authority and  each local public health authority shall share in-
+formation necessary for the effective administration of sections 1 to 14 and 17 of this 2021
+Act and ORS 431A.175 and 431A.183.
+(5) Notwithstanding the  confidentiality provisions of ORS 323.403 and 323.595, the de-
+partment may disclose  information received under ORS 323.005 to 323.482 and 323.500 to
+323.645 to a city or local public  health authority to the extent the department deems neces-
+sary.
+SECTION 14.
+Suspense account for fee money transfers. (1) Amounts collected by the
+Department of Revenue pursuant to agreements entered into under  section 13 of this 2021
+Enrolled Senate Bill 587 (SB 587-B) Page 4
+Act shall be paid to the State Treasurer to be  held in a suspense account established under
+ORS 293.445.
+(2) From moneys held  in the suspense account, the department shall make transfers to
+the Oregon Health Authority and local public health authorities as required by  section 13 of
+this 2021 Act.
+(3) Amounts necessary to make transfers  as described in subsection (2) of this section
+are continuously appropriated to the department from the suspense account.
+STATE PUBLIC HEALTH AND SAFETY LAWS
+SECTION 15.  ORS 431A.178 is amended to read:
+431A.178. [(1) The Oregon Health Authority may impose a civil penalty for each violation of  ORS
+431A.175. A civil penalty imposed under this section may not be less than $250 or more than $1,000. ]
+(1) The Oregon Health Authority may impose a civil penalty against a person  that en-
+gages in the wholesale or  retail sale of tobacco products or inhalant delivery systems, as
+those terms are defined in ORS 431A.175, if the person violates:
+(a) ORS 431A.175 or a rule adopted under ORS 431A.175; or
+(b) A state law or rule or federal law or regulation that governs the wholesale or  retail
+sale of tobacco products or inhalant delivery systems for purposes related to  public health
+and safety.
+(2) A civil penalty imposed under this section may not be more  than $5,000 per violation.
+[(2)(a) Amounts collected under subsection (1) of this section shall be deposited  in the Oregon
+Health Authority Fund established under ORS 413.101. Except as provided  in paragraph (b) of this
+subsection, moneys deposited in the fund under this subsection are continuously appropriated to  the
+authority for carrying out the duties, functions and  powers of the authority under ORS 431A.175 and
+431A.183.]
+[(b) At the end of each biennium, the authority shall transfer the unobligated moneys  collected
+under subsection (1) of this section  remaining in the fund to the Tobacco Use Reduction Account es-
+tablished under ORS 431A.153. ]
+(3) Amounts collected under this section shall be deposited in the General Fund.
+(4) If  a civil penalty is imposed under this section, a civil penalty may not be imposed for
+the commission of the same act under section 8 or 17 of this 2021 Act.
+SECTION 16.
+ ORS 431A.183 is amended to read:
+431A.183. (1)(a) The Oregon Health Authority may enter into an agreement with federal agencies
+to assist the authority in monitoring and enforcing federal laws  and regulations related to tobacco
+products or inhalant delivery systems.
+(b) The authority may commission employees  of the authority as federal officers for the purpose
+of carrying out the duties prescribed under an agreement entered into under  paragraph (a) of this
+subsection.
+(c) The  authority may adopt rules and take any action necessary to carry out the authority’s
+duties as established under an agreement entered into under paragraph (a) of this subsection.
+(2)(a) The authority may enter into an agreement with federal,  state and local government
+agencies, including federal, state and local law enforcement agencies, to assist the  authority in
+carrying out the  authority’s duties under ORS 431A.175 and to conduct random, unannounced in-
+spections of wholesalers and retailers of tobacco products or inhalant  delivery systems to ensure
+compliance with the laws of this state designed to discourage the use of tobacco products and
+inhalant delivery systems by persons under 21  years of age, including ORS 167.750, 167.755, 167.760,
+167.765, 167.775, 167.780 and 431A.175.
+(b) The authority shall ensure that a retailer is inspected as  described in this subsection
+at least once each year. A retailer that is found to be out of compliance  with the laws de-
+scribed in paragraph (a) of this  subsection may be reinspected as the authority determines
+necessary.
+Enrolled Senate Bill 587 (SB 587-B) Page 5
+(c) The authority may adopt rules to carry out paragraph (b) of this subsection.
+(3)(a) If the authority  enters into an agreement with the Department of State Police under sub-
+section (2) of this section, the  department may employ retired state police officers who are active
+reserve officers. Service by a retired  state police officer under this paragraph is subject to ORS
+238.082.
+(b) The department may not use the services  of a retired state police officer to displace an ac-
+tive state police member.
+(4)(a) The authority may apply for and accept moneys from the federal  government or other
+public or private sources and, in accordance with any  federal restrictions or other funding source
+restrictions, use those moneys to carry out the duties and functions  related to preventing the use
+of tobacco  products or inhalant delivery systems by persons who are not of the minimum age to
+purchase tobacco products or inhalant delivery systems.
+(b) Moneys received by the authority under paragraph (a) of this subsection shall  be deposited
+in the Oregon Health Authority Fund  established under ORS 413.101. Moneys subject to a federal
+restriction or other funding source restriction must be accounted  for separately from other fund
+moneys.
+(5)(a) The authority shall submit a written report each biennium to the Governor and to the
+appropriate committee or interim committee of the Legislative Assembly to which matters  of public
+health are assigned.
+(b) The report submitted under this subsection must contain information describing:
+(A) The activities carried out to enforce the  laws listed in subsection (2) of this section during
+the previous biennium;
+(B) The  extent of success achieved in reducing the availability of tobacco products and inhalant
+delivery systems to persons under 21 years of age; and
+(C) The strategies to be utilized for enforcing the laws listed in subsection  (2) of this section
+during the biennium following the report.
+(6) The authority shall adopt rules for conducting random inspections of establishments  that
+distribute or sell tobacco products  or inhalant delivery systems. The rules shall provide that in-
+spections may take place:
+(a) Only in areas open to the public;
+(b) Only during the hours that tobacco products or inhalant delivery systems are distributed  or
+sold; and
+(c) No more frequently than once a month in any single establishment  unless a compliance
+problem exists or is suspected.
+LOCAL REGULATION
+SECTION 17.
+Local regulation. (1) As used in this section:
+(a) “Governing body of a local public health authority” has the meaning given  that term
+in ORS 431.003.
+(b) “Inhalant delivery system” has the meaning given that term in ORS 431A.175.
+(c) “Local public health authority” has the meaning given that term in ORS 431.003.
+(d) “Tobacco products” has the meaning given that term in ORS 431A.175.
+(2) Each local public health authority may:
+(a) Enforce, pursuant to an ordinance enacted by the governing body of the local  public
+health authority,  standards for regulating the retail sale of tobacco products and inhalant
+delivery systems for purposes related to public health and safety in addition  to the standards
+described in paragraph (b) of this subsection, including qualifications for engaging in the re-
+tail sale of tobacco products or inhalant delivery systems that are  in addition to the quali-
+fications described in section 5 of this 2021 Act;
+(b)(A) Administer and  enforce standards established by state law or rule relating to the
+regulation of the retail sale of tobacco products and inhalant delivery systems for purposes
+Enrolled Senate Bill 587 (SB 587-B) Page 6
+related to public health  and safety if the local public health authority and the Oregon Health
+Authority enter into an agreement pursuant to ORS 190.110; or
+(B) Perform the duties described in this  section in accordance with ORS 431.413 (2) or (3);
+and
+(c) Use outreach and educational services to provide businesses  that engage in the retail
+sale of tobacco products  or inhalant delivery systems with information pertaining to local
+ordinances and rules, state laws and  rules and federal laws and regulations regulating the
+retail sale of tobacco products and inhalant delivery systems.
+(3)(a) A local public health authority may impose on businesses that engage in  the retail
+sale of tobacco products or inhalant delivery systems a fee for paying the expenses of activ-
+ities described in subsection (2) of this section. Pursuant  to an agreement entered into under
+section 13 of this 2021 Act, the Department of Revenue shall collect the fee moneys for,  and
+transfer the  fee moneys to, the local public health authority. Moneys transferred to a local
+public health authority under this subsection must be deposited in a fund of the local  public
+health authority. Moneys deposited  in a fund under this subsection may only be spent by the
+local public health authority for the purposes of subsection (2) of this section.
+(b) The governing body of a local public health authority may, pursuant to ORS  431.415,
+establish a schedule for the fees described in paragraph (a) of this subsection.
+(4) A local public health authority may  impose a civil penalty not to exceed $5,000 on a
+business that engages in the retail sale of tobacco products or inhalant delivery systems  for
+violating a standard described in subsection (2)  of this section. If a civil penalty is imposed
+under this section, a civil penalty  may not be imposed for the commission of the same act
+under ORS 431A.178 or section 8 of this 2021 Act.
+(5) The Oregon Health Authority shall:
+(a) Subject to section 18 of this  2021 Act, ensure that state standards established by state
+law and rule  regarding the regulation of the retail sale of tobacco products and inhalant de-
+livery systems are administered and enforced consistently throughout this state;
+(b) Establish a database or other mechanism for collecting information from  local public
+health authorities and the general public regarding the regulation of the retail  sale of to-
+bacco products and  inhalant delivery systems for purposes related to public health and
+safety, including any information  related to complaints about a person that makes retail
+sales of tobacco products or inhalant delivery systems;
+(c) Provide technical assistance to local public health authorities regarding the regulation
+of the retail sale of tobacco products and inhalant delivery systems;
+(d) Assess the effectiveness of state and local programs for regulating the retail sale  of
+tobacco products and inhalant delivery systems; and
+(e) Adopt any rules necessary to implement or administer the provisions of this section.
+(6)(a) A city or local public health  authority may not adopt an ordinance that prohibits
+a premises that makes retail sales of  tobacco products or inhalant delivery systems from
+being located at the same address as a pharmacy, as defined in ORS 689.005.
+(b) A city or local public health authority  that, on or before the effective date of this 2021
+Act, adopted an ordinance described in paragraph (a) of this subsection may continue to en-
+force the ordinance on and after the effective date of this 2021 Act.
+(7) Except as provided in section  18 of this 2021 Act, a city or local public health au-
+thority may not require a person that makes retail sales of  tobacco products or inhalant
+delivery systems to hold a license or other authorization issued  by the city or local public
+health authority in addition to the license issued under section 5 of this 2021 Act.
+SECTION 18.
+Continuity. A city or local public health authority that, on or before Janu-
+ary 1, 2021, and pursuant to an ordinance adopted by the governing body of the city  or local
+public health authority, enforced  standards described in section 17 (2)(a) of this 2021 Act and
+required that a person that makes retail sales of tobacco products  or inhalant delivery sys-
+tems in an  area subject to the jurisdiction of the city or local public health authority hold
+Enrolled Senate Bill 587 (SB 587-B) Page 7
+a license or other authorization issued  by the city or local public health authority may con-
+tinue to enforce the standards and require the license or other  authorization on and after
+the operative date specified in section 24 of this 2021 Act.
+REPEAL
+SECTION 19. Repeal. ORS 167.785 and 431A.180 are repealed.
+APPLICABILITY
+SECTION 20. Applicability. The amendments to ORS 431A.178 by section 15 of this  2021
+Act apply to violations for conduct occurring on or after the operative date specified in sec-
+tion 24 of this 2021 Act.
+FISCAL PROVISIONS
+SECTION 21.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 2  (4), chapter __, Oregon Laws 2021 (Enrolled Senate Bill
+5537), for the biennium beginning July 1, 2021, as the maximum limit for payment of expenses
+from fees, moneys or other revenues, including  Miscellaneous Receipts and reimbursements
+from federal service agreements, but excluding  lottery funds and federal funds not described
+in this section, collected or received by the Department of  Revenue, for the Business Divi-
+sion, is increased by $1,174,046, for the implementation of sections 1 to 14 of this 2021 Act.
+SECTION 22. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established  by section 2 (1), chapter __, Oregon Laws 2021 (Enrolled House Bill
+5024), for the biennium beginning July 1, 2021, as the maximum limit for payment of expenses
+from fees, moneys or other revenues, including Miscellaneous Receipts, tobacco tax receipts,
+marijuana tax receipts, beer and wine tax receipts, provider taxes and  Medicare receipts, but
+excluding lottery funds and federal funds not described  in this section, collected or received
+by the Oregon Health Authority, for Health Systems, Health Policy  and Analytics, and Public
+Health, is increased by $2,061,726.
+CAPTIONS
+SECTION 23.
+Unit and section  captions. The unit and section captions used in this 2021
+Act are provided only for the convenience of the reader and  do not become part of the
+statutory law of this state  or express any legislative intent in the enactment of this 2021 Act.
+OPERATIVE AND EFFECTIVE DATES
+SECTION 24. Operative date. (1) Sections 1 to 14  and 17 of this 2021 Act, the amendments
+to ORS 431A.178 and 431A.183 by sections 15 and 16 of this 2021  Act and the repeal of ORS
+167.785 and 431A.180 by section 19 of this 2021 Act become operative on January 1, 2022.
+(2) The Department of  Revenue, the Oregon Health Authority and local public health
+authorities may take any action before the operative date specified in subsection (1) of  this
+section that is necessary  to enable the department, the Oregon Health Authority and local
+public health authorities to exercise, on and after the operative  date specified in subsection
+(1) of  this section, all the duties, functions and powers conferred on the department, the
+Oregon Health Authority and local public health authorities by sections 1 to 14 and 17  of this
+2021 Act,  the amendments to ORS 431A.178 and 431A.183 by sections 15 and 16 of this 2021
+Act and the repeal of ORS 167.785 and 431A.180 by section 19 of this 2021 Act.
+Enrolled Senate Bill 587 (SB 587-B) Page 8
+SECTION 25. This 2021 Act takes effect on the 91st day after the date on  which the 2021
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+Passed by Senate June 21, 2021
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Peter Courtney, President of Senate
+Passed by House June 24, 2021
+..................................................................................
+Tina Kotek, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2021
+Approved:
+........................M.,........................................................., 2021
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2021
+..................................................................................
+Shemia Fagan, Secretary of State
+Enrolled Senate Bill 587 (SB 587-B) Page 9
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 167.750, ORS 167.755, ORS 167.760, ORS 167.765, ORS 167.775, ORS 167.780, ORS 167.785, ORS 183.413, ORS 183.470, ORS 190.110, ORS 192.311, ORS 238.082, ORS 293.445, ORS 305.280, ORS 305.404, ORS 323.005, ORS 323.403, ORS 323.595, ORS 413.101, ORS 431.003, ORS 431.413, ORS 431.415, ORS 431A.153, ORS 431A.175, ORS 431A.178, ORS 431A.180, ORS 431A.183, ORS 475B.105, ORS 475B.858, ORS 689.005
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `b526ab883e995b187920847e339d261e73f469ee165a67554c2b71242df272fa` (snapshot `_meta/snapshots/measure-2021r1-sb587-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB587/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `3f0853530082720021b4eebd96b58e7cff55f3a0741fe46d13ba0f4ac2f2f7e4` (snapshot `_meta/snapshots/measure-2021r1-sb587-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB587/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 587` (part of the batched per-session fetch), sha256 `5da569ca758abb18ddc62b98b159745491357dbe8bf5488fc371a795d58c4c1e` of the shared session snapshot `_meta/snapshots/measures-2021r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

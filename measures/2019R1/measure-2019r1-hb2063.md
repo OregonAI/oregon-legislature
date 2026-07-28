@@ -1,0 +1,258 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2019r1-hb2063
+title: 'HB 2063 (2019R1): Extends authorized uses of moneys received by state pursuant to Volkswagen Environmental
+  Mitigation Trust Agreement and deposited in Clean Diesel Engine Fund.'
+doc_type: dataset_doc
+citation: 2019 Regular Session House Bill 2063
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2063/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 0105ed303180ef7434c8928f8536a744b74fe454a1117628719bdc6cd7928323
+snapshot_id: measure-2019r1-hb2063-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 200.005
+  - ORS 468A.266
+  - ORS 468A.795
+  - ORS 468A.801
+  - ORS 468A.803
+  - ORS 468A.805
+  - ORS 820.100
+  - ORS 825.005
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2019r1
+- hb
+session_key: 2019R1
+measure_prefix: HB
+measure_number: 2063
+prefix_meaning: House Bill
+catch_line: Extends authorized uses of moneys received by state pursuant to Volkswagen Environmental Mitigation
+  Trust Agreement and deposited in Clean Diesel Engine Fund.
+minority_catch_line: null
+measure_summary: "\tExtends authorized uses of moneys received by state pursuant to Volkswagen Environmental\
+  \ Mitigation Trust Agreement and deposited in Clean Diesel Engine Fund."
+relating_to: Relating to environmental mitigation trust agreement moneys.
+relating_to_full: Relating to environmental mitigation trust agreement moneys; amending ORS 468A.795 and
+  468A.805.
+at_the_request_of: (at the request of Governor Kate Brown for Department of Environmental Quality)
+lc_number: 463
+measure_created_date: '2018-12-07T12:11:47'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 10394
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 200.005
+  - ORS 468A.266
+  - ORS 468A.795
+  - ORS 468A.801
+  - ORS 468A.803
+  - ORS 468A.805
+  - ORS 820.100
+  - ORS 825.005
+  from_relating_to_full:
+  - ORS 468A.795
+  - ORS 468A.805
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2063`.
+
+# HB 2063 — 2019 Regular Session (2019R1)
+
+## At a glance
+
+- **Measure:** House Bill 2063, 2019 Regular Session (2019R1)
+- **At the request of:** (at the request of Governor Kate Brown for Department of Environmental Quality)
+- **LC number:** 463
+- **Created:** 2018-12-07T12:11:47
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 10394 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2063/Introduced>.
+
+## Summary
+
+**Catchline:** Extends authorized uses of moneys received by state pursuant to Volkswagen Environmental Mitigation Trust Agreement and deposited in Clean Diesel Engine Fund.
+
+**Relating to:** Relating to environmental mitigation trust agreement moneys.
+
+Extends authorized uses of moneys received by state pursuant to Volkswagen Environmental Mitigation Trust Agreement and deposited in Clean Diesel Engine Fund.
+
+**RelatingToFull (verbatim upstream field):** Relating to environmental mitigation trust agreement moneys; amending ORS 468A.795 and 468A.805.
+
+## Full text
+
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2063
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of  Governor Kate Brown for
+Department of Environmental Quality)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Extends authorized uses of moneys received  by state pursuant to Volkswagen Environmental
+Mitigation Trust Agreement and deposited in Clean Diesel Engine Fund.
+A BILL FOR AN ACT
+Relating to environmental mitigation trust agreement  moneys; amending ORS 468A.795 and
+468A.805.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 468A.795 is amended to read:
+468A.795. As used in ORS 468A.795 to 468A.807:
+(1) “Alternative fuel” means biofuels, biogas,  natural gas, liquefied petroleum gas, hydrogen and
+electricity.
+(2) “Best available exhaust control technology” means the  most effective exhaust controls to
+reduce diesel particulate that rely on  passively regenerated diesel particulate control technology
+supported in a vehicle’s normal duty cycle.
+(3) “Combined weight” has the meaning given that term in ORS 825.005.
+(4) “Cost-effectiveness threshold” means the cost,  in dollars, per ton of diesel particulate matter
+reduced, as established by rule of the Environmental Quality Commission.
+(5) “Diesel engine” means a compression ignition engine.
+(6) “Environmental Mitigation Trust Agreement” means the  fully executed  Environmental Mit-
+igation Trust Agreement  for State Beneficiaries effective October 2, 2017, and issued  pursuant
+to Paragraph 17 of [required by ] the  Volkswagen “Clean Diesel” Marketing, Sales Practices and
+Products Liability Litigation partial consent decree dated October 25, 2016.
+(7) “Equivalent equipment” means a piece of equipment that performs the  same function and has
+the equivalent horsepower to a piece of equipment subject to a replacement.
+(8) “Equivalent motor vehicle” means a  motor vehicle that performs the same function and is in
+the same weight class as a motor vehicle subject to a replacement.
+(9) “Heavy-duty truck” means a motor vehicle or  combination of vehicles operated as a unit that
+has a combined weight that is greater than 26,000 pounds.
+(10) “Incremental cost” means the cost of a qualifying  repower or retrofit less a baseline cost
+that would otherwise be incurred in the normal course of business.
+(11) “Medium-duty truck” means a motor  vehicle or combination of vehicles operated as a unit
+that has a combined weight that is greater than 14,000 pounds but less than or equal  to 26,000
+pounds.
+(12) “Motor vehicle” has the meaning given that term in ORS 825.005.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 463
+(13) “Nonroad diesel engine” means a diesel engine of  25 horsepower or more that is not de-
+signed primarily to propel a motor vehicle on public highways.
+(14) “Oregon diesel  engine” means an engine at least 50 percent of the use of which, as meas-
+ured by miles driven or hours operated, will occur in Oregon for the three years  following the re-
+powering or retrofitting of the engine.
+(15) “Oregon diesel truck engine” means a diesel engine in a truck at least 50 percent of  the
+use of which, as measured by miles driven or hours operated,  has occurred in Oregon for the two
+years preceding the scrapping of the engine.
+(16) “Public highway” has the meaning given that term in ORS 825.005.
+(17)(a) “Replacement” means:
+(A) To scrap a motor vehicle powered by a diesel engine  and replace the motor vehicle with an
+equivalent motor vehicle; or
+(B) To scrap a piece of equipment powered by a nonroad diesel engine  and replace the equip-
+ment with equivalent equipment.
+(b) “Replacement” does not mean ordinary maintenance, repair or replacement  of a diesel en-
+gine.
+(18) “Repower” means to scrap an old diesel engine and substitute it  with a new engine, a used
+engine or a remanufactured engine, or with electric motors, drives or  fuel cells, with a minimum
+useful life of seven years.
+(19) “Retrofit” means to equip a diesel engine with  new emissions-reducing parts or technology
+after the manufacture of the original engine. A retrofit must use the greatest degree of  emissions
+reduction available for the particular  application of the equipment retrofitted that meets the cost-
+effectiveness threshold.
+(20) “Scrap” means to destroy, render inoperable and recycle.
+(21) “Truck” means a motor vehicle  or combination of vehicles operated as a unit that has a
+combined weight that is greater than 14,000 pounds.
+SECTION 2.
+ ORS 468A.805 is amended to read:
+468A.805. (1) Subject to and consistent with ORS 468A.803 (8) and  with the terms of the Envi-
+ronmental Mitigation Trust Agreement, any moneys received by the State  of Oregon pursuant to the
+agreement that are deposited in the Clean Diesel  Engine Fund under ORS 468A.801 must [ be used
+by the Department of Environmental Quality to award grants for the purpose of reducing nitrogen
+oxides emissions from diesel engines. ]
+[(2)(a) To  the extent authorized by the agreement, the department shall allocate moneys awarded
+pursuant to subsection (1) of this section first to ] be expended by the Department  of Environ-
+mental Quality as follows:
+(a) The department shall  award grants to owners and operators of school buses  to reduce
+emissions from at least 450 school buses powered by diesel engines operating in this state.
+(b) As  provided for in Appendix D-2 to the Environmental Mitigation Trust Agreement,
+the department may  use up to 15 percent of the total moneys received by the State of Oregon
+as the state’s allocation of  trust funds on the costs necessary for, and directly connected to,
+the purchase, installation and maintenance of light-duty electric vehicle supply equipment.
+(c)(A) Moneys not expended under paragraphs (a) and (b) of this subsection must be:
+(i) Awarded as grants for the purpose of reducing nitrogen oxides emissions  from diesel
+engines; or
+(ii) Utilized by the department as the State of Oregon’s  voluntary matching funds under
+the Diesel Emissions Reduction Act Program in  the Energy Policy Act of 2005, 42 U.S.C.
+16133, and for the purpose of  awarding grants for reducing diesel particulate matter emis-
+sions from diesel engines.
+(B) The department shall develop a competitive  grant program for awarding grants under
+this paragraph. The competitive grant program shall  apply the preferences set forth in sub-
+section (3) of this section.
+[(b)] (2)(a)  In awarding grants under [ this subsection ] subsection (1)(a) of this section , the
+department shall begin by awarding grants to owners and operators of  school buses powered by
+diesel engines that are of the median model year of school buses powered by  diesel engines operat-
+ing in this state, and shall proceed to award grants for school buses powered by diesel  engines
+through the adjoining model years until the requirements of [ paragraph (a) of this  subsection ] sub-
+section (1)(a) of this section  are met. A grant may be awarded under [ this subsection ] subsection
+(1)(a) of this section  for any school bus powered by a diesel engine within the control of an owner
+or operator that meets the following conditions:
+(A) The school bus has at least three years of remaining useful life;
+(B) Use of the school bus has occurred in Oregon during the year preceding the date of the
+grant; and
+(C) For the three years following receipt of a grant award, use of the school bus to which  the
+owner or operator applies the grant will occur in Oregon.
+[(c)] (b) The grant  amount per school bus awarded under [ this paragraph ] subsection (1)(a) of
+this section  shall be for:
+(A) $50,000 or 30 percent of the cost to purchase a school bus that meets  minimum standards
+adopted by the State Board of Education under ORS 820.100 for the applicable class  or type of
+school bus, whichever is less; or
+(B) Up to 100 percent of the cost to retrofit a school bus with  emissions-reducing parts or
+technology that results in a  reduction of diesel particulate matter emissions by at least 85 percent
+when compared with the baseline emissions for the relevant engine year and application.
+[(3) Except for awarding grants  pursuant to subsection (2) of this section, the department may not
+award grants from the moneys described  under subsection (1) of this section without prior approval
+by the Legislative Assembly by law. ]
+(3) In awarding grants pursuant to the grant program developed under subsection  (1)(c)
+of this section, the department shall give preferences for projects that will:
+(a) Benefit sensitive populations or  areas with elevated concentrations of diesel
+particulate matter;
+(b) Be carried out by a grant applicant that is a disadvantaged  business enterprise, as
+defined in ORS 200.005;
+(c) Be designed and perform in a manner that reflects engagement with and the support
+of the community where the project is located;
+(d) Involve the replacement, repower or retrofit of one or more motor vehicles  or pieces
+of equipment that have at least  three years of remaining useful life at the time that the
+grant agreement is executed;
+(e) Support the utilization of fuels for which regulated parties may generate credits  un-
+der the clean fuels program adopted by  rule by the Environmental Quality Commission under
+ORS 468A.266 (1)(b);
+(f) Involve small fleets;
+(g) Maximize cost effectiveness of emissions reductions in Oregon; or
+(h) Meet the criteria of any  other preferences that the commission may establish by rule,
+if the department determines that the additional  preferences are necessary to ensure that
+grant awards result in the reduction of nitrogen oxides emissions from diesel engines.
+(4) The commission may adopt rules necessary to  implement the provisions of this sec-
+tion.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 468A.795, ORS 468A.805
+- From bill text (Introduced version): ORS 200.005, ORS 468A.266, ORS 468A.795, ORS 468A.801, ORS 468A.803, ORS 468A.805, ORS 820.100, ORS 825.005
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `0105ed303180ef7434c8928f8536a744b74fe454a1117628719bdc6cd7928323` (snapshot `_meta/snapshots/measure-2019r1-hb2063-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2063/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2063` (part of the batched per-session fetch), sha256 `ae6df4298c0af5cc5dddaadd86050dfbe3c0b9a75f4a0da8096eff6dafa219d2` of the shared session snapshot `_meta/snapshots/measures-2019r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

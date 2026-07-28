@@ -1,0 +1,287 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2021r1-sb309
+title: 'SB 309 (2021R1): Prohibits certain use of face recognition technology by state agencies.'
+doc_type: dataset_doc
+citation: 2021 Regular Session Senate Bill 309
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB309/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 3cb82080df2ed3c7b07daaeb58c5212ac5acbf20bb6cd345a3d480892bad9aab
+snapshot_id: measure-2021r1-sb309-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.112
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 276A.203
+  - ORS 276A.253
+  - ORS 352.002
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2021r1
+- sb
+session_key: 2021R1
+measure_prefix: SB
+measure_number: 309
+prefix_meaning: Senate Bill
+catch_line: Prohibits certain use of face recognition technology by state agencies.
+minority_catch_line: null
+measure_summary: "\tProhibits certain use of face recognition technology by state agencies. \n\tRequires\
+  \ state agencies to report on use of face recognition technology to office of State Chief Information\
+  \ Officer no later than 90 days after effective date of Act. \n\tRequires State Chief Information Officer\
+  \ to study adoption of comprehensive framework for addressing appropriate use or prohibition of surveillance\
+  \ technology and provide information in report to interim Joint Legislative Committee on Information\
+  \ Management and Technology no later than September 15, 2023."
+relating_to: Relating to face recognition technologies.
+relating_to_full: Relating to face recognition technologies.
+at_the_request_of: null
+lc_number: 1177
+measure_created_date: '2020-12-16T09:46:09'
+measure_modified_date: '2021-01-21T09:24:01'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 11904
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.112
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 276A.203
+  - ORS 276A.253
+  - ORS 352.002
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 309`.
+
+# SB 309 — 2021 Regular Session (2021R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 309, 2021 Regular Session (2021R1)
+- **LC number:** 1177
+- **Created:** 2020-12-16T09:46:09
+- **Metadata last modified (upstream):** 2021-01-21T09:24:01
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 11904 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB309/Introduced>.
+
+## Summary
+
+**Catchline:** Prohibits certain use of face recognition technology by state agencies.
+
+**Relating to:** Relating to face recognition technologies.
+
+Prohibits certain use of face recognition technology by state agencies. 
+ Requires state agencies to report on use of face recognition technology to office of State Chief Information Officer no later than 90 days after effective date of Act. 
+ Requires State Chief Information Officer to study adoption of comprehensive framework for addressing appropriate use or prohibition of surveillance technology and provide information in report to interim Joint Legislative Committee on Information Management and Technology no later than September 15, 2023.
+
+**RelatingToFull (verbatim upstream field):** Relating to face recognition technologies.
+
+## Full text
+
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Senate Bill 309
+Sponsored by Senator RILEY (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Prohibits certain use of face recognition technology by state agencies.
+Requires state agencies to report on use of face recognition  technology to office of State Chief
+Information Officer no later than 90 days after effective date of Act.
+Requires State Chief Information Officer to  study adoption of comprehensive framework for ad-
+dressing appropriate use  or prohibition of surveillance technology and provide information in report
+to interim Joint  Legislative Committee on Information Management and Technology no later than
+September 15, 2023.
+A BILL FOR AN ACT
+Relating to face recognition technologies.
+Whereas there  is a need for privacy assessment and comprehensive structures to address ten-
+sions with transparency around the publication, accessibility and equitable sharing of data collected
+by state agencies; and
+Whereas state agencies should prioritize addressing inequities and  disparities when using data
+and should prioritize investing in technologies that improve people’s lives, with a specific  focus on
+communities of color and communities with disabilities; and
+Whereas state agencies should center equity and human rights in privacy strategy  development
+and acknowledge that underserved communities are most at risk in the digital age; and
+Whereas human rights principles such as privacy and freedom of expression must  guide the use
+of state agencies’ data and digital services; and
+Whereas it is essential to have an informed public discussion about decisions related  to state
+agencies’ acquisition and use of surveillance technologies including face  recognition technologies;
+and
+Whereas the  use of face recognition technologies raises general concerns around privacy,
+intrusiveness and lack of transparency; and
+Whereas a lack of transparency and accountability, in addition  to biased technologies-partic-
+ularly in the  context of false positives in law enforcement-can create devastating impacts on indi-
+viduals and families; and
+Whereas United States  federal law does not currently regulate face recognition technologies;
+and
+Whereas existing methodologies assessing bias in face  recognition technologies show progress
+on their performance,  but there is still no formal certification process available that includes the full
+lifecycle of sensitive information collected from individuals; and
+Whereas it is essential  that government frameworks on data governance and privacy include
+impacted communities and transparent decision-making authority to regulate and oversee that  the
+use of surveillance  technologies and sensitive information do not harmfully impact civil rights and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1177
+civil liberties; and
+Whereas the Legislative Assembly recognizes that rapid  evolution of technologies demands more
+frequent revisions of existing technology-related policies in order to ensure that the policies still
+fulfill their purposes; and
+Whereas the Legislative Assembly desires to adopt a ban on state agency  acquisition and use
+of face recognition technologies and information derived from such technologies; now therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 1 to 3 of this 2021 Act:
+(1) “Acquire” means to purchase, lease or accept by donation or gift.
+(2) “Executive department” has the meaning given that term in ORS 174.112.
+(3) “Face recognition” means the automated searching for a reference image in an image
+repository by comparing the facial features of a probe image with the  features of images
+contained in an image repository, and that typically results in either:
+(a) One or more likely match candidates or candidate images, ranked by  computer-
+evaluated similarity; or
+(b) A negative result.
+(4) “Face recognition technology” means an automated or semi-automated process using
+face recognition that assists in identifying, verifying,  detecting or characterizing facial fea-
+tures of an individual or capturing information about an  individual based on an individual’s
+face.
+(5) “State agency” means a board, commission, department, division, office or other  en-
+tity within the executive department, except:
+(a) The Secretary of State;
+(b) The State Treasurer;
+(c) The Oregon State Lottery; and
+(d) A public university that is listed in ORS 352.002.
+SECTION 2.
+(1) Except as provided in subsection (2) of this section, a state agency may
+not:
+(a) Acquire, evaluate or use face recognition technology;
+(b) Knowingly acquire, request,  use, access or retain any information derived from face
+recognition technology or intentionally  collect information to be used for face recognition
+technology;
+(c) Direct an entity  that is not a state agency to acquire or use face recognition tech-
+nology on  behalf of the state agency unless the acquisition or use is otherwise authorized
+under this section; or
+(d) Knowingly allow an  entity that is not a state agency to use face recognition technol-
+ogy on real property that is owned or leased  by the state unless the use by a state agency
+would otherwise be allowed under this section.
+(2)(a) A state agency may use face recognition technology:
+(A) For  verification purposes to allow officers or employees of the state agency to access
+their own personal or state agency-issued personal communication and electronic devices;
+(B) As part of automatic face detection services in social media applications; or
+(C) In  detecting faces for the sole purpose of redacting a recording for release or disclo-
+sure in order to protect the privacy of a subject depicted in the recording.
+(b) A  state agency may acquire, request, use, access or retain information that was de-
+rived from face recognition  technology prior to the effective date of this 2021 Act to the ex-
+tent that such acquisition, request, use, access or retention is required by the public  records
+law, ORS 192.311 to 192.478.
+(3)(a) As soon as a state agency learns  that it has inadvertently or unintentionally re-
+ceived, accessed or used information obtained from face recognition technology,  the state
+agency shall:
+(A) Immediately cease use of the information;
+(B) Document the receipt, access or use of the information in an impact report; and
+(C) Submit the impact report to the office of the State Chief Information Officer in  the
+manner provided for by the State Chief Information Officer by rule.
+(b) An impact report required by this section must include:
+(A) The  date the information obtained from face recognition technology was received,
+accessed or used;
+(B) The source of the information;
+(C) A description or summary of the incident;
+(D) Whether the state agency accessed or used  the information in the course of the state
+agency’s operations; and
+(E) The corrective measures taken by the state agency to prevent further  transmission
+or use of any information inadvertently or unintentionally obtained through the use of  face
+recognition technology.
+(c) The State Chief Information Officer shall include information contained  in impact
+reports received under this  section in the biennial assessment required under ORS 276A.203
+(4)(a)(G).
+(4) The office of the  State Chief Information Officer shall provide public education re-
+garding the scope and limitations of the prohibitions set forth in this section.
+(5) The State Chief Information Officer may adopt  rules to implement the provisions of
+sections 1 to 3 of this 2021  Act. Rules adopted under this subsection must align with and
+support the Enterprise Information Resources Management Strategy described in ORS
+276A.203.
+SECTION 3.
+(1) A person injured by a material violation by a state agency of section  2
+of this 2021 Act may bring an action against the state  in circuit court for injunctive relief,
+declaratory relief or writ of mandamus to require the  agency to comply with section 2 of this
+2021 Act.
+(2) At least  30 days before initiating an action under subsection (1) of this section, the
+person bringing the action must provide  written notice to the Attorney General. If the
+agency has not corrected the  violation of section 2 of this 2021 Act at the end of the thirty-
+day notice period, the person may initiate the action under subsection (1) of this section.
+(3) If an agency corrects  a violation after receiving notice under subsection (2) of this
+section, the agency shall post a notice that describes  the corrective measures taken to ad-
+dress the violation in a conspicuous space on  the agency’s website and on the Oregon
+transparency website described in ORS 276A.253.
+SECTION 4. No later than 90 days after the effective date  of this 2021 Act, each state
+agency, as that  term is defined in section 1 of this 2021 Act, shall provide to the office of the
+State Chief Information Officer the results of an assessment  of whether face recognition
+technology is in use at the state agency and detailing  the scope of any such use. The results
+of the assessment shall be made publicly available.
+SECTION 5.
+(1) As used in this section:
+(a) “Face recognition technology” has the meaning given that term in section 1 of this
+2021 Act.
+(b) “State agency” has the meaning given that term in section 1 of this 2021 Act.
+(c) “Surveillance technology” includes any software, electronic  device or system utilizing
+an electronic device, which is designed or primarily intended to collect,  retain, analyze, pro-
+cess or share information that:
+(A) Is geographic data as defined in ORS 276A.203,  information in an audio, electronic,
+visual, thermal, olfactory or biometric  format, or other information of a similar type or in
+a similar format; and
+(B) Is specifically associated with, or capable of being associated with, any individual or
+group.
+(2) The State Chief Information Officer, in consultation with  state agencies, shall study
+the adoption of a comprehensive framework  for addressing the appropriate use or prohibition
+of surveillance technology, including face recognition technology and the information  derived
+from face recognition technology.
+(3) The study required by this section shall include:
+(a) A review of the assessments provided to the office  by state agencies under section 4
+of this 2021 Act; and
+(b) An assessment of state agency staff and budget resources necessary to:
+(A) Establish statewide privacy policies and procedures;
+(B) Develop effective privacy assessment tools;
+(C) Create guidelines for acquiring,  using or sharing information derived from surveil-
+lance technologies;
+(D) Design and implement public engagement processes, with a focus on  underserved
+communities; and
+(E) Create decision-making structures for managing  data derived from surveillance
+technologies.
+(4) The office shall provide the results  of the study in a report that may include recom-
+mendations for  legislation, in the manner provided in ORS 192.245, to the interim Joint Leg-
+islative Committee on Information Management and  Technology no later than September 15,
+2023.
+SECTION 6.
+Sections 4 and 5 of this 2021 Act are repealed on January 2, 2024.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 174.112, ORS 192.245, ORS 192.311, ORS 276A.203, ORS 276A.253, ORS 352.002
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `3cb82080df2ed3c7b07daaeb58c5212ac5acbf20bb6cd345a3d480892bad9aab` (snapshot `_meta/snapshots/measure-2021r1-sb309-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB309/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 309` (part of the batched per-session fetch), sha256 `5da569ca758abb18ddc62b98b159745491357dbe8bf5488fc371a795d58c4c1e` of the shared session snapshot `_meta/snapshots/measures-2021r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

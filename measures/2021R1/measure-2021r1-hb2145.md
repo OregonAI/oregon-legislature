@@ -1,0 +1,1057 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2021r1-hb2145
+title: 'HB 2145 (2021R1): Establishes Water Well Abandonment, Repair and Replacement Fund.'
+doc_type: dataset_doc
+citation: 2021 Regular Session House Bill 2145
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2145/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: eefd691b9d472b0af2555a76f487bc2875b994943a1281ca96a1a6ebf925a893
+snapshot_id: measure-2021r1-hb2145-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 192.245
+  - ORS 292.495
+  - ORS 468B.050
+  - ORS 468B.215
+  - ORS 536.007
+  - ORS 536.009
+  - ORS 536.090
+  - ORS 536.750
+  - ORS 536.900
+  - ORS 537.130
+  - ORS 537.170
+  - ORS 537.505
+  - ORS 537.525
+  - ORS 537.535
+  - ORS 537.545
+  - ORS 537.625
+  - ORS 537.700
+  - ORS 537.730
+  - ORS 537.747
+  - ORS 537.753
+  - ORS 537.762
+  - ORS 537.763
+  - ORS 537.765
+  - ORS 537.780
+  - ORS 537.789
+  - ORS 537.791
+  - ORS 540.045
+  - ORS 540.145
+  - ORS 540.150
+  - ORS 540.210
+  - ORS 540.310
+  - ORS 540.320
+  - ORS 540.330
+  - ORS 540.340
+  - ORS 540.435
+  - ORS 540.440
+  - ORS 540.520
+  - ORS 540.524
+  - ORS 540.535
+  - ORS 540.570
+  - ORS 540.710
+  - ORS 540.720
+  - ORS 540.730
+  - ORS 541.329
+  - ORS 706.008
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2021r1
+- hb
+session_key: 2021R1
+measure_prefix: HB
+measure_number: 2145
+prefix_meaning: House Bill
+catch_line: Establishes Water Well Abandonment, Repair and Replacement Fund.
+minority_catch_line: null
+measure_summary: "\tEstablishes Water Well Abandonment, Repair and Replacement Fund. Continuously appropriates\
+  \ moneys in fund to Water Resources Department for purpose of providing financial assistance to persons\
+  \ and certain institutions to carry out well abandonment, repair or replacement. \n\tCreates additional\
+  \ qualification required for receipt of water well constructor's license. Creates exception for existing\
+  \ licensees. \n\tCreates condition for renewal of water well constructor's license. \n\tChanges requirements\
+  \ for submission of information to commission prior to commencing work on well. Requires commission\
+  \ rulemaking. Requires that submission of information after July 1, 2024, be in electronic form. \n\t\
+  Changes composition of Well Constructors Continuing Education Committee. Extends sunset for provisions\
+  \ regarding well constructor continuing education. \n\t<b>Appropriates moneys to Water Resources Department\
+  \ out of General Fund for certain technical services. \n\tAppropriates moneys to department out of General\
+  \ Fund for deposit in Water Well Abandonment, Repair and Replacement Fund.</b>"
+relating_to: Relating to the performance of work on wells.
+relating_to_full: Relating to the performance of work on wells.
+at_the_request_of: (at the request of Governor Kate Brown for Water Resources Department)
+lc_number: 661
+measure_created_date: '2020-12-14T12:02:13'
+measure_modified_date: '2022-08-18T13:47:54'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 63003
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 192.245
+  - ORS 292.495
+  - ORS 468B.050
+  - ORS 468B.215
+  - ORS 536.007
+  - ORS 536.009
+  - ORS 536.090
+  - ORS 536.750
+  - ORS 536.900
+  - ORS 537.130
+  - ORS 537.170
+  - ORS 537.505
+  - ORS 537.525
+  - ORS 537.535
+  - ORS 537.545
+  - ORS 537.625
+  - ORS 537.700
+  - ORS 537.730
+  - ORS 537.747
+  - ORS 537.753
+  - ORS 537.762
+  - ORS 537.763
+  - ORS 537.765
+  - ORS 537.780
+  - ORS 537.789
+  - ORS 537.791
+  - ORS 540.045
+  - ORS 540.145
+  - ORS 540.150
+  - ORS 540.210
+  - ORS 540.310
+  - ORS 540.320
+  - ORS 540.330
+  - ORS 540.340
+  - ORS 540.435
+  - ORS 540.440
+  - ORS 540.520
+  - ORS 540.524
+  - ORS 540.535
+  - ORS 540.570
+  - ORS 540.710
+  - ORS 540.720
+  - ORS 540.730
+  - ORS 541.329
+  - ORS 706.008
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2145`.
+
+# HB 2145 — 2021 Regular Session (2021R1)
+
+## At a glance
+
+- **Measure:** House Bill 2145, 2021 Regular Session (2021R1)
+- **At the request of:** (at the request of Governor Kate Brown for Water Resources Department)
+- **LC number:** 661
+- **Created:** 2020-12-14T12:02:13
+- **Metadata last modified (upstream):** 2022-08-18T13:47:54
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 63003 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2145/Enrolled>.
+
+## Summary
+
+**Catchline:** Establishes Water Well Abandonment, Repair and Replacement Fund.
+
+**Relating to:** Relating to the performance of work on wells.
+
+Establishes Water Well Abandonment, Repair and Replacement Fund. Continuously appropriates moneys in fund to Water Resources Department for purpose of providing financial assistance to persons and certain institutions to carry out well abandonment, repair or replacement. 
+ Creates additional qualification required for receipt of water well constructor's license. Creates exception for existing licensees. 
+ Creates condition for renewal of water well constructor's license. 
+ Changes requirements for submission of information to commission prior to commencing work on well. Requires commission rulemaking. Requires that submission of information after July 1, 2024, be in electronic form. 
+ Changes composition of Well Constructors Continuing Education Committee. Extends sunset for provisions regarding well constructor continuing education. 
+ <b>Appropriates moneys to Water Resources Department out of General Fund for certain technical services. 
+ Appropriates moneys to department out of General Fund for deposit in Water Well Abandonment, Repair and Replacement Fund.</b>
+
+**RelatingToFull (verbatim upstream field):** Relating to the performance of work on wells.
+
+## Full text
+
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Enrolled
+House Bill 2145
+Introduced and printed pursuant to House  Rule 12.00. Presession filed (at the request of Governor
+Kate Brown for Water Resources Department)
+CHAPTER .................................................
+AN ACT
+Relating to the performance of work on wells; creating new provisions; and  amending ORS 536.090,
+536.750, 536.900, 537.545, 537.747, 537.753, 537.762, 537.763, 537.765, 537.780, 537.789 and 537.791
+and sections 2 and 7, chapter 496, Oregon Laws 2001.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Sections 2 and 3 of this 2021 Act are added to and made a part of ORS 537.747
+to 537.795.
+SECTION 2. The Water Well Abandonment, Repair and Replacement Fund is established
+in the State Treasury, separate  and distinct from the General Fund. Interest earned by the
+Water  Well  Abandonment, Repair and Replacement Fund shall be credited to the fund.
+Moneys in the fund are continuously appropriated to the Water Resources Department for
+the purpose  of carrying out the program purposes described in section 3 of this 2021 Act.
+The fund shall consist  of any moneys designated for deposit in the fund or for carrying out
+the program purposes, including but  not limited to appropriations or other provisions of
+moneys by the Legislative Assembly and public or private moneys from  gifts, grants or do-
+nations.
+SECTION 3.
+(1) As used in this section, “repair” may include, but is  not limited to, a well
+deepening.
+(2) Moneys  in the Water Well Abandonment, Repair and Replacement Fund may be dis-
+bursed under authority of the Water Resources Director  for the purposes described in this
+section. The Water Resources Department may disburse moneys from the  fund to provide
+financial assistance:
+(a) To a person, as defined in ORS 536.007, or member  of a federally recognized Indian
+tribe in Oregon to permanently abandon a water well or to repair or  replace a water well
+that is used for household purposes;
+(b) To nonprofit, governmental or other  institutions that meet qualifications established
+by Water Resources Commission rules,  for programs to permanently abandon water wells
+and to repair or replace water wells used for household purposes;
+(c) As cost-sharing with other programs  to permanently abandon water wells and to re-
+pair or replace water wells used for household purposes; or
+(d) To pay the cost of direct services  of a water well constructor licensed under ORS
+537.747 to purchase necessary materials and perform the work  needed for abandoning, re-
+pairing or replacing water wells that are eligible under this section.
+Enrolled House Bill 2145 (HB 2145-B) Page 1
+(3) Except as provided in subsection  (4) of this section, financial assistance provided un-
+der subsection (2) of this section may not exceed:
+(a) 75 percent of the cost to permanently abandon a water well;
+(b) 75 percent of the cost to repair or to  replace a water well used for household pur-
+poses; or
+(c) 50 percent  of the cost of developing a program to permanently abandon, repair or
+replace water wells, when paid to an institution described in subsection (2)(b) of this section.
+(4) Notwithstanding subsection (3) of this section, financial assistance provided under
+subsection (2) of this section to an individual with lower income, as defined by the  depart-
+ment, may cover the full cost of the materials or work described in  subsection (2) of this
+section.
+(5) An expenditure from the fund is subject to at least one of the following purposes:
+(a) The  permanent abandonment, repair or replacement of water wells in which defi-
+ciencies in the well construction might:
+(A) Result in waste, loss of artesian pressure or ground water declines;
+(B) Serve as a conduit for contamination; or
+(C) Otherwise be a detriment to public health or safety.
+(b) The  repair or replacement of water wells used for household purposes by persons of
+lower or moderate income.
+(c) The replacement of water wells  used for household purposes in areas of declining
+ground water levels where other sources of water for household purposes are not feasible.
+(d) The abandonment, repair or replacement of  water wells consistent with water re-
+sources management purposes specified by rule by the commission.
+(e) The abandonment, repair or replacement of water wells damaged due to natural dis-
+asters.
+(6) If the department provides funding to an institution under subsection (2)(b)  of this
+section, the department shall require that the institution:
+(a) Use accounting, auditing  and fiscal procedures that conform with generally accepted
+government accounting standards;
+(b) Give preference to persons of  lower or moderate income and to small businesses that
+do not qualify for other financing;
+(c) Demonstrate past  success in offering, underwriting, servicing and managing loans or
+grants to:
+(A) Persons of lower or moderate income; or
+(B) Persons representing a wide range of qualifications for credit; and
+(d) Have a plan for engaging other stakeholders in outreach  and marketing efforts for a
+loan or grant program.
+(7) The  department may enter into contracts, intergovernmental agreements or other
+arrangements with public or private entities for any purposes consistent with this section.
+(8) The commission may adopt rules to implement this section, including rules that:
+(a) Prioritize the issuance of  the funding for a purpose described in subsection (5) of this
+section.
+(b) Establish a preference for providing the funding to  individuals of moderate or lower
+income.
+(c) Establish that the  funding may only be provided to individuals of moderate or lower
+income.
+SECTION 4.
+ ORS 536.090 is amended to read:
+536.090. (1) In carrying out the duties, functions  and powers prescribed by law, the Water Re-
+sources Commission shall appoint a ground water advisory committee to:
+(a) Advise the commission on all matters relating to:
+(A) Rules for the development, securing, use and protection of ground water; and
+(B) Licensing of well constructors, including the examination of such persons for license.
+Enrolled House Bill 2145 (HB 2145-B) Page 2
+(b) Review the proposed expenditure of all revenues  generated under ORS 537.762 [ (5)]. At least
+once each year, and before the expenditure of such funds on new program activities,  the Water
+Resources Department and the ground  water advisory committee shall develop jointly a proposed
+expenditure plan for concurrence by the Water Resources Commission. The  plan may be modified,
+if necessary, upon the joint recommendation of the department and the ground water  advisory
+committee with concurrence by the commission.
+(2) The committee shall consist of nine members who represent  a range of interests or expertise.
+At least three of the members shall be individuals actively engaged in some aspect of the  water
+supply or monitoring well drilling industry. Members shall serve for such terms as  the commission
+may specify. The committee shall meet at least once every three months and at other  times and
+places as the commission may specify.
+(3) A member of the  committee shall not receive compensation, but at the discretion of the
+commission may be reimbursed for travel expenses incurred, subject to ORS 292.495.
+SECTION 5.  ORS 536.750 is amended to read:
+536.750. (1) Notwithstanding any provision of ORS chapters 536 to  543A, after a declaration that
+a severe, continuing drought exists, the Water Resources Commission may:
+(a) Issue without first conducting a hearing under ORS 537.170, a  temporary permit for an
+emergency use of water;
+(b) Allow a temporary change  in use, place of use or point of diversion of water without com-
+plying with the notice and waiting requirements under ORS 540.520;
+(c) Notwithstanding the priority of water rights, grant preference of use to rights for  human
+consumption or stock watering use;
+(d) Waive the notice requirements under ORS 537.753  and the [ report] start card required under
+ORS 537.762;
+(e) Allow a temporary exchange  of water without giving notice as required under ORS 540.535;
+and
+(f) Utilize an expedited notice and waiting requirement established by rule for the substitution
+of a supplemental ground water right  for a primary water right under drought conditions in place
+of the notice and waiting requirement provided in ORS 540.524.
+(2) The commission by rule may establish procedures for carrying out the provisions of this
+section and a schedule of fees that must accompany a request under subsection (1) of this section.
+SECTION 6.  ORS 537.747 is amended to read:
+537.747. (1) No  person shall advertise services to construct, alter, abandon or convert wells, of-
+fer to enter or enter into a contract with another person or public agency to construct, alter,
+abandon or convert a well for such other  person, cause any well construction, alteration, abandon-
+ment or conversion to be performed under such a contract or operate well drilling machinery with-
+out possessing  a water well constructor’s license therefor in good standing issued by the Water
+Resources Department. The department shall adopt a single water well constructor’s license  that
+may specify the  type of well, type of well alteration or construction or type of well drilling machine
+operation for which the water well constructor is qualified.
+(2) Notwithstanding subsection (1) of this section, a person may operate  a well drilling machine
+without a water well constructor’s license if supervised by one who possesses such a license.
+(3) A person shall be qualified to receive a water well constructor’s license if the person:
+(a) Is at least 18 years of age.
+(b) Has passed a written examination conducted by the  department to determine fitness to op-
+erate as a water well constructor.
+(c) Has paid a license fee and an examination fee according to the fee schedule set forth under
+subsection (6) of this section.
+(d) Has one year or more experience in the operation of well drilling machinery.
+(e) Provides evidence that the person  has completed an arc welding training course from
+a community college, received a professional welding certification, passed  a welding profi-
+ciency test or otherwise completed professional welding training.
+Enrolled House Bill 2145 (HB 2145-B) Page 3
+(4) Upon fulfillment of all the requirements set out in subsection (3)  of this section, the depart-
+ment shall issue the applicant a water well constructor’s license in a form prescribed by  the de-
+partment. The license may be issued for a period of two years.
+(5) A water well constructor’s license shall expire on June  30 or on such date as may be spec-
+ified by department rule. A person may renew a license by submitting  an application and the ap-
+propriate fees any time before  the license expires but not later than one year after the license
+expires. A person who renews a license within the 12  months after the license expires may either
+pay a penalty fee set forth under subsection  (6)(d) of this section or requalify for a water well
+constructor’s  license  in accordance with subsection (3) of this section. If a person fails to renew a
+license within 12 months after expiration,  the person must comply with the requirements of sub-
+section (3) of this section for a new water well constructor’s license.
+(6) The department shall collect in advance the following fees:
+(a) An examination fee of $20.
+(b) A license fee of $150.
+(c) A renewal fee of $150 , if the license is renewed on or before the expiration date .
+(d) Unless a person requalifies for a water well  constructor’s license in accordance with sub-
+section (3) of  this section, a water well constructor shall pay a renewal fee of $250 if [ the] an ex-
+pired license is renewed [ within] on or before  12 months after the expiration  date.
+(e) If a  person requalifies for a water well constructor’s license under subsection (3) of this
+section, the person shall pay the renewal fee established under paragraph (c) of this subsection.
+(7) The department may revoke, suspend or refuse to renew any  water well constructor’s license
+when it  appears to the satisfaction of the department, after notice and opportunity to be heard by
+the licensee, that the licensee has failed to comply with the provisions of ORS 537.505  to 537.795
+and 537.992 applicable to such licensee or  any order or rule adopted thereunder applicable to such
+licensee, or has made a material misrepresentation or  material misstatement of  fact on an appli-
+cation for a license or well log or established a pattern of conduct that willfully  or negligently vi-
+olates any provision of ORS 537.505  to 537.795 and 537.992, or any rule adopted pursuant thereto,
+applicable to such licensee.
+(8) The [ provisions of ] requirement in  subsection (3) (d) of this section [ requiring one year or
+more experience in the operation of well drilling machinery do ] does  not apply to  any person who,
+on July 1, 1981, holds the license required by  this section and who continues thereafter to maintain
+the license in good standing.
+(9) The requirement in subsection (3)(e) of this section does not apply to  any person who,
+on July 1, 2023, holds the license  required by this section and who continues thereafter to
+maintain the license in good standing.
+(10) If the department observes a welding deficiency on a well,  the department may order
+the licensee who welded the well to, within a reasonable time, complete an arc  welding
+training course from a community college, acquire  a professional welding certification, pass
+a welding proficiency test or otherwise complete professional welding training.
+[(9)] (11)  The fees collected under subsection (6) of this section shall be paid into the Water
+Resources  Department  Water Right Operating Fund. Such moneys are continuously appropriated to
+the Water Resources Department to pay the department’s expenses  in administering and enforcing
+the water well constructor’s licensing program.
+SECTION 7.
+ ORS 537.753 is amended to read:
+537.753. (1) Any person who contracts or offers services to contract to construct, alter, abandon
+or convert wells shall have in effect a surety bond or  an irrevocable letter of credit issued by an
+insured institution, as defined in  ORS 706.008, running to the State of Oregon in the sum of $20,000,
+ensuring that in the construction,  alteration, abandonment or conversion of wells, the principal shall
+comply with all the provisions of ORS  537.505 to 537.795 and 537.992 that are applicable to such
+construction, alteration, abandonment or conversion and to the rules and standards of well con-
+struction, alteration, abandonment and conversion that have been prescribed by the Water Re-
+Enrolled House Bill 2145 (HB 2145-B) Page 4
+sources Commission. The bond or letter of credit shall be filed  with the Water Resources
+Commission.
+(2) The Water Resources Commission or any person injured by failure of a water well
+constructor to comply with the provisions of the bond or letter of credit has  a right of action on the
+bond or letter of credit in the name of the injured  person. However, the aggregate liability of the
+surety or letter of credit issuer to all such persons may not  exceed the sum of the bond or letter
+of credit.
+(3) A proceeding against the bond or letter of credit under subsection (2)  of this section may
+not be commenced unless the commission notifies the water well  constructor of the alleged violation
+within three years after the date the water well report is filed with the commission.
+(4) If a well is to be constructed,  altered, abandoned or converted by a person that is not li-
+censed under ORS 537.747 on property owned by that person, the person shall  obtain a permit from
+the commission before beginning work. Application for the permit shall be in  the form prescribed
+by the commission and must be accompanied by a fee of $500. At the time [ the permit is obtained, ]
+of filing the permit,  the applicant also  shall [ file with ] submit to  the commission a bond or an
+irrevocable letter of credit issued by an insured institution as defined in ORS  706.008 running to the
+State of Oregon in the sum of $10,000, ensuring that in the construction, alteration, abandonment
+or conversion  of the well the landowner shall comply with all the provisions of ORS 537.505 to
+537.795 and 537.992  that are applicable to the construction, alteration, abandonment or conversion
+of wells and to the  rules and standards of well construction, alteration, abandonment and conversion
+that have been prescribed by the commission. Before the person  who constructs, alters, abandons
+or converts a  well referred to in this subsection seals the well, the person must give 10 days’ written
+notice [ of the construction,  alteration, abandonment or conversion to the commission ] to the Water
+Resources Department so department personnel can  be present to observe the work . After
+expiration of the notice period, the well may be sealed even if the [ commission] department has not
+caused the well to be inspected.
+SECTION 8.
+ ORS 537.762 is amended to read:
+537.762. (1) Each person required to possess a license  under ORS 537.747 who has entered into
+a contract to construct, alter, abandon or convert  a well or cause a well to be constructed, altered,
+abandoned or converted shall, before beginning work on the well, make a report  to the Water Re-
+sources Commission containing:
+(a) The name and post-office address of the owner of the well.
+(b) The approximate location of the well.
+(c) The proposed depth and diameter of the well.
+(d) The proposed purpose or use of the ground water from the well.
+(2) The commission shall furnish a convenient means for submitting the reports referred  to in
+subsection (1) of this section to each person who possesses a license under ORS 537.747.
+(3) A separate report shall be furnished under subsection (1) of this section for  each well that
+is constructed, altered, abandoned or converted.
+(4) The report furnished under subsection (1) of this section  shall be confidential and maintained
+as such for one year or until  the well log required under ORS 537.765 is received by the commission,
+whichever is earlier. Nothing in this subsection prohibits  the commission from using the report for
+enforcement actions during the period the report is considered confidential.
+(5) Each report form submitted under subsection (1) of this section for  the construction of a new
+well, deepening of an existing well, or conversion of a well shall be accompanied by  a fee of [ $225]
+$350. Notwithstanding the fee established pursuant  to this subsection, the commission may adopt by
+rule a reduced fee for persons submitting materials to the  Water Resources Department in a digital
+format approved by the department.
+(6) The moneys paid to the commission under subsection (5) of this  section shall be paid into the
+Water Resources Department Operating Fund. All interest, if any,  from moneys received under
+subsection (5) of this section shall inure to the benefit of  the Water Resources Department. Such
+Enrolled House Bill 2145 (HB 2145-B) Page 5
+moneys and interest  earned on such moneys are continuously appropriated to the department to be
+used to pay the costs of the department  to employ personnel to inspect wells and well construction.
+SECTION 9.  ORS 537.762, as amended by section 8 of this 2021 Act, is amended to read:
+537.762. (1) As used in this section:
+(a) “Licensed or permitted person” means a  person licensed under ORS 537.747 or per-
+mitted under ORS 537.753 (4).
+(b) “Start card” means a form containing all information required by  the Water Re-
+sources Department as a notification that a licensed or permitted person  will commence
+work on a well.
+[(1)] (2) Each [ person required to possess a license under ORS 537.747 ] licensed or permitted
+person who has entered into  a contract to construct, alter, abandon or convert a well or cause a
+well to be constructed, altered, abandoned or converted shall, not earlier than 60 days and  not
+later than 72 hours  before beginning work on the well, [ make a report ] submit a start card  to the
+[Water Resources Commission ] department containing:
+(a) The name , telephone number, electronic mail address  and post-office address of the owner
+of the well.
+(b) The approximate  location of the well  by county tax lot number, township, range, section
+and nearest quarter-quarter section .
+(c) The street address nearest to the proposed well.
+(d) The latitude and longitude of the well as established by a global positioning system.
+[(c)] (e)  The proposed depth and diameter of the well.
+[(d)] (f)  The proposed purpose or use of the ground water from the proposed well.
+(g) The time frame proposed for beginning and completing the construction,  alteration,
+abandonment or conversion.
+(h) The time frame proposed for annular seal placement.
+(i) The well identification label number, if assigned.
+(j) The water right application, permit or certificate number, if applicable.
+(k) The original well log number, if applicable.
+(L) The type of work proposed.
+(m) Notification of any need for special standards.
+(n) The signature and license number,  if applicable, of the bonded and licensed or per-
+mitted person who would undertake the work.
+(o) For an existing well, the current purpose  or use of the well and the existing depth
+and diameter of the well.
+[(2) The  commission shall furnish a convenient means for submitting the reports referred to in
+subsection (1) of this section to each person who possesses a license under ORS 537.747. ]
+(3) The department shall furnish a convenient means for licensed or permitted persons
+to submit start card information under this section.
+[(3)] (4) A separate [ report shall be furnished under subsection (1) of this section ] start card is
+required for each well that is constructed, altered, abandoned or converted.
+[(4)] (5) [ The report  furnished under subsection (1) of ] A start card submitted under  this sec-
+tion shall be confidential and maintained as such for  one year or until the well log required under
+ORS 537.765 is  received by the [ commission] department, whichever is earlier. Nothing in this
+subsection prohibits the [ commission] department from  using [ the report ] a start card  for enforce-
+ment actions during the period the [ report] start card  is [ considered] confidential.
+(6) On the date that work on the well commences, the  licensed or permitted person shall,
+before commencing work, notify the department that the  work is about to commence. If the
+proposed date of seal placement is not the date proposed on the start card required  by this
+section, the licensed or permitted person  shall notify the department of the change at least
+four hours before placing the seal.
+Enrolled House Bill 2145 (HB 2145-B) Page 6
+(7) The Water Resources Commission  may adopt rules establishing precision require-
+ments and standards for global positioning system equipment used to  obtain information
+submitted under subsection (2) of this section.
+(8) Unless the licensed or permitted person submitting a start card under this section
+has requested and  received an extension, a start card expires if construction, alteration,
+abandonment or conversion  of a well does not begin on or before 60 days after submission
+of the start card. If a start card expires, a  new start card and fee must be submitted in
+compliance with this section before construction,  alteration, abandonment or conversion of
+the well may occur. If a  start card is withdrawn before expiring, the licensed or permitted
+person that submitted the start card may  request that the fee paid for the withdrawn start
+card be transferred to a new start card.
+(9) The commission may establish by rule an exception  to any time frame established in
+this section for areas requiring  special standards and for any other purpose identified by the
+commission.
+(10) The requirement in subsection (2) of this section that a licensed or permitted person
+must submit a start card not later than 72 hours before beginning work on a well does not
+apply:
+(a) To a second or additional water well drilled on the same or  a contiguous tax lot for
+the same landowner and for which  a valid unexpired start card has been submitted pursuant
+to this section, if a start card for the second  or additional water well is filed not later than
+the day the work on the water well begins.
+(b) During water emergencies or  casing height adjustments, if a start card is submitted
+before work begins.
+(11) The Water Resources  Director may, for good cause in exigent circumstances, waive
+any time frame established by this section.
+[(5)] (12) Each [ report form ] start card  submitted under [ subsection (1) of ] this section for the
+construction of a new well, deepening of an existing well or conversion of a well shall  be accom-
+panied by a fee of $350. [ Notwithstanding the fee established pursuant  to this subsection, the commis-
+sion may adopt by rule a reduced fee for persons  submitting materials to the Water Resources
+Department in a digital format approved by the department. ]
+[(6)] (13)  The moneys paid to the [ commission] department under subsection [ (5)] (12)  of this
+section shall be  paid into the Water Resources Department Operating Fund. All interest, if any, from
+moneys received under subsection [ (5)] (12)  of this section  shall inure to the benefit of the [ Water
+Resources ] department. Such moneys and interest earned on such  moneys are continuously appro-
+priated to the department to  be used to pay the costs of the department to employ personnel to in-
+spect wells and well construction.
+SECTION 10.
+ ORS 537.762, as amended by sections 8 and 9 of this 2021 Act, is amended to read:
+537.762. (1) As used in this section:
+(a) “Licensed or permitted person” means a  person licensed under ORS 537.747 or permitted
+under ORS 537.753 (4).
+(b) “Start card” means a form containing all information required by the Water Resources De-
+partment as a notification that a licensed or permitted person will commence work on a well.
+(2) Each licensed or  permitted person who has entered into a contract to construct, alter,
+abandon or convert a well  or cause a well to be constructed, altered, abandoned or converted shall,
+not earlier than 60 days and not later than 72  hours before beginning work on the well, submit a
+start card to the department containing:
+(a) The name, telephone number, electronic mail address  and post-office address of the owner
+of the well.
+(b) The approximate  location of the well by county tax lot number, township, range, section and
+nearest quarter-quarter section.
+(c) The street address nearest to the proposed well.
+(d) The latitude and longitude of the well as established by a global positioning system.
+Enrolled House Bill 2145 (HB 2145-B) Page 7
+(e) The proposed depth and diameter of the well.
+(f) The proposed purpose or use of the ground water from the proposed well.
+(g) The time frame proposed for  beginning and completing the construction, alteration, aban-
+donment or conversion.
+(h) The time frame proposed for annular seal placement.
+(i) The well identification label number, if assigned.
+(j) The water right application, permit or certificate number, if applicable.
+(k) The original well log number, if applicable.
+(L) The type of work proposed.
+(m) Notification of any need for special standards.
+(n) The signature and license number,  if applicable, of the bonded and licensed or permitted
+person who would undertake the work.
+(o) For an existing well,  the current purpose or use of the well and the existing depth and di-
+ameter of the well.
+(3) The department shall furnish a convenient means for licensed or permitted  persons to submit
+start card information under this section.
+(4) A separate start card is required for  each well that is constructed, altered, abandoned or
+converted.
+(5) A start card submitted under this section shall be confidential and maintained  as such for
+one year or until  the well log required under ORS 537.765 is received by the department, whichever
+is earlier. Nothing in this subsection prohibits the department from using a start card for  enforce-
+ment actions during the period the start card is confidential.
+(6) On  the date that work on the well commences, the licensed or permitted person shall, before
+commencing work, notify the  department that the work is about to commence. If the proposed date
+of seal placement is not the date proposed on the start card required by  this section, the licensed
+or permitted person shall notify  the department of the change at least four hours before placing the
+seal.
+(7) The Water Resources Commission may adopt rules establishing  precision requirements and
+standards for global positioning system equipment used to obtain information submitted under  sub-
+section (2) of this section.
+(8) Unless the  licensed or permitted person submitting a start card under this section has re-
+quested and received an extension, a start  card expires if construction, alteration, abandonment or
+conversion of a well does not begin on or  before 60 days after submission of the start card. If a start
+card expires,  a new start card and fee must be submitted in compliance with this section before
+construction,  alteration,  abandonment or conversion of the well may occur. If a start card is with-
+drawn before expiring,  the licensed or permitted person that submitted the start card may request
+that the fee paid for the withdrawn start card be transferred to a new start card.
+(9) The commission may establish by rule an exception to any time frame established in this
+section for areas requiring special  standards and for any other purpose identified by the commission.
+(10) The requirement in subsection (2) of this section that a licensed or permitted  person must
+submit a start card not earlier than 60 days and not  later than 72 hours before beginning work on
+a well does not apply:
+(a) To a second or additional  water well drilled on the same or a contiguous tax lot for the same
+landowner and for which a valid unexpired start card has been submitted  pursuant to this section,
+if a start card for the second or additional water well is filed not later  than the day the work on
+the water well begins.
+(b) During water emergencies or  casing height adjustments, if a start card is submitted before
+work begins.
+(11) The Water Resources Director may, for good cause in  exigent circumstances, waive any
+time frame established by this section.
+(12) Each  start card submitted under this section for the construction of a new well, deepening
+of an existing well or conversion  of a well shall be accompanied by a fee of $350. A start card shall
+Enrolled House Bill 2145 (HB 2145-B) Page 8
+be submitted to the department by electronic means, unless the department authorizes a
+different means of submission.
+(13) The moneys paid to the department  under subsection (12) of this section shall be paid into
+the Water Resources Department Operating  Fund. All interest, if any, from moneys received under
+subsection (12) of this section shall inure to the benefit of  the department. Such moneys and interest
+earned on such moneys are continuously appropriated to the department to be used to pay the  costs
+of the department to employ personnel to inspect wells and well construction.
+SECTION 11.
+ ORS 537.765 is amended to read:
+537.765. (1) The business or activity of constructing  new wells or altering, abandoning or con-
+verting existing wells is declared to be a business  or activity affecting the public welfare, health
+and safety. In order to enable the state to protect the welfare, health and  safety of its citizens, any
+person licensed under ORS 537.747, or any person or public agency constructing,  altering, aban-
+doning or converting a well, shall keep a log of each well constructed,  altered, abandoned or con-
+verted and shall furnish a certified copy of the log to the  Water Resources Commission within 30
+days after the completion of the construction, alteration, abandonment or conversion.
+(2) The commission shall provide acknowledgment to the constructor of receipt of a well  log
+submitted under subsection (1) of this section within 120 days of receipt.
+(3) Each log required under subsection (1) of  this section shall be in a form prescribed by the
+commission and shall show:
+(a) The name and post-office  address of the owner of the well and the person or public agency
+performing or causing the performance of  the work of constructing, altering, abandoning or con-
+verting the well.
+(b) The location of the  well by county tax lot number, township, range and section, and to the
+nearest quarter-quarter section  or latitude and longitude as established by a global positioning sys-
+tem, or with reference to government survey corners or monuments or corners of recorded plats.
+(c) The  dates of commencement and completion of the work of constructing, altering, abandoning
+or converting the well.
+(d) The depth, diameter and type of the well.
+(e) The kind and amount of the casing and where placed in the  well, including the number and
+location of perforations or screens.
+(f) The flow in cubic feet  per second or gallons per minute of a flowing well, and the shut-in
+pressure in pounds per square inch.
+(g) The static water level with reference to the  land surface, and the drawdown with respect to
+the amount of water pumped per minute, when a pump test is made.
+(h) The kind and nature of the material in each stratum penetrated, with at least one entry for
+each change of formation, and the thickness of aquifers.
+(i) The temperature of the ground  water encountered and other characteristics of the ground
+water in detail as required by the commission.
+(4) If required by the commission, the person, public  agency or licensee referred to in subsection
+(1) of this section shall furnish to the commission  samples of the ground water and of each change
+of formation in containers furnished and transportation expense paid by the commission.
+(5) Not later than 120 days after a well  log is submitted pursuant to this section, the
+Water Resources Department shall:
+(a) Review the well log to identify any deficiencies and  assess compliance with the
+standards that were in effect when the  well that is the subject of the well log was con-
+structed, altered, abandoned or converted.
+(b) Notify the person licensed under ORS 537.747 or  permitted under ORS 537.753 (4) who
+submitted the well log that the review has been completed.
+SECTION 12.
+ ORS 537.765, as amended by section 11 of this 2021 Act, is amended to read:
+537.765. (1) As used in this section, “licensed or permitted person” means  a person li-
+censed under ORS 537.747 or permitted under ORS 537.753 (4).
+Enrolled House Bill 2145 (HB 2145-B) Page 9
+[(1)] (2) The business or activity  of constructing new wells or altering, abandoning or converting
+existing wells is declared to be a business or activity affecting the public welfare, health  and safety.
+In order  to enable the state to protect the welfare, health and safety of its [ citizens,] residents,  any
+[person licensed under ORS 537.747, or any person or  public agency constructing, altering, abandoning
+or converting a well, ] licensed or permitted person  shall keep a log of each well constructed, al-
+tered, abandoned or converted and shall [ furnish] file a certified copy of the log [ to] with the Water
+Resources [ Commission] Department  within 30 days after the completion of the construction,  al-
+teration, abandonment or conversion.
+[(2)] (3)  The [ commission] department  shall provide  to a licensed or  permitted person  ac-
+knowledgment [ to the constructor ] of receipt of a well log submitted under  [ subsection (1) of ] this
+section within 120 days of receipt.
+[(3)] (4)  Each log [ required under subsection (1) of ] that a licensed or permitted person files
+under this section shall be in a form prescribed by the [ commission] department and shall show:
+(a) The name and post-office address of the owner of the well .
+(b) The name and license number, if applicable, of  [ and] the  licensed or permitted  person
+[or public agency ] performing [ or causing the performance of ] the work [ of constructing, altering,
+abandoning or converting the well ].
+(c) The name and license number, if applicable, of the licensed or permitted person re-
+sponsible for the work.
+(d) The name of any person that assisted with the work.
+[(b)] (e)  The location of the well by county tax lot number, township, range and section,  and to
+the nearest  quarter-quarter section , [or] and by the latitude and longitude as established by a global
+positioning system[ , or with reference to government survey  corners or monuments or corners of re-
+corded plats].
+[(c)] (f)  The dates of  commencement and completion of the work of constructing, altering,
+abandoning or converting the well.
+[(d)] (g)  The depth, diameter and type of the well.
+[(e)] (h)  The kind and amount of the casing and where placed in  the well, including the number
+and location of perforations or screens.
+[(f)] (i) The flow in cubic feet per second or gallons per minute  of a flowing well, and the shut-in
+pressure in pounds per square inch.
+[(g)] (j)  The  static water level with reference to the land surface, and the drawdown with re-
+spect to the amount of water pumped per minute, when a pump test is made.
+[(h)] (k) The kind and nature of the material in each stratum  penetrated, with at least one entry
+for each change of formation, and the thickness of aquifers.
+[(i)] (L)  The temperature of the ground water encountered and  other characteristics of the
+ground water in detail as required by the [ commission] department.
+[(4)] (5)  If required by  the [ commission] department , the [ person, public agency or licensee re-
+ferred to  in subsection (1) of this section ] licensed or permitted person  shall furnish to the [ com-
+mission] department  samples of the ground  water and of each change of formation in containers
+furnished and transportation expense paid by the [ commission] department.
+[(5)] (6) Not later than 120 days  after a well log is submitted pursuant to this section, the [ Water
+Resources ] department shall:
+(a) Review the well log to identify any deficiencies and assess  compliance with the standards
+that were in  effect when the well that is the subject of the well log was constructed, altered,
+abandoned or converted.
+(b) Notify the [ person licensed under ORS 537.747  or permitted under ORS 537.753 (4) ] licensed
+or permitted person  who submitted the well log that the review has been completed.
+(7) The Water Resources Commission  may adopt rules establishing precision require-
+ments and standards for global positioning system equipment used to  obtain information
+submitted under subsection (4)(e) of this section.
+Enrolled House Bill 2145 (HB 2145-B) Page 10
+SECTION 13.  ORS 537.765,  as amended by sections 11 and 12 of this 2021 Act, is amended to
+read:
+537.765. (1)  As used in this section, “licensed or permitted person” means a person licensed un-
+der ORS 537.747 or permitted under ORS 537.753 (4).
+(2) The business  or activity of constructing new wells or altering, abandoning or converting
+existing wells is declared to be a business or activity affecting the public welfare, health  and safety.
+In order to enable the state to protect the welfare, health and safety of its residents, any  licensed
+or permitted person shall keep a log of each well constructed, altered, abandoned or converted  and
+shall electronically file a certified copy of the log with  the Water Resources Department within 30
+days after the completion of the construction, alteration, abandonment or conversion.
+(3) The department shall provide to a  licensed or permitted person acknowledgment of receipt
+of a well log submitted under this section within 120 days of receipt.
+(4) Each log that a licensed  or permitted person files under this section shall be in a form pre-
+scribed by the department and shall show:
+(a) The name and post-office address of the owner of the well.
+(b) The name  and license number, if applicable, of the licensed or permitted person performing
+the work.
+(c) The name and license number, if applicable, of  the licensed or permitted person responsible
+for the work.
+(d) The name of any person that assisted with the work.
+(e) The location of  the well by county tax lot number, township, range and section, and to the
+nearest quarter-quarter section, and by the latitude and longitude as established by a global  posi-
+tioning system.
+(f) The dates of commencement and completion of  the work of constructing, altering, abandoning
+or converting the well.
+(g) The depth, diameter and type of the well.
+(h) The kind and amount of the casing and where placed in the well, including  the number and
+location of perforations or screens.
+(i) The flow in cubic feet  per second or gallons per minute of a flowing well, and the shut-in
+pressure in pounds per square inch.
+(j) The static water level with reference to the land surface, and the drawdown with respect  to
+the amount of water pumped per minute, when a pump test is made.
+(k) The kind and nature of the material in each stratum penetrated, with at least one entry for
+each change of formation, and the thickness of aquifers.
+(L) The temperature of  the ground water encountered and other characteristics of the ground
+water in detail as required by the department.
+(5) If  required by the department, the licensed or permitted person shall furnish to the depart-
+ment samples of the ground water and of each change of formation in containers furnished  and
+transportation expense paid by the department.
+(6) Not later than 120 days after a well  log is submitted pursuant to this section, the department
+shall:
+(a) Review the well log  to identify any deficiencies and assess compliance with the standards
+that were in effect when the well that is the subject of the well log was  constructed, altered,
+abandoned or converted.
+(b) Notify the  licensed or permitted person who submitted the well log that the review has been
+completed.
+(7) The Water Resources Commission may adopt rules establishing  precision requirements and
+standards for global positioning system equipment used to obtain information submitted under  sub-
+section (4)(e) of this section.
+(8) The commission may adopt rules that waive the electronic submittal requirement.
+SECTION 14.
+ ORS 537.780 is amended to read:
+Enrolled House Bill 2145 (HB 2145-B) Page 11
+537.780. (1) In the administration of ORS 537.505 to 537.795 and 537.992, the Water Resources
+Commission may:
+(a) Require that all flowing wells be capped or equipped with valves so that the flow of ground
+water may be completely stopped when the ground water is not actually being applied to a beneficial
+use.
+(b) Enforce:
+(A) General standards for the construction [ and], alteration, abandonment,  conversion or
+maintenance of wells and their casings, fittings, valves, pumps and  back-siphoning prevention de-
+vices; and
+(B) Special  standards for the construction [ and], alteration, abandonment, conversion or
+maintenance of particular wells and their casings, fittings, valves and pumps.
+(c)(A) Adopt by rule and enforce when necessary to protect  the ground water resource, stand-
+ards for the construction, maintenance, abandonment or use of any hole through which ground water
+may be contaminated; or
+(B) Enter into an agreement with, or advise, other state agencies that are responsible  for holes
+other than wells through which ground water may be contaminated in order  to protect the ground
+water resource from contamination.
+(d) Enforce uniform standards for the scientific measurement of water levels and  of ground wa-
+ter flowing or withdrawn from wells.
+(e) Enter upon any lands for the purpose of  inspecting wells, including wells exempt under ORS
+537.545, casings,  fittings, valves, pipes, pumps, measuring devices and back-siphoning prevention de-
+vices.
+(f) Prosecute actions and suits to enjoin violations  of ORS 537.505 to 537.795 and 537.992, and
+appear and become  a party to any action, suit or proceeding in any court or before any adminis-
+trative body when it appears to the satisfaction of the commission that the determination  of the
+action, suit or proceeding might be in conflict with the public policy expressed in ORS 537.525.
+(g) Call upon and receive advice and assistance from the Environmental  Quality Commission or
+any other public agency or any  person, and enter into cooperative agreements with a public agency
+or person.
+(h) Adopt  and enforce rules necessary to carry out the provisions of ORS 537.505 to 537.795 and
+537.992 including but not limited to rules governing:
+(A) The form  and content of registration statements, certificates of registration, applications for
+permits, permits, certificates of completion, ground water right certificates, notices, proofs, maps,
+drawings, logs and licenses;
+(B) Procedure in hearings held by the commission; and
+(C) The circumstances  under which the helpers of persons operating well drilling machinery may
+be exempt from the requirement of direct supervision by a licensed water well constructor.
+(i) In accordance with  applicable law regarding search and seizure, apply to any court of com-
+petent jurisdiction for a  warrant to seize any well drilling machine used in violation of ORS 537.747
+or 537.753.
+(2) Notwithstanding any provision of subsection (1) of this section, in administering the pro-
+visions of ORS 537.505 to 537.795 and 537.992, the commission may not:
+(a) Adopt any rule restricting ground water use in an area unless the rule is based on substan-
+tial evidence in the record of the Water Resources Department to  justify the imposition of re-
+strictions.
+(b) Make  any determination that a ground water use will impair, substantially interfere or un-
+duly interfere with  a surface water source unless the determination is based on substantial evidence.
+Such evidence may  include reports or studies prepared with relation to the specific use or may be
+based on the application of generally accepted hydrogeological principles to the specific use.
+(3) At least once  every three years, the commission shall review any rule adopted under sub-
+section (2) of this section that restricts ground water use in an area.  The review process shall in-
+clude public notice and an opportunity to comment on the rule.
+Enrolled House Bill 2145 (HB 2145-B) Page 12
+SECTION 15.  ORS 537.789 is amended to read:
+537.789. [(1) The well identification number provided by the Water Resources  Department when the
+reporting requirement of ORS 537.762 is satisfied shall  be recorded on the well by a person licensed
+under ORS 537.747 within 30 days after the associated well work is completed. ]
+(1) As used in this section, “licensed or permitted person”  means a person licensed under
+ORS 537.747 or permitted under ORS 537.753 (4).
+(2) A licensed or permitted person who files a well log  under ORS 537.765 shall include
+on the well log the identification number provided by  the Water Resources Department. The
+licensed or permitted person shall affix the identification number to the well  no later than
+30 days after completing work on the well.
+[(2)] (3) If a well does not have an identification number [ recorded on ] affixed to it at  the time
+the property upon which the well is located is transferred, the owner of the property shall  [ record
+on] affix to  the well the identification number  obtained from the [ Water Resources ] department un-
+der ORS 537.791 within 30 days.
+[(3)] (4) The identification number [ on] affixed to the  well shall be clearly visible to a person
+looking for the number and shall meet minimum standards as recommended by the ground water
+advisory committee appointed under ORS 536.090 and adopted by the Water  Resources Commission.
+SECTION 16.
+ ORS 537.791 is amended to read:
+537.791. (1) A landowner may apply to the  Water Resources Department for a number to identify
+a well on the landowner’s property.
+[(2) The Water Resources Department shall  issue a number to identify a well that has not received
+a number through the reporting process required for wells  under ORS 537.762 within 10 days after
+receipt of the application. ]
+(2) If the department has not previously assigned an identification number  to the well,
+no later  than 10 days after receiving an application under this section, the department shall
+assign an identification number to the well.
+SECTION 17.  Section 2, chapter 496, Oregon Laws 2001, is amended to read:
+Sec. 2.  (1) There is established a Well Constructors Continuing Education Committee consisting
+of [ four] six members appointed by the Water Resources Director as follows:
+(a) One person representing the Water Resources Department;
+[(a)] (b) Three persons from the well drilling industry licensed pursuant to ORS 537.747; [ and]
+[(b) One person from the regulatory community. ]
+(c) One person having expertise in ground water quality or public health; and
+(d) One person having expertise in employee safety.
+(2) The term of office of each member is three years, but a member serves at  the pleasure of the
+director.  Before  the expiration of the term of a member, the director shall appoint a successor whose
+term begins on July 1 next following. A member is eligible for reappointment. If there is a vacancy
+for any cause, the director shall make an appointment to become effective immediately for the  un-
+expired term.
+(3) A member of the committee is entitled to travel expenses as provided in ORS 292.495.
+(4) Members of the  committee must be residents of this state who are knowledgeable about the
+principles of well construction.
+(5) The committee shall select one of its members as  chairperson and another as vice chair-
+person, for such terms and with the duties and  powers necessary for the performance of the func-
+tions of such offices as the committee determines.
+(6) [Three] Four  members of the committee constitute a quorum  for the transaction of business.
+At least [ three] four  members of the committee must approve all official actions or decisions of the
+committee.
+SECTION 18.
+ Section 7, chapter 496, Oregon Laws 2001, as amended  by section 3, chapter 221,
+Oregon Laws 2007, and section 1, chapter 57, Oregon Laws 2014, is amended to read:
+Sec. 7.  Sections 2 and 4, chapter 496, Oregon Laws 2001, are repealed January 2, [ 2022] 2030.
+Enrolled House Bill 2145 (HB 2145-B) Page 13
+SECTION 19. If the Water Resources Department has information that a person has
+engaged, or is about  to engage, in any activity that is or will be a violation of ORS 537.747,
+537.753, 537.762 or 537.765 or the standards described  in ORS 537.780 (1)(b) or (c), in addition
+to any other available remedies, the department may apply to the circuit  court for Marion
+County, or to the circuit court for any county in which the activity has occurred or will oc-
+cur, for a temporary or permanent injunction requiring the person to:
+(1) Refrain from the activity; and
+(2) Take any actions necessary to remedy any threat to groundwater supplies,  public
+health or public safety.
+SECTION 20.
+ ORS 537.545 is amended to read:
+537.545. (1) No registration, certificate of registration,  application for a permit, permit, certif-
+icate of completion or ground water right certificate under ORS 537.505 to 537.795 and 537.992  is
+required for the use of ground water for:
+(a) Stockwatering purposes;
+(b) Watering any lawn or noncommercial garden not exceeding one-half acre in area;
+(c) Watering  the lawns, grounds and fields not exceeding 10 acres in area of schools located
+within a critical ground water area established pursuant to ORS 537.730 to 537.740;
+(d) Single or group domestic purposes in an amount not exceeding 15,000 gallons a day;
+(e) Down-hole heat exchange purposes;
+(f) Any single industrial or  commercial purpose in an amount not exceeding 5,000 gallons a day;
+or
+(g) Land application, so long as the ground water:
+(A) Has first been appropriated and used under a permit or certificate  issued under ORS 537.625
+or 537.630 for a water right issued  for industrial purposes or a water right authorizing use of water
+for confined animal feeding purposes;
+(B) Is reused for irrigation purposes and the period of irrigation is a  period during which the
+reused water has never been discharged to the waters of the state; and
+(C) Is applied pursuant to a permit issued by the Department of Environmental  Quality or the
+State Department of Agriculture under either ORS 468B.050 to construct and  operate a disposal
+system or ORS 468B.215 to operate a confined animal feeding operation.
+(2) A ground water use for a purpose that is exempt under subsection (1) of this section,  to the
+extent that the use is beneficial, constitutes a right to  appropriate ground water equal to that es-
+tablished by a ground water right certificate issued under ORS 537.700.
+(3) Except  for the use of water under subsection (1)(g) of this section, the Water Resources
+Commission by rule may require any person or  public agency using ground water for any such
+purpose to furnish information with regard to such ground  water and the use thereof. For a use of
+water described in subsection  (1)(g) of this section, the Department of Environmental Quality or the
+State Department of Agriculture  shall provide to the Water Resources Department a copy of the
+permit issued under ORS 468B.050 or 468B.215 authorizing the land application of ground  water for
+reuse. The permit  shall provide the information regarding the place of use of such water and the
+nature of the beneficial reuse.
+(4) If it is necessary for the Water Resources Department to regulate the use or distribution  of
+ground water, including uses for purposes that are exempt under subsection  (1) of this section, the
+department shall use as a priority date for the exempt uses  the date indicated in the log for the well
+filed with the department under ORS 537.765 or other  documentation provided by the well owner
+showing when water use began.
+(5) The [ owner of land on which a well  is drilled ] person licensed under ORS 537.747 or per-
+mitted under ORS 537.753 (4) that constructs a well  to allow ground water use for a purpose that
+is exempt under subsection (1) of this section  shall provide the Water Resources Department with
+a map showing the exact location  of the well on the tax lot. The [ landowner] person licensed under
+ORS 537.747 or permitted  under ORS 537.753 (4) that constructs a well  shall provide a map
+required by this subsection to the department , along with the well log required by ORS 537.765,
+Enrolled House Bill 2145 (HB 2145-B) Page 14
+no later than 30 days after  the well is completed. The map must be prepared in accordance with
+standards established by the department.  The map and well  log must be accompanied by the fee
+described in subsection (6) of this section to record the exempt ground water use.
+[(6) The owner of land on which a well described  in subsection (5) of this section is located shall
+file the exempt ground water use with the Water Resources Department for recording. The filing  must
+be accompanied by the fee described in subsection (7) of this section. The filing must be received by  the
+department no later than 30 days after the well is completed. ]
+[(7)] (6)  The  Water Resources Department shall collect a fee of $300 for recording an exempt
+ground water use  under subsection [ (6)] (5)  of this section. Moneys from fees collected under this
+subsection shall be deposited to the credit  of the Water Resources Department Water Right Oper-
+ating Fund. Notwithstanding ORS 536.009, moneys deposited to the fund under this subsection  shall
+be used for the purposes of evaluating  ground water supplies, conducting ground water studies,
+carrying out ground water monitoring, processing ground  water data and the administration and
+enforcement of this subsection and subsections (3), (5)[ , (6)] and [ (8)] (7) of this section.
+[(8)] (7)  The  Water Resources Commission shall adopt rules to implement, administer and en-
+force subsections (5) [ to (7) ] and (6)  of this section.
+SECTION 20a.  ORS 536.900 is amended to read:
+536.900. (1) In addition to  any other liability or penalty provided by law, the Water Resources
+Commission may impose a civil penalty on a person for any of the following:
+(a) Violation of any of  the terms or conditions of a permit, certificate or license issued under
+ORS chapters 536 to 543A.
+(b) Violation of ORS 537.130 or 537.535.
+(c) Violation of ORS 537.545 (5) [ or (6) ] or of a rule described in ORS 537.545 [ (8)] (7).
+(d) Violation of any rule or order of the Water Resources Commission that pertains to  well
+maintenance.
+(e) Violation of ORS 540.045, 540.145,  540.210, 540.310, 540.320, 540.330, 540.340, 540.435, 540.440,
+540.570 (5), 540.710, 540.720 and 540.730 or rules adopted under ORS 540.145.
+(2) A civil penalty may be imposed under this section for each day of violation  of ORS 537.130,
+537.535, 540.045, 540.310, 540.330, 540.570 (5), 540.710, 540.720 or 540.730.
+(3) In the event the petitioner knowingly misrepresents the map and petition required  in ORS
+541.329, the commission may assess a penalty of up  to $1,000 based upon guidelines to be established
+by the commission. In addition, the petition and map shall be amended to correct  the error at the
+petitioner’s cost. Affected users shall be given notice as provided in ORS 541.329 (5).
+(4) A  civil penalty may not be imposed until the commission prescribes a reasonable time to
+eliminate the violation. The commission shall notify the violator of  the time allowed to correct a
+violation within five days after the commission first becomes aware of the violation.
+(5) Notwithstanding any term or condition of a  permit, certificate or license, the rotation of the
+use of water under ORS  540.150 may not be considered a violation under subsection (1) of this sec-
+tion.
+SECTION 21.
+ ORS 537.763 is amended to read:
+537.763. (1) There is established in the  State Treasury the Water Resources Department Oper-
+ating Fund to provide for the payment of the administrative expenses of the Water Resources Com-
+mission in carrying out the provisions of ORS 537.762.
+(2) The Water Resources Department Operating Fund shall consist of:
+(a) Fees received pursuant to ORS 537.762.
+(b) All moneys received on behalf  of the fund by gift, grant or appropriation, from whatever
+source.
+(3) The Water Resources  Department Operating Fund shall be separate and distinct from the
+General Fund. All interest  earned by the Water Resources Department Operating Fund , if any,
+shall inure to the benefit of the [ Water Resources Department Operating Fund ] fund.
+Enrolled House Bill 2145 (HB 2145-B) Page 15
+(4) In expending  moneys in the [ Water Resources Department Operating Fund ] fund  received
+from fees pursuant to ORS 537.762, the biennial limitations on expenditures  of the Water Resources
+Department shall be:
+(a) No more than five percent for well inspection administrative support;
+(b) No more than 20 percent for well inspection technical and information services; and
+(c) No less than 75 percent for well  inspection field investigation , [and] enforcement  and review
+of well logs .
+SECTION 22.
+On or before January 31, 2023, and  on or before January 31, 2025, the Water
+Resources Department shall  report to a committee or interim committee of the Legislative
+Assembly related to water, in the manner prescribed in ORS 192.245, on  the department’s
+review of well logs and inspection  of wells. The reports shall describe, but need not be limited
+to:
+(1) The number of well  logs the department has identified as having deficiencies and the
+nature of the deficiencies.
+(2) The number of inspected wells  that had deficiencies and whether the nature of the
+deficiencies was observed on the well logs for the wells.
+(3) The department’s workload associated with reviewing well logs and inspecting wells.
+SECTION 23.
+Sections 2 and 3 of this 2021 Act become operative on January 1, 2022.
+SECTION 24. The amendments to ORS 537.765 by section 11 of this 2021 Act:
+(1) Become operative on July 1, 2022.
+(2) Apply to wells logs submitted on or after July 1, 2022.
+SECTION 25.
+The amendments to ORS 537.747 by section 6 of this 2021 Act apply to  li-
+cense issuance, requalification or renewal for which an application  is received by the Water
+Resources Department on or after July 1, 2023.
+SECTION 26. The amendments to ORS  537.762 by section 9 of this 2021 Act apply to in-
+formation submitted to the Water Resources Department on or after July 1, 2023,  relating
+to the proposed construction, alteration, abandonment or conversion of a well.
+SECTION 27. Section 19  of this 2021 Act and the amendments to ORS 536.090, 536.750,
+537.747, 537.753, 537.762, 537.765, 537.780, 537.789 and 537.791 by sections 4 to  7, 9, 12 and 14 to
+16 of this 2021 Act become operative on July 1, 2023.
+SECTION 28. The amendments to ORS 537.762 and 537.765 by sections 10 and 13 of this
+2021 Act become operative on July 1, 2024.
+SECTION 29. The amendments to section 2,  chapter 496, Oregon Laws 2001, by section
+17 of this 2021 Act do not alter the term of office of a member serving on the  Well
+Constructors Continuing Education Committee immediately  prior to the effective date of this
+2021 Act.
+SECTION 30. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Water  Resources Department by section 1 (4), chapter ___, Oregon Laws 2021
+(Enrolled Senate Bill 5545), for the  biennium beginning July 1, 2021, for technical services,
+is increased by $575,415 for the purpose of carrying out the provisions of sections 3  and 22
+of this  2021 Act and the amendments to ORS 537.747, 537.753, 537.762, 537.765 and 537.791 by
+sections 6, 7, 9, 11, 12 and 16 of this 2021 Act.
+SECTION 31. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Water Resources Department, for the biennium beginning July 1,  2021, out of
+the General Fund, the amount of $100,000, for deposit in the Water  Well Abandonment, Re-
+pair and Replacement Fund established by section 2 of this 2021 Act.
+Enrolled House Bill 2145 (HB 2145-B) Page 16
+Passed by House June 24, 2021
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate June 26, 2021
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2021
+Approved:
+........................M.,........................................................., 2021
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2021
+..................................................................................
+Shemia Fagan, Secretary of State
+Enrolled House Bill 2145 (HB 2145-B) Page 17
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 192.245, ORS 292.495, ORS 468B.050, ORS 468B.215, ORS 536.007, ORS 536.009, ORS 536.090, ORS 536.750, ORS 536.900, ORS 537.130, ORS 537.170, ORS 537.505, ORS 537.525, ORS 537.535, ORS 537.545, ORS 537.625, ORS 537.700, ORS 537.730, ORS 537.747, ORS 537.753, ORS 537.762, ORS 537.763, ORS 537.765, ORS 537.780, ORS 537.789, ORS 537.791, ORS 540.045, ORS 540.145, ORS 540.150, ORS 540.210, ORS 540.310, ORS 540.320, ORS 540.330, ORS 540.340, ORS 540.435, ORS 540.440, ORS 540.520, ORS 540.524, ORS 540.535, ORS 540.570, ORS 540.710, ORS 540.720, ORS 540.730, ORS 541.329, ORS 706.008
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `eefd691b9d472b0af2555a76f487bc2875b994943a1281ca96a1a6ebf925a893` (snapshot `_meta/snapshots/measure-2021r1-hb2145-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2145/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `bec8187527866b0860cd0089ef8b81317ca839474273c24e101c5285d04f2b35` (snapshot `_meta/snapshots/measure-2021r1-hb2145-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2145/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2145` (part of the batched per-session fetch), sha256 `5da569ca758abb18ddc62b98b159745491357dbe8bf5488fc371a795d58c4c1e` of the shared session snapshot `_meta/snapshots/measures-2021r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

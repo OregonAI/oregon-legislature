@@ -1,0 +1,189 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 2010
+Sponsored by Representative SALINAS,  Senator BEYER, Representative NOSSE; Representatives ALONSO LEON,
+CAMPOS, DEXTER, MARSH, PHAM, REYNOLDS, RUIZ, SANCHEZ, WILDE, Senator JAMA
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Creates public option to allow consumers to enroll in state-designed health  plans through health
+insurance exchange.
+A BILL FOR AN ACT
+Relating to health care.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section and section 2 of this 2021 Act:
+(a) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(b) “Gold level” has the meaning given that term in 42 U.S.C. 18022(d).
+(c) “Health insurance exchange” has the meaning given that term in ORS 741.300.
+(d) “Health plan” has the meaning given that term in ORS 741.300.
+(e) “Public option health plan” means a health plan approved by the Department of Con-
+sumer and Business Services to be offered by a  public option provider through the public
+option on the health insurance exchange.
+(f) “Public option provider” means an insurance carrier  or coordinated care organization
+that:
+(A) Has a certificate of authority to transact insurance in this state; and
+(B) Offers a public option health plan.
+(g) “Silver level” has the meaning given that term in 42 U.S.C. 18022(d).
+(2) A public option is created to provide residents of this state with the opportunity to
+enroll in state-designed health plans through  the health insurance exchange. The goals of the
+public option are to:
+(a) Address the lack of affordable health plans for individuals and families.
+(b) Provide affordable health care coverage to individuals who  qualify for coverage as a
+spouse or child of  an employee under a policy of employer-sponsored health insurance but
+for whom the employer does not contribute toward the cost of their coverage.
+(c) Ensure continuity of care for  individuals and families with unstable incomes who cy-
+cle in and out of the state medical assistance program.
+(d) Enable  small business owners to purchase affordable health insurance plans for
+themselves and their employees.
+(e) Reduce premiums, deductibles or other cost-sharing.
+(3) An insurance carrier that contracts with the Public Employees’ Benefit Board  or the
+Oregon Educators Benefit Board to offer one or more health plans to public employees,  or
+that contracts with the Oregon Health Authority as  part of a coordinated care organization
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1641
+HB 2010
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or that offers a Medicare Advantage Plan in this state, shall offer public  option health plans
+at the silver level and gold level that are approved by the department as meeting  the criteria
+in subsection (4) of this section.
+(4) Public option health plans must:
+(a) Be offered through the health insurance exchange to individuals and small  business
+owners;
+(b) Reimburse health care providers for the cost  of services at no more than 100 percent
+of the reimbursement paid by Medicare, unless the public option provider can demonstrate
+that such rate is insufficient  to recruit enough providers to meet standards established for
+network adequacy; and
+(c) To the extent that federal requirements for offering health plans on the health  in-
+surance exchange permit:
+(A) Focus on integrative primary and behavioral health care;
+(B) Increase expenditures to improve the social determinants of health;
+(C) Provide access  to traditional health care workers such as doulas, peer support spe-
+cialists, health navigators and community health workers;
+(D) Reinvest in community-based activities to improve health; and
+(E) Apply metrics to participating health care  providers to target health equity and lan-
+guage access for culturally and linguistically diverse and low income populations.
+(5) Notwithstanding subsection (4)(b) of this section, the department  shall encourage
+public option providers to reimburse health  care providers using value-based payment
+methodologies to the greatest extent practicable.
+(6) A health care provider who is licensed or certified  to practice in this state and who
+provides care to individuals enrolled in a plan offered by the Public Employees’ Benefit Board
+or the Oregon Educators Benefit Board, or enrolled in a Medicare Advantage Plan or enrolled
+in a coordinated  care organization, may not refuse to participate in public option health
+plans.
+(7) Public option providers shall purchase drugs for public option health plan enrollees
+using the Oregon Prescription Drug Program established in ORS 414.312.
+(8) Premium rates for public option health plans are subject to ORS 743.019.
+(9) The authority shall make available to the department information collected  under
+ORS 415.012 to 415.430 as the department deems necessary to review premium rates for  co-
+ordinated care organizations in accordance with ORS 743.019.
+(10) The department  shall apply to the Centers for Medicare and Medicaid Services for a
+waiver for state innovation under 42 U.S.C. 18052  to secure any federal financial participation
+that may be available to pay the costs of the public option.
+SECTION 2.
+The Department of Consumer and Business Services, in collaboration with
+the Oregon Health  Authority, shall monitor the implementation of the public option de-
+scribed in section 1 of this 2021 Act to evaluate the success of  the public option in achieving
+the goals described in section 1 of this 2021 Act, including by tracking the following:
+(1) Enrollment;
+(2) Quality of care;
+(3) Market competition;
+(4) Average provider reimbursement rates in each region where  public option health
+plans are available; and
+[2]
+HB 2010
+1
+2
+3
+4
+5
+6
+7
+8
+9
+(5) The overall stability of the statewide health insurance market.
+SECTION 3.
+The Department of Consumer and Business Services shall take all steps
+necessary to ensure that public option health plans, as defined  in section 1 of this 2021 Act,
+are available on the health insurance exchange by the beginning  of the 2022 open enrollment
+period for the 2023 plan year.
+SECTION 4. The Department of Consumer and Business  Services shall take immediate
+steps toward implementing a state-based platform  for the health insurance exchange and
+discontinuing the use of the federally facilitated exchange.
+[3]

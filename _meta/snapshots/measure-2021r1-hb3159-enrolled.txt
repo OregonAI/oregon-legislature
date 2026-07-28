@@ -1,0 +1,214 @@
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Enrolled
+House Bill 3159
+Sponsored by Representative NOSSE;  Representatives ALONSO LEON, CAMPOS, DEXTER,
+GRAYBER, MEEK, PHAM, POWER, PRUSAK, SALINAS, SANCHEZ,  SCHOUTEN,
+VALDERRAMA, WILLIAMS, Senators GELSER, LIEBER
+CHAPTER .................................................
+AN ACT
+Relating to data collection; creating new provisions; amending  ORS 413.161; repealing sections 40,
+41 and 43, chapter 12, Oregon Laws 2020 (first special session); and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. (1) As used in sections 1 to 3 of this 2021 Act:
+(a) “Board” means the:
+(A) State Board of Examiners for Speech-Language Pathology and Audiology;
+(B) State Board of Chiropractic Examiners;
+(C) State Board of Licensed Social Workers;
+(D) Oregon Board of Licensed Professional Counselors and Therapists;
+(E) Oregon Board of Dentistry;
+(F) State Board of Massage Therapists;
+(G) Oregon Board of Naturopathic Medicine;
+(H) Oregon State Board of Nursing;
+(I) Oregon Board of Optometry;
+(J) State Board of Pharmacy;
+(K) Oregon Medical Board;
+(L) Occupational Therapy Licensing Board;
+(M) Oregon Board of Physical Therapy;
+(N) Oregon Board of Psychology;
+(O) Board of Medical Imaging;
+(P) Long Term Care Administrators Board;
+(Q) State Board of Direct Entry Midwifery;
+(R) State Board of Denture Technology;
+(S) Respiratory Therapist and Polysomnographic Technologist Licensing Board;
+(T) Board of Licensed Dietitians; and
+(U) Oregon Health Authority, to the extent that the authority:
+(i) Licenses emergency medical services providers under ORS 682.216; and
+(ii) Regulates traditional health workers under ORS 414.665.
+(b) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(c) “Health care provider” means an individual licensed,  certified, registered or otherwise
+authorized to practice by a board.
+(d) “Health insurer” has the meaning given that term in ORS 746.600.
+Enrolled House Bill 3159 (HB 3159-B) Page 1
+(2) At least once each calendar year and in accordance with timelines established by the
+authority by rule, a coordinated care  organization, a health care provider or health care
+provider’s designee, or a  health insurer shall collect data on race, ethnicity, preferred spoken
+and written languages, disability status, sexual  orientation and gender identity from the co-
+ordinated care organization’s, health  care provider’s or health insurer’s patients, clients and
+members, in  accordance with standards adopted by the authority pursuant to ORS 413.161.
+A coordinated care organization, health care provider  or health insurer shall submit the data
+to the authority in the manner prescribed by the authority by rule.
+(3)(a) The authority shall adopt rules, including but not limited to rules:
+(A) Establishing standards for collecting, securely transmitting and reporting  the data
+described in subsection (2) of this section;
+(B) Establishing the timelines for collection and submission of data described  in sub-
+section (2) of this section;
+(C) Permitting coordinated care organizations, health care providers and  health insurers
+to report to  the authority that a patient, client or member refused to answer questions re-
+garding race,  ethnicity, preferred spoken and written languages, disability status, sexual
+orientation and gender identity;
+(D) Establishing criteria for extensions  of timelines established under this subsection and
+a process for reviewing requests for extensions; and
+(E) Establishing criteria for exempting certain health care providers  or classes of health
+care providers from the requirements of  subsection (2) of this section and a process for re-
+viewing requests for exemptions.
+(b) In adopting rules under subsection (2) of this section, the authority shall:
+(A) Consult with the advisory committee established under ORS 413.161;
+(B) Allow  coordinated care organizations, health care providers and health insurers to
+collect the data described in subsection (2) of this section on electronic or paper forms; and
+(C) Require coordinated care organizations, health care providers and health  insurers to
+inform patients, clients and members:
+(i) That data collected under subsection (2) of this section is reported to the authority;
+(ii) How the authority, coordinated care organization, health care provider and health
+insurer use the data;
+(iii) Of the purposes for which the data may not be used; and
+(iv) That the patient, client  or member is not required to answer questions regarding
+race, ethnicity, preferred spoken and  written languages, disability status, sexual orientation
+and gender identity.
+(4) Data collected under  this section is confidential and not subject to disclosure under
+ORS 192.311 to 192.478. The  authority may release the data collected under this section only
+if the data to be released is  anonymized and aggregated so that the data released does not
+reasonably allow an individual whose information is included in the data to be identified.
+(5) A coordinated care organization or health insurer transacting insurance in  this state
+may not consider any data collected under subsection (2) of this section:
+(a) In  determining whether to deny, limit, cancel, rescind or refuse to renew an insur-
+ance policy;
+(b) To establish premium rates for an insurance policy; or
+(c) To establish the terms and conditions of an insurance policy.
+(6) The authority may provide incentives to  coordinated care organizations, health care
+providers and health insurers to  assist in deferring the costs of making changes to electronic
+health records systems or similar systems to facilitate  the collection of data described in
+subsection (2) of this section.
+(7)(a) The authority shall monitor coordinated care organizations, health  care providers
+and health insurers for compliance with  the standards established under subsection (1) of
+this section.
+Enrolled House Bill 3159 (HB 3159-B) Page 2
+(b) The authority may impose on a coordinated care organization,  health care provider
+or health insurer  a civil penalty for a violation of the requirements of this section or rules
+adopted under this section:
+(A) Not to exceed $200 for the first violation;
+(B) Not to exceed $400 for the second violation; and
+(C) Not to exceed $500 for the third and subsequent violations.
+(c) Prior to imposing a penalty  under paragraph (b) of this subsection, the authority shall
+provide notice  to the coordinated care organization, health care provider or health insurer
+of the alleged violation and  provide the coordinated care organization, health care provider
+or health insurer a reasonable time in which to correct the violation.
+SECTION 2.
+The Oregon Health Authority shall establish a data system for data on race,
+ethnicity, preferred spoken and written languages, disability  status, sexual orientation and
+gender identity collected under section  1 of this 2021 Act. The data system established under
+this section must include:
+(1) A data registry to receive and store the data described in this section  from coordi-
+nated care organizations, health care providers and health insurers,  patients, clients and
+members of coordinated care organizations, health care  providers and health insurers, the
+authority and the Department of Human Services. The registry  must allow for coordinated
+care organizations, health care providers and health insurers to:
+(a) Electronically submit data collected under section 1 of this 2021 Act; and
+(b) Query the data registry to determine whether the  registry contains current data for
+a patient, member or client.
+(2) Functionality that allows a patient, member or client to  directly submit to the data
+system their data described in this section.
+SECTION 3.
+No later than June 1, 2022, and every two  years thereafter, the Oregon
+Health Authority  shall report to the appropriate committees of the Legislative Assembly in
+the manner provided in ORS 192.245 on  the implementation of sections 1 and 2 of this 2021
+Act. The report must include, but is not limited to:
+(1) A description of uniform standards for  data collection and implementation of the
+standards; and
+(2) The challenges to  implementing the standards and plan for addressing the challenges.
+SECTION 4. (1) The Oregon Health Authority shall develop and  administer a grant pro-
+gram to provide funding for the purpose of supporting safe data collection  by community
+health organizations and community-based groups with  demonstrated experience serving
+tribal communities,  communities of color, LGBTQ+ people, people with disabilities, people
+who speak primary languages other than English and  other underserved populations. An
+entity described in this subsection that receives a grant under this section shall  provide
+culturally responsive, trauma-informed trainings  on the collection of the data described in
+section 1 (2) of this 2021 Act.
+(2) The authority shall adopt rules to carry out this section.
+SECTION 5.
+ ORS 413.161 is amended to read:
+413.161. (1) The Oregon Health Authority, in  collaboration with the Department of Human Ser-
+vices,  shall  adopt by rule uniform standards, based on local, statewide and national best practices,
+for the collection of data on race, ethnicity, preferred spoken and  written languages [ and], disability
+status, sexual orientation and gender identity . The authority  and the department shall use the
+standards, to the greatest extent practicable, in surveys conducted and in all programs in which the
+authority or the department collects, records or reports [ such] the data described in this sub-
+section. The authority and the department  shall review and update the standards at least once ev-
+ery two years to ensure  that the standards are efficient, uniform and consistent with best practices.
+(2) The authority shall  appoint an advisory committee in accordance with ORS 183.333 composed
+of individuals likely to be affected by the standards and advocates for  individuals likely to be af-
+fected by the standards.
+Enrolled House Bill 3159 (HB 3159-B) Page 3
+SECTION 6. Sections 40, 41 and 43, chapter 12, Oregon Laws 2020 (first special  session),
+are repealed on January 1, 2023.
+SECTION 7. (1) Not later than the  operative date specified in section 11 (1) of this 2021
+Act, the Oregon Health Authority shall  establish a date by which a coordinated care organ-
+ization, health care provider and health insurer, as those terms are defined in  section 1 of
+this 2021 Act, shall begin collecting and reporting the data described in section 1 (2) of this
+2021 Act.
+(2) The authority may not impose a civil penalty on a coordinated care  organization,
+health care provider or health insurer until the authority has established a process  for sub-
+mission of  the data described in section 1 (2) of this 2021 Act and the data system described
+in section 2 of this 2021 Act.
+SECTION 8.
+Notwithstanding any other provision  of law, the General Fund appropriation
+made to the Oregon  Health Authority by section 1 (3), chapter __, Oregon Laws 2021 (En-
+rolled House Bill 5024), for the biennium beginning July 1, 2021, for  central services, state
+assessments and enterprise-wide costs, is increased by $9,768,195,  for the purposes of carry-
+ing out sections 1 to 5 of this 2021 Act.
+SECTION 9. Notwithstanding any other law limiting expenditures, the limitation on  ex-
+penditures established by section 2 (3), chapter __, Oregon Laws 2021 (Enrolled House  Bill
+5024), for the biennium beginning July 1, 2021, as the maximum limit for payment of expenses
+from fees, moneys or other revenues, including Miscellaneous Receipts, tobacco tax receipts,
+marijuana tax receipts, beer and wine tax receipts, provider taxes and  Medicare receipts, but
+excluding lottery funds and federal funds not described in section 2,  chapter __, Oregon Laws
+2021 (Enrolled House Bill 5024), collected or received by  the Oregon Health Authority, for
+central services, state assessments and  enterprise-wide costs, is increased by $5,624,767, for
+the purposes of carrying out sections 1 to 5 of this 2021 Act.
+SECTION 10.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 5 (3), chapter __, Oregon Laws 2021 (Enrolled House  Bill
+5024), for the biennium beginning July 1, 2021, as the maximum limit for payment of expenses
+from federal funds, excluding  federal funds described in section 2, chapter __, Oregon Laws
+2021 (Enrolled House Bill 5024), collected  or received by the Oregon Health Authority, for
+central services, state assessments and enterprise-wide costs, is  increased by $2,842,387, for
+the purposes of carrying out sections 1 to 5 of this 2021 Act.
+SECTION 11. (1) Sections 1 to 4 of this 2021 Act become operative on January 1, 2022.
+(2) The amendments  to ORS 413.161 by section 5 of this 2021 Act become operative on
+July 1, 2022.
+(3) The Oregon Health Authority may take  any action before the operative date specified
+in subsection (1) of this section that is  necessary to enable the authority to exercise, on and
+after the operative date specified  in subsection (1) of this section, all of the duties, functions
+and powers conferred on the authority by sections 1 to 4  of this 2021 Act and the amend-
+ments to ORS 413.161 by section 5 of this 2021 Act.
+SECTION 12. This 2021 Act takes effect on the 91st day after the date on  which the 2021
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+Enrolled House Bill 3159 (HB 3159-B) Page 4
+Passed by House June 24, 2021
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate June 26, 2021
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2021
+Approved:
+........................M.,........................................................., 2021
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2021
+..................................................................................
+Shemia Fagan, Secretary of State
+Enrolled House Bill 3159 (HB 3159-B) Page 5

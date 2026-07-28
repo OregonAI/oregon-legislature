@@ -1,0 +1,257 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 689
+Sponsored by Senator MANNING JR (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs Oregon Criminal Justice  Commission to create pilot grant program funding coalitions
+that create nonpolice response  systems to minor instances of crime. Appropriates moneys to com-
+mission to fund program.
+Requires Department of Corrections to adopt rules requiring supervising  officers to provide to
+eligible persons on supervision quarterly  updates on progress toward earning reduction in super-
+vision.
+Modifies applicability of earned reduction of supervision changes in House Bill 2172 (2021).
+A BILL FOR AN ACT
+Relating to crime; creating new provisions; and amending  ORS 137.633 and section 2, chapter 450,
+Oregon Laws 2021.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Oregon Criminal Justice Commission shall  create a pilot program to
+fund the creation of nonpolice responses  to minor instances of crime. The program shall
+consist of grants awarded to three coalitions, each consisting  of a county government and
+one or more community-based nonprofit organizations.
+(2) The commission shall by rule develop eligibility criteria and an application process  for
+awarding the grants. In developing the program eligibility criteria  and application process,
+and when selecting coalitions to receive grants, the commission shall consult with:
+(a) Culturally specific nonprofit organizations and service providers that provide outreach
+services, services for houseless persons and services as part of or associated  with the crim-
+inal justice system; and
+(b) Individuals directly impacted by the criminal justice system.
+(3) The commission shall select to receive a grant one coalition in the Portland  metro-
+politan area, one coalition in the mid-Willamette Valley  area and one coalition in central or
+eastern Oregon.
+(4) A coalition selected  to receive a grant shall dedicate 12 to 18 months as a planning
+period for creating the nonpolice response system.  During the planning period, the coalition
+shall work with the county district  attorney, law enforcement agencies and any other rele-
+vant stakeholders to ensure that the system is operational at  the conclusion of the planning
+period and relevant stakeholders are cooperating to make the system functional.
+(5) A coalition may use grant funds for the following purposes:
+(a) The planning period described in subsection (4) of this section.
+(b) Responding to 9-1-1  or nonemergency police calls concerning the commission of any
+of the following crimes:
+(A) Theft in the third degree under ORS 164.043;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1703
+SB 689
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) Criminal trespass in the second degree by a guest under ORS 164.243;
+(C) Criminal trespass in the second degree under ORS 164.245;
+(D) Criminal trespass at a sports event under ORS 164.278;
+(E) Offensive littering under ORS 164.805;
+(F) Unlawful sound recording under ORS 164.865;
+(G) Criminal possession of a forged instrument in the second degree under ORS 165.017;
+(H) Interfering with public transportation under ORS 166.116;
+(I) Prostitution under ORS 167.007;
+(J) Unlawful possession of a controlled  substance under ORS 475.752 constituting a
+misdemeanor;
+(K) Unlawful possession of methadone under ORS 475.824 constituting a misdemeanor;
+(L) Unlawful possession of oxycodone under ORS 475.834 constituting a misdemeanor;
+(M) Unlawful possession of heroin under ORS 475.854 constituting a misdemeanor;
+(N) Unlawful possession of cocaine under ORS 475.884 constituting a misdemeanor;
+(O) Unlawful possession of methamphetamine under ORS 475.894  constituting a
+misdemeanor; or
+(P) An attempt to commit  a crime described in subparagraphs (A) to (O) of this para-
+graph.
+(c) Intensive case management for  persons who are contacted by the program to assist
+those persons in obtaining any needed services.
+(d) The provision of culturally specific  or culturally responsive services to persons con-
+tacted by the program.
+(e) Proactive outreach  to work with houseless and other marginalized persons who are
+at risk of coming into contact with the criminal justice system.
+(6) Throughout the duration of the program, the commission shall create, maintain  and
+make available on the commission’s website a data dashboard detailing the following infor-
+mation:
+(a) The number of persons contacted  by the program in each county, using a unique
+identifier for each person.
+(b) The services received by persons who were contacted by the program.
+(c) The race and ethnicity of each person contacted by the program.
+(d) The number of misdemeanors charged  each month by the district attorney of the
+county.
+(e) The number of persons who  were diverted from either first-time engagement or ad-
+ditional engagement with the criminal justice system as a result of the program.
+(f) The number of persons who, after engaging with the program,  experienced increased
+stabilization in housing, mental health or economic independence.
+(7) The commission shall adopt rules to carry out the provisions of this section.
+SECTION 2.
+Section 1 of this 2023 Act is repealed on January 1, 2029.
+SECTION 3. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to  the Oregon Criminal Justice Commission, for the biennium beginning July 1, 2023,
+out of the General Fund, the amount of $ , for funding the pilot grant program
+described in section 1 of this 2023 Act.
+SECTION 4.  ORS 137.633 is amended to read:
+137.633. (1) A person convicted of a felony, a designated drug-related misdemeanor  or a desig-
+[2]
+SB 689
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+nated person misdemeanor and sentenced to probation, to post-prison supervision or  to the legal and
+physical custody of the Department  of Corrections or the supervisory authority under ORS 137.124
+(2) is eligible for a reduction  in the period of probation or post-prison supervision for complying with
+terms of probation or post-prison supervision, including demonstrating a  commitment to the payment
+of restitution to  the extent the person is able to pay, and participation in recidivism reduction pro-
+grams.
+(2) The maximum  reduction under this section may not exceed 50 percent of the period of pro-
+bation or post-prison supervision imposed.
+(3) A reduction under this section may not be used to shorten the period of probation or post-
+prison supervision to less than six months.
+(4) A person serving a sentence described as  follows is not eligible for a reduction in the term
+of supervision under this section:
+(a) A sentence for a crime described in ORS 163.095, 163.107, 163.115,  163.118, 163.125, 163.149,
+163.185, 163.225, 163.235, 163.365, 163.375, 163.395, 163.405, 163.408, 163.411, 163.427, 163.670, 164.325,
+164.415 or 167.017;
+(b) A sentence for attempt or conspiracy to  commit a crime described in ORS 163.095, 163.107
+or 163.115;
+(c) A sentence for a crime committed prior to November 1, 1989;
+(d) A sentence imposed under the provisions of ORS 161.610;
+(e) A sentence imposed under the provisions of ORS 161.725 and 161.735;
+(f) A sentence imposed under the provisions of ORS 137.635;
+(g) A sentence imposed under the provisions of ORS 137.690, 164.061, 475.907,  475.925, 475.930
+or 813.011; or
+(h) A term of supervision subject to ORS 144.103.
+(5)(a) The Department of Corrections shall adopt rules to carry out  the provisions of this sec-
+tion.
+(b) The rules adopted under this subsection shall include but are not limited to:
+(A) Rules creating processes for early and ongoing notification of eligibility for an  earned re-
+duction in supervision under this section to persons on supervision; [ and]
+(B) Rules requiring supervising  officers to provide quarterly updates on progress toward
+earning a reduction in supervision under this section to  persons on supervision who are eli-
+gible for the reduction; and
+[(B)] (C)  Rules establishing consistent standards for determining when a person on  supervision
+is in compliance with the requirements for, and has succeeded in, earning  a reduction in supervision
+under this section.
+(c) The supervisory authority shall comply with the rules adopted under this subsection.
+(6) As used in this section:
+(a) “Designated drug-related misdemeanor” has the meaning given that term in ORS 423.478.
+(b) “Designated person misdemeanor” has the meaning given that term in ORS 423.478.
+SECTION 5.
+ Section 2, chapter 450, Oregon Laws 2021, is amended to read:
+Sec. 2.  The amendments to ORS 137.633  by section 1 , [ of this 2021 Act ] chapter 450, Oregon
+Laws 2021, apply to sentences imposed before, on or after [ the effective date of this 2021 Act ] Jan-
+uary 1, 2022.
+[3]

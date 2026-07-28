@@ -1,0 +1,657 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Senate Bill 978
+Sponsored by COMMITTEE ON BUSINESS AND TRANSPORTATION
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Prohibits  electric  company from including in its rates cost of electric generation resource or
+energy storage resource that is capable of  generating electricity or storing electricity for not less
+than five years and  has generating or storage capacity of 50 megawatts or more unless electric
+company must acquire resource to maintain reliability of electrical company’s electrical system.
+Requires electric company to use competitive bidding process when procuring electricity from
+electric generation resource or energy storage resource that is  capable of generating electricity or
+storing electricity for not less than five years and has  generating or storage capacity of 50 mega-
+watts.
+Becomes operative January 1, 2018.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to utilities;  creating new provisions; amending ORS 59.025, 757.600, 757.646 and 757.676; and
+prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 757.600 is amended to read:
+757.600. As used in ORS 757.600 to 757.689, unless the context requires otherwise:
+(1) “Aggregate” means combining retail electricity consumers into a buying  group for the pur-
+chase of electricity and related services.
+(2) “Ancillary services” means services  necessary or incidental to the transmission and delivery
+of electricity from  generating facilities to retail electricity consumers, including but not limited to
+scheduling, load shaping, reactive power, voltage control and energy balancing services.
+(3) “Commission” means the Public Utility Commission.
+(4) “Consumer-owned utility” means a municipal electric utility, a people’s utility  district or an
+electric  cooperative.
+(5) “Default supplier” means an electricity  service supplier or electric company that has a legal
+obligation to provide electricity services to a consumer, as determined by the commission.
+(6) “Direct access” means the ability of a retail electricity consumer to purchase electricity and
+certain ancillary services, as determined by the  commission for an electric company or the govern-
+ing body of a consumer-owned utility, directly from an entity other than the distribution utility.
+(7) “Direct service industrial consumer” means an end user of  electricity that obtains electricity
+directly from the transmission grid and not through a distribution utility.
+(8) “Distribution” means the delivery of electricity to retail electricity  consumers through a
+distribution system consisting of local area  power poles, transformers, conductors, meters, sub-
+stations and other equipment.
+(9) “Distribution utility” means an electric utility that owns and operates  a distribution system
+connecting the transmission grid to the retail electricity consumer.
+(10) “Economic utility investment” means all electric company investments, including  plants and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3245
+SB 978
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+equipment and contractual or other legal obligations, properly dedicated to  generation or conser-
+vation, that  were prudent at the time the obligations were assumed but the full benefits of which
+are no longer available to consumers as a direct result of ORS 757.600 to  757.667, absent transition
+credits. “Economic utility investment” does not include costs or expenses disallowed by the  com-
+mission in a prudence review or other proceeding, to the extent of such disallowance, and does not
+include fines or penalties authorized and imposed under state or federal law.
+(11) “Electric company” means an entity engaged in the business of distributing electricity  to
+retail electricity consumers in this state, but does not include a consumer-owned utility.
+(12) “Electric  cooperative” means an electric cooperative corporation organized under ORS
+chapter 62 or under the laws of another state if the service territory of the electric cooperative
+includes a portion of this state.
+(13) “Electric utility” means an electric company or consumer-owned utility that is engaged in
+the business of distributing electricity to retail electricity consumers in this state.
+(14) “Electricity” means electric energy, measured in kilowatt-hours, or  electric capacity,
+measured in kilowatts, or both.
+(15) “Electricity services” means electricity distribution, transmission, generation  or
+generation-related services.
+(16) “Electricity service supplier” means  a person or entity that offers to sell electricity services
+available pursuant to direct access to more than one retail electricity  consumer. “Electricity ser-
+vice supplier” does not include  an electric utility selling electricity to retail electricity consumers
+in its own service territory.
+(17) “Governing body”  means the board of directors or the commissioners of an electric coop-
+erative or people’s utility district, or the council or  board of a city with respect to a municipal
+electric utility.
+(18) “Load”  means the amount of electricity delivered to or required by a retail electricity
+consumer at a specific point of delivery.
+(19) “Low-income weatherization” means repairs, weatherization and installation of  energy effi-
+cient appliances and fixtures for low-income residences for the  purpose of enhancing energy effi-
+ciency.
+(20) “Major resource” means an electric generation resource  or an energy storage re-
+source that an electric company acquires, or for  which an electric company contracts, to
+generate or store electricity for not less than five years and that:
+(a) If a single resource, has a generating or  storage capacity of 50 megawatts or more;
+or
+(b) If multiple resources:
+(A) Has an aggregate generating or storage capacity of 50 megawatts or more; and
+(B) Meets criteria for aggregating generating or storage capacity  as prescribed by the
+commission by rule or order, provided that the burden  of proof is on an electric utility to
+demonstrate that multiple resources should not be aggregated  in any proceeding determining
+whether multiple resources are a major resource.
+[(20)] (21) “Municipal electric utility” means an electric distribution  utility owned and operated
+by or on behalf of a city.
+[(21)] (22) “New renewable energy resource” means a  renewable energy resource project, or a
+new addition to an existing renewable energy resource project, or the electricity  produced by the
+project, that is not in operation  on July 23, 1999. “New renewable energy resource” does not include
+[2]
+SB 978
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+any portion of a renewable energy resource  project under contract to the Bonneville Power Ad-
+ministration on or before July 23, 1999.
+[(22)] (23) “One average megawatt” means 8,760,000 kilowatt-hours of electricity per year.
+[(23)] (24) “People’s utility district” has the meaning given that term in ORS 261.010.
+[(24)] (25) “Portfolio access” means the ability of a retail electricity consumer to  choose from
+a set of product and pricing options for  electricity determined by the governing board of a
+consumer-owned utility and may  include product and pricing options offered by the utility or by an
+electricity service supplier.
+[(25)] (26) “Power generation company” means a company engaged in the production and  sale
+of electricity to wholesale customers,  including but not limited to independent power producers, af-
+filiated generation companies, municipal and state authorities, provided the company is not  regu-
+lated by the commission.
+[(26)] (27) “Qualifying expenditures”  means those expenditures for energy conservation measures
+that have a simple payback period of not less than one year and not more  than 10 years, and
+expenditures for the  above-market costs of new renewable energy resources, provided that the State
+Department of Energy by rule may  establish a limit on the maximum above-market cost for
+renewable energy that is allowed as a credit.
+[(27)] (28) “Renewable energy resources” means:
+(a) Electricity generation facilities fueled by wind, waste, solar or geothermal power or by low-
+emission nontoxic biomass based on solid organic fuels from wood, forest and field residues.
+(b) Dedicated energy crops available on a renewable basis.
+(c) Landfill gas and digester gas.
+(d) Hydroelectric facilities located outside protected areas as defined by federal law  in effect
+on July 23, 1999.
+[(28)] (29) “Residential electricity consumer” means an electricity consumer who resides at  a
+dwelling primarily used for residential purposes. “Residential electricity consumer” does not include
+retail electricity consumers in a dwelling typically used for residency periods of less  than 30 days,
+including hotels, motels, camps, lodges and clubs. As  used in this subsection, “dwelling” includes but
+is not limited to single family dwellings, separately metered apartments, adult  foster homes, manu-
+factured dwellings, recreational vehicles and floating homes.
+[(29)] (30) “Retail  electricity consumer” means the end user of electricity for specific purposes
+such as heating, lighting or operating equipment, and includes all end users of electricity served
+through the distribution system of an electric utility on or after July 23, 1999, whether or not  each
+end user purchases the electricity from the electric utility.
+[(30)] (31) “Site” means a single contiguous area of  land containing buildings or other structures
+that are separated by not more than 1,000 feet, or buildings  and related structures that are inter-
+connected by facilities owned by a single retail electricity consumer and that are  served through a
+single electric meter.
+[(31)] (32) “Transition charge” means a charge or fee that recovers all or a portion of an une-
+conomic utility investment.
+[(32)] (33) “Transition credit” means a credit that returns to consumers all or a portion of the
+benefits from an economic utility investment.
+[(33)] (34) “Transmission facility” means the plant  and equipment used to transmit electricity in
+interstate  commerce.
+[(34)] (35) “Undue market power” means the unfair or improper exercise  of influence to increase
+[3]
+SB 978
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or decrease the availability or price of a service or  product in a manner inconsistent with compet-
+itive markets.
+[(35)] (36) “Uneconomic utility  investment” means all electric company investments, including
+plants and equipment and contractual or other legal  obligations, properly dedicated to generation,
+conservation and workforce commitments,  that were prudent at the time the obligations were as-
+sumed but the full costs of which are no  longer recoverable as a direct result of ORS 757.600 to
+757.667, absent transition charges. “Uneconomic utility investment” does not include costs  or ex-
+penses disallowed by the commission  in a prudence review or other proceeding, to the extent of such
+disallowance, and does not include fines or penalties as authorized by state or federal law.
+SECTION 2.  ORS 757.646 is amended to read:
+757.646. (1)  The duties, functions and powers of the Public Utility Commission [ shall] include
+developing policies to eliminate barriers to the development of a competitive retail and wholesale
+market structure[ . The policies shall ] for electricity. Policies developed pursuant to this section
+must be designed to mitigate  the vertical and horizontal retail and wholesale  market power of
+incumbent electric companies, prohibit preferential treatment, or the appearance of [ such] prefer-
+ential treatment, of generation or  market affiliates and determine [ the] which electricity services
+are likely to be competitive. The commission may require an  electric company acting as an elec-
+tricity service supplier [ do so ] to act as an electricity service supplier  through an affiliate.
+(2) The  commission shall establish by rule a code of conduct for electric companies and [ their]
+electric company affiliates  to protect retail electricity consumers  against wholesale and retail
+market abuses and anticompetitive practices. The code shall, at a minimum:
+(a) Require an electric company and [ any] an affiliate of the electric company  that shares the
+same name and logo as the electric company  to disclose to all consumers the  relationship between
+the company and the affiliate and to  clarify that the affiliate is not the same as the electric com-
+pany and  that in order to receive service from the electric company a consumer does not have to
+purchase the services of the affiliate;
+(b) Prohibit  preferential access by an electric company affiliate to confidential consumer infor-
+mation;
+(c) Prohibit cross-subsidization between competitive operations and regulated operations, in-
+cluding the use of electric company personnel and other resources;
+(d) Prohibit joint marketing activities  and exclusive referral arrangements between an electric
+company and [ its] affiliates of the electric company ;
+(e) Provide the commission with all necessary access to books and records;
+(f) Require electric companies to make regular compliance filings; and
+(g) Require fair treatment of all competitors by a distribution utility.
+(3) The commission shall establish  by rule competitive bidding requirements to protect
+retail electricity consumers against wholesale and retail market abuses  and anticompetitive
+practices and to ensure the diverse ownership of resources that generate electricity.  The
+rules shall, at a minimum:
+(a) Prohibit an electric company from including in its rates the cost of  a major resource
+unless the electric company must acquire the major resource to maintain the  reliability of
+the electrical company’s electrical system and that reliability cannot be  maintained by pro-
+curing electricity from a major resource that is not owned by the electric  company, by in-
+creasing the capacity of a major resource that is owned by the electric company or  through
+an unusual below-market opportunity, as identified by the commission by rule or order;
+[4]
+SB 978
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Require an electric company to use  a competitive bidding process when procuring
+electricity from a major resource to be included in its rates; and
+(c) Allow, through wholesale power purchase or sales  agreements or tolling agreements,
+for the transfer of ownership of  renewable energy certificates established under ORS
+469A.130 to an electric company without the transfer of ownership of the major resource
+associated with the renewable energy certificates to the electric company.
+[(3)] (4) An electric company shall provide the commission access to all books and records nec-
+essary for the commission to monitor the electric company and [ its affiliate  relationships. ] the af-
+filiates of the electric company.  The commission shall require  an electric company biannually to
+file a report detailing compliance with this subsection.
+SECTION 3.
+ ORS 757.676 is amended to read:
+757.676. The governing body of a consumer-owned utility  is authorized to determine whether and
+under what terms and conditions it will offer  its retail electricity consumers direct access, portfolio
+access or other forms of  access to electric service suppliers. In making such determination, the
+governing body of a consumer-owned utility shall consider such factors as it  deems appropriate. A
+consumer-owned utility shall have sole authority to determine:
+(1) The quality and nature of electric service, including but not  limited to different product and
+pricing options, which shall be made available to its retail electricity consumers.
+(2) The extent to which products and services will be unbundled  and the rates, tariffs, terms and
+conditions on which they may be offered.
+(3) Whether one or more pilot programs  for direct access, portfolio access or other forms of
+access to alternative suppliers will be offered.
+(4) Notwithstanding ORS 757.600 (10) and [ (35)] (36), what constitutes an  economic or uneco-
+nomic utility investment, the value of  such investments and, in the case of uneconomic utility in-
+vestments, the manner and means of mitigating such investments.
+(5) Whether and on what basis a transition charge will be adopted, assessed and collected from
+a retail electricity consumer located  within the utility’s service territory, including but not limited
+to a nonbypassable  distribution charge, the amount and period of recovery for the charges, the al-
+location of the charges among retail electricity consumers located within  the utility’s service terri-
+tory and the method of collecting such charges including but not  limited to whether to impose a
+nonbypassable distribution charge.
+(6) The manner  of collecting stranded distribution charges, systems benefit charges, franchise
+fees, taxes and payments made in lieu of taxes  from retail electricity consumers located within the
+utility’s service territory for electric power transactions using  transmission facilities, whether or
+not such transactions use  distribution facilities. The governing body may assign charges on the basis
+of usage, demand or any combination or method  it finds appropriate. Charges need not be assigned
+to specific facilities.
+(7) The collection from retail electricity consumers located within the utility’s  service territory
+through rates, fees or charges, including the imposition of a nonbypassable  distribution charge, in
+amounts sufficient to recover 100 percent of stranded costs imposed  by, or incurred pursuant to the
+purchase of cost-based electric power from, the Bonneville Power Administration. Such stranded cost
+charges may include  the difference in cost associated with purchasing electric power from the
+Bonneville Power Administration and the cost of purchasing a like and similar  amount of electric
+power at market prices.
+(8) The establishment of technical capability requirements, financial responsibility requirements
+[5]
+SB 978
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+and other protections for retail electricity consumers located within  the utility’s service territory
+and the consumer-owned utility in dealings with electric service suppliers.
+(9) Access to or use of the utility’s transmission facilities or distribution system  by retail elec-
+tricity consumers or electric service suppliers.
+(10) The utility’s qualification  standards for energy service suppliers in addition to any certi-
+fication  standards  established by the Public Utility Commission, provided that the qualification
+standards are uniformly applied to electricity service providers in a nondiscriminatory manner.
+SECTION 4.  ORS 59.025 is amended to read:
+59.025. The following securities are exempt from ORS 59.049 and 59.055:
+(1)(a) A security issued or guaranteed by the  United States or a state, or by a political subdi-
+vision, agency or other instrumentality of the United States or a state.
+(b) Any other security offered in connection with or  as part of a security described in paragraph
+(a) of this subsection, if the security cannot be severed and sold  separately from the security in
+paragraph (a) of this subsection.
+(2) A security issued or guaranteed by  a foreign government with which the United States is
+at the time of the sale maintaining diplomatic  relations, or by a state, province or political subdi-
+vision of the foreign government that has the power of taxation  or assessment, if the foreign gov-
+ernment, state, province or political subdivision recognizes the security as a valid obligation.
+(3) A security that  represents an interest in or a direct obligation of, or is guaranteed by, a
+national bank, a federal savings and loan association, a federal credit union, a  federal land bank or
+joint stock land bank or a national farm loan association.
+(4) Any of the following securities:
+(a) A security that, at  the time the security is issued, is listed or approved for listing on the
+New York Stock Exchange, the American Stock Exchange, the Midwest  Stock Exchange, the Pacific
+Stock Exchange or any other exchange that the Director of the Department of Consumer and  Busi-
+ness Services recognizes by rule;
+(b) A security that  the NASDAQ Stock Market, NASDAQ Options Market or NASDAQ OMX
+Futures Exchange has designated or approved for designation at the time the security was issued;
+(c) Any other security issued  by a person or entity that issues a security listed or designated
+under paragraph (a) or (b)  of this subsection, if the other security is of senior or substantially equal
+rank to the listed or designated security;
+(d) A  security issuable under rights or warrants listed or approved under paragraph (a), (b) or
+(c) of this subsection; or
+(e) A warrant or right to purchase or subscribe to  any security described in paragraph (a), (b),
+(c) or (d) of this subsection.
+(5) A security that maintains a rating that the director approves  in a recognized securities
+manual.
+(6) A security that represents an interest in or a direct obligation of, and that has been or  will
+be issued by, a bank, trust company, savings and loan association or  credit union and that is subject
+to the examination, supervision and control of a regulatory agency of this state.
+(7) Commercial paper issued, given or acquired in a bona fide way in the ordinary course of le-
+gitimate business, trade or commerce, if the commercial paper  is not made the subject of a public
+offering.
+(8) A security, the issuance  of which the Public Utility Commission supervises, regulates or
+controls, if the Public  Utility Commission supervises, regulates or controls the person or entity that
+[6]
+SB 978
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+issues the security.
+(9) Stock or membership  certificates that an agricultural cooperative corporation or irrigation
+association issues, if the agricultural cooperative corporation or  irrigation association issues the
+stock or membership certificate as evidence of membership  in the cooperative or association, as a
+patronage dividend or  as evidence of a member’s or a patron’s respective interests in reserves or
+patronage dividends. This exemption does not apply to a cooperative  or association that expects to
+engage in or is engaged in producing, processing or marketing forest products.
+(10) Stock or membership certificates that a fishing cooperative corporation issues to members
+of the  fishing cooperative corporation either for the purpose of showing membership or for the
+purpose of showing the members’ respective interests in reserves  or patronage dividends. For pur-
+poses of  this subsection, a fishing cooperative corporation is an association of persons engaged
+commercially in harvesting, marketing or processing products of aquatic life from fresh  and salt
+water, that is formed or operated under ORS chapter  62 with the purpose of commercially harvest-
+ing, marketing or processing such products or engaging in group bargaining with respect  to the sale
+of such products.
+(11) Stock or membership certificates issued by an association of consumers that is formed  or
+operated under ORS chapter 62 with the purpose of providing groceries to the association’s  mem-
+bers, if  the association issues the stock or certificates to members either for the purpose of showing
+membership in the association  or for the purpose of showing the members’ respective interests in
+patronage dividends or reserves. For purposes of the exemption under this subsection:
+(a) The price of stock or a membership certificate may not exceed $300.
+(b) The benefits must be limited  to discounts on purchases or patronage dividends, or any com-
+bination of discounts and dividends.
+(c) The association may issue only one stock or membership certificate to an individual.
+(12) Subject to conditions that the director adopts by rule, stock or membership  certificates that
+a renewable energy cooperative corporation issues to members of the  cooperative corporation, if the
+cooperative corporation issues the stock or certificates to members either to show membership in
+the cooperative corporation or to show the  members’ respective interests in or entitlement to assets,
+reserves or dividends. For the  purpose of this subsection, a renewable energy cooperative corpo-
+ration is an association  of persons that is organized as a cooperative corporation under ORS chapter
+62 with the purpose of developing and operating facilities to generate electricity  from renewable
+energy resources, as defined in ORS 757.600 [ (27)(a), (c) and (d) ] (28)(a), (c) and (d) , or  from a type
+of energy listed in ORS 469A.025 (1)(c).
+(13) Any security issued in connection with an employee stock purchase, savings, pension, profit
+sharing or similar employee benefit plan, provided that:
+(a) The plan meets the requirements for qualification under section  401 of the Internal Revenue
+Code of 1986; and
+(b) The terms of the plan are fair, just and equitable to employees under rules of the director.
+(14) Any security issued by a person that is:
+(a) Organized and  operated exclusively for a religious, educational, benevolent, fraternal, chari-
+table or reformatory purpose and not for pecuniary profit;
+(b) Organized or constituted so that  the person’s net earnings do not inure to the benefit of any
+person, private stockholder, or individual; and
+(c) Designated by rule of the director.
+(15) Any other security the director exempts by rule.
+[7]
+SB 978
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+SECTION 5. The amendments to ORS 757.646 by section 2 of this 2017 Act,  and rules
+adopted pursuant to ORS 757.646, as amended by section 2 of this  2017 Act, apply to the ac-
+quisition of major resources occurring on or after the operative date specified in section  6
+of this 2017 Act.
+SECTION 6. (1) The amendments to ORS 59.025, 757.600, 757.646 and 757.676 by  sections
+1 to 4 of this 2017 Act become operative on January 1, 2018.
+(2) The Public Utility Commission may  take any action before the operative date specified
+in subsection (1) of this section that  is necessary to enable the commission to exercise, on
+and after  the operative date specified in subsection (1) of this section, all the duties, powers
+and functions conferred on the  commission by the amendments to ORS 59.025, 757.600,
+757.646 and 757.676 by sections 1 to 4 of this 2017 Act.
+SECTION 7. This 2017 Act takes effect on the 91st day after the date on  which the 2017
+regular session of the Seventy-ninth Legislative Assembly adjourns sine die.
+[8]

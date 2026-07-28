@@ -1,0 +1,400 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-sb1519
+title: 'SB 1519 (2026R1): Changes the formula for determining permanent and temporary total disability
+  compensation.'
+doc_type: dataset_doc
+citation: 2026 Regular Session Senate Bill 1519
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1519/Enrolled
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: 395fc767e1e2359222b492e189b2d4b4a89bb4817f7c22a8f8535cd593c786ea
+snapshot_id: measure-2026r1-sb1519-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 656.005
+  - ORS 656.206
+  - ORS 656.210
+  - ORS 656.211
+  - ORS 656.212
+  - ORS 656.214
+  - ORS 656.225
+  - ORS 656.245
+  - ORS 656.262
+  - ORS 656.268
+  - ORS 656.340
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- sb
+session_key: 2026R1
+measure_prefix: SB
+measure_number: 1519
+prefix_meaning: Senate Bill
+catch_line: Changes the formula for determining permanent and temporary total disability compensation.
+minority_catch_line: null
+measure_summary: "\t<b>Digest: The Act would change how total disability comp is set. (Flesch Readability\
+  \ Score: 69.7).</b> \n\t[<i>Digest: The Act would pay a temp total disability comp claim based on the\
+  \ part of weekly pay that is at or below, or more than, 75% of the average weekly wage for the state.\
+  \ (Flesch Readability Score: 60.3).</i>] \n\t[<i>Provides that the percentage of a worker's wage paid\
+  \ as compensation during a period of temporary total disability shall be determined by the portion of\
+  \ the worker's wage that is less than or equal to, or greater than, 75 percent of the state average\
+  \ weekly wage.</i>] \n\t<b>Changes the formula for determining permanent and temporary total disability\
+  \ compensation.</b>"
+relating_to: Relating to total disability.
+relating_to_full: Relating to total disability.
+at_the_request_of: (at the request of Senate Interim Committee on Labor and Business)
+lc_number: 178
+measure_created_date: '2026-01-14T10:09:44'
+measure_modified_date: '2026-04-06T11:53:20'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 21631
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 656.005
+  - ORS 656.206
+  - ORS 656.210
+  - ORS 656.211
+  - ORS 656.212
+  - ORS 656.214
+  - ORS 656.225
+  - ORS 656.245
+  - ORS 656.262
+  - ORS 656.268
+  - ORS 656.340
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1519`.
+
+# SB 1519 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1519, 2026 Regular Session (2026R1)
+- **At the request of:** (at the request of Senate Interim Committee on Labor and Business)
+- **LC number:** 178
+- **Created:** 2026-01-14T10:09:44
+- **Metadata last modified (upstream):** 2026-04-06T11:53:20
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 21631 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1519/Enrolled>.
+
+## Summary
+
+**Catchline:** Changes the formula for determining permanent and temporary total disability compensation.
+
+**Relating to:** Relating to total disability.
+
+<b>Digest: The Act would change how total disability comp is set. (Flesch Readability Score: 69.7).</b> 
+ [<i>Digest: The Act would pay a temp total disability comp claim based on the part of weekly pay that is at or below, or more than, 75% of the average weekly wage for the state. (Flesch Readability Score: 60.3).</i>] 
+ [<i>Provides that the percentage of a worker's wage paid as compensation during a period of temporary total disability shall be determined by the portion of the worker's wage that is less than or equal to, or greater than, 75 percent of the state average weekly wage.</i>] 
+ <b>Changes the formula for determining permanent and temporary total disability compensation.</b>
+
+**RelatingToFull (verbatim upstream field):** Relating to total disability.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+Senate Bill 1519
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Senate Interim Committee on Labor and Business)
+CHAPTER .................................................
+AN ACT
+Relating to total disability; creating new provisions; and  amending ORS 656.206, 656.210 and 656.211.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 656.210 is amended to read:
+656.210. [(1) When the total disability is only temporary, the worker shall receive  during the period
+of that total disability compensation equal to 66-2/3 percent of wages, but not more than 133  percent
+of the average weekly wage nor less than the amount of 90 percent of  wages a week or the amount of
+$50 a week, whichever amount is less. ]
+(1)(a) During a period of  total disability that is temporary, the worker shall receive
+compensation equal to:
+(A) Seventy-five percent of the worker’s wage that is equal to or less than 75 percent of
+the average weekly wage in effect on the date  of injury, but not less than the amount of 90
+percent of the worker’s wage a week or the amount of $50 a week, whichever  amount is less;
+and
+(B) Sixty-five percent of the worker’s wage that  is greater than 75 percent of the average
+weekly wage, but not more than 133 percent of the average weekly wage, in effect on the date
+of injury.
+(b) Notwithstanding the limitation imposed by this  subsection, an injured worker who is not
+otherwise  eligible  to receive an increase in benefits for the fiscal year in which compensation is paid
+shall have the benefits increased each  fiscal year by the percentage which the applicable average
+weekly wage has increased since the previous fiscal year.
+(2)(a) For the purpose of this section, the weekly  wage of workers shall be [ ascertained] calcu-
+lated:
+(A) For  workers employed in one job at the time of injury, by multiplying the daily wage the
+worker was receiving by the number of days per week that the worker was regularly employed; or
+(B) For  workers employed in more than one job at the time of injury, by adding all earnings the
+worker was receiving from all subject employment.
+(b) Notwithstanding paragraph (a)(B) of this subsection, the weekly  wage calculated under par-
+agraph (a)(A) of this subsection shall be used for workers  employed in more than one job at the time
+of injury unless the insurer, self-insured employer or assigned claims  agent for a noncomplying em-
+ployer  receives:
+(A) Within 30 days of receipt of the initial claim, notice that the worker was employed  in more
+than one job with a subject employer at the time of injury; and
+Enrolled Senate Bill 1519 (SB 1519-A) Page 1
+(B) Within  60 days of the date of mailing a request for verification, verifiable documentation of
+wages from such additional employment.
+(c) Notwithstanding ORS 656.005  (7)(c), an injury to a worker employed in more than one job
+at the time of injury is not disabling if no temporary disability benefits  are payable for time lost
+from the job at injury. Claim costs incurred as a  result of supplemental temporary disability benefits
+paid as provided in subsection (5) of this section may not be included  in any data used for
+ratemaking or individual employer rating or dividend calculations by  an insurer, a rating organiza-
+tion licensed pursuant to ORS  chapter 737, the State Accident Insurance Fund Corporation or the
+Department of  Consumer and Business Services if the injured worker is not eligible for permanent
+disability benefits or temporary disability benefits for time lost from the job at injury.
+(d) For the purpose of this section:
+(A) The benefits of a worker who incurs an injury shall be based on the wage of the worker  at
+the time of injury.
+(B) The benefits of  a worker who incurs an occupational disease shall be based on the wage of
+the worker at the time there is medical verification that the worker is  unable to work because of
+the disability caused by the  occupational disease. If the worker is not working at the time that there
+is medical verification that the worker is unable to  work because of the disability caused by the
+occupational disease, the benefits shall be based on the wage of the worker at the worker’s last
+regular employment.
+(e) As used in this subsection, “regularly  employed” means actual employment or availability for
+such employment. For workers not regularly employed  and for workers with no remuneration or
+whose remuneration is not based solely upon daily or weekly wages, the Director  of the Department
+of Consumer and Business Services,  by rule, may prescribe methods for establishing the worker’s
+weekly wage.
+(3) No disability payment is recoverable for  temporary total or partial disability suffered during
+the first three calendar days after the worker leaves  work or loses wages as a result of the
+compensable injury unless the worker is totally disabled  after the injury and the total disability
+continues  for  a period of 14 consecutive days or unless the worker is admitted as an inpatient to a
+hospital within 14 days of the first  onset of total disability. If the worker leaves work or loses wages
+on the day of the injury due to the injury, that day shall be considered  the first day of the three-day
+period.
+(4) When an injured worker with an accepted disabling compensable injury is required to  leave
+work to receive compensable medical  services for the compensable injury, the worker shall receive
+temporary disability benefits calculated  pursuant to ORS 656.212 for the period during which the
+worker is absent, until such time as the worker is determined to be medically stationary. However,
+benefits under this  subsection are not payable if wages are paid for the period of absence by the
+employer. An insurer may require a worker to confirm the period  during which the worker is absent
+from work to  receive compensable medical services under this subsection. The notice requirement
+under ORS 656.262 (4)(j) does not apply to temporary disability  benefits paid pursuant to this sub-
+section.
+(5)(a) The insurer of the employer at injury or the self-insured employer at injury, may  elect to
+be responsible for payment of supplemental temporary disability benefits to a worker employed in
+more than one job at the time of injury. In accordance with rules adopted by  the director, if the
+worker’s weekly wage is  determined under subsection (2)(a)(B) of this section, the insurer or self-
+insured employer shall be reimbursed from the Workers’ Benefit Fund  for the amount of temporary
+disability benefits paid that exceeds the amount payable pursuant  to subsection (2)(a)(A) of this
+section had the worker been employed in only one job at the time of  injury. Such reimbursement
+shall include an administrative fee  payable to the insurer or self-insured employer pursuant to rules
+adopted by the director.
+(b) If  the insurer or self-insured employer elects not to pay the supplemental temporary disabil-
+ity benefits for a worker employed in more than  one job at the time of injury, the director shall
+Enrolled Senate Bill 1519 (SB 1519-A) Page 2
+either administer and pay the supplemental benefits directly or shall assign responsibility  to ad-
+minister and process the payment to a paying agent selected by the director.
+(6) The director shall adopt rules for  the payment and reimbursement of supplemental temporary
+disability benefits under this section.
+SECTION 2.  ORS 656.211 is amended to read:
+656.211. As used in ORS 656.210 (1) (b), “average weekly  wage” means the average weekly wage
+of workers in covered employment in Oregon, as determined  by the Employment Department, for the
+last quarter of the calendar year preceding the fiscal year  in which compensation is paid and as
+computed by the Employment Department as of May 15 of each year.
+SECTION 3. The amendments to ORS 656.210 and 656.211 by sections 1 and 2 of this  2026
+Act apply to claims with a date of injury on or after January 1, 2027.
+SECTION 4.  ORS 656.206 is amended to read:
+656.206. (1) As used in this section:
+(a) “Essential functions” means the primary tasks associated with the job.
+(b) “Materially improved medically” means an actual change for the better in  the worker’s
+medical condition that is supported by objective findings.
+(c) “Materially improved vocationally” means an actual change for the better in the:
+(A) Worker’s vocational capability; or
+(B) Likelihood that the worker can return to work in a gainful and suitable occupation.
+(d) “Permanent total disability” means, notwithstanding ORS 656.225, the loss, including  preex-
+isting disability, of use or function of any portion  of the body which permanently incapacitates the
+worker from regularly performing work at a gainful and suitable occupation.
+(e) “Regularly performing work” means the ability of the worker to discharge the  essential
+functions of the job.
+(f) “Suitable occupation” means one that the worker has the  ability and the training or experi-
+ence to perform, or an occupation that the worker is able to perform after rehabilitation.
+(g) “Wages” means wages as determined under ORS 656.210.
+[(2) If permanent total disability results from a  worker’s injury, the worker shall receive during the
+period of  that disability compensation benefits equal to 66-2/3 percent of wages, no more than 133 per-
+cent of the average weekly wage or no less than 33 percent of the average weekly wage. ]
+(2) During the period of permanent total disability that results from a worker’s injury,
+the worker shall receive compensation equal to:
+(a) Seventy-five percent of the worker’s wage that  is equal to or less than 75 percent of
+the average weekly wage, but not less than 33 percent of the average weekly wage, in effect
+on the date of injury; and
+(b) Sixty-five percent of the worker’s wage that is greater than 75 percent of  the average
+weekly wage, but not more than 133 percent of the average weekly wage, in effect on the date
+of injury.
+(3) A worker has the burden of proving permanent total  disability status and must establish that
+the worker is willing to seek regular gainful employment and that the worker has made reasonable
+efforts to obtain such employment.
+(4) When requested by the Director  of the Department of Consumer and Business Services, a
+worker who receives permanent  total disability benefits shall file on a form provided by the director,
+a sworn statement of the worker’s  gross annual income for the preceding year along with such other
+information as the director considers necessary to determine whether  the worker regularly performs
+work at a gainful and suitable occupation.
+(5) Each  insurer shall reexamine periodically each permanent total disability claim for which the
+insurer has current payment responsibility  to determine whether the worker has materially im-
+proved, either medically or vocationally, and is no longer permanently incapacitated from  regularly
+performing work at a gainful and suitable occupation. Reexamination must  be conducted every two
+years or at such  other more frequent interval as the director may prescribe. Reexamination must
+Enrolled Senate Bill 1519 (SB 1519-A) Page 3
+include such medical examinations, vocational evaluations, reports and  other records as the insurer
+considers necessary or the director may require.
+(6)(a) If a worker receiving permanent total disability benefits is found to be materially improved
+and capable of regularly performing work at a gainful and suitable occupation, the insurer or  self-
+insured employer shall  issue a notice of closure pursuant to ORS 656.268. Permanent total disability
+benefits shall be paid through the date of the notice of closure. Notwithstanding ORS  656.268 (5),
+if a worker objects to  a notice of closure issued under this subsection, the worker shall request a
+hearing. If the worker requests a hearing on the notice of closure before the Hearings  Division of
+the Workers’ Compensation Board within 30 days of the date of the notice  of closure, the insurer
+or self-insured employer shall  continue payment of permanent total disability benefits until an order
+of the Hearings Division or a subsequent order affirms the notice of  closure or until another order
+that terminates the worker’s benefits  becomes final. If the worker requests a hearing on the notice
+of closure more than 30 days from the date of the notice  of closure but before the 60-day period for
+requesting a hearing expires,  the insurer or self-insured employer shall resume paying permanent
+total disability benefits from the date  the hearing is requested and shall continue payment of bene-
+fits until an order of the Hearings Division or a subsequent order  affirms the notice of closure or
+until another order that terminates the worker’s benefits  becomes final. If the notice of closure is
+upheld by the Hearings Division, the  insurer or self-insured employer must be reimbursed from the
+Workers’ Benefit Fund for the amount of permanent  total disability benefits paid after the date of
+the notice of closure issued under this subsection.
+(b) An insurer or self-insured employer must establish that the condition of a worker who  is
+receiving permanent total disability benefits has materially improved by a preponderance of the ev-
+idence presented at hearing.
+(c) Medical examinations or vocational evaluations used to support the issuance of a notice of
+closure  under  this subsection must include at least one report in which the author personally ob-
+served the worker.
+(d) Notwithstanding section 54 (3), chapter 2, Oregon Laws  1990, the Hearings Division of the
+Workers’ Compensation Board may request  the director to order a medical arbiter examination of
+an injured worker who has requested a hearing under this subsection.
+(7) A  worker who has had permanent total disability benefits terminated under this section by
+an order that has become final is eligible for vocational assistance pursuant  to ORS 656.340.
+Notwithstanding ORS 656.268 (10), if a worker has enrolled in and is actively engaged  in a training
+program, when vocational assistance provided under this section ends or the worker ceases to be
+enrolled and actively engaged in the training program, the insurer or  the self-insured employer shall
+determine the extent of disability pursuant to ORS 656.214.
+(8) A worker receiving permanent total disability benefits is required, if requested by the  di-
+rector, the insurer or the  self-insured employer, to submit to a vocational evaluation at a time rea-
+sonably convenient to the worker as may be provided by the rules of the director. No  more than
+three evaluations  may be requested except after notification to and authorization by the director.
+If the worker refuses to submit to or obstructs a vocational evaluation, the rights of the  worker to
+compensation must be suspended  with the consent of the director until the evaluation has taken
+place, and no compensation is payable for the period during which the worker refused to  submit to
+or obstructed the evaluation. The insurer or self-insured employer shall  pay the costs of the evalu-
+ation and related services that are  reasonably necessary to allow the worker to attend the evalu-
+ation requested under this  subsection. As used in this subsection, “related services” includes, but
+is not limited to, wages, child care, travel, meals and lodging.
+(9) Notwithstanding any other provisions of this chapter, if a worker receiving  permanent total
+disability incurs a new compensable injury, the worker’s entitlement to compensation for the new
+injury shall be limited to medical benefits pursuant to  ORS 656.245 and permanent partial disability
+benefits for impairment, as determined in the manner set forth in ORS 656.214 (2).
+(10) When a worker  eligible for benefits under this section returns to work, if the combined total
+of the worker’s post-injury wages plus permanent total disability benefit exceeds the worker’s  wage
+Enrolled Senate Bill 1519 (SB 1519-A) Page 4
+at the time of injury, the worker’s permanent total disability benefit must be reduced by the  amount
+the worker’s wages plus statutory permanent total disability  benefit exceeds the worker’s wage at
+injury.
+(11) For purposes of this section:
+(a) A gainful occupation for workers with a date of injury prior to January 1, 2006, who were:
+(A) Employed continuously for 52 weeks prior to the injury, is  an occupation that provides
+weekly wages that are the lesser of the most recent federal poverty  guidelines for a family of three
+that are applicable to Oregon residents and that are published  annually in the Federal Register by
+the United States  Department of Health and Human Services or 66-2/3 percent of the worker’s av-
+erage weekly wages from all employment for the 52 weeks prior to the date of injury.
+(B) Not employed continuously for the 52 weeks prior to the date of injury, but who  were em-
+ployed for at least four weeks prior to the date of injury, is an occupation  that provides weekly
+wages that are the lesser of the most recent federal poverty guidelines for a family of  three that
+are applicable to Oregon residents  and that are published annually in the Federal Register by the
+United States Department of Health and Human Services or 66-2/3 percent  of the worker’s average
+weekly wage from all employment for the 52 weeks prior to the date of injury based  on weeks of
+actual employment, excluding any extended periods of unemployment.
+(C) Employed for less than four weeks prior to the date of injury with no other  employment
+during the 52 weeks prior  to the date of injury, is an occupation that provides weekly wages that
+are the lesser of the most recent  federal poverty guidelines for a family of three that are applicable
+to Oregon residents and that  are published annually in the Federal Register by the United States
+Department of Health and  Human Services or 66-2/3 percent of the average weekly wages intended
+by the parties at the time of initial hire.
+(b) A  gainful occupation for workers with a date of injury on or after January 1, 2006, who were:
+(A) Employed continuously for 52  weeks prior to the injury, is an occupation that provides
+weekly wages that are the lesser of the most recent federal poverty  guidelines for a family of three
+that are applicable to Oregon residents and  that are published annually in the Federal Register by
+the United States Department of Health and Human Services or 66-2/3 percent of the  worker’s av-
+erage weekly wages from all employment for the 52 weeks prior to  the date of injury adjusted by
+the percentage of change in the applicable federal poverty guidelines for a family of three  from the
+date of injury to the date of evaluation of the extent of the worker’s disability.
+(B) Not employed continuously for the 52 weeks prior to the date of injury, but who  were em-
+ployed for at least four weeks prior to the date of injury, is an occupation  that provides weekly
+wages that are the lesser of the most recent federal poverty guidelines for a family of  three that
+are applicable to Oregon residents  and that are published annually in the Federal Register by the
+United States Department of Health and Human Services or 66-2/3 percent  of the worker’s average
+weekly wage from all employment for the 52 weeks prior to the date of injury based  on weeks of
+actual employment, excluding any extended periods of unemployment and as adjusted by the per-
+centage of change in the applicable federal poverty guidelines for a family of three  from the date
+of injury to the date of evaluation of the extent of the worker’s disability.
+(C) Employed for less than four weeks prior to the date of injury with no other  employment
+during the 52 weeks prior  to the date of injury, is an occupation that provides weekly wages that
+are the lesser of the most recent  federal poverty guidelines for a family of three that are applicable
+to Oregon residents and that  are published annually in the Federal Register by the United States
+Department of Health and  Human Services or 66-2/3 percent of the average weekly wages intended
+by the parties at the time of initial hire adjusted by  the percentage of change in the applicable
+federal poverty guidelines for a family of three from  the date of injury to the date of evaluation of
+the extent of the worker’s disability.
+SECTION 5.
+The amendments to ORS 656.206 by section 4 of  this 2026 Act apply to claims
+with a date of injury on or after January 1, 2027.
+Enrolled Senate Bill 1519 (SB 1519-A) Page 5
+Passed by Senate February 27, 2026
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House March 3, 2026
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 1519 (SB 1519-A) Page 6
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 656.005, ORS 656.206, ORS 656.210, ORS 656.211, ORS 656.212, ORS 656.214, ORS 656.225, ORS 656.245, ORS 656.262, ORS 656.268, ORS 656.340
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-28, sha256 `395fc767e1e2359222b492e189b2d4b4a89bb4817f7c22a8f8535cd593c786ea` (snapshot `_meta/snapshots/measure-2026r1-sb1519-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1519/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `8daafd7569f2eb32fe19ca6dc118148cc9a9c57e8e82aa8d67c6247a60e6a51d` (snapshot `_meta/snapshots/measure-2026r1-sb1519-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1519/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1519` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

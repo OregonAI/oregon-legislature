@@ -1,0 +1,291 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-hb4093
+title: 'HB 4093 (2026R1): Directs the Bureau of Labor and Industries to create certain guidance and informational
+  materials to assist employers and employees.'
+doc_type: dataset_doc
+citation: 2026 Regular Session House Bill 4093
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4093/Introduced
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: c07f328624ba5fa45d5231e5cdd09033af22a04dee4251f4fd0ceb44f1dc787d
+snapshot_id: measure-2026r1-hb4093-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.111
+  - ORS 442.015
+  - ORS 659A.103
+  - ORS 659A.104
+  - ORS 659A.112
+  - ORS 659A.118
+  - ORS 659A.121
+  - ORS 659A.142
+  - ORS 659A.400
+  - ORS 675.510
+  - ORS 676.160
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- hb
+session_key: 2026R1
+measure_prefix: HB
+measure_number: 4093
+prefix_meaning: House Bill
+catch_line: Directs the Bureau of Labor and Industries to create certain guidance and informational materials
+  to assist employers and employees.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act makes new laws with respect to people with disabilities. (Flesch Readability\
+  \ Score: 64.9). \n\tDirects the Bureau of Labor and Industries to create certain guidance and informational\
+  \ materials to assist employers and employees. \n\tProhibits employers from denying an employee's request\
+  \ to have [<i>an authorized representative</i>] <b>a support person</b> accompany the employee in discussions\
+  \ concerning reasonable accommodation<b> subject to specific conditions</b>. \n\tExtends prohibition\
+  \ against discrimination in government services, programs and activities to local governments. \n\t\
+  Prohibits employers from using minimum physical requirements [<i>to screen out persons with disabilities</i>]\
+  \ <b>in a job posting without connecting the physical requirements to the essential functions of the\
+  \ job</b>."
+relating_to: Relating to protections for persons with disabilities.
+relating_to_full: Relating to protections for persons with disabilities; creating new provisions; and
+  amending ORS 659A.112, 659A.118 and 659A.142.
+at_the_request_of: null
+lc_number: 239
+measure_created_date: '2026-01-17T12:08:16'
+measure_modified_date: '2026-02-13T18:05:02'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 11790
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.111
+  - ORS 442.015
+  - ORS 659A.103
+  - ORS 659A.104
+  - ORS 659A.112
+  - ORS 659A.118
+  - ORS 659A.121
+  - ORS 659A.142
+  - ORS 659A.400
+  - ORS 675.510
+  - ORS 676.160
+  from_relating_to_full:
+  - ORS 659A.112
+  - ORS 659A.118
+  - ORS 659A.142
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4093`.
+
+# HB 4093 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** House Bill 4093, 2026 Regular Session (2026R1)
+- **LC number:** 239
+- **Created:** 2026-01-17T12:08:16
+- **Metadata last modified (upstream):** 2026-02-13T18:05:02
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 11790 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4093/Introduced>.
+
+## Summary
+
+**Catchline:** Directs the Bureau of Labor and Industries to create certain guidance and informational materials to assist employers and employees.
+
+**Relating to:** Relating to protections for persons with disabilities.
+
+Digest: The Act makes new laws with respect to people with disabilities. (Flesch Readability Score: 64.9). 
+ Directs the Bureau of Labor and Industries to create certain guidance and informational materials to assist employers and employees. 
+ Prohibits employers from denying an employee's request to have [<i>an authorized representative</i>] <b>a support person</b> accompany the employee in discussions concerning reasonable accommodation<b> subject to specific conditions</b>. 
+ Extends prohibition against discrimination in government services, programs and activities to local governments. 
+ Prohibits employers from using minimum physical requirements [<i>to screen out persons with disabilities</i>] <b>in a job posting without connecting the physical requirements to the essential functions of the job</b>.
+
+**RelatingToFull (verbatim upstream field):** Relating to protections for persons with disabilities; creating new provisions; and amending ORS 659A.112, 659A.118 and 659A.142.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4093
+Sponsored by Representative NELSON, Senators GELSER  BLOUIN, MANNING JR, Representatives CHAICHI,
+CHOTZEN, MUNOZ, RIEKE SMITH, WISE, Senators  FREDERICK, GORSEK; Representatives ISADORE,
+MCDONALD, WALTERS, Senator PATTERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes new laws with respect to people with disabilities.  (Flesch Readability
+Score: 64.9).
+Directs the Bureau of Labor and Industries to  create certain guidance and informational mate-
+rials to assist employers and employees.
+Prohibits employers from denying an employee’s  request to have an authorized representative
+accompany the employee in discussions concerning reasonable accommodation.
+Extends prohibition against discrimination in government services, programs and  activities to
+local governments.
+Prohibits employers from  using minimum physical requirements to screen out persons with dis-
+abilities.
+A BILL FOR AN ACT
+Relating to protections for persons with disabilities;  creating new provisions; and amending ORS
+659A.112, 659A.118 and 659A.142.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2026 Act is added to and made a part of ORS 659A.103 to
+659A.145.
+SECTION 2. The Bureau of  Labor and Industries shall create guidance and informational
+materials to assist employers in complying with the provisions of ORS  659A.112, 659A.118 and
+659A.121 concerning reasonable accommodation and to assist employees  in understanding the
+rights and protections provided under those sections. The bureau shall make  the materials
+available to employers on the bureau’s website.
+SECTION 3.  ORS 659A.112 is amended to read:
+659A.112. (1) It is an unlawful employment practice for any employer to refuse to hire, employ
+or promote, to bar or discharge from employment or to discriminate in compensation or in terms,
+conditions or privileges of employment on the basis of disability.
+(2) An employer violates subsection (1)  of this section if the employer does any of the following:
+(a) The employer limits, segregates or classifies a job applicant or employee in  a way that ad-
+versely affects the opportunities or  status of the applicant or employee because the applicant or
+employee has a disability.
+(b) The employer participates in a contractual or other  arrangement or relationship that has the
+effect of subjecting a qualified job applicant or employee with a  disability to the discrimination
+prohibited by ORS 659A.112 to 659A.139, including but not limited to participating  in a relationship
+with an employment or referral agency, a labor union, an organization providing fringe benefits to
+an employee of the employer, or an organization providing training and apprenticeship programs.
+(c) The employer utilizes standards, criteria or methods of administration that have the effect
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 239
+of discrimination on the basis of  disability, or that perpetuate the discrimination of others who are
+subject to common administrative control.
+(d) The employer excludes or otherwise denies equal jobs or benefits  to a qualified individual
+because the individual is known to have a relationship or association with an individual  with a
+disability.
+(e) The employer does not  make reasonable accommodation to the known physical or mental
+limitations of a qualified individual with a disability who is a job applicant or employee,  unless the
+employer can demonstrate that the accommodation would  impose an undue hardship on the opera-
+tion of the business of the employer.
+(f) The employer denies employment opportunities to a job  applicant or employee who is a
+qualified individual with a disability, if the denial is based on the need of the employer to  make
+reasonable accommodation to the physical or mental impairments of the employee or applicant.
+(g) The employer uses qualification standards, employment tests  or other selection criteria, in-
+cluding those based on  an individual’s uncorrected vision or unaided hearing, that screen out or
+tend to screen  out an individual with a disability or a class of individuals with disabilities unless
+the standard, test or  other selection criterion, as used by the employer, is shown to be job-related
+for the position in question and is consistent with business necessity.
+(h) The employer  fails to select and administer tests relating to employment in the most effective
+manner to ensure that when the test is administered to a job applicant or  employee who has a dis-
+ability that impairs sensory, manual or speaking skills, the test results accurately reflect the  skills,
+aptitude or other  characteristics of the applicant or employee that the test purports to measure,
+rather than reflecting the impaired sensory, manual or speaking  skills of the employee or applicant.
+The provisions of this paragraph do not limit the ability of an employer to select or  administer tests
+designed to measure sensory, manual or speaking skills of an employee or job applicant.
+(i) The employer uses minimum physical requirements set forth in a job posting to screen
+out individuals with disabilities without connecting the physical requirements to the essential
+functions of the job.
+SECTION 4.
+ ORS 659A.118 is amended to read:
+659A.118. (1) For the purposes of ORS 659A.112, reasonable accommodation may include:
+(a) Making existing facilities used by employees readily  accessible to and usable by individuals
+with disabilities.
+(b) Job restructuring, part-time or  modified work schedules or reassignment to a vacant position.
+(c) Acquisition or modification of equipment or devices.
+(d) Appropriate adjustment or modification of examinations, training materials or policies.
+(e) The provision of qualified readers or interpreters.
+(2) An employer is not required to  provide a reasonable accommodation to an individual who
+satisfies the criteria for being an individual with  a disability for the purposes of ORS 659A.103 to
+659A.145 solely because the individual meets the criterion described in ORS 659A.104 (1)(c).
+(3)(a) An employer  may not deny a request by an employee to have an authorized repre-
+sentative accompany the employee in any discussion  over matters concerning reasonable
+accommodation.
+(b) The authorized representative accompanying the employee shall keep confidential any
+of the employee’s personal health information that is revealed during the course  of the dis-
+cussion unless disclosure is required by state or federal law or by court order.
+(c) As used in this subsection, “authorized representative” means any of the following:
+(A) The labor organization that is the employee’s  exclusive collective bargaining repre-
+sentative.
+(B) The employee’s authorized legal representative.
+(C) The social worker  assigned to the employee who is authorized under ORS 675.510 to
+675.600 to practice regulated social work.
+(D) An organization or individual,  chosen by the employee, who advocates on behalf of
+persons with disabilities.
+SECTION 5.
+ ORS 659A.142 is amended to read:
+659A.142. (1) As used in this section:
+(a) “Health care facility” has the meaning given that term in ORS 442.015.
+(b) “Health professional regulatory board” has the meaning given that term in ORS 676.160.
+(c) “Local government” means any city, county, school  district or other special district
+in this state.
+[(c)] (d) “Medical resources” includes but is not limited to:
+(A) Medical devices or equipment.
+(B) Prescription drugs.
+(C) Laboratory testing.
+[(d)] (e) “Provider” means:
+(A) An individual licensed or certified by a health professional regulatory board.
+(B) A health care facility.
+[(e)] (f) “State government” has the meaning given that term in ORS 174.111.
+(2) It is an unlawful employment practice for an employment agency to fail or  refuse to refer for
+employment, or otherwise  discriminate against, any individual because that individual has a disa-
+bility, or to classify or refer for employment any individual because that individual  has a disability.
+(3) It is an unlawful employment practice for a labor  organization, because an individual has a
+disability, to exclude or to expel from its membership such individual  or to discriminate in any way
+against such individual.
+(4) It is an unlawful practice for any place  of public accommodation, resort or amusement as
+defined in ORS 659A.400, or  any person acting on behalf of such place, to make any distinction,
+discrimination or restriction because a customer or patron is an individual with a disability.
+(5)(a) It is an unlawful practice for state or local  government to exclude an individual from
+participation in or deny an individual the benefits  of the services, programs or activities of state
+or local government or to make any distinction, discrimination or restriction because the individual
+has a disability.
+(b) Paragraph (a) of this subsection  is intended to ensure equal access to available services,
+programs and activities of state and local government.
+(c) Paragraph (a) of this subsection is not intended to:
+(A) Create an independent entitlement to any  service, program or activity of state or local
+government; or
+(B) Require state or local  government to take any action that state or local  government can
+demonstrate would result in a fundamental alteration in the nature of a service, program or  activity
+of state or local government or would result in  undue financial or administrative burdens on state
+or local government.
+(6)(a) It is an unlawful practice for a provider or any person acting on behalf of a  provider to
+discriminate by doing any of the following based on the patient’s race, color, national  origin, sex,
+sexual orientation, gender identity, age or disability:
+(A) Deny medical treatment to the patient that is likely to benefit  the patient based on an in-
+dividualized assessment of the patient using objective medical evidence; or
+(B) Limit or restrict in any manner the allocation of medical resources to the patient.
+(b) In determining whether medical treatment  is likely to benefit a patient under paragraph
+(a)(A) of this subsection, a provider shall consult with the patient and others legally authorized  to
+act on behalf of the patient, if available.
+(c) This subsection does not:
+(A) Restrict the authority  of a patient, or an individual legally authorized to act on behalf of a
+patient, to consent to or decline medical treatment;
+(B) Require the provision of medical treatment that is prohibited by state or federal law; or
+(C) Restrict a provider, after completing the individualized assessment  described in paragraph
+(a)(A) of this subsection and the consultation described in  paragraph (b) of this subsection, from
+providing objective information to the patient about the risks and benefits of treatment.
+(7) Receipt or alleged receipt  of treatment for a mental disorder does not constitute evidence
+of an individual’s inability to acquire, rent or maintain property.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 659A.112, ORS 659A.118, ORS 659A.142
+- From bill text (Introduced version): ORS 174.111, ORS 442.015, ORS 659A.103, ORS 659A.104, ORS 659A.112, ORS 659A.118, ORS 659A.121, ORS 659A.142, ORS 659A.400, ORS 675.510, ORS 676.160
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-28, sha256 `c07f328624ba5fa45d5231e5cdd09033af22a04dee4251f4fd0ceb44f1dc787d` (snapshot `_meta/snapshots/measure-2026r1-hb4093-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4093/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4093` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,1977 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Senate Bill 505
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Judiciary)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs district attorney to ensure proceedings before grand jury are recorded. Authorizes  dis-
+trict attorney to delegate recording requirement to grand juror, shorthand reporter  or other person
+designated by  the district attorney. Provides for phase-in of recording process based on population
+of district.  Requires audio recording or reporting by shorthand reporter. Specifies matters that must
+be recorded and matters that may not be recorded.
+Creates procedures for release of audio recordings or shorthand reporter reports.  Provides pro-
+cess for prosecuting attorney to request  and enter protective order prohibiting or restricting access
+to recordings or reports. Requires prosecuting attorney to  describe specific portion of recording or
+report to be redacted. Specifies when recording or report, or transcript prepared  from recording or
+report, may be used in court proceedings.
+Allows statements of certain persons to be received through testimony of peace officer.
+Prohibits release of grand jury proceeding recordings, reports or transcripts as public record.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to  recording of grand jury proceedings; creating new provisions; amending ORS 132.090,
+132.320, 132.430, 132.550, 135.405 and 192.502; repealing ORS 132.080; and declaring an emer-
+gency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1)(a) The district attorney of a county  comprising a judicial district with a
+population between 150,000 and 300,000 or over 700,000 shall ensure that  proceedings before
+the grand jury are recorded in the manner described in this section  and section 2 of this 2017
+Act.
+(b) The district attorney shall designate the types of audio electronic recording devices
+that are suitable for recording grand jury proceedings and  shall provide and maintain the
+suitable audio electronic recording devices to record grand jury proceedings,  unless the dis-
+trict attorney delegates the recording to a shorthand reporter as described in subsection (2)
+of this section.
+(c) The district attorney and the presiding judge of  the judicial district may enter into
+an agreement concerning  access to recording equipment and the premises in which the grand
+jury fulfills  its obligations in order to carry out the provisions of this section and section 2
+of this 2017 Act. The agreement may identify the conditions and terms of access.
+(2)(a) A person or persons designated by the district attorney shall be permitted to attend
+all proceedings of the grand jury for the purpose  of electronically recording the proceedings
+described in section 2 of this 2017 Act. The  person or persons shall be compensated from
+funds specifically appropriated for that purpose by the Legislative Assembly.
+(b) Notwithstanding paragraph (a) of this subsection, the district attorney may delegate
+the recording to:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2059
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) A grand juror, after providing training to the  grand juror concerning the recording
+equipment and requirements; or
+(B) A certified shorthand reporter as defined in ORS 8.415 or a  shorthand reporter cer-
+tified by a national certification association, who shall be permitted to attend all proceedings
+of the grand jury for the purpose of taking accurate notes. The certified shorthand  reporter
+shall be compensated from funds specifically appropriated for that purpose by  the Legislative
+Assembly. The shorthand reporter shall be  sworn to correctly report the proceedings of the
+grand jury described in section 2 of this 2017 Act and to  keep secret any information con-
+cerning the grand jury proceedings.
+(c) A  person or persons recording the proceedings, including a grand juror or a shorthand
+reporter, is not subject to subpoena, and may  not disclose any information, concerning the
+grand jury proceedings without prior court order.
+(3)(a) A failure of an audio electronic  recording device to accurately record all or part
+of a grand jury proceeding does not affect the validity of any prosecution or indictment.
+(b) A failure of a person to operate an audio electronic recording  device in a manner that
+accurately records all or part of a grand jury proceeding, as required, does not affect the
+validity of any prosecution or indictment.
+(c) A failure of a shorthand reporter to prepare accurate notes or  an accurate report of
+all or part of  a grand jury proceeding, as required, does not affect the validity of any prose-
+cution or indictment.
+(4) This section and section 2 of this 2017 Act  do not apply to grand jury proceedings
+under ORS 132.440 that inquire into the condition and management of correctional facilities
+and youth correction facilities.
+SECTION 2.
+(1) Except as provided in subsection (2) of this section, the person or persons
+designated by the district  attorney described in section 1 (2)(a) of this 2017 Act, or the grand
+juror or shorthand reporter  described in section 1 (2)(b) of this 2017 Act, who is recording
+grand jury proceedings in a judicial district with a population between 150,000 and  300,000 or
+over 700,000 shall record all matters that come before the grand jury, including:
+(a) The case name and number;
+(b) The names of witnesses appearing before the grand jury;
+(c) Each statement made or question asked by the prosecuting attorney; and
+(d) Each question asked of, and each response given  by, a witness who appears before the
+grand jury.
+(2) The person operating the audio electronic recording device  or the shorthand reporter
+reporting the grand jury proceedings may not record or report:
+(a) The deliberations or voting of the grand jury.
+(b) A presentment made pursuant to ORS 132.370.
+(c) Any statements made by a  grand juror who is examined as a witness as provided in
+ORS 132.350.
+(d) A procedure  related to the production of records, or the unsealing of records,
+subpoenaed pursuant to ORS 136.583 and to be presented before the grand jury.
+(3) The district attorney or the shorthand reporter  shall file with the court the audio
+recordings or the notes or reports of the shorthand reporter.
+SECTION 3.
+(1) Audio recordings and shorthand reporter notes and reports  produced
+pursuant to sections 1 and  2 of this 2017 Act in a judicial district with a population between
+[2]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+150,000 and 300,000 or over 700,000 are confidential  and may not be released except as de-
+scribed in this section.
+(2) When an indictment resulting from grand jury  proceedings is indorsed “a true bill,”
+the audio recording of the grand  jury proceedings or the notes or report of a shorthand re-
+porter may be released only in the following manner:
+(a) The prosecuting attorney may obtain a copy of  the audio recording, notes or report
+at any time after the defendant’s arraignment on the indictment.
+(b) When the defendant has been arraigned on the indictment, the defense  attorney may
+obtain a copy of the audio recording, notes or report:
+(A) After 10 days have passed since the defendant’s arraignment  on the indictment and
+no motion described in subsection (4) of this section has been filed; or
+(B) In accordance with the court’s ruling on the motion described in subsection (4) of this
+section, if a motion has been filed.
+(c) Unless  the court orders otherwise for good cause shown, the prosecuting attorney and
+the defense attorney may not  copy, disseminate or republish the audio recording, notes or
+report, or a transcript prepared from the audio recording, notes  or report, released pursuant
+to this subsection, except  to provide a copy to an agent of the prosecuting attorney or de-
+fense attorney for the limited purpose of case preparation. Unless a court orders otherwise
+for good cause shown,  in consulting with the defendant the defense attorney may not dis-
+close:
+(A) The address, telephone number,  date of birth, driver license or vehicle registration
+information of a  victim, witness or grand juror, obtained from the audio recording, notes,
+report or transcript; or
+(B) Any portion of  the audio recording, notes, report or transcript that contains the ad-
+dress, telephone number, date of birth, driver license or  vehicle registration information of
+a victim, witness or grand juror.
+(d) The defense attorney may not provide a copy of the audio recording,  notes or report,
+or a transcript prepared from the audio recording, notes or report, to the defendant.
+(e) When the defendant has been arraigned but is not represented  by an attorney, the
+defendant may request by  motion that the court issue an order allowing the defendant access
+to review the  contents of the audio recording, notes or report. A copy of the motion must
+be provided to the prosecuting attorney. The prosecuting attorney may request a hearing
+on the motion within 10 days after receiving a copy.  At the hearing, or in response to re-
+ceiving the  motion, the court may appoint counsel for the defendant for the limited purpose
+of reviewing the audio recording, notes or report and may set reasonable  conditions on the
+review of the audio recording, notes or report.
+(3) When an indictment resulting  from grand jury proceedings is indorsed “not a true
+bill,” a person may file a motion requesting a court order releasing all or a  portion of the
+audio recording, notes or report. A copy  of the motion must be served on the prosecuting
+attorney and the  attorney of the person who was the subject of the indictment, if the at-
+torney is known, or the person if the person is not represented by an  attorney or the at-
+torney is  not known. In deciding whether to issue such an order, the court shall determine
+whether the public interest in disclosure outweighs the  interest in maintaining the secrecy
+of the  grand jury proceedings. If the court orders disclosure, the court may place reasonable
+conditions upon copying, disseminating or republishing the audio recording, notes or report.
+[3]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4)(a) The prosecuting  attorney may file a motion for a protective order within 10 days
+after the defendant’s arraignment on the indictment. The motion may be  filed on behalf of
+a victim or a witness. The prosecuting attorney may also file a motion for a protective order
+within 10 days after receiving a motion described in  subsection (2)(e) of this section, and the
+prosecuting attorney, the person who is the  subject of an indictment indorsed “not a true
+bill” or the person’s attorney may file a motion for a protective order within 10 days of  re-
+ceiving a motion described in subsection (3) of this section.
+(b) If the motion for a protective order requests that a portion of the audio  recording,
+notes or report be redacted, the motion must be accompanied by a specific  description, in-
+cluding the date and time, of the portion of the audio recording, notes or  report to be
+redacted.
+(c) In response to a motion filed under this subsection,  the court may order that the
+access of the person requesting release to a  copy of the audio recording, notes or report be
+denied, restricted or deferred,  or may make any other order, upon a finding of substantial
+and compelling circumstances. In deciding  whether to grant the motion and enter a protec-
+tive order under this paragraph, the court may consider the following:
+(A) Protection of witnesses and others from physical harm, threats of  harm, bribes,
+economic interference, reprisal and other forms of intimidation;
+(B) Maintenance of secrecy regarding informants, as required for effective  investigation
+of criminal activity;
+(C) Confidential information recognized under law, including the protection of confiden-
+tial relationships and privileges and the contents of confidential records unrelated to  a crime
+alleged in the indictment; and
+(D) Any other relevant considerations.
+(d) The court may permit the evidence of  substantial and compelling circumstances de-
+scribed in paragraph (c) of this subsection to be made in the form of a  written statement to
+be inspected by the court only or by oral testimony given on the record.
+(5)(a) Except as provided in paragraph (b) of this subsection, when grand jury proceedings
+do not result in an indictment indorsed as either “a true bill” or “not a true bill,” the  audio
+recording or the notes or report of  a shorthand reporter, or a transcript prepared from the
+audio recording, notes or report, produced pursuant to sections  1 and 2 of this 2017 Act may
+not be disclosed or released.
+(b) When subsequent grand jury proceedings occur inquiring into  the same criminal epi-
+sode as the grand jury proceedings described in paragraph (a) of this  subsection, and the
+subsequent proceedings result in an indictment indorsed as  “a true bill,” the prosecuting
+attorney shall  provide notice to the person charged in the indictment of the occurrence of
+the earlier grand jury  proceedings. After the person is arraigned on the indictment and the
+time period described  in subsection (2)(b) of this section has passed, the audio recording,
+notes or  report produced during the earlier grand jury proceedings may be obtained in the
+manner set forth in subsection (2) of this section.
+(c) As used in this  subsection, “criminal episode” has the meaning given that term in
+ORS 131.505.
+(6) The Chief Justice of the Supreme Court may establish a fee for  the cost of providing
+a copy of any audio recording  or shorthand reporter notes or report of a grand jury pro-
+ceeding to a person requesting a copy under this section.
+[4]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(7) An audio recording, notes, report or transcript of  a grand jury proceeding obtained
+pursuant to sections 1 and 2 of this 2017 Act:
+(a) May not be used as evidence in any subsequent proceeding, except  as permitted under
+ORS 40.375, 40.380, 40.450, 40.460 or 40.465.
+(b) May not be used to challenge the indorsement of an indictment “a true bill”  or the
+proceedings that led to the indorsement.
+(c) May be used as evidence in a prosecution for perjury or false swearing committed by
+a witness while giving testimony during the grand jury proceeding or during trial.
+(d) May be used as evidence  in a proceeding for contempt of court against a person al-
+leged to have violated the terms of a  court order concerning the audio recording, notes, re-
+port or transcript.
+(8) The release of audio recordings, notes or reports of grand jury proceedings  under this
+section does not affect discovery obligations under ORS 135.805 to 135.873.
+SECTION 4.  ORS 132.090 is amended to read:
+132.090. (1) Except as provided  in subsections (2) and (3) of this section  and sections 1 and 2
+of this 2017 Act , no person other  than the district attorney or a witness actually under examination
+shall be present during the sittings of the grand jury.
+(2) Upon a motion filed by the district attorney in the circuit  court, the circuit judge may ap-
+point a reporter who shall attend the sittings of the grand jury to take and report the  testimony in
+any matters pending before the grand jury, and may appoint a parent, guardian  or other appropriate
+person 18 years of age or older to accompany any child 12  years of age or younger, or any person
+with an intellectual disability, during an appearance before the grand  jury. The circuit judge, upon
+the district attorney’s showing to the court that it  is necessary for the proper examination of a
+witness appearing before the grand jury, may appoint a guard, medical or other special attendant
+or nurse, who shall be present in the grand jury room and shall attend such sittings.
+(3) The district attorney may designate an interpreter who is certified under ORS  45.291 to in-
+terpret the testimony of witnesses appearing before the grand jury.  The district attorney may des-
+ignate a qualified interpreter, as defined in ORS 45.288, if the circuit court determines that a
+certified interpreter is not available and that the person designated by the district attorney  is a
+qualified interpreter  as defined in ORS 45.288. An interpreter designated under this subsection may
+be present in the grand jury room and attend the sittings of the grand jury.
+(4) No person other than members of the  grand jury shall be present when the grand jury is
+deliberating or voting upon a matter before it.
+(5) As used in this section,  “intellectual disability” has the meaning given that term in ORS
+427.005. Intellectual disability may be shown by attaching to the motion of the district attorney:
+(a) Documentary evidence of intellectual functioning; or
+(b) The affidavit of a qualified person  familiar with the person with an intellectual disability.
+“Qualified person” includes, but is not limited to, a teacher, therapist or physician.
+SECTION 5.
+ ORS 132.320 is amended to read:
+132.320. (1) Except  as provided in subsections (2) to [ (12)] (13)  of this section, in the investi-
+gation of a charge for the purpose  of indictment, the grand jury shall receive no other evidence than
+such as might be given on the trial of the person charged with the crime in question.
+(2) A report or a copy of a report made by a physicist, chemist,  medical examiner, physician,
+firearms identification expert, examiner of  questioned documents, fingerprint technician, or an ex-
+pert or technician in some comparable scientific or professional field, concerning the  results of an
+[5]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+examination, comparison or test performed by such person  in connection with a case which is the
+subject of a grand jury proceeding, shall, when certified by such person as a  report made by such
+person or as a true copy thereof, be received in evidence in the grand jury proceeding.
+(3) An affidavit of a witness who is unable to appear before the grand jury shall be received in
+evidence in the  grand jury proceeding if, upon application by the district attorney, the presiding
+judge for the judicial district in which the  grand jury is sitting authorizes the receipt after good
+cause has been shown for the witness’ inability to  appear. An affidavit taken in another state or
+territory of the  United States, the District of Columbia or in a foreign country must be
+authenticated as provided in ORS chapter 194 before it can be used in this state.
+(4) A  grand jury that is investigating a charge of criminal driving while suspended or revoked
+under ORS 811.182 may receive in evidence an affidavit of a peace  officer with a report or copy of
+a report of  the peace officer concerning the peace officer’s investigation of the violation of ORS
+811.182 by the defendant.
+(5) A grand jury may receive testimony of a witness by means of  simultaneous television trans-
+mission allowing the grand jury and district attorney to observe and communicate with the  witness
+and the witness to observe and communicate with the grand jury and the district attorney.
+(6) A grand jury that  is investigating a charge of failure to appear under ORS 133.076, 153.992,
+162.195 or 162.205 may receive in evidence an affidavit of a court employee certifying  that the de-
+fendant failed to appear as required by  law and setting forth facts sufficient to support that con-
+clusion.
+(7)(a) Except as otherwise provided in this subsection,  a grand jury may receive in evidence
+through the  testimony of one peace officer involved in the criminal investigation under grand jury
+inquiry information from an official report of another peace officer  involved in the same criminal
+investigation concerning the other peace officer’s investigation of the matter before the grand jury.
+The statement of a person suspected of committing an offense  or inadmissible hearsay of persons
+other than the peace officer who compiled the official report may not  be presented to a grand jury
+under this paragraph.
+(b) If the official report contains evidence other than chain of custody, venue  or the name of the
+person suspected of committing  an offense, the grand jurors must be notified that the evidence is
+being submitted by report and that the peace officer who compiled the report will  be made available
+for testimony at  the request of the grand jury. When a grand jury requests the testimony of a peace
+officer under this paragraph, the peace officer may present  sworn testimony by telephone if requir-
+ing the peace officer’s  presence before the grand jury would constitute an undue hardship on the
+peace officer or the agency that employs or utilizes the peace officer.
+(8) A grand jury that is investigating a charge of failure to report as a sex  offender under ORS
+163A.040 may receive in evidence certified copies of the form  required by ORS 163A.050 (2) and sex
+offender registration forms and an affidavit of a representative of the Oregon  State Police, as
+keepers of the state’s sex offender registration records, certifying that the certified copies  of the
+forms constitute the complete record for the defendant.
+(9) The grand jury shall weigh all the evidence submitted to it; and when it believes that  other
+evidence within its reach will explain away the charge, it should order  such evidence to be
+produced, and for that purpose may require the district attorney to issue process for the witnesses.
+(10) A grand jury that is investigating a charge of driving  while under the influence of
+intoxicants in violation of ORS 813.010 may receive in evidence an affidavit of a peace  officer re-
+garding any or all of the following:
+[6]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Whether the defendant was driving.
+(b) Whether the defendant took or refused to take tests under  any provision of ORS chapter 813.
+(c) The administration of tests under any provision of  ORS chapter 813 and the results of such
+tests.
+(d) The officer’s observations of physical or mental impairment of the defendant.
+(11)(a) A grand jury may receive in evidence an affidavit  of a representative of a financial in-
+stitution for the purpose of authenticating records of the financial institution.
+(b) As used in this subsection, “financial institution” means a financial institution as defined in
+ORS 706.008, an  entity that regularly issues, processes or services credit cards or any other com-
+parable entity that regularly produces financial records.
+(12)(a) A defendant  who has been arraigned on an information alleging a felony charge that is
+the subject of a grand jury proceeding and who is represented  by an attorney has a right to appear
+before the grand jury as a witness if,  prior to the filing of an indictment, the defense attorney serves
+upon the district attorney written  notice requesting the appearance. The notice shall include an
+electronic mail address at which the defense attorney may be contacted.
+(b) A district attorney is not obligated to inform a defendant  that a grand jury proceeding in-
+vestigating charges against the defendant is pending, in progress or about to occur.
+(c) Upon receipt of the written notice described in paragraph (a) of this subsection, the  district
+attorney shall provide in writing the date, time and location of the defendant’s  appearance before
+the grand jury to the defense attorney at the indicated electronic mail address. In the event of  a
+scheduling conflict, the district attorney shall reasonably accommodate the schedules of the  de-
+fendant and the defense attorney  if the accommodation does not delay the grand jury proceeding
+beyond the time limit for holding a preliminary hearing described in ORS 135.070 (2).
+(d) Notwithstanding ORS 135.070 and paragraph (c) of this subsection, in order  to accommodate
+a scheduling conflict, upon the request of  the defendant the time limit for holding a preliminary
+hearing described in ORS 135.070 (2) may be extended by a maximum of an additional five judicial
+days and the district attorney  and the defendant may stipulate to an extension of greater duration.
+During a period of delay caused by a scheduling conflict  under this subsection, ORS 135.230 to
+135.290 shall continue to apply concerning the custody status of the defendant.
+(13) A grand jury  in a judicial district with a population between 150,000 and 300,000 or
+over 700,000, the proceedings of which are recorded pursuant to sections 1 and 2  of this 2017
+Act, may receive in evidence, through the testimony of a peace officer involved in the  crim-
+inal investigation under grand jury inquiry, the statement of:
+(a) A  person who cannot readily understand the proceedings, or who cannot communicate
+in the proceedings, because of a physical disability or developmental disability;
+(b) A victim under 18 years of age at the time of the proceedings; or
+(c) A person whose statement would, if offered at trial, be admissible under ORS 40.460.
+SECTION 6.
+ ORS 132.430 is amended to read:
+132.430. (1) When a person has been held to answer a criminal charge and  the indictment in
+relation thereto is not found “a true  bill,” [ it] the indictment  must be indorsed “not a true bill,”
+which indorsement must be signed by the foreman and filed with the clerk of the  court, in whose
+office it shall remain a public record. In the case of  an indictment not found “a true bill” against
+a person [ not so held, the same, together with the minutes of the evidence in relation thereto, ] who has
+not been held to answer a criminal charge, the indictment  must be destroyed by  the grand jury.
+(2) When an indictment indorsed  “not a true bill” has been filed with the clerk of the court, the
+[7]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+effect [ thereof] is to dismiss the charge[ ;], and the [ same] charge  cannot be again submitted  to or
+inquired of by the grand jury unless the court so orders.
+SECTION 7.  ORS 132.550 is amended to read:
+132.550. The indictment shall contain substantially the following:
+(1) The name of the circuit court in which it is filed;
+(2) The title of the action;
+(3) A statement that the grand jury accuses the defendant or defendants of the designated of-
+fense or offenses;
+(4) A separate accusation or count addressed to  each offense charged, if there be more than one;
+(5) A statement in  each count that the offense charged therein was committed in a designated
+county;
+(6) A statement in each count that the offense charged therein was committed on, or on or
+about, a designated date, or during a designated period of time;
+(7) A statement of the acts constituting the offense in  ordinary and concise language, without
+repetition, and in such manner as to enable a person of common understanding to know what is in-
+tended;
+(8) The dates of all grand jury proceedings related to the offense or offenses charged;
+[(8)] (9) The signatures of the foreman and of the district attorney; and
+[(9)] (10) The date the indictment is filed with the clerk of the court.
+SECTION 8.
+ ORS 135.405 is amended to read:
+135.405. (1) In  cases in which it appears that the interest of the public in the effective adminis-
+tration of criminal justice would thereby be served, and in accordance  with the criteria set forth in
+ORS 135.415, the district attorney may engage in plea discussions for the purpose of reaching  a plea
+agreement.
+(2) The district attorney shall engage in plea discussions or  reach a plea agreement with the
+defendant only through defense counsel, except when, as a  matter of record, the defendant has ef-
+fectively waived the right of the defendant to counsel or,  if the defendant is not eligible for ap-
+pointed counsel, has not retained counsel.
+(3) The district attorney in reaching a plea agreement may agree to, but is not limited to,  one
+or more of the following, as required by the circumstances of the individual case:
+(a) To make or not to oppose favorable recommendations  as to the sentence which should be
+imposed if the defendant enters a plea of guilty or no contest to the offense charged;
+(b) To seek or  not to oppose dismissal of the offense charged if the defendant enters a plea of
+guilty or no contest to another offense reasonably related to the defendant’s conduct; or
+(c) To  seek or not to oppose dismissal of other charges or to refrain from bringing potential
+charges if the defendant enters a plea of guilty or no contest to the offense charged.
+(4) Similarly situated defendants should be afforded equal plea agreement opportunities.
+(5) The district  attorney may not condition a plea offer on a requirement that the defendant
+waive :
+(a) The disclosure obligation of ORS 135.815 (1)(g)[ .]; or
+(b) The ability to receive the audio  recording or notes or report of grand jury proceedings
+as permitted under section 3 of this 2017  Act, if the indictment has been indorsed “a true
+bill.”
+(6)(a) A district attorney may provide a plea offer and agreed disposition recommendation  to the
+defendant at the time of arraignment or first appearance of the  defendant for a crime in open court
+[8]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+under an early disposition program established under ORS 135.941.
+(b) Unless extended by the  court, a plea offer and agreed disposition recommendation made un-
+der paragraph (a) of this subsection expire upon completion of  the arraignment. Except for good
+cause, a court may  not extend a plea offer and agreed disposition recommendation under this para-
+graph for more than seven days for a misdemeanor or 21 days for a felony.
+SECTION 9.  Section 1 of this 2017 Act is amended to read:
+Sec. 1.  (1)(a) The district attorney  of a county [ comprising a judicial district with a population
+between 150,000 and 300,000  or over 700,000 ] shall ensure that proceedings before the grand jury are
+recorded in the manner described in this section and section 2 of this 2017 Act.
+(b) The district  attorney shall designate the types of audio electronic recording devices that are
+suitable for recording grand jury proceedings and shall provide and  maintain the suitable audio
+electronic recording devices  to record grand jury proceedings, unless the district attorney delegates
+the recording to a shorthand reporter as described in subsection (2) of this section.
+(c) The district attorney  and the presiding judge of each judicial district may enter into an
+agreement concerning access to recording equipment and the premises in  which the grand jury ful-
+fills its obligations in order to carry out  the provisions of this section and section 2 of this 2017
+Act. The agreement may identify the conditions and terms of access.
+(2)(a) A person or persons designated by the district attorney shall be permitted to attend all
+proceedings of the grand jury  for the purpose of electronically recording the proceedings described
+in section 2 of this 2017 Act. The person or persons shall be compensated  from funds specifically
+appropriated for that purpose by the Legislative Assembly.
+(b) Notwithstanding paragraph (a) of this subsection, the district attorney  may delegate the re-
+cording to:
+(A) A grand juror, after providing training  to the grand juror concerning the recording equip-
+ment and requirements; or
+(B) A certified shorthand reporter as defined  in ORS 8.415 or a shorthand reporter certified by
+a national certification association, who shall be permitted to attend all proceedings of the grand
+jury for the purpose of taking accurate notes. The certified  shorthand reporter shall be compensated
+from funds specifically appropriated for that purpose by the Legislative Assembly. The  shorthand
+reporter shall be sworn to correctly report  the proceedings of the grand jury described in section
+2 of this 2017 Act and to keep secret any information concerning the grand jury proceedings.
+(c) A person or persons recording the proceedings, including a grand  juror or a shorthand re-
+porter, is not subject to subpoena, and may not disclose  any information, concerning the grand jury
+proceedings without prior court order.
+(3)(a) A failure of an audio electronic recording device to  accurately record all or part of a
+grand jury proceeding does not affect the validity of any prosecution or indictment.
+(b) A failure of a person  to operate an audio electronic recording device in a manner that ac-
+curately records all  or part of a grand jury proceeding, as required, does not affect the validity of
+any prosecution or indictment.
+(c) A failure of a shorthand reporter to prepare accurate notes or an accurate report of  all or
+part of a grand jury proceeding, as required, does  not affect the validity of any prosecution or
+indictment.
+(4) This section and section 2 of this 2017 Act do  not apply to grand jury proceedings under
+ORS 132.440 that inquire into the  condition and management of correctional facilities and youth
+correction facilities.
+[9]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 10.  Section 2 of this 2017 Act is amended to read:
+Sec. 2.  (1) Except as provided in subsection (2) of this section, the person or persons designated
+by the district attorney  described in section 1 (2)(a) of this 2017 Act, or the grand juror or shorthand
+reporter described in section 1 (2)(b) of this 2017 Act, who is recording grand jury proceedings [ in
+a judicial district with  a population between 150,000 and 300,000 or over 700,000 ] shall record all
+matters that come before the grand jury, including:
+(a) The case name and number;
+(b) The names of witnesses appearing before the grand jury;
+(c) Each statement made or question asked by the prosecuting attorney; and
+(d) Each question asked of, and each response given by, a witness who appears before the  grand
+jury.
+(2) The person operating the audio electronic  recording device or the shorthand reporter re-
+porting the grand jury proceedings may not record or report:
+(a) The deliberations or voting of the grand jury.
+(b) A presentment made pursuant to ORS 132.370.
+(c) Any statements made by a grand juror who  is examined as a witness as provided in ORS
+132.350.
+(d) A procedure related  to the production of records, or the unsealing of records, subpoenaed
+pursuant to ORS 136.583 and to be presented before the grand jury.
+(3) The district attorney or the shorthand reporter shall file with the court the audio  recordings
+or the notes or reports of the shorthand reporter.
+SECTION 11.
+ Section 3 of this 2017 Act is amended to read:
+Sec. 3.  (1) Audio recordings and shorthand reporter notes  and reports produced pursuant to
+sections 1 and 2 of  this 2017 Act [ in a judicial district with a population between 150,000 and 300,000
+or over 700,000 ] are confidential and may not be released except as described in this section.
+(2) When an indictment  resulting from grand jury proceedings is indorsed “a true bill,” the audio
+recording of the grand jury proceedings or the notes or report of a shorthand reporter may  be re-
+leased only in the following manner:
+(a) The prosecuting attorney may obtain a copy of the audio recording, notes or report at any
+time after the defendant’s arraignment on the indictment.
+(b) When the defendant has been arraigned on  the indictment, the defense attorney may obtain
+a copy of the audio recording, notes or report:
+(A) After 10 days have passed since the defendant’s arraignment on the indictment  and no mo-
+tion described in subsection (4) of this section has been filed; or
+(B) In accordance with the  court’s ruling on the motion described in subsection (4) of this sec-
+tion, if a motion has been filed.
+(c) Unless the court orders otherwise for good cause shown, the  prosecuting attorney and the
+defense attorney  may not copy, disseminate or republish the audio recording, notes or report, or a
+transcript prepared from the audio  recording, notes or report, released pursuant to this subsection,
+except to provide a copy  to an agent of the prosecuting attorney or defense attorney for the limited
+purpose of  case preparation. Unless a court orders otherwise for good cause shown, in consulting
+with the defendant the defense attorney may not disclose:
+(A) The address,  telephone number, date of birth, driver license or vehicle registration infor-
+mation of a  victim, witness or grand juror, obtained from the audio recording, notes, report or
+transcript; or
+[10]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) Any portion of the audio recording, notes, report or transcript that  contains the address,
+telephone number, date of birth, driver license or vehicle registration information of  a victim, wit-
+ness or grand juror.
+(d) The defense attorney may not provide a copy of  the audio recording, notes or report, or a
+transcript prepared from the audio recording, notes or report, to the defendant.
+(e) When the defendant has  been arraigned but is not represented by an attorney, the defendant
+may request  by motion that the court issue an order allowing the defendant access to review the
+contents of the audio recording, notes or report. A copy of the motion must be provided  to the
+prosecuting attorney. The prosecuting attorney may request  a hearing on the motion within 10 days
+after receiving a copy. At the hearing, or  in response to receiving the motion, the court may appoint
+counsel for the defendant for the limited  purpose of reviewing the audio recording, notes or report
+and may set reasonable conditions on the review of the audio recording, notes or report.
+(3) When an indictment resulting  from grand jury proceedings is indorsed “not a true bill,” a
+person may file a motion requesting a court order releasing all or a portion of  the audio recording,
+notes or report. A copy of the motion must be served on the prosecuting attorney and the attorney
+of the person who was the subject of the  indictment, if the attorney is known, or the person if the
+person is not represented  by an attorney or the attorney is not known. In deciding whether to issue
+such an order, the  court shall determine whether the public interest in disclosure outweighs the
+interest in  maintaining the secrecy of the grand jury proceedings. If the court orders disclosure, the
+court may place  reasonable conditions upon copying, disseminating or republishing the audio re-
+cording, notes or report.
+(4)(a) The prosecuting attorney may file a motion for a protective order within 10 days after the
+defendant’s arraignment on the indictment. The motion may  be filed on behalf of a victim or a wit-
+ness. The prosecuting attorney may also file a motion for a protective order within  10 days after
+receiving a motion described in subsection (2)(e) of this section,  and the prosecuting attorney, the
+person who is the subject of  an indictment indorsed “not a true bill” or the person’s attorney may
+file a motion for a protective order within 10 days of receiving a  motion described in subsection (3)
+of this section.
+(b) If the motion  for a protective order requests that a portion of the audio recording, notes or
+report be redacted, the  motion must be accompanied by a specific description, including the date and
+time, of the portion of the audio recording, notes or report to be redacted.
+(c) In response to a motion filed under this subsection, the court may order that the access of
+the person requesting release to a  copy of the audio recording, notes or report be denied, restricted
+or deferred, or may make any other order, upon a finding of substantial  and compelling circum-
+stances. In deciding whether to grant the motion and enter a protective order under this paragraph,
+the court may consider the following:
+(A) Protection of  witnesses and others from physical harm, threats of harm, bribes, economic
+interference, reprisal and other forms of intimidation;
+(B) Maintenance of secrecy regarding informants, as required for effective investigation  of
+criminal activity;
+(C) Confidential information recognized under law,  including the protection of confidential re-
+lationships and privileges and the contents of confidential records unrelated to a  crime alleged in
+the indictment; and
+(D) Any other relevant considerations.
+(d) The court may permit the  evidence of substantial and compelling circumstances described in
+[11]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+paragraph (c) of this subsection to be made in  the form of a written statement to be inspected by
+the court only or by oral testimony given on the record.
+(5)(a) Except as provided  in paragraph (b) of this subsection, when grand jury proceedings do
+not result in an indictment indorsed as either “a true bill” or “not a true  bill,” the audio recording
+or the notes or report of a shorthand reporter, or a  transcript prepared from the audio recording,
+notes or  report, produced pursuant to sections 1 and 2 of this 2017 Act may not be disclosed or re-
+leased.
+(b) When  subsequent grand jury proceedings occur inquiring into the same criminal episode as
+the grand jury proceedings described in  paragraph (a) of this subsection, and the subsequent pro-
+ceedings result in  an indictment indorsed as “a true bill,” the prosecuting attorney shall provide
+notice to the person  charged in the indictment of the occurrence of the earlier grand jury pro-
+ceedings. After the person is arraigned on the indictment and the time period described  in sub-
+section  (2)(b)  of this section has passed, the audio recording, notes or report produced during the
+earlier grand jury proceedings may be obtained in the manner set forth  in subsection (2) of this
+section.
+(c) As used in this subsection, “criminal episode” has the meaning given that term  in ORS
+131.505.
+(6) The Chief Justice of the Supreme Court may establish a fee for the cost  of providing a copy
+of any audio recording or shorthand reporter notes or report of a grand jury proceeding to a  person
+requesting a copy under this section.
+(7) An audio  recording, notes, report or transcript of a grand jury proceeding obtained pursuant
+to sections 1 and 2 of this 2017 Act:
+(a) May not be used as evidence in any subsequent proceeding,  except as permitted under ORS
+40.375, 40.380, 40.450, 40.460 or 40.465.
+(b) May not be used to challenge the  indorsement of an indictment “a true bill” or the pro-
+ceedings that led to the indorsement.
+(c) May be used as evidence in a prosecution for perjury or false swearing committed by a wit-
+ness while giving testimony during the grand jury proceeding or during trial.
+(d) May be used as evidence  in a proceeding for contempt of court against a person alleged to
+have violated the terms of a court order concerning the audio recording, notes, report or transcript.
+(8) The  release of audio recordings, notes or reports of grand jury proceedings under this section
+does not affect discovery obligations under ORS 135.805 to 135.873.
+SECTION 12.  ORS 132.090, as amended by section 4 of this 2017 Act, is amended to read:
+132.090. (1) Except as provided in subsections (2) and (3) of this section and sections 1 and 2 of
+this 2017 Act, no person other than the district attorney or a witness  actually under examination
+shall be present during the sittings of the grand jury.
+(2) Upon a motion filed by the district attorney in the circuit  court, the circuit judge may ap-
+point [ a reporter who shall attend the sittings of the grand jury to  take and report the testimony in any
+matters pending before the grand jury, and may appoint ] a parent, guardian or other appropriate
+person 18 years of age or older to accompany  any child 12 years of age or younger, or any person
+with an intellectual disability, during an  appearance before the grand jury. The circuit judge, upon
+the district attorney’s showing to the court that it  is necessary for the proper examination of a
+witness appearing before the grand jury, may appoint a guard, medical or other special attendant
+or nurse, who shall be present in the grand jury room and shall attend such sittings.
+(3) The district attorney  may designate an interpreter who is certified under ORS 45.291 to in-
+[12]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+terpret the testimony of witnesses appearing  before the grand jury. The district attorney may des-
+ignate a qualified interpreter, as defined in ORS 45.288, if the circuit court determines that a
+certified interpreter is  not available and that the person designated by the district attorney is a
+qualified interpreter as defined in ORS 45.288. An interpreter designated under this subsection  may
+be present in the grand jury room and attend the sittings of the grand jury.
+(4) No person other than members of the grand jury shall  be present when the grand jury is
+deliberating or voting upon a matter before it.
+(5) As used in this section, “intellectual disability” has the meaning  given that term in ORS
+427.005. Intellectual disability may be shown by attaching to the motion of the district attorney:
+(a) Documentary evidence of intellectual functioning; or
+(b) The affidavit of a qualified person familiar with  the person with an intellectual disability.
+“Qualified person” includes, but is not limited to, a teacher, therapist or physician.
+SECTION 13.
+ ORS 132.320, as amended by section 5 of this 2017 Act, is amended to read:
+132.320. (1) Except as provided in subsections (2) to (13) of this section, in the investigation of
+a charge for the purpose of  indictment, the grand jury shall receive no other evidence than such
+as might be given on the trial of the person charged with the crime in question.
+(2) A report or a copy of a report made by a physicist, chemist,  medical examiner, physician,
+firearms identification expert, examiner of  questioned documents, fingerprint technician, or an ex-
+pert or technician in some comparable scientific or professional field, concerning the  results of an
+examination, comparison or test performed by such person  in connection with a case which is the
+subject of a grand jury proceeding, shall, when certified by such person as a  report made by such
+person or as a true copy thereof, be received in evidence in the grand jury proceeding.
+(3) An affidavit of a witness who is unable to appear before the grand jury shall be received in
+evidence in the  grand jury proceeding if, upon application by the district attorney, the presiding
+judge for the judicial district in which the  grand jury is sitting authorizes the receipt after good
+cause has been shown for the witness’ inability to  appear. An affidavit taken in another state or
+territory of the  United States, the District of Columbia or in a foreign country must be
+authenticated as provided in ORS chapter 194 before it can be used in this state.
+(4) A  grand jury that is investigating a charge of criminal driving while suspended or revoked
+under ORS 811.182 may receive in evidence an affidavit of a peace  officer with a report or copy of
+a report of  the peace officer concerning the peace officer’s investigation of the violation of ORS
+811.182 by the defendant.
+(5) A grand jury may receive testimony of a witness by means of  simultaneous television trans-
+mission allowing the grand jury and district attorney to observe and communicate with the  witness
+and the witness to observe and communicate with the grand jury and the district attorney.
+(6) A grand jury that  is investigating a charge of failure to appear under ORS 133.076, 153.992,
+162.195 or 162.205 may receive in evidence an affidavit of a court employee certifying  that the de-
+fendant failed to appear as required by  law and setting forth facts sufficient to support that con-
+clusion.
+(7)(a) Except as otherwise provided in this subsection,  a grand jury may receive in evidence
+through the  testimony of one peace officer involved in the criminal investigation under grand jury
+inquiry information from an official report of another peace officer  involved in the same criminal
+investigation concerning the other peace officer’s investigation of the matter before the grand jury.
+The statement of a person suspected of committing an offense  or inadmissible hearsay of persons
+other than the peace officer who compiled the official report may not  be presented to a grand jury
+[13]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+under this paragraph.
+(b) If the official report contains evidence other than chain of custody, venue  or the name of the
+person suspected of committing  an offense, the grand jurors must be notified that the evidence is
+being submitted by report and that the peace officer who compiled the report will  be made available
+for testimony at  the request of the grand jury. When a grand jury requests the testimony of a peace
+officer under this paragraph, the peace officer may present  sworn testimony by telephone if requir-
+ing the peace officer’s  presence before the grand jury would constitute an undue hardship on the
+peace officer or the agency that employs or utilizes the peace officer.
+(8) A grand jury that is investigating a charge of failure to report as a sex  offender under ORS
+163A.040 may receive in evidence certified copies of the form  required by ORS 163A.050 (2) and sex
+offender registration forms and an affidavit of a representative of the Oregon  State Police, as
+keepers of the state’s sex offender registration records, certifying that the certified copies  of the
+forms constitute the complete record for the defendant.
+(9) The grand jury shall weigh all the evidence submitted to it; and when it believes that  other
+evidence within its reach will explain away the charge, it should order  such evidence to be
+produced, and for that purpose may require the district attorney to issue process for the witnesses.
+(10) A grand jury that is  investigating a charge of driving while under the influence of
+intoxicants in violation  of ORS 813.010 may receive in evidence an affidavit of a peace officer re-
+garding any or all of the following:
+(a) Whether the defendant was driving.
+(b) Whether the defendant took or refused to take tests under  any provision of ORS chapter 813.
+(c) The administration of tests under any provision of  ORS chapter 813 and the results of such
+tests.
+(d) The officer’s observations of physical or mental impairment of the defendant.
+(11)(a) A grand jury may receive in evidence  an affidavit of a representative of a financial in-
+stitution for the purpose of authenticating records of the financial institution.
+(b) As used in this subsection, “financial institution” means a financial institution as defined in
+ORS 706.008, an entity that regularly issues, processes or services credit cards or any  other com-
+parable entity that regularly produces financial records.
+(12)(a) A defendant who has been arraigned on an information alleging a felony charge  that is
+the subject of a grand jury proceeding and who is represented  by an attorney has a right to appear
+before the grand jury as a witness if,  prior to the filing of an indictment, the defense attorney serves
+upon the district attorney written notice requesting the appearance. The  notice shall include an
+electronic mail address at which the defense attorney may be contacted.
+(b) A district attorney is not obligated  to inform a defendant that a grand jury proceeding in-
+vestigating charges against the defendant is pending, in progress or about to occur.
+(c) Upon  receipt of the written notice described in paragraph (a) of this subsection, the district
+attorney shall provide  in writing the date, time and location of the defendant’s appearance before
+the grand  jury to the defense attorney at the indicated electronic mail address. In the event of a
+scheduling  conflict,  the district attorney shall reasonably accommodate the schedules of the de-
+fendant and the defense attorney if the accommodation does not delay  the grand jury proceeding
+beyond the time limit for holding a preliminary hearing described in ORS 135.070 (2).
+(d) Notwithstanding ORS 135.070 and paragraph (c) of this subsection, in order  to accommodate
+a scheduling conflict, upon the request of the defendant the  time limit for holding a preliminary
+hearing described in ORS 135.070 (2) may be extended by a maximum of an additional five judicial
+[14]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+days and the district attorney and the defendant may stipulate to an  extension of greater duration.
+During a period of delay caused by  a scheduling conflict under this subsection, ORS 135.230 to
+135.290 shall continue to apply concerning the custody status of the defendant.
+(13) A grand jury [ in a judicial  district with a population between 150,000 and 300,000 or over
+700,000], the proceedings of which are recorded pursuant to sections 1  and 2 of this 2017 Act, may
+receive in evidence, through the testimony of a  peace officer involved in the criminal investigation
+under grand jury inquiry, the statement of:
+(a) A person who cannot readily understand the proceedings, or who cannot communicate  in the
+proceedings, because of a physical disability or developmental disability;
+(b) A victim under 18 years of age at the time of the proceedings; or
+(c) A person whose statement would, if offered at trial, be admissible under ORS 40.460.
+SECTION 14.
+ ORS 192.502 is amended to read:
+192.502. The following public records are exempt from disclosure under ORS 192.410 to 192.505:
+(1) Communications  within a public body or between public bodies of an advisory nature to the
+extent that they cover other than purely  factual materials and are preliminary to any final agency
+determination of policy or action. This exemption shall not apply unless the public  body shows that
+in the particular instance  the public interest in encouraging frank communication between officials
+and employees of public bodies clearly outweighs the public interest in disclosure.
+(2) Information of a personal nature such as but not limited to that kept in a  personal, medical
+or similar  file, if public disclosure would constitute an unreasonable invasion of privacy, unless the
+public interest by clear and convincing evidence requires disclosure in the particular instance.  The
+party seeking disclosure shall  have the burden of showing that public disclosure would not consti-
+tute an unreasonable invasion of privacy.
+(3) Upon  compliance with ORS 192.437, public body employee or volunteer residential addresses,
+residential telephone numbers, personal cellular telephone numbers, personal electronic mail ad-
+dresses, driver license numbers, employer-issued  identification card numbers, emergency contact in-
+formation, Social Security numbers, dates of  birth and other telephone numbers contained in
+personnel records maintained by the public body that is the  employer or the recipient of volunteer
+services. This exemption:
+(a) Does not apply to the  addresses, dates of birth and telephone numbers of employees or vol-
+unteers who are elected  officials, except that a judge or district attorney subject to election may
+seek to exempt the judge’s or district attorney’s address or telephone number,  or both, under the
+terms of ORS 192.445;
+(b) Does not apply to employees or volunteers to the extent that the party seeking  disclosure
+shows by clear and convincing evidence  that the public interest requires disclosure in a particular
+instance pursuant to ORS 192.437;
+(c) Does not apply to a substitute teacher as defined in ORS 342.815 when requested by  a pro-
+fessional education association of which the substitute teacher may be a member; and
+(d) Does not relieve a public employer of any duty under ORS 243.650 to 243.782.
+(4) Information submitted to a public body in confidence and not otherwise required  by law to
+be submitted, where such information should reasonably be considered confidential, the public body
+has obliged itself in good faith not to disclose the information, and when  the public interest would
+suffer by the disclosure.
+(5) Information or records of the Department of Corrections, including  the State Board of Parole
+and Post-Prison Supervision, to the extent that disclosure would interfere with the rehabilitation of
+[15]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+a person in custody of the department or substantially prejudice or prevent the carrying out  of the
+functions of the department, if the public interest in confidentiality clearly outweighs the public in-
+terest in disclosure.
+(6) Records, reports and other information received or compiled by the Director of  the Depart-
+ment of Consumer and Business Services in the administration of ORS chapters  723 and 725 not
+otherwise required by law to  be made public, to the extent that the interests of lending institutions,
+their officers, employees and customers  in preserving the confidentiality of such information out-
+weighs the public interest in disclosure.
+(7) Reports made to or filed with the court under ORS 137.077 or 137.530.
+(8) Any public records  or information the disclosure of which is prohibited by federal law or
+regulations.
+(9)(a) Public records  or information the disclosure of which is prohibited or restricted or other-
+wise made confidential or privileged under Oregon law.
+(b) Subject to  ORS 192.423, paragraph (a) of this subsection does not apply to factual information
+compiled in a public record when:
+(A) The basis for the claim of exemption is ORS 40.225;
+(B) The factual information is not prohibited from  disclosure under any applicable state or fed-
+eral law, regulation or court  order and is not otherwise exempt from disclosure under ORS 192.410
+to 192.505;
+(C) The factual information was compiled by or at  the direction of an attorney as part of an
+investigation on behalf of  the public body in response to information of possible wrongdoing by the
+public body;
+(D) The  factual information was not compiled in preparation for litigation, arbitration or an
+administrative proceeding that was reasonably likely  to be initiated or that has been initiated by
+or against the public body; and
+(E) The holder of the privilege under ORS 40.225 has made or authorized a public  statement
+characterizing or partially disclosing  the factual information compiled by or at the attorney’s di-
+rection.
+(10) Public records or information  described in this section, furnished by the public body ori-
+ginally compiling, preparing or receiving  them to any other public officer or public body in con-
+nection with performance of the duties of the recipient, if the  considerations originally giving rise
+to the confidential or exempt nature of the public records or information remain applicable.
+(11) Records of the Energy Facility Siting Council concerning the  review or approval of security
+programs pursuant to ORS 469.530.
+(12) Employee and retiree address,  telephone number and other nonfinancial membership records
+and employee financial records maintained by the Public Employees Retirement System pursuant  to
+ORS chapters 238 and 238A.
+(13) Records of or submitted to the State Treasurer, the Oregon Investment Council or  the
+agents of the treasurer or the council relating to active or proposed publicly traded  investments
+under ORS  chapter 293, including but not limited to records regarding the acquisition, exchange or
+liquidation of the investments. For the purposes of this subsection:
+(a) The exemption does not apply to:
+(A) Information in investment records solely related to the amount paid directly into  an invest-
+ment by, or returned from the investment directly to, the treasurer or council; or
+(B) The identity of the entity to which the amount was paid directly or from which the amount
+[16]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+was received directly.
+(b) An  investment in a publicly traded investment is no longer active when acquisition, exchange
+or liquidation of the investment has been concluded.
+(14)(a) Records of or  submitted to the State Treasurer, the Oregon Investment Council, the
+Oregon Growth Board or the  agents of the treasurer, council or board relating to actual or proposed
+investments under ORS chapter 293 or 348 in a privately placed investment fund or  a private asset
+including but not limited to records regarding the solicitation,  acquisition, deployment, exchange or
+liquidation of the investments including but not limited to:
+(A) Due diligence materials that are proprietary to an  investment fund, to an asset ownership
+or to their respective investment vehicles.
+(B) Financial statements of an investment fund, an asset ownership or their respective invest-
+ment vehicles.
+(C) Meeting  materials of an investment fund, an asset ownership or their respective investment
+vehicles.
+(D) Records containing information regarding the portfolio  positions in which an investment
+fund, an asset ownership or their respective investment vehicles invest.
+(E) Capital call and distribution notices of an investment fund, an asset ownership or their re-
+spective investment vehicles.
+(F) Investment agreements and related documents.
+(b) The exemption under this subsection does not apply to:
+(A) The name, address and vintage year of each privately placed investment fund.
+(B) The dollar amount of the commitment made to each privately placed  investment fund since
+inception of the fund.
+(C) The dollar amount  of cash contributions made to each privately placed investment fund since
+inception of the fund.
+(D) The dollar amount,  on a fiscal year-end basis, of cash distributions received by the State
+Treasurer, the Oregon Investment Council, the Oregon Growth Board  or the agents of the treasurer,
+council or board from each privately placed investment fund.
+(E) The dollar  amount, on a fiscal year-end basis, of the remaining value of assets in a privately
+placed investment fund attributable to an investment by the State Treasurer,  the Oregon Investment
+Council, the Oregon Growth Board or the agents of the treasurer, council or board.
+(F) The net internal  rate of return of each privately placed investment fund since inception of
+the fund.
+(G) The  investment multiple of each privately placed investment fund since inception of the fund.
+(H) The dollar amount of  the total management fees and costs paid on an annual fiscal year-end
+basis to each privately placed investment fund.
+(I) The dollar amount of cash profit received  from each privately placed investment fund on a
+fiscal year-end basis.
+(15) The monthly  reports prepared and submitted under ORS 293.761 and 293.766 concerning the
+Public Employees Retirement Fund and the Industrial Accident Fund may be uniformly  treated as
+exempt from disclosure for a period of up to 90 days after the end of the calendar quarter.
+(16) Reports of unclaimed property filed by the  holders of such property to the extent permitted
+by ORS 98.352.
+(17)(a) The following records, communications and  information submitted to the Oregon Business
+Development Commission, the  Oregon Business Development Department, the State Department of
+[17]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Agriculture, the Oregon Growth Board, the Port of  Portland or other ports as defined in ORS
+777.005, or a county or  city governing body and any board, department, commission, council or
+agency thereof, by applicants for investment funds, grants, loans, services or  economic development
+moneys, support or assistance including, but not limited to, those described in ORS 285A.224:
+(A) Personal financial statements.
+(B) Financial statements of applicants.
+(C) Customer lists.
+(D) Information of an applicant pertaining to litigation to which the applicant is  a party if the
+complaint has been filed, or if the  complaint has not been filed, if the applicant shows that such
+litigation is reasonably  likely to occur; this exemption does not apply to litigation which has been
+concluded, and nothing in this subparagraph shall limit any right or opportunity granted by  discov-
+ery or deposition statutes to a party to litigation or potential litigation.
+(E) Production, sales and cost data.
+(F) Marketing strategy information that relates  to applicant’s plan to address specific markets
+and applicant’s strategy regarding specific competitors.
+(b) The  following records, communications and information submitted to the State Department
+of Energy by applicants for tax credits or for grants awarded under ORS 469B.256:
+(A) Personal financial statements.
+(B) Financial statements of applicants.
+(C) Customer lists.
+(D) Information of an applicant pertaining to litigation to which the applicant is  a party if the
+complaint has been filed, or if the  complaint has not been filed, if the applicant shows that such
+litigation is reasonably  likely to occur; this exemption does not apply to litigation which has been
+concluded, and nothing in this subparagraph shall limit any right or opportunity granted by  discov-
+ery or deposition statutes to a party to litigation or potential litigation.
+(E) Production, sales and cost data.
+(F) Marketing strategy information that relates  to applicant’s plan to address specific markets
+and applicant’s strategy regarding specific competitors.
+(18) Records, reports or returns submitted by private concerns or enterprises required  by law
+to be submitted to or inspected by a governmental body to allow it to determine the  amount of any
+transient lodging tax payable and the  amounts of such tax payable or paid, to the extent that such
+information is in a form which would permit identification of the  individual concern or enterprise.
+Nothing in this subsection shall limit the use which  can be made of such information for regulatory
+purposes or its admissibility in any  enforcement proceedings. The public body shall notify the tax-
+payer of the delinquency immediately by  certified mail. However, in the event that the payment or
+delivery of transient lodging taxes otherwise due to a public body is delinquent by over 60 days, the
+public body shall disclose, upon the request of any person, the following information:
+(a) The identity of the individual concern or enterprise that is delinquent over  60 days in the
+payment or delivery of the taxes.
+(b) The period for which the taxes are delinquent.
+(c) The actual, or estimated, amount of the delinquency.
+(19) All information supplied by a person under  ORS 151.485 for the purpose of requesting ap-
+pointed counsel, and all information supplied to the court from whatever source  for the purpose of
+verifying the financial eligibility of a person pursuant to ORS 151.485.
+(20) Workers’ compensation claim records of the Department of Consumer and Business Services,
+[18]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+except in accordance with rules adopted by the  Director of the Department of Consumer and Busi-
+ness Services, in any of the following circumstances:
+(a) When necessary for insurers, self-insured employers and  third party claim administrators to
+process workers’ compensation claims.
+(b) When  necessary for the director, other governmental agencies of this state or the United
+States to carry out their duties, functions or powers.
+(c) When the disclosure is made in such a manner that the disclosed information cannot be used
+to identify any worker who is the subject of a claim.
+(d) When a worker or the worker’s  representative requests review of the worker’s claim record.
+(21) Sensitive  business records or financial or commercial information of the Oregon Health and
+Science University that is not customarily provided to business competitors.
+(22) Records  of Oregon Health and Science University regarding candidates for the position of
+president of the university.
+(23) The records of a library, including:
+(a) Circulation records, showing use of specific library material by a named person;
+(b) The name of a library patron together with the address  or telephone number of the patron;
+and
+(c) The electronic mail address of a patron.
+(24) The following records, communications  and information obtained by the Housing and Com-
+munity Services Department in  connection with the department’s monitoring or administration of
+financial assistance or of housing or other developments:
+(a) Personal and corporate financial statements and information, including tax returns.
+(b) Credit reports.
+(c) Project appraisals, excluding appraisals obtained in the course of transactions  involving an
+interest in real estate that is acquired, leased, rented, exchanged,  transferred or otherwise disposed
+of as part of the project, but only after the transactions have closed and are concluded.
+(d) Market studies and analyses.
+(e) Articles of incorporation, partnership agreements and operating agreements.
+(f) Commitment letters.
+(g) Project pro forma statements.
+(h) Project cost certifications and cost data.
+(i) Audits.
+(j) Project tenant correspondence.
+(k) Personal information about a tenant.
+(L) Housing assistance payments.
+(25) Raster geographic information system  (GIS) digital databases, provided by private forestland
+owners or their representatives, voluntarily and in  confidence to the State Forestry Department,
+that is not otherwise required by law to be submitted.
+(26) Sensitive business, commercial or financial information furnished to or developed by a
+public body engaged in the business  of providing electricity or electricity services, if the information
+is directly related to a transaction described in ORS 261.348, or if  the information is directly related
+to a bid, proposal or  negotiations for the sale or purchase of electricity or electricity services, and
+disclosure of the information would cause a  competitive disadvantage for the public body or its re-
+tail electricity customers. This subsection does not apply to cost-of-service studies used in the  de-
+velopment or review of generally applicable rate schedules.
+[19]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(27) Sensitive business, commercial or financial  information furnished to or developed by the
+City of Klamath Falls, acting  solely in connection with the ownership and operation of the Klamath
+Cogeneration Project, if the  information is directly related to a transaction described in ORS 225.085
+and disclosure  of the information would cause a competitive disadvantage for the Klamath
+Cogeneration Project. This subsection does not  apply to cost-of-service studies used in the develop-
+ment or review of generally applicable rate schedules.
+(28) Personally identifiable information about customers of a municipal electric  utility or a
+people’s utility district or the names, dates of birth,  driver license numbers, telephone numbers,
+electronic mail addresses or Social Security numbers of customers  who receive water, sewer or
+storm drain services from a public  body as defined in ORS 174.109. The utility or district may re-
+lease personally identifiable information about a customer, and a  public body providing water, sewer
+or storm drain services may release the  name, date of birth, driver license number, telephone num-
+ber, electronic mail address or Social Security number of a customer, if the customer consents  in
+writing or electronically, if the disclosure is necessary for the utility, district  or other public body
+to render services to the customer, if the disclosure is required pursuant to  a court order or if the
+disclosure is otherwise required by federal or  state law. The utility, district or other public body
+may charge as appropriate for the costs of providing such information. The utility, district  or other
+public body may make customer records available to third  party credit agencies on a regular basis
+in connection with the establishment and  management of customer accounts or in the event such
+accounts are delinquent.
+(29) A record of the street and number of an employee’s  address submitted to a special district
+to obtain assistance in promoting an alternative to single occupant motor vehicle transportation.
+(30) Sensitive  business records, capital development plans or financial or commercial information
+of Oregon Corrections Enterprises that is not customarily provided to business competitors.
+(31) Documents, materials or other information submitted to the Director of  the Department of
+Consumer and Business Services in confidence by a state, federal, foreign or international regulatory
+or law  enforcement agency or by the National Association of Insurance Commissioners, its affiliates
+or subsidiaries under ORS 86A.095 to 86A.198, 697.005 to 697.095, 697.602  to 697.842, 705.137, 717.200
+to 717.320, 717.900 or 717.905, ORS chapter  59, 723, 725 or 726, the Bank Act or the Insurance Code
+when:
+(a) The document, material or other information is received  upon notice or with an under-
+standing that  it is confidential or privileged under the laws of the jurisdiction that is the source of
+the document, material or other information; and
+(b) The director has obligated the Department  of Consumer and Business Services not to dis-
+close the document, material or other information.
+(32) A county elections security plan developed and filed under ORS 254.074.
+(33) Information about review or approval of programs relating to the security of:
+(a) Generation, storage or conveyance of:
+(A) Electricity;
+(B) Gas in liquefied or gaseous form;
+(C) Hazardous substances as defined in ORS 453.005 (7)(a), (b) and (d);
+(D) Petroleum products;
+(E) Sewage; or
+(F) Water.
+(b) Telecommunication systems, including cellular, wireless or radio systems.
+[20]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Data transmissions by whatever means provided.
+(34) The information specified in ORS 25.020 (8) if the Chief Justice of the Supreme Court  des-
+ignates the information as confidential by rule under ORS 1.002.
+(35)(a) Employer account records of the State Accident Insurance Fund Corporation.
+(b) As used in this subsection, “employer account records” means  all records maintained in any
+form that are specifically related to the account of any employer insured, previously insured or  un-
+der consideration to  be insured by the State Accident Insurance Fund Corporation and any infor-
+mation obtained or developed by the  corporation in connection with providing, offering to provide
+or declining to provide insurance to a specific employer. “Employer  account records” includes, but
+is not limited to, an employer’s payroll records, premium payment history, payroll  classifications,
+employee names and identification information, experience modification factors, loss experience  and
+dividend payment history.
+(c) The exemption provided by this subsection may not serve as the  basis for opposition to the
+discovery documents in litigation pursuant to applicable rules of civil procedure.
+(36)(a) Claimant files of the State Accident Insurance Fund Corporation.
+(b) As used in this subsection, “claimant files”  includes, but is not limited to, all records held
+by the corporation pertaining to a person who has made a  claim, as defined in ORS 656.005, and all
+records pertaining to such a claim.
+(c) The exemption provided by this subsection may not serve as the  basis for opposition to the
+discovery documents in litigation pursuant to applicable rules of civil procedure.
+(37) Except as authorized  by ORS 408.425, records that certify or verify an individual’s discharge
+or other separation from military service.
+(38) Records of or submitted to a domestic violence service or resource center that relate  to the
+name or personal information of an individual who visits a center for service, including the  date of
+service, the type of service received, referrals or  contact information or personal information of a
+family member of the individual. As used in this subsection, “domestic  violence service or resource
+center” means an entity, the primary purpose of which is to  assist persons affected by domestic or
+sexual violence by  providing referrals, resource information or other assistance specifically of ben-
+efit to domestic or sexual violence victims.
+(39) Information reported to the Oregon Health Authority under  ORS 431A.860, except as pro-
+vided in ORS 431A.860 (2)(b) information disclosed by  the authority under ORS 431A.865 and any
+information related to  disclosures made by the authority under ORS 431A.865, including information
+identifying the recipient of the information.
+(40)(a) Electronic mail addresses  in the possession or custody of an agency or subdivision of the
+executive department, as  defined in ORS 174.112, a local government or local service district, as
+defined in ORS 174.116, or a special government body, as defined in ORS 174.117.
+(b) This subsection does not apply to electronic mail addresses assigned  by a public body to
+public employees for use by the employees in the ordinary course of their employment.
+(41) Residential addresses, residential telephone numbers,  personal cellular telephone numbers,
+personal electronic mail  addresses, driver license numbers, emergency contact information, Social
+Security numbers, dates of birth and other telephone  numbers of individuals currently or previously
+certified or licensed by the Department of  Public Safety Standards and Training contained in the
+records maintained by the department.
+(42) Personally identifiable  information and contact information of veterans as defined in ORS
+408.225 and  of persons serving on active duty or as reserve members with the Armed Forces of the
+[21]
+SB 505
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+United States, National Guard or other reserve component that was obtained by the Department of
+Veterans’ Affairs in the course of performing its duties and functions,  including but not limited to
+names, residential and employment addresses, dates of birth,  driver license numbers, telephone
+numbers, electronic mail addresses, Social Security numbers, marital  status, dependents, the char-
+acter of discharge  from military service, military rating or rank, that the person is a veteran or has
+provided military service, information relating to an application for or receipt  of federal or state
+benefits, information  relating to the basis for receipt or denial of federal or state benefits and in-
+formation relating to a home loan or grant application, including  but not limited to financial infor-
+mation provided in connection with the application.
+(43) Audio recordings or shorthand reporter notes or reports of grand jury proceedings,
+or transcripts prepared from the recordings,  notes or reports, described in section 3 of this
+2017 Act.
+SECTION 15.
+ORS 132.080 is repealed.
+SECTION 16. (1) Sections 1, 2 and 3 of this 2017 Act and the amendments to ORS 132.090,
+132.320, 132.550, 135.405 and 192.502 by sections 4,  5, 7, 8 and 14 of this 2017 Act become op-
+erative October 1, 2017.
+(2) The amendments to sections  1, 2 and 3 of this 2017 Act and ORS 132.090, 132.320 and
+132.430 by sections 6, 9, 10, 11, 12 and 13 of this 2017 Act and the repeal of ORS 132.080 by
+section 15 of this 2017 Act become operative July 1, 2018.
+(3) The Judicial Department may take any action before the operative dates specified in
+subsections (1) and (2) of this section that is  necessary to enable the department to exercise
+the duties, functions and powers conferred on the department by this 2017 Act.
+SECTION 17.
+This 2017 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2017 Act takes effect
+on its passage.
+[22]

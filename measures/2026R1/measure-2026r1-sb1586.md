@@ -1,0 +1,940 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-sb1586
+title: 'SB 1586 (2026R1): Modifies the tax credit allowed for semiconductor research.'
+doc_type: dataset_doc
+citation: 2026 Regular Session Senate Bill 1586
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1586/Introduced
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: dc2bd308bda05512a5ff3b2dcdb370b02a1169168d29767ebb72a3127fc140ae
+snapshot_id: measure-2026r1-sb1586-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 183.700
+  - ORS 192.311
+  - ORS 197.015
+  - ORS 197.251
+  - ORS 197A.250
+  - ORS 197A.358
+  - ORS 215.431
+  - ORS 285A.010
+  - ORS 285B.625
+  - ORS 285B.626
+  - ORS 285C.065
+  - ORS 285C.067
+  - ORS 285C.074
+  - ORS 285C.117
+  - ORS 285C.140
+  - ORS 285C.160
+  - ORS 285C.162
+  - ORS 285C.165
+  - ORS 285C.170
+  - ORS 285C.175
+  - ORS 285C.180
+  - ORS 285C.200
+  - ORS 285C.203
+  - ORS 285C.210
+  - ORS 285C.215
+  - ORS 285C.220
+  - ORS 285C.240
+  - ORS 285C.245
+  - ORS 285C.403
+  - ORS 285C.405
+  - ORS 285C.409
+  - ORS 285C.412
+  - ORS 305.404
+  - ORS 311.370
+  - ORS 314.415
+  - ORS 314.515
+  - ORS 315.058
+  - ORS 315.061
+  - ORS 315.518
+  - ORS 315.519
+  - ORS 315.522
+  - ORS 316.187
+  - ORS 316.502
+  - ORS 317.090
+  - ORS 327.011
+  - ORS 332.002
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- sb
+session_key: 2026R1
+measure_prefix: SB
+measure_number: 1586
+prefix_meaning: Senate Bill
+catch_line: Modifies the tax credit allowed for semiconductor research.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would change the tax credit for semiconductor research. \n\tThe Act\
+  \ would set up and change some tax breaks for advanced manufacturing, enterprise zones and regionally\
+  \ significant industrial sites. \n\tThe Act would direct certain state agencies to set up deadlines\
+  \ to process applications for permits and to make the deadlines public. The Act would make those agencies,\
+  \ no later than 60 days after the date on which the Act becomes law, publish a list of the permits that\
+  \ they issue. \n\tThe Act would change tax and other laws and rezone lands to aid economic growth. (Flesch\
+  \ Readability Score: 60.4). \n\tModifies the tax credit allowed for semiconductor research. \n\tCreates\
+  \ and amends certain programs offering tax breaks related to advanced manufacturing, enterprise zones\
+  \ and regionally significant industrial sites. \n\tDirects certain state agencies to establish deadlines\
+  \ within which the agency intends to process applications for permits and make the deadlines available\
+  \ to the public. Directs certain state agencies to publish a catalog of permits issued by the agency\
+  \ within 60 days after the effective date of the Act. \n\tAdds rural reserves in Washington County to\
+  \ Metro to be used for high-technology and advanced manufacturing purposes. \n\tTakes effect on the\
+  \ 91st day following adjournment sine die."
+relating_to: Relating to economic development; prescribing an effective date.
+relating_to_full: Relating to economic development; creating new provisions; amending ORS 197A.250, 285B.626,
+  285C.067, 285C.160, 285C.162, 285C.175, 285C.403, 285C.405, 315.518, 315.519 and 315.522 and sections
+  8 and 12, chapter 298, Oregon Laws 2023; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 237
+measure_created_date: '2026-01-16T16:36:07'
+measure_modified_date: '2026-02-02T12:23:16'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 55269
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 183.700
+  - ORS 192.311
+  - ORS 197.015
+  - ORS 197.251
+  - ORS 197A.250
+  - ORS 197A.358
+  - ORS 215.431
+  - ORS 285A.010
+  - ORS 285B.625
+  - ORS 285B.626
+  - ORS 285C.065
+  - ORS 285C.067
+  - ORS 285C.074
+  - ORS 285C.117
+  - ORS 285C.140
+  - ORS 285C.160
+  - ORS 285C.162
+  - ORS 285C.165
+  - ORS 285C.170
+  - ORS 285C.175
+  - ORS 285C.180
+  - ORS 285C.200
+  - ORS 285C.203
+  - ORS 285C.210
+  - ORS 285C.215
+  - ORS 285C.220
+  - ORS 285C.240
+  - ORS 285C.245
+  - ORS 285C.403
+  - ORS 285C.405
+  - ORS 285C.409
+  - ORS 285C.412
+  - ORS 305.404
+  - ORS 311.370
+  - ORS 314.415
+  - ORS 314.515
+  - ORS 315.058
+  - ORS 315.061
+  - ORS 315.518
+  - ORS 315.519
+  - ORS 315.522
+  - ORS 316.187
+  - ORS 316.502
+  - ORS 317.090
+  - ORS 327.011
+  - ORS 332.002
+  from_relating_to_full:
+  - ORS 197A.250
+  - ORS 285B.626
+  - ORS 285C.067
+  - ORS 285C.160
+  - ORS 285C.162
+  - ORS 285C.175
+  - ORS 285C.403
+  - ORS 285C.405
+  - ORS 315.518
+  - ORS 315.519
+  - ORS 315.522
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1586`.
+
+# SB 1586 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1586, 2026 Regular Session (2026R1)
+- **LC number:** 237
+- **Created:** 2026-01-16T16:36:07
+- **Metadata last modified (upstream):** 2026-02-02T12:23:16
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 55269 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1586/Introduced>.
+
+## Summary
+
+**Catchline:** Modifies the tax credit allowed for semiconductor research.
+
+**Relating to:** Relating to economic development; prescribing an effective date.
+
+Digest: The Act would change the tax credit for semiconductor research. 
+ The Act would set up and change some tax breaks for advanced manufacturing, enterprise zones and regionally significant industrial sites. 
+ The Act would direct certain state agencies to set up deadlines to process applications for permits and to make the deadlines public. The Act would make those agencies, no later than 60 days after the date on which the Act becomes law, publish a list of the permits that they issue. 
+ The Act would change tax and other laws and rezone lands to aid economic growth. (Flesch Readability Score: 60.4). 
+ Modifies the tax credit allowed for semiconductor research. 
+ Creates and amends certain programs offering tax breaks related to advanced manufacturing, enterprise zones and regionally significant industrial sites. 
+ Directs certain state agencies to establish deadlines within which the agency intends to process applications for permits and make the deadlines available to the public. Directs certain state agencies to publish a catalog of permits issued by the agency within 60 days after the effective date of the Act. 
+ Adds rural reserves in Washington County to Metro to be used for high-technology and advanced manufacturing purposes. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to economic development; creating new provisions; amending ORS 197A.250, 285B.626, 285C.067, 285C.160, 285C.162, 285C.175, 285C.403, 285C.405, 315.518, 315.519 and 315.522 and sections 8 and 12, chapter 298, Oregon Laws 2023; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1586
+Sponsored by Senators SOLLMAN, MEEK, BROADMAN, ANDERSON,  JAMA, MANNING JR, SMITH DB, STARR,
+Representatives BREESE-IVERSON, DOBSON, EVANS, JAVADI, NGUYEN D, PHAM  H, RIEKE SMITH,
+WALLAN; Senators  FREDERICK, MCLANE, NASH, REYNOLDS, THATCHER, WEBER, Representatives
+BUNCH, EDWARDS, GOMBERG, HELFRICH, ISADORE, LEVY B, LIVELY,  MCINTIRE, MUNOZ, OSBORNE,
+RESCHKE, RUIZ, WATANABE, WISE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would change the tax credit for semiconductor research.
+The Act would set up and change some tax  breaks for advanced manufacturing, enterprise zones
+and regionally significant industrial sites.
+The Act would direct certain state agencies to set up deadlines to process applications for per-
+mits and to make the deadlines public. The Act would make those agencies, no later  than 60 days
+after the date on which the Act becomes law, publish a list of the permits that they issue.
+The Act would change tax and other laws and rezone lands to aid economic growth. (Flesch
+Readability Score: 60.4).
+Modifies the tax credit allowed for semiconductor research.
+Creates and amends  certain programs offering tax breaks related to advanced manufacturing,
+enterprise zones and regionally significant industrial sites.
+Directs  certain  state agencies to establish deadlines within which the agency intends to process
+applications for permits and make the deadlines available  to the public. Directs certain state agen-
+cies to publish a catalog of  permits issued by the agency within 60 days after the effective date of
+the Act.
+Adds rural reserves in Washington  County to Metro to be used for high-technology and ad-
+vanced manufacturing purposes.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to  economic development; creating new provisions; amending ORS 197A.250, 285B.626,
+285C.067, 285C.160, 285C.162,  285C.175, 285C.403, 285C.405, 315.518, 315.519 and 315.522 and
+sections 8 and 12, chapter 298, Oregon Laws 2023; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 315.518 is amended to read:
+315.518. (1) As used in this section[ ,]:
+(a) “Qualified alternative energy production company” means  an entity whose primary
+business is to research, develop and  manufacture devices that enable energy to be produced
+from renewable sources.
+(b) “Qualified biotechnology  company” means an entity whose primary business is the
+use of cellular or biological processes to research, develop and  manufacture new medicines
+or technologies to cure life-threatening diseases and illnesses.
+(c) “Qualified company” means a qualified alternative energy production company, a
+qualified biotechnology company or a qualified semiconductor company.
+(d) “Qualified semiconductor company” means an entity whose primary  business is the research,
+design, development, fabrication, assembly, testing, packaging or validation  of semiconductors, or
+an entity whose primary business is the creation of semiconductor manufacturing equipment,  semi-
+conductor core intellectual property or electronic design automation  software that is primarily in-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 237
+tended for use in the semiconductor industry.
+(2) A credit against  taxes otherwise due under ORS chapter 316 or, if the taxpayer is a corpo-
+ration, under ORS chapter 317 shall be allowed to eligible taxpayers for increases in  qualified re-
+search expenses and basic research payments.  The credit shall be determined in accordance with
+section 41 of the Internal Revenue Code, except as follows:
+(a) The applicable percentage specified in section 41(a) of the Internal Revenue Code shall  be
+15 percent.
+(b) “Qualified research” and  “basic research” shall consist only of research conducted in Oregon
+by a qualified [ semiconductor] company, in  support of [ a trade or business directly related to semi-
+conductors] the qualified company’s primary business .
+(3) The Income Tax Regulations as prescribed by  the Secretary of the Treasury under authority
+of section 41 of the Internal Revenue Code apply for purposes  of this section, except as modified by
+this section or as provided in rules adopted by the Department of Revenue.
+(4) The maximum credit under this section may not exceed $4 million for any taxpayer.
+(5) Prior to claiming a credit  under this section, a taxpayer must obtain from the Oregon Busi-
+ness Development Department[ :]
+[(a) If applicable, approval  from the Oregon Business Development Department as provided in
+section 5, chapter 298, Oregon Laws 2023. ]
+[(b)] certification as provided in ORS 315.522.
+(6) The Oregon Business Development  Department shall provide information to the Department
+of Revenue about all certifications issued under ORS 315.522, if required by ORS 315.058.
+(7) The Director of the Oregon Business Development Department may order  the suspension or
+revocation of a credit allowed under this section, as provided in ORS 315.061.
+(8) A deduction may  not be taken for the portion of expenses or payments, otherwise allowable
+as a deduction, that is equal to the amount of the credit claimed under this section.
+(9) Notwithstanding ORS 317.090 (3), the refundable portion of a credit under  this section is al-
+lowed against the tax imposed under ORS 317.090 and may reduce the tax imposed under  ORS
+317.090 to zero. Any remaining amount of credit above the minimum shall be refunded as provided
+in ORS 315.519.
+(10) Any tax credit that is otherwise allowable under this section and  that is not used by the
+taxpayer in that year may be carried forward and  offset against the taxpayer’s tax liability for the
+next succeeding tax year. Any credit remaining unused in such  next succeeding tax year may be
+carried forward and used in the  second succeeding tax year, and likewise any credit not used in that
+second succeeding tax year may be carried forward and used  in the third succeeding tax year, and
+any credit not used in that third succeeding tax year may be carried forward and used in the fourth
+succeeding tax year, and any credit not used  in that fourth succeeding tax year may be carried
+forward and used in the fifth succeeding tax year, but may not be carried forward for any tax year
+thereafter.
+SECTION 2.
+ ORS 315.519 is amended to read:
+315.519. (1)(a) If the amount allowable as a credit under ORS 315.518,  after any reduction ap-
+plicable under subsection (2) of this section, when added to the sum of the amount of estimated  tax
+paid under ORS 314.515 and any other tax prepayment amounts, exceeds the taxes imposed by ORS
+chapters 314 and 317 for the tax year after  application of any nonrefundable credits allowable for
+purposes of ORS chapter 317 for the tax year, the amount of the excess  determined under this sub-
+section shall be refunded to the taxpayer as provided in ORS 314.415.
+(b) If the amount allowable as a credit under ORS  315.518, after any reduction applicable under
+subsection (2) of this section, when added to the sum of the amounts  allowable as payment of tax
+under ORS 316.187 or 316.583, other  tax prepayment amounts and other refundable credit amounts,
+exceeds the taxes imposed by ORS chapters 314 and 316 for the tax year after application of  any
+nonrefundable credits allowable for purposes of ORS chapter 316 for the tax year, the  amount of the
+excess shall be refunded to the taxpayer as provided in ORS 316.502.
+(2) If the taxpayer employs, in Oregon:
+(a) Fewer than 150 employees at the close of the tax year, the amount of credit used in  the
+calculation in subsection (1) of this section shall be reduced by 25 percent.
+(b) At least 150 employees  but fewer than 500 employees at the close of the tax year, the amount
+of credit used in the calculation in subsection (1) of this section shall be reduced by 50 percent.
+(c) At least 500 employees [ but fewer than 3,000 employees ] at  the close of the tax year, the
+amount of credit used in the calculation in subsection (1) of  this section shall be reduced by 75
+percent.
+(3) Any amount  not available for refund due to subsection (2) of this section may be carried
+forward as provided in ORS 315.518 (10).
+[(4) This section applies only to taxpayers  with fewer than 3,000 employees who are employed in
+Oregon at the close of the tax year. ]
+SECTION 3.
+ ORS 315.522 is amended to read:
+315.522. (1) A  taxpayer seeking to claim the credit provided under ORS 315.518 shall file for
+each tax year a written application for certification with the Oregon Business Development  De-
+partment. The application must include:
+(a) A  description of how the taxpayer meets the definition of a qualified [ semiconductor] company
+under ORS 315.518;
+(b) A description of how proposed research and development activities  for which the taxpayer
+seeks a tax credit under ORS 315.518 will support the  taxpayer in conducting [ a business or trade
+directly related to semiconductors ] the qualified company’s primary business ; and
+(c) Any other information that is required by the department by rule.
+(2) An application  for certification under this section must be accompanied by a payment of any
+fee established by the department by rule under subsection (4) of this section.
+(3)(a) Except as provided in paragraph (b) of this subsection, the department  shall certify
+applicants and award credit amounts in the order applications are received by the depart-
+ment. Applications received on the same day shall be deemed to have been received simul-
+taneously. If a pending request cannot be fully certified because of the  limitation in section
+8, chapter 298, Oregon Laws 2023, the department shall  certify the portion that may be cer-
+tified unless the qualified company elects  to withdraw its request rather than receive partial
+credit.
+(b) The department by rule shall establish a reserve  amount sufficient to ensure that any
+qualified company with fewer than 150 employees that files an application under this  section
+prior to the date prescribed for filing the  qualified company’s tax return shall receive certi-
+fication for the full amount of the credit to which the qualified company is eligible.
+[(3)] (c) After considering timely filed and complete applications, along with amounts available
+under section 8, chapter 298, Oregon Laws 2023, the  department shall, if the department deems ap-
+propriate, issue a certification to an applicant taxpayer if the department determines  that the tax-
+payer is a qualified [ semiconductor] company as that term is defined under ORS 315.518, and if  the
+taxpayer attests that the proposed research and development activities for  which the taxpayer seeks
+the credit under ORS 315.518 will  support the taxpayer in conducting [ a trade or business directly
+related to semiconductors ] the taxpayer’s primary business .
+(4) The department shall  establish by rule a fee for filing a written application for certification
+under this section. The fee shall be  adequate to recover the costs incurred by the department in
+reviewing the applications under this section.
+(5) Information submitted to the department under this section or section  5, chapter 298, Oregon
+Laws 2023, is exempt from public disclosure under ORS  192.311 to 192.478 and must be treated as
+confidential.
+SECTION 4.
+ Section 8, chapter 298, Oregon Laws 2023, is amended to read:
+Sec. 8. (1) The total amount of potential tax credits for all qualified semiconductor companies
+in this state may not, at the time  of certification under [ section 4 of this 2023 Act ] ORS 315.522,
+exceed[ :]
+[(1)] $35 million for the biennium beginning July 1, 2023[ ;].
+(2) The total amount of  potential tax credits for all qualified companies in this state may
+not, at the time of certification under ORS 315.522, exceed:
+[(2)] (a) [ $80] $160 million for the biennium beginning July 1, 2025;
+[(3)] (b) [ $90] $180 million for the biennium beginning July 1, 2027; and
+[(4)] (c) [ $50] $100 million for the fiscal year beginning July 1, 2029.
+SECTION 5.  Section 12, chapter 298, Oregon Laws 2023, is amended to read:
+Sec. 12.  [ Sections 2 to 5 of this 2023 Act ] ORS 315.518 to 315.522 and section 5, chapter 298,
+Oregon Laws 2023,  apply to tax years beginning on or after  January 1, 2024, and before January
+1, [2030] 2036.
+SECTION 6. The amendments to  ORS 315.518, 315.519 and 315.522 by sections 1 to 3 of this
+2026 Act apply to tax years beginning on or after January 1, 2027.
+SECTION 7. (1) The governing body of a city or county may establish by ordinance  or
+resolution a property tax  exemption for new or modernized machinery and equipment used
+exclusively within the boundaries of the city or the unincorporated areas of the county,  re-
+spectively, by an advanced manufacturing business.
+(2) An ordinance or resolution adopted under this section  shall specify the requirements
+for the machinery and equipment  to be eligible for, and an advanced manufacturing business
+to claim, the exemption.
+(3)(a) An  ordinance or resolution adopted under this section shall specify the period, not
+to exceed five years, for which the exemption may be granted.
+(b) The city or county may adopt any other provisions relating to the  property tax ex-
+emption that do not conflict with the requirements of this section.
+(4)(a) The  city or county may amend or repeal an ordinance or resolution adopted under
+this section at any time.
+(b) Notwithstanding paragraph (a) of  this subsection, machinery and equipment that is
+receiving an exemption under this section when  the amendments to or the repeal of the or-
+dinance or resolution become effective shall  continue to receive the exemption pursuant to
+the provisions of the ordinance or resolution in effect  when the machinery and equipment
+was initially granted the exemption.
+SECTION 8.  ORS 285C.175 is amended to read:
+285C.175. (1) Property of an authorized business  firm is exempt from ad valorem property taxa-
+tion if:
+(a) The property is qualified property under ORS 285C.180;
+(b) The firm meets the qualifications under ORS 285C.200; and
+(c) The firm has entered into a first-source hiring agreement under ORS 285C.215.
+(2)(a) Except as otherwise provided in ORS 285C.203:
+(A) The exemption  allowed under this section applies to the first tax year for which, as of Jan-
+uary 1 preceding the tax year,  the qualified property is in service. The exemption shall continue for
+the next two succeeding tax years if the  property continues to be owned or leased by the business
+firm and located in the enterprise zone.
+(B) The property may be exempt from property taxation under this section for up to [ two] seven
+additional tax years consecutively  following the tax years described in subparagraph (A) of this
+paragraph, if authorized by the written agreement entered into  by the firm and the sponsor under
+ORS 285C.160.
+(b) If qualified property of a qualified  business firm is sold or leased to an eligible business firm
+in the enterprise zone  during the period the property is exempt under this section, the purchasing
+or leasing firm is  eligible to continue the exemption of the selling or leasing firm for the balance
+of the exemption period, but only if any effects on employment within the zone that result  from the
+sale or lease do not constitute substantial curtailment under ORS 285C.210.
+(3)(a) The exemption allowed under this section shall be 100 percent of the  assessed value of the
+qualified property in each of the tax years for which the exemption is available.
+(b) Notwithstanding paragraph (a) of this subsection:
+(A) If the qualified property is an addition to or modification of an existing building or structure,
+the exemption shall be measured by the increase in value, if any, attributable to the addition or
+modification.
+(B) If the qualified property is an item of reconditioned,  refurbished, retrofitted or upgraded real
+property machinery or equipment, the exemption shall  be measured by the increase in the value of
+the item that is attributable to the reconditioning, refurbishment, retrofitting or upgrade.
+(4)(a) An exemption may not  be granted under this section for qualified property assessed for
+property tax purposes in the county in which  the property is located on or before the date on which:
+(A) Designation of the zone takes effect under ORS 285C.074; or
+(B) A boundary change for the zone takes effect  under ORS 285C.117 if the property is located
+in an area added to the zone.
+(b) An exemption may not be granted for qualified property constructed, added, modified  or in-
+stalled in the zone or in the process of construction, addition, modification or installation in the
+zone on or before the date on which:
+(A) Designation of the zone takes effect under ORS 285C.074; or
+(B) A boundary change for the zone takes effect  under ORS 285C.117 if the property is located
+in an area added to the zone.
+(c) An exemption may not be  granted for any qualified property that was in service within the
+zone for more than 12 months by January 1 of the first  assessment year for which an exemption
+claim is made, or 24 months, in the case of a late claim under ORS 285C.220 (9).
+(d) An exemption may not be granted for any qualified property  unless the property is actually
+in use or occupancy before July 1 of the year immediately following the year during which the
+property was first placed in service.
+(e) Except as provided in ORS 285C.245, an exemption may not be granted for qualified  property
+constructed, added, modified or installed after termination of an enterprise zone.
+(5) Property is not  required to have been exempt under ORS 285C.170 in order to be exempt
+under this section.
+(6) The county assessor shall notify the business firm  in writing whenever property is denied
+an exemption  under this section. The denial of exemption may be appealed to the Oregon Tax Court
+under ORS 305.404 to 305.560.
+(7) For each tax year that the property is exempt from taxation, the assessor shall:
+(a) Enter on the assessment  roll, as a notation, the assessed value of the property as if it were
+not exempt under this section.
+(b) Enter on the assessment roll, as a notation, the amount of  additional taxes that would be
+due if the property were not exempt.
+(c) Indicate on the assessment  roll that the property is exempt and is subject to potential addi-
+tional taxes as provided in ORS 285C.240, by adding the notation “enterprise  zone exemption (po-
+tential additional tax).”
+SECTION 9.
+ ORS 285C.160 is amended to read:
+285C.160. (1) An eligible business firm  seeking authorization under ORS 285C.140 and the spon-
+sor of the enterprise zone in which the firm intends to invest  may enter into a written agreement
+to extend the period  during which the qualified property is exempt from taxation under ORS
+285C.175 if the firm complies with the terms of the agreement.
+(2) The period for which the qualified property is to continue to be exempt must  be set forth in
+the agreement and may not exceed [ two] seven additional tax years for  which a school support fee
+must be paid in accordance with ORS 285C.162.
+(3) In order for an agreement under  this section to extend the period of exemption, the agree-
+ment must be executed on or before the date on which the firm is authorized, and:
+(a) If the enterprise zone is a rural enterprise zone or an urban enterprise zone located  inside
+a metropolitan statistical area of fewer than 400,000 residents, the agreement must  require that the
+firm:
+(A)(i) Annually compensate all  new employees hired by the firm at an average rate of at least
+150 percent of the county average annual wage for each assessment  year during the tax exemption
+period, as determined at the time of authorization; or
+(ii) If the enterprise zone is located in a qualified  rural county, annually compensate all new
+employees hired by the firm at an average rate of at least 130 percent of the county average annual
+wage for each assessment year during the tax exemption period, as determined at the time of  au-
+thorization; and
+(B) Meet any additional requirement that the sponsor may reasonably request.
+(b) Notwithstanding paragraph (a)(A) of this subsection, the average  wage received by the newly
+hired employees must equal or exceed 100 percent of the average wage in the county.
+(c) If the enterprise  zone is an urban enterprise zone located inside a metropolitan statistical
+area of 400,000 residents or more, the agreement must require that the firm meet  any additional
+requirement the sponsor may reasonably require.
+(4) If a firm enters into an agreement under this section that includes a  compensation require-
+ment under  subsection (3)(a)(A) of this section and the firm subsequently submits one or more
+statements of continued intent under ORS 285C.165, notwithstanding the terms of the  agreement
+made under this section, for each statement of continued  intent submitted, the county average an-
+nual wage under subsection (3)(a)(A) of this section shall be adjusted  to a level that is current with
+the statement.
+SECTION 10.
+ ORS 285C.162 is amended to read:
+285C.162. (1) As used in this section :[,]
+(a) “Affected school district” means a  school district as defined in ORS 332.002 (2) in which the
+qualified property of a business firm granted exemption under ORS 285C.175 is located.
+(b) “Electing  school district” means an affected school district whose governing body
+elects to receive a school support fee under this section.
+(2)(a) An agreement entered into under ORS 285C.160  by the governing body of a zone sponsor
+and a business firm [ shall] may provide for a school support fee to be paid in lieu of the  property
+taxes that would otherwise be imposed on the business firm’s qualified property.
+(b) The governing body of an affected school district shall notify the  zone sponsor
+whether or not the school district elects to receive a school support fee.
+[(b)] (3)(a) The amount of [ the] a school support fee [ of each affected ] for an  electing  school
+district shall equal the respective rate set under ORS 285C.067 (1)(b) multiplied by the property
+taxes that  would, but for the exemption, be due on the qualified property for each property tax year
+to which the agreement relates.
+[(c)] (b) The agreement may also include:
+(A) A rate of interest and a penalty to be imposed on delinquent fee payments;
+(B) A means and schedule for curing a delinquent fee payment; and
+(C) Any  other provisions the zone sponsor and business firm agree upon that do not conflict with
+this section.
+[(3)(a)] (4)(a) On or before November 1 following  the beginning of each of the [ two] additional
+tax years agreed upon under ORS 285C.160 (2), the  governing body of the zone sponsor shall provide
+to the governing body of each [ affected] electing school district all information necessary for the
+[affected] electing school district to collect the fee directly from the business firm.
+(b) On or before each following December 1, the governing body of each  [ affected] electing
+school district shall send to the business firm a notice of the required fee payment. The fee shall
+be due not later than December 31 of the same year.
+[(4)] (5) Each [ affected] electing school district shall be  responsible for making refunds to busi-
+ness firms of overpayments of the  district’s school support fee and any interest or penalty imposed
+on the fee.
+[(5)(a)] (6)(a) If a fee payment is  delinquent for more than 60 days following the date of delin-
+quency or any later date allowed for curing the delinquency, the governing body  of each [ affected]
+electing school district shall give written notice of the delinquency to the business  firm and the
+assessor of the county in which the [ affected] electing school district is situated.
+(b) Upon receipt of the written  notice under paragraph (a) of this subsection, the assessor shall:
+(A) Disqualify the property for the property tax years, if any, for  which exemption under ORS
+285C.175 would otherwise be allowable following the disqualifying event; and
+(B) Impose the amount of the outstanding  fee along with any amounts of interest or penalty
+imposed on the fee.
+[(6)] (7) The amount determined to be due under subsection [ (5)] (6) of this section:
+(a) May be paid to the tax collector before completion  of the next general property tax roll
+pursuant to ORS 311.370; and
+(b) Shall be added to the tax extended against the property on the next general property tax roll.
+[(7)] (8) Amounts collected under this section shall be deemed to  have been imposed for the
+property tax year to which the fee payment relates.
+[(8)] (9) The fee  shall be considered moneys received in lieu of property taxes for purposes of
+ORS 327.011 (1)(f).
+[(9)] (10) The amount of a fee  and any interest or penalty imposed on the fee, and the disquali-
+fication of qualified property under this section, may be appealed to the Oregon Tax Court under
+ORS 305.404 to 305.560.
+SECTION 11.
+ ORS 285C.405 is amended to read:
+285C.405. (1) As used in this section :[,]
+(a) “Affected school district” means a  school district as defined in ORS 332.002 (2) in which the
+facility of a business firm granted exemption under ORS 285C.409 is located.
+(b) “Electing  school district” means an affected school district whose governing body
+elects to receive a school support fee under this section.
+(2)(a) An agreement entered into under ORS 285C.403  by the governing body of a zone sponsor
+and a business firm [ shall] may provide for a school support fee to be paid in lieu of the  property
+taxes that would otherwise  be imposed on the business firm’s facility for each year of exemption
+after the fifth year.
+(b) The governing  body of an affected school district shall notify the zone sponsor
+whether or not the school district elects to receive a school support fee.
+[(b)] (3)(a) The  amount of [ the] a school support fee [ of each affected ] for an electing  school
+district shall equal the respective rate set under ORS 285C.067 (1)(b) multiplied by the property
+taxes that would, but for the exemption, be due on the facility for each property tax  year after the
+fifth year of exemption.
+[(c)] (b) The agreement may also include:
+(A) A rate of interest and a penalty to be imposed on delinquent fee payments;
+(B) A means and schedule for curing a delinquent fee payment; and
+(C) Any  other provisions the zone sponsor and business firm agree upon that do not conflict with
+this section.
+[(3)(a)] (4)(a) On or before November 1 following the beginning of the  sixth and each subsequent
+property tax year for which an exemption under ORS 285C.409 is granted, the governing  body of the
+zone sponsor  shall provide to the governing body of each [ affected] electing school district all in-
+formation necessary for the [ affected] electing school district to collect the fee directly  from the
+business firm.
+(b) On or before each following December 1, the governing body of each  [ affected] electing
+school district shall send to the business firm a notice of the required fee payment. The fee shall
+be due not later than December 31 of the same year.
+[(4)] (5) Each [ affected] electing school district shall be  responsible for making refunds to busi-
+ness firms of overpayments of the  district’s school support fee and any interest or penalty imposed
+on the fee.
+[(5)(a)] (6)(a) If a fee payment is  delinquent for more than 60 days following the date of delin-
+quency or any later date allowed for curing the delinquency, the governing body  of each [ affected]
+electing school district shall give written notice of the delinquency to the business  firm and the
+assessor of the county in which the [ affected] electing school district is situated.
+(b) Upon receipt of the written  notice under paragraph (a) of this subsection, the assessor shall:
+(A) Disqualify the property for the property tax years, if any, for  which exemption under ORS
+285C.409 would otherwise be allowable following the disqualifying event; and
+(B) Impose the amount of the outstanding  fee along with any amounts of interest or penalty
+imposed on the fee.
+[(6)] (7) The amount determined to be due under subsection [ (5)] (6) of this section:
+(a) May be paid to the tax collector before completion  of the next general property tax roll
+pursuant to ORS 311.370; and
+(b) Shall be added to the tax extended against the property on the next general property tax roll.
+[(7)] (8) Amounts collected under this section shall be deemed to  have been imposed for the
+property tax year to which the fee payment relates.
+[(8)] (9) The fee  shall be considered moneys received in lieu of property taxes for purposes of
+ORS 327.011 (1)(f).
+[(9)] (10) The amount of a fee  and any interest or penalty imposed on the fee, and the disquali-
+fication of a facility under this section, may be appealed to the Oregon Tax Court under ORS 305.404
+to 305.560.
+SECTION 12.
+ ORS 285C.067 is amended to read:
+285C.067. (1) Prior to designating an enterprise zone under ORS 285C.065 or 285C.250:
+(a) The governing body of the city, county or port seeking to designate the  enterprise zone shall
+consult with all local taxing districts with territory in the zone.
+(b) The governing  bodies of the zone sponsor and each  electing school district as defined in ORS
+[332.002 (2)] 285C.162 with territory in the enterprise zone shall set a rate  for the school support fee
+imposed pursuant to ORS 285C.162 [ (2)] (3) and 285C.405 [ (2)] (3) that is at least 15 percent and not
+more than 30  percent. The rate shall apply to all qualified property and facilities granted exemption
+under ORS 285C.175 or 285C.409, respectively, located in the enterprise zone.
+(2) The Oregon Business Development Department may adopt rules on the consultations  re-
+quired under subsection (1) of this section and procedures related to the consultations.
+SECTION 13.
+ ORS 285C.403 is amended to read:
+285C.403. (1)(a) A  business firm proposing to apply for the tax exemption provided under ORS
+285C.409 shall,  before the commencement of construction or installation of property or improvements
+at a location in a rural enterprise zone and  before the hiring of employees, apply for certification
+with the sponsor of the zone and with the county assessor of the  county or counties in which the
+zone is located.
+(b) A business firm may not be certified under  this section if it is significantly engaged in op-
+erating a fulfillment center within the rural enterprise zone  from which deliveries are made to retail
+purchasers within, or in the region surrounding, the rural enterprise zone.
+(2) An application  for certification shall be made on a form prescribed by the Department of
+Revenue and shall contain the following information:
+(a) A description of the firm’s proposed business operations and facility in the  rural enterprise
+zone;
+(b) A description and estimated cost or value of the property or improvements to  be constructed
+or installed at the facility;
+(c) An estimate of the number of employees at the facility that will be hired by the firm;
+(d) A commitment to meet the applicable requirements of ORS 285C.412;
+(e) A commitment to  satisfy all additional conditions agreed to pursuant to the written agree-
+ment between the  rural enterprise zone sponsor and the business firm under subsection (3)(c) of this
+section;  and
+(f) Any other information considered necessary by the Department of Revenue.
+(3) The sponsor and the county assessor shall certify the business firm by approving the  appli-
+cation if the sponsor and the county assessor determine that all of the following  requirements have
+been met:
+(a) The governing body of  the county and city in which the facility is located has adopted a
+resolution approving the property tax exemption for the facility.
+(b) The business firm has committed to meet the applicable requirements of ORS 285C.412.
+(c) The  business firm has entered into a written agreement with the sponsor of the rural enter-
+prise zone that conforms to subsection (4) of this section.
+(d) When the  written agreement required under paragraph (c) of this subsection is executed, the
+facility is located in:
+(A) A qualified rural county; or
+(B) A county  with chronically low income or chronic unemployment, based on the most recently
+revised annual data available.
+(4)(a)(A) The written agreement required under subsection (3)(c) of this section  shall state the
+number of consecutive tax years for which the  facility, following commencement of operations, is to
+be exempt from property tax under ORS 285C.409.
+(B) The agreement may not provide  for a period of exemption that is less than seven consecutive
+tax years or more than 15 consecutive tax years.
+(C) If the agreement is silent on the number of tax years for which the facility  is to be exempt
+following placement in service, the exemption shall be for seven consecutive tax years.
+(b) The agreement must [ require a] include any school support fee to be paid in accordance with
+ORS 285C.405.
+(c) The agreement may  include any additional requirements that the sponsor may reasonably
+request, including but not limited to contributions for  local services or infrastructure benefiting the
+facility.
+(5) The approval of an application by both the sponsor  and the county assessor under subsection
+(3) of this section shall be prima facie  evidence that the business firm will qualify for the property
+tax exemption under ORS 285C.409.
+(6) The sponsor and the county assessor shall provide copies of  an approved application to the
+applicant, the Department of Revenue and the Oregon Business Development Department.
+(7) If the sponsor or  the county assessor fails or refuses to certify the business firm, the business
+firm may appeal to  the Oregon Tax Court under ORS 305.404 to 305.560. The business firm shall
+provide copies of the firm’s  appeal to the sponsor, the county assessor, the Oregon Business Devel-
+opment Department and the Department of Revenue.
+SECTION 14.
+ ORS 285B.626 is amended to read:
+285B.626. As used in ORS 285B.625 to 285B.632:
+(1)(a) “Eligible employer” means an employer that[ :]
+[(a)] is conducting  a traded sector business on a regionally significant industrial site[ ;] and that
+meets the requirements under paragraph (b) or (c) of this subsection.
+(b)[(A)] With respect  to [ the] an employer’s establishment at a rural regionally significant in-
+dustrial site, [ has increased ] the employer must:
+(A) Be conducting business at a site where, together with  all other eligible employers
+conducting business at  the same site, the cumulative  average annual employment has in-
+creased by at least 25 jobs ; and
+(B) [ has] Have an average annual wage of at least 150 percent of the county  or state average
+wage, whichever is less .[; or ]
+[(B)] (c) With respect to [ the] an employer’s establishment at an urban regionally significant
+industrial site, [ has increased ] the employer must:
+(A) Be conducting business at a site where, together with  all other eligible employers
+conducting business at  the same site, the cumulative  average annual employment has in-
+creased by at least 50 jobs ; and
+(B) [ has] Have an average annual wage of at least 150 percent of the county  or state average
+wage, whichever is less.
+(2) “Estimated incremental income tax revenues” means the Oregon personal income tax reven-
+ues that are equivalent to the amount of tax that employees of  an eligible employer who are hired
+by the eligible employer on a designated  regionally significant industrial site have paid under ORS
+chapter 316 in the tax years  following the first tax year in which the eligible employer begins con-
+ducting a traded sector business on the designated regionally significant industrial site.
+(3) “Industrial use” means employment activities,  including but not limited to manufacturing,
+assembly, fabrication, processing, storage, logistics, warehousing, importation, distribution, trans-
+shipment and research and  development, that generate income from the production, handling or
+distribution of goods or services, including goods or services in the traded sector.
+(4) “Project sponsor” means:
+(a) A public owner of a regionally significant industrial site that is investing in preparation  of
+the site for industrial use by a third party; or
+(b) A public entity that has entered into a development or other agreement with  the private
+owner of a regionally significant industrial site to prepare the site for industrial use.
+(5) “Regionally significant industrial site” means a site planned and zoned for  industrial use
+that:
+(a)(A) Is suitable for the  location of new industrial uses or the expansion of existing industrial
+uses and that can provide significant additional employment in the region;
+(B) Has site characteristics that provide significant competitive advantages that are difficult  or
+impossible to replicate in the region; and
+(C) Has superior access  to transportation and freight infrastructure, including but not limited
+to rail, port, airport, multimodal freight  or transshipment facilities and other major transportation
+facilities or routes; or
+(b) Is located in  an area designated by Metro, as defined in ORS 197.015, as a regionally sig-
+nificant industrial area.
+(6) “Rural site” means a regionally significant industrial site located in an area outside  of a
+metropolitan statistical area, as defined by the most recent federal decennial census.
+(7) “Traded sector” has the meaning given that term in ORS 285A.010.
+(8) “Urban site” means a regionally significant industrial site  located in a metropolitan statis-
+tical area, as defined by the most recent  federal decennial census, that is located inside a regional
+or metropolitan urban growth boundary.
+(9) “Wage” has the  meaning given that term pursuant to rules adopted by the Oregon Business
+Development Department.
+SECTION 15.
+Sections 16 and 17 of this 2026 Act are added to and made a part of ORS
+chapter 183.
+SECTION 16. (1) As used in this section:
+(a) “Agency” means:
+(A) The Department of Environmental Quality.
+(B) The State Department of Agriculture.
+(C) The Department of Consumer and Business Services.
+(D) The Department of Transportation.
+(E) The Water Resources Department.
+(F) The State Department of Energy.
+(b) “Permit” has the meaning given that term in ORS 183.700.
+(2) An agency shall establish efficient deadlines within which the agency intends  to pro-
+cess applications for each permit issued by the agency. The agency shall make the  deadlines
+available to the public.
+(3) To the greatest extent possible, an agency that fails to process an application for a
+permit before the deadline established under this section shall refund the application fee for
+the permit and finish processing the application.
+(4) This section does not confer any right to challenge a rule, order, outcome of a permit
+application or other action or inaction of an agency.
+SECTION 17.
+(1) As used in this section:
+(a) “Agency” means:
+(A) The Department of Environmental Quality.
+(B) The State Department of Agriculture.
+(C) The Department of Consumer and Business Services.
+(D) The Department of Transportation.
+(E) The Water Resources Department.
+(F) The State Department of Energy.
+(b) “Complete application” means an application for which the applicant has properly and
+timely submitted all information required by an agency to act upon the application.
+(c) “Permit” has the meaning given that term in ORS 183.700.
+(2) No later than 60 days following the effective date of this 2026 Act, an agency  shall
+publish a catalog of permits issued by  the agency. For each permit issued by the agency, the
+catalog must include:
+(a) A description of the permit.
+(b) The duration of the permit.
+(c) The statutory authority, regulatory  authority or other authority for issuing the per-
+mit.
+(d) The method by which the agency receives  applications for the permit and, if readily
+available, the date the method was last significantly updated.
+(e) Any statutory, regulatory or other authority governing the time  within which the
+agency must process applications for the permit.
+(f) The application fee for  the permit, the statutory, regulatory or other authority for the
+application fee and when the amount of the application fee was last changed.
+(g) An analysis of the time within which, with  existing resources, the agency could con-
+sistently process complete applications for the permit.
+(h) A description of the steps in the current approval process, as well  as any post-
+approval steps that must be completed before a person can use the permit.
+(i) For the year 2025:
+(A) The number of applications received for the permit.
+(B) The average processing time for all applications for the  permit, including applications
+that were initially incomplete.
+(C) The average processing time for complete applications for the permit.
+(D) The average time between approval of the permit and any necessary post-approval
+step.
+(j) An analysis identifying opportunities  to streamline the approval process for the per-
+mit, eliminate any unnecessary steps or barriers, reduce the incidence of  incomplete appli-
+cations and eliminate any obsolete or unnecessary approval processes.
+(k) The approximate  number of applications for the permit currently pending at the
+agency and a statement of whether a backlog exists.
+SECTION 18.
+Section 17 of this 2026 Act is repealed on January 2, 2027.
+SECTION 19.  ORS 197A.250 is amended to read:
+197A.250. (1) For purposes of land use planning in Oregon, the  Legislative Assembly designates
+the land in Washington  County that was designated as rural reserve in Metro Resolution No.
+11-4245, adopted on March 15, 2011, as the acknowledged rural  reserve in Washington County, ex-
+cept that:
+(a) The Legislative Assembly does not designate as rural reserves the real property in Area  5C
+on Metro’s map denominated as the “Urban and Rural Reserves  in Washington County, Attachment
+A to Staff Report for Resolution No. 11-4245 (03/17/11 DRAFT),” that  is more particularly described
+as:
+(A) Tax lots 1500 and 1501, section 1  of township 2 south, range 2 west, Willamette Meridian;
+and
+(B) A tract of land being in the north one-half of section 18, township 2  south, range 1 west,
+Willamette Meridian, Washington County Oregon, and being more particularly described  as follows:
+Beginning at the northeast corner of that tract of land conveyed to John Lasich, et ux, by deed re-
+corded October 22, 1931, in Book 148, page 116,  of the Washington County Deed Records; thence
+westerly  along  the north line said tract 1444.2 feet, more or less, to the southwest corner of that
+property described in Deed Document No. 81038291 of the Washington County Book of Records;
+thence southerly and  perpendicular to said north line, 50.00 feet; thence easterly on a line being
+parallel with and 50.00 feet southerly of said north line 1444.2 feet, more or less, to the east line
+of said Lasich tract; thence northerly 50.00 feet to the point of beginning.
+(b) The Legislative Assembly designates as acknowledged urban reserve the real property  that
+is part of the original plat of Bendemeer, Washington County, Oregon, more particularly  described
+as:
+(A) All of lots 1 through 18, inclusive;
+(B) The parts of lots 64,  65 and 66 that are situated between the east boundary of the right of
+way of Northwest West Union Road and  the east boundary of the right of way of Northwest
+Cornelius Pass Road;
+(C) The real property that is more particularly described as: Beginning at a point  of origin that
+is the south bank of Holcomb Creek and the west  boundary of the right of way of Northwest
+Cornelius Pass Road; thence easterly along the south bank of Holcomb Creek, continuing along the
+south bank of Holcomb Lake  to its intersection with the west boundary of Area 8C; thence southerly
+along the west boundary of Area 8C to its intersection with the  north boundary of the right of way
+of Northwest West Union Road;  thence westerly along the right of way to its intersection with the
+west boundary of the right of way of Northwest Cornelius Pass Road;  thence northerly along the
+right of way to the point of origin;
+(D) The real property that is more particularly described as tax  lot 4050 in section 14A of
+township 1 north, range 2 west, Willamette Meridian;
+(E) The portion of Northwest West Union Road and its right of way from the intersection of the
+road with the west boundary of Area 8C to the intersection  of the road with the west boundary of
+the right of way of Northwest Bendemeer Road on Metro’s map denominated as the  “Urban and
+Rural Reserves  in Washington County, Attachment A to Staff Report for Resolution No. 11-4245
+(03/17/11 DRAFT)”; and
+(F) The real property that is more particularly described as tax lot 400 in section 14D  of town-
+ship 1 north, range 2 west, Willamette Meridian.
+(2) For purposes of land  use planning in Oregon, the Legislative Assembly designates the land
+in Washington County that was designated as  urban reserve in Metro Resolution No. 11-4245,
+adopted on March 15, 2011, as the acknowledged urban reserve in Washington County, except that:
+(a) The  real property in Area 8A on Metro’s map denominated as the “Urban and Rural Re-
+serves in Washington County, Attachment A to  Staff Report for Resolution No. 11-4245 (03/17/11
+DRAFT),” [ east of the east boundary of the right of way  of Northwest Jackson School Road and east
+of the east bank of Storey Creek and  the east bank of Waibel Creek ] is included within the acknowl-
+edged Metro  urban growth boundary.
+[(b) The real property in Area 8A on Metro’s map denominated as the “Urban and  Rural Reserves
+in Washington County, Attachment A to Staff Report for Resolution No. 11-4245 (03/17/11 DRAFT),”
+that is south of the south boundary of the right of way of Highway 26  and west of the real property
+described in paragraph (a) of this subsection is designated as acknowledged rural reserve. ]
+[(c)] (b)  The real property in Area  8B on Metro’s map denominated as the “Urban and Rural
+Reserves in Washington County, Attachment A  to Staff Report for Resolution No. 11-4245 (03/17/11
+DRAFT),” that is more particularly described as tax lot 100 in section 21AA  of township 1 north,
+range 2 west, Willamette Meridian, and tax lots 900, 901, 1100, 1200, 1300 and 1400 in section 15  of
+township 1 north, range 2 west, Willamette Meridian, is not designated as a reserve area.
+[(d)] (c) The real property in Area 8B on Metro’s map denominated as the  “Urban and Rural
+Reserves in Washington County, Attachment A to Staff Report  for Resolution No. 11-4245 (03/17/11
+DRAFT),” that is not described in paragraph [ (c)] (b) of this subsection is designated as  acknowl-
+edged rural reserve.
+[(e)] (d)  The real property in Area  7B on Metro’s map denominated as the “Urban and Rural
+Reserves in Washington County, Attachment A  to Staff Report for Resolution No. 11-4245 (03/17/11
+DRAFT),” that is  north of the south bank of Council Creek is designated as acknowledged rural
+reserve.
+[(f)] (e)  The real property in  Area 7B on Metro’s map denominated as the “Urban and Rural
+Reserves in Washington County, Attachment A to Staff Report  for Resolution No. 11-4245 (03/17/11
+DRAFT),” that is south of the south bank of Council Creek is included within the acknowledged
+Metro urban growth boundary.
+(3) For purposes of  land use planning in Oregon, in relation to the following real property in
+Washington County that is  not reserved by designation in Metro Resolution No. 11-4245, adopted
+on March 15, 2011, the Legislative Assembly designates:
+(a) As acknowledged  rural reserve the real property that is situated south of the City of North
+Plains on Metro’s map denominated as the “Urban and  Rural Reserves in Washington County, At-
+tachment A to  Staff Report for Resolution No. 11-4245 (03/17/11 DRAFT),” more particularly de-
+scribed as tax lots 100, 101,  200 and 201 in section 11 of township 1 north, range 3 west, Willamette
+Meridian, tax lots 1800 and 2000 and  that portion of tax lot 3900 that is north of the south line of
+the Dobbins Donation Land Claim No.  47 in section 12 of township 1 north, range 3 west, Willamette
+Meridian, and the portion of Northwest Gordon Road and its right of way from the south boundary
+of the right of way of Northwest Beach Road to the south  boundary of tax lot 200 in section 11 of
+township 1 north, range 3 west, Willamette Meridian.
+(b) As acknowledged rural reserve  the real property that is situated north of the City of
+Cornelius  on  Metro’s map denominated as the “Urban and Rural Reserves in Washington County,
+Attachment A to Staff Report for Resolution No. 11-4245 (03/17/11  DRAFT),” and that is north of the
+south bank of Council Creek, east of the east right of way of Northwest  Cornelius-Schefflin Road
+and west of the west bank of Dairy Creek.
+(c) As acknowledged rural reserve the real property that  is north of the City of Forest Grove
+on Metro’s map denominated as the “Urban and Rural Reserves  in Washington County, Attachment
+A to Staff Report  for Resolution No. 11-4245 (03/17/11 DRAFT),” more particularly described as east
+of Area 7B, west of the east right  of way of Highway 47 and south of the north right of way of
+Northwest Purdin Road.
+(d) As acknowledged rural reserve the real property that is situated west of  Area 8B on Metro’s
+map denominated as the “Urban and Rural Reserves in Washington  County, Attachment A to Staff
+Report for Resolution No. 11-4245 (03/17/11 DRAFT).”
+(4) Land in a county in Metro that is planned and zoned for farm, forest or mixed farm  and
+forest use and  that is not designated as urban reserve may not be included within the urban growth
+boundary of Metro before  at least 75 percent of the land in the county that was designated urban
+reserve in this section has been included within the urban growth boundary and  planned and zoned
+for urban uses.
+(5) The real property described in subsection (2)(a) of this  section east of Northwest Jackson
+School Road, Storey Creek and Waibel Creek , except for the land denominated  as “UGB 2014”
+on the Metro Map titled “HB 4078 Reserves  and Urban Growth Boundary Washington County Area
+- Attachment 1 (June 2014)” and that is south of Northwest Sunset Highway and north  of Northwest
+Evergreen Road:
+(a) Is employment land of state significance; and
+(b) Must be planned and zoned for employment use.
+(6) The real property described in subsection (2)(a) of this section, except for the land
+east of Northwest Jackson School Road, Storey Creek and Waibel Creek:
+(a) Must be planned and zoned for industrial use, including:
+(A) High-technology and advanced manufacturing  and production, including research and
+development;
+(B) Uses that support high-technology  and advanced manufacturing, research and devel-
+opment; and
+(C) Commercial uses that  are accessory to and located within the same building as the
+high-technology and advanced manufacturing or that support the manufacturing.
+(b) May not zoned for or developed as:
+(A) A data storage, processing or information center except as an  accessory to or part
+of a use described in paragraph (a) of this subsection;
+(B) Commercial recreation facilities; or
+(C) Retail warehousing facilities.
+[(6)] (7) If the real property described in subsection  [(2)(f)] (2)(e) of this section or ORS 197A.358
+(1) to (3) is planned and zoned for employment use, in its  first legislative review of the urban growth
+boundary on or after April 1, 2014,  Metro shall not count the employment capacity of the real
+property described in subsection [ (2)(f)] (2)(e)  of this section or in ORS 197A.358 (1) to (3) in deter-
+mining the employment capacity of the land within Metro.
+SECTION 20.
+Notwithstanding ORS  chapter 197 or 197A, ORS 215.431 or 227.188, any
+statewide land use planning goals or administrative rules that implement the goals, not later
+than six months following the effective date of this 2026 Act, Washington County  and the
+City of Hillsboro shall amend their respective comprehensive  plans and land use regulations
+to allow for the use  of the land described in ORS 197A.250 (2)(a) for the uses described in
+197A.250 (6). The amendments are  deemed acknowledged under ORS 197.251 upon adoption
+by the local government, provided that:
+(1) Each amendment is adopted by an ordinance or resolution of the governing body  of
+the local government after a public hearing; and
+(2) A  copy of the ordinance or resolution is delivered to the Land Conservation and De-
+velopment Commission within 14 days after adoption.
+SECTION 21.
+Notwithstanding any provision of ORS chapter 198 or 268,  the lands added
+to the acknowledged Metro urban growth boundary by the amendments to ORS 197A.250 by
+section 19 of  this 2026 Act are hereby annexed to the metropolitan service district without
+further proceedings.
+SECTION 22.
+This 2026 Act takes effect on the 91st day after the date on which  the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 197A.250, ORS 285B.626, ORS 285C.067, ORS 285C.160, ORS 285C.162, ORS 285C.175, ORS 285C.403, ORS 285C.405, ORS 315.518, ORS 315.519, ORS 315.522
+- From bill text (Introduced version): ORS 183.700, ORS 192.311, ORS 197.015, ORS 197.251, ORS 197A.250, ORS 197A.358, ORS 215.431, ORS 285A.010, ORS 285B.625, ORS 285B.626, ORS 285C.065, ORS 285C.067, ORS 285C.074, ORS 285C.117, ORS 285C.140, ORS 285C.160, ORS 285C.162, ORS 285C.165, ORS 285C.170, ORS 285C.175, ORS 285C.180, ORS 285C.200, ORS 285C.203, ORS 285C.210, ORS 285C.215, ORS 285C.220, ORS 285C.240, ORS 285C.245, ORS 285C.403, ORS 285C.405, ORS 285C.409, ORS 285C.412, ORS 305.404, ORS 311.370, ORS 314.415, ORS 314.515, ORS 315.058, ORS 315.061, ORS 315.518, ORS 315.519, ORS 315.522, ORS 316.187, ORS 316.502, ORS 317.090, ORS 327.011, ORS 332.002
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-28, sha256 `dc2bd308bda05512a5ff3b2dcdb370b02a1169168d29767ebb72a3127fc140ae` (snapshot `_meta/snapshots/measure-2026r1-sb1586-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1586/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1586` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

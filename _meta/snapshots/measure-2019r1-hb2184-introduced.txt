@@ -1,0 +1,238 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2184
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Economic Development and Trade)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Expands definition of “retail  telecommunications service” for purposes of universal service sur-
+charge. Authorizes Public Utility  Commission to subject sale of communications and broadband
+services other than retail telecommunication services to universal service  surcharge. Directs com-
+mission to transfer moneys deposited in  universal service fund that are to be used for encouraging
+broadband service availability to Broadband Fund.
+Establishes Broadband Fund. Continuously appropriates moneys in Broadband  Fund to Oregon
+Business Development Department to provide grants and loans under program for  assisting qualified
+entities with projects for development of open access  broadband service. Directs department to
+adopt program for providing grants and loans by rule.
+A BILL FOR AN ACT
+Relating to the universal service fund; creating new provisions; and amending ORS 759.425.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 759.425 is amended to read:
+759.425. (1) For purposes  of this section, “retail telecommunications service” [ does not include
+radio communications service, radio paging service, commercial mobile radio service,  personal commu-
+nications service or cellular  communications service ] includes both wireless and wireline services,
+including but not  limited to radio common carrier services and interconnected voice over
+Internet protocol service .
+(2)(a) The Public Utility Commission shall establish and implement a competitively  neutral and
+nondiscriminatory universal service fund. Except as provided in paragraph (b)  of this subsection, the
+Public Utility Commission shall use  the universal service fund to ensure basic telephone service is
+available at a reasonable and affordable  rate. The Public Utility Commission may adopt rules to
+conform the universal service fund to section 254 of the federal Telecommunications Act of  1996
+(Public Law 104-104), and to related regulations  adopted by the Federal Communications Commis-
+sion, to the extent that the Public  Utility Commission determines conforming the rules is appropri-
+ate.
+(b) In  addition to using the universal service fund to ensure basic telephone service, the Public
+Utility Commission [ may] shall use the universal  service fund to encourage broadband service
+availability and to provide support to telecommunications carriers that provide both  basic telephone
+service and broadband service.  The commission shall determine the amount of moneys  depos-
+ited in the universal service fund to be used to encourage broadband service availability and
+shall, in  accordance with a schedule adopted by the commission, transfer the moneys for
+encouraging broadband service availability to the State  Treasurer for deposit in the
+Broadband Fund established under section 2 of this 2019 Act.
+(3)(a) The Public Utility  Commission shall establish the price a telecommunications utility may
+charge its customers for basic telephone service. The commission  shall periodically review and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3225
+HB 2184
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+evaluate the status of telecommunications services in the state  and designate the services included
+in basic telephone  service. The commission shall periodically review and adjust as necessary the
+price a telecommunications utility may charge for basic telephone service.
+(b) The provisions of this  subsection do not apply to the basic telephone service provided by a
+telecommunications utility described in ORS 759.040.
+(4)(a) The commission shall establish a benchmark for basic telephone service as necessary  for
+the administration and distribution of the universal service fund. The universal service  fund shall
+provide explicit support to an eligible telecommunications carrier that is equal  to the difference
+between the cost of providing basic telephone service and  the benchmark, less any explicit com-
+pensation received  by the telecommunications carrier from federal sources specifically used to re-
+cover local loop costs and less any explicit support received by the  telecommunications carrier from
+a federal universal service program.
+(b) The commission shall periodically  review the benchmark established under paragraph (a) of
+this subsection and adjust the benchmark as necessary to reflect:
+(A) Changes in competition in the telecommunications industry;
+(B) Changes in federal universal service support; and
+(C) Other relevant factors as determined by the commission.
+(c) Except for a telecommunications utility described in ORS  759.040, the commission shall seek
+to limit the difference between the price  a telecommunications utility may charge for basic tele-
+phone service and the benchmark.
+(5) There is imposed on the  sale of all retail telecommunications services sold in this state , and
+on the sale of such other communications and broadband services as the  commission in its
+discretion may determine,  a universal  service surcharge. Unless otherwise provided by the com-
+mission by rule, the universal service surcharge must be a uniform percentage  of the sale of [ retail
+telecommunications] services  subject to the surcharge  in an amount sufficient to support the pur-
+poses of the universal service fund established under subsection (2) of  this section, provided that the
+percentage does not exceed 8.5 percent of the sale of  [retail telecommunications] services  subject to
+the surcharge . The universal service surcharge may be listed as  a separate line item by all [ tele-
+communications carriers ] carriers required to  collect the surcharge , as prescribed by the com-
+mission by rule or order. A [ telecommunications carrier ] carrier required to collect the surcharge
+shall transmit amounts collected pursuant to this section to the commission in accordance with a
+schedule adopted by the commission. The commission shall deposit moneys transmitted to  the com-
+mission pursuant to this subsection in  the universal service fund established under subsection (2)
+of this section.
+(6) The universal service fund  established under subsection (2) of this section is separate and
+distinct from  the General Fund. The universal service fund shall consist of all universal service
+surcharge moneys collected by [ telecommunications carriers ] carriers required to collect the  sur-
+charge and transmitted to the commission for deposit in the universal service  fund. The universal
+service fund may  be used only for the purposes described in this section and for payment of expenses
+incurred  by  the commission or a third party appointed by the commission to administer this section.
+All moneys in the universal service fund are continuously  appropriated to the commission to carry
+out the provisions of this section. Interest on moneys deposited in the universal service  fund shall
+accrue to the universal service fund.
+[(7) A person that  primarily provides radio communications service, radio paging service, com-
+mercial mobile radio service, personal communications service  or cellular communications service may
+[2]
+HB 2184
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+request designation as an eligible telecommunications  carrier by the commission for purposes of this
+section if the person imposes the universal service surcharge described in subsection (5) of this  section
+and transmits the moneys collected to  the commission for deposit in the universal service fund estab-
+lished under subsection (2) of this section for at  least one year immediately prior to requesting the
+designation.]
+[(8)] (7)  A pay telephone provider may apply to the commission, on a  form developed by the
+commission, for a refund of the universal service surcharge imposed  on the pay telephone provider
+under subsection (5) of this section for the provision of pay telephone service.
+SECTION 2. The Broadband Fund is established, separate and distinct from  the General
+Fund. Moneys in the Broadband Fund are continuously appropriated to the Oregon  Business
+Development Department to be used only for  providing grants or loans through the program
+adopted by rule under section 3 of this 2019 Act. The fund shall  consist of moneys deposited
+in the fund pursuant to ORS 759.425.
+SECTION 3. (1) The Oregon  Business Development Department shall adopt by rule a
+program for  providing grants or loans to assist qualified entities with projects for develop-
+ment of open access broadband service infrastructure. Rules adopted under  this section shall
+include, but not be limited to:
+(a) Rules for establishing eligibility for a grant or loan under the program;
+(b) Rules for the evaluation of project proposals and distribution of grants or loans  to
+qualified entities; and
+(c) An appeals process for applicants for grants or loans under the program.
+(2) To be funded by a grant or  loan under the program, a proposed project for develop-
+ment of open  access broadband service infrastructure must be designed to serve areas of this
+state that, prior  to the project, are unserved or underserved by broadband service, with
+broadband service at download speeds of at least 25 megabits  per second and upload speeds
+of at least three megabits per second.
+(3) Grants or loans awarded under the program may  be used for technical assistance,
+planning or implementation of open access broadband service infrastructure projects.
+(4) Entities that may qualify for  grants or loans under the program shall include for-
+profit or nonprofit business  entities, utilities, philanthropic organizations, governments and
+governmental subdivisions, agencies or instrumentalities.
+(5) When  making grant or loan awards under the program, the department shall give
+preference to project proposals that are  part of a comprehensive economic development
+strategy.
+[3]

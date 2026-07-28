@@ -1,0 +1,63 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Senate Bill 661
+Sponsored by Senator OLSEN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Prohibits sweeping of moneys in  Emergency Communications Account, except in case of fiscal
+emergency. Defines “fiscal emergency.”
+A BILL FOR AN ACT
+Relating to restriction of sweeps of  moneys in the Emergency Communications Account; amending
+ORS 403.235.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 403.235 is amended to read:
+403.235. (1) The Emergency Communications  Account is established separate and distinct from
+the General Fund in the State Treasury. All moneys received by the Department of Revenue pursu-
+ant to ORS 403.200 to 403.230 and interest thereon must be paid to the State  Treasurer to be held
+in a suspense account established under ORS  293.445. After payment of refunds, the balance of the
+moneys received must be paid into the  State Treasury and credited to the Emergency Communi-
+cations Account. All moneys in the account  are continuously appropriated to the Office of Emer-
+gency Management and must be used for the purposes described in ORS 403.240.
+(2) The 9-1-1 Subaccount is established as a subaccount of the Emergency Communications  Ac-
+count. Thirty-five percent of the amount in the Emergency Communications Account on the  date of
+distribution must be credited to  the 9-1-1 Subaccount. All moneys in the [ account] subaccount are
+continuously appropriated to the Office of Emergency Management and must be used for  the pur-
+poses described in ORS 403.240 (3), (4) and (5).
+(3) Except in case of fiscal emergency, moneys  in the Emergency Communications Ac-
+count, including any subaccounts thereof, may be used only  for the purposes described in
+subsections (1) and (2) of this section, and may not be transferred out of the account.
+(4) As  used in this section, “fiscal emergency” means a projected deficit for the biennium,
+as most recently projected by  the Oregon Department of Administrative Services, of at least
+12 percent below the revenue estimated to be received for the biennium, as  estimated pur-
+suant to ORS 291.349 (1) after  adjournment sine die of the odd-numbered year regular session
+of the Legislative Assembly.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1197

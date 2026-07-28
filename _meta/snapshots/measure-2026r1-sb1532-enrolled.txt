@@ -1,0 +1,919 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+Senate Bill 1532
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Senate Interim Committee on Human Services)
+CHAPTER .................................................
+AN ACT
+Relating to services for vulnerable persons; creating new  provisions; amending ORS 418.205, 418.321,
+418.322, 419B.351, 427.005, 427.024, 427.026, 427.181, 427.191 and 441.736; and declaring an emer-
+gency.
+Be It Enacted by the People of the State of Oregon:
+RESIDENTIAL AND LONG TERM CARE
+SECTION 1.
+ ORS 441.736 is amended to read:
+441.736. (1) As used in this section:
+(a) “Immediate jeopardy” means a situation in which the failure of a  residential care facility or
+a long  term care facility to comply with a rule of the Department of Human Services has caused
+or is likely to cause serious injury, serious harm, serious impairment or death to a resident.
+(b) “License condition” includes but is not limited to:
+(A) Restricting the total number of residents;
+(B) Restricting the number and impairment level of residents based upon the  capacity of the
+licensee and staff to meet the health and safety needs of all residents;
+(C) Requiring additional staff or staff qualifications;
+(D) Requiring additional training for staff;
+(E) Requiring additional documentation; or
+(F) Restriction of admissions.
+(c) “Preliminary finding” means an  objective finding based on the available evidence at
+the time that the department conducts an initial investigation of a complaint.
+[(c)] (d) “Substantial compliance” means a level of compliance with state  law and with rules of
+the department such that any identified deficiencies pose a risk of no more than negligible harm  to
+the health or safety of residents of a residential care facility or a long term care facility.
+[(2)(a) The department may impose a condition on  the license of a residential care facility or long
+term care facility  in response to a substantiated finding of rule violation, including but not limited to
+a substantiated finding of abuse, and shall impose a condition on the  license in response to a finding
+of immediate jeopardy, whether or  not the finding of immediate jeopardy is substantiated at the time
+the license condition is imposed. ]
+Enrolled Senate Bill 1532 (SB 1532-A) Page 1
+(2) The department may  impose a condition on the license of a residential care facility
+or long term care facility in response  to a substantiated finding of rule violation, including
+but not limited to a substantiated finding of abuse.
+(3) The department shall impose a condition on the license  of a residential care facility
+or long term care facility in response to:
+(a) A preliminary finding of immediate jeopardy that is reasonably  likely to result in a
+substantiated finding; or
+(b) A substantiated finding of immediate jeopardy.
+(4)(a) Before the department may make a preliminary finding  of immediate jeopardy, the
+department must, at a minimum, provide an opportunity  for the facility to provide initial
+information or evidence to the department regarding the allegations in the complaint.
+(b) If the department  imposes a license condition based on a preliminary finding of im-
+mediate jeopardy and the preliminary finding is not substantiated within  30 days after the
+imposition of the license  condition, the department shall immediately notify the facility and
+remove the license condition.
+[(b)] (5) The department shall impose a license condition in a scope and manner that is specif-
+ically designed to remediate the finding that led to the license condition.
+[(c) If the department imposes a license condition in  response to a finding of immediate jeopardy
+to residents of the facility, and the finding of immediate jeopardy  to residents of the facility is not
+substantiated within 30 days after the imposition of the  license condition, the department shall imme-
+diately remove the license condition. ]
+[(d)(A)] (6)(a) Except as  provided in [ subparagraph (B) of this paragraph ] paragraph (b) of this
+subsection, the department shall provide a facility with a notice  of impending imposition of license
+condition at least 48 hours before issuing an order imposing a license condition. The notice must:
+[(i)] (A) Describe the acts or omissions  of the facility and the circumstances that led to the
+substantiated finding  of rule violation or finding of immediate jeopardy supporting the imposition
+of the license condition;
+[(ii)] (B) Describe why  the acts or omissions and the circumstances create a situation for which
+the imposition of a license condition is warranted;
+[(iii)] (C) Provide a brief statement identifying the nature of the license condition;
+[(iv)] (D) Provide a  brief statement describing how the license condition is designed to remediate
+the circumstances that led to the license condition; and
+[(v)] (E) Provide a brief statement of the requirements for withdrawal of the license condition.
+[(B)] (b) If the threat to residents of a facility is  so imminent that the department determines
+it is not safe or practical to give the  facility advance notice, the department must provide the notice
+required under this [ paragraph] subsection within 48 hours of issuing an order imposing  the license
+condition.
+[(e)] (7) An order imposing a license condition must include:
+[(A)] (a) A specific description of how the scope and manner of the license  condition is designed
+to remediate the findings that led to the license condition; and
+[(B)] (b) A specific description of the requirements for withdrawal of the license condition.
+(8) For a license condition that is imposed in response to a preliminary finding or sub-
+stantiated finding of immediate jeopardy, the order must also include  a summary of the ev-
+idence demonstrating that:
+(a) The facility has failed to meet one or  more health, safety or quality rules or regu-
+lations;
+(b) As a result  of the facility’s noncompliance described in paragraph (a) of this sub-
+section, serious injury, serious harm,  serious impairment or death has occurred or is likely
+to occur if the noncompliance is not corrected;
+(c) The facility has  not demonstrated that the noncompliance described in paragraph (a)
+of this subsection has been corrected; and
+Enrolled Senate Bill 1532 (SB 1532-A) Page 2
+(d) At the time the license  condition is imposed, there is a current need for immediate
+corrective action by the facility to prevent serious injury, serious harm,  serious impairment
+or death from occurring or recurring.
+[(3)] (9) The department may impose a license condition that includes a restriction on admissions
+to the facility only if the department makes a finding of immediate jeopardy that is likely to  present
+an immediate jeopardy to future residents upon admission.
+[(4)(a)] (10)(a) Following the imposition of a license  condition on a facility, the department shall:
+(A) Within 15 business days of receipt of the facility’s written assertion  of substantial compli-
+ance with the requirements set forth by the department for withdrawal of the license  condition, re-
+inspect or reevaluate the facility to determine  whether the facility has achieved substantial
+compliance with the requirements;
+(B) Notify the facility by telephone or electronic means of the findings  of the reinspection or
+reevaluation within five business days after completion of the reinspection or reevaluation; and
+(C) Issue a written report to the facility within  30 days after the reinspection or reevaluation
+notifying the facility of the department’s determinations regarding substantial compliance  with the
+requirements necessary for withdrawal of the license condition.
+(b) If the department finds that the facility has achieved  substantial compliance regarding the
+violation for which the license  condition was imposed, and finds that systems are in place to ensure
+similar deficiencies do not reoccur, the department shall withdraw the license condition.
+(c) If after reinspection or reevaluation the department determines that  the violation for which
+the license condition  was imposed continues to exist, the department may not withdraw the license
+condition,  and  the department is not obligated to reinspect or reevaluate the facility again for 45
+days after the first reinspection or reevaluation. The department  shall provide the decision not to
+withdraw the license condition to  the facility in writing and inform the facility of the right to a
+contested case hearing pursuant to ORS chapter 183. Nothing  in this paragraph limits the
+department’s authority to visit or inspect the facility at any time.
+(d) If the department does not meet the requirements  of this subsection, a license condition is
+automatically removed on  the date the department failed to meet the requirements of this sub-
+section, unless the Director of Human Services  extends the applicable period for no more than 15
+business days. The director  may not delegate the power to make a determination regarding an ex-
+tension under this paragraph.
+SECTION 2. (1) As used in this  section, “residential care facility” means a residential
+care facility as defined in ORS 443.400, including an  assisted living facility and a facility with
+a memory care endorsement under ORS 443.886.
+(2) The Department of Human Services shall adopt by rule a model consent  form for the
+use of a video camera or other  electronic monitoring device in a resident’s room at a resi-
+dential care facility.
+SECTION 3. (1) Notwithstanding ORS  443.415, 443.416, 443.436, 443.441, 443.443, 443.735,
+443.755 and 443.886, the  Department of Human Services and the Oregon Health Authority
+may take reasonable steps to achieve substantial compliance with the terms of ORS 443.415,
+443.416, 443.436, 443.441, 443.443, 443.735, 443.755 and 443.886,  as those sections are amended
+by sections 1, 7, 8, 10 to  13 and 15, chapter 619, Oregon Laws 2025, on or before January 1,
+2027.
+(2) The department and the authority shall comply fully with the  terms of ORS 443.415,
+443.416, 443.436, 443.441, 443.443, 443.735, 443.755  and 443.886, as those sections are amended
+by sections 1, 7, 8, 10 to 13 and 15,  chapter 619, Oregon Laws 2025, no later than January 1,
+2027.
+DEVELOPMENTAL DISABILITIES SERVICES
+SECTION 4.
+ ORS 427.005 is amended to read:
+427.005. As used in this chapter , unless the context requires otherwise :
+Enrolled Senate Bill 1532 (SB 1532-A) Page 3
+(1) “Adaptive behavior” means the effectiveness or degree  with which an individual meets the
+standards of personal independence and social responsibility expected for age and cultural group.
+(2) “Agency” means an entity that is  certified and endorsed by the Department of Human
+Services to provide services to individuals with intellectual or developmental disabilities.
+[(2)] (3) “Care” means:
+(a) Supportive services, including, but not limited to, provision of room and board;
+(b) Supervision;
+(c) Protection; and
+(d) Assistance in bathing, dressing, grooming, eating, management of money, transportation  or
+recreation.
+[(3)] (4) “Community developmental disabilities program  director” means the director of a com-
+munity developmental disabilities program described in ORS 430.620 (1)(a) or (c).
+[(4)] (5) “Competitive  integrated employment” has the meaning given that term in 29 U.S.C. 705.
+[(5)] (6) “Developmental disability” means autism, cerebral palsy, epilepsy or  other condition
+diagnosed by a qualified professional that:
+(a) Originates before an individual is 22 years of age and is expected to continue indefinitely;
+(b) Results in a significant impairment in adaptive behavior as measured by a  qualified profes-
+sional;
+(c) Is not  attributed primarily to other conditions including, but not limited to, a mental or
+emotional disorder, sensory impairment, substance abuse, personality disorder, learning disability
+or attention deficit hyperactivity disorder; and
+(d) Requires supports similar to those required by an individual with an intellectual disability.
+[(6)] (7) “Director  of the facility” means the person in charge of care, treatment and training
+programs at a facility.
+(8) “Direct support professional” means an individual who is hired, employed, trained,
+paid and supervised by an agency to provide care  or employment services, as defined in ORS
+427.101, to a client of the agency.
+[(7)] (9) “Facility” means a group  home, activity center, community mental health clinic or other
+facility or program that the  Department of Human Services approves to provide necessary services
+to persons with intellectual or developmental disabilities.
+[(8)] (10) “Incapacitated” means a person is unable,  without assistance, to properly manage or
+take care of personal affairs, including  but not limited to financial and medical decision-making, or
+is incapable, without assistance, of self-care.
+[(9)] (11) “Independence” means the extent to which persons with intellectual  or developmental
+disabilities exert control and choice over their own lives.
+[(10)] (12) “Integration” means:
+(a) Use by persons with intellectual or developmental disabilities of  the same community re-
+sources that are used by and available to other persons;
+(b) Participation by persons with intellectual or developmental disabilities in the same commu-
+nity activities in which persons without disabilities participate, together with regular  contact with
+persons without disabilities; and
+(c) Residence by persons with intellectual or developmental disabilities in homes or  in home-like
+settings that are in proximity to community resources, together with regular  contact with persons
+without disabilities in their community.
+[(11)(a)] (13)(a) “Intellectual disability” means an intelligence quotient of 70 or below  as meas-
+ured by a qualified professional and existing concurrently with significant impairment in  adaptive
+behavior, that is manifested before the individual is 18 years of age.
+(b) An  individual with intelligence quotients of 71 through 75 may be considered to have an in-
+tellectual disability if there is also  significant impairment in adaptive behavior, as diagnosed and
+measured by a qualified professional.
+(c) The impairment in adaptive behavior must be directly related to the intellectual disability.
+[(12)] (14) “Minor” means an unmarried person under 18 years of age.
+Enrolled Senate Bill 1532 (SB 1532-A) Page 4
+[(13)] (15) “Naturopathic physician” has the meaning given the term in ORS 685.010.
+[(14)] (16) “Physician” means a person  licensed by the Oregon Medical Board to practice medi-
+cine and surgery.
+[(15)] (17) “Service coordination” means person-centered planning, case management,  procuring,
+coordinating  and  monitoring of services under an individualized support plan to establish desired
+outcomes, determine needs and identify resources for a person  with intellectual or developmental
+disabilities and advocating for the person.
+[(16)] (18) “Training” means:
+(a) The systematic, planned maintenance, development or enhancement of self-care,  social or
+independent living skills; or
+(b) The planned sequence of systematic interactions,  activities, structured learning situations
+or education designed to meet each person’s specified needs in the  areas of physical, emotional, in-
+tellectual and social growth.
+[(17)] (19) “Treatment” means the provision of specific physical, mental,  social interventions and
+therapies that halt, control or reverse processes that cause, aggravate  or complicate malfunctions
+or dysfunctions.
+SECTION 5. ORS 427.024, 427.181 and 427.191 and section 10 of this 2026 Act are  added to
+and made a part of ORS chapter 427.
+SECTION 6.  ORS 427.024 is amended to read:
+427.024. (1) The Department of Human Services shall adopt rules to ensure fiscal transparency
+in the provision of  community-based services to individuals with intellectual or developmental disa-
+bilities and to ensure individuals with intellectual or  developmental disabilities receive high quality
+services from [ providers that are licensed, certified or endorsed by the department to  provide
+community-based services ] agencies . At a minimum,  the rules must establish, for [ providers of
+community-based services to individuals with intellectual or developmental disabilities ] agencies:
+(a) Requirements  to annually submit staffing data to a reporting survey organization specified
+by the department;
+(b) Requirements to submit an annual report to the department that includes:
+(A) A disclosure of executive compensation and benefits;
+(B) A disclosure  of starting, average and highest wages for direct support professionals that are
+employed by, under contract with or otherwise engaged with the [ provider] agency to deliver
+community-based services to individuals with intellectual or developmental disabilities;
+(C) A disclosure of the [ provider’s ] agency’s overhead expenses and expenditures; and
+(D) Any other fiscal matters prescribed by the department;
+(c) Requirements to ensure that wages and health benefits paid to  direct support professionals
+delivering community-based supports reflect any increase in rates approved by the  Legislative As-
+sembly for the purpose of improving wages and health benefits;
+(d) Criteria for conditions under which [ a provider ] an agency may be prohibited from applying
+for a license, certificate or endorsement;
+(e) Criteria for the inclusion of information about the organizational history of an applicant  for
+a new license, certification or endorsement, not to exceed the 10 previous years; and
+(f) A process for the consideration  of the regulatory and safety compliance and operational ex-
+perience of all [ providers] agencies in this state or  in any other jurisdiction when issuing an initial
+license, certification or endorsement or renewing a license, certification or endorsement.
+(2) Rules adopted by the department must, to the greatest extent practicable,  consolidate new
+reporting requirements with existing reporting requirements  to avoid the need for [ providers]
+agencies to make duplicative reports of the same information.
+SECTION 7.
+ ORS 427.026 is amended to read:
+427.026. (1) As used in this section:
+[(a) “Agency”  means an entity that is certified and endorsed by the Department of Human Services
+to provide services to individuals with intellectual or developmental disabilities. ]
+[(b)] (a) “Ownership interest” means:
+Enrolled Senate Bill 1532 (SB 1532-A) Page 5
+(A) A direct or indirect ownership interest, or a  combination of direct and indirect ownership
+interests, equal to five percent or more in an agency;
+(B) An interest in any mortgage, deed of trust,  note or other obligation secured by an agency
+if the interest equals at least five percent of the value of the property or assets of the agency;
+(C) Holding the position of an officer or director of an agency that is organized as an entity;
+(D) Holding the position of a partner of an agency that is organized as a partnership; or
+(E) Holding the position of a member of  the board of directors of an agency that has a board
+of directors.
+[(c)] (b) “Provider” means:
+(A) An agency;
+(B) An adult foster home, as defined in ORS 443.705,  that is licensed to provide residential care
+to individuals with intellectual or developmental disabilities; or
+(C) A developmental disability child foster home, as defined in ORS 443.830.
+[(d)] (c) “Responsible person” means:
+(A) A person who exercises operational or managerial  control over, who has an ownership in-
+terest in or who directly or indirectly conducts the day-to-day operations of an agency;
+(B) An owner, operator or resident manager of an  adult foster home, as defined in ORS 443.705,
+that is licensed to provide  residential care to individuals with intellectual or developmental disa-
+bilities; or
+(C) An owner, operator or resident  manager of a developmental disability child foster home, as
+defined in ORS 443.830.
+(2) The Department of Human Services may revoke the  license, certificate or endorsement of a
+provider and deny any new application for  a license, certificate or endorsement submitted by the
+provider:
+(a) For at least 12 months if a responsible person denies  the department access to a facility or
+an individual receiving services or directs an employee or substitute caregiver to deny the  depart-
+ment access to a facility or an individual receiving services.
+(b) For at least 12 months  if a responsible person alters, conceals, destroys or otherwise ma-
+nipulates records or directs an employee or substitute caregiver to alter, conceal, destroy or other-
+wise manipulate records.
+(c) For  at least 36 months if a responsible person’s persistent, egregious acts, failures to act or
+failures to adequately train  or supervise employees or substitute caregivers led to, or reasonably
+would be expected to lead to, the death of or serious harm to an individual.
+(3) If  the department finds that the operations of a provider put the health, safety, rights or
+welfare of the individuals served by the provider at  risk, the department may revoke, suspend or
+impose conditions on the license, certificate or endorsement of the provider.  A suspension or con-
+dition imposed under this subsection may not be lifted until the department has confirmed that all
+concerns have been remediated.
+SECTION 8.
+ ORS 427.181 is amended to read:
+427.181. (1) As used in this section and ORS 410.855:
+(a) “Agency with choice services” means support given to an individual in self-directing the
+individual’s services or in managing staff who are providing in-home services and  supports to the
+individual, using a person-centered approach to ensure that the  individual is at the center of the
+decision-making process regarding what services are needed, including by providing:
+(A) Training, coaching and other forms of support to the individual on:
+(i) Self-direction; and
+(ii) The roles and responsibilities of the individual and  the agency with choice services provider;
+(B) Training,  coaching and other forms of support to the individual in the overall management
+of staff providing direct support services to the individual, including in the  recruitment, hiring,
+scheduling and training of staff, performance assessments of staff and dismissal of staff; and
+(C) Other administrative and employment-related supports.
+Enrolled Senate Bill 1532 (SB 1532-A) Page 6
+(b) “Individual” means a child or adult with an intellectual  or developmental disability who re-
+ceives in-home services and supports through the Department of Human Services.
+(2) The department shall contract with one  or more endorsed organizations to deliver agency
+with choice services as a community-based services option under ORS 427.007 (1)(d).
+(3) The department shall adopt  by rule minimum qualifications for agencies to be endorsed by
+the department to deliver agency with choice services.
+(4) Minimum qualifications for agencies endorsed to deliver agency  with choice services include,
+but are not limited to:
+(a) The ability to provide  support for individuals in directing the individual’s direct support
+[worker] professional and the day-to-day services of the direct support [ worker] professional;
+(b) A commitment to work with a broad coalition of stakeholders  in an effort to understand the
+changing needs of the workforce and of individuals’ needs, rights and preferences; and
+(c) The ability to meet the state’s interest in preventing or mitigating disruptions to individuals’
+in-home services and supports.
+(5) The department may not endorse an agency to  provide agency with choice services if the
+owner of the agency or an  executive officer of the agency has been convicted of Medicaid fraud in
+any state within the 25-year period prior to the certification.
+(6) For the purpose of monitoring and evaluating workforce capacity  and trends, an agency en-
+dorsed to provide agency with choice  services must annually provide to the department in the
+manner and at intervals specified by the department by rule:
+(a) A list of direct support [ workers ] professionals for which the agency billed the department
+for services provided through the agency with choice model;
+(b) The zip codes where the direct support [ workers ] professionals provided services; and
+(c) Verification  of the completion of training required for each direct support [ worker] profes-
+sional.
+SECTION 9.  ORS 427.191 is amended to read:
+427.191. (1) As used in this section:
+[(a) “Agency” means  an agency that hires, trains and supervises direct support professionals using
+state funds received from the Department of Human Services. ]
+[(b)] (a) “Attendant care services” means  services provided directly to an individual with a
+disability to assist with activities  of daily living, instrumental activities of daily living and health-
+related tasks.
+[(c)] (b) “Child” means an individual under 18 years of age who:
+(A) Has a developmental or intellectual disability; or
+(B) Meets the  eligibility criteria to receive services under the Medically Fragile (Hospital)
+Model Waiver or the Medically Involved Children’s Waiver  approved by the Centers for Medicare
+and Medicaid Services under 42 U.S.C. 1396n(c).
+[(d)] (c) “Client” means an individual who receives attendant care services.
+[(e)] (d) “Client child” means a child who receives attendant care services from the child’s  par-
+ent.
+[(f)] (e) “Developmental disability services” has the meaning given that term in ORS 427.101.
+[(g) “Direct support professional”  means an individual who is hired, employed, trained, paid and
+supervised by an agency to provide attendant care services to a client of the agency. ]
+[(h)] (f) “Nonparent caregiver” means a direct support professional, personal  support worker or
+similar provider who is paid to provide attendant care services to clients who are  not the provider’s
+children.
+[(i)] (g) “Parent” includes a:
+(A) Natural or adoptive parent of a child;
+(B) Stepparent of a child; and
+(C) Legal guardian of a child.
+[(j)(A) ] (h)(A) “Parent provider” means a parent who is paid to provide  attendant care services
+to the parent’s minor child.
+Enrolled Senate Bill 1532 (SB 1532-A) Page 7
+(B) “Parent provider” does not include a parent who is paid to  provide attendant care services
+to a child who is 18 years of age or older.
+[(k)(A) ] (i)(A) “Personal support  worker” means an individual who is employed by a client or
+the client’s representative and paid to provide attendant care services to the client.
+(B) “Personal support worker” does not include a direct support professional.
+[(L)] (j) “State plan” means Oregon’s state plan for medical assistance, described in 42  U.S.C.
+1396a, approved by the Centers for Medicare and Medicaid Services.
+[(m)] (k) “Very high behavioral needs” means a minor child’s extraordinary needs for support
+due to the child’s behavioral condition as  indicated by a federally approved functional needs as-
+sessment adopted by the department that assigns the child to the highest service level.
+[(n)] (L) “Very high medical needs” means a minor child’s  extraordinary needs for support due
+to the child’s medical condition  as indicated by a federally approved functional needs assessment
+adopted by the department that assigns the child to the highest service level.
+(2) Subject to rules adopted under subsection (8) of this section, to ORS 427.194 and  to available
+funding, the department shall administer a program  to compensate parents to provide attendant care
+services to the parents’ children who have been assessed by the department to have  very high
+medical or very high behavioral needs.
+(3) To be eligible for the program described in this section:
+(a) A parent provider must be employed by an agency and not by the child or  the other parent
+of the child;
+(b) The parent provider  may not be paid to provide attendant care services to the client child
+by an agency that is owned by the parent, the child or any family member  or for which the parent
+or other family  member serves in any administrative or leadership capacity, including as a member
+of a board of directors; and
+(c) The agency employing the parent  provider to provide attendant care services to the client
+child:
+(A) May not employ a parent provider as an independent contractor;
+(B) Shall pay parent providers overtime  at the same rate and under the same circumstances as
+direct support professionals who are not parent providers;
+(C) Except as authorized by the department by rule, may not pay providers of  attendant care
+services, including parent  providers, to provide services to a minor child during school hours unless
+the minor child is temporarily at home recovering from surgery or illness and the temporary absence
+from school is recommended by the child’s health care provider; and
+(D) May not pay providers of attendant  care services, including parent providers, to provide
+services to a minor child during school hours due to the determination of  a school district or due
+to the choice of a parent of the client child to:
+(i) Have the child regularly attend school less than  the number of school hours attended by
+students without disabilities who are in the same grade and  the same school district as the client
+child;
+(ii) Homeschool the client child; or
+(iii) Enroll the client  child in a private school that offers fewer school hours than the school
+hours offered by the local public school to the majority of students in the same grade  as the client
+child.
+(4) Subsection (3)(c)(D) of  this section does not prohibit a school district or other entity from
+compensating  parents  of students with disabilities for providing support for educational activities
+that would otherwise be the responsibility of the school district.
+(5) A parent provider, during the hours that the  parent provider is paid to provide one-on-one
+attendant care services to the client child:
+(a) May not be responsible for a vulnerable adult who requires physical care and monitoring;
+(b) May not be responsible for the care of a child, other  than the client child, who is under 10
+years of  age and shall have another caregiver immediately available at all times to attend to the
+needs of the child; and
+Enrolled Senate Bill 1532 (SB 1532-A) Page 8
+(c) Unless they are included as a goal or service in the child’s individual support plan and  re-
+lated to the child’s disability-related support needs,  may not perform tasks that are not for the pri-
+mary benefit of the client child, including but not limited to:
+(A) Grocery shopping for the household;
+(B) Housekeeping not required for the disability-related support needs of the client child;
+(C) Remote work or operation of a home business; or
+(D) Transporting individuals other than the client child to or from activities or appointments.
+(6) If required by the Centers for Medicare and Medicaid Services, the department may require
+a parent provider to assign an alternative legal representative for the client child  to make decisions
+about or manage  the development and implementation of the client child’s individual support plan.
+The assignment:
+(a) Must be on a form prescribed by the department; and
+(b) Must clearly state that the assignment is limited to decisions regarding the development  and
+implementation of the child’s individual support plan and does not limit the authority of  the parent
+provider to make decisions for the client child with respect to health care,  education or religious
+training.
+(7) A parent provider is subject to the requirements of mandatory reporting of abuse under  ORS
+124.060 and 419B.010, 24 hours per day, seven days per week.
+(8) The department shall adopt rules for the program described in this section using  an advisory
+committee appointed under ORS 183.333 that represents  the interests of parents, children with de-
+velopmental or intellectual disabilities, adults with disabilities, agencies,  organizations of direct
+support professionals and personal  support workers and organizations that advocate for persons
+with disabilities. The rules must include all of the following:
+(a) Strategies to safeguard nonparent caregivers and avoid the displacement of nonparent
+caregivers by parent providers;
+(b) Requirements for agencies  to demonstrate consistent efforts to recruit, train and retain
+nonparent caregivers;
+(c) Training requirements for:
+(A) Parent providers regarding federal and state administrative rules regulating home-based and
+community-based services, including the impact of the rules on  parent-child relationships with re-
+spect to discipline, supervision, physical  intervention and self-determination of client children during
+the hours that the parent provider is being paid to provide attendant care services;
+(B) Client children to  learn to advocate for themselves with respect to choosing and managing
+direct support professionals before and after reaching 18 years of age; and
+(C) Community developmental disability programs related to the employment of parent providers,
+including on how to  support families to manage issues concerning conflicts of interest, provider
+recruitment and retention and  the empowerment of the client child to have a meaningful voice in
+the selection of the client child’s direct support professionals;
+(d) A process for a client child to object  to the hiring of any caregiver, including the child’s
+parent, or to raise concerns about a provider’s caregiving;
+(e) Procedures to ensure that the program described in this section is implemented  consistently
+and equitably throughout this state;
+(f) A requirement that any appeal related to the requirements of or benefits under the  program
+is the sole responsibility of the central office staff of the department; and
+(g) Other requirements that the department deems necessary to carry out the provisions  of this
+section.
+(9) The department may adopt rules necessary to manage the cost, size  and growth rate of the
+program described in this section that are necessary to protect  the eligibility for and levels of ser-
+vices under programs serving individuals receiving  developmental disability services provided for in
+the state plan, including the development of criteria to limit the number of children eligible to par-
+ticipate in the program.
+Enrolled Senate Bill 1532 (SB 1532-A) Page 9
+(10) Annually, the  department shall report to the interim committees of the Legislative Assembly
+related to human services  or, if the Legislative Assembly is in session, to the committees of the
+Legislative Assembly related to human services,  in the manner provided in ORS 192.245, updates on
+the program described in this section, including:
+(a) The number of client children receiving attendant care services, the  number of children re-
+ceiving the services from parent providers and the number of  children receiving the services from
+nonparent caregivers;
+(b) The number of hours of attendant  care services provided by parent providers and number
+of hours of attendant care services provided by nonparent caregivers;
+(c) A comparison of the cost per child of providing attendant care services by  parent providers
+under the program with the cost per child of providing attendant care services  by nonparent
+caregivers; and
+(d) A report on the adequacy of  the direct care workforce in this state to provide services to
+all children with developmental disability services who are eligible for attendant care services.
+SECTION 10. In setting agency  payment rates, the Department of Human Services shall
+adopt a differentiated rate model for an agency that  employs a direct support professional
+who resides with a client. The differentiated rate model adopted under this section:
+(1) Shall reflect  the reduced overhead costs to the agency as a result of the direct sup-
+port professional residing with the client;
+(2) May not reduce the hours of service for which the client is eligible; and
+(3) May not reduce the wages of the direct support professional.
+PLACEMENT DECISIONS
+SECTION 11.
+Sections 12 and 13 of this 2026 Act are added to and made a part of ORS
+418.205 to 418.327.
+SECTION 12. Out-of-state placement exceptions.  (1) Notwithstanding ORS 418.321  or
+418.322, if there is reason to know, as described in ORS 419B.636, that a child  is an Indian
+child, the Department of Human Services may place  the child in an out-of-state institution
+meeting the criteria described in ORS 419B.654 (1)(d)(B)(iv) without requiring the institution
+to be licensed by or under contract with the department or to be a  qualified residential
+treatment program if:
+(a) The placement complies with the placement preferences under ORS 419B.654; and
+(b) The  department provides at least 10 days’ notice to the court and the parties of the
+proposed placement or, if the delay caused by providing this notice would likely result in
+serious physical  or emotional harm to the child, endanger the child’s life or cause loss of
+placement availability, the department shall provide the notice to the court and the  parties
+as soon as practicable and  in no event later than one business day after the child leaves this
+state.
+(2) ORS 418.321 does not apply to the department’s  placement of a child in an out-of-state
+child-caring agency if:
+(a) The placement is for the purpose of placing the child or ward in a relative foster home
+or pre-adoptive family placement that has been selected and approved by the department;
+(b) The  department retains the sole authority to approve the foster care or pre-adoptive
+placement of the child;
+(c) The child is not placed in  a congregate care residential setting, as defined in ORS
+418.322; and
+(d) The placement complies with the requirements of  the Interstate Compact on the
+Placement of Children.
+SECTION 13.
+Accompaniment of child in care in  an out-of-state placement.  (1) If the
+Department of Human Services places a child in an out-of-state child-caring  agency, a de-
+partment child welfare services employee must accompany the child  when the child is
+Enrolled Senate Bill 1532 (SB 1532-A) Page 10
+transported to the initial out-of-state placement,  any time the child is moved to a new
+placement and any time the child is moved by secure transport.
+(2) Notwithstanding  subsection (1) of this section, if a child placed in an out-of-state
+child-caring agency requires secure transport from an out-of-state  location due to an emer-
+gency, a department child welfare services employee  is not required to accompany the child
+if the time it would take for the  employee to travel to the child’s out-of-state location would
+pose a risk to the  health, safety or welfare of the child. If a department child welfare ser-
+vices employee does not accompany a child transported to an alternate out-of-state place-
+ment, as provided in this subsection, the child welfare services employee  must immediately
+travel to meet the child at the new out-of-state facility.
+(3) As used in this section, “out-of-state child-caring agency” has the meaning given  that
+term in ORS 418.321.
+SECTION 14.
+Access to out-of-state eating disorder program. (1) ORS 418.321 does  not
+apply to the Department of Human Services’ admission of a child in an  out-of-state eating
+disorder treatment program if:
+(a) The child is diagnosed with an eating disorder;
+(b) The child’s treating  provider is not employed by or contracted with by the depart-
+ment;
+(c) The child’s treating provider  determines that the child requires admission to the
+out-of-state  eating disorder treatment program because the child’s needs related to the eat-
+ing disorder cannot be met by an eating disorder treatment program in this state;
+(d) The Oregon Health Authority has enrolled the out-of-state eating disorder treatment
+program as a provider in the state medical assistance program;
+(e) The out-of-state eating disorder  treatment program is regulated and in good standing
+with the authority and  any entity regulating child-caring agencies in the state in which the
+facility is located;
+(f) The responsible  Medicaid entity has approved the services and treatment to be pro-
+vided to the child;
+(g) The child’s admission to the  out-of-state eating disorder treatment program is ap-
+proved by the court prior to the child leaving this state or, if the time it would take for the
+court to approve  the admission would threaten the child’s life, the child’s admission is ap-
+proved by the court as soon as practicable after the child leaves this state; and
+(h) The director of the division of the department that administers the state child welfare
+program authorizes the department’s request for the child  to be considered for admission to
+the out-of-state eating disorder program.
+(2) When a child has  been admitted for treatment to an out-of-state eating disorder
+treatment program under this section:
+(a) A Department of Human Services employee must make an  in-person visit to the
+program and certify the program as substantially compliant with  the licensing requirements
+for child-caring agencies that  would apply if the program was providing services in this state;
+(b) A department employee who is  familiar to the child shall visit the child in person at
+least twice per month while the child is admitted to the program;
+(c) The child’s caseworker or the caseworker’s supervisor shall have  weekly contact with
+the child, either by telephone, in person or through an electronic platform; and
+(d) The department shall provide necessary supports  to the child’s family or foster family
+to participate in the child’s treatment, including through the purchase of transportation or
+lodging, as appropriate.
+(3) ORS 418.215 (2) does not apply to an out-of-state  eating disorder treatment program
+into which a child is admitted under this section.
+SECTION 15.
+ ORS 418.321 is amended to read:
+418.321. (1) Except as provided in section 12 of this 2026 Act, and  subject to  ORS 418.322,
+the Department of Human Services may place a child in an out-of-state child-caring agency only if:
+Enrolled Senate Bill 1532 (SB 1532-A) Page 11
+(a) The [ out-of-state child-caring] agency is licensed to provide or engage in the provision of  care
+or services by the department under ORS  418.205 to 418.327 and complies with the licensing re-
+quirements under ORS 418.215;
+(b) The department has a current contract with the [ child-caring] agency; and
+(c) The department’s contract with  the [ child-caring] agency meets the [ criteria] requirements
+under subsection (3) of this section.
+(2) If an out-of-state child-caring agency is required to be licensed by the department
+under this section:
+(a) The department shall license [ an out-of-state child-caring ] the agency pursuant to  the same
+licensure requirements the  department would impose if the [ out-of-state child-caring] agency was lo-
+cated in this state.
+(b) Notwithstanding paragraph (b) of Article V of  the Interstate Compact on the Placement of
+Children and ORS 417.230, the department  may not delegate the department’s licensing, visitation,
+inspection, investigation or supervision of [ an out-of-state child-caring agency licensed by the  depart-
+ment to provide care or services to an Oregon child ] the agency .
+(3) If the department is required under this  section to have a contract with an out-of-
+state child-caring agency:
+(a) The department shall review  the [ department’s contract with an out-of-state child-caring agency
+prior to placing a child with the  child-caring agency ] contract prior to placing a child with the
+agency.
+(b) The contract must, at a minimum, meet the following [ criteria] requirements :
+(A) At the time the contract is executed, the [ child-caring] agency must provide  the department
+with a current list of every entity for which the [ child-caring] agency is providing placement ser-
+vices.
+(B) No later than 15 days after accepting placement of a child  from a new entity, the [ child-
+caring] agency must notify the department in writing of the [ child-caring] agency’s association with
+the new entity. The notice must include the name and contact information of the  new entity and the
+name and contact information of an individual associated with the new entity.
+(C) The [ child-caring] agency must make  mandatory reports of child abuse, as defined in ORS
+418.257 and 419B.005, involving Oregon children both to the centralized child abuse reporting system
+described  in  ORS 418.190 and as required under the laws of the state in which the [ child-caring]
+agency is located.
+(D) The [ child-caring] agency must  allow the department full access to the [ child-caring] agency’s
+facilities, residents, records and personnel as  necessary for the department to conduct child abuse
+investigations and licensing activities or investigations.
+(E) The [ child-caring] agency  must notify the department in writing no later than three business
+days after any state determines that an allegation of child abuse or a license violation  involving the
+[child-caring] agency is founded, regardless of whether the child  abuse or violation involves an
+Oregon child.
+(F) The [ child-caring] agency must notify  the department in writing no later than three business
+days after the [ child-caring] agency receives notice from  any other state imposing a restriction on
+placement of children with  the [ child-caring] agency, suspending or revoking the [ child-caring]
+agency’s license with that state or indicating the  state’s intent to suspend or revoke the
+[child-caring] agency’s license with that state.
+(G) The [ child-caring] agency must notify the department immediately, verbally and in writing:
+(i) Any time a child from  any state who is in the care of the [ child-caring] agency dies, is
+sexually assaulted or suffers serious physical injury; or
+(ii) When the [ child-caring] agency becomes aware of any criminal investigation, arrest or
+criminal charges involving an agency staff member if the alleged offense involved a child  or could
+have reasonably posed a risk to the health, safety or welfare of a child.
+(H) Except with respect to protected information described in ORS 418.256 (5), the
+[child-caring] agency may not ask or require an employee or volunteer to sign a nondisclosure  or
+Enrolled Senate Bill 1532 (SB 1532-A) Page 12
+other agreement prohibiting the employee or volunteer from the good faith disclosure  of information
+concerning the abuse or mistreatment of a child who  is in the care of the [ child-caring] agency, vi-
+olations of licensing or certification requirements,  criminal activity at the [ child-caring] agency, vi-
+olations of state or  federal laws or any practice that threatens the health and safety of a child in
+the care of the [ child-caring] agency.
+(I) The [ child-caring] agency must ensure staffing ratio and staff  training and education re-
+quirements that meet, at a minimum, the standards set by the department by rule  for intensive be-
+havioral support services.
+(J) The [ child-caring] agency must meet all of the program, discipline,  behavior support, super-
+vision and child rights requirements adopted by the department by rule for  behavioral rehabilitation
+services provided in this state.
+(K) The [ child-caring] agency may not practice conversion therapy, as defined in ORS 675.850.
+(L) The [ child-caring] agency  must identify a child by the child’s preferred name and pronouns
+and may not implement  a dress code that prohibits or requires clothing on the basis of biological
+sex.
+(M) Genetic testing, including testing  for psychopharmacological purposes, must be approved by
+a court and may not be included as a standing order for a child in care.
+(N) Neither the [ child-caring] agency nor its  contractors or volunteers may use chemical or
+mechanical restraints on a child, including during secure transport.
+(O) The [ child-caring] agency must ensure  that the use of any psychotropic medications for a
+child placed with the [ child-caring] agency by the department is  in compliance with ORS 418.517 and
+any rules regarding psychotropic medications adopted by the department.
+(4) The department shall develop rules outlining  a process for review of the out-of-state place-
+ment of a child who is identified as a child with  an intellectual or developmental disability or who
+is suspected of having an intellectual or developmental disability. At a minimum, the rules must:
+(a) Identify a process for expediting review of the child’s eligibility for developmental disability
+services.
+(b) Require that a multidisciplinary [ review] team, including administrators in the  developmental
+disability services program, review the placement before the child is placed out-of-state.
+(c) Require that  a multidisciplinary team, including administrators in the developmental disa-
+bility services program, monitor the progress of the child in the out-of-state placement.
+(d) Require that contracts for placement of  the child ensure that the child has the same rights
+and protections that the child would have if the child was placed in this state.
+[(5)(a) A department child welfare services employee must  accompany a child who is placed in an
+out-of-state child-caring agency any time the child is  transported to an initial out-of-state placement, any
+time the child is moved to a new placement and any time the child is moved by secure transport. ]
+[(b) Notwithstanding paragraph (a) of this subsection,  if a child placed in an out-of-state child-
+caring agency  requires secure transport from the out-of-state placement due to an emergency, a depart-
+ment child welfare services employee is not required to accompany the child if the time it would  take
+for the employee to travel to the child’s out-of-state location would pose a risk to  the health, safety or
+welfare of the child. If a department child welfare services  employee does not accompany a child
+transported to an alternate out-of-state placement, as provided in  this paragraph, the child welfare
+services employee must immediately travel to meet the child at the new out-of-state facility. ]
+[(6)(a)] (5)(a)  As used in this subsection, “juvenile offender” means a person under 18 years  of
+age who has or is alleged  to have committed an act that is a violation, or, if done by an adult, would
+constitute a violation, of a law or ordinance of the United States or a county or city in this state.
+(b) Except  as provided in paragraph (c) of this subsection, the department may not place a child
+in an out-of-state child-caring  agency if the [ child-caring] agency provides care to juvenile offenders.
+(c) The department may place a  child in an out-of-state child-caring agency that provides care
+to juvenile offenders only if:
+(A) The [ child-caring] agency is a qualified residential treatment program licensed by  the de-
+partment;
+Enrolled Senate Bill 1532 (SB 1532-A) Page 13
+(B) The [ child-caring] agency maintains site-specific accreditation from  a nationally recognized
+organization;
+(C) The child being placed is a juvenile offender; and
+(D) Prior to the hearing to approve the  placement, the court and all parties to the dependency
+case have been informed of the nature of the services offered by the program  and of the population
+served by the program, and the  court, having considered the nature of the services and composition
+of the facility population and the report of the qualified individual, has found  that placement in the
+facility is the least restrictive setting available to appropriately meet the child’s treatment needs.
+(6) As used  in this section, “out-of-state child-caring agency” means a provider of
+children’s care or services  in a state other than Oregon that would be required to be li-
+censed, certified or otherwise authorized by the department under ORS 418.240 if the pro-
+vider provided the care or services in this state.
+SECTION 16.
+ ORS 418.205 is amended to read:
+418.205. As used in ORS  418.205 to 418.327, 418.330, 418.470, 418.475, 418.950 to 418.970 and
+418.992 to 418.998, unless the context requires otherwise:
+(1) “Child” means an unmarried person under 21  years of age who resides in or receives care
+or services from a child-caring agency.
+(2)(a) “Child-caring agency” means:
+(A) Any private school, private agency, private organization or county program providing:
+(i) Day treatment for children with emotional disturbances;
+(ii) Adoption placement services;
+(iii) Residential care, including but not limited to  foster care or residential treatment for chil-
+dren;
+(iv) Residential care in combination with academic education  and therapeutic care, including
+but not limited to treatment for emotional, behavioral or mental health disturbances;
+(v) Outdoor youth programs; or
+(vi) Other similar care or services for children.
+(B) Any private organization  or person that provides secure transportation services as defined
+in ORS 418.241 during any segment of a child’s trip to or from a child-caring agency,  certified foster
+home as defined in  ORS 418.241 or developmental disabilities residential facility as defined in ORS
+418.241, if the route of the child’s trip begins or ends in this state.
+(b) “Child-caring agency” includes the following:
+(A) A shelter-care home that is not a foster home subject to ORS 418.625 to 418.645;
+(B) An independent residence facility as described in ORS 418.475  that meets the standards es-
+tablished by the Department of Human Services by rule to be considered a child-caring agency;
+(C) A private residential boarding school;
+(D) A child-caring facility as defined in ORS 418.950; and
+(E) A secure nonemergency medical transportation provider, as defined in ORS 418.241.
+(c) “Child-caring agency” does not include:
+(A) Residential facilities or  foster care homes certified or licensed by the Department of Human
+Services under ORS 443.400 to 443.455, 443.830 and 443.835 for children receiving developmental
+disability services;
+(B) Any private  agency or organization facilitating the provision of respite services for parents
+pursuant to a properly executed power of attorney under ORS 109.056. For purposes of  this sub-
+paragraph, “respite services”  means the voluntary assumption of short-term care and control of a
+minor child without compensation or reimbursement of expenses for the purpose of providing a
+parent in crisis with relief from the demands of ongoing care of the parent’s child;
+(C) A youth job development organization as defined in ORS 344.415;
+(D) A shelter-care home that is a foster home subject to ORS 418.625 to 418.645;
+(E) A foster home subject to ORS 418.625 to 418.645;
+(F) A facility that exclusively serves individuals 18 years of age and older; or
+Enrolled Senate Bill 1532 (SB 1532-A) Page 14
+(G) A facility that primarily serves both adults and children but requires that any child must
+be accompanied at all times by at least one custodial parent or guardian.
+(3) “Child-caring facility” has the meaning given that term in ORS 418.950.
+(4)(a) “County program” means any county operated program that provides care or services  to
+children:
+(A) In the custody of the Department of Human Services or the Oregon Youth Authority; or
+(B) Under a contract with the Oregon Health Authority.
+(b) “County program” does not include any local juvenile detention facility  that receives state
+services provided and coordinated by the Department of Corrections under ORS 169.070.
+(5) “Governmental agency” means an executive, legislative  or judicial agency, department,
+board, commission, authority, institution or instrumentality of this state or of a  county, municipality
+or other political subdivision of this state.
+(6) “Independent residence facility” means a facility as described in ORS 418.475.
+(7)(a) “Outdoor youth program” means a program that provides, in an  outdoor living setting,
+services  to  children who have behavioral problems, mental health problems or problems with abuse
+of alcohol or drugs.
+(b) “Outdoor youth program” does not include any program, facility or activity:
+(A) Operated by a governmental entity;
+(B) Operated or affiliated with the Oregon Youth Corps;
+(C) Licensed by the Department of Human Services under  other authority of the department; or
+(D) Operated by a youth job development organization as defined in ORS 344.415.
+(8) “Out-of-state child-caring agency” has the meaning given that term in ORS 418.321.
+[(8)] (9)  “Private” means not owned,  operated or administered by any governmental agency or
+unit.
+[(9)] (10) “Private residential boarding school” means either of the  following as the context re-
+quires:
+(a) A child-caring agency that is a private school  that provides residential care in combination
+with academic education and therapeutic care,  including but not limited to treatment for emotional,
+behavioral or mental health disturbances; or
+(b) A private school providing residential care that is primarily engaged  in educational work
+under ORS 418.327.
+[(10)] (11) “Proctor foster home” means a foster home certified by a child-caring agency  under
+ORS 418.248 that is not subject to ORS 418.625 to 418.645.
+[(11)] (12) “Provider of care  or services for children” means a person, entity or organization that
+provides care or services to children, regardless of whether the child is  in the custody of the De-
+partment of Human Services,  and that does not otherwise meet the definition of, or requirements for,
+a child-caring agency. “Provider of care or services for children” includes a proctor foster  home
+certified by a child-caring agency under ORS 418.248.
+[(12)] (13) “Qualified residential treatment program” means a program described  in ORS 418.323.
+[(13)] (14) “Shelter-care home” has the meaning given that term in ORS 418.470.
+SECTION 17.
+ ORS 419B.351 is amended to read:
+419B.351. (1) The Department of Human Services shall move the court for approval of a place-
+ment no later than 30 days following the date the department placed, or will place,  a child or ward
+in a qualified residential treatment program described in ORS 418.323.
+(2)(a) The motion for approval of the placement must include, at a minimum:
+(A) The date of the placement;
+(B) To the extent practicable, the parties’ placement preferences; and
+(C) A copy of the child’s or ward’s independent assessment described in ORS 418.324.
+(b) Notwithstanding paragraph (a)(C)  of this subsection, if the independent assessment is not
+completed at the time the department files  the motion under subsection (1) of this section, the de-
+partment may file the motion under this section without the assessment and shall supplement  the
+Enrolled Senate Bill 1532 (SB 1532-A) Page 15
+motion with a copy  of the completed assessment immediately following the department’s receipt of
+the completed assessment.
+(3) The department shall provide  an exact copy of the motion to each of the parties listed in
+ORS 419B.875.
+(4) Upon receipt of a motion under this section, the court shall schedule a  hearing to occur no
+later than 60 days following the date the child or ward is placed in the qualified residential treat-
+ment program.
+(5)(a) The court shall enter an order approving or disapproving the placement and  make specific
+determinations regarding the following:
+(A) Whether the needs of the child or ward can be  met through placement in a foster family
+home or in a proctor foster home as defined in ORS 418.205.
+(B) If the court determines that the needs of the  child or ward cannot be met through placement
+in a foster family home or proctor  foster home, whether placement of the child or ward in the
+qualified residential treatment program:
+(i) Provides  the least restrictive setting to provide the most effective and appropriate level of
+care for the child or ward; and
+(ii) Is consistent with the child’s or ward’s case plan.
+(b) In addition to the determinations under paragraph (a) of this subsection, if  the motion is for
+approval of the placement of a child or ward in  an out-of-state child-caring agency that serves ju-
+venile offenders , [ as defined in ORS 418.321 (6) ] as those terms are defined in  ORS 418.321 , the
+court may not approve the placement unless  the court finds that the child or ward’s placement in
+the out-of-state child-caring agency is  the least restrictive setting available to meet the child or
+ward’s treatment needs, taking into consideration all of the following:
+(A) The nature of the services offered by the child-caring agency;
+(B) The population served by the child-caring agency;
+(C) The percentage of the child-caring agency’s population that is juvenile offenders; and
+(D) Whether  the child-caring agency is required to file a report under the Prison Rape Elimi-
+nation Act of 2003, 34 U.S.C. 30301 et seq.
+(c) The court may receive testimony, reports or other material relating to the  child’s or ward’s
+mental, physical and social history and prognosis without regard  to the competency or relevancy
+of the testimony, reports or other material under the rules of evidence.
+(6) The court shall enter an order under subsection (5) of this section no later than 60 days
+following the date the child or ward is placed in the qualified residential treatment program.
+(7) If the court enters an order disapproving the child’s or ward’s  placement, the department
+shall move the child or ward to a placement that provides  care, supervision and services that are
+consistent with the court’s order no later  than 30 days following the date the court enters the order.
+SECTION 18.
+ ORS 418.322 is amended to read:
+418.322. (1) As used in this section:
+(a) “Congregate care residential setting” means any setting that cares  for more than one child
+or ward and is not a setting described in ORS 418.205 (2)(c)(A), (D), (E) or (F) or [ (10)] (11).
+(b) “Sex trafficking” means  the recruitment, harboring, transportation, provision, obtaining, pa-
+tronizing or soliciting of a person under 18 years of age for the  purpose of a commercial sex act,
+as defined in ORS 163.266, or the  recruitment, harboring, transportation, provision or obtaining of
+a person over 18 years of age using force, fraud or coercion for the purpose of a commercial  sex
+act, as defined in ORS 163.266.
+(2) The Department of Human Services may  place a child or ward in a congregate care resi-
+dential setting only if the setting is:
+(a) A child-caring agency, as defined  in ORS 418.205, a hospital, as defined in ORS 442.015, or
+a rural hospital, as defined in ORS 442.470; and
+(b) A qualified residential treatment program described in ORS 418.323.
+(3) Notwithstanding subsection (2) of this section, the department may place a child  or ward in
+a child-caring agency that is not a qualified residential treatment program if:
+Enrolled Senate Bill 1532 (SB 1532-A) Page 16
+(a) The child-caring agency is providing prenatal, postpartum  or parenting supports to the child
+or ward.
+(b) The  child or ward is placed in an independent residence facility described in ORS 418.475
+that is licensed by the department as a child-caring agency.
+(c) The child or ward is, or is at risk of becoming, a victim of sex trafficking and the child-caring
+agency is providing high-quality residential care and supportive services to the child or ward.
+(d) The Oregon Health Authority has approved the placement as medically  necessary and the
+child-caring agency:
+(A) Is a residential care facility;
+(B) Is licensed by  the authority and maintains site-specific accreditation from a nationally re-
+cognized organization to provide psychiatric treatment to children; and
+(C) Has an active provider agreement with the Oregon Medicaid program.
+(e) The child-caring agency is an adolescent  residential drug and alcohol treatment program li-
+censed or certified by the State of Oregon to  provide residential care, and the court has approved,
+or approval is pending for, the placement in  the child-caring agency of each child or ward over
+whom the department retains jurisdiction.
+(f) The placement with the child-caring  agency is for the purpose of placing the child or ward
+in a proctor foster home.
+(g) The child-caring agency is a  residential care facility licensed by the department that pro-
+vides short-term assessment and stabilization services.
+(h) The child-caring agency is a shelter-care home, as defined in ORS 418.470, that provides
+short-term assessment and stabilization services.
+(i) The child-caring agency is a homeless, runaway or transitional living shelter  licensed by the
+department that provides short-term assessment and stabilization services.
+(j) The ward is 18 years of age or older and the child-caring agency is a residential  treatment
+facility or a residential home licensed or certified by the department or the Oregon Health Au-
+thority.
+(4) The department may not place a child or ward in a residential care facility or  shelter-care
+home described in subsection (3)(g) or (h) of this section:
+(a) For more than 60 consecutive days or 90 cumulative days in a 12-month period; or
+(b) If the residential care facility or shelter-care home also serves  youths or adjudicated youths
+served by  the county juvenile department or adjudicated youths committed to the custody of the
+Oregon Youth Authority by the court.
+(5) The department may not place a child or ward  in a homeless, runaway or transitional living
+shelter described in subsection (3)(i) of this section for more than 60 consecutive or 90 cumulative
+days in any 12-month period.
+(6) Calculations of the number of days a child  or ward is placed in a shelter-care home under
+subsection (3)(h) of  this section or a homeless, runaway or transitional living shelter under sub-
+section (3)(i) of this section exclude the days the child or ward  is in the shelter-care home or shelter
+if the child or ward:
+(a) Accessed the shelter-care home or shelter without the support or direction of the depart-
+ment; and
+(b) Is homeless or a runaway, as defined by the department by rule.
+(7)(a) Nothing in this  section prohibits the Oregon Youth Authority from placing an adjudicated
+youth committed to  its custody in a placement that is not a qualified residential treatment program.
+(b) Nothing in this section  prohibits the Oregon Youth Authority or a county juvenile depart-
+ment from placing an adjudicated youth or a youth served by the  Oregon Youth Authority or the
+county juvenile department in shelter care or detention under ORS chapter 419C.
+RESTRAINT AND SECLUSION OF CHILDREN IN CARE
+Enrolled Senate Bill 1532 (SB 1532-A) Page 17
+SECTION 19. Substantiation exception for lapsed certification.  (1) The  Department of
+Human Services may not substantiate an  allegation of abuse against an individual under ORS
+418.259 arising out of the individual’s restraint of a child in care in violation  of ORS 418.521
+or 418.523 for the sole reason that the individual’s certification issued under  ORS 418.529 is
+not current.
+(2) As used in this section:
+(a) “Child in care” has the meaning given that term in ORS 418.257.
+(b) “Restraint” has the meaning given that term in ORS 418.519.
+MISCELLANEOUS
+SECTION 20.
+Captions. The unit and section captions used in this  2026 Act are provided
+only for the convenience of the reader and do not become part of  the statutory law of this
+state or express any legislative intent in the enactment of this 2026 Act.
+SECTION 21. Effective date.  This  2026 Act being necessary for the immediate preserva-
+tion of the public peace, health and safety, an emergency is declared to exist, and this 2026
+Act takes effect on its passage.
+Passed by Senate February 19, 2026
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House March 2, 2026
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 1532 (SB 1532-A) Page 18

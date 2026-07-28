@@ -1,0 +1,598 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2017r1-hb2213
+title: 'HB 2213 (2017R1): Establishes Oregon Conservation and Recreation Fund.'
+doc_type: dataset_doc
+citation: 2017 Regular Session House Bill 2213
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2213/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 36c02d3057482091d98b702df5fa664d50fe7e9ebecc67e29e57ae5812548a6d
+snapshot_id: measure-2017r1-hb2213-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 171.072
+  - ORS 183.325
+  - ORS 183.333
+  - ORS 183.335
+  - ORS 183.341
+  - ORS 183.360
+  - ORS 183.405
+  - ORS 183.530
+  - ORS 183.534
+  - ORS 183.715
+  - ORS 183.750
+  - ORS 192.245
+  - ORS 279.835
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2017r1
+- hb
+session_key: 2017R1
+measure_prefix: HB
+measure_number: 2213
+prefix_meaning: House Bill
+catch_line: Establishes Oregon Conservation and Recreation Fund.
+minority_catch_line: null
+measure_summary: "\tEstablishes Oregon Conservation and Recreation Fund. Continuously appropriates moneys\
+  \ in fund to State Department of Fish and Wildlife to carry out activities under wildlife laws that\
+  \ serve to protect, maintain or enhance fish and wildlife resources in Oregon. \n\tEstablishes Oregon\
+  \ Conservation and Recreation Advisory Committee. Directs committee to advise department and Fish and\
+  \ Wildlife Commission on implementation of activities funded by moneys in Oregon Conservation and Recreation\
+  \ Fund. Requires committee and department to jointly report to Legislative Assembly each odd-numbered\
+  \ year on expenditure of moneys from fund. \n\tAppropriates moneys to State Department of Fish and Wildlife\
+  \ for deposit in Oregon Conservation and Recreation Fund. \n\tDeclares emergency, effective on passage."
+relating_to: Relating to state agencies; declaring an emergency.
+relating_to_full: Relating to state agencies; and declaring an emergency.
+at_the_request_of: null
+lc_number: 2994
+measure_created_date: '2016-12-15T11:59:52'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 34988
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 171.072
+  - ORS 183.325
+  - ORS 183.333
+  - ORS 183.335
+  - ORS 183.341
+  - ORS 183.360
+  - ORS 183.405
+  - ORS 183.530
+  - ORS 183.534
+  - ORS 183.715
+  - ORS 183.750
+  - ORS 192.245
+  - ORS 279.835
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2213`.
+
+# HB 2213 — 2017 Regular Session (2017R1)
+
+## At a glance
+
+- **Measure:** House Bill 2213, 2017 Regular Session (2017R1)
+- **LC number:** 2994
+- **Created:** 2016-12-15T11:59:52
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 34988 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2213/Introduced>.
+
+## Summary
+
+**Catchline:** Establishes Oregon Conservation and Recreation Fund.
+
+**Relating to:** Relating to state agencies; declaring an emergency.
+
+Establishes Oregon Conservation and Recreation Fund. Continuously appropriates moneys in fund to State Department of Fish and Wildlife to carry out activities under wildlife laws that serve to protect, maintain or enhance fish and wildlife resources in Oregon. 
+ Establishes Oregon Conservation and Recreation Advisory Committee. Directs committee to advise department and Fish and Wildlife Commission on implementation of activities funded by moneys in Oregon Conservation and Recreation Fund. Requires committee and department to jointly report to Legislative Assembly each odd-numbered year on expenditure of moneys from fund. 
+ Appropriates moneys to State Department of Fish and Wildlife for deposit in Oregon Conservation and Recreation Fund. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to state agencies; and declaring an emergency.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2213
+Sponsored by Representative VIAL (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Creates Sunset Advisory Committee. Specifies membership of committee. Abolishes state agen-
+cies on specified dates and requires agencies subject to abolition to  make report to committee. Re-
+quires committee to conduct  performance evaluation of agencies based on specified criteria and
+make recommendations  to Governor and Legislative Assembly relating to abolition, continuation or
+reorganization of agencies and other matters.
+Appropriates moneys from General Fund to committee for purposes of Act.
+Clarifies that agency  may not adopt rule that conflicts with statute. Provides that agency may
+not rely on general statutory grant of authority to adopt rules that  conflict with more specific
+statutory provisions or to adopt  rules that modify protections, sanctions, eligibility or other matters
+governed by more specific statutory provisions.
+Requires that  agency notice of proposed rulemaking include copy of proposed rule or link to
+agency’s website where copy of proposed rule may be found.
+Requires audits of state  agencies by Oregon Department of Administrative Services to determine
+if agencies have complied with statutory requirement that agencies review rules every five years.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to state agencies;  creating new provisions; amending ORS 183.335 and 183.405; and declar-
+ing an emergency.
+Be It Enacted by the People of the State of Oregon:
+STATE AGENCY SUNSET
+SECTION 1.
+Committee created.  (1) The Sunset Advisory Committee  is created and con-
+sists of:
+(a) Five members of the Senate appointed by the President of the Senate; and
+(b) Five members of  the House of Representatives appointed by the Speaker of the House.
+(2) Members of  the committee serve four-year terms. Members serve ex officio, and a
+vacancy occurs when a member ceases to be a member of the Legislative Assembly.
+(3) If  a vacancy occurs, the appropriate appointing authority shall appoint a person to
+serve for the remainder of the unexpired term.
+(4) The committee shall elect a chairperson and vice chairperson as presiding officers.
+(5) Seven members of the  committee constitute a quorum. The committee may not take
+a final action or make a final  recommendation unless it is approved by a vote of a majority
+of the members of the committee.
+(6) A member of the  committee is entitled to payment of compensation and expenses
+under ORS 171.072 from funds appropriated to the Legislative Assembly.
+SECTION 2.
+Staff. (1) The Sunset Advisory Committee shall employ an  executive director
+for the committee.
+(2) The  executive director shall employ persons necessary to carry out sections 1 to 14
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2994
+of this 2017 Act with funds made available by the Legislative Assembly.
+SECTION 3. Agency report to committee.  Before  January 1 of the calendar year imme-
+diately preceding the year  in which a state agency is scheduled to be abolished under section
+14 of this 2017 Act, the state agency shall report to the Sunset Advisory Committee:
+(1) Information regarding the application to the state  agency of the criteria prescribed
+by section 7 of this 2017 Act; and
+(2) Any other information that the state agency considers  appropriate or that is re-
+quested by the committee.
+SECTION 4. Committee duties.  Before June 1 of the calendar year immediately  preceding
+the year in which a state agency is scheduled to be abolished under section 14 of  this 2017
+Act, the Sunset Advisory Committee shall:
+(1) Review and take action  necessary to verify the reports submitted by the state agency
+under section 3 of this 2017 Act;
+(2) Conduct a performance  evaluation of the state agency based on the criteria prescribed
+by section 7  of this 2017 Act and prepare a written report as described in section 6 of this
+2017 Act; and
+(3) Review the implementation of committee recommendations contained in  the reports
+presented to the Legislative Assembly during the preceding regular session.
+SECTION 5. Public hearings. (1) Before January 1 of the calendar year in which a state
+agency is scheduled to be  abolished under section 14 of this 2017 Act, the Sunset Advisory
+Committee shall conduct public  hearings concerning but not limited to the application to the
+state agency of the criteria prescribed by section 7 of this 2017 Act.
+(2) The committee may hold the public hearings before the date specified in  subsection
+(1) of  this section if the performance evaluation of the state agency required by section 4 of
+this 2017 Act is complete and available to the public.
+SECTION 6. Committee report.  (1) At each  odd-numbered year regular session of the
+Legislative Assembly, the Sunset Advisory Committee shall present  to the Legislative As-
+sembly and the Governor a written report on  the state agencies scheduled to be abolished
+that year.
+(2) In the report required by this section, the committee shall include:
+(a) The committee’s specific findings regarding each of the  criteria prescribed by section
+7 of this 2017 Act;
+(b) The committee’s recommendations described in section 8 of this 2017 Act; and
+(c) Other information the committee considers necessary  for a complete evaluation of
+the state agency.
+SECTION 7.
+Criteria for review.  The Sunset  Advisory Committee shall consider the fol-
+lowing criteria in determining whether a  public need exists for the continuation of a state
+agency or for the performance of the functions of the state agency:
+(1) The efficiency with which the state agency operates.
+(2) The mission of the state agency, including the problem or need that  the state agency
+was intended to address, the extent to which the objectives have been achieved, any activities
+undertaken by the state  agency in addition to those allowed by statute and the state agency’s
+authority to undertake those activities.
+(3) Whether there are less restrictive or alternative methods of regulation that could
+adequately protect the public.
+(4) The extent to which the jurisdiction of the state agency and the  programs adminis-
+tered by the state agency overlap or duplicate those of other state  agencies and the extent
+to which the programs administered by the state agency can be consolidated with the  pro-
+grams of other state agencies.
+(5) Whether the state agency has recommended  to the Legislative Assembly statutory
+changes that benefit the public  instead of the occupation, business or institution that the
+state agency regulates.
+(6) The promptness and effectiveness with which  the state agency resolves complaints
+concerning persons affected by the state agency.
+(7) The extent to which the  state agency has encouraged participation by the public in
+making rules and decisions as opposed to participation solely by  regulated persons, and the
+extent to which the public participation has  resulted in rules compatible with the objectives
+of the state agency.
+(8) The extent to which the state agency has complied with applicable requirements of:
+(a) Agencies of the United States or of this state  relating to equality of employment op-
+portunity and the rights and privacy of individuals; and
+(b) State law relating to purchasing goals and programs.
+(9) The extent to which changes to the enabling statutes of the state agency are neces-
+sary to allow the state agency to adequately comply with the criteria prescribed by  this
+section.
+(10) The extent to which  the state agency issues and enforces rules relating to potential
+conflicts of interest of its employees.
+(11) The extent to which the state agency follows record retention and management
+practices that enable the state agency to respond efficiently to requests for public records.
+(12) The effects of federal intervention or loss of federal  funds if the state agency is
+abolished.
+SECTION 8.
+Recommendations. The Sunset Advisory Committee shall include in  the
+written report required by section 6 of this 2017 Act:
+(1) Recommendations on the abolition, continuation  or reorganization of each state
+agency and on the need for continuing the functions of the state agency;
+(2) Recommendations on the consolidation, transfer or  reorganization of programs within
+state agencies that are not under review if  the programs duplicate functions performed in
+state agencies under review;
+(3) Recommendations on the funding levels for each state agency; and
+(4) Proposed legislation necessary to carry out the committee’s  recommendations under
+this section.
+SECTION 9.
+Monitoring of recommendations.  During each regular session, the staff  of
+the Sunset Advisory Committee shall monitor legislation affecting  state agencies that have
+undergone review under sections 1 to 14 of this 2017 Act and shall  periodically report to the
+members of the committee on proposed changes that would modify prior recommendations
+of the committee.
+SECTION 10.
+Subpoena power. (1) The Sunset Advisory  Committee may issue process to
+compel the attendance of witnesses and  the production of books, records, papers and other
+objects necessary or proper for the purposes of the committee proceedings.
+(2) If a majority of the members of  the committee directs the issuance of a subpoena,
+the chairperson shall issue the subpoena in the name of the committee.
+(3) A witness  who attends a committee proceeding under process is entitled to the same
+mileage and per diem as a witness who appears before a grand jury in this state.
+SECTION 11. Assistance from and access to state  agencies. (1) State agencies shall assist
+the Sunset Advisory Committee upon request by the committee or the committee’s staff.
+(2) In carrying out its functions under sections 1 to 14 of this 2017  Act, the committee
+or its designated staff member may inspect the records, documents and files  of any state
+agency.
+SECTION 12. Relocation of employees.  If an employee is displaced because a  state agency
+is abolished or reorganized after review under  sections 1 to 14 of this 2017 Act, the state
+agency and the Employment Department shall  make a reasonable effort to relocate the dis-
+placed employee.
+SECTION 13. Review of proposed legislation creating regulatory  agency.  (1) The Legisla-
+tive Fiscal Officer shall forward to the Sunset Advisory Committee each  bill filed during a
+regular session that would create a new state agency with regulatory authority.
+(2) The committee shall review a bill forwarded to the committee under this  section to
+determine if:
+(a) The  proposed functions of the state agency could be performed by an existing state
+agency;
+(b) The form of regulation proposed by the bill is the least restrictive form of  regulation
+that will adequately protect the public;
+(c) The bill provides for adequate public  input relating to the regulatory function pro-
+posed by the bill; and
+(d) The bill provides for adequate  protection against conflicts of interest within the state
+agency.
+(3) After reviewing a  bill under this section, the committee shall forward a written
+comment on the legislation to the chairs of committees considering the bill.
+SECTION 14. Sunset schedule.  (1) The following agencies are abolished July 1, 2019:
+(a) The Department of Education and the State Board of Education.
+(b) The Higher Education Coordinating Commission, the Office of  Community Colleges
+and Workforce Development and the Office of Student Access and Completion.
+(c) The Teacher Standards and Practices Commission.
+(d) The Department  of Land Conservation and Development and the Land Conservation
+and Development Commission.
+(2) The following agencies are abolished July 1, 2021:
+(a) The Oregon Department of Administrative Services.
+(b) The Water Resources Department and the Water Resources Commission.
+(c) The State Forestry Department and the State Board of Forestry.
+(d) The State Department  of Fish and Wildlife and the State Fish and Wildlife Commis-
+sion.
+(e) The Department of State Lands.
+(3) The following agencies are abolished July 1, 2023:
+(a) The Oregon  Business Development Department and the Oregon Business Develop-
+ment Commission.
+(b) The Department of Consumer and Business Services.
+(c) The Bureau of Labor and Industries.
+(d) The Employment Department.
+(e) The State Department of Energy.
+(4) The following agencies are abolished July 1, 2025:
+(a) The Oregon Liquor Control Commission.
+(b) The Department of Human Services.
+(c) The Oregon Health Authority.
+(d) The Department of Environmental Quality  and the Environmental Quality Commis-
+sion.
+(e) The Department of Justice.
+(5) The following agencies are abolished July 1, 2027:
+(a) The Department of Corrections.
+(b) The Department of Veterans’ Affairs.
+(c) The Oregon Youth Authority.
+(d) The Columbia River Gorge Commission.
+(6) The following agencies are abolished July 1, 2029:
+(a) The Department of Transportation.
+(b) The State Department of Agriculture.
+(c) The Oregon Department of Aviation and the State Aviation Board.
+(d) The Construction Contractors Board.
+(7) The following agencies are abolished July 1, 2031:
+(a) The Department of Revenue.
+(b) The Public Employees Retirement System and Public Employees Retirement Board.
+(8) The following agencies are abolished July 1, 2033:
+(a) The Public Utility Commission.
+(b) The Department of State Police.
+(c) The Department of Public Safety Standards and Training and the Board on Public
+Safety Standards and Training.
+(9) The Sunset Advisory Committee shall establish a schedule for the purposes of sections
+1 to  14 of this 2017 Act that provides for the abolishing of all other state agencies, as defined
+in ORS 183.750, that are not specifically abolished under this section.
+SECTION 15.
+There is appropriated to the Sunset Advisory Committee, for the biennium
+beginning July 1, 2017, out of the General Fund, the amount  of $  for the purpose of
+implementing sections 1 to 14 of this 2017 Act.
+CONFORMITY OF RULES WITH STATUTES
+SECTION 16. Section 17 of this 2017 Act is added  to and made a part of ORS 183.325 to
+183.410.
+SECTION 17. (1) An agency may not adopt any rule that conflicts with a statute.
+(2) An agency may not rely on a general statutory  grant of authority to adopt rules that
+conflict with more specific statutory provisions or to adopt  rules that modify protections,
+sanctions, eligibility or other matters governed by more specific statutory provisions.
+ACCESS TO PROPOSED RULES
+SECTION 18.  ORS 183.335 is amended to read:
+183.335. (1) Prior  to the adoption, amendment or repeal of any rule, the agency shall give notice
+of its intended action:
+(a) In the manner established by rule adopted  by the agency under ORS 183.341 (4), which pro-
+vides a reasonable opportunity for interested  persons to be notified of the agency’s proposed action;
+(b) In the bulletin referred to in ORS 183.360 at least 21 days prior to the effective date;
+(c) At least 28 days before the effective date, to  persons who have requested notice pursuant to
+subsection (8) of this section; and
+(d) Delivered  only by electronic mail, at least 49 days before the effective date, to the persons
+specified in subsection (15) of this section.
+(2)(a) The notice required by subsection (1) of this section must include:
+(A) A caption of not more than 15 words that  reasonably identifies the subject matter of the
+agency’s intended action.  The agency shall include the caption on each separate notice, statement,
+certificate or other similar document related to the intended action.
+(B) An objective,  simple and understandable statement summarizing the subject matter and
+purpose of the intended action in sufficient detail to inform a person that the person’s interests may
+be affected, and the time, place and manner  in which interested persons may present their views on
+the intended action.
+(b) The agency shall include with the notice  of intended action given under subsection (1) of this
+section:
+(A) A citation of the statutory or  other legal authority relied upon and bearing upon the
+promulgation of the rule;
+(B) A citation of the statute or other law the rule is intended to implement;
+(C) A statement of the need for the rule and a statement of how the  rule is intended to meet the
+need;
+(D) A list of the principal documents, reports or studies, if any, prepared by or relied upon  by
+the agency in considering the need for and in preparing the rule, and a  statement of the location
+at which those documents are available for public inspection. The  list may be abbreviated if neces-
+sary, and if so abbreviated there shall be identified the location of a complete list;
+(E) A statement of fiscal impact identifying  state agencies, units of local government and the
+public that may  be economically affected by the adoption, amendment or repeal of the rule and an
+estimate of that economic impact on state agencies, units of local government and the public.  In
+considering the economic effect of the proposed action on the public, the agency  shall utilize avail-
+able information to project  any significant economic effect of that action on businesses which shall
+include a cost of compliance effect on small businesses affected. For an agency specified in  ORS
+183.530, the statement of fiscal impact shall also include  a housing cost impact statement as de-
+scribed in ORS 183.534;
+(F) If an advisory committee is not  appointed under the provisions of ORS 183.333, an explana-
+tion as to why no advisory committee was used to assist the agency in drafting the rule; and
+(G) A request for public comment on whether other  options should be considered for achieving
+the rule’s substantive goals while reducing the negative economic impact of the rule on business.
+(c) The Secretary of State may omit the  information submitted under paragraph (b) of this sub-
+section from publication in the bulletin referred to in ORS 183.360.
+(d) When  providing notice of an intended action under subsection [ (1)(c)] (1) of this section, the
+agency shall provide a copy of the rule that the agency proposes to  adopt, amend or repeal, or [ an
+explanation of how the person may acquire a copy of the rule ] a link to the agency’s  website where
+a copy of the rule may be found . The copy of an amended rule shall  show all changes to the rule
+by striking through material to be deleted and underlining all new material, or by any other  method
+that clearly shows all new and deleted material.
+(3)(a) When an agency proposes to adopt, amend  or repeal a rule, it shall give interested persons
+reasonable opportunity to submit data or views. Opportunity for oral hearing shall  be granted upon
+request received from 10 persons or from an association having not less than 10 members before  the
+earliest date that the rule could become effective after the giving of notice pursuant to  subsection
+(1) of  this section. An agency holding a hearing upon a request made under this subsection shall give
+notice of the hearing at  least 21 days before the hearing to the person who has requested the
+hearing, to persons who  have requested notice pursuant to subsection (8) of this section and to the
+persons specified in subsection (15) of this  section. The agency shall publish notice of the hearing
+in the bulletin referred to in ORS 183.360 at  least 14 days before the hearing. The agency shall
+consider fully any written or oral submission.
+(b) If an agency is required to conduct an oral hearing under paragraph (a) of this subsection,
+and the rule for which the hearing  is to be conducted applies only to a limited geographical area
+within this state, or affects only a limited geographical area  within this state, the hearing shall be
+conducted  within  the geographical area at the place most convenient for the majority of the resi-
+dents within the geographical area. At least  14 days before a hearing conducted under this para-
+graph, the agency shall publish notice of the hearing in the bulletin referred to in  ORS 183.360 and
+in a newspaper of general circulation published within  the geographical area that is affected by the
+rule or to which the rule applies.  If a newspaper of general circulation is not published within the
+geographical area that is affected by  the rule or to which the rule applies, the publication shall be
+made in the newspaper of general circulation published closest to the geographical area.
+(c) Notwithstanding paragraph (a) of this subsection, the Department of Corrections and  the
+State Board of Parole and Post-Prison Supervision may adopt rules limiting participation by inmates
+in the proposed adoption, amendment or repeal of any rule to written submissions.
+(d) If requested by at least five persons before the earliest date that the rule could become  ef-
+fective after the agency gives  notice pursuant to subsection (1) of this section, the agency shall
+provide a statement that identifies the objective of the rule and a  statement of how the agency will
+subsequently determine whether the rule is in fact accomplishing that objective.
+(e) An agency that receives data or views concerning proposed rules from  interested persons
+shall maintain a record of the data or views submitted. The record shall contain:
+(A) All written materials submitted to an  agency in response to a notice of intent to adopt,
+amend or repeal a rule.
+(B) A recording or summary of oral submissions received at hearings  held for the purpose of
+receiving those submissions.
+(C) Any public comment received in response  to the request made under subsection (2)(b)(G) of
+this section and the agency’s response to that comment.
+(D) Any statements provided by the agency under paragraph (d) of this subsection.
+(4) Upon request  of an interested person received before the earliest date that the rule could
+become  effective  after the giving of notice pursuant to subsection (1) of this section, the agency shall
+postpone the date of its intended action no less than 21 nor more than 90 days in order to allow  the
+requesting person an opportunity to submit data,  views or arguments concerning the proposed
+action. Nothing in this subsection shall  preclude an agency from adopting a temporary rule pursuant
+to subsection (5) of this section.
+(5) Notwithstanding subsections (1) to (4) of this section, an agency may adopt, amend  or sus-
+pend a rule without prior notice or hearing or upon any abbreviated notice and  hearing that it finds
+practicable, if the agency prepares:
+(a) A statement of its findings that its failure to act promptly  will result in serious prejudice to
+the public interest or the interest of the parties  concerned and the specific reasons for its findings
+of prejudice;
+(b) A citation  of the statutory or other legal authority relied upon and bearing upon the
+promulgation of the rule;
+(c) A statement of the need for the rule and a statement of how the rule is intended to meet the
+need;
+(d) A list of the principal documents, reports or  studies, if any, prepared by or relied upon by
+the agency in considering the  need for and in preparing the rule, and a statement of the location
+at which those documents are available for public inspection; and
+(e) For an agency specified in  ORS 183.530, a housing cost impact statement as defined in ORS
+183.534.
+(6)(a) A rule adopted, amended or suspended under subsection (5) of this section  is temporary
+and may be effective for a period of not  longer than 180 days. The adoption of a rule under this
+subsection does not preclude the subsequent adoption of an  identical rule under subsections (1) to
+(4) of this section.
+(b) A rule temporarily suspended shall regain effectiveness  upon expiration of the temporary
+period of suspension unless the rule is repealed under subsections (1) to (4) of this section.
+(7) Notwithstanding subsections (1) to (4) of this section, an agency may amend a rule without
+prior notice or hearing if the amendment is solely for the purpose of:
+(a) Changing the name of an agency by reason of a name change prescribed by law;
+(b) Changing the name of a program, office  or division within an agency as long as the change
+in name does not have a substantive effect on the functions of the program, office or division;
+(c) Correcting spelling;
+(d) Correcting grammatical mistakes in a manner that  does not alter the scope, application or
+meaning of the rule;
+(e) Correcting statutory or rule references; or
+(f) Correcting addresses or telephone numbers referred to in the rules.
+(8)(a) Any person may request in writing that an agency send to  the person copies of the
+agency’s notices of intended action issued under subsection (1) of this section.  The person must
+provide an address where the person elects to receive  notices. The address provided may be a postal
+mailing address or, if the agency provides notice by electronic  mail, may be an electronic mailing
+address.
+(b) A request under this subsection must indicate that the person requests  one of the following:
+(A) The person may request that the agency mail paper  copies of the proposed rule and other
+information required by subsection (2) of this section to the postal mailing address.
+(B) If the agency posts notices  of intended action on a website, the person may request that the
+agency mail the  information required by subsection (2)(a) of this section to the postal mailing ad-
+dress with a reference to the website where electronic copies  of the proposed rule and other infor-
+mation required by subsection (2) of this section are posted.
+(C) The person may  request that the agency electronically mail the information required by
+subsection (2)(a) of this section to the electronic mailing address, and either  provide electronic
+copies of the proposed rule and other information required by subsection  (2) of this section or pro-
+vide a reference to a website where electronic copies  of the proposed rule and other information
+required by subsection (2) of this section are posted.
+(c) Upon receipt of any request under  this subsection, the agency shall acknowledge the request,
+establish a mailing list and maintain a record of all  mailings made pursuant to the request. Agen-
+cies may establish procedures for  establishing the mailing lists and keeping the mailing lists current.
+Agencies by rule  may establish fees necessary to defray the costs of mailings and maintenance of
+the lists.
+(d) Members of the Legislative Assembly who receive notices under subsection  (15) of this sec-
+tion may request that an agency furnish paper copies of the notices.
+(9) This section does not apply to  rules establishing an effective date for a previously effective
+rule or establishing a period during which a provision of a previously effective rule will apply.
+(10) This section does not apply to ORS 279.835 to 279.855, 279A.140 to 279A.161, 279A.250 to
+279A.290, 279A.990, 279B.050  to 279B.085, 279B.200 to 279B.240, 279B.270, 279B.275, 279B.280,
+279C.360, 279C.365, 279C.370, 279C.375, 279C.380, 279C.385, 279C.500 to 279C.530, 279C.540, 279C.545,
+279C.550 to 279C.570, 279C.580, 279C.585, 279C.590, 279C.600 to 279C.625, 279C.650 to 279C.670  and
+279C.800 to 279C.870 relating to public contracts and purchasing.
+(11)(a) Except as provided in paragraph (c) of this subsection, a  rule is not valid unless adopted
+in substantial compliance with the provisions of this section in effect on the  date that the notice
+required under subsection (1) of this  section is delivered to the Secretary of State for the purpose
+of publication in the bulletin referred to in ORS 183.360.
+(b) In addition to all other requirements with which rule adoptions  must comply, a rule is not
+valid if the rule has not been submitted to  the Legislative Counsel in the manner required by ORS
+183.715.
+(c) A rule is not subject to  judicial review or other challenge by reason of failing to comply with
+subsection (2)(a)(A) of this section.
+(12)(a) Notwithstanding the provisions  of subsection (11) of this section, but subject to paragraph
+(b) of this subsection, an agency may correct its failure  to substantially comply with the require-
+ments of subsections  (2) and (5) of this section in adoption of a rule by an amended filing, as long
+as the noncompliance did not substantially prejudice the interests of persons to be affected  by the
+rule.
+(b) An agency may use an amended filing to correct  a failure to include a fiscal impact state-
+ment in a notice of intended action, as required by subsection (2)(b)(E)  of this section, or to correct
+an inaccurate  fiscal impact statement, only if the agency developed the fiscal impact statement with
+the assistance of an advisory committee or fiscal impact  advisory committee appointed under ORS
+183.333.
+(13) Unless otherwise  provided by statute, the adoption, amendment or repeal of a rule by an
+agency need not be based upon or supported by an evidentiary record.
+(14) When an agency has established a deadline for comment on a proposed rule under the pro-
+visions of  subsection (3)(a) of this section, the agency may not extend that deadline for another
+agency  or  person unless the extension applies equally to all interested agencies and persons. An
+agency shall not consider any submission made  by another agency after the final deadline has
+passed.
+(15) The notices required under subsections (1) and (3) of this section must be given by  the
+agency to the following persons:
+(a) If the proposed  adoption, amendment or repeal results from legislation that was passed
+within two years before notice is given under subsection (1) of this  section, notice shall be given to
+the legislator who introduced the  bill that subsequently was enacted into law, and to the chair or
+cochairs of all committees that reported the bill out, except for  those committees whose sole action
+on the bill was referral to another committee.
+(b) If the proposed adoption,  amendment or repeal does not result from legislation that was
+passed within two years before notice is given under subsection (1) of this section,  notice shall be
+given to the chair or cochairs of any interim or session committee with  authority over the subject
+matter of the rule.
+(c) If notice cannot be given under paragraph (a) or (b) of this subsection, notice  shall be given
+to the Speaker of the House  of Representatives and to the President of the Senate who are in office
+on the date the notice is given.
+(16)(a) Upon the request of a member of the Legislative Assembly or of a  person who would be
+affected by a proposed adoption, amendment or  repeal, the committees receiving notice under sub-
+section (15) of this section shall review the proposed adoption, amendment or  repeal for compliance
+with the legislation from which the proposed adoption, amendment or repeal results.
+(b) The committees shall  submit their comments on the proposed adoption, amendment or repeal
+to the agency proposing the adoption, amendment or repeal.
+STATUTORY COMPLIANCE AUDITS
+SECTION 19.  ORS 183.405 is amended to read:
+183.405. (1) Not later than five years after adopting a  rule, an agency shall review the rule for
+the purpose of determining:
+(a) Whether the rule has had the intended effect;
+(b) Whether the anticipated fiscal impact of the rule was underestimated or overestimated;
+(c) Whether subsequent changes in the law require that the rule be repealed or amended; and
+(d) Whether there is continued need for the rule.
+(2) An agency shall  utilize available information in complying with the requirements of sub-
+section (1) of this section.
+(3) If an  agency appoints an advisory committee pursuant to ORS 183.333 for consideration of
+a rule subject to the requirements of this section,  the agency shall provide the advisory committee
+with a report on a review of the rule conducted under this section.
+(4) The provisions of this section do not apply to the amendment or repeal of a rule.
+(5) The provisions of this section do not apply to:
+(a) Rules adopted to implement court orders or the settlement of civil proceedings;
+(b) Rules that adopt federal laws or rules by reference;
+(c) Rules adopted to implement legislatively approved fee changes; or
+(d) Rules adopted to correct errors or omissions.
+(6) The Attorney General shall take all action necessary  to ensure that agencies repres-
+ented by the Attorney General comply  with the requirements of this section, including
+sending reminders to the rules coordinator for each agency on a regular basis.
+(7) The Oregon Department of Administrative Services shall conduct an annual audit  of
+all agencies to determine whether those agencies have  complied with the requirements of
+this section. The department shall prepare an annual report that lists  agencies that have not
+complied with the requirements of this section and submit a copy of the report to the Leg-
+islative Assembly in the manner provided by ORS 192.245.
+SECTION 20.
+The first audit required under ORS 183.405 (7) must  be conducted by the
+Oregon Department of Administrative Services no later than January 1, 2019.
+CAPTIONS
+SECTION 21. The unit and section captions used in this 2017 Act are provided  only for
+the convenience of the reader and  do not become part of the statutory law of this state or
+express any legislative intent in the enactment of this 2017 Act.
+EMERGENCY CLAUSE
+SECTION 22. This 2017 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2017 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 171.072, ORS 183.325, ORS 183.333, ORS 183.335, ORS 183.341, ORS 183.360, ORS 183.405, ORS 183.530, ORS 183.534, ORS 183.715, ORS 183.750, ORS 192.245, ORS 279.835
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `36c02d3057482091d98b702df5fa664d50fe7e9ebecc67e29e57ae5812548a6d` (snapshot `_meta/snapshots/measure-2017r1-hb2213-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2213/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2213` (part of the batched per-session fetch), sha256 `8a531c771f7c0531d1b6a422bf18d037d210e0e6cb92f247a009fd99e6400c68` of the shared session snapshot `_meta/snapshots/measures-2017r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

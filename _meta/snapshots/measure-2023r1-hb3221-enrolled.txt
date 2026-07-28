@@ -1,0 +1,141 @@
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Enrolled
+House Bill 3221
+Sponsored by Representative SANCHEZ (at the request of Portland Public Schools)
+CHAPTER .................................................
+AN ACT
+Relating to the calculation of  Local Revenues for the purpose of State School Fund distributions;
+creating new provisions; amending ORS 294.060 and 327.011; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 327.011 is amended to read:
+327.011. For the purpose of State School Fund distributions for school districts:
+(1) Local Revenues are the total of the following:
+(a) The amount of revenue offset against local property taxes as determined by the  Department
+of Revenue under ORS 311.175 (3)(a)(A).
+(b) The  amount of property taxes actually received by the district, including penalties and in-
+terest on taxes.
+(c) The amount of revenue received by the district from the  Common School Fund under ORS
+327.403 to 327.410.
+(d) The amount of revenue received by the district from the county school fund.
+[(e) The amount of  revenue received by the district from the 25 percent of federal forest reserve
+revenues required to be distributed to schools by ORS 294.060 (1). ]
+[(f)] (e) The amount of revenue received by the district from state managed forestlands under
+ORS 530.115 (1)(b) and (c).
+[(g)] (f) Moneys received in lieu of property taxes.
+[(h)] (g) Federal  funds received without specific application by the school district and that are
+not deemed under federal law to be nonsupplantable.
+[(i)] (h) Any positive amount obtained by subtracting the operating property  taxes actually im-
+posed by the district, based  on the rate certified pursuant to ORS 310.060, from the amount that
+would have been imposed by the district if the district had certified the maximum rate  of operating
+property taxes allowed by law.
+[(j)] (i) Any amount distributed to the district in the prior fiscal year under ORS 327.019 (8).
+(2) Local Revenues do not include:
+(a) If a school district imposes local option taxes pursuant to ORS 280.040  to 280.145, an amount
+equal to the least of:
+(A) The amount of revenue  actually received by the district from local option taxes imposed
+pursuant to ORS 280.040 to 280.145;
+(B) Twenty-five percent of the total received by the school district from the  general purpose
+grant, the transportation grant, the facility  grant and the high cost disabilities grant of the district,
+as those grants are calculated under ORS 327.013; or
+Enrolled House Bill 3221 (HB 3221-A) Page 1
+(C) $2,000 per district extended ADMw, as calculated under  ORS 327.013, increased each fiscal
+year by three percent above the amount allowed per district extended ADMw  for the prior fiscal
+year.
+(b) For a school district with a  statutory rate limit on July 1, 2003, that is greater than $4.50
+per $1,000 of assessed value, the amount of property taxes actually  received by the district, includ-
+ing penalties and interest on  taxes, that results from an increase in the rate of ad valorem property
+tax of the district allowed under Article XI, section 11 (5)(d), of the Oregon Constitution.
+SECTION 2.  ORS 294.060 is amended to read:
+294.060. (1) The moneys received by each county under ORS 293.560  shall be divided 75 percent
+to the road fund and 25 percent to the school  fund of the county and, subject to subsection (2) of
+this section, the moneys shall be expended as other moneys in those funds are expended.
+(2) The moneys apportioned to  the county road fund may be applied in payment of any out-
+standing road bonds or may be placed in any county  road bond sinking fund for the purpose of being
+so applied.
+(3) Notwithstanding the division  of receipts specified in subsection (1) of this section, in any
+county east of the summit of the Cascade Mountains with a population of less than 9,000  and more
+than 6,500, according to the 1990 federal decennial census,  moneys from the road fund in excess of
+$2 million may be transferred to the school fund when the amount of moneys  credited to the road
+fund under subsection (1) of this section exceeds the amount needed for county roads,  as determined
+by the board of county commissioners. Any amount received by  a school district from the school
+fund of the county [ that is in excess of the 25 percent required under subsection  (1) of this section ]
+may not be considered as a receipt that would reduce the district’s apportionments from the State
+School  Fund.
+(4) Notwithstanding the division of receipts specified in subsection (1) of this  section, in any
+county east of the  summit of the Cascade Mountains with a population of less than 58,000 and more
+than 55,000, according to the 1990 federal decennial census, if  the moneys credited to the road fund
+under subsection (1) of this section exceed the amount needed for county  roads, as determined by
+the county governing body, the  portion of such moneys in excess of an amount specified by the
+county governing body may be transferred  to the school fund of the county or may be transferred
+directly to the school districts of the county in accordance with procedures established  by the
+county governing body. The county governing body may distribute moneys  under this subsection
+among the  several school districts without regard to the percentage of the resident average daily
+membership in each school district. Moneys transferred under this subsection may  be transferred
+upon the condition that any  school district receiving a share of such moneys must use the moneys
+only for a purpose described in ORS 328.205 (1)(a)  or (c). Any amount received by a school district
+from the county under this subsection [ that is in excess of the  25 percent required under subsection
+(1) of  this section ] may not be considered as a receipt that would reduce the district’s apportionments
+from the State School Fund.
+(5) Notwithstanding the division  of receipts specified in subsection (1) of this section, in any
+county east of the summit of  the Cascade Mountains with a population of less than 6,500, according
+to the 1990 federal decennial census, moneys received by the county under  ORS 293.560 may be di-
+vided between the road  fund and the school fund of the county as specified under an agreement
+between the county governing body and the education  service district board of the county that
+provides  for  a different apportionment of those moneys. Any amount received by a school district
+from the school fund of the county [ that is in excess of the 25 percent required under  subsection (1)
+of this section ] may  not be considered as a receipt that would reduce the district’s apportionments
+from the State School Fund.
+(6) Notwithstanding the division of receipts specified in subsection (1) of this  section, in any
+county west of the summit of the Cascade Mountains with a population of less  than 19,500 and more
+than 6,500, according to the 1990 federal decennial census,  moneys from the road fund in excess of
+$1 million may be transferred to the school fund when the amount of moneys  credited to the road
+fund under subsection (1) of this section exceeds the amount needed for county roads,  as determined
+Enrolled House Bill 3221 (HB 3221-A) Page 2
+by the board of county commissioners. Any amount received by  a school district from the school
+fund of the county [ that is in excess of the 25 percent required under subsection  (1) of this section ]
+may not be considered as a receipt that would reduce the district’s apportionments from the State
+School  Fund.
+(7) As used in subsections (3) to (6) of this section, “summit of  the Cascade Mountains” has the
+meaning given that term in ORS 477.001.
+(8)(a) Notwithstanding the division  of receipts specified in subsection (1) of this section, the
+moneys that would otherwise be credited to the road fund of a county under subsection (1) of this
+section may instead be credited in accordance with this subsection.
+(b) Upon  request of the governing body of a county, the Oregon Department of Administrative
+Services shall credit the moneys described in  paragraph (a) of this subsection to one of the following
+public bodies, provided the service territory of the public body includes the entire county:
+(A) An intergovernmental entity created by agreement under ORS 190.003 to 190.130;
+(B) A county road district formed under ORS 371.055 to 371.110; or
+(C) A service district for roads established under ORS chapter 451.
+(c) Moneys credited to a public body under this subsection shall be used in the same  manner
+and subject to the same restrictions as would have applied to the moneys  in the hands of the county
+that made the  request under paragraph (b) of this subsection, including, but not limited to, the re-
+quirements of ORS chapter 368 related to the use of moneys in a county road fund.
+(d) The governing body of the county may request that the department discontinue crediting  the
+moneys to the public body at any time. Not later than 30 days  after receiving a request under this
+paragraph, the department shall resume crediting  the moneys in accordance with subsection (1) of
+this section.
+SECTION 3.
+The amendments to ORS 327.011 by section 1 of this 2023  Act apply to State
+School Fund distributions commencing with the 2023-2024 distributions.
+SECTION 4. This 2023 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency  is declared to exist, and this 2023 Act takes effect
+July 1, 2023.
+Passed by House June 8, 2023
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Dan Rayfield, Speaker of House
+Passed by Senate June 24, 2023
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2023
+Approved:
+........................M.,........................................................., 2023
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2023
+..................................................................................
+Secretary of State
+Enrolled House Bill 3221 (HB 3221-A) Page 3

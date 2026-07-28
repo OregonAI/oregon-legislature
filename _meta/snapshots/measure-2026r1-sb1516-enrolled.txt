@@ -1,0 +1,787 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+Senate Bill 1516
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Senate Interim Committee on Judiciary)
+CHAPTER .................................................
+AN ACT
+Relating to public  safety; creating new provisions; amending ORS 135.230, 135.233, 137.865 and
+192.345 and section 15, chapter 78, Oregon Laws 2022; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+PRETRIAL RELEASE
+SECTION 1.  ORS 135.233 is amended to read:
+135.233. (1) The presiding judge of a judicial  district shall enter a standing pretrial release order
+specifying to the sheriff  of the county, or to the entity supervising the local correctional facility
+responsible for pretrial incarceration within the judicial district, those persons and offenses:
+(a) Subject to release on recognizance;
+(b) Subject to release with special conditions as specified in the order; and
+(c) That are not eligible for release until arraignment.
+(2) The Chief Justice of the Supreme Court, with input  from a criminal justice advisory com-
+mittee appointed  by the Chief Justice, shall establish release guidelines for the pretrial release or-
+ders described in this section to:
+(a) Provide consistent release decision-making structure across the state;
+(b) Reduce reliance on the use of security;
+(c) Include provisions for victim notification and input; and
+(d) Balance the rights of the defendant  and presumption of pretrial release against community
+and victim safety and the risk of failure to appear.
+(3) Any standing  pretrial release order entered under subsection (1) of this section does
+not affect the authority of a magistrate to make a release decision under ORS 135.245 and
+to consider,  when making the release decision, the primary and secondary release criteria,
+including community safety and the risk of failure to appear by the defendant.
+SECTION 2.
+ ORS 135.230 is amended to read:
+135.230. As used in ORS 135.230 to 135.290, unless the context requires otherwise:
+(1) “Abuse” means:
+(a) Attempting to cause or intentionally, knowingly or recklessly causing physical injury;
+(b) Intentionally, knowingly or recklessly placing another in fear of  imminent serious physical
+injury; or
+(c) Committing sexual abuse in any degree as defined in ORS 163.415, 163.425 and 163.427.
+Enrolled Senate Bill 1516 (SB 1516-A) Page 1
+(2) “Conditional release” means  a nonsecurity release which imposes regulations on the activ-
+ities and associations of the defendant.
+(3) “Domestic violence” means abuse between family or household members.
+(4) “Family or household members” means any of the following:
+(a) Spouses.
+(b) Former spouses.
+(c) Adult persons related by blood or marriage.
+(d) Persons cohabiting with each other.
+(e) Persons who  have cohabited with each other or who have been involved in a sexually inti-
+mate relationship.
+(f) Unmarried parents of a minor child.
+(5) “Magistrate” has the meaning provided for this term in ORS 133.030.
+(6) “Personal  recognizance” means the release of a defendant upon the promise of the defendant
+to appear in court at all appropriate times.
+(7) “Primary release criteria” includes the following:
+(a) The reasonable protection of the victim or public;
+(b) The nature of the current charge;
+(c) The defendant’s prior criminal record,  if any, and, if the defendant previously has been re-
+leased pending trial, whether the defendant appeared as required;
+(d) Any facts indicating the possibility of violations of law if the  defendant is released without
+regulations; and
+(e) Any  other facts tending to indicate [ that] whether the defendant is likely to appear  as re-
+quired.
+(8) “Release” means temporary or partial freedom of a defendant  from lawful custody before
+judgment of conviction or after judgment of conviction if defendant has appealed.
+(9) “Release  agreement” means a sworn writing by the defendant stating the terms of the release
+and, if applicable, the amount of security.
+(10) “Release decision” means a determination by a magistrate, using  primary and secondary
+release criteria, which establishes the form of the release  most likely to ensure the safety of the
+public and the victim, the  defendant’s court appearance and that the defendant does not engage in
+domestic violence while on release.
+(11) “Secondary release criteria” includes the following:
+(a) The defendant’s employment status and history and financial condition;
+(b) The nature and extent of the family relationships of the defendant;
+(c) The past and present residences of the defendant;
+(d) Names of persons who agree  to assist the defendant in attending court at the proper time;
+and
+(e) Any facts tending to indicate that the defendant has strong ties to the community.
+(12) “Security release” means a release conditioned on a promise to appear in  court at all ap-
+propriate times which is secured by cash, stocks, bonds or real property.
+(13) “Surety” is  one who executes a security release and binds oneself to pay the security
+amount if the defendant fails to comply with the release agreement.
+AUTOMATED LICENSE PLATE RECOGNITION SYSTEMS
+SECTION 3.
+Definitions. As used in sections 3 to 9 of this 2026 Act:
+(1) “Alert” means a notification  generated by an automated license plate recognition
+system indicating that a vehicle’s license  plate number or other vehicle characteristics
+match information contained in a  hot list or database described in section 4 of this 2026 Act.
+(2) “Authorized user” means a law enforcement officer or  other employee of a law
+enforcement agency who is authorized to deploy or use an automated license plate recogni-
+Enrolled Senate Bill 1516 (SB 1516-A) Page 2
+tion system or captured license plate data in accordance with the  provisions of sections 3 to
+9 of this 2026 Act.
+(3)(a) “Automated license plate recognition system” means one or more  high-speed
+cameras combined with  computer algorithms used to convert images of license plates or
+other vehicle characteristics into computer-readable data.
+(b) “Automated license plate recognition system” does  not include a photo red light
+camera described in ORS  810.434 when used for enforcement of ORS 811.265 or a photo radar
+unit when used for enforcement of ORS 811.111.
+(4) “Captured  license plate data” means the global positioning system coordinates, date
+and time, video, photograph,  license plate number, vehicle characteristics or any other re-
+lated data or information collected by an automated license plate recognition system.
+(5) “Hot list” means a database created or maintained by  a law enforcement agency that
+identifies vehicles used to facilitate the commission of a crime or violation or to  avoid ap-
+prehension for commission of a crime, or that are associated with a missing or  endangered
+person.
+(6) “Law enforcement agency” has the meaning given that term in ORS 181A.775.
+(7) “Law enforcement purpose” means an authorized use of an automated license  plate
+recognition system or captured license plate data under section 4 of this 2026 Act.
+(8) “Secured area” means an area, enclosed by clear boundaries, to  which access is lim-
+ited or not open to the public  and entry is obtainable only through specific access control
+points.
+SECTION 4.
+Authorized uses of ALPR systems by  law enforcement; requirements for
+use. (1) Except as provided under sections 3 to 9 of this 2026 Act, a law enforcement agency
+may not use an automated license plate recognition system or captured license plate data.
+(2) A law enforcement agency may use  an automated license plate recognition system
+or captured license plate data for the purpose of:
+(a) Identifying a vehicle that was used to  facilitate the commission of a crime or used
+to avoid apprehension for commission of a crime, if the crime:
+(A) Constitutes a crime under the laws of this state;
+(B) If  committed in another state or jurisdiction, constitutes a crime that is substantially
+equivalent to a crime under the laws of this state; or
+(C) Constitutes a federal crime and the  use is not contrary to the public policies set forth
+in ORS 24.500 or any law of this state restricting the use of public resources for  prohibited
+enforcement activities, including ORS 181A.250, 181A.820 and 181A.826;
+(b) Identifying a vehicle that was used to facilitate the commission of a violation as de-
+scribed in ORS 153.008, excluding a traffic violation as defined in ORS 801.557;
+(c) Identifying a vehicle that is registered to a person  for whom there is an outstanding
+criminal warrant for arrest, if the warrant is:
+(A) For a crime that constitutes a crime under the laws of this state;
+(B) For a crime that, if committed  in another state or jurisdiction, constitutes a crime
+that is substantially equivalent to a crime under the laws of this state; or
+(C) A federal judicial warrant for arrest and the use is not contrary to the  public policies
+set forth in ORS 24.500 or any law of this state restricting the use of public  resources for
+prohibited enforcement activities, including ORS 181A.250, 181A.820 and 181A.826;
+(d) Identifying a vehicle that  is associated with a missing or endangered person, including
+a person who is the subject of an Amber Alert or Silver Alert;
+(e) Identifying an uninsured vehicle, as that term is defined in ORS 742.504;
+(f) Identifying a vehicle that is  not registered as required under the Oregon Vehicle Code;
+(g) Regulating the use of parking facilities; or
+(h) Controlling access to secured areas.
+Enrolled Senate Bill 1516 (SB 1516-A) Page 3
+(3)(a) For captured  license plate data not related to a court proceeding or ongoing crim-
+inal investigation, the captured license plate data may be retained for no more than  30 days
+after the captured license plate data is collected.
+(b) For captured license plate data related  to a court proceeding or ongoing criminal in-
+vestigation, the captured  license plate data may be retained for the same period of time that
+evidence is retained in the normal course of the court’s business.
+(c) Paragraphs (a) and (b)  of this subsection do not apply to the audit information de-
+scribed in section 6 of this 2026 Act.
+(4)(a) A law  enforcement agency may compare captured license plate data with informa-
+tion contained in:
+(A) Records held by the Department of Transportation;
+(B) The databases of the National Crime  Information Center maintained by the Federal
+Bureau of Investigation;
+(C) The Law Enforcement Data  System maintained by the Department of State Police
+or an equivalent system maintained by another state;
+(D) The records of the Federal Bureau of Investigation  related to kidnappings and miss-
+ing persons;
+(E) The missing children and adults clearinghouse established under ORS 181A.300; or
+(F) Hot lists created or maintained by the  law enforcement agency using the automated
+license plate recognition system or equivalent  databases created or maintained by an agency
+of another state that enforces criminal laws.
+(b) A law  enforcement agency may compare captured license plate data only with infor-
+mation contained in a system,  hot list or database described in paragraph (a)(C) or (F) of this
+subsection if the system, hot list or database is updated  frequently enough to ensure the
+information contained therein is accurate, relevant, timely and complete.
+(c) A law enforcement officer or other employee of a law enforcement agency who adds
+a license plate number, vehicle description or other entry to a  hot list must include in the
+entry:
+(A) The specific law enforcement purpose for the entry;
+(B) The name of the officer or other employee who adds the entry; and
+(C) If the officer or other employee adds the entry on behalf of  another employee of the
+law enforcement agency, the name of that other employee.
+(5) A law enforcement officer or other employee  of a law enforcement agency who
+searches captured license plate data collected by an automated license  plate recognition
+system under this section shall include the following information in the search  entry log for
+the automated license plate recognition system:
+(a) The authorized user identifier of the person who conducts the search;
+(b) The law enforcement agency that employs the person who conducts the search;
+(c) The search inputs used;
+(d) The date and time of the search;
+(e) Any applicable case or reference number;
+(f) The law enforcement purpose for the search; and
+(g) If the search is related to an investigation of a  crime or violation, the specific type
+of crime or violation being investigated.
+(6) Before a law enforcement officer conducts a traffic stop  of a driver of a motor vehicle
+based on an alert, the law enforcement officer or other authorized user shall visually confirm
+that the vehicle’s license plate number, issuing  state and other vehicle characteristics match
+the alert and that the traffic stop complies with agency policy and applicable law.
+(7) A law enforcement agency may request access  to captured license plate data collected
+by a private person or entity or  non-law enforcement agency, provided that the law
+enforcement agency accesses or otherwise uses the data for a law enforcement purpose.
+Enrolled Senate Bill 1516 (SB 1516-A) Page 4
+SECTION 5. Data sharing limitations for law enforcement agencies. (1) A law  enforce-
+ment agency may allow queries of the agency’s captured license plate data by  another law
+enforcement agency.
+(2)(a) Except as provided in paragraph  (b) of this subsection, a law enforcement agency
+may not provide access to captured license plate data to any government entity  or agency
+not created pursuant to the Oregon Constitution, or the laws or regulations of this state.
+(b) A law  enforcement agency may provide captured license plate data to a government
+entity or agency not created pursuant to the Oregon Constitution, or the  laws or regulations
+of this state for a  law enforcement purpose in accordance with sections 3 to 9 of this 2026
+Act. Captured license plate data provided under this  subsection must be limited to data rel-
+evant to the law enforcement purpose and may not include unrestricted or  ongoing access
+to captured license plate data. A law enforcement agency that provides captured license plate
+data under this subsection must include the following information  in the search entry log for
+the automated license plate recognition system:
+(A) The information required under section 4 (5) of this 2026 Act;
+(B) The government agency or entity on whose behalf the search is conducted by the law
+enforcement agency; and
+(C) The number of cameras or devices that were accessed or used as part of the  search.
+(3) Nothing in this section prohibits a law enforcement agency from providing  access to
+captured license plate data as may be required  by a judicial subpoena issued as part of a
+court proceeding or by another compulsory court-issued legal process.
+SECTION 6.
+ALPR system  audits provided by vendor. (1) A vendor that contracts with
+a law enforcement agency to  provide the agency with an automated license plate recognition
+system or related services shall provide to the agency a monthly audit of the  system that is
+searchable and includes the following information for the preceding 30-day period:
+(a) The number of automated license plate  recognition systems installed, including cam-
+eras and devices;
+(b) The location of any fixed or permanent automated license plate  recognition system,
+including cameras and devices;
+(c) The number of searches of captured license plate data  collected by the automated li-
+cense plate recognition system;
+(d) A list of any law enforcement agency  that has access to the automated license plate
+recognition system;
+(e) The number of authorized users for the automated license plate recognition system;
+(f) The number of  unique vehicles captured by the automated license plate recognition
+system;
+(g) The number of alerts generated by the automated license plate recognition system;
+(h) The number of cameras or devices that were accessed or used by the law enforcement
+agency; and
+(i) For any search of captured  license plate data collected by the automated license plate
+recognition system:
+(A) The authorized user identifier of the person who conducts the search;
+(B) The date and time of the search; and
+(C) The law enforcement purpose entered for the search.
+(2) A vendor that contracts with a law enforcement agency to provide the agency with
+an automated license plate recognition system or related  services shall provide to the agency
+a quarterly audit of the system that is  searchable and includes the following information for
+any search of  captured license plate data collected by the automated license plate recognition
+system that is conducted  during the preceding quarter on behalf of any government agency
+or entity that is not the law enforcement agency:
+(a) The authorized user identifier of the person who conducts the search;
+(b) The law enforcement agency that employs the person who conducts the search;
+Enrolled Senate Bill 1516 (SB 1516-A) Page 5
+(c) The government agency or entity on whose  behalf the search is conducted by the law
+enforcement agency;
+(d) The date and time of the search;
+(e) The law enforcement purpose entered for the search; and
+(f) The number of cameras or devices that were accessed or used as part of the search.
+(3)(a) A  law enforcement agency that receives an audit from a vendor under subsection
+(1) or (2) of this section shall publish the results of the audit on  the agency’s website within
+two days of receiving the audit or, in the  alternative, may require the vendor to provide di-
+rect public access to the results of the audit within two days of receiving the audit.
+(b) Audit results published by a law enforcement agency or provided to the public by  a
+vendor under paragraph (a) of  this subsection must be in accordance with the provisions of
+ORS 192.345 (44)(a).
+SECTION 7.
+Law enforcement agency  policies and procedures regarding ALPR systems;
+requirements. (1) Before deploying or using  an automated license plate recognition system
+or captured license  plate data, a law enforcement agency shall establish and publish policies
+and procedures for  the use of an automated license plate recognition system and the use,
+storage and retention of captured license plate data  in accordance with sections 3 to 9 of this
+2026 Act.
+(2) The policies and procedures described in subsection (1) of this section must include:
+(a) Requirements  to ensure the security of the automated license plate recognition sys-
+tem and resulting captured license plate data,  including rules governing access to the system
+and data;
+(b) Requirements to ensure that information contained in any  hot list created or main-
+tained by the law enforcement agency is accurate, relevant, timely and complete;
+(c) Training requirements  for any authorized users regarding the deployment, use and
+security of the automated license plate recognition system and captured license plate data;
+(d) Requirements for the retention and destruction of captured license plate data;
+(e) A requirement that any contract with a third  party vendor for an automated license
+plate recognition system or related services must include terms providing that:
+(A) Captured license plate  data collected by the automated license plate recognition sys-
+tem is the property of the law enforcement agency,  is not owned by the vendor and may not
+be used by or licensed to the vendor for any  purpose inconsistent with the policies and pro-
+cedures of the law enforcement agency or the provisions of sections 3 to 9 of this 2026 Act;
+(B) Any request received by the  vendor for access to captured license plate data collected
+by the automated license plate recognition system, including  through a judicial warrant, ju-
+dicial subpoena or  administrative subpoena, must be directed exclusively to the law
+enforcement agency that owns the captured license plate data;
+(C) Captured license plate data must be encrypted  using, at a minimum, end-to-end en-
+cryption;
+(D) The vendor must be in compliance with the most current version of the Federal  Bu-
+reau of Investigation Criminal Justice Information Services Security Policy,  including, as
+applicable, execution of the Federal Bureau  of Investigation Criminal Justice Information
+Services Security Addendum, audit rights and prompt notification of security incidents; and
+(E) The vendor may be held liable for the vendor’s  misuse or improper release of cap-
+tured license plate data collected by the automated license  plate recognition system, includ-
+ing damages for the misuse or improper release;
+(f) Requirements for audit processes under section 6 of this 2026 Act; and
+(g) A prohibition on the use  of any captured license plate data collected by the automated
+license plate recognition system for any purpose not  in accordance with sections 3 to 9 of
+this 2026 Act.
+SECTION 8.
+Exception for existing ALPR contracts. (1) Notwithstanding section 7 of this
+2026 Act, if a law enforcement agency has deployed or is using  an automated license plate
+Enrolled Senate Bill 1516 (SB 1516-A) Page 6
+recognition system on or after the effective date of  this 2026 Act pursuant to a contract with
+a third party  vendor for an automated license plate recognition system or related services
+that was entered into prior to  the effective date of this 2026 Act, the law enforcement agency
+may use  the automated license plate recognition system in accordance with the terms of the
+existing contract  for the duration of the contract. The law enforcement agency may not ex-
+tend or renew the contract or enter into a new contract  with a third party vendor for an
+automated license plate recognition  system unless the law enforcement agency and any ex-
+tended, renewed or new contract will  be in compliance with the requirements of sections 3
+to 9 of this 2026 Act on and after  the date on which the contract is extended, renewed or
+entered into.
+(2) Notwithstanding subsection (1)  of this section, a law enforcement agency that uses
+an automated license plate recognition system on or after the effective  date of this 2026 Act
+shall comply with the provisions of section 4 of this 2026 Act regardless of the date on which
+the agency enters, renews or extends a  contract with a third party vendor for an automated
+license plate recognition system or related services.
+SECTION 9. Action for improper access or disclosure of captured  license plate data; ex-
+ceptions; attorney fees. (1)(a) A vendor that contracts with a law  enforcement agency to
+provide an automated license plate recognition system  or related services may not access,
+disclose, sell, share or otherwise use captured license  plate data collected by the automated
+license plate recognition system.
+(b) It is not a violation of paragraph (a) of this subsection for a vendor to:
+(A) Access  captured license plate data collected by an automated license plate recogni-
+tion system for the limited duration and purpose of providing technical support to  the law
+enforcement agency for the system  or data if the agency grants express consent for that
+duration and purpose; or
+(B) Provide the audit information described under section 6 of this 2026 Act to a  law
+enforcement agency.
+(2) If  a vendor intentionally or with gross negligence accesses, discloses, sells, shares or
+otherwise uses captured license plate data related to an individual  in violation of subsection
+(1)(a) of this section, the individual may bring a civil  action against the vendor for economic
+and noneconomic damages and equitable relief. If a court awards damages or equitable relief
+to the individual, the court may award reasonable attorney fees to the individual.
+(3) Any person may bring a civil action against a vendor that violates subsection  (1)(a)
+of this section to enjoin the violation.
+(4) The causes of action  provided in this section are the exclusive remedies in law or
+equity for violation of subsection (1)(a) of this section.
+SECTION 10.
+ ORS 137.865 is amended to read:
+137.865. (1) The Organized Retail Theft Grant Program is established to assist:
+(a) Cities and counties with the costs incurred by local law enforcement agencies  in addressing
+organized retail theft; and
+(b) The Department of Justice with  costs incurred by the department in addressing organized
+retail theft.
+(2) The Oregon Criminal  Justice Commission shall administer the grant program described in
+subsection (1) of this section and shall award the grants described in this section.
+(3) The commission may adopt rules to administer the grant program, including:
+(a) A methodology for reviewing and approving grant applications and awarding grants;
+(b) A process for distributing any unallocated funds;
+(c) A process for evaluating the efficacy  of programs and services funded by the grant program;
+(d) Provisions related to requests by grant recipients to adjust their grant awards; and
+(e) Provisions related to partnerships or collaborations between applicants.
+Enrolled Senate Bill 1516 (SB 1516-A) Page 7
+(4)(a) Moneys distributed to  grant recipients under this section must be spent on costs associ-
+ated with addressing  and prosecuting organized retail theft and may be used for the purchase of
+equipment.
+(b) The use of any automated license plate recognition system, as defined in section 3 of
+this 2026 Act, purchased under this section must comply with  the provisions of sections 3 to
+9 of this 2026 Act.
+(5) As used in this section, “equipment” means any  item used by peace officers, deputy district
+attorneys or retail asset protection investigators in detecting, investigating, documenting or  adjudi-
+cating organized retail theft activities.
+SECTION 11.  ORS 192.345 is amended to read:
+192.345. The following public records are exempt from disclosure  under ORS 192.311 to 192.478
+unless the public interest requires disclosure in the particular instance:
+(1) Records of a public body pertaining to litigation to which the public body is a  party if the
+complaint has been filed, or if the complaint has not  been filed, if the public body shows that such
+litigation is reasonably likely to occur. This exemption does  not apply to litigation which has been
+concluded, and nothing in this subsection shall  limit any right or opportunity granted by discovery
+or deposition statutes to a party to litigation or potential litigation.
+(2) Trade secrets.  “Trade secrets,” as used in this section, may include, but are not limited to,
+any formula, plan, pattern, process,  tool, mechanism, compound, procedure, production data, or
+compilation of information which is not patented, which is  known only to certain individuals within
+an organization and which is used in a business it conducts, having  actual or potential commercial
+value, and which gives its user an opportunity to obtain a business advantage over competitors who
+do not know or use it.
+(3) Investigatory information compiled for  criminal law purposes. The record of an arrest or the
+report of a crime shall be disclosed unless and only for so long as there is a clear need to  delay
+disclosure in the course of a specific investigation, including the need  to protect the complaining
+party or the victim. Nothing in this subsection shall  limit any right constitutionally guaranteed,
+or granted by statute, to disclosure or discovery in criminal cases. For purposes  of this subsection,
+the record of an arrest or the report of a crime includes, but is not limited to:
+(a) The arrested  person’s name, age, residence, employment, marital status and similar bi-
+ographical information;
+(b) The offense with which the arrested person is charged;
+(c) The conditions of release pursuant to ORS 135.230 to 135.290;
+(d) The identity of and biographical information concerning both complaining party and victim;
+(e) The identity of the investigating and arresting agency and the length of the investigation;
+(f) The circumstances of  arrest, including time, place, resistance, pursuit and weapons used; and
+(g) Such information as may be necessary to enlist  public assistance in apprehending fugitives
+from justice.
+(4) Test questions, scoring keys, and other  data used to administer a licensing examination,
+employment, academic or other  examination or testing procedure before the examination is given
+and if the examination is to be used again.  Records establishing procedures for and instructing
+persons administering, grading or evaluating an examination  or testing procedure are included in
+this exemption, to the extent that disclosure would create a risk that the result might be affected.
+(5) Information consisting of  production records, sale or purchase records or catch records, or
+similar business records of a private concern or enterprise,  required by law to be submitted to or
+inspected  by  a governmental body to allow it to determine fees or assessments payable or to estab-
+lish production quotas, and the amounts of  such fees or assessments payable or paid, to the extent
+that such information is in a form  that would permit identification of the individual concern or en-
+terprise. This exemption does not include records submitted by long term care facilities as defined
+in ORS 442.015 to the state  for purposes of reimbursement of expenses or determining fees for pa-
+tient care. Nothing in this subsection shall limit the use that can be  made of such information for
+regulatory purposes or its admissibility in any enforcement proceeding.
+Enrolled Senate Bill 1516 (SB 1516-A) Page 8
+(6) Information relating to the appraisal of real estate prior to its acquisition.
+(7) The names and  signatures of employees who sign authorization cards or petitions for the
+purpose of requesting representation or decertification elections.
+(8) Investigatory information relating to any complaint filed under ORS 659A.820 or 659A.825,
+until such time as the complaint is resolved under ORS 659A.835,  or a final order is issued under
+ORS 659A.850.
+(9) Investigatory information relating to any  complaint or charge filed under ORS 243.676 and
+663.180.
+(10) Records, reports and other information received or compiled by the Director of the  De-
+partment of Consumer and Business Services under ORS 697.732.
+(11) Information concerning the location of archaeological sites or  objects as those terms are
+defined in ORS 358.905, except if the governing body of an Indian tribe requests  the information and
+the need for the information is related to that Indian tribe’s cultural or  religious activities. This
+exemption does not include information relating to a site  that is all or part of an existing, commonly
+known and publicized tourist facility or attraction.
+(12) A personnel discipline action, or materials or documents supporting that action.
+(13) Fish and wildlife information developed pursuant to ORS 496.004, 496.172  and 498.026 or
+ORS 496.192 and 564.100, regarding the habitat, location or population of any threatened  species or
+endangered species.
+(14) Writings prepared by or under the direction of faculty of public  educational institutions, in
+connection with research, until publicly released, copyrighted or patented.
+(15) Computer programs  developed or purchased by or for any public body for its own use. As
+used in  this subsection, “computer program” means a series of instructions or statements which
+permit the functioning of a computer system in a manner designed  to provide storage, retrieval and
+manipulation of data from such computer system, and any associated  documentation and source
+material that  explain how to operate the computer program. “Computer program” does not include:
+(a) The original data, including but not limited to numbers, text, voice, graphics and images;
+(b) Analyses, compilations and other manipulated forms of the original data produced  by use of
+the program; or
+(c) The mathematical and statistical formulas which would be used if  the manipulated forms of
+the original data were to be produced manually.
+(16) Data and information provided by participants to mediation under ORS 36.256.
+(17) Investigatory information relating to any complaint or charge  filed under ORS chapter 654,
+until a final administrative  determination is made or, if a citation is issued, until an employer re-
+ceives notice of any citation.
+(18) Specific operational plans  in connection with an anticipated threat to individual or public
+safety for deployment and use  of personnel and equipment, prepared or used by a public body, if
+public disclosure of the  plans would endanger an individual’s life or physical safety or jeopardize a
+law enforcement activity.
+(19)(a) Audits or audit reports  required of a telecommunications carrier. As used in this para-
+graph, “audit or audit report” means any external  or internal audit or audit report pertaining to a
+telecommunications carrier, as defined in ORS 133.721, or pertaining to a corporation having an af-
+filiated interest, as defined in ORS 759.390, with a telecommunications carrier that  is intended to
+make the operations of the entity more efficient,  accurate or compliant with applicable rules, pro-
+cedures or standards, that may  include self-criticism and that has been filed by the telecommuni-
+cations carrier or affiliate under compulsion of state  law. “Audit or audit report” does not mean an
+audit of a cost study that would be  discoverable in a contested case proceeding and that is not
+subject to a protective order; and
+(b) Financial statements. As used in this paragraph, “financial  statement” means a financial
+statement of a nonregulated corporation having an  affiliated interest, as defined in ORS 759.390,
+with a telecommunications carrier, as defined in ORS 133.721.
+Enrolled Senate Bill 1516 (SB 1516-A) Page 9
+(20) The residence address of an elector if authorized under  ORS 247.965 and subject to ORS
+247.967.
+(21) The following records, communications and information submitted to a housing authority
+as defined in ORS 456.005, or to an urban renewal agency as defined in ORS  457.010, by applicants
+for and recipients of loans, grants and tax credits:
+(a) Personal and corporate financial statements and information, including tax returns;
+(b) Credit reports;
+(c) Project  appraisals, excluding appraisals obtained in the course of transactions involving an
+interest in real estate that is acquired, leased, rented,  exchanged, transferred or otherwise disposed
+of as part of the project, but only after the transactions have closed and are concluded;
+(d) Market studies and analyses;
+(e) Articles of incorporation, partnership agreements and operating agreements;
+(f) Commitment letters;
+(g) Project pro forma statements;
+(h) Project cost certifications and cost data;
+(i) Audits;
+(j) Project tenant correspondence requested to be confidential;
+(k) Tenant files relating to certification; and
+(L) Housing assistance payment requests.
+(22) Records or information that, if disclosed, would allow a person to:
+(a) Gain unauthorized access to buildings or other property;
+(b) Identify those areas of structural or operational  vulnerability that would permit unlawful
+disruption to, or interference with, services; or
+(c) Disrupt, interfere with or gain unauthorized access to public funds or  to information proc-
+essing, communication or telecommunication systems,  including the information contained in the
+systems, that are used or operated by a public body.
+(23) Records or information that would  reveal or otherwise identify security measures, or
+weaknesses or potential weaknesses in  security measures, taken or recommended to be taken to
+protect:
+(a) An individual;
+(b) Buildings or other property;
+(c) Information processing, communication or telecommunication systems, including the  infor-
+mation contained in the systems; or
+(d) Those operations of the  Oregon State Lottery the security of which are subject to study and
+evaluation under ORS 461.180 (6).
+(24) Personal information held by or under the  direction of officials of the Oregon Health and
+Science University or a public university  listed in ORS 352.002 about a person who has or who is
+interested in donating money or property to the Oregon  Health and Science University or a public
+university, if the information is related  to the family of the person, personal assets of the person
+or is incidental information not related to the donation.
+(25) The home address, professional address and telephone number of a person who  has or who
+is interested in donating money or property to a public university listed in ORS 352.002.
+(26) Records of the name  and address of a person who files a report with or pays an assessment
+to a commodity commission established under ORS 576.051 to 576.455, the  Oregon Beef Council
+created under ORS 577.210 or the Oregon Wheat Commission created under ORS 578.030.
+(27) Information  provided to, obtained by or used by a public body to authorize, originate, re-
+ceive or authenticate a transfer of funds, including but not limited  to a credit card number, payment
+card expiration date, password, financial institution account number and financial institution routing
+number.
+(28) Social Security numbers as provided in ORS 107.840.
+(29) The electronic mail  address of a student who attends a public university listed in ORS
+352.002 or Oregon Health and Science University.
+Enrolled Senate Bill 1516 (SB 1516-A) Page 10
+(30) The name, home address, professional address or location of a person that is  engaged in,
+or that provides goods or services for, medical research  at Oregon Health and Science University
+that is  conducted using animals other than rodents. This subsection does not apply to Oregon Health
+and Science University press releases, websites or other publications circulated to the general
+public.
+(31) If requested by a public safety officer, as defined in ORS 181A.355, or a county  juvenile
+department employee who is charged with and primarily performs duties related to  the custody,
+control or supervision of adjudicated youths confined in a detention facility, as  defined in ORS
+419A.004:
+(a) The home  address and home telephone number of the public safety officer or county juvenile
+department employee contained in the voter registration records for the officer or employee.
+(b) The home  address and home telephone number of the public safety officer or county juvenile
+department employee contained in records of the Department of  Public Safety Standards and
+Training.
+(c) The name of the public  safety officer or county juvenile department employee contained in
+county real property assessment or taxation records. This exemption:
+(A) Applies only to the name of the officer or employee and any  other owner of the property in
+connection with a specific property identified by the officer or employee in a  request for exemption
+from disclosure;
+(B) Applies only to records that may be made immediately available to the  public upon request
+in person, by telephone or using the Internet;
+(C) Applies until the officer or employee requests termination of the exemption;
+(D) Does not apply to disclosure of records among public bodies as defined in ORS 174.109 for
+governmental purposes; and
+(E) May not result in liability for the county if the name of  the officer or employee is disclosed
+after a request for exemption from disclosure is made under this subsection.
+(32) Unless the public records request is made by a financial institution,  as defined in ORS
+706.008, consumer finance company licensed under ORS chapter 725, mortgage banker  or mortgage
+broker licensed under  ORS 86A.095 to 86A.198, or title company for business purposes, records de-
+scribed in paragraph  (a) of this subsection, if the exemption from disclosure of the records is sought
+by an individual described in paragraph (b) of this subsection using the procedure  described in
+paragraph (c) of this subsection:
+(a) The home address, home or cellular telephone number or personal  electronic mail address
+contained in the records of any public body that has received the request that is set forth in:
+(A) A  warranty deed, deed of trust, mortgage, lien, deed of reconveyance, release, satisfaction,
+substitution of trustee, easement, dog license,  marriage license or military discharge record that is
+in the possession of the county clerk; or
+(B) Any public record of a public body other than the county clerk.
+(b) The individual claiming  the exemption from disclosure must be a district attorney, a deputy
+district attorney, the Attorney General or an assistant attorney general, the United States Attorney
+for the District of Oregon or an assistant  United States attorney for the District of Oregon, a city
+attorney who engages in the prosecution  of criminal matters or a deputy city attorney who engages
+in the prosecution of criminal matters.
+(c) The individual claiming the exemption  from disclosure must do so by filing the claim in
+writing with the public body for which the exemption from disclosure is being  claimed on a form
+prescribed by the public body. Unless the  claim is filed with the county clerk, the claim form shall
+list the public records in the possession of the public body to which the exemption applies.  The ex-
+emption applies until the individual claiming the exemption requests termination  of the exemption
+or ceases to qualify for the exemption.
+(33) The following voluntary conservation agreements and reports:
+(a) Land management plans  required for voluntary stewardship agreements entered into under
+ORS 541.973; and
+Enrolled Senate Bill 1516 (SB 1516-A) Page 11
+(b) Written  agreements relating to the conservation of greater sage grouse entered into volun-
+tarily by owners or occupiers of land with a soil and water  conservation district under ORS 568.550.
+(34) Sensitive  business records or financial or commercial information of the State Accident In-
+surance Fund Corporation that is not customarily provided to business competitors.  This exemption
+does not:
+(a) Apply to the formulas for determining dividends to be paid to  employers insured by the State
+Accident Insurance Fund Corporation;
+(b) Apply to contracts for advertising, public relations or lobbying services or to documents  re-
+lated to the formation of such contracts;
+(c) Apply to group insurance contracts  or to documents relating to the formation of such con-
+tracts, except that employer account records shall remain exempt from disclosure  as provided in
+ORS 192.355 (35); or
+(d) Provide the basis for opposing  the discovery of documents in litigation pursuant to the ap-
+plicable rules of civil procedure.
+(35) Records of the Department  of Public Safety Standards and Training relating to investi-
+gations conducted under ORS 181A.640 or 181A.870 (6), until the department issues the  report de-
+scribed in ORS 181A.640 or 181A.870.
+(36) A medical examiner’s report, autopsy report or laboratory test  report ordered by a medical
+examiner under ORS 146.117.
+(37) Any document or other information related to an audit of a public body, as  defined in ORS
+174.109, that is in the custody of an auditor or audit organization operating under nationally  re-
+cognized  government  auditing standards, until the auditor or audit organization issues a final audit
+report in accordance with those standards or the audit is  abandoned. This exemption does not pro-
+hibit disclosure of a draft audit report  that is provided to the audited entity for the entity’s response
+to the audit findings.
+(38)(a) Personally identifiable information collected as part of an electronic fare  collection sys-
+tem of a mass transit system.
+(b) The exemption from disclosure in paragraph (a) of this subsection  does not apply to public
+records that have attributes of anonymity that are sufficient, or that are aggregated  into groupings
+that are broad enough, to ensure that persons cannot be identified by disclosure of the public  re-
+cords.
+(c) As used in this subsection:
+(A) “Electronic fare collection system” means the software and hardware used  for, associated
+with or relating to the collection of transit fares for a mass transit  system, including but not limited
+to computers, radio communication  systems, personal mobile devices, wearable technology, fare in-
+struments, information technology, data storage or  collection equipment, or other equipment or im-
+provements.
+(B) “Mass transit system” has the meaning given that term in ORS 267.010.
+(C) “Personally identifiable information” means all information  relating to a person that ac-
+quires or uses a transit  pass or other fare payment medium in connection with an electronic fare
+collection system, including but not limited to:
+(i) Customer account  information, date of birth, telephone number, physical address, electronic
+mail address, credit  or debit card information, bank account information, Social Security or taxpayer
+identification number or other identification number, transit pass or fare payment medium balances
+or history, or similar personal information; or
+(ii) Travel dates, travel times, frequency of use, travel locations, service types or vehicle use,
+or similar travel information.
+(39)(a) If requested by a civil code enforcement officer:
+(A) The home address  and home telephone number of the civil code enforcement officer con-
+tained in the voter registration records for the officer.
+(B) The name of the civil code enforcement officer contained in county  real property assessment
+or taxation records. This exemption:
+Enrolled Senate Bill 1516 (SB 1516-A) Page 12
+(i) Applies only to  the name of the civil code enforcement officer and any other owner of the
+property in connection with a specific property identified by the officer  in a request for exemption
+from disclosure;
+(ii) Applies only to records that  may be made immediately available to the public upon request
+in person, by telephone or using the Internet;
+(iii) Applies until the civil code enforcement officer requests termination of the exemption;
+(iv) Does not apply  to disclosure of records among public bodies as defined in ORS 174.109 for
+governmental purposes; and
+(v) May not result in liability for the county  if the name of the civil code enforcement officer
+is disclosed after a request for exemption from disclosure is made under this subsection.
+(b) As used in this subsection, “civil code enforcement officer” means an  employee of a public
+body, as defined in ORS 174.109, who is charged with enforcing laws or ordinances relating to land
+use, zoning, use of rights-of-way, solid waste, hazardous waste, sewage treatment and  disposal or the
+state building code.
+(40) Audio or video recordings,  whether digital or analog, resulting from a law enforcement
+officer’s operation of a video camera worn upon the  officer’s person that records the officer’s
+interactions with members of the public while the officer is on  duty. When a recording described in
+this subsection is subject to disclosure, the following apply:
+(a) Recordings  that have been sealed in a court’s record of a court proceeding or otherwise or-
+dered by a court not to be disclosed may not be disclosed.
+(b) A request  for disclosure under this subsection must identify the approximate date and time
+of an incident for which the recordings are requested and be reasonably tailored to include only that
+material for which a public interest requires disclosure.
+(c) A video recording disclosed under this subsection must, prior to disclosure, be edited in a
+manner as to render the faces of all persons within the recording unidentifiable.
+(41) The contents of tips reported to a tip line, as defined  in ORS 339.329. However, personally
+identifiable information, as defined in ORS 339.329, is  not subject to public interest balancing under
+this section and remains exempt from disclosure except as provided in ORS 339.329.
+(42) Residential addresses of individuals with intellectual or developmental disabilities residing
+in adult foster homes as  defined in ORS 443.705 or residential training facilities or residential
+training homes as those terms are defined in ORS 443.400.
+(43) The name, home address, professional address or location  of an individual who is authorized
+to provide physical and behavioral health care services in this  state and who provides reproductive
+and gender-affirming health care services.
+(44)(a) Captured license plate data, as that term is defined in section 3 of this 2026  Act,
+collected by an automated license plate recognition  system, as that term is defined in section
+3 of this 2026 Act, if the automated license plate recognition system  is deployed or used by
+a law enforcement agency. Except that the contents of an audit described in  section 6 of this
+2026 Act shall be  disclosed provided that the contents are, prior to disclosure, edited in a
+manner as to remove all personally identifiable information,  including any license plate
+number or vehicle characteristics relating to a person  whose captured license plate data is
+collected by an automated license plate recognition system.
+(b) When captured license plate data is subject to conditional disclosure, the  following
+apply:
+(A) A request  for disclosure under this subsection must identify the approximate date
+and time of the collection of captured license plate data  for which the captured license plate
+data is requested and be reasonably tailored to include only that material for which  a public
+interest requires disclosure.
+(B) A video recording or image disclosed under  this subsection must, prior to disclosure,
+be edited in a manner as to render the  faces of all persons within the recording or image
+unidentifiable.
+Enrolled Senate Bill 1516 (SB 1516-A) Page 13
+(C) Captured license plate data that has been sealed  in a court’s record of a court pro-
+ceeding or otherwise ordered by a court not to be disclosed may not be disclosed, unless
+otherwise contained in an audit described in section 6 of this 2026 Act.
+(c) Nothing in this subsection shall limit  any right constitutionally guaranteed, or
+granted by statute, to disclosure or discovery in criminal cases.
+JUSTICE REINVESTMENT EQUITY PROGRAM
+SECTION 12.
+ Section 15, chapter 78, Oregon Laws 2022, is amended to read:
+Sec. 15. (1) The Oregon Criminal Justice Commission shall distribute [ the] any moneys [ received
+pursuant to section 14 of  this 2022 Act to the Northwest Health Foundation Fund II to fund ] appro-
+priated to the commission for  the Justice Reinvestment Equity Program  as  described in this
+section. The program shall consist  of the provision of subgrants and technical assistance [ by the
+Northwest Health Foundation  Fund II ], by an intermediary technical assistance provider,  to
+culturally specific organizations and culturally responsive service  providers for the following pur-
+poses:
+(a) Mental health and substance use disorder treatment;
+(b) Maternal health services;
+(c) Trauma-informed restorative justice services;
+(d) Violence reduction programs, including but not  limited to violence interruption mentors or
+after-school programs focused on art, music, theater or dance;
+(e) Crisis intervention without police involvement;
+(f) Reentry programs that are  connected to education, workforce development and transitional
+supports;
+(g) Long-term supportive housing;
+(h) Support for setting aside conviction records;
+(i) Pretrial release support;
+(j) Services for victims, including incarcerated victims or victims on pretrial release;
+(k) Programs for persons, and families of persons, who are currently or  were formerly
+incarcerated;
+(L) Programs designed to reduce recidivism and reduce contact  with the criminal justice system;
+(m) Programs for  persons who have been impacted by police violence, either directly or through
+a family member; or
+(n) Planning [ grants] subgrants  and technical assistance to support the development of new
+culturally specific services, or to strengthen existing services, that are aligned with the  other pur-
+poses described in this subsection.
+(2) Recognizing that systemic racism exists within this state and within the  criminal justice
+system, and that culturally specific organizations  and culturally responsive services must be ex-
+panded to address those disparities, the purpose of the Justice Reinvestment Equity  Program is to
+promote racial equity, reduce racial disparities, reduce recidivism and decrease a county’s  utiliza-
+tion of imprisonment in a Department of  Corrections institution, all while protecting public safety
+and holding offenders accountable.
+(3)(a) As part of the program,  the commission shall select a culturally responsive tech-
+nical assistance provider that has experience working with prior Justice  Reinvestment Eq-
+uity Program subgrantees to serve as an intermediary between the commission and  program
+subgrantees. The commission shall distribute to the technical  assistance provider, as a
+grant, the moneys appropriated to the commission for the program.
+(b) The technical assistance provider  shall develop selection criteria and recommenda-
+tions for subgrants provided as part  of the program. The commission has approval authority
+for final subgrant awards based on the selection criteria and recommendations.
+(c) In consultation  with the commission, the technical assistance provider is responsible
+for:
+Enrolled Senate Bill 1516 (SB 1516-A) Page 14
+(A) Oversight and compilation  of fiscal and data reporting that incorporate measures of
+success as defined by the technical assistance provider;
+(B) Administering the application and subgrant management processes  for program
+funding and making recommendations to the commission on final subgrant awards;
+(C) Assisting subgrantees with the effective implementation  and management of program
+subgrant funds;
+(D) Organizational capacity-building, with a focus on effective subgrant management and
+performance of subgrant deliverables; and
+(E) Developing working relationships between  program subgrantees and other organiza-
+tions funded by the commission to the benefit of individuals and the community.
+[(3)] (4)  Notwithstanding subsection (1) of this section, up to three  percent of funds distributed
+under this section may  be used by the [ Northwest Health Foundation Fund II ] technical assistance
+provider selected by the  commission under subsection (3) of this section  for administrative
+costs.
+[(4)] (5)  The Oregon Criminal Justice Commission  may adopt rules to carry out the provisions
+of this section.
+[(5)] (6) As used in this section:
+(a) “Administrative costs” means all costs incurred throughout the administration of the Justice
+Reinvestment Equity Program  that are not directly related to the delivery of program services or
+projects.
+(b) “Culturally responsive service” means a service that is respectful of,  and relevant to, the
+beliefs, practices, cultures and linguistic needs of diverse consumer or client  populations and com-
+munities whose members identify as  having particular cultural or linguistic affiliations by virtue of
+their place of birth, ancestry or ethnic origin, religion, preferred language  or language spoken at
+home. A culturally responsive  service has the capacity to respond to the issues of diverse commu-
+nities and require knowledge and capacity at systemic, organizational,  professional and individual
+levels of intervention.
+(c) “Culturally specific organization”  means an organization, or a program within an organiza-
+tion, that serves a particular cultural community, that is primarily staffed and led by members of
+that community and that demonstrates self-advocacy, positive cultural identity  and intimate know-
+ledge of the lived experience of the community, including but not limited to:
+(A) The impact of structural and individual racism or discrimination on the community;
+(B) Specific disparities in access to services and resources experienced by the community; and
+(C) Community strengths, cultural practices, beliefs and traditions.
+CAPTIONS
+SECTION 13.
+The unit and section captions used in this 2026 Act are provided only  for
+the convenience of the reader  and do not become part of the statutory law of this state or
+express any legislative intent in the enactment of this 2026 Act.
+EMERGENCY CLAUSE
+SECTION 14. This 2026 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2026 Act takes effect
+on its passage.
+Enrolled Senate Bill 1516 (SB 1516-A) Page 15
+Passed by Senate February 20, 2026
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House March 5, 2026
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 1516 (SB 1516-A) Page 16

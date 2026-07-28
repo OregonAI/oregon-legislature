@@ -1,0 +1,141 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4150
+Sponsored by Representatives WISE, ANDERSEN, FRAGALA, CHAICHI; Representatives EVANS, GAMBA,
+GOMBERG, MCDONALD, MUNOZ, NELSON, NGUYEN D, Senators  BROADMAN, CAMPOS, FREDERICK,
+GELSER BLOUIN, JAMA, NERON MISSLIN, PHAM K, PROZANSKI (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that persons who contract with the state or get  grants from the state must
+promise not to help transport people for deportation. (Flesch Readability Score: 69.7).
+Directs state agencies to require prospective  contractors, subcontractors and grant recipients
+to attest that they do not and will not transport individuals detained  by federal agencies for the
+purpose of deportation, except in accordance with judicial orders. Provides  that if the attestations
+are false or become false, contractors  are disqualified from contracting with the state agency for a
+specified period, and grant recipients must repay the grant moneys to the state.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to recipients of public funds; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) A state  agency shall require every prospective contractor to submit the
+attestation described in subsection (2) of this section as part of the prospective  contractor’s
+bid or proposal. A state agency may not award  a contract to a prospective contractor that
+fails to submit the attestation, or if the state  agency determines that the information sub-
+mitted on the attestation is false.
+(2) An attestation under  this section must be in substantially the following form: “Con-
+tractor is not now, and will not be for the duration of any  contract with the State of Oregon,
+under an agreement with  any federal agency to provide transportation services for individ-
+uals detained by the federal agency for the purpose of deportation from the United States,
+except in accordance with an order of a federal court, not including administrative courts.”
+(3) If a state agency ultimately awards a contract to a  prospective contractor, the con-
+tract must include:
+(a) A provision making the contract voidable, at the option of the state agency, if  the
+state agency determines that  the information in the prospective contractor’s attestation is
+false or subsequently becomes false;
+(b) A provision requiring the prospective contractor to include  in any transportation
+subcontracts a provision requiring an attestation from the subcontractor substantially sim-
+ilar to that described in subsection (2) of this section; and
+(c) A provision making the contract  with the prospective contractor voidable, at the op-
+tion of the state agency, if the state agency determines that  the information in a
+subcontractor’s attestation is false or subsequently becomes false.
+(4) If a state agency determines that the information  in the attestation of a prospective
+contractor, a contractor or a subcontractor engaged by a contractor is false or subsequently
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 134
+HB 4150
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+becomes false, the  state agency shall disqualify the contractor or potential contractor from
+contracting with the state agency for a period of three years  from the time of the determi-
+nation.
+(5) As used in this section:
+(a) “Contractor” means a person to whom a state agency has awarded a contract.
+(b) “Prospective contractor” means any person who submits a bid or proposal for a  con-
+tract with a state agency.
+(c) “State agency” means every state  officer, board, commission, department, institution,
+branch or agency of the  state government whose costs are paid wholly or in part from funds
+held in the State Treasury.
+(d) “Transportation subcontract” means a subcontract for services involving the  trans-
+portation of humans.
+SECTION 2.
+(1) A state agency that awards a grant to a recipient  shall require the re-
+cipient to execute an agreement as described in subsection (2)  of this section as a condition
+of receiving grant moneys.
+(2) An agreement under this section must:
+(a) Require the recipient to attest, before receiving grant moneys, that the  recipient is
+not and will not be under an agreement with  any federal agency to provide transportation
+services for individuals  detained by the federal agency for the purpose of deportation from
+the United States,  except in accordance with an order of a federal court, not including ad-
+ministrative courts; and
+(b) Require the recipient to repay the grant moneys to the state agency if the  state
+agency determines that the attestation is false or subsequently becomes false.
+(3) As used in this section:
+(a) “Grant”  means an award of moneys by a state agency to a person or entity other than
+a public body, as defined in ORS 174.109,  that is made under terms that do not require the
+repayment of the moneys unless the recipient breaches specified obligations.
+(b) “State agency” has the meaning given that term in section 1 of this 2026 Act.
+SECTION 3.
+This 2026 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2026 Act takes effect
+on its passage.
+[2]

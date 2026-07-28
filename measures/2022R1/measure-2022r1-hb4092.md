@@ -1,0 +1,981 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2022r1-hb4092
+title: 'HB 4092 (2022R1): Modifies composition and duties of Oregon Broadband Advisory Council.'
+doc_type: dataset_doc
+citation: 2022 Regular Session House Bill 4092
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2022R1/Downloads/MeasureDocument/HB4092/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 36f71c10a4faf8e9a4816493788f27276373a2af6549922026e8e93e2dcbd753
+snapshot_id: measure-2022r1-hb4092-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 137.077
+  - ORS 151.485
+  - ORS 171.072
+  - ORS 174.109
+  - ORS 174.111
+  - ORS 174.112
+  - ORS 174.114
+  - ORS 174.116
+  - ORS 174.117
+  - ORS 192.311
+  - ORS 192.355
+  - ORS 192.360
+  - ORS 192.363
+  - ORS 192.368
+  - ORS 225.085
+  - ORS 243.650
+  - ORS 244.040
+  - ORS 25.020
+  - ORS 254.074
+  - ORS 261.348
+  - ORS 276A.424
+  - ORS 285A.154
+  - ORS 285A.157
+  - ORS 285A.160
+  - ORS 285A.224
+  - ORS 293.761
+  - ORS 293.766
+  - ORS 342.815
+  - ORS 357.206
+  - ORS 357.410
+  - ORS 40.225
+  - ORS 408.225
+  - ORS 408.425
+  - ORS 431A.860
+  - ORS 431A.865
+  - ORS 453.005
+  - ORS 469.530
+  - ORS 469B.256
+  - ORS 656.005
+  - ORS 756.500
+  - ORS 756.568
+  - ORS 759.020
+  - ORS 759.050
+  - ORS 759.052
+  - ORS 759.180
+  - ORS 759.685
+  - ORS 777.005
+  - ORS 86A.095
+  - ORS 98.352
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2022r1
+- hb
+session_key: 2022R1
+measure_prefix: HB
+measure_number: 4092
+prefix_meaning: House Bill
+catch_line: Modifies composition and duties of Oregon Broadband Advisory Council.
+minority_catch_line: null
+measure_summary: "\tModifies composition and duties of Oregon Broadband Advisory Council. Provides for\
+  \ establishment of grant application review committees. \n\tDirects Oregon Broadband Office to develop\
+  \ Broadband Action Plan and Digital Equity Plan that address requirements in Infrastructure Investment\
+  \ and Jobs Act. \n\tDirects Oregon Broadband Office to collect geospatial data information related to\
+  \ broadband service in Oregon to assist state to determine eligibility for grants and loans and confirm\
+  \ allocation of federal funds. Exempts from public disclosure proprietary information subject to nondisclosure\
+  \ agreement provided to office. \n\tEstablishes Connecting Oregon Libraries Fund. Continuously appropriates\
+  \ moneys in fund to State Library for purpose of providing matching funds for federal moneys received\
+  \ by certain libraries for providing broadband access. Requires State Library Board to adopt certain\
+  \ rules before distributing moneys in fund. \n\tDirects Public Utility Commission, in consultation with\
+  \ certain other state agencies, to investigate and make recommendations on feasibility of expanding\
+  \ Oregon Telephone Assistance Program and applying residential service surcharge to support access to\
+  \ broadband Internet access service or other telecommunications services. Requires commission to submit\
+  \ report to appropriate regular or interim committee of Legislative Assembly and Oregon Broadband Office\
+  \ no later than June 1, 2023. \n\tRemoves requirement that Public Utility Commission serve notice of\
+  \ all filings of applications for certificates of authority to provide intrastate telecommunications\
+  \ services. Removes requirement that commission provide annual competitive provider report to Legislative\
+  \ Assembly. \n\tDeclares emergency, effective on passage."
+relating_to: Relating to telecommunications; and declaring an emergency.
+relating_to_full: Relating to telecommunications; and declaring an emergency.
+at_the_request_of: null
+lc_number: 236
+measure_created_date: '2022-01-14T18:13:52'
+measure_modified_date: '2022-04-01T12:50:48'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 56924
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 137.077
+  - ORS 151.485
+  - ORS 171.072
+  - ORS 174.109
+  - ORS 174.111
+  - ORS 174.112
+  - ORS 174.114
+  - ORS 174.116
+  - ORS 174.117
+  - ORS 192.311
+  - ORS 192.355
+  - ORS 192.360
+  - ORS 192.363
+  - ORS 192.368
+  - ORS 225.085
+  - ORS 243.650
+  - ORS 244.040
+  - ORS 25.020
+  - ORS 254.074
+  - ORS 261.348
+  - ORS 276A.424
+  - ORS 285A.154
+  - ORS 285A.157
+  - ORS 285A.160
+  - ORS 285A.224
+  - ORS 293.761
+  - ORS 293.766
+  - ORS 342.815
+  - ORS 357.206
+  - ORS 357.410
+  - ORS 40.225
+  - ORS 408.225
+  - ORS 408.425
+  - ORS 431A.860
+  - ORS 431A.865
+  - ORS 453.005
+  - ORS 469.530
+  - ORS 469B.256
+  - ORS 656.005
+  - ORS 756.500
+  - ORS 756.568
+  - ORS 759.020
+  - ORS 759.050
+  - ORS 759.052
+  - ORS 759.180
+  - ORS 759.685
+  - ORS 777.005
+  - ORS 86A.095
+  - ORS 98.352
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2022R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4092`.
+
+# HB 4092 — 2022 Regular Session (2022R1)
+
+## At a glance
+
+- **Measure:** House Bill 4092, 2022 Regular Session (2022R1)
+- **LC number:** 236
+- **Created:** 2022-01-14T18:13:52
+- **Metadata last modified (upstream):** 2022-04-01T12:50:48
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 56924 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2022R1/Downloads/MeasureDocument/HB4092/Enrolled>.
+
+## Summary
+
+**Catchline:** Modifies composition and duties of Oregon Broadband Advisory Council.
+
+**Relating to:** Relating to telecommunications; and declaring an emergency.
+
+Modifies composition and duties of Oregon Broadband Advisory Council. Provides for establishment of grant application review committees. 
+ Directs Oregon Broadband Office to develop Broadband Action Plan and Digital Equity Plan that address requirements in Infrastructure Investment and Jobs Act. 
+ Directs Oregon Broadband Office to collect geospatial data information related to broadband service in Oregon to assist state to determine eligibility for grants and loans and confirm allocation of federal funds. Exempts from public disclosure proprietary information subject to nondisclosure agreement provided to office. 
+ Establishes Connecting Oregon Libraries Fund. Continuously appropriates moneys in fund to State Library for purpose of providing matching funds for federal moneys received by certain libraries for providing broadband access. Requires State Library Board to adopt certain rules before distributing moneys in fund. 
+ Directs Public Utility Commission, in consultation with certain other state agencies, to investigate and make recommendations on feasibility of expanding Oregon Telephone Assistance Program and applying residential service surcharge to support access to broadband Internet access service or other telecommunications services. Requires commission to submit report to appropriate regular or interim committee of Legislative Assembly and Oregon Broadband Office no later than June 1, 2023. 
+ Removes requirement that Public Utility Commission serve notice of all filings of applications for certificates of authority to provide intrastate telecommunications services. Removes requirement that commission provide annual competitive provider report to Legislative Assembly. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to telecommunications; and declaring an emergency.
+
+## Full text
+
+81st OREGON LEGISLATIVE ASSEMBLY--2022 Regular Session
+Enrolled
+House Bill 4092
+Sponsored by Representative MARSH,  Senator BEYER, Representatives OWENS, HAYDEN,
+KROPF, SMITH G, Senators ARMITAGE, MANNING JR; Representatives  CAMPOS, DEXTER,
+EVANS, GOMBERG, GRAYBER, HELM, HOLVEY, HOY,  HUDSON, MCLAIN, NATHANSON,
+NERON, PHAM, POWER,  PRUSAK, REYNOLDS, RUIZ, SANCHEZ, SCHOUTEN, SMITH DB,
+VALDERRAMA,  WILDE,  WILLIAMS, WITT, WRIGHT, Senators DEMBROW, FINDLEY,
+FREDERICK, GOLDEN, JAMA, LAWRENCE SPENCE, LIEBER,  PATTERSON, PROZANSKI,
+TAYLOR (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to telecommunications; creating  new provisions; amending ORS 192.355, 285A.154, 285A.160,
+759.020 and 759.050; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+OREGON BROADBAND ADVISORY COUNCIL
+SECTION 1.  ORS 285A.154 is amended to read:
+285A.154. (1) The  Oregon Broadband Advisory Council is established within the Oregon Business
+Development  Department.  The council consists of [ 16] 13 members[ , of whom ] appointed as
+follows:
+(a) The Governor shall appoint [ 14] 11 members  who, to  the extent possible, represent ge-
+ographically diverse regions of this state,  as follows:
+(A) One member to represent the counties of this state.
+(B) One member to represent the cities of this state.
+(C) [ Three] Two members to represent telecommunications service providers [ and Internet ser-
+vice providers in this state ]. At least one member must  represent a service provider that provides
+telecommunications services in  rural Oregon with preference for appointment given to a
+service provider that is  headquartered in rural Oregon.
+(D) One member to represent Oregon tribes.
+(E) One member to represent education  or public libraries .
+(F) One member to represent rural business or  economic development  districts .
+(G) One member to represent [ public safety ] urban business or economic development dis-
+tricts.
+(H) One member to represent [ health] telehealth.
+(I) One member  to represent the [ State Chief Information Officer ] digital equity interests of
+historically disadvantaged communities.
+[(J) One member from the Public Utility Commission. ]
+[(K) One member to represent the Department of Transportation. ]
+[(L)] (J) One member to represent consumers and the public at large.
+Enrolled House Bill 4092 (HB 4092-A) Page 1
+(b) The Speaker of the House  of Representatives shall appoint one nonvoting member who is a
+member of the House of Representatives.
+(c) The President of the Senate shall appoint one nonvoting member  who is a member of the
+Senate.
+(2) The term of office of each voting member is four years, but a voting member serves  at the
+pleasure of  the Governor. Before the term of a voting member expires, the Governor shall appoint
+a successor whose term begins on January 1 next following.  A voting member is eligible for reap-
+pointment for one additional  term . If there is a vacancy for any cause, the Governor shall make
+an appointment that becomes immediately effective for the unexpired term.
+(3) The nonvoting legislative members shall serve two-year terms and  are eligible for reap-
+pointment.
+(4) Members of the council who are not members  of the Legislative Assembly are not entitled
+to compensation, but voting  members may be paid expenses if funding is available from contributions
+the Oregon Business Development Department accepts under ORS 285A.157 (2).
+(5) Members of the council who are members of  the Legislative Assembly are entitled to com-
+pensation and expense reimbursement as provided in ORS 171.072.
+(6) The council shall select one of the council’s voting members as  chairperson and another
+voting member as vice chairperson, for  [ such terms and with duties and powers necessary for per-
+forming the functions of  the offices as the council determines. ] a two-year term. The chairperson
+and vice chairperson may not serve for more than two consecutive terms.
+(7) A majority of the voting members of the council constitutes a quorum for transacting busi-
+ness.
+(8) The council shall  meet [ at least once ] every three months at a place, day and hour determined
+by the council. The council may also meet at other times and places specified  by the call of the
+chairperson or of a majority of the members of the council.
+(9) A majority of the voting members of the council  must approve official action by the council.
+The council may recommend legislation, public policy and solutions to  address the state’s broadband
+needs and goals.
+(10) The council shall [ champion statewide access to broadband services and shall encourage ]:
+[(a) Coordination between existing organizations and sectors that can  leverage broadband to their
+advantage;]
+[(b) State agencies to encourage and facilitate broadband deployment; ]
+[(c) The development  and support of digital inclusion and education programs to encourage
+broadband adoption and provide citizens  with institutions to teach digital skills necessary for success
+in the workplace; ]
+[(d) Efforts to provide cost-effective quality workforce development training  using telecommuni-
+cations infrastructure and facilities to access distance learning opportunities; ]
+[(e) Schools, education service districts and local education agencies in  unserved areas to promote
+broadband access for the surrounding community; ]
+[(f) Public and private  entities to seek opportunities for partnership with educational institutions
+that will stimulate the use of  broadband technologies through community projects and public
+education;]
+[(g) The use of broadband communications technologies for telehealth and telemedicine; and ]
+[(h) Public and  private organizations to work together in partnership to promote the use of tele-
+communications infrastructure and new technology. ]
+[(11) The Oregon Business Development Department shall provide staff or  facilities to the
+council.]
+[(12) The State Chief Information Officer, the Public Utility Commission and the Department  of
+Education may provide staff or facilities to the council. ]
+(a) Advise the  Oregon Broadband Office on the development and implementation of
+Oregon’s broadband strategy.
+Enrolled House Bill 4092 (HB 4092-A) Page 2
+(b) Advise the Oregon Broadband Office on  the scalability, resilience and sustainability
+of Oregon’s broadband infrastructure.
+(c) Assist the Oregon Broadband  Office in developing ideas to streamline deployment of
+broadband infrastructure and in ensuring continual progress toward achieving state goals.
+(d) Review and update state goals regarding broadband service speeds  in consideration
+of federal requirements and to ensure that Oregon residents and businesses are prepared  for
+future needs.
+(e) Advise  the Oregon Broadband Office on best practices to guide the development and
+implementation of state  grant programs, including project review, opportunities for appeal
+and project accountability.
+(f) Support local governments, providers  and stakeholders in project planning and devel-
+opment.
+(g) Champion equitable statewide access and adoption of broadband services.
+(11)(a) The council shall establish  a grant application review committee for each grant
+cycle.
+(b) Subject to grant  rules, a grant application review committee shall review grant ap-
+plications and submit directly to the Oregon Broadband Office recommendations.
+(c) An individual may  not serve on a grant application review committee if the individual
+is employed by or receives compensation from an entity that is under  consideration for a
+grant through the Oregon Broadband Office.
+[(13)] (12) All agencies of state government, as defined in ORS 174.111, shall  assist the council
+in the performance of the council’s duties and, to the extent permitted by laws relating  to
+confidentiality, to furnish such information and advice as  the members of the council consider nec-
+essary to perform the members’ duties.
+SECTION 2.
+Notwithstanding the term of office specified by ORS 285A.154 (2):
+(1) The term of office  of the members of the Oregon Broadband Advisory Council who
+are serving on the effective date of this 2022 Act expires  on the operative date specified in
+section 12 of this 2022 Act.
+(2) Of the members  first appointed to the Oregon Broadband Advisory Council after the
+operative date specified in section 12 of this 2022 Act:
+(a) Five members  appointed by the Governor shall serve for an initial term ending De-
+cember 31, 2023.
+(b) Six members appointed by the Governor shall  serve for an initial term ending De-
+cember 31, 2025.
+SECTION 2a.  ORS 285A.160 is amended to read:
+285A.160. The Oregon Broadband Advisory Council[ , in consultation with the Oregon  Broadband
+Office,] shall submit a report by [ November 1 ] September 15 of each  [ even-numbered] year to the
+Joint Legislative Committee on Information Management and Technology on the  following subjects:
+[(1) The affordability and accessibility of broadband technology in all areas of this state; ]
+[(2) The extent of broadband technology use in this state in  business, health care, energy manage-
+ment, education and government; and ]
+[(3) The role of broadband  technology in local, state and regional economies and economic devel-
+opment.]
+(1) The status of any broadband strategies  developed by the Oregon Broadband Office and
+any updates to those strategies in the 12 months immediately preceeding the date of  the
+report.
+(2) A list of every grant  and loan provided through the office and the status of each
+project associated with a grant or loan provided through the office.
+STATEWIDE SYSTEM FRAMEWORK
+Enrolled House Bill 4092 (HB 4092-A) Page 3
+SECTION 3. (1) The Oregon Broadband  Office shall develop a Broadband Action Plan and
+a Digital Equity Plan that  address the requirements of the Infrastructure Investment and
+Jobs Act (P.L. 117-58).
+(2) The Broadband Action Plan must, at a minimum, address:
+(a) Investment priorities;
+(b) Alignment of goals and needs;
+(c) Proposed plans to address needs;
+(d) Needs for technical assistance; and
+(e) The schedule for implementing plans.
+(3) The Digital Equity  Plan must, at a minimum, address availability and affordability of
+broadband services based on:
+(a) Technology;
+(b) Online accessibility;
+(c) Digital literacy;
+(d) Privacy and cybersecurity; and
+(e) Devices and support.
+(4) The office may develop supplemental strategies, as  necessary, to achieve availability
+of services  and adoption of services by residents, businesses, schools and libraries through-
+out Oregon and to support federal planning requirements, including strategies to:
+(a) Support local communities and local and regional partners  with broadband project
+planning and implementation and technical assistance.
+(b) Support project coordination between private and public entities.
+(c) Pursue and leverage private and public investment opportunities.
+(d) Guide development and implementation of state grant programs, including project
+review, procedures for appeal and project accountability and sustainability.
+(e) Support ongoing  development and maintenance of mapping and data and associated
+analytic capabilities, including consumer adoption.
+(f) Evaluate existing system architecture  in this state, including middle-mile
+infrastructure and exchange points, to ensure long term adequacy and resiliency.
+(g) Support the Department of Education and State Library in implementing the purposes
+of the Connecting Oregon Schools Fund established in ORS 276A.424  and Connecting Oregon
+Libraries Fund established in section 6 of this 2022 Act.
+(h) Evaluate the need and appropriateness of infrastructure redundancy.
+(i) Consider the appropriateness of open access requirements for state-funded projects.
+(j) Accelerate interagency engagement and collaboration to address  barriers and accel-
+erate access and adoption of services.
+(k) Identify policy and procedural changes to ease construction barriers.
+(L) Cost-effectively develop broadband in remote and high cost areas.
+GEOSPATIAL MAPPING
+SECTION 4.
+(1) The Oregon Broadband Office shall collect geospatial data, including data
+that is  reported to the Federal Communications Commission, and other data as necessary
+from Internet service providers and entities with broadband infrastructure in this state  for
+the purpose of assisting the state in confirming  the allocation of funds to the state under
+the Infrastructure Investment and Jobs Act (P.L. 117-58) and determining eligibility  for
+grants and loans issued by the office.
+(2) The collected information must be in a form that can be viewed, edited and mapped.
+(3)(a) The office may collect proprietary  information subject to a nondisclosure agree-
+ment.
+(b) Proprietary information  subject to a nondisclosure agreement that is collected by the
+office under this section is exempt from public disclosure under ORS 192.355.
+Enrolled House Bill 4092 (HB 4092-A) Page 4
+(4) The  Oregon Business Development Department may prescribe rules for the office to
+implement the provisions of this section.
+SECTION 5.  ORS 192.355 is amended to read:
+192.355. The following public records are exempt from disclosure under ORS 192.311 to 192.478:
+(1) Communications within a public body or between public bodies of an advisory nature to the
+extent that they cover other than purely factual materials  and are preliminary to any final agency
+determination of policy or action. This exemption shall not apply unless the  public body shows that
+in the particular instance the public interest in encouraging frank communication  between officials
+and employees of public bodies clearly outweighs the public interest in disclosure.
+(2)(a) Information of a personal nature such as but not  limited to that kept in a personal, med-
+ical or similar file, if public disclosure would  constitute an unreasonable invasion of privacy, unless
+the public interest by clear  and convincing evidence requires disclosure in the particular instance.
+The party seeking disclosure shall have the burden of showing that public disclosure would not
+constitute an unreasonable invasion of privacy.
+(b) Images of a dead  body, or parts of a dead body, that are part of a law enforcement agency
+investigation, if public disclosure would create an unreasonable invasion of privacy of the  family of
+the deceased  person, unless the public interest by clear and convincing evidence requires disclosure
+in the particular instance. The  party seeking disclosure shall have the burden of showing that public
+disclosure would not constitute an unreasonable invasion of privacy.
+(3) Upon compliance with ORS 192.363, public body employee or volunteer residential addresses,
+residential telephone numbers, personal cellular telephone numbers, personal electronic mail  ad-
+dresses, driver license numbers, employer-issued identification card numbers,  emergency contact in-
+formation, Social Security numbers, dates of birth  and other telephone numbers contained in
+personnel records maintained by the public body that  is the employer or the recipient of volunteer
+services. This exemption:
+(a) Does not apply to the addresses, dates of birth and  telephone numbers of employees or vol-
+unteers who are elected officials, except that a judge or district attorney subject to  election may
+seek to exempt the  judge’s or district attorney’s address or telephone number, or both, under the
+terms of ORS 192.368;
+(b) Does not  apply to employees or volunteers to the extent that the party seeking disclosure
+shows by clear and convincing evidence that the public  interest requires disclosure in a particular
+instance pursuant to ORS 192.363;
+(c) Does not apply  to a substitute teacher as defined in ORS 342.815 when requested by a pro-
+fessional education association of which the substitute teacher may be a member; and
+(d) Does not relieve a public employer of any duty under ORS 243.650 to 243.809.
+(4) Information submitted  to a public body in confidence and not otherwise required by law to
+be submitted, where such information should reasonably be considered confidential, the public  body
+has obliged itself in good faith  not to disclose the information, and when the public interest would
+suffer by the disclosure.
+(5) Information or records of the Department of Corrections,  including the State Board of Parole
+and Post-Prison Supervision, to the extent that disclosure would interfere with the rehabilitation  of
+a person  in custody of the department or substantially prejudice or prevent the carrying out of the
+functions of the department, if  the public interest in confidentiality clearly outweighs the public
+interest in disclosure.
+(6) Records, reports and other information received or compiled by the Director  of the Depart-
+ment of Consumer and Business Services in the administration of ORS chapters 723  and 725 not
+otherwise required by law  to be made public, to the extent that the interests of lending institutions,
+their officers, employees and  customers in preserving the confidentiality of such information out-
+weighs the public interest in disclosure.
+(7) Reports made to or filed with the court under ORS 137.077 or 137.530.
+(8) Any public records or  information the disclosure of which is prohibited by federal law or
+regulations.
+Enrolled House Bill 4092 (HB 4092-A) Page 5
+(9)(a) Public  records or information the disclosure of which is prohibited or restricted or other-
+wise made confidential or privileged under Oregon law.
+(b) Subject  to ORS 192.360, paragraph (a) of this subsection does not apply to factual information
+compiled in a public record when:
+(A) The basis for the claim of exemption is ORS 40.225;
+(B) The factual information is not prohibited  from disclosure under any applicable state or fed-
+eral law, regulation or court order and is not otherwise exempt from disclosure  under ORS 192.311
+to 192.478;
+(C) The factual information was compiled by or at  the direction of an attorney as part of an
+investigation on behalf of the public body in response to information of possible wrongdoing  by the
+public body;
+(D) The factual information was not compiled in preparation for litigation, arbitration  or an
+administrative proceeding that was reasonably likely to be initiated or that  has been initiated by
+or against the public body; and
+(E) The holder of the privilege under ORS 40.225 has made or authorized a public statement
+characterizing or partially disclosing the factual information compiled by or at the  attorney’s di-
+rection.
+(10) Public records or information described in this section, furnished  by the public body ori-
+ginally compiling, preparing or receiving them to any other public officer or public  body in con-
+nection with performance of  the duties of the recipient, if the considerations originally giving rise
+to the confidential or exempt nature of the public records or information remain applicable.
+(11) Records of the Energy Facility Siting Council concerning  the review or approval of security
+programs pursuant to ORS 469.530.
+(12) Employee and retiree  address, telephone number and other nonfinancial membership records
+and employee financial records maintained by the Public Employees Retirement System  pursuant to
+ORS chapters 238 and 238A.
+(13) Records of  or submitted to the State Treasurer, the Oregon Investment Council or the
+agents of the treasurer or the council relating to active or proposed publicly traded investments
+under ORS chapter 293, including but not limited to records regarding the acquisition, exchange or
+liquidation of the investments. For the purposes of this subsection:
+(a) The exemption does not apply to:
+(A) Information in investment records solely related to the amount paid directly into an  invest-
+ment by, or returned from the investment directly to, the treasurer or council; or
+(B) The identity of the entity to which the amount was paid directly or from which the  amount
+was received directly.
+(b) An investment in a publicly traded investment is no longer active when acquisition, exchange
+or liquidation of the investment has been concluded.
+(14)(a) Records of  or submitted to the State Treasurer, the Oregon Investment Council, the
+Oregon Growth Board or  the agents of the treasurer, council or board relating to actual or proposed
+investments under ORS chapter 293 or 348 in a privately placed investment fund or a  private asset
+including but not limited to records regarding the  solicitation, acquisition, deployment, exchange or
+liquidation of the investments including but not limited to:
+(A) Due diligence materials that are proprietary to  an investment fund, to an asset ownership
+or to their respective investment vehicles.
+(B) Financial  statements of an investment fund, an asset ownership or their respective invest-
+ment vehicles.
+(C) Meeting materials of an investment fund, an asset ownership or their respective investment
+vehicles.
+(D) Records containing information regarding the  portfolio positions in which an investment
+fund, an asset ownership or their respective investment vehicles invest.
+(E) Capital  call and distribution notices of an investment fund, an asset ownership or their re-
+spective investment vehicles.
+Enrolled House Bill 4092 (HB 4092-A) Page 6
+(F) Investment agreements and related documents.
+(b) The exemption under this subsection does not apply to:
+(A) The name, address and vintage year of each privately placed investment fund.
+(B) The dollar amount of the commitment made to each privately  placed investment fund since
+inception of the fund.
+(C) The dollar  amount of cash contributions made to each privately placed investment fund since
+inception of the fund.
+(D) The dollar amount, on  a fiscal year-end basis, of cash distributions received by the State
+Treasurer, the Oregon Investment Council, the Oregon Growth  Board or the agents of the treasurer,
+council or board from each privately placed investment fund.
+(E) The  dollar amount, on a fiscal year-end basis, of the remaining value of assets in a privately
+placed investment fund attributable to an investment by the State  Treasurer, the Oregon Investment
+Council, the Oregon Growth Board or the agents of the treasurer, council or board.
+(F) The net  internal rate of return of each privately placed investment fund since inception of
+the fund.
+(G) The investment multiple of each privately placed investment fund since inception of the fund.
+(H) The dollar amount  of the total management fees and costs paid on an annual fiscal year-end
+basis to each privately placed investment fund.
+(I) The dollar amount of cash profit received from  each privately placed investment fund on a
+fiscal year-end basis.
+(15) The  monthly reports prepared and submitted under ORS 293.761 and 293.766 concerning the
+Public Employees Retirement Fund and the Industrial Accident Fund may be  uniformly treated as
+exempt from disclosure for a period of up to 90 days after the end of the calendar quarter.
+(16) Reports of unclaimed property filed by  the holders of such property to the extent permitted
+by ORS 98.352.
+(17)(a) The following records, communications  and information submitted to the Oregon Business
+Development Commission, the Oregon  Business Development Department, the State Department of
+Agriculture, the Oregon Growth Board, the Port  of Portland or other ports as defined in ORS
+777.005, or a county or city  governing body and any board, department, commission, council or
+agency thereof, by applicants for investment funds, grants, loans, services  or economic development
+moneys, support or assistance including, but not limited to, those described in ORS 285A.224:
+(A) Personal financial statements.
+(B) Financial statements of applicants.
+(C) Customer lists.
+(D) Information of an applicant pertaining to litigation to which the applicant  is a party if the
+complaint has been filed, or if the complaint  has not been filed, if the applicant shows that such
+litigation  is  reasonably likely to occur; this exemption does not apply to litigation which has been
+concluded, and nothing in this subparagraph shall limit any right or opportunity granted by discov-
+ery or deposition statutes to a party to litigation or potential litigation.
+(E) Production, sales and cost data.
+(F) Marketing strategy information that relates to applicant’s plan  to address specific markets
+and applicant’s strategy regarding specific competitors.
+(b) The following records, communications and information submitted to the  State Department
+of Energy by applicants for tax credits or for grants awarded under ORS 469B.256:
+(A) Personal financial statements.
+(B) Financial statements of applicants.
+(C) Customer lists.
+(D) Information of an applicant pertaining  to litigation to which the applicant is a party if the
+complaint has been filed, or if the complaint has not been  filed, if the applicant shows that such
+litigation is reasonably likely to occur; this exemption does not apply to litigation which has  been
+concluded, and nothing in this subparagraph shall limit any right or opportunity granted by discov-
+ery or deposition statutes to a party to litigation or potential litigation.
+Enrolled House Bill 4092 (HB 4092-A) Page 7
+(E) Production, sales and cost data.
+(F) Marketing strategy information that  relates to applicant’s plan to address specific markets
+and applicant’s strategy regarding specific competitors.
+(18) Records, reports or returns submitted by private concerns or enterprises required by  law
+to be submitted to or inspected by a governmental body to allow it to determine  the amount of any
+transient lodging tax payable and  the amounts of such tax payable or paid, to the extent that such
+information is in a form which would permit identification of the individual  concern or enterprise.
+Nothing in this subsection shall limit the use  which can be made of such information for regulatory
+purposes or its admissibility in  any enforcement proceedings. The public body shall notify the tax-
+payer of the delinquency immediately by certified  mail. However, in the event that the payment or
+delivery of transient lodging taxes otherwise due to a public body is delinquent by over 60 days,  the
+public body shall disclose, upon the request of any person, the following information:
+(a) The identity of the individual concern or enterprise that is delinquent  over 60 days in the
+payment or delivery of the taxes.
+(b) The period for which the taxes are delinquent.
+(c) The actual, or estimated, amount of the delinquency.
+(19) All information supplied by a person under ORS  151.485 for the purpose of requesting ap-
+pointed counsel, and all information supplied to the court from whatever  source for the purpose of
+verifying the financial eligibility of a person pursuant to ORS 151.485.
+(20) Workers’ compensation claim records of the Department of Consumer and Business Ser-
+vices, except in accordance with rules adopted by the Director of the Department of  Consumer and
+Business Services, in any of the following circumstances:
+(a) When necessary for insurers, self-insured employers  and third party claim administrators to
+process workers’ compensation claims.
+(b) When necessary  for the director, other governmental agencies of this state or the United
+States to carry out their duties, functions or powers.
+(c) When the disclosure is made in such a manner that the disclosed information cannot be  used
+to identify any worker who is the subject of a claim.
+(d) When a worker or the  worker’s representative requests review of the worker’s claim record.
+(21) Sensitive business records or financial or commercial information of the Oregon Health and
+Science University that is not customarily provided to business competitors.
+(22) Records of Oregon Health and Science University regarding candidates for the position of
+president of the university.
+(23) The records of a library, including:
+(a) Circulation records, showing use of specific library material by a named person;
+(b) The name of a library patron together  with the address or telephone number of the patron;
+and
+(c) The electronic mail address of a patron.
+(24) The following records, communications and information obtained  by the Housing and Com-
+munity Services Department in connection with the department’s monitoring or  administration of
+financial assistance or of housing or other developments:
+(a) Personal and corporate financial statements and information, including tax returns.
+(b) Credit reports.
+(c) Project  appraisals, excluding appraisals obtained in the course of transactions involving an
+interest in real estate that is acquired, leased, rented,  exchanged, transferred or otherwise disposed
+of as part of the project, but only after the transactions have closed and are concluded.
+(d) Market studies and analyses.
+(e) Articles of incorporation, partnership agreements and operating agreements.
+(f) Commitment letters.
+(g) Project pro forma statements.
+(h) Project cost certifications and cost data.
+(i) Audits.
+Enrolled House Bill 4092 (HB 4092-A) Page 8
+(j) Project tenant correspondence.
+(k) Personal information about a tenant.
+(L) Housing assistance payments.
+(25) Raster geographic information  system (GIS) digital databases, provided by private forestland
+owners or their representatives, voluntarily and  in confidence to the State Forestry Department,
+that is not otherwise required by law to be submitted.
+(26) Sensitive  business, commercial or financial information furnished to or developed by a
+public body engaged in the  business of providing electricity or electricity services, if the information
+is directly related to a transaction described in ORS 261.348, or  if the information is directly related
+to a bid, proposal  or negotiations for the sale or purchase of electricity or electricity services, and
+disclosure of the information would cause a competitive  disadvantage for the public body or its re-
+tail electricity customers. This subsection does not apply to cost-of-service studies used in  the de-
+velopment or review of generally applicable rate schedules.
+(27) Sensitive business, commercial or financial information  furnished to or developed by the
+City of Klamath Falls,  acting solely in connection with the ownership and operation of the Klamath
+Cogeneration Project, if  the information is directly related to a transaction described in ORS 225.085
+and disclosure of the information would cause a competitive disadvantage for the Klamath
+Cogeneration Project. This subsection does not apply  to cost-of-service studies used in the develop-
+ment or review of generally applicable rate schedules.
+(28) Personally identifiable information about customers of a municipal  electric utility or a
+people’s utility district or the names, dates of birth, driver  license numbers, telephone numbers,
+electronic mail addresses or Social Security numbers of  customers who receive water, sewer or
+storm drain services from a public body  as defined in ORS 174.109. The utility or district may re-
+lease personally identifiable information about a customer, and  a public body providing water, sewer
+or storm drain services may release  the name, date of birth, driver license number, telephone num-
+ber, electronic mail address or Social Security number of a customer, if the customer consents in
+writing or electronically, if the disclosure is necessary for the utility,  district or other public body
+to render services to the customer, if the disclosure is required pursuant to a  court order or if the
+disclosure is otherwise required by federal  or state law. The utility, district or other public body
+may charge as appropriate for the costs of providing such information. The utility,  district or other
+public body may make customer records available to third party  credit agencies on a regular basis
+in connection with the establishment  and management of customer accounts or in the event such
+accounts are delinquent.
+(29) A record of the street and number of an employee’s address  submitted to a special district
+to obtain assistance in promoting an alternative to single occupant motor vehicle transportation.
+(30) Sensitive business records, capital development plans or financial or commercial information
+of Oregon Corrections Enterprises that is not customarily provided to business competitors.
+(31) Documents, materials or other information submitted to the Director  of the Department of
+Consumer and  Business Services in confidence by a state, federal, foreign or international regula-
+tory or law enforcement agency or  by the National Association of Insurance Commissioners, its af-
+filiates or subsidiaries under ORS 86A.095 to 86A.198, 697.005 to 697.095, 697.602 to 697.842, 705.137,
+717.200 to 717.320, 717.900 or  717.905, ORS chapter 59, 723, 725 or 726, the Bank Act or the Insur-
+ance Code when:
+(a) The document, material or other  information is received upon notice or with an under-
+standing that it is confidential or privileged under the laws of the jurisdiction that is the source of
+the document, material or other information; and
+(b) The director has obligated the Department of  Consumer and Business Services not to dis-
+close the document, material or other information.
+(32) A county elections security plan developed and filed under ORS 254.074.
+(33) Information about review or approval of programs relating to the security of:
+(a) Generation, storage or conveyance of:
+(A) Electricity;
+Enrolled House Bill 4092 (HB 4092-A) Page 9
+(B) Gas in liquefied or gaseous form;
+(C) Hazardous substances as defined in ORS 453.005 (7)(a), (b) and (d);
+(D) Petroleum products;
+(E) Sewage; or
+(F) Water.
+(b) Telecommunication systems, including cellular, wireless or radio systems.
+(c) Data transmissions by whatever means provided.
+(34) The information specified in ORS 25.020 (8) if the Chief Justice of the Supreme  Court des-
+ignates the information as confidential by rule under ORS 1.002.
+(35)(a) Employer account records of the State Accident Insurance Fund Corporation.
+(b) As used in this subsection, “employer account records”  means all records maintained in any
+form that are specifically related to the account of any employer insured, previously insured or un-
+der consideration to be insured by the State Accident Insurance Fund Corporation and any  infor-
+mation obtained or developed by the corporation in  connection with providing, offering to provide
+or declining to provide insurance to  a specific employer. “Employer account records” includes, but
+is not limited to, an employer’s payroll records, premium payment history, payroll classifications,
+employee names and identification information, experience modification factors, loss  experience and
+dividend payment history.
+(c) The exemption provided by this subsection  may not serve as the basis for opposition to the
+discovery documents in litigation pursuant to applicable rules of civil procedure.
+(36)(a) Claimant files of the State Accident Insurance Fund Corporation.
+(b) As used in this subsection, “claimant files” includes,  but is not limited to, all records held
+by the corporation pertaining to a person who has made  a claim, as defined in ORS 656.005, and all
+records pertaining to such a claim.
+(c) The exemption provided by this subsection  may not serve as the basis for opposition to the
+discovery documents in litigation pursuant to applicable rules of civil procedure.
+(37) Except as  authorized by ORS 408.425, records that certify or verify an individual’s discharge
+or other separation from military service.
+(38) Records of or submitted to a domestic violence service or resource center that  relate to the
+name or  personal information of an individual who visits a center for service, including the date of
+service, the type of service received, referrals or contact  information or personal information of a
+family member of the  individual. As used in this subsection, “domestic violence service or resource
+center” means an entity, the primary purpose of  which is to assist persons affected by domestic or
+sexual violence by providing referrals, resource information or other assistance  specifically of ben-
+efit to domestic or sexual violence victims.
+(39) Information reported to the Oregon Health  Authority under ORS 431A.860, except as pro-
+vided in ORS 431A.865 (3)(b), information disclosed by the authority under ORS 431A.865  and any
+information  related  to disclosures made by the authority under ORS 431A.865, including information
+identifying the recipient of the information.
+(40)(a) Electronic mail  addresses in the possession or custody of an agency or subdivision of the
+executive department, as defined in ORS 174.112, the legislative department, as defined  in ORS
+174.114, a local government or local service district,  as defined in ORS 174.116, or a special gov-
+ernment body, as defined in ORS 174.117.
+(b) This subsection does not apply to electronic mail addresses assigned by  a public body to
+public employees for use by the employees in the ordinary course of their employment.
+(c) This  subsection and ORS 244.040 do not prohibit the campaign office of the current
+officeholder or current candidates who  have filed to run for that elective office from receiving upon
+request the electronic mail addresses used by the current officeholder’s legislative  office for news-
+letter distribution, except that a campaign office  that receives electronic mail addresses under this
+paragraph may not make a further disclosure of  those electronic mail addresses to any other person.
+(41) Residential addresses, residential telephone numbers,  personal cellular telephone numbers,
+personal electronic mail addresses, driver license numbers, emergency  contact information, Social
+Enrolled House Bill 4092 (HB 4092-A) Page 10
+Security numbers, dates of birth and other  telephone numbers of individuals currently or previously
+certified or licensed by the Department of Public Safety Standards  and Training contained in the
+records maintained by the department.
+(42) Personally identifiable information and contact information of veterans as  defined in ORS
+408.225 and of persons serving on active duty or as reserve members with the Armed Forces of the
+United States, National Guard or other reserve component that was obtained by the Department  of
+Veterans’ Affairs in the course of performing its duties and functions, including  but not limited to
+names, residential and employment addresses, dates of  birth, driver license numbers, telephone
+numbers, electronic mail addresses, Social Security numbers, marital status,  dependents, the char-
+acter  of  discharge from military service, military rating or rank, that the person is a veteran or has
+provided military service, information relating to an application for or  receipt of federal or state
+benefits, information relating  to the basis for receipt or denial of federal or state benefits and in-
+formation relating to a home loan or grant application,  including but not limited to financial infor-
+mation provided in connection with the application.
+(43) Business, commercial,  financial, operational and research data and information, including
+but not limited to pricing, intellectual property and customer records,  furnished to, developed by or
+generated in connection with the ownership and operation of an unmanned aerial system test  range,
+if disclosure of the information would  cause a competitive disadvantage to the test range or its us-
+ers.
+(44) Personally identifiable information about a child under the age  of 16 years that is submitted
+to the  State Fish and Wildlife Commission or an agent of the commission to obtain a license, tag
+or permit under the wildlife laws.
+(45) Proprietary information subject to a nondisclosure agreement that is  provided to the
+Oregon Broadband Office pursuant to section 4 of this 2022 Act.
+CONNECTING OREGON LIBRARIES FUND
+SECTION 6.
+(1) The Connecting Oregon Libraries Fund is established in the State
+Treasury, separate and distinct from the General Fund. Interest earned by the Connecting
+Oregon Libraries Fund shall be credited to the fund.
+(2) The Connecting Oregon Libraries Fund consists of any moneys  deposited in the fund
+from whatever source and may include moneys appropriated, allocated, deposited or  trans-
+ferred to the fund by the Legislative Assembly or otherwise and interest  earned on moneys
+in the fund.
+(3) The moneys in the fund are  continuously appropriated to the State Library for the
+purpose of providing matching funds for federal moneys received by the State Library, the
+State Library Board, public libraries established in accordance  with ORS 357.410, school li-
+braries, tribal  libraries as defined in ORS 357.206 or academic libraries in Oregon for the
+purpose of providing broadband access to eligible library facilities in this state.
+(4) A public, school, tribal or academic library is eligible to receive matching funds  under
+this section if the library:
+(a) Receives federal moneys for the purpose of providing broadband access to the library;
+(b) Takes steps to determine whether existing  broadband infrastructure, including fiber-
+based broadband, may be integrated into the proposed broadband access project; and
+(c) Meets any other  eligibility requirements established by the State Library Board by
+rule.
+(5)(a) Before the State Library may distribute any state moneys under this  section, the
+board shall adopt rules to implement  the provisions of this section, including rules setting
+criteria that govern the distribution of the moneys to eligible libraries.
+(b) Rules adopted under this section must take into consideration any eligibility require-
+ments established by the federal program awarding federal moneys.
+Enrolled House Bill 4092 (HB 4092-A) Page 11
+STUDY OF OREGON TELEPHONE ASSISTANCE PROGRAM
+SECTION 7. (1) The Public Utility Commission, in consultation with the  Oregon
+Broadband Office,  the Oregon Broadband Advisory Council and the Oregon Telephone As-
+sistance Program Advisory Committee, shall investigate and make  recommendations on the
+feasibility of:
+(a) Expanding or increasing the plan of assistance  established under section 6, chapter
+290, Oregon Laws 1987, to support  adequate and reasonable access to broadband Internet
+access service  or other telecommunications services by residential customers with low in-
+comes in this state, including allowing participation with providers that are  not designated
+as eligible telecommunications carriers; and
+(b) Applying the  surcharge assessed under ORS 759.685 to support expanded access to
+broadband Internet access service or other telecommunications services.
+(2) As part of the investigation required under subsection (1)  of this section, the com-
+mission shall consider barriers faced by residential  customers with low incomes to obtaining
+broadband Internet access service or other telecommunications services that include  but are
+not limited to:
+(a) Equipment and related services needed to obtain and utilize broadband  Internet ac-
+cess service or other telecommunications services;
+(b) Legal and regulatory incentives and limitations that may affect  the state’s ability to
+expand or increase the plan of assistance or the associated surcharge to support expanded
+access to broadband Internet access service or other telecommunications services; and
+(c) The availability of  other forms of federal, state or local support for broadband Inter-
+net access service or other telecommunications services.
+(3) The commission shall, no later than June 1, 2023:
+(a) Submit a report on its findings to an appropriate regular or interim committee of the
+Legislative Assembly.
+(b) Provide a copy of the report on its  findings to the Oregon Broadband Office for the
+office to consider in its planning efforts.
+SECTION 8.
+Section 7 of this 2022 Act is repealed on January 2, 2024.
+ NOTICE AND REPORTING BY PUBLIC UTILITY COMMISSION
+SECTION 9.  ORS 759.020 is amended to read:
+759.020. (1) [No] A person, corporation, company[ ,] or association of individuals or their lessees,
+trustees[,] or receivers [ shall] may not  provide intrastate telecommunications service  on a for-hire
+basis without a certificate of authority issued by the Public Utility Commission under this section.
+(2) Applications for certificates of authority [ shall] must be in a form prescribed by the com-
+mission and [ shall] must describe the telecommunications services the applicant  proposes to pro-
+vide. [ Notice of all applications shall, within 30 days of filing, be served by  the commission upon all
+persons holding authority to provide telecommunications service issued under  this section or providing
+local exchange telecommunications service. ]
+(3)(a) Except as provided in  ORS 759.050, [no] a certificate [ shall] may not authorize any person
+to provide local exchange telecommunications service within the  local exchange telecommunications
+service area of a telecommunications utility unless  [ such] the utility consents, is unable to provide
+the service[ ,] or fails to protest an application.
+(b) Paragraph (a) of  this subsection [ shall] does not apply to any application for a certificate
+by a provider of shared telecommunications services.
+(4) [ After notice, ] A hearing need not be held prior to issuance of a certificate of authority ex-
+cept upon the commission’s own motion or unless the application is to authorize a  person to provide
+local exchange telecommunications service in the local exchange telecommunications service  area
+of a telecommunications  utility and [ such] the utility protests. After hearing, the commission shall
+Enrolled House Bill 4092 (HB 4092-A) Page 12
+issue the certificate only upon a showing that the  proposed service is required by the public inter-
+est.
+(5) The commission may classify a successful applicant for a certificate as a telecommunications
+utility or as a competitive telecommunications services provider. If the  commission finds that a
+successful applicant for a certificate has  demonstrated that services it offers are subject to compe-
+tition or that its customers or those proposed to  become customers have reasonably available al-
+ternatives, the commission shall classify  the applicant as a competitive telecommunications services
+provider. The commission shall conduct the initial classification and  any subsequent review of the
+classification  in  accordance with [ such] procedures [ as] the commission may establish by rule, after
+hearings. The commission may attach reasonable conditions to [ such] the classification and may
+amend or revoke any [ such] order as  provided in ORS 756.568. For purposes of this section, in de-
+termining whether telecommunications  services are subject to competition or whether there are
+reasonably available alternatives, the commission shall consider:
+(a) The extent to which services are available  from alternative providers in the relevant market.
+(b) The extent to which the services of alternative providers are functionally equivalent or
+substitutable at comparable rates, terms and conditions.
+(c) Existing economic or regulatory barriers to entry.
+(d) Any other factors deemed relevant by the commission.
+(6) Any provider of intrastate  toll service must inform customers of the service level furnished
+by that provider, according to rules of the commission. The commission, by rule, shall  determine the
+level of intrastate toll service that is standard. Any provider of intrastate  toll service must identify
+the service level the provider plans to furnish in  an annual report to the commission. The commis-
+sion shall revoke the certification of  any provider that does not consistently furnish the service
+level identified in the provider’s annual report.
+SECTION 10.
+ ORS 759.050 is amended to read:
+759.050. (1) As used in this section:
+(a) “Competitive zone” means a telecommunications service  area within all or part of a local
+exchange, described both by service and territory, that has been designated a  competitive zone by
+the Public Utility Commission under subsection (2) or (4) of this section.
+(b) “Competitive zone service”  means a local exchange telecommunications service that the
+commission has authorized to be provided within a competitive zone.
+(c) “Essential function” means a functional component of a competitive zone service necessary
+to the provision  of the service by a telecommunications provider for which there is no adequate
+alternative in terms of quality, quantity and price to the incumbent telecommunications utility.
+(d) “Telecommunications utility” and “competitive provider” mean  those entities that are clas-
+sified as such by the commission under ORS 759.020. “Telecommunications provider” includes  both
+telecommunications utilities and competitive providers.
+(2)(a) Notwithstanding the provisions of ORS 759.020 (3), the commission may  certify one or
+more persons, including another telecommunications  utility, to provide local exchange telecommu-
+nications service within the local exchange  telecommunications service area of a certificated tele-
+communications utility if the commission determines  that the authorization would be in the public
+interest. For the purpose of determining whether  the authorization would be in the public interest,
+the commission shall consider:
+(A) The effect  on rates for local exchange telecommunications service customers both within
+and outside the competitive zone.
+(B) The effect on competition in the local exchange telecommunications service area.
+(C) The effect on access by customers to  high quality, innovative telecommunications service in
+the local exchange telecommunications service area.
+(D) Any other facts the commission considers relevant.
+(b) Upon certification of  a telecommunications provider under paragraph (a) of this subsection,
+the commission shall establish a competitive zone defined by the services to be  provided by the
+telecommunications provider and the geographic area to be served by the  telecommunications pro-
+Enrolled House Bill 4092 (HB 4092-A) Page 13
+vider. Price and service competition within the  meaning of ORS 759.052 may not be deemed to exist
+by virtue of the establishment of a competitive zone.
+(c) At the time of certification of a  telecommunications provider, or thereafter, the commission
+may impose reasonable  conditions upon the authority of the telecommunications provider to provide
+competitive zone service within the competitive zone. Reasonable conditions include, but  are not
+limited to, conditions:
+(A) Designed to promote fair competition, such as interconnection; and
+(B) Requiring contributions of the type required of  a telecommunications utility on account of
+the provision of local exchange service, including  those to the Residential Service Protection Fund
+or the Telecommunication Devices Access Program.
+(3) Upon demand, a competitive  provider of competitive zone services shall make available to
+the commission any information relating to competitive zone services that the  commission requests.
+Information provided to the commission by a competitive provider under this  subsection shall be
+confidential and may not be disclosed by  the commission, except for regulatory purposes in the
+context of a proceeding before the commission.
+(4) Upon application  by a telecommunications utility and a showing of competition within its
+local exchange, whether or not  from certificated providers, the commission may designate all or part
+of the local exchange a competitive zone.
+(5)(a) Except with respect to telecommunications utilities that are exempt from the provisions
+of ORS 759.180 to 759.190, unless the commission determines that it  is not in the public interest at
+the time a competitive zone is created, upon designation of a competitive zone, price changes, ser-
+vice variations and modifications of competitive zone services offered by a telecommunications util-
+ity in  the zone are not subject to ORS 759.180 to 759.190 and, at the telecommunication utility’s
+discretion, may be made effective upon filing with the commission.
+(b) The price and terms of service offered by  a telecommunications utility for a competitive zone
+service within a competitive zone may  differ from that outside of the zone. However, the price for
+a competitive zone service within the zone may not be lower than  the total service long run incre-
+mental cost, for nonessential functions, of  providing the service within the zone and the charges for
+essential functions used in providing the service, but the commission may establish rates for resi-
+dential local  exchange telecommunications service at any level necessary to achieve the
+commission’s universal service objectives. Within the zone, the price  of a competitive zone service,
+or any essential function used in providing the  competitive zone service, may not be higher than
+those prices in effect when the competitive zone was  established, unless authorized by the commis-
+sion.
+(c) The  commission may revoke the exemption of a telecommunications utility from ORS 759.180
+to 759.190 if  the commission finds that the utility has violated statutes, rules or conditions of the
+commission applicable to competitive  zone services or that there has been a substantial change in
+the circumstances that prevailed at the time the competitive zone was first established.
+(d) On the motion of a telecommunications provider  or on its own motion, the commission may
+order a telecommunications utility to disaggregate and offer essential functions of the telecommu-
+nications utility’s local exchange network.
+(6) A decision of the commission, with respect  to the terms and conditions under which com-
+petitive zone services may be offered within a  competitive zone by a telecommunications utility, to
+authorize a competitor to provide service within the local exchange service area  of a telecommuni-
+cations utility or to otherwise designate a competitive zone shall  be subject to judicial review, but
+may not  be stayed other than by order of the commission, except upon a showing by clear and
+convincing evidence that failure to stay the  decision will result in irreparable harm to the aggrieved
+party.
+(7) The exclusive remedy of  a telecommunications provider aggrieved by the prices, terms of
+service or practices of another provider with respect to competitive zone services within  a compet-
+itive zone  is to file a complaint with the commission under ORS 756.500. The commission, either
+upon complaint  or its own motion, may permanently suspend a filing made by a provider with re-
+Enrolled House Bill 4092 (HB 4092-A) Page 14
+spect to a competitive zone service or take such  other action as the commission deems appropriate,
+except an award  for damages. A claim for damages arising from a commission decision in favor of
+the provider on a matter alleged in the complaint shall be brought as a separate action at law.
+(8) Nothing in this section shall serve to shield any telecommunications provider of  local ex-
+change telecommunications service from state or federal antitrust laws.
+[(9) The commission shall report annually to the Legislative Assembly: ]
+[(a) The number of competitive zones created under ORS 759.020 and 759.050; ]
+[(b) The number of competitive providers authorized under ORS 759.020 and 759.050; ]
+[(c) The number and types of competitive services made available to consumers; and ]
+[(d) Consumer comments on competitive telecommunications services. ]
+ UNIT CAPTIONS
+SECTION 11. The unit captions  used in this 2022 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2022 Act.
+OPERATIVE AND EFFECTIVE DATES
+SECTION 12. Sections 4, 6, 7 and 8 of this 2022 Act and the amendments to  ORS 192.355,
+285A.154, 285A.160, 759.020 and 759.050 by sections 1, 2a, 5, 9 and 10 of this 2022 Act become
+operative 91 days after the effective date of this 2022 Act.
+SECTION 13.
+This 2022 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2022 Act takes effect
+on its passage.
+Passed by House March 2, 2022
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Dan Rayfield, Speaker of House
+Passed by Senate March 3, 2022
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2022
+Approved:
+........................M.,........................................................., 2022
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2022
+..................................................................................
+Shemia Fagan, Secretary of State
+Enrolled House Bill 4092 (HB 4092-A) Page 15
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 137.077, ORS 151.485, ORS 171.072, ORS 174.109, ORS 174.111, ORS 174.112, ORS 174.114, ORS 174.116, ORS 174.117, ORS 192.311, ORS 192.355, ORS 192.360, ORS 192.363, ORS 192.368, ORS 225.085, ORS 243.650, ORS 244.040, ORS 25.020, ORS 254.074, ORS 261.348, ORS 276A.424, ORS 285A.154, ORS 285A.157, ORS 285A.160, ORS 285A.224, ORS 293.761, ORS 293.766, ORS 342.815, ORS 357.206, ORS 357.410, ORS 40.225, ORS 408.225, ORS 408.425, ORS 431A.860, ORS 431A.865, ORS 453.005, ORS 469.530, ORS 469B.256, ORS 656.005, ORS 756.500, ORS 756.568, ORS 759.020, ORS 759.050, ORS 759.052, ORS 759.180, ORS 759.685, ORS 777.005, ORS 86A.095, ORS 98.352
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `36f71c10a4faf8e9a4816493788f27276373a2af6549922026e8e93e2dcbd753` (snapshot `_meta/snapshots/measure-2022r1-hb4092-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2022R1/Downloads/MeasureDocument/HB4092/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `76c3626b09e01ab29bd71672ecf4ac29d4cf2280c451fa8a46a82ae14b32704b` (snapshot `_meta/snapshots/measure-2022r1-hb4092-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2022R1/Downloads/MeasureDocument/HB4092/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2022R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4092` (part of the batched per-session fetch), sha256 `0acdcfea3b9250961be7adbe1b2d5f75259a82d9fe2dbc86f24a21268aafa1d1` of the shared session snapshot `_meta/snapshots/measures-2022r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

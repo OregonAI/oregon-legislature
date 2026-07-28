@@ -1,0 +1,273 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 2537
+Sponsored by Representative REARDON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Allows school districts to use  moneys distributed from Student Investment Account for payment
+of student fees, costs and instructors of career and technical student organization programs.
+Establishes policy goal that students in career and technical  education program have counselor
+or mentor assigned to student to assist student in navigating through program.
+A BILL FOR AN ACT
+Relating to career and technical education structural support; amending ORS 327.180 and 344.055.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 327.180 is amended to read:
+327.180. (1) In addition to those moneys distributed through  the State School Fund, the Depart-
+ment of Education shall award grants from the Student Investment Account. Grants shall be  dis-
+tributed as provided under ORS 327.195.
+(2) The purposes of grants distributed under ORS 327.195 shall be to:
+(a) Meet students’ mental or behavioral health needs; and
+(b) Increase academic achievement for students, including reducing academic disparities for:
+(A) Economically disadvantaged students, as determined based on eligibility for free or  reduced
+price lunches under the United  States Department of Agriculture’s current Income Eligibility
+Guidelines;
+(B) Students  from racial or ethnic groups that have historically experienced academic dispari-
+ties, as determined under rules adopted by the State Board of Education;
+(C) Students with disabilities;
+(D) Students who are English language learners;
+(E) Students who are foster children, as defined in ORS 30.297;
+(F) Students who are homeless, as determined under  rules adopted by the State Board of Edu-
+cation;  and
+(G) Any other student groups  that have historically experienced academic disparities, as deter-
+mined by the State Board of Education by rule.
+(3) Grant moneys received under ORS 327.195 may be used by a grant recipient only for:
+(a) Increasing instructional time, which may include:
+(A) More hours or days of instructional time;
+(B) Summer programs;
+(C) Before-school or after-school programs; or
+(D) Technological investments that minimize class time used for assessments  administered to
+students.
+(b) Addressing students’ health or safety needs, which may include:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1785
+HB 2537
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Social-emotional learning and development;
+(B) Student mental and behavioral health;
+(C) Improvements to teaching and learning practices or organizational structures  that lead to
+better interpersonal relationships at the school;
+(D) Student health and wellness;
+(E) Trauma-informed practices;
+(F) School health professionals and assistants; or
+(G) Facility improvements directly related to improving student health or safety.
+(c) Reducing class sizes, which  may include increasing the use of instructional assistants, by
+using evidence-based criteria to ensure appropriate student-teacher ratios or staff caseloads.
+(d) Expanding availability of and student participation in well-rounded  learning experiences,
+which may include:
+(A) Developmentally appropriate and culturally  responsive early literacy practices and programs
+in prekindergarten through third grade;
+(B) Culturally responsive practices and programs  in grades six through eight, including learning,
+counseling and student support that is connected to colleges and careers;
+(C) Broadened curricular options at all grade levels, including access to:
+(i) Art, music and physical education classes;
+(ii) Science, technology, engineering and mathematics education;
+(iii) Career and technical education, including  career and technical student organization pro-
+grams and payment of student fees, costs and instructors of those programs ;
+(iv) Electives that are engaging to students;
+(v) Accelerated college credit programs, including dual  credit programs, International
+Baccalaureate programs and advanced placement programs;
+(vi) Dropout prevention programs and transition supports;
+(vii) Life skills classes; or
+(viii) Talented and gifted programs; or
+(D) Access to licensed educators with a library media endorsement.
+SECTION 2.
+ ORS 344.055 is amended to read:
+344.055. It shall be the policy on career  and technical education and employment training in this
+state that:
+(1) Accessibility to career and technical education programs should  be facilitated. Individuals
+should have  a choice of training opportunities for which they are qualified and from which they can
+benefit. Such opportunities  should be available from school districts, community colleges, federal and
+state workforce training programs, private  career and technical education schools, apprenticeship
+programs and  institutions of higher education. The student should have easy access to training with
+the flexibility to move in and out of programs as needs indicate. Opportunities should be  available
+for all individuals to obtain the skills and  knowledge needed for initial employment as well as for
+occupational upgrading and job changes.
+(2) State and local planning and program  operations should be coordinated to provide the most
+efficient use of federal, state, local and private resources.
+(3) A  comprehensive system of education and employment training should be developed. Sec-
+ondary schools should provide an educational program  that balances the educational skills of read-
+ing, writing, speaking,  computation and reasoning ability, occupational skills including technical
+knowledge, manipulative ability and other skills required to  perform job tasks and employment skills
+[2]
+HB 2537
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+such as job seeking, work attitude, work adjustment and job-coping abilities. Community colleges
+should provide comprehensive programs in both  academic and career and technical education sub-
+jects. In addition, community colleges should provide short-term training designed for specific occu-
+pations, related training for apprenticeships and  opportunities for employed persons to improve their
+skills. Other providers of employment training should complement this effort  with programs aimed
+at specific job training.
+(4) Full working  partnerships among education, business, industry, labor, government and agri-
+culture should be developed to meet employer needs  for a skilled workforce and to promote em-
+ployee job satisfaction. Such partnerships should be fostered by promoting efforts  such as work site
+training stations, lending or donating of equipment to training  programs, employee-teacher exchange
+programs, advisory committees and cooperative work experience programs. All segments of the
+community should be encouraged to assist in career and technical education.
+(5) Federal, state, local and private funding resources should be combined to ensure the  devel-
+opment and implementation of quality programs. Both the governmental and  private sectors should
+make a commitment  to career and technical education as an investment that will help bring about
+economic development and stability as well as  high social and financial returns. Improvement of
+existing training  programs, as opposed to development of duplicative or parallel efforts, should be
+utilized to promote flexibility and economy in the design and delivery of career and technical edu-
+cation.
+(6) High quality career and technical education  requires an adequate supply of well prepared
+teachers and support personnel. Provisions should be made for the formal preparation of teachers
+and for the recruitment of teachers from business and industry. Programs should be designed  and
+implemented to ensure that teachers remain current in their  areas of expertise, and instructors
+should be encouraged to return  to business and industry to gain additional experience in their fields.
+To promote  retention of qualified personnel, institutions preparing and licensing teachers and
+agencies employing teachers should allow credit for relevant  career and technical education expe-
+riences.
+(7) Career and technical education programs and other employment training programs  should
+be developed, operated and evaluated jointly  with representatives of the career and technical edu-
+cation instructional areas included in the programs. Evaluation  of efforts should consider the cost
+effectiveness of the program both for society and the state.
+(8) Each  student’s academic, career and technical education and employment skills should be
+assessed upon entering so that proper placement  in the educational program can occur. Credit
+should be given for prior education, work experience  and community service. Each student should
+have a  counselor or mentor assigned to the student to assist the student in navigating
+through the program.  Assessments to determine  progress, competency attainment and needed
+corrective action should be made on a periodic basis. Assistance  in obtaining employment and
+follow-through services to help students succeed on the job should be provided.
+(9) Provisions should  be made to meet the needs of women, minorities, disadvantaged or persons
+with disabilities and others who have  special training needs. Special curricula, facilities, equipment,
+counseling and instruction should be provided as necessary. The agencies and institutions serving
+these groups should coordinate use of the available resources to provide cost effective services.
+(10) Career and technical  education provides the learning experience needed to make effective
+career choices and to  develop the attitudes, knowledge and skills that enable persons to perform
+successfully in the producer role and to assist them in other related life roles. It progresses  through
+[3]
+HB 2537
+1
+2
+3
+4
+5
+6
+the steps of awareness and exploration of work,  preparation for a broad range of occupations and
+specialization in a specific occupation.
+(11) Career and  technical education is taught at the secondary school level, in post-secondary
+career and technical education  institutions, community colleges and apprenticeship programs and
+may continue through skill upgrading or retraining for a new career.
+[4]

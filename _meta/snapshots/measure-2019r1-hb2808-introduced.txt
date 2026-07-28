@@ -1,0 +1,316 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2808
+Sponsored by COMMITTEE ON ECONOMIC DEVELOPMENT (at the request of Association of Oregon Counties)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires Oregon Business  Development Department to establish competitive clean technology
+sector development grant program. Requires department  to award grants to qualified lenders to
+develop and administer loan programs for funding clean technology  sector development projects.
+Requires certain reporting related to grant program.
+Establishes Clean Technology Sector Development Fund. Requires moneys deposited in  fund to
+be used for grant program.
+A BILL FOR AN ACT
+Relating to clean technology sector development.
+Whereas Oregon is in the process of  developing new policies for making businesses and man-
+ufacturers in this state leaders in the national and international clean technology sectors; and
+Whereas states across the nation are increasingly  turning to public-private partnerships that
+utilize public funds to accelerate private capital investments in the clean technology sector; and
+Whereas such public-private partnerships limit public sector  risk, increase available capital and
+spur innovation and economic development; and
+Whereas, rather than relying strictly on government subsidies  that cannot bring markets to
+scale, deploying public capital through public-private partnerships allows for  limited public funds to
+be used to offer financing that attracts private investment; and
+Whereas deploying public capital through public-private partnerships reduces the economic  and
+political risks associated with state agencies making and administering business loans; and
+Whereas loan programs developed  through public-private partnerships preserve taxpayer dollars
+by allowing for each public dollar to go further and to be recycled; and
+Whereas public-private partnerships  promoting the clean technology sector have the capacity
+to make clean technology cheaper, thus sparking demand and driving job creation; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 1 to 4 of this 2019 Act:
+(1) “Clean technology sector development project” means  the development, demon-
+stration or deployment of any of the following:
+(a) A community-based renewable energy project;
+(b) An energy storage project;
+(c) A project for the use of, or that uses, construction  and design standards or con-
+struction methods, products, equipment or devices to  increase resource efficiency in
+buildings undergoing new construction, reconstruction, alteration or repair;
+(d) A project for the use  of, or that uses, manufacturing standards, methods, products,
+equipment or devices to increase resource efficiency in goods or the manufacturing of  goods;
+(e) An energy recovery facility, technology, project or product;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 250
+HB 2808
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(f) An agricultural  technology designed to increase resource efficiency or to produce a
+type of energy described in ORS 469A.025;
+(g) An alternative fuel vehicle or alternative fuel vehicle infrastructure project;
+(h) Business activities in Oregon  that will result in, or will aid, promote or facilitate, the
+development, demonstration or deployment of one or more of the technologies,  projects,
+products or processes described in paragraphs (a) to (g) of this subsection; or
+(i) A project not described in paragraphs (a) to (g) of this subsection for a product  or
+service that will improve operational performance, productivity or efficiency  while reducing
+costs, inputs, energy consumption, waste or environmental pollution.
+(2) “Community-based renewable energy project” means:
+(a) A renewable energy project with a generating  capacity of 35 megawatts or less that
+generates electricity utilizing a type of energy described in ORS 469A.025;
+(b) A facility that generates electricity using biomass that also generates thermal  energy
+for a secondary purpose; or
+(c) A community energy storage project.
+(3) “Energy recovery” has the meaning given that term in ORS 459.005.
+(4) “Loan program” means a program funded by a grant awarded under section 3  of this
+2019 Act.
+(5) “Public body” means a federal governmental body, state  government body, local gov-
+ernment as defined in ORS 174.116 or special government body as defined in ORS 174.117.
+(6) “Qualified borrower” means any person, conducting business for profit  or not for
+profit, that is not a public body and that is authorized to conduct business in Oregon.
+(7) “Qualified lender” means an entity licensed to do business in Oregon that:
+(a)(A) Is a federal credit union maintaining an office in this state;
+(B) Is  a nonprofit community development financial institution or nonprofit public benefit
+corporation operating as a lending institution;
+(C) Is a local economic development organization; or
+(D) Is a regional economic development organization;
+(b) Has lending experience relevant to  providing loans for clean technology sector devel-
+opment projects; and
+(c) Has the organizational capacity to  independently underwrite loans, conduct credit
+determinations and manage loan portfolios.
+(8) “Resource efficiency” means the use of energy, water or natural resources in  a
+sustainable manner while minimizing impacts on the environment.
+SECTION 2.
+(1) The Clean Technology  Sector Development Fund is established in the
+State Treasury, separate and  distinct from the General Fund. Moneys in the Clean Technol-
+ogy Sector Development Fund are continuously appropriated to the Oregon Business Devel-
+opment Department to be used to award grants pursuant to section 3 of this 2019 Act.
+(2) The Clean Technology Sector Development Fund shall consist of:
+(a) Moneys appropriated or otherwise transferred to the fund by the Legislative  Assem-
+bly;
+(b) Moneys donated to the fund; and
+(c) Any moneys deposited in the fund from any other public or private source.
+SECTION 3.
+(1) The Legislative Assembly declares that it is the purpose of  sections 1 to
+4 of this 2019 Act to leverage public  and private partnerships to provide public benefits by
+[2]
+HB 2808
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+creating access to affordable, flexible capital that enables the clean technology  sector to
+prosper throughout this state.
+(2) In furtherance of the purpose described in subsection (1) of this section, the  Oregon
+Business Development Department shall  establish a competitive clean technology sector de-
+velopment grant program. The  department shall award grants under the program to qualified
+lenders to be used for developing and administering loan  programs to provide loans to qual-
+ified borrowers for clean technology sector development projects.
+(3) Grants  awarded under this section shall be funded by moneys deposited in the Clean
+Technology Sector Development Fund established under section 2 of this 2019 Act.
+(4) The department may not disburse grant funds under this section  unless the depart-
+ment and the qualified lender that is an intended grant award  recipient first enter into a
+grant agreement. The grant agreement must:
+(a) Require the portion of any loan made by a qualified lender that is financed by grant
+funds disbursed under the grant program to be used for  clean technology sector development
+projects;
+(b) Require the qualified lender to  provide a mechanism for documenting that clean
+technology sector development projects financed by loans provided under a loan  program
+comply with all relevant local, state and federal laws;
+(c) Require the qualified lender to use accounting, auditing and fiscal  procedures that
+conform to generally accepted government accounting standards;
+(d) Require the qualified lender to provide at least  biannual reporting to the department
+on the clean technology sector  development projects financed by loans provided under a loan
+program that  includes, but is not limited to, reporting on the jobs created or maintained and
+the number of work hours  associated with each financed clean technology sector develop-
+ment project; and
+(e) Include provisions protecting the state against loss  or damage resulting from poor
+or underperforming loans issued by the qualified lender under a loan program.
+(5) In selecting qualified lenders  to receive grants under this section, the department
+shall evaluate qualified lenders based on criteria that must include, but need not be limited
+to, a qualified lender’s:
+(a) Organizational capacity to attract matching capital;
+(b) Organizational capacity to conduct business  development resulting in the receipt of
+business proposals or investment offers  that are revenue- or equity-generating opportunities
+for the qualified lender;
+(c) Participation in job growth and economic development in Oregon;
+(d) Experience with sustained operation of revolving loan funds;
+(e) Dedication to supporting growth of clean technology sector development projects that
+may otherwise be inhibited by a lack of access to capital;
+(f) Ability to combine funding sources to provide customers with flexible,  affordable loan
+terms;  and
+(g) Ability to track and collect information on  the benefits to the state of individual loans
+issued to qualified borrowers as part of  a loan program, which may include but not be limited
+to information on:
+(A) Jobs in Oregon that were created  or maintained due to a loan to a qualified borrower;
+(B) The regions of Oregon in which the clean  technology sector development projects
+[3]
+HB 2808
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+funded through the loans are developed, demonstrated or deployed;
+(C) Greenhouse gas emissions avoided or sequestered  due to clean technology sector de-
+velopment projects funded by the loans;
+(D) Kilowatt hours of energy saved or renewable energy  produced through clean tech-
+nology sector development projects funded by the loans; and
+(E) Additional funds from other sources leveraged as a result of public investment in
+clean technology sector development projects through the loan program.
+SECTION 4. (1) The Oregon Business Development Department shall:
+(a) Review, in consultation with  the State Department of Energy and other relevant state
+agencies, the reports received from qualified lenders under section 3 of this 2019 Act; and
+(b) Report at least annually to the Oregon  Business Development Commission on the
+performance of existing loan programs and other matters related to ensuring that  loan pro-
+grams are administered in a manner that furthers the  purposes of sections 1 to 4 of this 2019
+Act.
+(2) The commission shall:
+(a) Offer at least  one opportunity annually for public comment on the information re-
+ported to the commission by the Oregon Business Development Department under subsection
+(1) of this section;
+(b) Utilize the information and public  comments gathered and developed pursuant to this
+section to provide oversight and direction  to the Oregon Business Development Department
+in carrying out the provisions of sections 1 to 4 of this 2019 Act; and
+(c) Report specifically on the implementation of the  competitive clean technology sector
+development grant program required under section 3 of this 2019 Act as part  of the biennial
+report to the Governor and the Legislative Assembly required under ORS 285A.050.
+(3) The Oregon Business Development Department may  adopt rules necessary to imple-
+ment the provisions of sections 1 to 4 of this 2019 Act.
+[4]

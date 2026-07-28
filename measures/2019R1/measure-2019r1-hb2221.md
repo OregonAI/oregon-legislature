@@ -1,0 +1,180 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2019r1-hb2221
+title: 'HB 2221 (2019R1): Establishes Ocean Beach Fund.'
+doc_type: dataset_doc
+citation: 2019 Regular Session House Bill 2221
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2221/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 3230572133da31658950b615b1bfc18d192476e94c5550e067b0c64a06a7aa56
+snapshot_id: measure-2019r1-hb2221-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 284.131
+  - ORS 293.445
+  - ORS 320.305
+  - ORS 320.335
+  - ORS 390.605
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2019r1
+- hb
+session_key: 2019R1
+measure_prefix: HB
+measure_number: 2221
+prefix_meaning: House Bill
+catch_line: Establishes Ocean Beach Fund.
+minority_catch_line: null
+measure_summary: "\tEstablishes Ocean Beach Fund. Directs amount of transient lodging tax revenues from\
+  \ state recreation area lodgings along ocean shore received by State Parks and Recreation Department\
+  \ to Ocean Beach Fund. Directs department to spend moneys from fund for expenses of managing state recreation\
+  \ areas along ocean shore. \n\tTakes effect on 91st day following adjournment sine die."
+relating_to: Relating to the Ocean Beach Fund; prescribing an effective date.
+relating_to_full: Relating to the Ocean Beach Fund; creating new provisions; amending ORS 320.335; and
+  prescribing an effective date.
+at_the_request_of: null
+lc_number: 1051
+measure_created_date: '2018-12-14T09:20:14'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 4572
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 284.131
+  - ORS 293.445
+  - ORS 320.305
+  - ORS 320.335
+  - ORS 390.605
+  from_relating_to_full:
+  - ORS 320.335
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2221`.
+
+# HB 2221 — 2019 Regular Session (2019R1)
+
+## At a glance
+
+- **Measure:** House Bill 2221, 2019 Regular Session (2019R1)
+- **LC number:** 1051
+- **Created:** 2018-12-14T09:20:14
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 4572 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2221/Introduced>.
+
+## Summary
+
+**Catchline:** Establishes Ocean Beach Fund.
+
+**Relating to:** Relating to the Ocean Beach Fund; prescribing an effective date.
+
+Establishes Ocean Beach Fund. Directs amount of transient lodging tax revenues from state recreation area lodgings along ocean shore received by State Parks and Recreation Department to Ocean Beach Fund. Directs department to spend moneys from fund for expenses of managing state recreation areas along ocean shore. 
+ Takes effect on 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to the Ocean Beach Fund; creating new provisions; amending ORS 320.335; and prescribing an effective date.
+
+## Full text
+
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2221
+Sponsored by Representative SMITH DB, Senator ROBLAN; Representative GOMBERG (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes Ocean Beach Fund. Directs amount of transient lodging tax revenues  from state
+recreation area lodgings along ocean shore received by State Parks and Recreation  Department to
+Ocean Beach Fund. Directs department to spend moneys from fund for expenses of managing state
+recreation areas along ocean shore.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the Ocean  Beach Fund; creating new provisions; amending ORS 320.335; and prescribing
+an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ (1) The Ocean Beach Fund is established in  the State Treasury, separate and
+distinct from the General Fund. Interest earned by the Ocean Beach  Fund shall be credited
+to the fund.
+(2) Moneys in the fund shall consist of:
+(a) Amounts deposited in the fund pursuant to ORS 320.335;
+(b) Amounts donated to the fund;
+(c) Amounts appropriated or  otherwise transferred to the fund by the Legislative As-
+sembly;
+(d) Investment earnings received on moneys in the fund; and
+(e) Other amounts deposited in the fund from any source.
+(3) Moneys in the fund are continuously appropriated to  the State Parks and Recreation
+Department for administrative, personnel and other expenses incurred by the  department in
+managing state recreation areas along the ocean shore.
+(4) For  purposes of subsection (3) of this section, “managing state recreation areas along
+the ocean shore” includes, but is not limited to, activities relating to:
+(a) Visitor safety, including developing and erecting signage  warning of the natural dan-
+gers of ocean beaches;
+(b) Emergency responses;
+(c) Beachfront armoring and sand management;
+(d) Marine debris response and removal;
+(e) Increased and expanding recreational use;
+(f) Increased tourism;
+(g) Growing demand for beachfront development; and
+(h) Responses to increasingly severe storm and erosion events.
+(5) The  department may establish accounts and subaccounts within the fund when the
+department determines  that accounts or subaccounts are necessary or desirable, and may
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1051
+credit any interest or income derived from moneys in the fund to any account  or subaccount
+in the fund.
+(6) The department may use moneys in the fund to pay the administrative costs associ-
+ated with the fund.
+(7) As used in  this section, “ocean shore” and “state recreation area” have the meanings
+given those terms in ORS 390.605.
+SECTION 2.  ORS 320.335 is amended to read:
+320.335. All moneys received by the Department of Revenue pursuant to ORS 320.305 to 320.340,
+and interest thereon, shall be paid to the State Treasurer  to be held in a suspense account estab-
+lished under ORS 293.445. After the payment of refunds:
+(1) Moneys necessary to reimburse the Department of Revenue for the actual costs incurred  by
+the department in administering the state transient lodging  tax, not to exceed two percent of state
+transient lodging tax collections, are continuously appropriated to the department[ ; and ].
+(2) Moneys received from the State Parks and Recreation  Department from the furnish-
+ing of transient lodging at state recreation  areas that are located along the ocean shore shall
+be transferred to the Oregon Beach Fund established under section 1 of this 2019  Act. As
+used in this subsection, “ocean  shore” and “state recreation area” have the meaning given
+those terms in ORS 390.605.
+[(2)] (3)  The balance of the moneys received shall be transferred to the account of the Oregon
+Tourism Commission established under ORS 284.131. The moneys transferred under  this subsection
+are continuously appropriated to the  Oregon Tourism Commission for the purposes set forth in ORS
+284.131.
+SECTION 3. This 2019 Act takes effect on the 91st day after the date on  which the 2019
+regular session of the Eightieth Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 320.335
+- From bill text (Introduced version): ORS 284.131, ORS 293.445, ORS 320.305, ORS 320.335, ORS 390.605
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `3230572133da31658950b615b1bfc18d192476e94c5550e067b0c64a06a7aa56` (snapshot `_meta/snapshots/measure-2019r1-hb2221-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2221/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2221` (part of the batched per-session fetch), sha256 `ae6df4298c0af5cc5dddaadd86050dfbe3c0b9a75f4a0da8096eff6dafa219d2` of the shared session snapshot `_meta/snapshots/measures-2019r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

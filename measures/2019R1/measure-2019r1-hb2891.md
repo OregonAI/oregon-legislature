@@ -1,0 +1,345 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2019r1-hb2891
+title: 'HB 2891 (2019R1): Modifies certain provisions relating to state initiative measures that require
+  appropriation or expenditure of $500,000 or more in public moneys over a 10-year period.'
+doc_type: dataset_doc
+citation: 2019 Regular Session House Bill 2891
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2891/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 16a924fa863c6b1224071650887a19e8fa0775a4bd995c51c55c92971813061e
+snapshot_id: measure-2019r1-hb2891-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 250.035
+  - ORS 250.105
+  - ORS 250.125
+  - ORS 250.127
+  - ORS 250.131
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2019r1
+- hb
+session_key: 2019R1
+measure_prefix: HB
+measure_number: 2891
+prefix_meaning: House Bill
+catch_line: Modifies certain provisions relating to state initiative measures that require appropriation
+  or expenditure of $500,000 or more in public moneys over a 10-year period.
+minority_catch_line: null
+measure_summary: "\tModifies certain provisions relating to state initiative measures that require appropriation\
+  \ or expenditure of $500,000 or more in public moneys over a 10-year period. \n\tTakes effect only if\
+  \ House Joint Resolution 18 (2019) is approved by people at next regular general election. Takes effect\
+  \ on effective date of constitutional amendment proposed in House Joint Resolution 18 (2019)."
+relating_to: Relating to initiative measures; prescribing an effective date.
+relating_to_full: Relating to initiative measures; creating new provisions; amending ORS 250.035, 250.125
+  and 250.127; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 738
+measure_created_date: '2019-02-04T11:53:20'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 19402
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 250.035
+  - ORS 250.105
+  - ORS 250.125
+  - ORS 250.127
+  - ORS 250.131
+  from_relating_to_full:
+  - ORS 250.035
+  - ORS 250.125
+  - ORS 250.127
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2891`.
+
+# HB 2891 — 2019 Regular Session (2019R1)
+
+## At a glance
+
+- **Measure:** House Bill 2891, 2019 Regular Session (2019R1)
+- **LC number:** 738
+- **Created:** 2019-02-04T11:53:20
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 19402 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2891/Introduced>.
+
+## Summary
+
+**Catchline:** Modifies certain provisions relating to state initiative measures that require appropriation or expenditure of $500,000 or more in public moneys over a 10-year period.
+
+**Relating to:** Relating to initiative measures; prescribing an effective date.
+
+Modifies certain provisions relating to state initiative measures that require appropriation or expenditure of $500,000 or more in public moneys over a 10-year period. 
+ Takes effect only if House Joint Resolution 18 (2019) is approved by people at next regular general election. Takes effect on effective date of constitutional amendment proposed in House Joint Resolution 18 (2019).
+
+**RelatingToFull (verbatim upstream field):** Relating to initiative measures; creating new provisions; amending ORS 250.035, 250.125 and 250.127; and prescribing an effective date.
+
+## Full text
+
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2891
+Sponsored by Representative GOMBERG; Representative GREENLICK, Senator DEMBROW
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Modifies certain provisions relating  to state initiative measures that require appropriation or
+expenditure of $500,000 or more in public moneys over a 10-year period.
+Takes effect only  if House Joint Resolution 18 (2019) is approved by people at next regular
+general election. Takes effect on effective date of  constitutional amendment proposed in House Joint
+Resolution 18 (2019).
+A BILL FOR AN ACT
+Relating to initiative measures; creating new provisions; amending  ORS 250.035, 250.125 and 250.127;
+and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Sections 2 and 3 of  this 2019 Act are added to and made a part of ORS
+chapter 250.
+SECTION 2. (1) The Secretary of State shall review a state measure to be initiated  to
+determine whether the measure  complies with the procedural requirements of Article IV,
+section 1, of the Oregon  Constitution. The secretary may not review a state measure to be
+initiated for substantive constitutional or legal sufficiency.
+(2) Before  obtaining signatures on a petition for a state measure to be initiated, a chief
+petitioner of the measure shall submit to the Secretary of State:
+(a) An estimate of  the appropriation or expenditure of public moneys required by the
+measure, if enacted; and
+(b) If the measure requires the appropriation or expenditure of $500,000 or  more in public
+moneys over a 10-year period, an estimate of the sufficiency of  the new tax or fee, or the
+increase in the rate of an existing tax or fee, included as part of the measure.
+(3) The chief petitioner shall also submit documentation to  support an estimate described
+in subsection (2) of this section. The Secretary of State may  consider the estimate and
+documentation submitted to determine whether the measure is in compliance with the  pro-
+cedural requirements of Article IV, section 1 (2)(e), of the Oregon Constitution.
+SECTION 3. If the revenue from a new tax or fee, or an increase in  the rate of an ex-
+isting tax or  fee, included with a measure, is challenged for sufficiency under Article IV,
+section 1 (2)(e), of the  Oregon Constitution, the chief petitioner of the measure bears the
+burden of proving by a preponderance of the  evidence that the revenue from the new or in-
+creased tax or fee included with  the measure is sufficient to cover the immediate and future
+costs of the measure.
+SECTION 4.  ORS 250.035 is amended to read:
+250.035. (1)  The ballot title of any measure, other than a state measure, to be initiated or re-
+ferred shall consist of:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 738
+(a) A caption of not more  than 10 words which reasonably identifies the subject of the measure;
+(b) A question of not  more than 20 words which plainly phrases the chief purpose of the measure
+so that an affirmative  response to the question corresponds to an affirmative vote on the measure;
+and
+(c) A concise  and impartial statement of not more than 175 words summarizing the measure and
+its major effect.
+(2) The ballot title of any state measure to be initiated or referred shall consist of:
+(a) A caption of not more than 15 words that reasonably identifies the subject matter of the
+state measure. The caption of an initiative or referendum amendment to  the Constitution shall begin
+with the phrase, “Amends Constitution,” which shall not be  counted for purposes of the 15-word
+caption limit;
+(b) A simple and understandable statement  of not more than 25 words that describes the result
+if the state measure is approved. The statement required by this paragraph shall include either the
+phrase, “I vote” or “vote yes,” or a substantially similar phrase, which may  be placed at any point
+within the statement;
+(c) A simple and understandable statement of  not more than 25 words that describes the result
+if the state measure is rejected. The statement required by this paragraph shall not  describe ex-
+isting statutory or  constitutional provisions in a way that would lead an average elector to believe
+incorrectly that one  of those provisions would be repealed by approval of the state measure, if ap-
+proval would not have that result. Any thing or action described both in the statement required by
+paragraph (b) of  this subsection and in the statement required by this paragraph shall be described
+using the same terms in both statements, to  the extent practical. Any different terms must be terms
+that an average elector would understand to refer to the same thing or action. The statement shall
+include either the phrase, “I vote” or “vote  no,” or a substantially similar phrase, which may be
+placed at any point within the statement; and
+(d) A concise and impartial statement of not  more than 125 words summarizing the state meas-
+ure and its major effect.
+(3) The ballot title of a state measure to be initiated that includes as  part of the measure
+a new tax or fee, or an increase in the rate of  an existing tax or fee, as required by Article
+IV, section 1 (2)(e), of the Oregon Constitution, shall contain the  statement, “If approved,
+the measure will be paid for from _____.”,  with a description of the new or increased tax or
+fee printed in the blank space.
+[(3)] (4)(a)  The statements required by subsection (2)(b) and (c) of this section shall be written
+so that, to the extent practicable, the language of the two statements is parallel.
+[(4)] (b)  The statement required by subsection (2)(b) of this section shall be written  so that an
+affirmative response to the statement corresponds to an affirmative vote on the state measure.
+[(5)] (c)  The statement required by  subsection (2)(c) of this section shall be written so that an
+affirmative response to the statement corresponds to a negative vote on the state measure.
+[(6)] (d)  In the statements required by subsection (2)(b), (c) and (d) of  this section, reasonable
+discretion shall be allowed in the use of articles and conjunctions, but the statements shall not omit
+articles and conjunctions that are  necessary to avoid confusion to or misunderstanding by an aver-
+age elector.
+SECTION 5.
+ ORS 250.125 is amended to read:
+250.125. (1) When a state measure  involves expenditure of public moneys by the state, reduction
+of expenditure of public moneys by the state, reduction of state revenues or raising of funds by the
+state by imposing any tax or incurring any indebtedness,  the financial estimate committee created
+under this section shall estimate:
+(a) The amount of direct expenditure, direct reduction of expenditure, direct  reduction in state
+revenues, direct tax revenue or indebtedness and  interest that will be required to meet the pro-
+visions of the measure if it is enacted; [ and]
+(b) The aggregate amount  of direct expenditure, direct reduction of expenditure, direct reduction
+in revenues, direct  tax revenue or indebtedness and interest that will be required by any city,
+county or district to meet the provisions of the measure if it is enacted[ .]; and
+(c) In addition to the estimate under paragraph (a) of this subsection, in  the case of a
+state measure  described in Article IV, section 1 (2)(e), of the Oregon Constitution, the
+amount of direct revenue that will be  generated from a new tax or fee, or an increase in the
+rate of an existing tax or fee, included as part of the measure, if the measure is enacted.
+(2) For a state measure for which  an estimate is required to be prepared under subsection (1)
+of this section, the financial estimate  committee may estimate the aggregate amount of direct ex-
+penditure, direct reduction of expenditure, direct reduction in revenues, direct tax revenue or
+indebtedness and interest that will be required  by any federally recognized Native American or
+American Indian tribal government to meet the provisions of the measure if it is enacted.
+(3) If the Legislative  Assembly has enacted a law that will apply only if the measure for which
+an estimate is required to be  prepared under subsection (1) of this section is not enacted, the fi-
+nancial estimate  committee may also estimate the amount of direct expenditure, direct reduction of
+expenditure, direct reduction in revenues, direct tax revenue or  indebtedness and interest that will
+result for the state, any city, county or district  or any federally recognized Native American or
+American Indian tribal government if the measure is not enacted.
+(4) For a state measure for which  an estimate is required to be prepared under subsection (1)
+of this section, the financial estimate committee shall consult with  the Legislative Revenue Officer
+to determine if the measure has potentially significant indirect economic or fiscal effects. If the
+committee determines that the indirect economic or  fiscal effects of the measure are significant and
+can be estimated, the Legislative Revenue Officer shall  prepare on behalf of the committee an im-
+partial estimate of the indirect economic or fiscal effects of the measure.  The Legislative Revenue
+Officer shall use the best available economic models and data to produce the  estimate. The financial
+estimate committee shall incorporate relevant parts of the estimate prepared by the Legislative Re-
+venue Officer into the estimate prepared by the committee under subsection (1) of this section.
+(5)(a) For a state measure described  in Article IV, section 1 (2)(e), of the Oregon Con-
+stitution, the financial estimate  committee shall consult with the Legislative Revenue Officer
+to determine whether the revenue to  be generated from a new tax or fee, or an increase in
+the rate  of an existing tax or fee, included as part of the measure, is sufficient to cover the
+immediate and future costs of the measure, if enacted.
+(b) The Legislative Revenue Officer shall prepare on behalf of the financial estimate
+committee an impartial estimate of the revenue of the new or increased tax or fee and  an
+impartial estimate of the economic or fiscal effects  of the measure. The Legislative Revenue
+Officer shall use the best available economic models and data to produce the estimates.  The
+estimates of revenue and immediate and future  costs may be expressed as a specific amount
+or a range of amounts but the estimates must be expressed in the same terms.
+(c) The financial estimate committee may  determine that the amount of direct revenue
+from the new or increased tax  or fee is sufficient to cover the immediate and future costs
+of the measure, if enacted, only if:
+(A) The estimated amount of  direct revenue from the new or increased tax or fee is equal
+to or greater than the estimated amount of the immediate and future costs of the measure,
+if enacted; or
+(B) The lowest amount expressed in the estimated range of the amount of direct revenue
+from the new or increased tax or fee is equal to  or greater than the highest amount ex-
+pressed in the estimated range of the immediate and future costs of the measure, if  enacted.
+(d) The financial estimate committee shall incorporate  its determination into the esti-
+mate prepared by the committee under subsection (1) of this section.
+[(5)] (6)  Except as provided in subsection [ (6)] (7)  of this section, the estimates  described in
+subsections (1) to (3) of this section shall be printed in the voters’  pamphlet and on the ballot. The
+estimates shall be impartial, simple and understandable and shall include the following information:
+(a) A statement of the amount of financial  effect on state, local or tribal government expen-
+ditures, revenues or indebtedness, expressed as a specific amount or as a range of amounts;
+(b) A statement of any recurring annual amount of financial effect on state, local or tribal  gov-
+ernment expenditures, revenues or indebtedness;
+(c) A description of the most likely financial  effect or effects of the adoption of the measure;
+[and]
+(d) If an estimate is made under subsection (3) of this section, a description  of the most likely
+financial effect or effects if the measure is not enacted[ .]; and
+(e) In the case of a state measure described in Article IV, section  1 (2)(e), of the Oregon
+Constitution, a statement as to whether a new tax or fee, or an  increase in the rate of an
+existing tax or fee, included as part of  the measure, is sufficient to cover the immediate and
+future costs of the measure, if enacted.
+[(6)] (7) If the  financial estimate committee determines that the measure will have no financial
+effect on state, local or tribal government expenditures, revenues or  indebtedness or that the fi-
+nancial effect on state, local or  tribal government expenditures, revenues or indebtedness will not
+exceed $100,000, the committee shall  prepare and file with the Secretary of State a statement de-
+claring that the measure will have no financial  effect or that the financial effect will not exceed
+$100,000. The statement shall be printed in the voters’ pamphlet and on the ballot.
+[(7)] (8)  In addition to the estimates described in subsections (1) to (3) of  this section, if the fi-
+nancial estimate committee considers it necessary, the committee may prepare and file with  the
+Secretary of State an impartial, simple and understandable statement  explaining the financial effects
+of the measure. The  statement may not exceed 500 words. The statement shall be printed in the
+voters’ pamphlet with the measure to which it relates.
+[(8)] (9)  The  Legislative Policy and Research Committee shall provide any administrative staff
+assistance required by the financial estimate committee to facilitate the work of the financial esti-
+mate committee under this section or ORS 250.127.
+[(9)] (10) The financial estimate committee is created, consisting of  the Secretary of State, the
+State Treasurer,  the Director of the Oregon Department of Administrative Services, the Director
+of the Department of Revenue and a representative of a city, county or district  with expertise in
+local government finance. The representative of a city, county or district shall be selected  by the
+four other members of  the financial estimate committee and shall serve for a term of two years that
+begins on March 1 of the odd-numbered year.
+SECTION 6.
+ ORS 250.127 is amended to read:
+250.127. (1) Not later than the 99th day before a special election  held on the date of a primary
+election or any general election at which any state measure is to be submitted to  the people, the
+financial estimate committee created under ORS 250.125 shall prepare and  electronically file with
+the Secretary of State the  estimates described in ORS 250.125 and, if the committee considers it
+necessary, a statement explaining the financial effects of the measure as described in  ORS 250.125
+[(7)] (8). The financial estimate committee may begin preparation of the estimates and  statement on
+the date that a petition is accepted for verification of signatures under ORS  250.105 or the date that
+a measure referred by the  Legislative Assembly is filed with the Secretary of State, whichever is
+applicable.
+(2) Not later than the 95th day  before the election, the Secretary of State shall hold a hearing
+in Salem upon reasonable statewide notice  to receive suggested changes to the estimates or state-
+ment or to  receive other information. At the hearing any person may submit suggested changes or
+other information orally or in writing. Written  suggestions or other information also may be sub-
+mitted at any time before the hearing.
+(3) The financial estimate committee shall consider suggestions and any other information sub-
+mitted under subsection (2) of this section, and may file  revised estimates or a revised statement
+with the Secretary of State not later than the 90th day before the election.
+(4) Except as provided in subsection (5) of this section, the original estimates and statement  and
+any revised  estimates or statement shall be approved by a majority of the members of the financial
+estimate committee. If a member does not concur, the estimates or statement shall  show only that
+the member dissents. The Secretary  of State shall certify final estimates and a final statement not
+later than the 90th day before the election at which the measure is to be voted upon.  All estimates
+and statements prepared under ORS 250.125 and this section shall be made available to the public.
+(5) If a majority of the  members of the financial estimate committee do not approve the esti-
+mates or statement, the Secretary of State alone shall prepare, file and certify the estimates or
+statement not later than the 88th day before the election at which the measure is to  be voted upon
+with the data upon which the estimates or statement is based.
+(6) The support or opposition of any member of the financial  estimate committee to the original
+or revised estimates or statement shall be indicated in the minutes of any meeting of the  committee.
+Meetings of the financial estimate committee shall be open to the public.  Designees of the members
+of the financial estimate committee may attend  any meetings of the committee in the place of the
+members, but the designees may not vote to approve or oppose any estimates or statement.
+(7) A failure to prepare, file or certify estimates or a statement  under ORS 250.125, this section
+or ORS 250.131 does not prevent the inclusion of the measure in the voters’ pamphlet or placement
+of the measure on the ballot.
+(8) If the estimates are not delivered to the county clerk by the 61st day  before the election, the
+county clerk may proceed with  the printing of ballots. The county clerk is not required to reprint
+ballots to include the estimates or to provide supplemental information that includes the estimates.
+SECTION 7.
+Sections 2 and 3 of  this 2019 Act and the amendments to ORS 250.035, 250.125
+and 250.127 by sections 4 to 6 of this 2019 Act apply to prospective petitions for a  state
+measure to be initiated that, if filed with the required number of signatures of electors, will
+be submitted  to the people at an election held on or after the first Tuesday after the first
+Monday in November 2022.
+SECTION 8.
+This 2019 Act does not take effect  unless the amendment to the Oregon
+Constitution proposed by House Joint Resolution 18 (2019) is approved by the people at the
+next regular general election held throughout this state. This 2019 Act  takes effect on the
+effective date of that constitutional amendment.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 250.035, ORS 250.125, ORS 250.127
+- From bill text (Introduced version): ORS 250.035, ORS 250.105, ORS 250.125, ORS 250.127, ORS 250.131
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `16a924fa863c6b1224071650887a19e8fa0775a4bd995c51c55c92971813061e` (snapshot `_meta/snapshots/measure-2019r1-hb2891-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2891/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2891` (part of the batched per-session fetch), sha256 `ae6df4298c0af5cc5dddaadd86050dfbe3c0b9a75f4a0da8096eff6dafa219d2` of the shared session snapshot `_meta/snapshots/measures-2019r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

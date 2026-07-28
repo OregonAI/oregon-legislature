@@ -1,0 +1,47 @@
+[
+ {
+  "AtTheRequestOf": null,
+  "CatchLine": "Directs the Division of Audits to conduct performance audits of the Department of Transportation.",
+  "CreatedDate": "2025-08-28T12:11:39",
+  "LCNumber": 2,
+  "MeasureNumber": 3991,
+  "MeasurePrefix": "HB",
+  "MeasureSummary": "\tDigest: The Act increases and adds taxes related to roads, cars, trucks and buses and says how revenue must be used. The Act would make the per-mile road usage charge mandatory over time. The Act would let a person pay a yearly fee instead of the per-mile road usage charge. The Act tells the Division of Audits to do performance audits of ODOT. (Flesch Readability Score: 71.0). \n\tDirects the Division of Audits to conduct performance audits of the Department of Transportation. Alters the duties of the Joint Committee on Transportation and the Continuous Improvement Advisory Committee. Provides that the Governor shall appoint the Director of Transportation. \n\tIncreases and adds transportation-related fees and taxes. Provides uses of revenues. \n\tImposes a mandatory per-mile road usage charge for electric and hybrid vehicles. Allows an annual fee in lieu of the mandatory per-mile road usage charge. \n\tRepeals the mandatory toll program. \n\tProvides for diesel fuel to be taxed in the same manner as gasoline. \n\tRevises the formula for weight-mile taxes. \n\tTakes effect on the 91st day following adjournment sine die.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2025-11-13T10:42:59",
+  "PrefixMeaning": "House Bill",
+  "RelatingTo": "Relating to transportation; prescribing an effective date; and providing for revenue raising that requires approval by a three-fifths majority.",
+  "RelatingToFull": "Relating to transportation; prescribing an effective date; and providing for revenue raising that requires approval by a three-fifths majority. \n\t",
+  "SessionKey": "2025S1"
+ },
+ {
+  "AtTheRequestOf": null,
+  "CatchLine": "Modifies an appropriation from the General Fund to the Emergency Board.",
+  "CreatedDate": "2025-08-28T12:19:23",
+  "LCNumber": 6,
+  "MeasureNumber": 3992,
+  "MeasurePrefix": "HB",
+  "MeasureSummary": "\tDigest: The Act makes budget changes for certain state agencies. (Flesch Readability Score: 66.1). \n\tModifies an appropriation from the General Fund to the Emergency Board. \n\tModifies limitations on expenditures for certain biennial expenses for specified state agencies. \n\tAppropriates moneys from the General Fund to specified state agencies for specified biennial expenses. \n\tDeclares an emergency, effective on passage.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2025-12-11T12:06:03",
+  "PrefixMeaning": "House Bill",
+  "RelatingTo": "Relating to state financial administration; and declaring an emergency.",
+  "RelatingToFull": "Relating to state financial administration; and declaring an emergency. \n\t",
+  "SessionKey": "2025S1"
+ },
+ {
+  "AtTheRequestOf": null,
+  "CatchLine": "Adjourns sine die the 2025 special session of the Eighty-third Legislative Assembly.",
+  "CreatedDate": "2025-08-28T12:22:54",
+  "LCNumber": 5,
+  "MeasureNumber": 51,
+  "MeasurePrefix": "HCR",
+  "MeasureSummary": "\tDigest: Ends session. (Flesch Readability Score: 77.9). \n\tAdjourns sine die the 2025 special session of the Eighty-third Legislative Assembly.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2026-06-10T13:00:04",
+  "PrefixMeaning": "House Concurrent Resolution",
+  "RelatingTo": "Adjourning sine die the 2025 special session of the Eighty-third Legislative Assembly.",
+  "RelatingToFull": "\n\t",
+  "SessionKey": "2025S1"
+ }
+]

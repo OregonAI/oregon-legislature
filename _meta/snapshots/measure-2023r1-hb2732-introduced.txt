@@ -1,0 +1,403 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2732
+Sponsored by Representative KROPF, Senator GELSER  BLOUIN, Representative REYNOLDS, Senators CAMPOS,
+MEEK; Representatives DEXTER, EVANS, GRAYBER, HARTMAN, HIEB, LEVY B,  LEWIS, MARSH,
+NELSON, NERON, SCHARF, Senators ANDERSON, KNOPP, THATCHER (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Modifies allocation formula for grants to  children’s advocacy centers. Establishes Child Abuse
+Assessment Account within State Treasury for purpose  of grant program for children’s advocacy
+centers. Appropriates moneys from General Fund to Department of Justice for purpose  of funding
+program. Limits biennial expenditures by  department for grant program from Child Abuse Assess-
+ment Account.
+Modifies authority of Advisory Council on Child Abuse Assessment to  deposit contributions to
+Child Abuse Multidisciplinary Intervention Account and Child Abuse Assessment Account.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to child safety; creating new provisions; amending ORS  147.391, 418.746, 418.786, 418.788
+and 418.796; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2023 Act is added to and made a  part of ORS 418.746 to
+418.796.
+SECTION 2. The Child Abuse  Assessment Account is established in the State Treasury,
+separate and distinct from the General Fund. Interest earned by the account shall be  cred-
+ited to the account. The account consists  of moneys deposited into the account under ORS
+418.796 and may include moneys appropriated, allocated, deposited or  transferred to the ac-
+count by the Legislative Assembly or otherwise. The moneys in  the account are continuously
+appropriated to the Department of Justice for the purposes specified in ORS 418.786.
+SECTION 3.  ORS 418.746 is amended to read:
+418.746. (1) The Child Abuse Multidisciplinary Intervention Account is  established separate and
+distinct from the General Fund. Interest earned, if any, shall  inure to the benefit of the account.
+The account consists  of moneys deposited into the account under ORS 418.796 and may in-
+clude moneys appropriated, allocated,  deposited or transferred to the account by the Legis-
+lative Assembly or otherwise.  All moneys deposited in the account are  continuously appropriated
+to the Department of Justice for the purposes of ORS 418.751 and this section.
+(2) The Child Abuse Multidisciplinary Intervention Program, with the advice  of the Advisory
+Council on Child Abuse Assessment, created by ORS 418.784, shall allocate moneys from the  Child
+Abuse Multidisciplinary Intervention Account to eligible  county child abuse multidisciplinary teams
+formed under ORS 418.747, or entities designated  by the teams, serving the counties from which the
+moneys were collected. The program may award only  one grant per county. The moneys shall be
+allocated by the same formula as, or a formula similar to, the formula used by the Attorney  General
+for equitable distribution of the  fund for victim’s assistance programs under ORS 147.227 (1). Moneys
+allocated under this subsection  may not be used as replacement revenues for currently available
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3134
+HB 2732
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+funds previously allocated by the county for child abuse intervention.
+(3) The Child Abuse  Multidisciplinary Intervention Program shall determine eligibility of the
+applicants and:
+(a) Allocate funds if the applicant is deemed eligible;
+(b) Conditionally allocate funds, with appropriate conditions, when necessary to establish  eligi-
+bility; or
+(c) Deny funding.
+(4) In making the eligibility determination, the Child Abuse Multidisciplinary Intervention Pro-
+gram shall consider the following nonexclusive list of factors:
+(a) Whether the services offered by an applicant substantially further the  goals and purposes
+of ORS 418.747, 418.790 and 418.792;
+(b) Whether the county child abuse multidisciplinary team or the entity designated by the  team
+has properly allocated other available funds;
+(c) Any evaluations of previously funded services as required by subsection (7) of this section;
+(d) The extent to  which the county’s coordinated child abuse multidisciplinary intervention plan
+provides for comprehensive services to the victims of child abuse;
+(e) Whether  the funds are being used as replacement revenues as prohibited by subsection (2)
+of this section;
+(f) Whether there is a children’s advocacy center  or similar advocacy center in existence or
+proposed for the county; and
+(g) The extent to which funding a children’s advocacy center is given priority in the intervention
+plan as required under subsection (5) of this section.
+(5)(a) At least  once a biennium, the county child abuse multidisciplinary team shall submit to
+the Child Abuse Multidisciplinary Intervention Program a coordinated child  abuse multidisciplinary
+intervention plan. The intervention plan must:
+(A) Describe  all sources of funding, other than moneys that may be allocated from the Child
+Abuse Multidisciplinary Intervention Account, including in-kind contributions that are  available for
+the intervention plan;
+(B) Describe the critical needs of victims of child  abuse in the county, including but not limited
+to child abuse assessment, advocacy and treatment, and how the intervention plan addresses  those
+needs in a comprehensive manner;
+(C) Include the county’s written protocol and agreements required by ORS  418.747 (2) and
+418.785; and
+(D) Describe how the  intervention plan gives priority to funding a children’s advocacy center
+and how the funding supports the center.
+(b) When submitting the intervention plan, the county  child abuse multidisciplinary team shall
+also submit:
+(A) Those applications  for funding received from entities under subsection (6) of this section that
+the team  determines best meet the needs of the county’s intervention plan and a recommendation
+that the applications for funding be granted; and
+(B) If the team  is seeking funding from the Child Abuse Multidisciplinary Intervention Program,
+an application setting forth the information required by rule of the program.
+(6) An entity wishing to apply for funding from the Child Abuse Multidisciplinary Intervention
+Program shall  submit an application to the county child abuse multidisciplinary team for the county
+in which the entity proposes to provide services. The application shall:
+[2]
+HB 2732
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Describe the  services to be funded with moneys from the Child Abuse Multidisciplinary
+Intervention Program according to the coordinated child abuse multidisciplinary intervention plan
+and the anticipated outcomes in terms of benefits to children and families; and
+(b) Describe how the services further the goals  and purposes of ORS 418.747, 418.790 and
+418.792.
+(7)(a) A designated entity providing services according to a coordinated child abuse multidisci-
+plinary intervention plan funded with moneys from the Child  Abuse Multidisciplinary Intervention
+Program shall submit an annual report to the county child abuse multidisciplinary team. A  county
+child abuse multidisciplinary team shall submit an annual report to  the Child Abuse Multidiscipli-
+nary Intervention Program.
+(b) The annual report filed by the county child abuse multidisciplinary team must:
+(A) Document how the moneys were  utilized and describe to what extent the services were able
+to meet anticipated outcomes in terms of benefits to children and families.
+(B) Include local and state issues and recommendations relating to the prevention of  child
+fatalities identified in the fatality review process under ORS 418.785.
+(c) A county child abuse multidisciplinary team receiving a  report from a designated entity shall
+review  the  report and take into account success of the entity at meeting service outcomes before
+making future recommendations regarding allocation of moneys.
+(d) The  Child Abuse Multidisciplinary Intervention Program shall review reports received under
+this section before making future eligibility and allocation decisions  and when evaluating services
+funded under this section.
+(8) Two or more county child abuse multidisciplinary teams may join together to develop  joint
+child abuse multidisciplinary  intervention plans. The joint intervention plans shall be submitted as
+provided in subsection (5) of this section.
+(9) The Child Abuse Multidisciplinary Intervention Program may adopt rules to  carry out the
+provisions of ORS 418.751 and this section including, but not limited to, the following:
+(a) Notices and time limits for applications;
+(b) Method of review and the role of advisory bodies; and
+(c) Reallocation of moneys not applied for or disbursed.
+SECTION 4.
+ ORS 418.786 is amended to read:
+418.786. (1) To accomplish the purpose described in ORS 418.780, with the assistance of the
+Advisory Council on Child  Abuse Assessment, the administrator of the Child Abuse Multidiscipli-
+nary Intervention Program shall develop and administer a grant program , separate  from the grant
+program described in ORS 418.746,  to establish and maintain  children’s advocacy centers and re-
+gional children’s advocacy centers, to support training and technical assistance  efforts for county
+child abuse multidisciplinary teams and children’s advocacy centers and to  provide coordination and
+support for the work of regional children’s advocacy centers.
+(2) The Child Abuse  Multidisciplinary Intervention Program shall allocate moneys from
+the Child Abuse Assessment Account established by section  2 of this 2023 Act to eligible
+children’s advocacy centers under ORS 418.746 to 418.796. The  moneys shall be allocated by
+using the same formula as, or  a formula similar to, the formula used by the Attorney Gen-
+eral for equitable distribution of the account for  victims’ assistance programs under ORS
+147.227 (1), taking into consideration the size of each children’s advocacy center’s service
+area and the associated  increased cost of equitably providing services to all victims within
+that area. Moneys allocated under this subsection may not be used  as replacement revenues
+[3]
+HB 2732
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+for currently available funds previously allocated by the county  for children’s advocacy cen-
+ters.
+SECTION 5.
+ ORS 418.788 is amended to read:
+418.788. (1) Subject to the availability of funds under the provisions of ORS 418.786 and 418.796,
+the administrator of the Child Abuse Multidisciplinary Intervention Program shall make  grants for
+the establishment and maintenance of children’s advocacy centers or regional  children’s advocacy
+centers.
+(2)(a) A public or private agency may apply to the administrator for a grant to:
+(A) Establish and maintain a children’s advocacy center or regional children’s  advocacy center;
+(B) Provide training and technical  assistance to children’s advocacy centers or county child
+abuse multidisciplinary teams; or
+(C) Provide coordination and support to regional children’s advocacy centers.
+(b) The administrator may consolidate applications from more than one public or private agency
+or may return the application with the recommendation that the application be consolidated.
+(3) The administrator  shall by rule establish criteria for awarding grants to establish and
+maintain children’s advocacy centers or regional children’s advocacy  centers, including but not
+limited to:
+(a) Expenses eligible for reimbursement from funds under ORS  418.786 and 418.796;
+(b) The extent to which the applicant’s  proposal will best accomplish the purposes of ORS
+418.746 to 418.796;
+(c) The extent to which an applicant meets criteria for receiving a grant to:
+(A) Establish and maintain a children’s advocacy center or regional children’s  advocacy center;
+(B) Provide training and technical assistance to children’s  advocacy centers and county child
+abuse multidisciplinary teams; or
+(C) Provide coordination and support to regional children’s advocacy centers;
+(d) Minimum facility standards for children’s  advocacy centers and regional children’s advocacy
+centers consistent with national accreditation standards  to ensure that children receive consistent,
+evidence-based intervention services statewide;
+(e) Minimum forensic  interview training standards that are consistent with national forensic
+interview training standards, evidence-based and supported by current  forensic interview research;
+and
+(f) For a regional children’s advocacy center, the extent to which the applicant’s proposal meets
+the documented needs of the communities, children’s advocacy  centers and county child abuse
+multidisciplinary teams in the region or regions to be served by the center.
+(4) The administrator  is not required to fund any grant in the total amount requested in the
+application.
+SECTION 6.
+ ORS 418.796 is amended to read:
+418.796. The  Advisory Council on Child Abuse Assessment may solicit and accept contributions
+of funds and assistance from the United States, its agencies or from other  sources, public or private,
+and agree to conditions not inconsistent with the purposes  of ORS 418.746 to 418.796. All funds re-
+ceived are to  aid in financing the functions of the advisory council and the purposes of ORS 418.746
+to 418.796. [and shall be deposited in the General Fund of the State Treasury to the credit of a separate
+account and are continuously appropriated to the Child  Abuse Multidisciplinary Intervention Program
+established by ORS 418.783  for the purposes of ORS 418.746 to 418.796. ] The advisory council may
+deposit moneys the advisory council collects under this  section into the Child Abuse Multi-
+[4]
+HB 2732
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+disciplinary Intervention Account under ORS  418.746 or the Child Abuse Assessment Account
+under section 2 of this 2023 Act.
+SECTION 7.
+ ORS 147.391 is amended to read:
+147.391. Notwithstanding ORS 147.390, when the moneys provided from the Criminal Injuries
+Compensation Account for the purposes of ORS  147.390 are expended for any cumulative time period
+within any biennium, the [ Criminal Injuries Compensation ] account shall have no further obligations
+under ORS 147.390 for that time  period. However, if [ the Criminal Injuries Compensation Account has
+unexpended moneys provided for at the end of any biennium, the balance shall be transferred to the
+account created ] at the end of  the biennium there are unexpended moneys in the account and
+those unexpended moneys were allocated to the account for the purposes of ORS 147.390, the
+balance of those unexpended moneys may be deposited as provided  by ORS 418.796.
+SECTION 8.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to  the Department of Justice, for the biennium beginning July 1, 2023, out of the Gen-
+eral Fund,  the amount of $6,000,000 for deposit in the Child Abuse Assessment Account
+established by section 2 of this 2023 Act.
+SECTION 9. Notwithstanding any other law limiting  expenditures, the amount of
+$6,000,000 is established  for the biennium beginning July 1, 2023, as the maximum limit for
+payment of expenses by the Department of  Justice for the grant program established under
+ORS 418.786 from the Child Abuse Assessment Account established by section  2 of this 2023
+Act.
+SECTION 10. This 2023 Act takes effect on the 91st day after the date on which  the 2023
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[5]

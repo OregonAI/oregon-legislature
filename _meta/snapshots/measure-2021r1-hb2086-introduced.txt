@@ -1,0 +1,517 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 2086
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of  Governor Kate Brown for
+Oregon Health Authority)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Appropriates moneys to Oregon Health Authority to undertake specified steps to address needs
+of individuals with behavioral health disorders for services, treatment and housing.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to  individuals with behavioral health disorders; creating new provisions; amending ORS
+458.380 and 458.385; and declaring an emergency.
+Whereas the  Legislative Assembly declares that health equity must be advanced within the
+state’s behavioral health system regardless of race, ethnicity, location or housing status; and
+Whereas mental health and substance use disorders must  be detected early and treated effec-
+tively; and
+Whereas youth and adults with serious mental illness need timely  access to the full continuum
+of behavioral health care; and
+Whereas youth and adults with serious mental illness need to receive  treatment that is respon-
+sive to their individual needs and leads to meaningful improvements in their lives; and
+Whereas people with serious mental illness need access to  affordable housing that offers inde-
+pendence and is close to providers, community resources and public transportation; and
+Whereas the supply, distribution and diversity of the behavioral health workforce needs  to pro-
+vide appropriate levels of care and access to care in the community; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+PROGRAMS AND SERVICES
+SECTION 1.
+The Oregon Health Authority  shall design a statewide crisis system, in co-
+ordination with local crisis systems, to:
+(1) Consolidate, enhance and expand existing crisis lines to  streamline access to crisis
+services for all Oregonians;
+(2) Offer no-barrier, brief emotional support, regardless of language spoken  or insurance
+status, for a limited time;
+(3) Offer a centralized search engine for locating providers; and
+(4) Provide a registry of available residential treatment placements.
+SECTION 2.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Oregon Health Authority, for the biennium beginning July 1, 2021, out of the
+General Fund, the amount of $___________, which may be expended for:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 419
+HB 2086
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(1) Programs that are directly responsive to and driven by people  of color, tribal com-
+munities and people of lived experience that are peer and community driven  and that provide
+culturally specific services, including:
+(a) Medical assistance reimbursement of tribal-based practices.
+(b) A pilot project to operate three  nonclinical peer-run respite centers to provide cul-
+turally responsive services to people  of color seeking services, including one program de-
+signed specifically to provide culturally appropriate services and supports to  individuals who
+are people of color.
+(c) Expansion of the Early Assessment and Support Alliance program from  a two-year
+program to a three-year program  based on a step-down framework to provide to approxi-
+mately 250 youth annually:
+(A) Support for those experiencing symptoms of psychosis for the first time;
+(B) Continuing transition services to adolescents and young adults aged 14 to 25;
+(C) Access to a strengthened peer support component; and
+(D) Enhanced life and self-care elements.
+(d) Doubling the program size of  Young Adult Hubs, which are modeled after a Transition
+to Independence Process to provide mental health services, case management and  support
+for an additional 1,100 disconnected youth annually.
+(2) Funding the nine existing  Certified Community Behavioral Health Clinic demon-
+stration sites and working with existing Certified Community Behavioral Health  Clinics, ad-
+vocates and coordinated care organizations to  develop a sustainable payment model and
+further develop a service array, culturally responsive service delivery and outcome meas-
+urement to reinforce comprehensive outpatient services that are simple, meaningful and re-
+sponsive.
+(3) Increasing funding to reintegrate into  the community criminal defendants who have
+been found unfit to proceed in a criminal proceeding due to a mental incapacity under  ORS
+161.370, by means including:
+(a) Establishing a reimbursement rate for case consultation and community reintegration
+necessary to serve at least 400 individuals; and
+(b) Constructing  and operating a secure residential treatment facility to serve up to 39
+individuals per year.
+SECTION 3.
+No later than February 1, 2022, the Oregon Health  Authority shall report to
+the interim committees of the Legislative  Assembly related to behavioral and mental health,
+in the manner provided in ORS 192.245, the authority’s progress in developing a  sustainable
+payment model for Certified Community  Behavioral Health Clinics and developing a service
+array, culturally responsive service  delivery and outcome measurement to reinforce com-
+prehensive outpatient services that are simple, meaningful and responsive.
+WORKFORCE
+SECTION 4. The Oregon Health Authority shall:
+(1) Continually evaluate and revise administrative  rules governing behavioral health
+programs and services  to reduce the administrative burden of documentation, particularly
+around assessment and treatment planning, the Measures and Outcomes Tracking System
+or successor systems and other reporting required for providers seeking certificates of  ap-
+[2]
+HB 2086
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+proval and to ensure that the rules are consistent with the medical assistance program ad-
+ministrative rules that  apply to behavioral health care staff operating in primary care and
+other settings.
+(2) Create a behavioral health incentive  fund for recruitment and retention in the be-
+havioral health care workforce to  increase the number of people of color, tribal members and
+rurally based workers.
+(3) Increase access to services for rural and underserved communities by:
+(a) Providing retention bonuses to  providers with bachelor’s and master’s degrees in be-
+havioral health fields to provide culturally specific  services to communities facing workforce
+shortages including, but not limited to, tribal members, people of  color, lesbian, gay, bisexual
+and transgender youth, veterans,  individuals with limited English proficiency and people
+working in correctional facilities.
+(b) Expanding funding to provide incentives to culturally specific  peers, traditional health
+workers, licensed or certified providers and licensed prescribers.
+(c) Providing incentives to all providers of behavioral health services such as:
+(A) Loan forgiveness;
+(B) Housing assistance;
+(C) Sign-on bonuses;
+(D) Part-time and flex time opportunities;
+(E) Retention bonuses;
+(F) Professional development;
+(G) Tax subsidies;
+(H) Child care;
+(I) Subsidized dual certification with a specific focus on rural and vulnerable  populations
+and pay equity; and
+(J) Tuition assistance.
+(4) Implement and sustain culturally based practices,  including promising and nontradi-
+tional practices, by:
+(a) Reimbursing the practices equitably with other behavioral health services;
+(b) Expanding behavioral health interventions to include culturally  based practices, in-
+cluding promising and nontraditional practices; and
+(c) Expanding the approved evidence-based practices list  to include promising or cul-
+turally based practices for reimbursement by the medical assistance program.
+(5) Develop curricula for the behavioral health workforce in the following areas:
+(a) Trauma-informed care;
+(b) Culturally specific and responsive practices;
+(c) Anti-racism;
+(d) Equity-based care;
+(e) Interdisciplinary care, including working with peers; and
+(f) Co-occurring mental health and substance use disorders.
+(6) Develop an outcomes-based system to demonstrate anti-racism and equity training.
+SECTION 5.
+No later than February 1, 2022, the Oregon Health  Authority shall report to
+the interim committees of the Legislative  Assembly related to behavioral and mental health,
+in the manner provided in ORS 192.245,  recommendations on achieving a living wage for be-
+havioral health care workers, including  peers and family support specialists. The report must
+[3]
+HB 2086
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+also consider pay inequities between physical health care workers and behavioral health care
+workers and how to provide more equitable wages.
+HOUSING
+SECTION 6.
+ ORS 458.380 is amended to read:
+458.380. (1) The Housing for Mental  Health Fund is established in the State Treasury, separate
+and distinct from the General Fund. The Housing for  Mental Health Fund consists of moneys de-
+posited in the fund under section  8, chapter 812, Oregon Laws 2015, and may include moneys ap-
+propriated, allocated, deposited or transferred to the fund by the  Legislative Assembly or otherwise
+and interest earned on moneys in the fund.
+(2) Moneys in the fund are continuously appropriated to the  [ Housing and Community Services
+Department] Oregon Health Authority  for disbursement for the purposes set forth in ORS 458.385.
+SECTION 7.  ORS 458.385 is amended to read:
+458.385. (1) The [ Housing and Community Services Department, in collaboration with the ] Oregon
+Health Authority,  shall disburse moneys in the Housing for Mental Health Fund to provide funding
+for:
+(a) The development of community-based housing,  including licensed residential treatment facil-
+ities, for individuals with mental illness and individuals with substance use disorders; and
+(b) Crisis intervention services, rental subsidies and other housing-related services to  help keep
+individuals with mental  illness and individuals with substance use disorders safe and healthy in their
+communities.
+(2) The [ department] authority shall provide funding for:
+(a) A portion of the costs to purchase land and to construct housing described in subsection
+(1)(a) of this section; and
+(b) Up to 50 percent of the start-up costs for providing housing described in subsection  (1)(a) of
+this section, including but not limited to fixtures, furnishings and training of staff.
+(3)(a) The [ department] authority shall  prescribe the financing mechanisms to be used to provide
+funding under subsection (2)(a) of this section of up to 35 percent of the total project development
+costs.
+(b) The [ department] authority  may waive the 35 percent limit on total project  development
+costs under paragraph (a) of this  subsection for a low-cost project or to meet a critical need in a
+rural area.
+(4) The  [department] authority shall convene an advisory group to make recommendations to the
+[department] authority for:
+(a) The allocation of moneys between different types of housing;
+(b) The financing of housing described in subsection (1)(a) of this section;
+(c) The provision of services described in subsection (1)(b) of this section;
+(d) Soliciting funding proposals; and
+(e) Processing applications for funding.
+(5) The advisory group convened under subsection (4) of this section must include:
+(a) One representative of a private provider of mental health treatment;
+(b) One representative of a private provider of substance abuse treatment;
+(c) Two representatives of groups that advocate on behalf of consumers of mental health or
+substance abuse treatment;
+[4]
+HB 2086
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) One staff person from the Department  of Human Services ;
+(e) One staff person from the division of the [ Oregon Health ] authority that  regulates mental
+health and substance abuse treatment programs;
+(f) Two consumers of mental health or substance abuse treatment;
+(g) One representative of a community mental health program;
+(h) One person with expertise in developing and  financing community housing projects in rural
+communities; and
+(i) One representative of community corrections.
+SECTION 8.
+The Oregon Health Authority shall adopt  by rule requirements for coordi-
+nated care organizations to provide housing navigation services and address the social  de-
+terminants of health through care coordination.
+SECTION 9. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Oregon Health Authority, for the biennium beginning July 1, 2021, out of the
+General Fund, the amount of $___________, to be deposited in the Housing for  Mental Health
+Fund for the purpose of providing incentive funding for the development of  new housing in-
+cluding long term care, short term respite care and independent and integrated housing.
+SECTION 10.
+(1) In addition to and not in  lieu of any other appropriation, there is ap-
+propriated to the Oregon Health Authority, for the biennium beginning July 1, 2021, out of
+the General Fund, the amount of $___________, to:
+(a) Increase funding for rental assistance to address barriers to  housing and provide
+wraparound housing support, utilizing existing programs, to people with serious and persist-
+ent mental illness to access permanent housing in the community and to contract  with more
+providers and community organizations to provide:
+(A) Tenant-based rental assistance with maximum flexibility to be used in  a variety of
+scenarios and placements ranging from traditional scattered site supported housing to less
+traditional low barrier housing models;
+(B) Wraparound services that pair with rental assistance  to provide crisis stabilization,
+housing and benefit stabilization and connections to more intensive services  when necessary,
+and which follow clients, even when their tenancy status changes; and
+(C) Robust funding to address  a variety of financial concerns that might compromise
+housing stability, such as:
+(i) Providing landlord repair insurance funds to ensure private landlords are given in-
+centives to rent to tenants who might be considered higher risk;
+(ii) Paying move-in costs and past bills and paying for documentation required  for low-
+income tenants to obtain and maintain housing; and
+(iii) Removing barriers generally associated with individuals who have been  involved in
+the criminal justice system such as by the expungement of criminal records.
+(b) Create a flexible residential fund to provide funding to  organizations to fill gaps in the
+residential continuum, including recovery housing, for people of color,  tribal communities,
+immigrant and refugee communities, lesbian, gay, bisexual and transgender individuals, peo-
+ple with disabilities, veterans, individuals with a history of involvement in the criminal jus-
+tice system and non-English speaking communities to:
+(A) Provide an  opportunity for individuals to achieve short term stability to continue in
+an episode of care.
+(B) Provide an opportunity for individuals to achieve long term stability in housing.
+[5]
+HB 2086
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+(C) Aid transitions from inpatient care  or correctional facilities to the community by
+means including providing residential support for  those who do not meet the criteria for
+assertive community treatment, so that they may:
+(i) Avoid extended stays in emergency rooms or  hospitals because of a lack of community
+placement.
+(ii) Avoid discharges to homelessness.
+(iii) Reduce their contacts with the criminal justice system.
+(c) Expand the Young Adult  in Transition Residential System with four additional five-
+bed Residential Treatment Homes and a ten-bed Secure  Residential Treatment Facility spe-
+cializing in serving young adults aged 17 1/2 to 25.
+(d) Fund three secure residential treatment facilities to increase  the number of facilities
+to serve individuals who have been found unfit to proceed in  a criminal proceeding due to a
+mental incapacity under ORS 161.370.
+(2) Funding under subsection (1)(b) of this section:
+(a) Must be offered through a  competitive bidding process. Proposals must address
+community or regional need and include:
+(A) Peer support from youth and culturally and linguistically appropriate peers.
+(B) Coordination with other systems of care.
+(C) Connections to voluntary social and other supports to remove barriers to long term
+housing such as expungement of criminal records,  credit repair, financial literacy, life skills,
+self-advocacy with respect to evictions and other training.
+(b) May include a specific tribal allocation based on data and outcomes.
+CAPTIONS
+SECTION 11.
+The unit captions used in this 2021 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2021 Act.
+REPEALS
+SECTION 12.  Sections 1 to 5 and 8 to 10 of this 2021 Act are repealed on June 30, 2023.
+EMERGENCY CLAUSE
+SECTION 13. This 2021 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2021 Act takes effect
+on its passage.
+[6]

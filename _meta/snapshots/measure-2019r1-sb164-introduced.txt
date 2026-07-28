@@ -1,0 +1,265 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Senate Bill 164
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of State Treasurer Tobias Read)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Makes employer’s failure to  comply with requirements of Oregon Retirement Savings Plan un-
+lawful practice. Allows employee to  file complaint with Commissioner of Bureau of Labor and In-
+dustries alleging unlawful practice. Authorizes Oregon  Retirement Savings Board to request that
+commissioner investigate employer’s compliance with requirements of plan.
+Requires commissioner to investigate employer’s compliance upon receipt of employee  complaint
+or upon receipt of request of board.
+Requires commissioner to inform board of commissioner’s  findings regarding employer’s compli-
+ance. Requires board to include findings in annual report.
+Authorizes commissioner to assess civil penalty for unlawful practice. Requires that moneys re-
+covered from penalty be applied first toward reimbursement  of costs commissioner incurred in con-
+ducting inquires and investigations. Requires  remaining amounts to be deposited in Oregon
+Retirement Savings Plan Administrative Fund.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the Oregon Retirement Savings Board;  creating new provisions; amending ORS 178.205,
+178.215 and 178.225; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  Sections 2 to 5 of this 2019  Act are added to and made a part of ORS 178.200
+to 178.245.
+SECTION 2. (1) It is an unlawful practice under ORS  chapter 659A for an employer to fail
+to comply with the requirements of the plan developed under ORS 178.205.
+(2) An employee may file a  complaint with the Commissioner of the Bureau of Labor and
+Industries in the manner provided by ORS 659A.820, alleging an unlawful  practice under this
+section.
+SECTION 3.  (1) Upon receiving an employee complaint under section 2 of this 2019 Act
+or upon request of the Oregon Retirement Savings Board under  ORS 178.205, the Commis-
+sioner of the Bureau of Labor and Industries shall make inquiries and investigations in the
+same manner as provided under ORS 659A.835.
+(2) If  the commissioner finds substantial evidence that an employer engaged in an un-
+lawful practice under section 2 of this 2019 Act, the commissioner may impose civil penalties
+under section 5 of this 2019 Act.
+SECTION 4.
+(1) The Commissioner of the Bureau of Labor and  Industries shall inform
+the Oregon Retirement Savings Board of the commissioner’s findings  under section 3 of this
+2019 Act.
+(2) The board shall include the commissioner’s findings related to  employers’ compliance
+in the annual reports described in ORS 178.235.
+SECTION 5. (1) In addition to any  other penalty provided by law, the Commissioner of
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 679
+SB 164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the Bureau  of Labor and Industries may assess a civil penalty in an amount determined by
+the commissioner against an employer who has  engaged in an unlawful practice under sec-
+tion 2 of this 2019 Act.
+(2) Civil penalties assessed under this section shall  be imposed in the manner provided
+in ORS 183.745.
+(3) Civil penalties recovered under this section shall be applied first toward reimbursing
+the costs the Commissioner of the Bureau of Labor  and Industries incurred in conducting
+inquiries and investigations under section 3 of this 2019 Act. Any remaining  amounts shall
+be deposited in the Oregon Retirement Savings Plan Administrative Fund established under
+ORS 178.225 and made available for administrative costs and expenses  of the Oregon Retire-
+ment Savings Board.
+SECTION 6.
+ ORS 178.205 is amended to read:
+178.205. (1) The Oregon  Retirement Savings Board shall develop a defined contribution retire-
+ment plan for persons employed for compensation in  this state and conduct a market and legal
+analysis of the plan.
+(2) The board shall have the following powers:
+(a) To establish, implement and maintain the plan developed under this section.
+(b) To adopt rules for the general administration of the plan as provided in ORS 178.215.
+(c) To direct the investment of the funds contributed to accounts in the plan consistent  with the
+investment restrictions established by the board. The investment restrictions  must be consistent
+with the objectives of the plan, and the board shall exercise the judgment and care  then prevailing
+that persons of prudence,  discretion and intelligence exercise in the management of their own affairs
+with due regard to the probable  income and level of risk from certain types of investments of money,
+in accordance with the policies established by the board.
+(d) To collect application, account or  administrative fees to defray the costs of administering the
+plan.
+(e) To make and enter into contracts, agreements or arrangements, and to retain, employ  and
+contract for any  of the following considered necessary or desirable, for carrying out the purposes
+set forth in ORS 178.200 to 178.245:
+(A) Services of  private and public financial institutions, depositories, consultants, investment
+advisers, investment administrators and third-party plan administrators.
+(B) Research, technical and other services.
+(C) Services of other state agencies to assist the board in its duties.
+(f) To evaluate the need for, and procure as needed, pooled private insurance of the plan.
+(g) To develop and implement an outreach plan to  gain input and disseminate information re-
+garding the plan and retirement savings in general.
+(h) To request  that the Commissioner of the Bureau of Labor and Industries investigate
+an employer under section 3 of this 2019 Act to determine the  employer’s compliance with
+the requirements of the plan developed under ORS 178.205.
+SECTION 7.
+ ORS 178.215 is amended to read:
+178.215. The Oregon Retirement Savings Board shall adopt rules that:
+(1) Establish the process  for voluntary enrollment in the plan developed under ORS 178.205, in-
+cluding procedures for automatic enrollment of employees and for employees to opt out of  the plan.
+(2) Establish the process for participants to make the default contributions to plan  accounts and
+to adjust the contribution levels.
+[2]
+SB 164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) Establish the process for employers to withhold employee  contributions to plan accounts
+from employees’ wages and send the contributions to the investment administrator for the plan.
+(4) Establish the process for allowing employees to opt out of enrollment in the plan.
+(5) Establish the process for participants to make nonpayroll contributions to plan accounts.
+(6) Set minimum, maximum and default contribution  levels in accordance with limits established
+by the Internal Revenue Code.
+(7) Establish the process for withdrawals from plan accounts.
+(8) Establish the process and requirements for an employer to obtain an  exemption from offering
+the plan  if the employer offers a qualified retirement plan, including but not limited to a plan qual-
+ified under section 401(a), section 401(k), section 403(a), section  403(b), section 408(k), section 408(p)
+or section 457(b) of the Internal Revenue Code.
+(9) Mandate the contents and frequency of required disclosures to employees,  employers and
+other plan participants. These disclosures must include, but need not be limited to:
+(a) The benefits and risks associated with making contributions to the plan;
+(b) Instructions for making contributions to the plan;
+(c) How to opt out of the plan;
+(d) How to participate in the plan with a level of contributions other than the default rate;
+(e) The process for withdrawal of retirement savings;
+(f) How to obtain additional information about the plan;
+(g) That employees seeking financial advice should  contact financial advisers, that participating
+employers are not in a position to  provide financial advice and that participating employers are not
+liable for decisions employees make pursuant to ORS 178.200 to 178.245;
+(h) That the plan is not an employer-sponsored retirement plan; [ and]
+(i) That the plan accounts and rate of return are not guaranteed by the state[ .]; and
+(j) That employees may file a complaint under  section 2 of this 2019 Act to report an
+employer’s failure  to offer an opportunity to contribute to the plan developed under ORS
+178.205 or another qualified retirement plan.
+SECTION 8.
+ ORS 178.225 is amended to read:
+178.225. (1) The Oregon Retirement Savings Plan Administrative Fund  is established in the State
+Treasury, separate and distinct from the  General Fund. Interest earned by the Oregon Retirement
+Savings Plan Administrative Fund  shall be credited to the fund. Moneys in the fund are continuously
+appropriated to the Oregon Retirement Savings Board.
+(2) The Oregon Retirement Savings Plan Administrative Fund consists of:
+(a) Moneys appropriated to the fund by the Legislative Assembly;
+(b) Moneys transferred to the fund from the federal government, other state agencies  or local
+governments;
+(c) Moneys from the payment of fees and the payment of other moneys due the board;
+(d) Any gifts or donations made to the State of Oregon for deposit in the fund; [ and]
+(e) Earnings on moneys in the fund[ .]; and
+(f) Moneys from civil penalties recovered under section 5 of this 2019 Act.
+(3) The board may  use the moneys in the fund to pay the administrative costs and expenses of
+the board and the plan developed under ORS 178.205 and for  any other purpose described in ORS
+178.200 to 178.245.
+SECTION 9.
+This 2019 Act takes effect on the 91st day after the date on which the 2019
+regular session of the Eightieth Legislative Assembly adjourns sine die.
+[3]
+SB 164
+1
+[4]

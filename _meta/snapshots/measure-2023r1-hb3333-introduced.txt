@@ -1,0 +1,467 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 3333
+Sponsored by Representative NOSSE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Permits Department of  Human Services to require specified providers to submit corrective
+action plan in lieu of investigating report of suspected abuse  of child in care in certain circum-
+stances. Modifies description of when report of suspected  abuse of child in care may be found un-
+substantiated.
+Directs System of Care Advisory  Council to establish and administer grant program for purpose
+of providing just culture model training. Appropriates moneys for grant program.
+Directs System of Care Advisory  Council to establish and administer grant program for purpose
+of providing trauma-informed practices  and clinical best practices training to workforce providing
+residential services to children in care. Appropriates moneys for grant program.
+A BILL FOR AN ACT
+Relating to just culture  model in the provision of services to children in care; creating new pro-
+visions; and amending ORS 418.258 and 418.259.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 418.258 is amended to read:
+418.258. (1) When  the Department of Human Services becomes aware of a report of suspected
+child abuse of a child in care, whether in the form of an  allegation, complaint or formal report made
+under this section,  and whether made directly to the Director of Human Services, the department
+or an  employee of the department, to a hotline operated by the department, through the mandatory
+abuse reporting process set forth in ORS 419B.005 to 419B.050 or otherwise, the department shall
+immediately:
+(a) Notify  appropriate personnel within the department, including but not limited to employees
+responsible for licensing, certifying or authorizing child-caring agencies, certified foster homes and
+developmental disabilities residential facilities.
+(b) Notify any  governmental agency that has a contract with the child-caring agency, certified
+foster home or developmental disabilities residential facility to  provide care or services to the child
+in care.
+(c) Notify  the placement authorities of any other state that retains jurisdiction over a child in
+care receiving care or services from  the child-caring agency, certified foster home or developmental
+disabilities residential facility.
+(d) Commence an investigation to determine  whether the report of suspected abuse is substan-
+tiated, unsubstantiated or inconclusive under ORS 418.259 if:
+(A) The reported abuse occurred in this state;
+(B) The reported abuse occurred in any other state and involves a child in care placed by  the
+department in an out-of-state child-caring agency; or
+(C) The reported abuse occurred in any other state and the department reasonably believes that
+the reported abuse poses a danger to the health, safety or wellness of a child in  care placed by the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2057
+HB 3333
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+department in an out-of-state child-caring agency.
+(e) Report to a law enforcement agency any  crime that the department has reason to believe
+has occurred with respect to a child in care or at a child-caring agency, proctor  foster home, cer-
+tified foster  home or developmental disabilities residential facility even if the suspected crime is not
+related to a report of abuse made under this section.
+(2)(a) If after screening  or during the course of investigating a report of suspected child
+abuse of  a child in care the department determines that the incident meets the criteria de-
+scribed in ORS 418.259 (1)(b)(B), the department  may require the child-caring agency, proctor
+foster home, certified foster home or developmental disabilities residential facility to  submit
+a corrective action plan.
+(b) Notwithstanding subsection (1)(d) of this section, if the department requires a child-
+caring agency, proctor  foster home, certified foster home or developmental disabilities resi-
+dential facility to submit a corrective  action plan under paragraph (a) of this subsection, the
+department is not required to commence or continue an investigation  regarding the sus-
+pected child abuse.
+[(2)(a)] (3)(a)  As a condition for issuance or renewal of a  license, certificate or authorization to
+a child-caring agency, certified foster home or developmental disabilities residential facility, the de-
+partment shall require and verify  that the child-caring agency, certified foster home or develop-
+mental disabilities residential facility has procedures and protocols that:
+(A) Require employees of the child-caring agency, a proctor foster home certified  by the child-
+caring  agency,  the certified foster home or the developmental disabilities residential facility to im-
+mediately report  suspected abuse of a child in care to the director, the director’s designee or
+personnel within the department who have been specifically designated to receive reports  of abuse
+of children in care;
+(B) Mandate that the child-caring agency, certified foster home  or developmental disabilities
+residential facility provide an annual training  and written materials that include information about
+the child abuse reporting hotline, and that the agency, home or facility advise and  educate employ-
+ees of  the child-caring agency and any proctor foster home certified by the child-caring agency, of
+the certified  foster home or of the developmental disabilities residential facility of the duty under
+this section and ORS 419B.005 to 419B.050 to report abuse of a child in care; and
+(C) Inform employees  of child-caring agencies, proctor foster homes, certified foster homes and
+developmental disabilities residential facilities that  the duty to report abuse of a child in care is
+personal to the employee and that the duty is not fulfilled by reporting the abuse to the owner, op-
+erator or any other employee of the child-caring  agency, proctor foster home, certified foster home
+or developmental  disabilities residential facility even if the owner, operator or other employee re-
+ports the abuse of a child in care to the director, the director’s designee or the department.
+(b) A child-caring agency, certified  foster home or developmental disabilities residential facility
+need not develop and maintain procedures and protocols or provide an  annual training and written
+materials under paragraph (a) of this  subsection if the agency, home or facility does not have any
+employees, staff or volunteers.
+[(3)] (4) Interference or hindering an investigation of abuse of a child  in care, including but not
+limited to the intimidation of witnesses, falsification of records or denial or limitation of  interviews
+with the child  in care who is the subject of the investigation or with witnesses, may constitute
+grounds for the revocation, suspension or placing  of conditions on the license, certificate or other
+authorization of a child-caring agency, proctor foster home, certified foster home or  developmental
+[2]
+HB 3333
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+disabilities residential facility.
+[(4)(a)] (5)(a)  Anyone,  including but not limited to an employee of a child-caring agency, proctor
+foster home, certified foster home or developmental disabilities residential facility, who makes a re-
+port of suspected abuse of a child in care to the Governor, the Department of Justice, the Director
+of Human Services, the director’s designee or the  department under this section in good faith and
+who has reasonable grounds for the making of the report shall have immunity:
+(A) From any liability, civil or criminal, that  might otherwise be incurred or imposed with re-
+spect to the making or content of such report;
+(B) From disciplinary action taken by the person’s employer; and
+(C) With  respect to participating in any judicial proceeding resulting from or involving the re-
+port.
+(b) A person  making a report under this section may include references to otherwise confidential
+information  for  the sole purpose of making the report, and any such disclosure must be protected
+from further disclosure to other persons or entities  for any other purpose not related to the making
+of the report.
+SECTION 2.
+ ORS 418.259 is amended to read:
+418.259. (1) The investigation conducted by  the Department of Human Services under ORS
+418.258 must result in one of the following findings:
+(a) That the report is substantiated. Except as provided in paragraph  (b)(B) of this sub-
+section, a report is substantiated when there is reasonable cause to believe that the abuse of a child
+in care occurred.
+(b) That the report is unsubstantiated. A report is unsubstantiated when :
+(A) There is no evidence that the abuse of a child in care occurred[ .]; or
+(B)(i) There is evidence that the abuse  of a child in care occurred but the child in care
+was unharmed or the harm to the child in care was not significant;
+(ii) There is no evidence of intent to cause harm to the child in care; and
+(iii) The behavior that resulted in the report of abuse was  reasonably necessary to pro-
+tect the child in care or others from  greater harm or was due to human error or a doc-
+umentation error or omission.
+(c) That the report is inconclusive. Except as provided in  paragraph (b)(B) of this sub-
+section, a report is inconclusive when there  is some indication that the abuse occurred but there
+is insufficient evidence to conclude that there is reasonable cause to believe that the abuse  oc-
+curred.
+(2) When a report is received under ORS 418.258 alleging that a child in  care may have been
+subjected  to  abuse, the department shall notify the case managers for the child, the attorney for the
+child, the child’s court appointed special advocate, the parents or guardians of the child, any  attor-
+ney representing a parent or guardian of the child  and any governmental agency that has a contract
+with the child-caring agency or developmental disabilities residential facility to provide care  or
+services to the child that a report has been received.
+(3)(a) The department may interview the child in care who is the subject of suspected abuse  and
+any witnesses, including other children, without the presence of employees of the  child-caring
+agency,  proctor  foster home or developmental disabilities residential facility, the provider of services
+at a certified foster home or department personnel. The department shall inform  the child in care
+that the child may have the child’s parent or guardian, if the child has not been committed to the
+custody of the department or  the Oregon Youth Authority, or attorney present when participating
+[3]
+HB 3333
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+in an interview conducted in the course of an abuse investigation.
+(b) When investigating an allegation of inappropriate use of restraint or involuntary  seclusion,
+the department shall:
+(A) Conduct the interviews described in paragraph (a) of this subsection;
+(B) Review all relevant incident reports related to the child in care  and other reports related
+to the restraint or involuntary seclusion of the child in care;
+(C) Review any audio, video or photographic recordings of the restraint or involuntary seclusion,
+including the circumstances immediately before and following the incident;
+(D) During an interview with the child in care  who is the subject of the suspected abuse, ask
+the child about whether they experienced any  reportable injury or pain as a result of the restraint
+or involuntary seclusion;
+(E) Review the training records related to all of the  individuals who were involved in the use
+of restraint or involuntary seclusion; and
+(F) Make all reasonable efforts to conduct trauma-informed interviews  of each child witness,
+including the child in care who is the subject of suspected abuse unless the investigator makes a
+specific determination that the interview may significantly traumatize the child and  is not in the
+best interests of the child.
+(4) The department shall notify the following when a report of abuse is substantiated:
+(a) The Director of Human Services.
+(b) Personnel in  the department responsible for the licensing, certificate or authorization of
+child-caring agencies.
+(c) The department’s lead personnel in that  part of the department that is responsible for child
+welfare generally.
+(d) With respect to the child in care who is  the subject of the abuse report and investigation,
+the case managers for the child, the attorney for the  child, the child’s court appointed special ad-
+vocate, the parents or guardians of the  child, any attorney representing a parent or guardian of the
+child and any governmental agency that has a contract with the child-caring agency to  provide care
+or services to the child.
+(e) The parents or guardians of the child in care who is the subject of the abuse report and  in-
+vestigation if the child in care has not  been committed to the custody of the department or the
+youth authority. Notification under this paragraph  may not include any details or information other
+than that a report of abuse has been substantiated.
+(f) Any governmental agency that has a  contract with the child-caring agency to provide care
+or services to a child in care.
+(g) The local citizen review board established by the Judicial Department under ORS 419A.090.
+(5) The department shall report on a quarterly basis to the  interim legislative committees on
+child welfare for the  purposes of public review and oversight of the quality and safety of child-caring
+agencies, certified foster homes and developmental disabilities  residential facilities that are licensed,
+certified or authorized by the department in this state and of proctor foster homes that are certified
+by the child-caring agencies. Information provided in reports under this subsection may not  contain
+the name or any identifying information of a child in care but must contain all of the following:
+(a) The name of any  child-caring agency, including an out-of-state child-caring agency, proctor
+foster home or developmental disabilities residential facility, or, provided there are  five or more
+certified foster homes in the  county, the name of the county where a certified foster home is located,
+where the department conducted an investigation pursuant to ORS 418.258 that resulted in  a finding
+[4]
+HB 3333
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+that the report of abuse was substantiated during that quarter;
+(b) The approximate date that the abuse occurred;
+(c) The nature of the abuse and a brief narrative description of the abuse that occurred;
+(d) Whether physical injury, sexual abuse or death resulted from the abuse;
+(e) Corrective actions taken or ordered  by the department and the outcome of the corrective
+actions; and
+(f) Information the department received in that  quarter regarding any substantiated allegations
+of child abuse made by  any other state involving a congregate care residential setting, as defined
+in ORS 418.322, in which the department has placed Oregon children.
+(6) The department’s quarterly report under subsection (5) of this  section must also contain all
+of the following:
+(a) The total number of restraints used in programs that quarter;
+(b) The total number of programs that reported the use of  restraints of children in care that
+quarter;
+(c) The total number of individual children in care who were placed in restraints  by programs
+that quarter;
+(d) The number of reportable injuries to children in care that resulted from those restraints;
+(e) The number of incidents in which an individual who was not appropriately  trained in the use
+of the restraint used on a child in care in a program; and
+(f) The number of incidents that were reported for potential inappropriate use of restraint.
+(7) In compiling records, reports and  other information during an investigation under ORS
+418.258 (1) and in issuing findings, letters of concern or reprimands, the Director of Human Services
+or the director’s designee and the department may not refer  to the employee, person or entity that
+is the subject of the  investigation as an “alleged perpetrator” but must refer to the employee, person
+or entity as the “respondent.”
+(8) As used in  this section, “program,” “reportable injury” and “restraint” have the meanings
+given those terms in ORS 418.519.
+SECTION 3.
+(1) As used in this section:
+(a) “Children in care” means one or more child in care, as defined in ORS 418.257.
+(b) “Just culture model” means a culture  where a person is not punished for actions,
+omissions, suggestions or  decisions taken by the person that are commensurate with the
+person’s experience and training, but  where gross negligence, willful violations and destruc-
+tive acts are not tolerated.
+(2) The System  of Care Advisory Council shall establish and administer a grant program
+for the purpose of providing just culture model training to Department of Human  Services
+employees who conduct investigations under ORS 418.257 to 418.259, staff working in a
+child-caring agency, as defined in ORS 418.205, and behavioral health  care providers who
+work with children in care. Grants under this section may be used for initial  training as
+well as ongoing training and supervision.
+SECTION 4.
+(1) As used in this section, “children in care” means one or more  child in
+care, as defined in ORS 418.257.
+(2) The System  of Care Advisory Council shall establish and administer a grant program
+for the purpose of providing grants for training  regarding trauma-informed practices and
+clinical best practices to the workforce providing residential services to children in care.
+SECTION 5. In addition to and not in lieu of any other appropriation, there  is appropri-
+[5]
+HB 3333
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+ated to the System of Care  Advisory Council, for the biennium beginning July 1, 2023, out
+of the General Fund, the amount  of $____ for the purpose of carrying out the provisions of
+section 3 of this 2023 Act.
+SECTION 6.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the System of Care  Advisory Council, for the biennium beginning July 1, 2023, out
+of the General Fund, the amount  of $____ for the purpose of carrying out the provisions of
+section 4 of this 2023 Act.
+SECTION 7. The amendments to ORS 418.258 and 418.259 by sections 1 and 2 of this 2023
+Act apply to actions or behavior occurring on or after the effective date of this 2023 Act.
+[6]

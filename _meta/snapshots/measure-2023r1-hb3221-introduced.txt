@@ -1,0 +1,126 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 3221
+Sponsored by Representative SANCHEZ (at the request of Portland Public Schools)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Increases amounts of  moneys that are not considered Local Revenues for purposes of State
+School Fund distributions to school districts.
+Declares emergency, effective July 1, 2023.
+A BILL FOR AN ACT
+Relating to the calculation of Local  Revenues for the purpose of State School Fund distributions;
+creating new provisions; amending ORS 327.011; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 327.011 is amended to read:
+327.011. For the purpose of State School Fund distributions for school districts:
+(1) Local Revenues are the total of the following:
+(a) The amount of revenue offset against local property taxes as determined by the Department
+of Revenue under ORS 311.175 (3)(a)(A).
+(b) The amount of property taxes actually received by the district, including penalties and in-
+terest on taxes.
+(c) The amount of revenue received by the district from the Common  School Fund under ORS
+327.403 to 327.410.
+(d) The amount of revenue received by the district from the county school fund.
+(e) The amount of revenue received by the district from the 25  percent of federal forest reserve
+revenues required to be distributed to schools by ORS 294.060 (1).
+(f) The  amount of revenue received by the district from state managed forestlands under ORS
+530.115 (1)(b) and (c).
+(g) Moneys received in lieu of property taxes.
+(h) Federal funds received without specific application by the school district and that are not
+deemed under federal law to be nonsupplantable.
+(i) Any positive amount obtained by subtracting the operating property  taxes actually imposed
+by the district, based on the rate certified pursuant  to ORS 310.060, from the amount that would
+have been imposed by the  district if the district had certified the maximum rate of operating prop-
+erty taxes allowed by law.
+(j) Any amount distributed to the district in the prior fiscal year under ORS 327.019 (8).
+(2) Local Revenues do not include:
+(a) If a school district imposes local option taxes pursuant to ORS 280.040 to  280.145, an amount
+equal to the least of:
+(A) The amount of revenue actually  received by the district from local option taxes imposed
+pursuant to ORS 280.040 to 280.145;  or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4189
+HB 3221
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+[(B) Twenty-five percent of the total received by the school district  from the general purpose grant,
+the transportation grant, the facility grant and the  high cost disabilities grant of the district, as those
+grants are calculated under ORS 327.013; or ]
+[(C)] (B) [$2,000] $3,500 per district extended ADMw, as calculated under ORS 327.013, increased
+each fiscal year by [ three percent  above the amount allowed per district extended ADMw for the prior
+fiscal year. ] the greater of:
+(i) Five percent; or
+(ii) The change in the Consumer Price Index for All Urban Consumers, West  Region (All
+Items), as published by the Bureau of Labor Statistics of the United States Department of
+Labor.
+(b) For a school district with a statutory rate limit on July  1, 2003, that is greater than $4.50
+per $1,000 of assessed value, the amount  of property taxes actually received by the district, includ-
+ing penalties and interest on taxes,  that results from an increase in the rate of ad valorem property
+tax of the district allowed under Article XI, section 11 (5)(d), of the Oregon Constitution.
+SECTION 2.
+(1) Except as provided in subsection (2) of this section, the amendments to
+ORS 327.011 by section 1 of this 2023 Act apply to State  School Fund distributions com-
+mencing with the 2023-2024 distributions.
+(2) Any adjustments in the amount specified in ORS 327.011  (2)(a)(B), as directed by ORS
+327.011 (2)(a)(B)(i) or (ii), apply to State School Fund distributions  commencing with the
+2024-2025 school year.
+SECTION 3. This 2023 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2023 Act takes effect
+July 1, 2023.
+[2]

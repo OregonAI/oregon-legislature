@@ -1,0 +1,662 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2023r1-hb2560
+title: 'HB 2560 (2023R1): Establishes education savings account (ESA) program.'
+doc_type: dataset_doc
+citation: 2023 Regular Session House Bill 2560
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2560/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 854a56e2cfdcd8110ac7f6c16f3f008a6cc324918889b582d1aa6c99915771fd
+snapshot_id: measure-2023r1-hb2560-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 181A.195
+  - ORS 291.204
+  - ORS 291.216
+  - ORS 326.125
+  - ORS 326.545
+  - ORS 327.006
+  - ORS 327.008
+  - ORS 327.011
+  - ORS 327.013
+  - ORS 327.019
+  - ORS 327.022
+  - ORS 327.344
+  - ORS 327.348
+  - ORS 327.359
+  - ORS 329.485
+  - ORS 329.488
+  - ORS 332.337
+  - ORS 339.010
+  - ORS 339.020
+  - ORS 339.035
+  - ORS 342.953
+  - ORS 343.035
+  - ORS 343.404
+  - ORS 343.941
+  - ORS 348.394
+  - ORS 352.002
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2023r1
+- hb
+session_key: 2023R1
+measure_prefix: HB
+measure_number: 2560
+prefix_meaning: House Bill
+catch_line: Establishes education savings account (ESA) program.
+minority_catch_line: null
+measure_summary: "\tEstablishes education savings account (ESA) program. Allows participating students\
+  \ to obtain grants from education savings accounts to pay for qualified education expenses for specified\
+  \ types of schools or education programs. \n\tEstablishes Education Savings Program Fund and transfers\
+  \ moneys from State School Fund distributions for use in education savings accounts. \n\tRequires Department\
+  \ of Education, in consultation with State Treasurer, to establish parent advisory committee. \n\tFirst\
+  \ applies to 2024-2025 school year. \n\tDeclares emergency, effective on passage."
+relating_to: Relating to education savings accounts; declaring an emergency.
+relating_to_full: Relating to education savings accounts; creating new provisions; amending ORS 327.008;
+  and declaring an emergency.
+at_the_request_of: null
+lc_number: 1882
+measure_created_date: '2022-12-21T15:20:33'
+measure_modified_date: '2023-01-23T09:33:03'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 37697
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 181A.195
+  - ORS 291.204
+  - ORS 291.216
+  - ORS 326.125
+  - ORS 326.545
+  - ORS 327.006
+  - ORS 327.008
+  - ORS 327.011
+  - ORS 327.013
+  - ORS 327.019
+  - ORS 327.022
+  - ORS 327.344
+  - ORS 327.348
+  - ORS 327.359
+  - ORS 329.485
+  - ORS 329.488
+  - ORS 332.337
+  - ORS 339.010
+  - ORS 339.020
+  - ORS 339.035
+  - ORS 342.953
+  - ORS 343.035
+  - ORS 343.404
+  - ORS 343.941
+  - ORS 348.394
+  - ORS 352.002
+  from_relating_to_full:
+  - ORS 327.008
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2560`.
+
+# HB 2560 — 2023 Regular Session (2023R1)
+
+## At a glance
+
+- **Measure:** House Bill 2560, 2023 Regular Session (2023R1)
+- **LC number:** 1882
+- **Created:** 2022-12-21T15:20:33
+- **Metadata last modified (upstream):** 2023-01-23T09:33:03
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 37697 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2560/Introduced>.
+
+## Summary
+
+**Catchline:** Establishes education savings account (ESA) program.
+
+**Relating to:** Relating to education savings accounts; declaring an emergency.
+
+Establishes education savings account (ESA) program. Allows participating students to obtain grants from education savings accounts to pay for qualified education expenses for specified types of schools or education programs. 
+ Establishes Education Savings Program Fund and transfers moneys from State School Fund distributions for use in education savings accounts. 
+ Requires Department of Education, in consultation with State Treasurer, to establish parent advisory committee. 
+ First applies to 2024-2025 school year. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to education savings accounts; creating new provisions; amending ORS 327.008; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2560
+Sponsored by Representative OWENS,  Senator FINDLEY, Representative DIEHL; Representatives MORGAN,
+WRIGHT (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Establishes education savings account (ESA)  program. Allows participating students to obtain
+grants from education savings accounts to pay for  qualified education expenses for specified types
+of schools or education programs.
+Establishes Education Savings Program Fund and  transfers moneys from State School Fund
+distributions for use in education savings accounts.
+Requires Department of Education, in consultation with State  Treasurer, to establish parent
+advisory committee.
+First applies to 2024-2025 school year.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to education savings accounts; creating new provisions; amending ORS 327.008; and de-
+claring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 1 to 7 of this 2023 Act:
+(1) “Curriculum” means a complete course of study for a particular content area or grade
+level.
+(2) “Education savings account” or “ESA”  means an account to which funds are trans-
+ferred by the State Treasurer for use by the parent of a  participating student in order to pay
+for the qualified education  expenses of the participating student pursuant to the require-
+ments and conditions of sections 1 to 7 of this 2023 Act.
+(3) “Education  service provider” means an individual or organization that receives pay-
+ments from an education savings account in exchange for qualified education expenses.
+(4) “Parent” means a person who is eligible to establish or has  established an education
+savings account pursuant to section 2 of this 2023 Act.
+(5) “Participating student” means a student who  is participating in the ESA program
+under sections 1 to 7 of this 2023 Act.
+(6) “Qualified education expenses” means expenses  identified in section 4 of this 2023 Act
+for which moneys deposited in an education savings account may be used.
+(7) “State institution of higher education” means:
+(a) A public university listed in ORS 352.002;
+(b) A community college operated under ORS chapter 341; or
+(c) Any other post-secondary institution of  education that was originally established in
+this state, is tax exempt under section 501(c)(3) of  the Internal Revenue Code and is ac-
+credited by a regional or national accrediting agency recognized  by the United States De-
+partment of Education.
+SECTION 2.
+(1) A person may establish an education savings account for a student if:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1882
+(a) The person is the parent, legal guardian or other person  who has the legal duty to
+ensure a child receives an education as provided by ORS 339.020; and
+(b) The student is a resident of this state and is eligible to:
+(A) Enroll in a public elementary or secondary school of this state; or
+(B) Enroll in or receive services from any other education service provider.
+(2) An education savings account shall  be established when a person enters into a written
+agreement as provided by this  section. A written agreement is valid for one year and must
+be renewed for each subsequent school year. Renewals of written agreements  shall be as
+provided by section 3 (5) of this 2023 Act.
+(3)(a) The State Treasurer shall create a form for a standard written  agreement that can
+be used to establish an education savings account. The State  Treasurer shall ensure that
+forms for a written agreement are available online and may be submitted online.
+(b) The State Treasurer must approve the establishment of an education savings account
+if a written agreement is entered into pursuant to this section.
+(c) A parent must enter into a separate written agreement  for each participating student
+of the parent. Only  one education savings account may be established for each participating
+student.
+(4) A written agreement for an education savings account must provide that:
+(a) The participating student will receive, for the  school year to which the written
+agreement applies, instruction in at least the subjects of mathematics, science, language arts
+and social studies;
+(b) The participating student will not enroll as a full-time student in a public school of
+this state for the school year to which the written agreement applies;
+(c) The parent will  use the funds in the education savings account only for qualified ed-
+ucation expenses;
+(d) The parent and the participating student will comply with the rules and requirements
+of sections 1 to 7 of this 2023 Act and any related rules or policies adopted by the State
+Treasurer;
+(e) The participating student will receive a grant, in the  form of moneys deposited pur-
+suant to section 3 of this 2023 Act, in the education savings account established  for the
+participating student; and
+(f) If the participating student qualifies as a child with a  disability, as defined in ORS
+343.035, the State Treasurer shall ensure that the parent who signs the written agreement
+receives notice that participation in the ESA program is a parental placement of the student
+under 20 U.S.C. 1412 along with  an explanation of the rights that parentally placed students
+possess under the federal Individuals with Disabilities Act and any applicable state laws.
+(5) Upon entering into or renewing  a written agreement, the State Treasurer shall pro-
+vide a parent with a written explanation of the allowable uses of  ESA funds, the responsi-
+bilities of the parent, the duties  of the State Treasurer and the role of any private financial
+management firms or other private  organizations that the State Treasurer may contract
+with to administer sections 1 to 7 of this 2023 Act pursuant to section 5 of this 2023 Act.
+(6) Compliance with the written agreement shall satisfy the compulsory school  attend-
+ance requirements  of ORS 339.010. Participating students who are not enrolled as full-time
+students in a private school are exempt from the requirements of ORS 339.035.
+(7) The State Treasurer shall annually renew  an education savings account unless noti-
+fied by a parent that the parent wishes to terminate the account. A participating student
+with a disability shall remain eligible for renewal of an education savings account as  long as
+the student remains eligible to be enrolled in a public school in this state.
+(8)(a) Upon notice to the State Treasurer, a participating student may enroll  full-time in
+a public school in this state. When the participating student enrolls full-time in a public
+school:
+(A) The written agreement between the parent and the  State Treasurer shall be sus-
+pended, and no further funds shall be  deposited into the student’s education savings account
+until the  student requalifies for qualified education expenses pursuant to the requirements
+and conditions of sections 1 to 7 of this 2023 Act.
+(B) The written agreement between the parent and the  State Treasurer terminates upon
+the request of the parent or upon the participating student attaining 25 years of age,
+whichever occurs first. Any remaining ESA  funds in the participating student’s education
+savings account upon termination revert to the General Fund.
+(b) The State Treasurer shall  adopt rules and policies to allow participating students to
+enroll full-time in a public school in this state at any  time in order to provide the least dis-
+ruptive process.
+(9) Nothing in sections 1 to 7 of this 2023 Act shall be  construed to require that a par-
+ticipating student be enrolled, full-time or part-time, in a private school.
+(10) A written agreement terminates  automatically if a participating student no longer
+resides in  this state. Upon termination, any moneys remaining in the education savings ac-
+count revert to the General Fund.
+SECTION 3.
+(1) If the parent of a student enters into a written agreement for an  edu-
+cation savings account pursuant to section 2 of this 2023 Act, a grant of  moneys must be
+transferred at the beginning of the school year  by the State Treasurer from the Education
+Savings Program Fund established under section 12 of this 2023 Act into  the education
+savings account of the participating student.
+(2)(a) Except as otherwise provided in subsections (3) and (4) of this  section, the grant
+required by subsection (1) of this section must, for  the school year for which the grant is
+made, be in an amount equal to one of the following:
+(A) For a participating  student who is a child with a disability, as defined in ORS 343.035,
+$6,500.
+(B) For a participating student with a household income  that is less than 185 percent of
+the federal poverty guidelines, $6,500.
+(C) For a participating student not described in subparagraph (A) or  (B) of this para-
+graph, $4,900.
+(b) For each biennium, the amounts identified in paragraph  (a) of this subsection shall
+be adjusted by the same percentage by which the amount appropriated to  the State School
+Fund for that biennium is increased or decreased compared with the preceding biennium,  as
+determined by the Department of  Education after consultation with the Legislative Fiscal
+Officer.
+(3) The State Treasurer may deduct  no more than three percent from each grant for the
+administrative costs incurred by  the State Treasurer in implementing the provisions of
+sections 1 to 7 of this 2023 Act.
+(4) Any moneys remaining in an education savings account at the end of a school year
+shall roll over to the next school year.
+(5) A written agreement is automatically renewed for each school year until:
+(a) The participating student is no longer a resident of this state;
+(b) The participating student graduates from college with a bachelor’s degree;
+(c) The participating student attains 25 years of age; or
+(d) The State Treasurer revokes the participating student’s education savings account for
+substantial misuse of funds.
+(6) The State Treasurer shall close an education savings account, and  any unused funds
+in the account shall revert to the General Fund, after  the earlier of the participating stu-
+dent:
+(a) Not  enrolling in a state institution of higher education within four years after high
+school graduation; or
+(b) Attaining 25 years of age.
+(7) If a written  agreement is terminated for any reason, any moneys remaining in the
+education savings account shall revert to the General Fund.
+SECTION 4.
+(1) Moneys deposited in an  education savings account pursuant to section 3
+of this 2023 Act may be expended only for qualified education expenses identified  in this
+section. Qualified education expenses are:
+(a) Tuition and fees at a private school;
+(b) Tuition and fees for nonpublic online learning programs or courses;
+(c) Private tutoring services that are provided by:
+(A) A tutor or tutoring facility that is accredited by  a regional or national accrediting
+agency recognized by the United States Department of Education; or
+(B) A person who:
+(i) Is licensed as a teacher in this state;
+(ii) Has taught at an institution of higher education;
+(iii) Is a subject matter expert; or
+(iv) Is otherwise approved by the State Treasurer;
+(d) Services contracted for and provided by a public school  or public charter school, in-
+cluding individual classes, extracurricular activities and programs in these schools;
+(e) Textbooks, curriculum or other instructional materials, including any supplemental
+materials required by a curriculum, private school,  private online learning program, state
+institution of higher education or public school;
+(f) Computer hardware or other technological devices that  are primarily used to help
+meet a participating student’s educational needs;
+(g) Educational software and applications;
+(h) Uniforms purchased from or through a private school;
+(i) Fees  for nationally standardized assessments, advanced placement examinations,
+state-recognized industry certification exams and examinations  related to admission to a
+post-secondary institution of  education, and any tuition and fees for related preparatory
+courses;
+(j) Fees for summer education  programs and specialized after-school education programs,
+but not for after-school child care;
+(k) Educational services and therapies, including  occupational, behavioral, physical,
+speech-language and audiology therapies;
+(L) Tuition and fees at a state institution of higher education;
+(m) Fees for transportation paid  to a fee-for-service transportation provider for a par-
+ticipating student to travel to and from a participating education service provider;
+(n) Fees for the management of the education savings account; and
+(o) Any other education expense approved by the State Treasurer.
+(2) ESA funds may not be refunded or rebated to or  shared with a parent or participating
+student in any manner.
+(3) Any refund or rebate for goods or services purchased with ESA funds shall be credited
+directly to the education savings account of the participating student.
+(4) Parents may make payments for the costs of educational goods  and services not
+covered by the funds available in the participating student’s education savings account.
+(5) Personal deposits into an education savings account are not permitted.
+(6) Funds deposited in a participating student’s education savings account do not  consti-
+tute taxable income to the parent or the participating student.
+SECTION 5.
+(1) The State Treasurer may contract with private organizations to carry
+out sections 1 to 7 of this 2023 Act as long as the  private organizations charge reasonable
+fees, based on  market rates, for services. The authority of this subsection includes con-
+tracting with private financial management firms to manage education savings accounts.
+(2) The State Treasurer  shall implement a system for payment for services from educa-
+tion savings accounts to education service providers  by electronic funds transfer, including
+debit cards, electronic payment systems or any  other means of electronic payment that the
+State Treasurer determines to be commercially viable, cost-effective  and user-friendly. The
+State Treasurer may not adopt a system that relies exclusively on  requiring parents to be
+reimbursed for out-of-pocket expenses. The State  Treasurer shall provide maximum flexibil-
+ity to parents by  facilitating direct payments to education service providers and requests for
+preapproval and reimbursement for qualified education expenses.
+(3) The State Treasurer  shall implement a commercially viable, cost-effective and user-
+friendly system for publicly rating, reviewing and sharing information about  education ser-
+vice providers.
+(4) If an education service provider requires advance  payment of tuition or fees prior to
+the start of the school year to  reserve space for a participating student admitted to the ed-
+ucation service provider, the advance payment may be paid by the State Treasurer prior to
+the start of the school year in which the  participating student is awarded a grant. The ad-
+vance payment may not exceed $3,500 and must be deducted in an equitable  manner from
+subsequent deposits into the participating student’s education savings account  to ensure
+adequate funds remain available throughout  the school year. If a participating student de-
+cides not  to attend the education service provider, the amount of the advance payment must
+be returned to the State  Treasurer by the education service provider. Only one advance
+payment per participating student may be made per year as allowed by this subsection.
+(5) The State Treasurer has  the authority to conduct or contract for the auditing of in-
+dividual ESAs and shall, at a minimum, conduct random audits of ESAs on an annual basis.
+(6)(a) The State Treasurer has the authority to terminate a written agreement and to
+deem any parent ineligible to enter into a  new written agreement in the event of substantial
+misuse of ESA funds.
+(b) The State Treasurer shall create procedures to  ensure that the process of determin-
+ing whether a substantial misuse of ESA funds has occurred is fair.
+(c) The State Treasurer has the authority to refer suspected cases  of substantial misuse
+of ESA funds to the Attorney General or the district attorney of the  county in which a
+parent resides for investigation if  the State Treasurer obtains evidence of fraudulent use of
+ESA funds.
+(d) A parent may appeal the  State Treasurer’s decision to deem the parent ineligible for
+the ESA program as a contested case under ORS chapter 183.
+(7) The State Treasurer may bar an education service  provider from the ESA program
+if the State Treasurer determines that the education service provider has:
+(a) Intentionally and substantially misrepresented information or failed to refund  any
+overpayments in a timely manner;
+(b) Routinely failed to provide participating students with promised educational services;
+or
+(c) Regularly failed to comply with the provisions of sections 1 to 7 of this 2023 Act  or
+any rules adopted by the State Treasurer.
+(8)(a) The State Treasurer shall by rule  create procedures to ensure that the process of
+determining whether an education service provider may be barred from participating in  the
+program is fair.
+(b) If an education service provider is barred from the program, the State Treasurer shall
+immediately notify parents who have made payments from a participating student’s educa-
+tion savings account to the barred education service provider of the decision.
+(c) An  education service provider may appeal the State Treasurer’s decision to bar the
+provider from the program as a contested case under ORS chapter 183.
+(9) The State Treasurer may accept gifts and grants from any source to cover  adminis-
+trative costs, to inform the public about  the ESA program or to fund additional education
+savings accounts.
+(10) The State Treasurer may adopt rules that are not inconsistent with sections 1 to  7
+of this 2023 Act  and that are necessary for the administration of sections 1 to 7 of this 2023
+Act, including establishing:
+(a) An online anonymous fraud reporting service, or contracting for the provision of  that
+service.
+(b) An anonymous telephone hotline for fraud reporting.
+(c) Policies that require either a surety bond for education service providers  receiving
+more than $100,000 in ESA program funds or insurance for account holders.
+(d) Procedures for refunding payments  from a participating education service provider
+back to an education savings account.
+(e) Procedures for entering into reciprocal agreements with ESA agencies or entities  in
+other states to recognize and allow education service  providers approved in other states to
+receive payments from education savings accounts under sections 1 to 7 of this 2023 Act.
+(11) Rules or policies adopted by the State Treasurer shall focus on easing parental  in-
+volvement and encouraging educational service  providers to provide parents with a broad
+array of educational options.
+(12) The State Treasurer shall maintain an updated list of participating education service
+providers and shall ensure that the list is available online.
+(13) The State Treasurer shall administer an annual survey of parents who enter  into or
+renew written agreements pursuant to section 2 of this 2023 Act. The survey must ask  each
+parent to indicate:
+(a) The number of years the parent has entered into or renewed a written agreement;
+(b) The relative satisfaction of the parent with the ESA program established  pursuant
+to sections 1 to 7 of this 2023 Act; and
+(c) The opinions of the parent regarding any topics, items or issues that the State
+Treasurer determines may aid the State Treasurer  in evaluating and improving the effec-
+tiveness of the ESA program established pursuant to sections 1 to 7 of this 2023 Act.
+SECTION 6.
+(1) To be eligible to accept payments from an education  savings account, an
+education service provider shall:
+(a) Submit notice to the State Treasurer of the intent to participate.
+(b) Provide parents with a receipt for all qualified education expenses.
+(c) Agree  not to refund, rebate or share ESA funds with parents or participating students
+in any manner, except that ESA funds may be remitted or refunded to an education  savings
+account in accordance with procedures established by the State Treasurer.
+(d) Certify that the education service provider will  not discriminate based on race, color,
+ethnicity or national origin.
+(e) Agree to submit any  employee who will have contact with participating students to
+a state or nationwide criminal records check as provided under ORS 181A.195.
+(f) Provide the State Treasurer  with any additional information that may be requested
+to ensure the  services provided to participating students are qualified education expenses.
+If the education service provider is unable to provide the additional  information, the State
+Treasurer may bar the education service provider from participating in the program.
+(2) If it is reasonably expected that  an education service provider will receive aggregated
+payments from education savings accounts in an amount that exceeds $100,000 during  any
+school year, the State Treasurer may require the education service provider to:
+(a) Post a surety bond in an amount equal to the amount reasonably expected  to be paid
+to the education service provider  from education savings accounts during the school year;
+or
+(b) Provide evidence satisfactory to the State Treasurer that the education service pro-
+vider otherwise has sufficient assets to  pay the State Treasurer an amount equal to the
+amount described in paragraph (a) of this subsection.
+(3) Nothing in sections 1 to 7 of this 2023 Act  shall be deemed to limit the independence
+or autonomy of  an education service provider or to make the actions of an education service
+provider the actions of this state.
+(4) The State Treasurer or any other state agency  may not regulate the educational
+program of an education service  provider that accepts funds from an education savings ac-
+count.
+(5) An education  service provider shall be given the maximum freedom to provide for the
+educational needs of participating students without governmental control.
+(6) Nothing in sections 1 to 7 of this 2023 Act shall be construed to  expand the regulatory
+authority of the state, its officers or any school  district to impose any additional regulation
+of education service providers beyond those necessary to enforce  the requirements of
+sections 1 to 7 of this 2023 Act.
+SECTION 7.
+(1) At a parent’s request, a  participating student’s local school district shall
+permit a participating student who is being educated pursuant to  the education savings ac-
+count program to participate in  the statewide assessment system described in ORS 329.485.
+The school district may not charge a fee to parents who elect to have their student partic-
+ipate in the statewide assessment.
+(2) Statewide assessment results for participating students shall be  reported to the De-
+partment of Education separately from  the results for nonparticipating students enrolled in
+the schools of a school district.
+(3) A school district that previously enrolled a  participating student shall provide an ed-
+ucation service provider that  has enrolled a participating student with a complete copy of the
+participating student’s school records, while complying with 20 U.S.C. 1232g.
+SECTION 8.
+(1) In any legal proceeding challenging the  application of sections 1 to 7 of
+this 2023 Act to an education service provider,  the respondent bears the burden of estab-
+lishing that the law is necessary and does not impose any undue  burden on an education
+service provider.
+(2) No liability shall arise on the part of the State Treasurer or this state or of any school
+district based on the award or use of an education service  account pursuant to sections 1 to
+7 of this 2023 Act.
+(3) If any part of sections 1 to 7 of this 2023 Act  is challenged as violating either the
+United States Constitution or the  Oregon Constitution, parents of participating students may
+be permitted to intervene to defend the constitutionality of sections 1 to 7 of this  2023 Act.
+For the purposes  of judicial administration, a court may limit the number of parents per-
+mitted to intervene or require that all parents file a  joint brief, as long as parents are not
+required to join any brief filed on behalf of any respondent.
+(4) If any provision of sections 1 to 7 of this 2023 Act, or the application of  sections 1 to
+7 of this 2023  Act to any person or circumstances, is held invalid, the invalidity does not af-
+fect other provisions or applications of sections 1 to 7 of  this 2023 Act that can be given ef-
+fect without the invalid provision or application, and any provisions of  sections 1 to 7 and
+12 of this 2023 Act are severable.
+SECTION 9. (1) Sections 1 to 7 and 12 of this 2023 Act become operative on January 1,
+2024.
+(2) The State Board of Education, the Department of Education and the State  Treasurer
+may take any action before the operative date specified in subsection (1) of this section to
+ensure that students are first allowed to participate in the  education savings account pro-
+gram established by sections 1 to 7 and 12 of this 2023 Act during the 2024-2025 school year.
+SECTION 10.
+Notwithstanding section 3  (2)(b) of this 2023 Act, the amounts identified in
+section 3 (2)(a) of this 2023 Act shall first be adjusted beginning in the 2025-2027 biennium.
+SECTION 11. Section 12 of this  2023 Act is added to and made a part of ORS chapter 327.
+SECTION 12. (1) The Education Savings Program Fund  is established within the State
+School Fund.
+(2) The Education Savings Program Fund shall consist of moneys transferred as  provided
+by ORS 327.008 and  any other state or federal moneys available for the purposes of the edu-
+cation savings account program established by sections 1 to 7 of this 2023 Act.
+(3) Moneys in the fund are continuously appropriated to the  State Treasurer for the
+purpose of making transfers to education savings accounts under section 3 of this 2023 Act.
+SECTION 13. (1) The Department of Education, in consultation with the State  Treasurer,
+shall establish  the Education Savings Account Parent Advisory Committee. The purpose of
+the advisory committee is to provide advice on and oversight of the implementation of the
+education savings account program under sections 1 to 7 of this 2023 Act and any  related
+rules adopted by the State Treasurer.
+(2) The advisory committee shall consist of six members who are parents of students
+participating in  the education savings account program. The members of the advisory com-
+mittee shall be appointed as follows:
+(a) One member who is recommended by the President of the  Senate and appointed by
+the department.
+(b) One  member who is recommended by the Speaker of the House of Representatives
+and appointed by the department.
+(c) One member who  is recommended by the Minority Leader of the Senate and appointed
+by the department.
+(d) One member who is recommended by the Minority Leader of  the House of Represen-
+tatives and appointed by the department.
+(e) Two members who are appointed by the Governor.
+(3) The members of the advisory committee  shall annually elect a chairperson from
+among its members.
+(4) The term of office of each member of the advisory committee  is four years, but a
+member serves at the pleasure of the appointing  authority. Vacancies shall be filled by the
+appointing authority by appointment for the unexpired term. A member shall hold  the
+member’s office until the  appointment of a successor. A member is eligible for reappoint-
+ment.
+(5) The advisory committee shall  meet at least four times each calendar year at a time
+and place fixed by the chairperson or a majority of the members of the advisory committee.
+A majority of the  members of the advisory committee constitutes a quorum for the trans-
+action of business.
+(6) The advisory committee shall collaborate with  the department, the State Treasurer,
+the State Board of Education and the  Attorney General, as appropriate, to review the im-
+plementation and efficacy of the education savings account program under sections 1 to  7
+of this 2023 Act, including the concerns of parents of  students participating in the education
+savings account program.
+(7) The department shall provide office space and  personnel to assist the advisory com-
+mittee as requested by the chairperson, within the limits of available funds.
+SECTION 14.
+ ORS 327.008 is amended to read:
+327.008. (1)(a) There is established a State School Fund in the General Fund.
+(b) The Department of Education, on behalf  of the State of Oregon, may solicit and accept gifts,
+grants, donations and other moneys from public and private sources  for the State School Fund.
+Moneys received as provided in this paragraph shall be deposited into the State School Fund.
+(c) The State School Fund shall consist of moneys appropriated by  the Legislative Assembly,
+moneys transferred from  the Fund for Student Success, moneys transferred from the Education Sta-
+bility Fund and the Oregon Marijuana  Account and moneys received as provided in paragraph (b)
+of this subsection.
+(d) The  State School Fund is continuously appropriated to the Department of Education for the
+purposes of ORS 327.006 to 327.077, 327.095, 327.099, 327.101, 327.125,  327.137, 327.348, 327.356 to
+327.359, 336.575, 336.580, 336.635, 343.243, 343.533, 343.941 and 343.961.
+(2) There shall be apportioned from the State School Fund to each school  district a State School
+Fund grant, consisting  of the positive amount equal to a general purpose grant and a facility grant
+and a transportation grant and a high cost disabilities grant minus local revenue, computed as pro-
+vided in ORS 327.011 and 327.013.
+(3) For the first school year after a public charter school ceases to  operate because of dissol-
+ution or closure or because of  termination or nonrenewal of a charter, there shall be apportioned
+from the State School Fund to  each school district that had sponsored a public charter school that
+ceased to operate an amount equal to the school district’s  general purpose grant per extended
+ADMw multiplied by five percent of the ADM of the public charter school for the previous school
+year.
+(4) There shall be  apportioned from the State School Fund to each education service district a
+State School Fund grant as calculated under ORS 327.019.
+(5) All figures used in the determination of the distribution of the State School Fund shall  be
+estimates for the same year as the distribution occurs, unless otherwise specified.
+(6) Numbers of students in average daily membership used in  the distribution formula shall be
+the numbers as of June of the year of distribution.
+(7) A school district may  not use the portion of the State School Fund grant that is attributable
+to the facility grant for capital construction costs.
+(8) The total amount of  the State School Fund that is distributed as facility grants may not ex-
+ceed $3 million in any biennium. If  the total amount to be distributed as facility grants exceeds this
+limitation, the  Department of Education shall prorate the amount of funds available for facility
+grants among  those school districts that qualified for a facility grant. If the total amount to be dis-
+tributed as facility grants does not  exceed this limitation, any remaining amounts shall be expended
+for expenses incurred by the Office of School Facilities as provided in ORS 326.125 (1).
+(9) Each biennium, the Department of Education may expend from  the State School Fund no
+more than $10 million for expenses incurred by the Office of School Facilities under ORS 326.125 (2)
+to (7).
+(10) Each fiscal year, the Department of Education  shall transfer to the Pediatric Nursing Fa-
+cility Account established in ORS 327.022 the amount necessary to pay the costs of educational
+services provided to students admitted to pediatric nursing facilities as provided in ORS 343.941.
+(11) Each fiscal year, the Department of Education shall transfer the amount of  $55 million from
+the State School Fund to the High Cost Disabilities Account established in ORS 327.348.
+(12)(a) Each biennium,  the Department of Education shall transfer $39.5 million from the State
+School Fund to the Educator Advancement Fund established under ORS 342.953.
+(b) For the purpose of making the transfer under this subsection:
+(A) The total  amount available for all distributions from the State School Fund shall be reduced
+by $6 million;
+(B) The amount distributed to school districts  from the State School Fund under this section and
+ORS 327.013 shall be reduced by $16.75 million; and
+(C) The amount distributed to education service  districts from the State School Fund under this
+section and ORS 327.019 shall be reduced by $16.75 million.
+(c) For each biennium, the amounts identified in this subsection shall be  adjusted by the same
+percentage  by  which the instructions furnished to state agencies by the Governor under ORS 291.204
+direct the state agencies to adjust their agency budget requests for special payments under ORS
+291.216 (6)(a)(C).
+(13) Each biennium, the Department of Education shall transfer $12.5 million from the State
+School Fund to the Statewide English Language Learner  Program Account established under ORS
+327.344.
+(14) Each  fiscal year, the Department of Education may expend up to $550,000 from the State
+School  Fund for the contract described in ORS 329.488. The amount distributed to education service
+districts from the State School Fund under this section and  ORS 327.019 shall be reduced by the
+amount expended by the department under this subsection.
+(15) Each biennium, the Department of  Education may expend up to $350,000 from the State
+School Fund to provide administration  of and support for the development of talented and gifted
+education under ORS 343.404.
+(16) Each biennium, the Department of  Education may expend up to $150,000 from the State
+School Fund for the administration of a program to increase  the number of speech-language
+pathologists and speech-language pathology assistants under ORS 348.394 to 348.406.
+(17) Each biennium, the Department of Education shall transfer $2 million from  the State School
+Fund for deposit to the Healthy School Facilities Fund established under ORS  332.337.
+Notwithstanding ORS 332.337, the department may expend moneys received in the Healthy  School
+Facilities  Fund  under this subsection only as grants for costs associated with testing for elevated
+levels of lead in water used for drinking or food preparation.
+(18) Each biennium, the Department  of Education shall transfer an amount not to exceed
+$5,595,000 for the purpose  of making tampons and sanitary pads available as provided by ORS
+326.545.
+(19) Each fiscal year, the  Department of Education shall transfer the amount of $2.5 million from
+the State School Fund to the Small School District Supplement Fund established in ORS 327.359.
+(20) Each fiscal year, the Department of Education shall transfer  to the Education
+Savings Program Fund established under section 12 of this 2023 Act the  amount necessary
+to make the transfers required by section 3 of this 2023 Act.
+SECTION 15.
+(1) The  amendments to ORS 327.008 by section 14 of this 2023 Act become
+operative on July 1, 2024.
+(2) The amendments to ORS 327.008 by section 14 of this 2023 Act apply to State School
+Fund distributions commencing with the 2024-2025 school year distributions.
+SECTION 16. Notwithstanding the term of  office specified by section 13 of this 2023 Act,
+of the members first appointed to the Education  Savings Account Parent Advisory Commit-
+tee:
+(1) Two shall serve for a term ending December 31, 2025.
+(2) Two shall serve for a term ending December 31, 2026.
+(3) One shall serve for a term ending December 31, 2027.
+(4) One shall serve for a term ending December 31, 2028.
+SECTION 17.
+This 2023 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2023 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 327.008
+- From bill text (Introduced version): ORS 181A.195, ORS 291.204, ORS 291.216, ORS 326.125, ORS 326.545, ORS 327.006, ORS 327.008, ORS 327.011, ORS 327.013, ORS 327.019, ORS 327.022, ORS 327.344, ORS 327.348, ORS 327.359, ORS 329.485, ORS 329.488, ORS 332.337, ORS 339.010, ORS 339.020, ORS 339.035, ORS 342.953, ORS 343.035, ORS 343.404, ORS 343.941, ORS 348.394, ORS 352.002
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `854a56e2cfdcd8110ac7f6c16f3f008a6cc324918889b582d1aa6c99915771fd` (snapshot `_meta/snapshots/measure-2023r1-hb2560-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2560/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2560` (part of the batched per-session fetch), sha256 `93fbdf58369388064230f7ba2c78bd17b78e15ffa1d19e5c25089297c647cbe1` of the shared session snapshot `_meta/snapshots/measures-2023r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

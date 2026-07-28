@@ -1,0 +1,305 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 3103
+Sponsored by COMMITTEE ON WATER (at the request of Representative Ken Helm)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Authorizes holder of water right certificate that allows storage of water to  change use of water,
+subject to certain requirements.
+A BILL FOR AN ACT
+Relating to water uses; amending ORS 540.510 and 540.520.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 540.510 is amended to read:
+540.510. (1)(a) Except as provided in subsections (2) to (8) of this section, all water used in  this
+state for any purpose shall remain appurtenant to the premises upon which it is used  and no change
+in use or place of use of any water for any purpose may be made without compliance with the  pro-
+visions of ORS 540.520 and 540.530. However, the holder of any water use subject to  transfer may,
+upon compliance with the provisions of ORS 540.520 and 540.530, change the use and place of use,
+the point of diversion or the  use [ theretofore made ] of the water [ in all cases ] without losing priority
+of the right [ theretofore established ]. A district may change the place of use in the manner provided
+in ORS 540.572 to 540.580 in lieu of the method provided in ORS 540.520  and 540.530. When an ap-
+plication for change of the use or place of  use for a primary water right is submitted in accordance
+with this  section, the applicant also shall indicate whether the land described in the application has
+an appurtenant  supplemental water right or permit. If the applicant also intends to transfer the
+supplemental water right or  permit, the applicant also shall include the information required under
+ORS 540.520 (2) for the supplemental water right or  permit. If the applicant does not include the
+supplemental water right or permit in the transfer application,  the Water Resources Department
+shall notify  the applicant that the supplemental water right or permit will be canceled before the
+department issues the order approving the transfer of the  primary water right, unless within 30 days
+the applicant modifies the application to include the supplemental water right or permit  or with-
+draws the application. The department may approve the transfer of  the supplemental water right or
+permit in accordance with the provisions of ORS 540.520 and 540.530.  The department shall not ap-
+prove the transfer of a supplemental water  right or permit if the transfer would result in enlarge-
+ment of the original water right or injury to an existing water right. If the department approves the
+transfer of the primary water right but does not approve the transfer  of the supplemental water
+right or permit, the department shall notify the applicant of the department’s intent  to cancel that
+portion of the supplemental water right or permit described in the transfer application before the
+department issues the primary water right transfer order, unless the  applicant withdraws the
+transfer application within 90 days.
+(b) A holder of a water right  certificate that allows the storage of water may change the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1587
+HB 3103
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+use of the water as described in subsection (1)(a)  of this section without losing priority of
+the right.
+(2) Subject to  the limitations in ORS 537.490, any right to the use of conserved water allocated
+by the Water Resources Commission under ORS 537.470 may be severed  from the land and trans-
+ferred or sold after notice to the commission as required under ORS 537.490.
+(3)(a) Any water used under  a permit or certificate issued to a municipality, or under rights
+conferred by ORS  538.410 to 538.450, or under the registration system set forth in ORS 537.132, may
+be applied to beneficial use on lands to which the right is not appurtenant if:
+(A) The water is applied to lands which are acquired by annexation or  through merger, consol-
+idation or formation of a water authority, so long as the rate and use of water allowed in the  ori-
+ginal certificate is not exceeded;
+(B) The use  continues to be for municipal purposes and would not interfere with or impair prior
+vested water rights; or
+(C) The use is authorized under a permit granted  under ORS 468B.050 or 468B.053 and for which
+a reclaimed water registration form has been filed under ORS 537.132.
+(b) As used in this subsection, “municipality” means a  city, a port formed under ORS 777.005 to
+777.725, 777.915 to 777.953 and 778.010, a domestic water supply district  formed under ORS chapter
+264, a water supplier as defined in ORS 448.115 or a water authority  formed under ORS chapter 450.
+(4) Pursuant to the provisions of ORS 540.570 or 540.585, any water  used under a permit or
+certificate issued to a district may  be applied to beneficial use on lands within the district to which
+the right is not appurtenant.
+(5) The relocation of a point of diversion as necessary  to follow the movements of a naturally
+changing stream channel  does not constitute a change in point of diversion for purposes of ORS
+540.520 if:
+(a) The diversion point stays within 500 feet of the point of diversion on record  with the Water
+Resources  Department;
+(b) The change does not move the diversion point upstream or downstream beyond the diversion
+point of another appropriator; and
+(c) The diversion is provided with a proper fish screen,  if requested by the State Department
+of Fish and Wildlife.
+(6) In the event that government action results in  or creates a reasonable expectation of a
+change in the surface level of a surface water source that impairs or threatens  to impair access to
+a point of diversion authorized by a water right  permit, certificate or decree, the owner of the water
+right may change the point of diversion or add  an additional point of diversion in accordance with
+the provisions of this section in lieu of complying with the requirements  of ORS 540.520 and 540.530.
+Before changing the point of diversion, the water right  owner shall provide written notice of the
+proposed change to the Water Resources Department. Within 15  days after receipt of such notice,
+the department shall provide notice by publication  in the department’s public notice of water right
+applications.  Within  60 days after the department receives notice from the owner, the Water Re-
+sources Director, by  order, shall approve the change unless the director finds the changes will result
+in injury to other existing water rights.  All other terms and conditions of the water right shall re-
+main in effect.
+(7) The sale or lease of the right to the use of conserved water under  ORS 537.490 does not
+constitute a change of use or a change in the place of use of water for purposes of ORS 540.520.
+(8) Ground water  applied to an exempt use as set forth in ORS 537.141 or 537.545 may be sub-
+[2]
+HB 3103
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sequently applied to land for irrigation purposes under ORS  537.141 (1)(i) or 537.545 (1)(g) without
+application for a change in use or place of use under this section.
+SECTION 2.
+ ORS 540.520 is amended to read:
+540.520. (1)(a) Except  when the application is made under ORS 541.327 or when an application
+for a temporary transfer is  made under ORS 540.523, if the holder of a water use subject to transfer
+for irrigation, domestic use, manufacturing purposes, or other use, for any reason  desires to change
+the place of use, the point of diversion, or the  use made of the water, an application to make such
+change, as the case may be, shall be filed with the Water Resources Department.
+(b) A holder of a water right  certificate that allows the storage of water may change the
+use of the water as described in this section.
+(2) The application required under subsection (1) of this section shall include:
+(a) The name of the owner;
+(b) The previous use of the water;
+(c) A description of the premises upon which the water is used;
+(d) A description of the premises upon which it is proposed to use the water;
+(e) The use that is proposed to be made of the water;
+(f) The reasons for making the proposed change; and
+(g) Evidence that the water has been used  over the past five years according to the terms and
+conditions of the owner’s water right certificate  or that the water right is not subject to forfeiture
+under ORS 540.610.
+(3) If the application required under subsection (1) of this section  is necessary to allow a change
+in a water right pursuant to ORS  537.348, is necessary to complete a project funded under ORS
+541.932, or is approved by the State Department of Fish and  Wildlife as a change that will result in
+a net benefit to  fish and wildlife habitat, the department, at the discretion of the Water Resources
+Director, may waive or assist the applicant in satisfying the requirements of subsection  (2)(c) and
+(d) of this section. The assistance provided by the department may include,  but need not be limited
+to, development of an application map.
+(4) If  the application is to change the point of diversion, the transfer shall include a condition
+that the holder of the water right provide a proper  fish screen at the new point of diversion, if re-
+quested by the State Department of Fish and Wildlife.
+(5) Upon the filing of the application the department shall give notice by publication  in a
+newspaper having general circulation in the area in which the water rights are located,  for a period
+of at least two weeks and not less than one publication  each week. The notice shall include the date
+on which the last notice by publication will occur. The cost of the  publication shall be paid by the
+applicant in advance to the department. In  applications for only a change in place of use or for a
+change in the point of diversion of less than one-fourth mile, and where there  are no intervening
+diversions between the  old diversion of the applicant and the proposed new diversion, no newspaper
+notice need be published. The department shall include notice of such applications  in the weekly
+notice published by the department.
+(6) Within 30 days after the last publication of a newspaper notice of the proposed transfer  or
+the mailing of the department’s weekly notice, whichever is later,  any person may file, jointly or
+severally, with the department, a protest against approval of the application.
+(7) If a timely protest is filed, or  in the opinion of the Water Resources Director a hearing is
+necessary to determine whether the proposed changes as described  by the application would result
+in injury to existing water rights, the department shall hold a hearing  on the matter. Notice and
+[3]
+HB 3103
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+conduct of the hearing shall be under  the provisions of ORS chapter 183, pertaining to contested
+cases, and shall be held in the area  where the rights are located unless all parties and persons who
+filed a protest under this subsection stipulate otherwise.
+(8) An application for a change of use under this section is not required  if the beneficial use
+authorized by the water use subject to transfer is irrigation  and the owner of the water right uses
+the water for incidental agricultural, stock  watering and other uses related to irrigation use, so long
+as there is no increase in the rate, duty, total acreage benefited or season of use.
+(9) A water right transfer under subsection (1) of this section is not required for  a general in-
+dustrial use that was not included in a water right certificate issued for a  specific industrial use if:
+(a) The quantity of water  used for the general industrial use is not greater than the rate allowed
+in the original water right and not  greater than the quantity of water diverted to satisfy the au-
+thorized specific use under the original water right;
+(b) The location where the water is to be used for  general industrial use was owned by the
+holder of the original water right at the time the water right permit was issued; and
+(c) The person who makes the change in water  use provides the following information to the
+Water Resources Department:
+(A) The name and mailing address of the person using water under the water right;
+(B) The water right certificate number;
+(C) A description  of the location of the industrial facility owned by the holder of the original
+water right at the time the water right permit was issued; and
+(D) A description of the general industrial use to be made of the water after the change.
+[4]
