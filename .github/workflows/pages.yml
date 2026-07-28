@@ -47,11 +47,24 @@ jobs:
       # a build dependency here, not just a runtime one.
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Check the visualization is not stale
+      - name: Check the visualizations are not stale
         # viz/*.html is committed. If a measure ingest changed the numbers and nobody re-ran
-        # the generator, fail here rather than deploying a chart that disagrees with the
+        # the generators, fail here rather than deploying a chart that disagrees with the
         # corpus it claims to describe.
+        #
+        # The topic map is checked from its COMMITTED html only — regenerating it needs
+        # embeddings (torch + a 2.3 GB model) and a GPU to be quick, neither of which CI has.
+        # build_topic_map.py --check reads the embedding artifact, so it is run separately
+        # below and skipped when that artifact is absent.
         run: python3 src/build_measure_citations.py --check
+      - name: Check the topic map is not stale (only if embeddings are present)
+        run: |
+          if [ -f _meta/embeddings/meta.json ]; then
+            pip install -r requirements-embeddings.txt
+            python3 src/build_topic_map.py --check
+          else
+            echo "no embedding artifact in CI — topic map staleness is gated locally"
+          fi
       - name: Build the site
         run: python3 src/build_site.py
       - uses: actions/configure-pages@v5

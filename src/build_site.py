@@ -31,6 +31,10 @@ MCP_URL = "https://oregonai.morficflux.com/oregon-legislature/mcp"
 
 # (title, filename, one-line description) — copied into site/ and shown in the gallery
 VIZZES = [
+    ("Bills that look alike share a fate", "topic-map.html",
+     "Every measure placed by meaning, coloured by whether it was enrolled. Bills whose "
+     "semantic neighbours were enrolled tend to be enrolled themselves — and the clusters "
+     "asking an agency to <em>study</em> something enrol at 8% against a 21% base."),
     ("Statutes said vs statutes cited", "bill-statute-citations.html",
      "A measure's summary field names a minority of the statutes its own text references — "
      "and almost never one the text misses. The measured case for mirroring bill text."),
