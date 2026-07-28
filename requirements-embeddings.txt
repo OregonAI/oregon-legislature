@@ -1,0 +1,24 @@
+# Optional extra: building the semantic topic map (src/build_measure_embeddings.py and
+# src/build_topic_map.py). NOT needed to run the MCP server, validate the corpus, or build
+# the landing page — the base install (requirements.txt) stays light.
+#
+# This is a LOCAL build step. The deploy host has no GPU, and the generated artifacts
+# (viz/topic-map.html) are committed, so CI only checks staleness and never re-embeds.
+numpy
+# 2-D projection of the measure embeddings.
+umap-learn
+# Clustering (MiniBatchKMeans) and TF-IDF cluster labelling. Declared explicitly rather than
+# relied on as a transitive dependency of umap-learn — the sibling corpus does the latter,
+# which works until umap changes its dependency tree.
+scikit-learn
+# Point-biserial correlation for the neighbourhood statistic the map reports.
+scipy
+# Production embedding backend: BAAI/bge-m3, 1024-dim. On a CUDA host, plain `pip install
+# torch` resolves a CUDA-enabled wheel. CPU-only hosts should instead use:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+# Measures here are short (a catch line plus a summary), so this runs in about 20 seconds
+# on a GPU and is tolerable on CPU.
+torch
+sentence-transformers
+# CPU-appropriate fallback backend, auto-selected by `--backend auto` when no GPU is present.
+model2vec
