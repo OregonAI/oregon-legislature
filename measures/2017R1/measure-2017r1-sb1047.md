@@ -1,0 +1,355 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2017r1-sb1047
+title: 'SB 1047 (2017R1): Requires Department of Education to develop model plan for conducting tests
+  for certain environmental hazards in facilities owned or leased by school districts or public charter
+  schools where students or staff are present on regular basis and for reporting test results.'
+doc_type: dataset_doc
+citation: 2017 Regular Session Senate Bill 1047
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB1047/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: f8a1ab2836755297e8fa63003991653e02819ad02cc27e6ad3ab50adf4cff660
+snapshot_id: measure-2017r1-sb1047-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 286A.801
+  - ORS 326.125
+  - ORS 327.008
+  - ORS 332.166
+  - ORS 332.167
+  - ORS 634.700
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2017r1
+- sb
+session_key: 2017R1
+measure_prefix: SB
+measure_number: 1047
+prefix_meaning: Senate Bill
+catch_line: Requires Department of Education to develop model plan for conducting tests for certain environmental
+  hazards in facilities owned or leased by school districts or public charter schools where students or
+  staff are present on regular basis and for reporting test results.
+minority_catch_line: null
+measure_summary: "\tRequires Department of Education to develop model plan for conducting tests for certain\
+  \ environmental hazards in facilities owned or leased by school districts or public charter schools\
+  \ where students or staff are present on regular basis and for reporting test results. Requires Oregon\
+  \ Health Authority to adopt rules regarding testing for certain environmental hazards by school districts\
+  \ and public charter schools. \n\tRequires school districts and public charter schools to test for certain\
+  \ environmental hazards in facilities owned or leased by districts or schools where students or staff\
+  \ are present on regular basis. Requires school districts and public charter schools to report results\
+  \ of facility testing and to provide annual statement regarding facility testing conducted under plan.\
+  \ \n\tEstablishes Healthy School Facilities Fund. Appropriates moneys from fund to Department of Education\
+  \ for purpose of financial assistance to school districts and public charter schools in adoption, administration\
+  \ and enforcement of plans regarding testing for certain environmental hazards in facilities where students\
+  \ or staff are present on regular basis. Authorizes department to transfer to Healthy School Facility\
+  \ Fund up to $2 million during 2019-2021 biennium from State School Fund moneys available to Office\
+  \ of School Facilities for school facility grants. \n\tExpands types of assessment qualifying for Office\
+  \ of School Facilities hardship grants to include school district assessment for environmental hazards\
+  \ under plan."
+relating_to: Relating to environmental conditions in school facilities.
+relating_to_full: Relating to environmental conditions in school facilities; creating new provisions;
+  amending ORS 326.125; and repealing ORS 332.166 and 332.167 and section 3, chapter 729, Oregon Laws
+  2015.
+at_the_request_of: null
+lc_number: 4405
+measure_created_date: '2017-04-03T13:57:02'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 16976
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 286A.801
+  - ORS 326.125
+  - ORS 327.008
+  - ORS 332.166
+  - ORS 332.167
+  - ORS 634.700
+  from_relating_to_full:
+  - ORS 326.125
+  - ORS 332.166
+  - ORS 332.167
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1047`.
+
+# SB 1047 — 2017 Regular Session (2017R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1047, 2017 Regular Session (2017R1)
+- **LC number:** 4405
+- **Created:** 2017-04-03T13:57:02
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 16976 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB1047/Introduced>.
+
+## Summary
+
+**Catchline:** Requires Department of Education to develop model plan for conducting tests for certain environmental hazards in facilities owned or leased by school districts or public charter schools where students or staff are present on regular basis and for reporting test results.
+
+**Relating to:** Relating to environmental conditions in school facilities.
+
+Requires Department of Education to develop model plan for conducting tests for certain environmental hazards in facilities owned or leased by school districts or public charter schools where students or staff are present on regular basis and for reporting test results. Requires Oregon Health Authority to adopt rules regarding testing for certain environmental hazards by school districts and public charter schools. 
+ Requires school districts and public charter schools to test for certain environmental hazards in facilities owned or leased by districts or schools where students or staff are present on regular basis. Requires school districts and public charter schools to report results of facility testing and to provide annual statement regarding facility testing conducted under plan. 
+ Establishes Healthy School Facilities Fund. Appropriates moneys from fund to Department of Education for purpose of financial assistance to school districts and public charter schools in adoption, administration and enforcement of plans regarding testing for certain environmental hazards in facilities where students or staff are present on regular basis. Authorizes department to transfer to Healthy School Facility Fund up to $2 million during 2019-2021 biennium from State School Fund moneys available to Office of School Facilities for school facility grants. 
+ Expands types of assessment qualifying for Office of School Facilities hardship grants to include school district assessment for environmental hazards under plan.
+
+**RelatingToFull (verbatim upstream field):** Relating to environmental conditions in school facilities; creating new provisions; amending ORS 326.125; and repealing ORS 332.166 and 332.167 and section 3, chapter 729, Oregon Laws 2015.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Senate Bill 1047
+Sponsored by Senator DEMBROW, Representative KENY-GUYER; Senators GELSER,  MONNES ANDERSON,
+PROZANSKI, RILEY,  TAYLOR, Representatives DOHERTY, GORSEK, HERNANDEZ, HOLVEY, LININGER,
+MALSTROM, NOSSE, PILUSO, SANCHEZ
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires Department  of Education to develop model plan for conducting tests for certain envi-
+ronmental hazards in facilities owned or leased by school districts  or public charter schools where
+students or staff are present on regular basis and for reporting test results. Requires Oregon  Health
+Authority to adopt  rules regarding testing for certain environmental hazards by school districts and
+public charter schools.
+Requires school districts and public charter schools to test for  certain environmental hazards
+in facilities owned  or leased by districts or schools where students or staff are present on regular
+basis. Requires school districts and public charter schools to report results of facility  testing and
+to provide annual statement regarding facility testing conducted under plan.
+Establishes Healthy  School Facilities Fund. Appropriates moneys from fund to Department of
+Education for purpose of  financial assistance to school districts and public charter schools in
+adoption, administration  and enforcement of plans regarding testing for certain environmental haz-
+ards in  facilities where students or staff are present on regular basis. Authorizes department to
+transfer to Healthy School  Facility Fund up to $2 million during 2019-2021 biennium from State
+School Fund moneys available to Office of School Facilities for school facility grants.
+Expands types of assessment qualifying for Office of School Facilities hardship grants to  include
+school district assessment for environmental hazards under plan.
+A BILL FOR AN ACT
+Relating to environmental conditions in  school facilities; creating new provisions; amending ORS
+326.125; and repealing ORS 332.166 and 332.167 and section 3, chapter 729, Oregon Laws 2015.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. (1) A school district shall develop and adopt a plan for the testing of all
+school facilities owned or leased by the school district where students or  staff are present
+on a regular basis. A public charter school shall develop and adopt a plan  for the testing of
+all school facilities owned or leased by the public charter school where students or  staff are
+present on a  regular basis. The Department of Education, in consultation with the Oregon
+Health Authority, the Department of Environmental Quality  and other interested
+stakeholders, shall develop and adopt a model plan to provide guidance to school districts and
+public charter schools in developing and adopting plans under this section.
+(2) A school district or public charter school  shall submit a plan developed and adopted
+under this section to the Department of  Education for review and approval under this sec-
+tion. The school district or public charter school shall annually  review the plan. If the in-
+formation contained in a school district or public charter school  plan has changed since the
+preceding annual review due  to the acquisition or remodeling of a facility, the termination
+of regular use of the facility by students and staff or a  modification in the method, location,
+scope, frequency or other aspects of testing, the school  district or public charter school shall
+submit a revised plan to the department for review and approval.
+(3) A plan developed and adopted under this section shall, at a  minimum, include the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4405
+following:
+(a) The  identification of, and contact information for, a position within the adminis-
+tration of the school district or public charter school having responsibility  for maintaining
+and overseeing performance of the plan.
+(b) A list of all  facilities of the school district or public charter school subject to the plan.
+(c) Provisions regarding testing for elevated levels of radon.
+(d) Provisions regarding testing for elevated levels of carbon monoxide.
+(e) Provisions regarding testing  for, and mitigation of, elevated levels of lead in water
+used for drinking or food preparation as provided by Oregon Health Authority rules.
+(f) Provisions regarding testing for, and mitigation  of, asbestos as provided by authority
+rules.
+(g) Procedures for identifying the presence of mold.
+(h) Provisions for carrying out integrated  pest management as provided under ORS
+634.700 to 634.750.
+(4)(a) The Oregon Health Authority shall adopt rules in consultation with the Department
+of Education, representatives of  school districts and public charter schools and other inter-
+ested stakeholders for carrying out this  section. The rules adopted by the authority under
+this subsection shall include, but need not be limited to, rules regarding:
+(A) Testing for elevated levels of radon;
+(B) Testing for elevated levels of carbon monoxide;
+(C) Testing for, and mitigation of,  elevated levels of lead in water used for drinking or
+food preparation; and
+(D) Testing for, and the mitigation of, asbestos.
+(b) In adopting rules under paragraph (a)(D) of this  subsection, the authority shall give
+consideration to any requirements under federal law or  the laws of this state. The rules shall
+include, but need not be limited  to, requirements for the school district or public charter
+school to:
+(A) Ensure that all custodial and maintenance personnel  are properly trained regarding
+the rules;
+(B) Ensure  that any inspection, monitoring or mitigation activities are performed in
+compliance with the rules;
+(C) Annually inform facility occupants, and the parents of minor students, of ongoing or
+planned inspections, response actions and reinspection, surveillance and other post-response
+actions regarding asbestos;
+(D) Provide repairers, utility workers, pest control workers or  other temporary workers
+appropriate notice regarding areas where asbestos is present or suspected to be  present and
+the form of the asbestos or suspected asbestos;
+(E) Post warning  labels immediately adjacent to asbestos-containing building materials,
+suspected asbestos-containing building materials and  suspected asbestos-containing materi-
+als that are located in boiler rooms or other routine maintenance areas;
+(F) Make information regarding the testing and mitigation of asbestos under the  plan
+available and provide notice of that availability; and
+(G) Include  provisions for avoiding conflicts of interest among personnel engaged in
+testing and remediation of asbestos.
+(5) A school district or public charter school shall  ensure that the person having re-
+sponsibility for maintaining and overseeing performance of the plan and  adopted under this
+section, or a designee of the person, receives appropriate training regarding:
+(a) The health effects of asbestos;
+(b) Appropriate methods for detecting, identifying and assessing asbestos-containing
+materials;
+(c) Options for the control of asbestos-containing building material;
+(d) Asbestos management; and
+(e) Requirements regarding asbestos imposed by the  United States Department of Labor,
+including but  not limited to the Occupational Safety and Health Administration, or by the
+United States Department  of Transportation, the United States Environmental Protection
+Agency, federal or state law or Oregon Health Authority rules.
+(6) In addition to adoption of rules required under subsection (4) of this section,  the
+Oregon Health Authority, in consultation with the Department of Education, representatives
+of school districts and public charter schools and other  interested stakeholders, may adopt
+rules to assist school districts and public charter schools in:
+(a) Following  appropriate procedures when testing for or mitigating the presence of
+lead-based paint. In adopting the rules, the authority shall  give consideration to any re-
+quirements under federal law or the laws of this state.
+(b) Limiting  or reducing exposure to high levels of diesel engine exhaust gases at facili-
+ties where diesel engine exhaust may be present.
+(c) Effectively disseminating information regarding the identification  of mold, including
+but not limited to advice regarding how to recognize the presence of mold.
+(7) The Oregon Health Authority shall develop information sheets for use by school dis-
+tricts and public charter schools to inform staff, students, parents  of minor students and
+other interested stakeholders about  substances that may present health concerns if present
+in school facilities, including but not limited to elevated levels of lead in water  used for
+drinking or food preparation, lead-based paint and mold.
+(8) The Department of Education, in consultation with  the Oregon Health Authority,
+representatives of school districts and public charter  schools and other interested
+stakeholders, shall make opportunities for professional development  available to school dis-
+trict and public charter school staff regarding  plan and information requirements under this
+section and the annual statement required by section 2 of this 2017 Act.
+SECTION 2.
+(1) A school district or public charter school shall make the results  of tests
+conducted under a plan described in section 1 of this 2017 Act available to the public no later
+than five days business days after receiving  the test results. The test result information
+must include, but need not be  limited to a detailed explanation of the significance of the test
+results. The school district or public charter school shall make the test results available  by:
+(a) Posting the test results on a website maintained by the school  district or public
+charter school;
+(b) Sending electronic mail to  staff, students and parents of minor students for whom the
+school district or public charter school has electronic mail addresses on file; and
+(c) Making the  test results available in printed form at the administrative headquarters
+for the school district or public charter school.
+(2) A school district or public charter school shall provide an  annual statement regarding
+the plan developed and adopted by  the school district or public charter school under section
+1 of this 2017 Act. The school district or public school shall provide the statement to:
+(a) The governing body for the school district or public charter school;
+(b) The parents of minor students; and
+(c) Any students 18 years of age or older.
+(3) The annual  statement under subsection (2) of this section shall include, but need not
+be limited to the following  information regarding the plan developed and adopted by the
+school district or public charter school under section 1 of this 2017 Act:
+(a) Identification of, and contact information for, the position within the  administration
+of the school district or  public charter school having responsibility for maintaining and
+overseeing performance of the plan;
+(b) Information regarding the  number and general type of inquiries received from staff,
+students or their parents, or other stakeholders;
+(c) Information regarding where copies of the plan are available;
+(d) A certification that the school district or public charter school is  in compliance with
+testing requirements under the plan;
+(e) Information about how to obtain the results of tests conducted under the plan; and
+(f) A  summary of major mitigation activities conducted under the plan since the preced-
+ing annual statement.
+(4) A school  district or public charter school shall post the annual statement described
+in subsection (3) of this section on a website maintained by the  school district or public
+charter school and make the annual statement available in printed form at  the administra-
+tive headquarters of the school district or public charter school.
+(5) The Department of Education shall adopt,  in consultation with the Oregon Health
+Authority, representatives of school districts and public charter schools  and other interested
+stakeholders, rules for carrying out this section.
+SECTION 3.
+(1) The Healthy School  Facilities Fund is established in the State Treasury,
+separate and distinct from the  General Fund. Interest earned by the Healthy School Facili-
+ties Fund shall be credited to the fund.
+(2) Moneys in the fund are continuously appropriated to the  Department of Education for
+the purpose of providing  financial assistance to school districts and public charter schools
+in carrying out the  adoption, administration and enforcement of plans described in section
+1 of this 2017 Act, including but not limited to the conducting  of testing and mitigation ac-
+tivities.
+SECTION 4. Notwithstanding ORS 327.008, for the biennium  beginning July 1, 2019, the
+Department of Education may transfer up to $2 million of the  moneys available to the de-
+partment from the State School Fund for facility grants  as provided by ORS 327.008 (7) to
+the Healthy School Facilities Fund for  use by the department as provided in section 3 of this
+2017 Act.
+SECTION 5.  ORS 326.125 is amended to read:
+326.125. For the purpose  of assisting school districts with capital costs, the Office of School
+Facilities is established within the Department of Education. The office shall be responsible for:
+(1) Distributing hardship grants to school districts with facility needs. Grants awarded under
+this section may not exceed $500,000 and shall be  provided to school districts based on the order in
+which the Department of Education receives the completed  applications for the grants. A school
+district may be eligible for a grant  under this subsection if the school district meets requirements
+established by the State  Board of Education by rule, including any requirements to provide matching
+funds.
+(2) Providing technical assistance and establishing and maintaining  standards for facilities as-
+sessments and long-range facilities plans for school districts.
+(3) Administering a certification program for qualified providers of technical assistance  for the
+purposes described in subsection (2) of this section.
+(4) Providing grants to school districts for the  cost of technical assistance for the purposes de-
+scribed in subsection (2) of  this section. The State Board of Education may establish by rule re-
+quirements for a school district to receive a grant under  this subsection. Grants for a school district
+under this subsection may not exceed:
+(a) $20,000 for a facilities assessment;
+(b) $25,000 for a long-range facilities plan; [ and]
+(c) $25,000 for an  assessment of school facilities for potential environmental hazards un-
+der section 1 of this 2017 Act; and
+[(c)] (d) $25,000 for a seismic assessment or other specialized assessment.
+(5) Maintaining the Oregon School Facilities Database. The  database must include information
+that:
+(a) Assists with analyzing, planning and prioritizing school  capital improvement needs for school
+districts by providing district-to-district and school-to-school comparisons; and
+(b) Is required by the State Board of Education by rule.
+(6) Administering the grant program described in ORS 286A.801.
+SECTION 6.
+ORS 332.166 and 332.167 and section 3, chapter 729, Oregon Laws 2015, are
+repealed.
+SECTION 7.  (1) The Department of Education shall develop and adopt a  model plan under
+section 1 of this 2017 Act and  make the plan available to school districts and public charter
+schools no later than January 1, 2019.
+(2) Each school district and public charter school shall submit  a plan meeting the re-
+quirements of sections 1 and 2 of this 2017 Act to the Department of  Education no later than
+180 days after the department  completes the adoption of a model plan under subsection (1)
+of this section. A plan must include a schedule for the implementation of  testing. However,
+except for the  purpose of evaluating mitigation efforts, the department may not require a
+school district or public charter school to conduct testing for elevated levels of radon at  a
+facility within 10 years of any testing for elevated levels of radon at the facility  conducted
+under ORS 332.167 (2015 Edition).
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 326.125, ORS 332.166, ORS 332.167
+- From bill text (Introduced version): ORS 286A.801, ORS 326.125, ORS 327.008, ORS 332.166, ORS 332.167, ORS 634.700
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `f8a1ab2836755297e8fa63003991653e02819ad02cc27e6ad3ab50adf4cff660` (snapshot `_meta/snapshots/measure-2017r1-sb1047-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB1047/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1047` (part of the batched per-session fetch), sha256 `8a531c771f7c0531d1b6a422bf18d037d210e0e6cb92f247a009fd99e6400c68` of the shared session snapshot `_meta/snapshots/measures-2017r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

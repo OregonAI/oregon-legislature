@@ -1,0 +1,822 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2018r1-hb4028
+title: 'HB 4028 (2018R1): Limits expenses for which dependent care income tax credit may be claimed to
+  earned income taxable by Oregon , using lesser amount attributable to either spouse on joint return.'
+doc_type: dataset_doc
+citation: 2018 Regular Session House Bill 4028
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4028/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 00309f1585716dbd4a18309b0c5850cf312c391c2d22c45e0f9110a76999a269
+snapshot_id: measure-2018r1-hb4028-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 286A.001
+  - ORS 307.150
+  - ORS 307.155
+  - ORS 307.330
+  - ORS 307.512
+  - ORS 307.515
+  - ORS 307.517
+  - ORS 307.518
+  - ORS 307.521
+  - ORS 307.523
+  - ORS 307.527
+  - ORS 307.529
+  - ORS 307.531
+  - ORS 307.535
+  - ORS 307.545
+  - ORS 308.215
+  - ORS 311.370
+  - ORS 311.411
+  - ORS 314.085
+  - ORS 314.440
+  - ORS 315.176
+  - ORS 315.184
+  - ORS 315.264
+  - ORS 315.514
+  - ORS 315.516
+  - ORS 316.117
+  - ORS 316.187
+  - ORS 316.502
+  - ORS 317.097
+  - ORS 446.003
+  - ORS 466.706
+  - ORS 65.001
+  - ORS 706.008
+  - ORS 92.095
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2018r1
+- hb
+session_key: 2018R1
+measure_prefix: HB
+measure_number: 4028
+prefix_meaning: House Bill
+catch_line: Limits expenses for which dependent care income tax credit may be claimed to earned income
+  taxable by Oregon , using lesser amount attributable to either spouse on joint return.
+minority_catch_line: null
+measure_summary: "\tLimits expenses for which dependent care income tax credit may be claimed to \t<i>combination\
+  \ of</i>] earned income taxable by Oregon \t<i>and imputed income</i>], using lesser amount attributable\
+  \ to either spouse on joint return. \t<i>Provides for calculation based upon imputed income to allow\
+  \ degree-seeking enrolled student to claim credit.</i>] \n\tModifies annual limitation on total amount\
+  \ of tax credits for production or collection of bovine manure allowed for all taxpayers by tying limitation\
+  \ to calendar year instead of tax year. Modifies terms. \n\tProvides that qualified borrower on loan\
+  \ related to manufactured dwelling park for which lending institution may be allowed tax credit for\
+  \ qualified loan includes nonprofit corporation or housing authority with controlling interest in real\
+  \ property. \n\tApplies to tax years beginning on or after January 1, 2018. \n\tAllows Legislative Assembly\
+  \ to appropriate to Oregon Production Investment Fund balance of amount allowed for certification, but\
+  \ not certified, for tax credit for contributions to fund for current or upcoming fiscal year. \n\t\
+  Applies to fiscal years beginning on or after July 1, 2017. \n\t<b>Provides for transfer and abatement\
+  \ of clawback of property taxes not imposed with respect to land that ceases to be exempt as land held\
+  \ for cemetery or crematory purposes if land is purchased for purpose of providing low income housing\
+  \ subject to certain property tax exemption programs for at least 10 consecutive property tax years.\
+  \ \n\tAdjusts sunset date for property tax exemption for low income rental housing. \n\tFor purposes\
+  \ of certain economic development property tax benefits, provides that \"eligible location\" includes\
+  \ location not formerly used for industrial purposes and \"eligible property\" may be property appraised\
+  \ either by county or by Department of Revenue and clarifies definition of \"rural area.\"</b> \n\t\
+  Takes effect on 91st day following adjournment sine die."
+relating_to: Relating to tax expenditures; and prescribing an effective date.
+relating_to_full: Relating to tax expenditures; and prescribing an effective date.
+at_the_request_of: (at the request of House Interim Committee on Revenue)
+lc_number: 223
+measure_created_date: '2018-01-11T08:43:29'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 45884
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 286A.001
+  - ORS 307.150
+  - ORS 307.155
+  - ORS 307.330
+  - ORS 307.512
+  - ORS 307.515
+  - ORS 307.517
+  - ORS 307.518
+  - ORS 307.521
+  - ORS 307.523
+  - ORS 307.527
+  - ORS 307.529
+  - ORS 307.531
+  - ORS 307.535
+  - ORS 307.545
+  - ORS 308.215
+  - ORS 311.370
+  - ORS 311.411
+  - ORS 314.085
+  - ORS 314.440
+  - ORS 315.176
+  - ORS 315.184
+  - ORS 315.264
+  - ORS 315.514
+  - ORS 315.516
+  - ORS 316.117
+  - ORS 316.187
+  - ORS 316.502
+  - ORS 317.097
+  - ORS 446.003
+  - ORS 466.706
+  - ORS 65.001
+  - ORS 706.008
+  - ORS 92.095
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2018R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4028`.
+
+# HB 4028 — 2018 Regular Session (2018R1)
+
+## At a glance
+
+- **Measure:** House Bill 4028, 2018 Regular Session (2018R1)
+- **At the request of:** (at the request of House Interim Committee on Revenue)
+- **LC number:** 223
+- **Created:** 2018-01-11T08:43:29
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 45884 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4028/Enrolled>.
+
+## Summary
+
+**Catchline:** Limits expenses for which dependent care income tax credit may be claimed to earned income taxable by Oregon , using lesser amount attributable to either spouse on joint return.
+
+**Relating to:** Relating to tax expenditures; and prescribing an effective date.
+
+Limits expenses for which dependent care income tax credit may be claimed to  <i>combination of</i>] earned income taxable by Oregon  <i>and imputed income</i>], using lesser amount attributable to either spouse on joint return.  <i>Provides for calculation based upon imputed income to allow degree-seeking enrolled student to claim credit.</i>] 
+ Modifies annual limitation on total amount of tax credits for production or collection of bovine manure allowed for all taxpayers by tying limitation to calendar year instead of tax year. Modifies terms. 
+ Provides that qualified borrower on loan related to manufactured dwelling park for which lending institution may be allowed tax credit for qualified loan includes nonprofit corporation or housing authority with controlling interest in real property. 
+ Applies to tax years beginning on or after January 1, 2018. 
+ Allows Legislative Assembly to appropriate to Oregon Production Investment Fund balance of amount allowed for certification, but not certified, for tax credit for contributions to fund for current or upcoming fiscal year. 
+ Applies to fiscal years beginning on or after July 1, 2017. 
+ <b>Provides for transfer and abatement of clawback of property taxes not imposed with respect to land that ceases to be exempt as land held for cemetery or crematory purposes if land is purchased for purpose of providing low income housing subject to certain property tax exemption programs for at least 10 consecutive property tax years. 
+ Adjusts sunset date for property tax exemption for low income rental housing. 
+ For purposes of certain economic development property tax benefits, provides that "eligible location" includes location not formerly used for industrial purposes and "eligible property" may be property appraised either by county or by Department of Revenue and clarifies definition of "rural area."</b> 
+ Takes effect on 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to tax expenditures; and prescribing an effective date.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2018 Regular Session
+Enrolled
+House Bill 4028
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House In-
+terim Committee on Revenue)
+CHAPTER .................................................
+AN ACT
+Relating to tax expenditures;  creating new provisions; amending ORS 307.517, 307.518, 307.523,
+307.529, 307.535, 315.176, 315.184, 315.264, 315.516 and 317.097 and section 1, chapter 112, Oregon
+Laws 2016; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 315.176 is amended to read:
+315.176. (1) As used in this section:
+(a) “Biofuel” means liquid, gaseous or solid fuels,  derived from biomass, that have been con-
+verted into a processed fuel ready for use as energy by a biofuel  producer’s customers or for direct
+biomass energy use at the biofuel producer’s site.
+(b) “Biofuel producer” means a person that, through activities in Oregon:
+(A) Alters the physical makeup of biomass to convert it into biofuel;
+(B) Changes one biofuel into another type of biofuel; or
+(C) Uses biomass in Oregon to produce energy.
+(c) “Bovine manure” means, subject to subsection (2) of  this section, [ cow] cattle manure that
+is produced [ by cows ] on Oregon farms.
+(d) “Bovine manure producer or collector”  means a person that produces or collects bovine
+manure in Oregon that is used, in Oregon, as biofuel or to produce biofuel.
+(e) “Cattle” means cows, heifers, bulls, steers or calves.
+(2) The Director of Agriculture may adopt rules to define criteria, only as the criteria  apply to
+bovine  manure, to determine additional characteristics of bovine manure for purposes of this section.
+(3)(a) A bovine manure producer or  collector shall be allowed a credit against the taxes that
+would otherwise be due under ORS chapter  316 or, if the taxpayer is a corporation, under ORS
+chapter 317 or 318 for the collection  of bovine manure in Oregon that is used, in Oregon, as biofuel
+or to produce biofuel.
+(b) A credit under this  section may be claimed in the tax year in which the credit is certified
+under this section.
+(c) A credit under this section may be claimed only once for each wet ton of bovine manure.
+(4) The amount of the credit shall be calculated at a  rate of $3.50 per wet ton, as certified under
+this section.
+(5)(a) The State Department of Agriculture may establish by rule procedures and criteria  for
+determining the amount of the tax  credit to be certified under this section. The department shall
+provide written certification to taxpayers that are eligible to claim the credit under this section.
+Enrolled House Bill 4028 (HB 4028-B) Page 1
+(b) The State Department of Agriculture may charge  and collect a fee from taxpayers for cer-
+tification of credits under this section. The fee may not exceed the cost to  the department of issuing
+certifications.
+(6) All fees collected under this section shall be deposited in the  State Treasury to the credit
+of the Department of Agriculture  Service Fund. Moneys deposited under this section are contin-
+uously appropriated to the department for the purpose of administering and enforcing  the provisions
+of this section.
+(7)(a) The Department of Revenue may [ by rule ] require that the State Department of Agricul-
+ture provide information  about the certification issued under this section, including the name and
+taxpayer identification number of the  taxpayer or other person receiving certification, the date the
+certification was issued in its final form, the  approved amount of credit and the first tax year for
+which the credit may be claimed.
+(b) A taxpayer that is  a pass-through entity that has received certification under this section
+shall provide [ the information described  in paragraph (a) of this subsection ] to the Department of
+Revenue within two months after the close of the tax year in which the certification was issued  the
+name, taxpayer identification number and any other information required by the department
+of each owner receiving a distributive share of the credit, in  a manner prescribed by the
+department.
+[(c) The Department of Revenue shall prescribe by rule the manner and the timing  of submission
+of the information to the department. ]
+(8) The amount of the credit claimed under this section for any tax year may not  exceed the tax
+liability of the taxpayer.
+(9) Each  bovine manure producer or collector shall maintain a record of the written certification
+of the amount of the tax credit under this section  for a period of at least five years after the tax
+year in which the credit is claimed and provide the written certification to the Department  of Re-
+venue upon request.
+(10) The credit  shall be claimed on a form prescribed by the Department of Revenue that con-
+tains the information required by the department.
+(11) Any tax credit otherwise allowable under this section that is not used  by the taxpayer in
+a particular tax year may be carried forward and offset against the taxpayer’s tax  liability for the
+next succeeding tax  year. Any credit remaining unused in the next succeeding tax year may be
+carried forward and used in  the second succeeding tax year, and likewise any credit not used in that
+second succeeding tax year may be carried  forward and used in the third succeeding tax year, and
+any credit not used in that third succeeding tax year may be carried forward and used in the  fourth
+succeeding tax year, but may not be carried forward for any tax year thereafter.
+(12) In the case of a credit allowed under this section:
+(a) A  nonresident shall be allowed the credit under this section in the proportion provided in
+ORS 316.117.
+(b) If a change in the status of  the taxpayer from resident to nonresident or from nonresident
+to resident occurs, the credit allowed by  this section shall be determined in a manner consistent
+with ORS 316.117.
+(c) If a change in the taxable  year of the taxpayer occurs as described in ORS 314.085, or if the
+department terminates the  taxpayer’s taxable year under ORS 314.440, the credit allowed under this
+section shall be prorated or computed in a manner consistent with ORS 314.085.
+SECTION 2.
+ ORS 315.184 is amended to read:
+315.184. The total amount  [claimed] certified by the State Department of Agriculture  for tax
+credits for the production or collection of bovine  manure under ORS 315.176 may not exceed $5
+million for all taxpayers for any [ tax] calendar year. If the [ State] department [ of Agriculture ] re-
+ceives applications for the credit  sufficient to exceed this amount, the department shall by rule
+proportionately reduce the amount of certified credits among all taxpayers applying for the credit.
+SECTION 3.  ORS 317.097 is amended to read:
+317.097. (1) As used in this section:
+Enrolled House Bill 4028 (HB 4028-B) Page 2
+(a) “Annual rate” means the yearly interest rate specified on the note, and  not the annual per-
+centage rate, if any, disclosed to the applicant to comply with the federal Truth in Lending Act.
+(b) “Finance charge” means the total of all interest,  loan fees, interest on any loan fees financed
+by the lending institution, and other charges related to the cost of obtaining credit.
+(c) “Lending institution” means any  insured institution, as that term is defined in ORS 706.008,
+any mortgage banking company that maintains an office  in this state or any community development
+corporation that is organized under the Oregon Nonprofit Corporation Law.
+(d) “Manufactured dwelling park” has the meaning given that term in ORS 446.003.
+(e) “Nonprofit corporation” means a corporation that is  exempt from income taxes under section
+501(c)(3) or (4) of the Internal Revenue Code as amended and in effect on December 31, 2016.
+(f) “Preservation project” means  housing that was previously developed as affordable housing
+with a contract for rent assistance from the United States Department  of Housing and Urban De-
+velopment or the United  States Department of Agriculture and that is being acquired by a spon-
+soring entity.
+(g) “Qualified assignee” means any investor participating in the secondary  market for real es-
+tate loans.
+(h) “Qualified borrower” means any borrower that is a sponsoring entity that has  a controlling
+interest in the real property  that is financed by a qualified loan. A controlling interest includes[ ,
+but is not limited to, ] a controlling interest in the general partner of a limited partnership that owns
+the real property.
+(i) “Qualified loan” means:
+(A) A loan that meets the criteria stated in subsection (5) of this section or that is made to  re-
+finance a loan that meets the criteria described in subsection (5) of this section; or
+(B) The purchase by a lending institution of bonds, as defined in ORS 286A.001, issued on  behalf
+of the Housing and Community Services Department, the proceeds of which are used to  finance or
+refinance a loan that meets the criteria described in subsection (5) of this section.
+(j) “Sponsoring entity” means a nonprofit corporation, nonprofit  cooperative, state governmental
+entity, local unit of government as defined in ORS 466.706, housing authority or any other  person,
+provided that the person has agreed to restrictive covenants imposed by  a nonprofit corporation,
+nonprofit cooperative, state governmental entity, local unit of government or housing authority.
+(2) The Department of Revenue  shall allow a credit against taxes otherwise due under this
+chapter for the taxable year to a lending institution that makes a qualified loan certified by  the
+Housing and  Community Services Department as provided in subsection (7) of this section. The
+amount of the credit is equal to the difference between:
+(a) The amount of finance  charge charged by the lending institution during the taxable year at
+an annual rate less than the market rate for a qualified loan that is made before January  1, 2026,
+that complies with the requirements of this section; and
+(b) The amount of finance charge that would have been charged during the taxable  year by the
+lending institution for the qualified loan for housing construction,  development, acquisition or re-
+habilitation measured at the annual rate charged by the lending  institution for nonsubsidized loans
+made under like terms and conditions  at the time the qualified loan for housing construction, de-
+velopment, acquisition or rehabilitation is made.
+(3) The maximum amount of  credit for the difference between the amounts described in sub-
+section (2)(a) and (b) of this section may not exceed four percent of the average unpaid  balance of
+the qualified loan during the tax year for which the credit is claimed.
+(4) Any tax credit allowed under  this section that is not used by the taxpayer in a particular
+year may be carried forward and offset against the taxpayer’s tax liability for the  next succeeding
+tax year. Any credit remaining unused in the next succeeding tax year may be  carried forward and
+used in the second succeeding  tax year, and likewise, any credit not used in that second succeeding
+tax year may be carried forward  and used in the third succeeding tax year, and any credit not used
+in that  third succeeding tax year may be carried forward and used in the fourth succeeding tax year,
+Enrolled House Bill 4028 (HB 4028-B) Page 3
+and any credit not used in that fourth succeeding tax year may be carried forward and used in the
+fifth succeeding tax year, but may not be carried forward for any tax year thereafter.
+(5) To be eligible for the tax credit  allowable under this section, a lending institution must make
+a qualified  loan by either purchasing bonds, as defined in ORS 286A.001, issued on behalf of the
+Housing and  Community Services Department, the proceeds of which are used to finance or refi-
+nance a loan that meets the criteria stated in this subsection, or by making a loan directly to:
+(a) An individual or individuals who own  a dwelling, participate in an owner-occupied commu-
+nity rehabilitation program and are certified by the  local government or its designated agent as
+having an income level when the loan is made of less than 80 percent of the area median income;
+(b) A qualified borrower who:
+(A) Uses the loan proceeds to  finance construction, development, acquisition or rehabilitation
+of housing; and
+(B) Provides  a written certification executed by the Housing and Community Services Depart-
+ment that the:
+(i) Housing  created by the loan is or will be occupied by households earning less than 80 percent
+of the area median income; and
+(ii) Full amount  of savings from the reduced interest rate provided by the lending institution is
+or will be passed on to the tenants in the form of reduced housing payments;
+(c) Subject to subsection (14) of this section, a qualified borrower who:
+(A) Uses the loan proceeds to finance  construction, development, acquisition or rehabilitation
+of housing consisting of a manufactured dwelling park; and
+(B) Provides a written certification executed by the Housing and Community Services  Depart-
+ment that the housing will continue to be operated as a manufactured dwelling park during the  pe-
+riod for which the tax credit is allowed; or
+(d) A qualified borrower who:
+(A) Uses the loan proceeds to finance acquisition or rehabilitation of  housing consisting of a
+preservation project; and
+(B) Provides  a written certification executed by the Housing and Community Services Depart-
+ment that the housing preserved by the loan:
+(i) Is  or will be occupied by households earning less than 80 percent of the area median income;
+and
+(ii) Is the subject of a rent  assistance contract with the United States Department of Housing
+and Urban Development or the United States Department of Agriculture  that will be maintained by
+the qualified borrower.
+(6) A loan made to refinance a loan that meets  the criteria stated in subsection (5) of this sec-
+tion must be treated the same  as a loan that meets the criteria stated in subsection (5) of this sec-
+tion.
+(7) For a qualified loan  to be eligible for the tax credit allowable under this section, the Housing
+and Community Services Department must execute a  written certification for the qualified loan that:
+(a) Specifies the period, not to exceed 20 years, as determined by the Housing and  Community
+Services Department, during which the tax credit is allowed for the qualified loan; and
+(b) States  that the qualified loan is within the limitation imposed by subsection (8) of this sec-
+tion.
+(8) The Housing and Community Services Department may certify qualified loans that are eligi-
+ble under subsection (5) of this section if the total credits attributable  to all qualified loans eligible
+for credits under this section and then outstanding do not exceed  $25 million for any fiscal year. In
+making loan certifications under subsection (7) of this section, the Housing and Community  Services
+Department shall attempt to distribute the  tax credits statewide, but shall concentrate the tax
+credits in those areas of the state that are determined by  the Oregon Housing Stability Council to
+have the greatest need for affordable housing.
+(9) The tax credit provided for in this section may be taken whether or not:
+Enrolled House Bill 4028 (HB 4028-B) Page 4
+(a) The financial institution is eligible to take  a federal income tax credit under section 42 of
+the Internal Revenue Code with respect to the project financed by the qualified loan; or
+(b) The project receives financing from  bonds, the interest on which is exempt from federal
+taxation under section 103 of the Internal Revenue Code.
+(10) For a qualified loan defined in subsection (1)(i)(B) of this section financed through  the pur-
+chase of  bonds, the interest of which is exempt from federal taxation under section 103 of the
+Internal Revenue Code, the amount of finance charge that would have been  charged under sub-
+section (2)(b) of this section is determined by reference to the finance charge that would  have been
+charged if the federally tax exempt bonds had been issued and the tax credit under  this section did
+not apply.
+(11) A lending institution may sell a qualified loan for which a certification  has been executed
+to a qualified assignee whether or not the lending institution retains servicing of the qualified  loan
+so long as a designated lending institution maintains records, annually verified by a loan  servicer,
+that establish the amount of tax credit earned by the taxpayer throughout each year of eligibility.
+(12) Notwithstanding any other provision of law, a lending  institution that is a community de-
+velopment corporation organized under the Oregon Nonprofit Corporation Law may transfer all or
+part of  a tax credit allowed under this section to one or more other lending institutions that are
+stockholders or members of the community development corporation or  that otherwise participate
+through the community development corporation in the making of one or more qualified loans  for
+which the tax credit under this section is allowed.
+(13) The  lending institution shall file an annual statement with the Housing and Community
+Services Department, specifying that it has conformed with all requirements imposed by law  to
+qualify for a tax credit under this section.
+(14) Notwithstanding subsection  (1)(h) and (j) of this section, a qualified borrower on a loan to
+finance the construction, development, acquisition or rehabilitation of a manufactured dwelling  park
+under subsection (5)(c) of this section must be :
+(a) A nonprofit corporation, manufactured dwelling park nonprofit cooperative, state  govern-
+mental entity, local unit of government as defined in ORS 466.706 or housing authority ; or
+(b) A nonprofit corporation  or housing authority that has a controlling interest in the
+real property that is financed by  a qualified loan. A controlling interest includes a controlling
+interest in the general partner of a limited partnership that owns the real property .
+(15) The Housing and  Community Services Department and the Department of Revenue may
+adopt rules to carry out the provisions of this section.
+SECTION 4.
+The amendments to ORS 315.176, 315.184 and 317.097 by sections 1 to 3 of this
+2018 Act apply to tax years beginning on or after January 1, 2018.
+SECTION 5.  ORS 315.516 is amended to read:
+315.516. (1) In lieu  of the issuance of certifications for tax credit under ORS 315.514 by the
+Oregon Film and Video Office, the Legislative Assembly may, no later than 30 days prior to the end
+of each fiscal year, appropriate to the  Oregon Business Development Department for deposit into
+the Oregon Production Investment Fund an amount equal to the total amount  that would otherwise
+be certified for tax credits during the current or  upcoming fiscal  year, based on the amount of
+contributions and accompanying applications for credit received by the office during  the fiscal year
+and reduced by the amount, if any, previously certified for the credit for the  corresponding
+fiscal year.
+(2) If the Legislative Assembly makes the election allowed in subsection (1) of this section:
+(a) No additional amount of credits may be certified for the corresponding fiscal  year;
+and
+[(a)] (b) Any contributions to the Oregon Production Investment Fund made for the upcoming
+fiscal year and for which  an application for a credit under ORS 315.514 is [ pending] denied shall,
+at the request of the taxpayer, be refunded by the Oregon Film and Video Office[ ; and ].
+[(b) A credit under ORS 315.514  may not be claimed for any contribution made during the current
+fiscal year. ]
+Enrolled House Bill 4028 (HB 4028-B) Page 5
+SECTION 6. The amendments to ORS 315.516 by section 5 of this 2018  Act apply to fiscal
+years beginning on or after July 1, 2017.
+SECTION 7.  ORS 315.264 is amended to read:
+315.264. (1)(a) A credit against the tax otherwise due  under ORS chapter 316 shall be allowed
+a taxpayer in an amount equal to a percentage of employment-related  expenses of a type allowable
+as a credit  pursuant to section 21 of the Internal Revenue Code, notwithstanding the limitation im-
+posed by section 21(c) of the Internal Revenue Code, and limited as provided  in paragraph (c) of this
+subsection.
+(b) The credit allowed under this section may be claimed for expenses for care  of a qualifying
+individual that allow a nonmarried taxpayer to seek employment or to attend school  on a full-time
+or part-time basis.
+(c) The employment-related expenses  for which a credit is claimed under this section may not
+exceed the [ lesser] least of:
+[(A) Income earned in Oregon and reported on the taxpayer’s return; or ]
+(A) Earned income taxable by Oregon and reportable on the taxpayer’s return;
+(B) The lesser amount of earned income  taxable by Oregon earned by either spouse, if
+reportable on a joint return; or
+[(B)] (C) $12,000 for  a taxpayer for which there is one qualifying individual, or $24,000 for a
+taxpayer for which there are two or more qualifying individuals.
+(d) The limitations in paragraph [ (c)] (c)(C) of this subsection shall be reduced by the aggregate
+amount excludable under section 129 of the Internal Revenue Code for the tax year.
+(2) The applicable percentage described in subsection (1) of this section shall be  determined in
+accordance with the following table:
+_______________________________________________________________________________________
+Greater of Federal
+or Oregon Adjusted
+Gross Income, as Applicable percentage based on age of youngest
+Percentage of Federal  qualifying individual on January 1 of tax year
+Poverty Level
+_______________________________________________________________________________________
+At least 6 years
+but less than
+At least 13, or at least
+3 years 13 but less 18 years or
+Greater Less than Under 3 but less than 18 if older if
+than or equal to years than 6 disabled disabled
+0% 10% 10% 8% 5% 5%
+10% 20% 20% 18% 15% 5%
+20% 30% 30% 28% 25% 10%
+30% 40% 40% 38% 35% 20%
+40% 50% 50% 48% 45% 30%
+50% 60% 55% 53% 50% 35%
+60% 70% 60% 58% 55% 40%
+70% 80% 65% 63% 60% 45%
+80% 90% 70% 68% 65% 50%
+90% 110% 75% 73% 70% 55%
+110% 120% 71% 69% 66% 50%
+120% 130% 66% 64% 61% 45%
+130% 140% 61% 59% 56% 39%
+140% 150% 55% 53% 50% 33%
+Enrolled House Bill 4028 (HB 4028-B) Page 6
+150% 160% 50% 48% 45% 28%
+160% 200% 47% 45% 42% 25%
+200% 210% 45% 43% 40% 22%
+210% 220% 40% 38% 35% 20%
+220% 230% 35% 33% 30% 15%
+230% 240% 30% 28% 25% 10%
+240% 250% 20% 18% 15% 5%
+250% 260% 10% 8% 5% 5%
+260% 280% 6% 6% 4% 4%
+280% 300% 4% 4% 4% 4%
+300% - 0% 0% 0% 0%
+_______________________________________________________________________________________
+(3) The applicable percentage for a household in excess of  eight members shall be calculated as
+if for a household size of eight members.
+[(4) The credit under this section is not allowed: ]
+[(a) To a taxpayer  with federal adjusted gross income or Oregon adjusted gross income, whichever
+is greater, in excess of 300 percent of the federal poverty level; or ]
+[(b) To any taxpayer who does not report  earned income that is taxable by Oregon on the
+taxpayer’s return.]
+(4) The credit under this section is not allowed to a taxpayer with  federal adjusted gross
+income or Oregon adjusted gross income, whichever is greater, in excess of 300  percent of
+the federal poverty level.
+(5) In  order to ensure compliance with the eligibility requirements of the credit allowed under
+this section, the Department of Revenue shall be afforded access to  utilization data maintained by
+the Department of Human Services in its administration of the  Employment Related Day Care pro-
+gram.
+(6) The Department of Revenue may assess a penalty in an amount not to exceed 25  percent of
+the amount of credit claimed  by the taxpayer against any taxpayer who knowingly claims or at-
+tempts to claim any amount  of credit under this section for which the taxpayer is ineligible, or
+against any individual  who knowingly assists another individual in claiming any amount of credit
+for which the individual is ineligible.
+(7) The Department of  Revenue may adopt rules for carrying out the provisions of this section
+and prescribe the form used to claim a credit and the information required on the form.
+(8) A nonresident individual shall be  allowed the credit computed in the same manner and sub-
+ject to the  same limitations as the credit allowed a resident by subsection (1) of this section.
+However, the credit shall be prorated using the proportion provided in ORS 316.117.
+(9) If a change in the taxable year of a taxpayer occurs as described in ORS 314.085,  or if the
+Department of Revenue terminates the taxpayer’s taxable year  under ORS 314.440, the credit al-
+lowed by this section shall be prorated or computed in a manner consistent with ORS 314.085.
+(10) If a change in the status of a taxpayer from resident to  nonresident or from nonresident to
+resident occurs, the credit allowed  by this section shall be determined in a manner consistent with
+ORS 316.117.
+(11) If the amount allowable as a credit under this section, when added to the sum  of the
+amounts allowable as payment of tax  under ORS 316.187 or 316.583, other tax prepayment amounts
+and other refundable credit  amounts, exceeds the taxes imposed by ORS chapters 314 and 316 for
+the tax year after application of any  nonrefundable credits allowable for purposes of ORS chapter
+316 for  the tax year, the amount of the excess shall be refunded to the taxpayer as provided in ORS
+316.502.
+(12) Any amount that is refunded  to the taxpayer under this section and that is in excess of the
+tax liability of the taxpayer does not bear interest.
+Enrolled House Bill 4028 (HB 4028-B) Page 7
+SECTION 8. The amendments  to ORS 315.264 by section 7 of this 2018 Act apply to tax
+years beginning on or after January 1, 2018.
+SECTION 9. (1) Notwithstanding ORS 92.095,  307.155 and 311.411, if land that is exempt
+under ORS 307.150 ceases to be used or held exclusively for cemetery  or crematory purposes,
+the additional taxes that would otherwise be  due under ORS 307.155 (2) shall remain a po-
+tential tax liability that is not imposed if:
+(a) As of the date  of sale or other transfer of title to the land, the land is being used or
+held for the purpose  of providing low income housing that will be exempt from ad valorem
+property taxation under ORS 307.515 to 307.523 or 307.540 to 307.548; and
+(b) All other requirements set forth in subsections (2) to (5) of this section are met.
+(2) At the time of recording the deed  to the land with the county clerk, the owner of the
+land shall file with  the assessor of the county, and the governing body of the city or county
+that adopted the low  income housing exemption, as applicable, in which the land is located
+a notice of intent:
+(a) To apply for the exemption for low income housing under ORS 307.515 to 307.523 or
+307.540 to 307.548 on the land; and
+(b) To benefit from the provisions of this section.
+(3)(a) The owner of the land must file the application for exemption, as applicable:
+(A) Under ORS 307.521, no later than the deadlines set forth in ORS  307.523 that first
+occur after the date on which the owner recorded the deed to the land; or
+(B) Under  ORS 307.545, no later than the deadlines set forth in that section that first
+occur after the date on which the owner recorded the deed to the land.
+(b) If the governing body to which  the owner applies denies the application, the additional
+taxes described in ORS 307.155 (2) become due on the land.
+(4) If the  land is held for the purpose of developing low income housing for a period ex-
+ceeding the reasonable maximum period, if any, adopted  by the governing body of the city
+or county under ORS 307.517,  307.518 or 307.541, as applicable to the exemption granted for
+the land, the additional taxes described in ORS 307.155 (2) become due on the land.
+(5)(a) If the land is not  used to provide low income housing that is exempt under ORS
+307.515 to 307.523 or 307.540 to 307.548 for at least 10 consecutive property tax years, the  ad-
+ditional taxes described in ORS 307.155 (2) become due  on the land. Any period for which the
+land is held for the purpose of developing low income housing on the land does not count
+toward the 10 consecutive property tax years.
+(b) After the land  has been used to provide low income housing that is exempt under ORS
+307.515 to 307.523 or 307.540 to 307.548 for at least 10 consecutive property tax years, the  po-
+tential tax liability of the  land for the additional taxes described in ORS 307.155 (2) shall end.
+(6) Additional taxes that become due on the land under this section:
+(a) Shall  be added to the next general property tax roll, to be collected and distributed
+in the same manner as other real property taxes.
+(b) Are in addition to any additional taxes or other charges that become due  upon dis-
+qualification of property exempt under ORS 307.515 to 307.523 or 307.540 to 307.548.
+(7) The lien for additional taxes  that become due under this section, and the interest on
+the additional taxes, shall attach as of July 1 of the property  tax year in which the additional
+taxes become due under this section.
+(8) For each year  that the additional taxes described in ORS 307.155 (2) remain a potential
+tax liability that is not imposed under this section, the assessor shall enter on the assess-
+ment and tax roll, with respect to the land, the notation “(potential additional tax).”
+(9) The amount of additional taxes determined to be due under this  section may be paid
+to the tax collector prior to the  completion of the next general property tax roll, pursuant
+to ORS 311.370.
+(10) Additional taxes collected under this section  shall be deemed to have been imposed
+in the year to which the additional taxes relate.
+Enrolled House Bill 4028 (HB 4028-B) Page 8
+SECTION 10.  ORS 307.517 is amended to read:
+307.517. (1) Property  or a portion of the property is exempt from taxation as provided under ORS
+307.515 to 307.523 if:
+(a) The property is:
+(A) Offered for rent; or
+(B) Held for the  purpose of developing low income rental housing, for a period not exceeding a
+reasonable maximum period, if any, adopted by the governing body;
+(b) The property, if occupied, is occupied solely by low income persons;
+(c) The required rent payment reflects the full value of the property tax exemption;
+(d) The exemption has been approved as provided in ORS 307.523 , pursuant to an application
+filed before July 1, 2020 ;
+(e) The housing units on the property were  constructed after the local governing body adopted
+the provisions of ORS 307.515 to 307.523; and
+(f) The information disclosed  on the application filed pursuant to ORS 307.521 meets any other
+criteria adopted by the governing body.
+(2) A governing body that adopts the provisions of  ORS 307.515 to 307.523 may adopt additional
+criteria for exemption that do not conflict with  the criteria described in subsection (1)(a) to (e) of
+this section.
+(3) For  the purposes of subsection (1) of this section, a person that has only a leasehold interest
+in property is deemed to be a purchaser of that property if:
+(a) The person is obligated under the terms of the lease to pay the ad valorem taxes on the real
+and personal property used in this activity on that property; or
+(b) The rent payable has been established to reflect the savings  resulting from the exemption
+from taxation.
+SECTION 11.
+ ORS 307.518 is amended to read:
+307.518. (1) Property or a portion of property is exempt from taxation as provided under  ORS
+307.515 to 307.523 if:
+(a) The property, if unoccupied, is:
+(A) Offered for rental solely as a residence for low income persons; or
+(B) Held for the purpose of developing low income rental housing, for a period  not exceeding a
+reasonable maximum period, if any, adopted by the governing body;
+(b) The property, if occupied, is occupied solely as a residence for low income persons;
+(c) An exemption for the property has been approved as  provided under ORS 307.523, pursuant
+to an application filed before [ January] July 1, 2020;
+(d) The property is owned or  being purchased by a nonprofit corporation organized in a manner
+that meets the criteria for a public benefit corporation or a religious corporation, both terms  as
+defined in ORS 65.001;
+(e) The property is  owned or being purchased by a nonprofit corporation that expends no more
+than 10 percent of the nonprofit corporation’s annual income  from residential rentals for purposes
+other than the  acquisition, maintenance or repair of residential rental property for low income
+persons or for the provision of on-site  child care services for the residents of the rental property;
+and
+(f) The information disclosed on the application filed pursuant to ORS 307.521  meets any other
+criteria adopted by the governing body.
+(2) A governing body that adopts the provisions of  ORS 307.515 to 307.523 may adopt additional
+criteria for exemption that do not conflict with the criteria  described in subsection (1)(a) to (e) of
+this section.
+(3) For the purposes of  this section, a nonprofit corporation that has only a leasehold interest
+in property is considered to be a purchaser of that property if:
+(a) The nonprofit corporation is  obligated under the terms of the lease to pay the ad valorem
+taxes on the real and personal property used in the rental activity on that property; or
+Enrolled House Bill 4028 (HB 4028-B) Page 9
+(b) The rent payable has  been established to reflect the savings resulting from the exemption
+from taxation.
+(4) A partnership shall be considered a nonprofit corporation for purposes of this section if:
+(a) A nonprofit corporation is a general partner of the partnership; and
+(b) The nonprofit corporation is  responsible for the day-to-day operation of the property that is
+the subject of the exemption under ORS 307.515 to 307.523.
+SECTION 12.
+ ORS 307.523 is amended to read:
+307.523. (1) Application shall be made on or before  December 1 of the calendar year immediately
+preceding the first assessment year for which exemption is requested,  and shall be accompanied by
+the application fee required  under ORS 307.527. However, if the property is acquired after November
+1, the application shall be made within 30 days after the date of acquisition.
+(2) Within 60 days of the filing of  an application under ORS 307.521, the governing body shall
+take final action upon the application as provided under ORS 307.527, and certify the  results of the
+action to the county assessor, as set forth in ORS 307.512.
+(3) Upon receipt of certification under subsection  (2) of this section, the county assessor shall
+exempt the property from taxation to the extent certified by the governing body.
+(4) Notwithstanding the  dates specified in ORS 307.517 and 307.518, property granted ex-
+emption pursuant to an application filed under  ORS 307.517 or 307.518 before July 1, 2020,
+shall continue to receive  the exemption on the same terms, including duration, on which the
+exemption was granted.
+SECTION 13.  ORS 307.529 is amended to read:
+307.529. (1) Except  as provided in ORS 307.531, if, after an application for exemption under ORS
+307.517 has been approved  under ORS 307.527, the governing body finds that construction or devel-
+opment of the exempt property differs from the construction or  development described in the appli-
+cation for exemption, or is not completed on or  before [ January] July 1, 2020, or that any provision
+of ORS 307.515 to 307.523 is not being complied with, or any provision required by the  governing
+body pursuant to ORS 307.515 to 307.523 is  not being complied with, the governing body shall give
+notice of the proposed  termination of the exemption to the owner, by mailing the notice to the
+last-known address of the owner, and to  every known lender, by mailing the notice to the last-known
+address of every known lender. The notice shall state the reasons for the  proposed termination and
+shall require the  owner to appear at a specified time, not less than 20 days after mailing the notice,
+to show cause, if any, why the exemption should not be terminated.
+(2) If the owner fails to appear and show cause why the exemption should not be terminated,
+the governing body  shall notify every known lender, and shall allow any lender not less than 30 days
+after the date the notice of the failure to appear and show cause  is mailed to cure any noncompli-
+ance or to provide  assurance adequate to the governing body that all noncompliance shall be rem-
+edied.
+(3) If the owner fails to appear and show cause why the exemption should not be terminated,
+and the lender fails to cure or give adequate assurance of the  cure of any noncompliance, the gov-
+erning body shall adopt an ordinance or resolution stating its findings terminating  the exemption.
+A copy of the ordinance or resolution shall be filed with the county assessor, and  a copy shall be
+sent to the owner at the owner’s last-known address and to the lender at the last-known  address of
+the lender within 10 days after its adoption.
+SECTION 14.  ORS 307.535 is amended to read:
+307.535. Notwithstanding any provision of ORS 307.515 to 307.523:
+(1) If the governing  body finds that construction of the housing unit otherwise entitled to ex-
+emption under ORS 307.517 was not completed  by [ January] July 1, 2020, due to circumstances be-
+yond the  control of the owner, and that the owner had been acting and could reasonably be expected
+to act in good faith and with due diligence, the governing body may  extend the deadline for com-
+pletion of construction for a period not to exceed 12 consecutive months.
+(2) If property granted exemption under ORS 307.515 to 307.523 is destroyed by fire  or act of
+God, or is otherwise no longer capable of owner-occupancy due to circumstances beyond  the control
+Enrolled House Bill 4028 (HB 4028-B) Page 10
+of the owner, the exemption shall cease but no additional taxes shall be imposed upon  the property
+under ORS 307.531 or 307.533.
+SECTION 15.  Section 1, chapter 112, Oregon Laws 2016, is amended to read:
+Sec. 1.  (1) As used in sections 1 to 5 [ of this 2016 Act ], chapter 112, Oregon Laws 2016 :
+(a) “Eligible location” means land and improvements that are located in a rural area.  “Eligible
+location” includes a location that has not formerly been used for industrial purposes.
+(b) “Eligible property” means  improvements classified as industrial under rules established by
+the Department of Revenue pursuant to ORS 308.215 (1)(a)(C), and  associated personal property,
+whether appraised by the county or by the Department of Revenue,  that:
+(A) Are newly constructed or installed at an eligible location; and
+(B) Have a cost of initial investment to the  purchaser of at least $1 million and not more than
+$25 million.
+(c) “Qualified property” means eligible property for which an application has been approved
+under section 2 [ of this 2016 Act ], chapter 112, Oregon Laws 2016 .
+(d) “Rural area” means an area located in unincorporated territory,  or in a city with a
+population of less than 40,000, that is  located entirely outside of the urban growth [ boundary of
+a city with a population ] boundaries of any and all cities with populations  of 40,000 or more, as
+the urban growth [ boundary is ] boundaries are  acknowledged on the date on which an  applicant
+submits an application for eligible property under section  2 [ of this 2016 Act ], chapter 112, Oregon
+Laws 2016.
+(2)(a) The governing body of a city or county may  adopt an ordinance or resolution granting a
+property tax exemption for eligible property located within the boundaries of the city or county,
+respectively.
+(b) The terms of the exemption must conform  to the provisions of sections 1 to 5 [ of this 2016
+Act], chapter 112, Oregon Laws 2016 . In  addition, an ordinance or resolution adopted under this
+subsection shall establish standards for  the imposition of conditions described in section 2 (4) [ of this
+2016 Act ], chapter 112, Oregon Laws 2016 .
+(3)(a) Qualified property must be:
+(A) Owned or leased by the applicant filing the application under section 2  [ of this 2016 Act ],
+chapter 112, Oregon Laws 2016 .
+(B) Used through the final year of exemption  for the purpose, and at the location, identified in
+the application filed under section 2 [ of this 2016 Act ], chapter 112, Oregon Laws 2016 .
+(b) The exemption:
+(A) May be granted to eligible property only if the first assessment year to which the  applica-
+tion filed under section 2 [ of this 2016 Act ], chapter 112, Oregon Laws  2016,  relates is the first
+assessment year that begins after the eligible property was first placed in service; and
+(B) Shall be granted only for  qualified property that was first placed in service after the ordi-
+nance or resolution was adopted.
+(4)(a) The exemption shall be granted as a 100 percent exemption of the real market value of
+the qualified property for any three out of five consecutive property tax years.
+(b) Notwithstanding paragraph (a)  of this subsection, the city or county may specify in the or-
+dinance or resolution:
+(A) A minimum cost of initial investment greater than $1 million.
+(B) Any number of years not greater than five for which the exemption shall be granted.
+(C) The percentage of the real market value  of the qualified property granted exemption for
+each year.
+(D) Different schedules in each property tax year for the years and percentages  described in
+subparagraphs (B) and (C) of  this paragraph, depending on the minimum costs of initial investment
+of the qualified property.
+(5)(a) An ordinance or resolution adopted pursuant to this section may not take effect unless,
+upon request of the city or county that  adopted the ordinance or resolution, the rates of taxation
+of the taxing districts whose governing bodies agree to grant the exemption,  when combined with
+Enrolled House Bill 4028 (HB 4028-B) Page 11
+the rate of taxation of the city or county,  equal 75 percent or more of the total combined rate of
+taxation on the qualified property.
+(b) Upon the taking effect of the ordinance or resolution,  the exemption shall apply to all
+property tax levies of all taxing districts in which qualified property is located.
+(c) The decisions of the taxing districts under paragraph (a) of this subsection  may not be
+changed but are not binding with respect to  an ordinance or resolution adopted pursuant to sub-
+section (6) of this section  or a new ordinance or resolution adopted pursuant to subsection (2) of this
+section.
+(d) All qualified property shall be granted exemption under this section, or deferral  under sec-
+tion 3 [ of this 2016 Act ], chapter 112,  Oregon Laws 2016 , on the same terms provided in the ordi-
+nance or resolution adopted or amended by  the city or county and in effect on the date the
+application is submitted under section 2 [ of this 2016 Act ], chapter 112, Oregon Laws 2016 .
+(6)(a) A city or county may adopt at any time an ordinance  or resolution amending the terms
+of an exemption granted  pursuant to this section or a deferral granted pursuant to section 3 [ of this
+2016 Act ], chapter 112, Oregon Laws  2016, subject to approval of the taxing districts under sub-
+section (5)(a) of this section, or terminating the exemption or deferral.
+(b) Notwithstanding an ordinance or resolution adopted under paragraph  (a) of this subsection,
+qualified property that has been granted  an exemption pursuant to this section, or a deferral pur-
+suant to section 3 [ of this 2016 Act ], chapter  112, Oregon Laws 2016 , shall continue to receive the
+exemption or deferral under the  terms in effect at the time the exemption or deferral was first
+granted.
+(7) If a city or county proposes an ordinance or resolution  providing for an exemption on terms
+other than the terms provided in subsection (4)(a) of this section,  the ordinance or resolution may
+not take effect unless the governing  body of the city or county, as applicable, receives testimony
+from the county assessor at a public hearing on the question regarding the cost and  administration
+of the proposed terms of the exemption.
+(8)(a) Qualified property granted an exemption pursuant to this section, or a  deferral pursuant
+to section 3 [ of this 2016 Act ], chapter 112, Oregon Laws 2016 , is not eligible for any other prop-
+erty tax exemption or special assessment.
+(b) Otherwise eligible property that has received another property  tax exemption or special as-
+sessment is not eligible for the exemption or deferral.
+(c) Paragraphs (a) and (b) of this subsection do not apply to  the exemption granted under ORS
+307.330.
+SECTION 16. The amendments to section 1, chapter  112, Oregon Laws 2016, by section
+15 of this 2018 Act apply to ordinances and resolutions adopted under section 1, chapter  112,
+Oregon Laws 2016, on or after the effective date of this 2018 Act.
+SECTION 17. This 2018 Act takes effect on the 91st day after the date on  which the 2018
+regular session of the Seventy-ninth Legislative Assembly adjourns sine die.
+Enrolled House Bill 4028 (HB 4028-B) Page 12
+Passed by House February 28, 2018
+Repassed by House March 3, 2018
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate March 3, 2018
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2018
+Approved:
+........................M.,........................................................., 2018
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2018
+..................................................................................
+Dennis Richardson, Secretary of State
+Enrolled House Bill 4028 (HB 4028-B) Page 13
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 286A.001, ORS 307.150, ORS 307.155, ORS 307.330, ORS 307.512, ORS 307.515, ORS 307.517, ORS 307.518, ORS 307.521, ORS 307.523, ORS 307.527, ORS 307.529, ORS 307.531, ORS 307.535, ORS 307.545, ORS 308.215, ORS 311.370, ORS 311.411, ORS 314.085, ORS 314.440, ORS 315.176, ORS 315.184, ORS 315.264, ORS 315.514, ORS 315.516, ORS 316.117, ORS 316.187, ORS 316.502, ORS 317.097, ORS 446.003, ORS 466.706, ORS 65.001, ORS 706.008, ORS 92.095
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `00309f1585716dbd4a18309b0c5850cf312c391c2d22c45e0f9110a76999a269` (snapshot `_meta/snapshots/measure-2018r1-hb4028-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4028/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `cd8d2a354aa2f69b92a1c12668ceab613f61a655c5d1522c99ad866f1c11842c` (snapshot `_meta/snapshots/measure-2018r1-hb4028-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4028/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2018R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4028` (part of the batched per-session fetch), sha256 `bca18089f38921052b3a5eaec76cd832e1ebed6c2cb2100be71a9423d261c9a8` of the shared session snapshot `_meta/snapshots/measures-2018r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

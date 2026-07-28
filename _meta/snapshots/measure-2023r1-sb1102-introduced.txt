@@ -1,0 +1,186 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 1102
+Sponsored by Senator GOLDEN, Representative MARSH, Senator JAMA
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes Semiconductor and Advanced Manufacturing Talent Grant program.
+Requires Higher Education Coordinating Commission to administer program and provide grants
+to public universities and community colleges to  support proposed programs or curricula that will
+effectively  impart  to students skills and proficiencies that are demonstrably in demand in semicon-
+ductor and advanced manufacturing industries.
+Appropriates moneys to grant program.
+Sunsets program on January 2, 2026.
+Declares emergency, effective July 1, 2023.
+A BILL FOR AN ACT
+Relating to grants for post-secondary institutions of education; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+The Legislative Assembly  finds that the State of Oregon will benefit from
+having public universities listed in ORS 352.002 and community colleges operated under ORS
+chapter 341 that:
+(1) Provide education pathways, certificates and degrees that  enable graduates to pursue
+careers in the semiconductor and advanced manufacturing industries;
+(2) Provide a range of degrees, certificates  and credentials that meet the needs and re-
+quirements of the semiconductor and advanced manufacturing industries;
+(3) Communicate the wide range of career  opportunities in the semiconductor and ad-
+vanced manufacturing industries to students and their families; and
+(4) Provide a variety of  apprenticeship or other opportunities that enable students to
+earn money by working in the  semiconductor and advanced manufacturing industries while
+simultaneously continuing coursework.
+SECTION 2. The intent of section 3  of this 2023 Act is for the Higher Education Coordi-
+nating Commission to award grants to support  programs and curricula at public universities
+listed in ORS 352.002 and community colleges operated  under ORS chapter 341 that provide
+the best practicable education, training and research to support  the semiconductor and ad-
+vanced manufacturing industries in  a manner that will both propel industry innovation and
+productivity and provide rewarding careers for residents of this state.
+SECTION 3. (1) The Semiconductor and Advanced Manufacturing Talent Grant program
+is established within the Higher Education Coordinating Commission.
+(2) Under the program, the commission shall award grants to  support proposed programs
+or curricula at public universities listed in ORS  352.002 and community colleges operated
+under ORS  chapter 341 that will effectively impart to students skills and proficiencies that
+are demonstrably in demand in the semiconductor and advanced manufacturing industries.
+(3) The commission shall by  rule develop the criteria it will use to determine which pro-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4586
+SB 1102
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+posed programs and curricula at public universities and community colleges will be supported
+by grants awarded under this section. The criteria must prioritize the awarding  of grants to
+public universities and community colleges for programs and curricula that include:
+(a) The substantial involvement of qualified educators or trainers;
+(b) The participation of students  who would otherwise have relatively low access to op-
+portunities for training in the applicable skills or proficiencies;
+(c) A strategic plan for sustaining the program or curriculum at an operational  level for
+at least five years;
+(d) Current or prospective  support from private, nonprofit or other stakeholder groups
+that would meaningfully enhance available resources for the program or curriculum;
+(e) Meaningful collaboration with other educational  or training institutions, high tech-
+nology companies, business associations or youth support organizations; and
+(f) Sufficient administrative  infrastructure to implement, and competently report to the
+commission on, the program or curriculum.
+(4) When awarding grants under this section:
+(a) At least 40  percent of the total amount of grant moneys awarded must be awarded
+to support programs or curricula at community colleges;
+(b) At least 40 percent of the total amount of grant moneys awarded  must be awarded
+to support programs or curricula at regional public universities;
+(c) The minimum amount of a grant awarded under this section is $2 million; and
+(d) The maximum amount of a grant awarded under this section is $15 million.
+(5) The commission shall:
+(a) No later than September 1, 2023, develop and make publicly  accessible the criteria
+described in subsection (3) of this section;
+(b) No later than September 15, 2023, publicly distribute requests for grant  proposals
+from public universities and community colleges;
+(c) Require  that all grant applications be submitted to the commission no later than
+November 1, 2023;
+(d) No later than January 1, 2024, announce the programs and curricula that will  be
+supported by grants awarded under this section; and
+(e) No later than February 1, 2024, make an  initial installment of any grants awarded
+under this section.
+(6)(a) The commission shall submit, in the manner provided by  ORS 192.245, a report that
+describes the rationale for each grant awarded under this section, to both  the Governor and
+the committees of the Legislative Assembly related to higher education,  no later than Feb-
+ruary 2, 2024.
+(b) The commission shall submit, in the manner  provided by ORS 192.245, a report that
+describes the  current status of the Semiconductor and Advanced Manufacturing Talent
+Grant program, to both the Governor and the committees of the Legislative  Assembly re-
+lated to higher education, no later than January 1, 2025.
+(7) As used in this section, “regional public universities” means:
+(a) Eastern Oregon University;
+(b) Southern Oregon University; and
+(c) Western Oregon University.
+SECTION 4.
+Sections 1 to 3 of this 2023 Act are repealed on January 2, 2026.
+[2]
+SB 1102
+1
+2
+3
+4
+5
+6
+7
+8
+SECTION 5.
+In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Higher Education Coordinating Commission, for the biennium beginning  July 1,
+2023, out of the General Fund, the amount of $100,000,000,  for the purposes of awarding grant
+moneys in the manner described in section 3 of this 2023 Act.
+SECTION 6. This 2023 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2023 Act takes effect
+July 1, 2023.
+[3]

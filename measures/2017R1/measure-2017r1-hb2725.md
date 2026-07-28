@@ -1,0 +1,374 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2017r1-hb2725
+title: 'HB 2725 (2017R1): Appropriates moneys from General Fund to Department of Environmental Quality
+  for supporting community efforts to improve economic development and public health by reducing emissions
+  from solid fuel burning devices that burn wood.'
+doc_type: dataset_doc
+citation: 2017 Regular Session House Bill 2725
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2725/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 84c2c2cbde2ae8754fb34c8f0c0f470af6752f3e4d578c5d468a6653e60a17d0
+snapshot_id: measure-2017r1-hb2725-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 285B.636
+  - ORS 293.701
+  - ORS 468A.025
+  - ORS 468A.040
+  - ORS 468A.100
+  - ORS 468A.460
+  - ORS 468A.465
+  - ORS 468A.467
+  - ORS 468A.485
+  - ORS 468A.490
+  - ORS 468A.505
+  - ORS 468A.515
+  - ORS 701.005
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2017r1
+- hb
+session_key: 2017R1
+measure_prefix: HB
+measure_number: 2725
+prefix_meaning: House Bill
+catch_line: Appropriates moneys from General Fund to Department of Environmental Quality for supporting
+  community efforts to improve economic development and public health by reducing emissions from solid
+  fuel burning devices that burn wood.
+minority_catch_line: null
+measure_summary: "\tAppropriates moneys from General Fund to Department of Environmental Quality for supporting\
+  \ community efforts to improve economic development and public health by reducing emissions from solid\
+  \ fuel burning devices that burn wood.\n\tDeclares emergency, effective July 1, 2017."
+relating_to: Relating to wood smoke pollution; declaring an emergency.
+relating_to_full: Relating to wood smoke pollution; and declaring an emergency.
+at_the_request_of: null
+lc_number: 2054
+measure_created_date: '2016-12-22T11:51:54'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 18653
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 285B.636
+  - ORS 293.701
+  - ORS 468A.025
+  - ORS 468A.040
+  - ORS 468A.100
+  - ORS 468A.460
+  - ORS 468A.465
+  - ORS 468A.467
+  - ORS 468A.485
+  - ORS 468A.490
+  - ORS 468A.505
+  - ORS 468A.515
+  - ORS 701.005
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2725`.
+
+# HB 2725 — 2017 Regular Session (2017R1)
+
+## At a glance
+
+- **Measure:** House Bill 2725, 2017 Regular Session (2017R1)
+- **LC number:** 2054
+- **Created:** 2016-12-22T11:51:54
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 18653 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2725/Introduced>.
+
+## Summary
+
+**Catchline:** Appropriates moneys from General Fund to Department of Environmental Quality for supporting community efforts to improve economic development and public health by reducing emissions from solid fuel burning devices that burn wood.
+
+**Relating to:** Relating to wood smoke pollution; declaring an emergency.
+
+Appropriates moneys from General Fund to Department of Environmental Quality for supporting community efforts to improve economic development and public health by reducing emissions from solid fuel burning devices that burn wood.
+ Declares emergency, effective July 1, 2017.
+
+**RelatingToFull (verbatim upstream field):** Relating to wood smoke pollution; and declaring an emergency.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2725
+Sponsored by Representative HELM, Senator PROZANSKI, Representative  KENY-GUYER; Representatives
+MARSH, NOSSE, POWER, SANCHEZ, Senators DEMBROW, STEINER HAYWARD (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Requires Environmental  Quality Commission to adopt by rule grant program for providing
+funding to local service providers to develop and implement woodstove replacement  rebate pro-
+grams.
+Appropriates moneys from General  Fund to Department of Environmental Quality for awarding
+grants under grant program.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to  wood smoke pollution; creating new provisions; amending ORS 468A.467, 468A.485,
+468A.490, 468A.505 and 468A.515; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 468A.485 is amended to read:
+468A.485. As used in ORS 468A.460 to 468A.515:
+(1) “Local  service provider” means a local government, a regional authority, an economic
+development district as defined in ORS 285B.636 or a nonprofit organization.
+(2) “Masonry heater” has the meaning given that  term in the American Society for Testing and
+Materials (ASTM) E1602-03, Standard Guide for Construction of Solid  Fuel Burning Masonry Heat-
+ers, as in effect on January 1, 2010, or the meaning given  that term by rule of the Environmental
+Quality Commission.
+[(2)] (3)  “Pellet stove” means a heating device that uses wood pellets,  or other biomass fuels
+designed for use in pellet stoves, as its primary source of fuel.
+(4) “Regional authority” has the meaning given that term in ORS 468A.100.
+[(3)] (5) “Residential structure” has the meaning given that term in ORS 701.005.
+[(4)(a)] (6)(a)  “Solid fuel burning device” means any device  that burns wood, coal or other
+nongaseous or nonliquid fuels for aesthetic, space-heating or  water-heating purposes in a private
+residential structure or a commercial establishment and that  has a heat output of less than one
+million British thermal units per hour.
+(b) “Solid fuel burning device” does not include:
+(A) Masonry fireplaces built on homesites, or factory-built fireplaces, that are designed to  be
+used with an open combustion chamber, that are without features to control air-to-fuel ratios and
+that meet minimum emission performance  standards adopted by the commission, or all masonry
+fireplaces and factory-built fireplaces if the commission does not adopt any standards;
+(B) Woodstoves built before 1940 that  have an ornate construction and a current market value
+substantially higher than a common woodstove manufactured during the same period;
+(C) Pellet stoves  that meet minimum emission performance standards adopted by the commission,
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2054
+or all pellet stoves if the commission does not adopt any standards;
+(D) Masonry heaters that meet minimum emission performance standards adopted by the com-
+mission, or all masonry heaters if the commission does not adopt any standards;
+(E) Central, wood-fired furnaces that are indoors, ducted and  thermostatically controlled, that
+have a dedicated cold air inlet and a dedicated hot air outlet that connect to the  heating ductwork
+for the entire residential structure and that meet  minimum emission performance standards adopted
+by the commission, or all central,  wood-fired furnaces if the commission does not adopt any stan-
+dards; and
+(F) Other solid fuel burning devices identified in rules adopted by the commission.
+[(5)(a)] (7)(a)  “Trash burner” means any equipment that is used to dispose of waste by burning.
+(b) “Trash burner” does not include an air contamination source that has  been issued an air
+quality permit as described in ORS 468A.040.
+[(6)] (8)  “Treated wood” means wood of any  species that has been chemically impregnated,
+painted or similarly modified to prevent weathering and deterioration.
+SECTION 2. (1) The Environmental Quality Commission shall  adopt by rule a grant pro-
+gram for providing funding to local service providers to develop and implement  woodstove
+replacement rebate programs.  Rebate programs funded by grants awarded under the grant
+program must  provide for rebates for replacement of solid fuel burning devices in residential
+structures that were not certified by the Department of  Environmental Quality pursuant to
+ORS 468A.465 with new high-efficiency and low air contaminant-emitting heating systems.
+(2) Rules  adopted under this section must require the Department of Environmental
+Quality to prioritize the awarding of grants to fund rebate programs first to  local service
+providers that serve maintenance areas  or nonattainment areas, as those terms are defined
+in ORS 468A.040, and second to local service providers based on a scoring system that takes
+into account the following factors:
+(a) The geographic diversity of the areas to be served by all  grants awarded under the
+grant program;
+(b) The degree of the local match proposed in the local service provider’s grant  applica-
+tion;
+(c) The estimated percentage of low-income residents to be served by the rebate program;
+and
+(d) Any  existing or planned partnerships between the local service provider and other
+agencies that provide weatherization or low-income heating assistance.
+(3) An application by  a local service provider for a grant under the grant program
+adopted under this section must include, at a minimum, a description of:
+(a) How the local service provider will  develop and administer a woodstove replacement
+rebate program;
+(b) The geographic area that the proposed rebate program will serve;
+(c) The rebate funding amounts that will be awarded  under the rebate program, including
+whether the  local service provider will offer full or partial rebates and any incentives to be
+offered;
+(d) Any  other programs in the area served by the local service provider that will sup-
+plement the rebate program, including but not limited to public education programs, discount
+firewood programs, weatherization programs or programs  to curtail residential solid fuel
+heating during periods of air stagnation;
+(e) How air quality improvements as a result of the rebate program will be measured;
+and
+(f) Partnerships  or expected partnerships between the local service provider and other
+organizations or state or federal agencies related to the rebate program.
+(4)(a) The grant program adopted under this  section must require local service providers
+to provide a matching contribution as follows in order to receive grant funds:
+(A) For a  local service provider serving an area with a population of 10,000 or less, a 10
+percent match.
+(B) For a local service provider serving an area with a population of  more than 10,000
+but less than 50,000, a 15 percent match.
+(C) For a local service provider serving an area with a population of 50,000  or more, a 25
+percent match.
+(b) If the area served by a local service  provider has a population of less than 10,000, or
+if low-income residents account for 25 percent or more of the population of the area  served,
+the match required by this subsection may be satisfied by an in-kind contribution.
+(5) The grant program adopted under this section must  require a local service provider
+that receives a grant to report to the department on  the rebate program funded by the grant
+once every six months and to submit a  final report to the department at the conclusion of
+the rebate program funded by the grant.
+SECTION 3.  ORS 468A.490 is amended to read:
+468A.490. (1) There is established within the State Treasury a fund  known as the Residential
+Solid Fuel Heating Air Quality Improvement Fund, separate and distinct from the General Fund.
+(2) All moneys appropriated or received as gifts or grants for the purposes of  this section shall
+be credited to the Residential Solid Fuel Heating Air Quality Improvement Fund.
+(3) The  State Treasurer may invest and reinvest the moneys in the fund as provided in ORS
+293.701 to 293.857. Interest from the moneys deposited in  the fund and earnings from investment of
+the moneys in the fund shall accrue to the fund.
+(4) All moneys in the fund are continuously appropriated to the  Department of Environmental
+Quality to:
+(a) Pay all costs incurred by the department  for evaluating projects and programs, including
+projects and programs proposed by local communities  or qualifying organizations, for project man-
+agement and oversight of funds awarded for projects  and programs selected in accordance with this
+section and for documenting the benefit to air quality from such projects;
+(b) Fund the [ program established under subsection (5)  of this section; ] programs established
+under subsection (5) of this section and section 2 of this 2017 Act;
+(c) Fund activities to enhance enforcement of ORS 468A.460 to 468A.515;
+(d) Fund public education programs related to compliance with ORS 468A.460 to 468A.515; and
+(e) Fund public education programs related to the benefits of the  use of solid fuel burning de-
+vices certified pursuant to ORS 468A.460 to 468A.515.
+(5) The department shall use moneys available under subsection (4) of this section  to establish
+a program designed to reduce the emission of air contaminants  by providing grants, loans or other
+subsidies for the replacement  or removal of solid fuel burning devices that were not certified by the
+department pursuant to ORS 468A.465. In addition to any other requirements established by  rules
+adopted by the Environmental Quality Commission, the program shall provide that:
+(a) All forms  of new high-efficiency, low air contaminant-emitting heating systems are allowed,
+except vent-free heating appliances;
+(b) Any solid fuel burning device removed under the program must be destroyed;
+(c) Any replacement device selected under the program must  be installed in conformance with
+building code requirements and the manufacturer’s specifications including but not limited to  vent-
+ing specifications; and
+(d) To be eligible, program participants shall participate  in any home energy audit program
+provided at no  charge to the homeowner and shall obtain all information available regarding subsi-
+dies for cost-effective weatherization. The department  shall make the information required in this
+subsection readily available to program participants.
+(6) The department may enter into an agreement with a local government or a regional author-
+ity in order to implement the program established under subsection (5) of this section.
+SECTION 4.
+ ORS 468A.467 is amended to read:
+468A.467. A person  may not cause or allow any of the following materials to be burned in a solid
+fuel burning device, a masonry heater, a pellet stove, a trash burner or  any device described in ORS
+468A.485 [(4)(b)] (6)(b):
+(1) Garbage;
+(2) Treated wood;
+(3) Plastic or plastic products;
+(4) Rubber or rubber products;
+(5) Animal carcasses;
+(6) Products that contain asphalt;
+(7) Waste petroleum products;
+(8) Paint;
+(9) Chemicals;
+(10) Paper or paper products, except for paper used to kindle a fire; or
+(11) Any other materials described in rules adopted by the commission.
+SECTION 5.
+ ORS 468A.505 is amended to read:
+468A.505. (1) In connection with the sale of  a residential structure, all used solid fuel burning
+devices, other than cookstoves, in the  residential structure or on the real property sold with the
+residential  structure,  must be removed and destroyed unless the solid fuel burning devices were
+certified for sale as new:
+(a) By the United States Environmental Protection Agency  pursuant to 40 C.F.R. part 60, sub-
+part AAA; or
+(b) By the Department of Environmental Quality pursuant to ORS 468A.465.
+(2) Notwithstanding subsection (1)  of this section, if pursuant to ORS 468A.465 the Environ-
+mental Quality Commission adopts more stringent standards than those described in  subsection (1)
+of this section for the certification of new solid fuel burning devices,  the commission by rule may
+require the removal and destruction of some or all used solid fuel burning devices certified  for sale
+as new under less stringent standards if:
+(a) The used  solid fuel burning devices were manufactured at least 15 years prior to the date
+on which the commission adopts more stringent standards; or
+(b) The used solid fuel burning devices are located in a nonattainment area in this state that
+does not attain  compliance with standards for particulate matter established by the commission
+pursuant to ORS 468A.025.
+(3) This section does not apply to:
+(a) Masonry heaters;
+(b) Masonry fireplaces described in ORS 468A.485 [ (4)(b)(A)] (6)(b)(A) ; and
+(c) Central, wood-fired furnaces described in ORS 468A.485 [ (4)(b)(E)] (6)(b)(E) .
+(4) The removal and destruction of a used solid fuel burning device under  this section is the
+responsibility of the seller of the residential structure, unless the seller and  buyer agree in writing
+that it is the buyer’s responsibility. If  the seller retains responsibility, the seller shall remove and
+destroy the device prior to the closing date of the sale of the residential structure. If the buyer ac-
+cepts responsibility, the buyer shall remove and destroy the device within 30 days after the  closing
+date of the sale of the residential structure.
+(5) The person responsible for removal and destruction of a used solid fuel burning device  under
+this section shall provide to the department written confirmation of  the removal and destruction,
+pursuant to rules adopted by the commission.
+(6) The failure of a seller or  buyer of a residential structure to comply with this section does
+not invalidate an instrument of conveyance executed in the sale.
+SECTION 6.
+ ORS 468A.515 is amended to read:
+468A.515. (1) If a local government or  regional authority has not adopted or is not adequately
+implementing a curtailment program in any area of the state where such a program is  required un-
+der the  Clean Air Act, the Environmental Quality Commission may adopt by rule, and the Depart-
+ment of Environmental Quality may operate and enforce, a program to curtail  residential solid fuel
+heating during periods of air stagnation as described in subsection (2) of  this section. The depart-
+ment shall suspend operation and enforcement of  a program adopted under this subsection upon a
+determination by the department that the local government or  regional authority has adopted and
+is adequately implementing the required curtailment program.
+(2) Any programs adopted by the commission pursuant to subsection (1) of  this section to curtail
+residential solid fuel heating during periods  of air stagnation shall provide for two stages of
+curtailment based on the severity of projected air quality  conditions. Except as provided in sub-
+section (4) of this section, the programs  shall apply to all heating by means of solid fuel, including
+but not limited to solid fuel burning devices, masonry  heaters, pellet stoves, trash burners and all
+devices described in  ORS 468A.485 [ (4)(b)] (6)(b). The programs shall provide that use of a solid fuel
+burning device, masonry fireplace or other solid fuel  burning device identified in rules adopted by
+the commission be curtailed only at the more severe stage of projected air quality if  the solid fuel
+burning device, masonry fireplace or other solid fuel  burning device identified in rules adopted by
+the commission was certified for sale as new:
+(a) By the United States Environmental Protection Agency  pursuant to 40 C.F.R. part 60, sub-
+part AAA; or
+(b) By the department pursuant to ORS 468A.465.
+(3) Notwithstanding subsection (2) of this section, if pursuant to ORS 468A.465 the commission
+adopts more stringent standards than those described  in subsection (2) of this section for the certi-
+fication of new solid  fuel burning devices, the commission by rule may require curtailment during
+the less severe stage of projected air quality of some or all solid fuel burning devices certified for
+sale as new under less stringent standards if:
+(a) The solid fuel burning  devices were manufactured at least 15 years prior to the date on
+which the commission adopts more stringent standards; or
+(b) The  solid fuel burning devices are located in a nonattainment area in this state that does
+not attain compliance with standards for particulate  matter established by the commission pursuant
+to ORS 468A.025.
+(4) Programs adopted by the  commission to curtail residential solid fuel heating during periods
+of air stagnation do not apply to:
+(a) A person who is classified at  less than or equal to 125 percent of poverty level pursuant to
+guidelines established by the commission taking into account federal poverty guidelines;
+(b) A person whose residence is equipped solely with  a solid fuel burning device that meets any
+additional requirements as described in rules adopted by the commission; and
+(c) Pellet stoves, unless the pellet stove is located in  a nonattainment area in this state that
+does not attain  compliance with standards for particulate matter established by the commission
+pursuant to ORS 468A.025.
+SECTION 7. In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Department  of Environmental Quality, for the biennium beginning July 1, 2017,
+out of the General Fund, the amount of $_______ to be deposited in the Residential Solid Fuel
+Heating Air Quality Improvement Fund for the purpose of  awarding grants under the grant
+program adopted under section 2 of this 2017 Act.
+SECTION 8.
+This 2017 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2017 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 285B.636, ORS 293.701, ORS 468A.025, ORS 468A.040, ORS 468A.100, ORS 468A.460, ORS 468A.465, ORS 468A.467, ORS 468A.485, ORS 468A.490, ORS 468A.505, ORS 468A.515, ORS 701.005
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `84c2c2cbde2ae8754fb34c8f0c0f470af6752f3e4d578c5d468a6653e60a17d0` (snapshot `_meta/snapshots/measure-2017r1-hb2725-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2725/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2725` (part of the batched per-session fetch), sha256 `8a531c771f7c0531d1b6a422bf18d037d210e0e6cb92f247a009fd99e6400c68` of the shared session snapshot `_meta/snapshots/measures-2017r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

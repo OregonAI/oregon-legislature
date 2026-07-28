@@ -1,0 +1,374 @@
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Enrolled
+House Bill 2266
+Sponsored by Representative LIVELY; Representatives BYNUM, CAMPOS, DEXTER, GOMBERG,
+GRAYBER, KROPF, MEEK, NERON, PRUSAK, RUIZ, SOLLMAN,  WILLIAMS (Presession
+filed.)
+CHAPTER .................................................
+AN ACT
+Relating to business assistance; and declaring an emergency.
+Whereas Oregonians are committed to dismantling historic systemic  barriers and investing in
+our economy and our people and future generations as it  relates to accessible capital for all com-
+munities of color and underserved businesses; and
+Whereas it is the intention of this legislation to begin to bridge the gap of the economic ineq-
+uities in historically underserved and marginalized communities; and
+Whereas Oregon’s small businesses are the backbone of our economy, which  includes many
+Black, Indigenous, Latino, Latina, Latinx, Asian, Pacific Islander,  Native American and tribal com-
+munities throughout the state; and
+Whereas the Racial Justice Council’s priority  is to promote economic development and
+empowerment through grounding racial justice and  providing access to capital specifically for
+minority-owned businesses and underserved entrepreneurs that will result in  building equitable ac-
+cess to capital and reduce  barriers of collateral requirements in efforts to enable mobility and op-
+portunity towards a safe, secure and resilient quality of life in Oregon; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Purpose. It is the purpose of sections  1 to 7 of this 2021 Act that the State
+of Oregon shall make awards to qualified lending institutions to fund lenders’ loan  loss re-
+serve accounts for the purpose of increasing lending  to business owners and entrepreneurs
+who currently lack access to capital to start or grow their businesses.
+SECTION 2. Definitions. As used in sections 1 to 7 of this 2021 Act,  unless the context
+requires otherwise:
+(1) “Loan loss reserve account” or “account” means an account created by a lender for
+the deposit of moneys awarded to the lender under section 3 of this 2021 Act out of  which
+the lender may reimburse itself for losses incurred due to defaults on qualified loans.
+(2) “Prime rate” means the primary  credit rate of the discount window program of the
+United States Federal Reserve System.
+(3) “Qualified business” or “qualified borrower” means a person that:
+(a) Operates a business in Oregon; or
+(b) Attests to a qualified lender that the person will use  proceeds from a qualified loan
+to establish a business in Oregon.
+(4) “Qualified lender” means a lender that:
+Enrolled House Bill 2266 (HB 2266-B) Page 1
+(a) Is certified  as a community development financial institution by the Community De-
+velopment Financial Institutions Fund at the United States Department of the Treasury;
+(b) Is a nonprofit corporation as defined in ORS 307.130;
+(c) Is an economic development district in Oregon designated by  the Economic Develop-
+ment Administration of the United States Department of Commerce;
+(d) Is affiliated with a local government as defined in ORS 174.116; and
+(e) Has a physical presence in Oregon and at least five years of lending experience.
+(5)(a) “Qualified loan” means a loan made, or an operating  line of credit extended, by a
+lender to a qualified business for which the principal losses are reimbursable from  moneys
+in the lender’s loan loss reserve account.
+(b) “Qualified loan” does not mean a loan:
+(A) With a variable interest rate.
+(B) With an  origination fee that exceeds 1.5 percent, and with an annual interest rate
+that exceeds the lesser of 18 percent or the prime rate plus 7 percent.
+(C) For working capital for a term exceeding seven years.
+(D) For capital assets for a term exceeding the useful life of the assets.
+(E) That includes, in  whole or in part, the refinancing of an existing loan made by the
+lender to the borrower.
+(F) That includes, in whole or in part, the refinancing of  an existing personal loan not
+used for business purposes.
+(G) For the purchase of real property that is not used for the  business operations of the
+borrower.
+(H) For the purchase of owner-occupied residential housing or for the construction,  im-
+provement or purchase of residential housing owned or to be owned by the borrower.
+(6) “RFP” means a request for proposal.
+SECTION 3.
+RFP process for  awards to lenders; lender requirements; approval criteria.
+(1)(a) The Oregon Business Development Department shall, in accordance  with this section,
+make awards to lenders to fund the lenders’ loan loss reserve accounts.
+(b) The awards shall be made, through a  competitive RFP process administered by the
+department.
+(c) Of the moneys awarded as a result  of any RFP process, not more than 10 percent of
+available funds may be awarded to any single lender.
+(2) The department shall evaluate proposals according to the following criteria:
+(a) The number and value of loans closed by the lender during the five-year period im-
+mediately preceding the date of submission of the lender’s proposal;
+(b) The  projected loan production over the performance period of the award, including
+the projected number of  loans, the proposed principal amount of qualified loans that the
+lender would not make but for the moneys awarded, and the jobs to be created  and retained
+by qualified borrowers;
+(c) How the award would increase the lender’s capacity to make loans to  rural or
+underserved entrepreneurs;
+(d) The past performance of loans made by the lender;
+(e) The extent to which the lender:
+(A) Provides technical assistance and financial literacy  services to underserved borrow-
+ers; or
+(B) Partners with  providers of technical assistance and financial literacy services to
+underserved borrowers;
+(f) How the lender’s proposed outreach, application  process, underwriting criteria and
+loan terms are designed to reduce historic barriers to borrowers’ access to loan capital;
+(g) How the lender plans to ensure that the loans originated by the lender under the
+program are made to borrowers in regionally diverse and rural areas of this state; and
+Enrolled House Bill 2266 (HB 2266-B) Page 2
+(h) Any other criteria the department considers necessary or useful for evaluating  a
+proposal.
+(3)(a) After reviewing proposals submitted in response  to an RFP, the department shall
+reject or accept proposals and determine the amount awarded for each accepted proposal.
+(b) As soon as practicable after the awards are  finalized, the department shall notify the
+lenders that submitted proposals of the results  and offer the awards to the lenders whose
+proposals are accepted.
+SECTION 4. Agreements  with lenders; terms.  (1) The Oregon Business Development De-
+partment shall enter into a written agreement with each lender that  accepts an award of-
+fered under section 3 of this 2021 Act.
+(2) A written agreement entered into pursuant to this section must:
+(a) Provide for the creation of a loan loss reserve account by the lender for the  deposit
+of moneys awarded under section 3 of this 2021 Act out  of which the lender may be reim-
+bursed for principal losses incurred due to defaults on qualified loans;
+(b) Provide that, notwithstanding ORS chapter 293 or 295, the lender shall  establish and
+maintain the loan loss reserve account with a financial  institution, as defined in ORS 706.008,
+in accordance with such policies as the department may adopt;
+(c) Require the lender to designate, when a loan is made, whether the loan is a  qualified
+loan;
+(d) Provide that, upon default on a qualified  loan, the lender shall, subject to subsection
+(3) of this section, liquidate the borrower’s assets and exhaust all lawful remedies for the
+benefit of the lender before the  lender may recover the outstanding principal balance of the
+loan from the lender’s loan loss reserve account;
+(e) Provide that the liability  of the State of Oregon and the department under the written
+agreement is limited to the amount of moneys awarded and credited to the lender’s loan  loss
+reserve account; and
+(f) Require the lender to file an annual report in  accordance with section 5 of this 2021
+Act.
+(3)(a) Notwithstanding the requirement under subsection (2)(d) of this section to liquidate
+a borrower’s assets and exhaust all lawful remedies, the department, upon request of  a
+lender, may waive the lender’s obligations under subsection (2)(d) of this section if:
+(A) The original principal amount of the loan was not greater than $25,000; and
+(B) The borrower had a personal net worth  not greater than $75,000 at both the time of
+application and the time of default.
+(b) A lender that does not comply  with subsection (2)(d) of this section or paragraph (a)
+of this subsection shall  be considered to have breached the written agreement the lender
+entered into pursuant to subsection (1) of this section. The department, at its sole discretion,
+may take assignment  of the loan and pursue collection efforts under subsection (2)(d) of this
+section.
+(4) Qualified lenders that accept awards under section 3  of this 2021 Act shall, within 10
+years following the date on which the written  agreement entered into pursuant to subsection
+(1) of this  section becomes binding, originate qualified loans with a total principal amount
+equal to at least four times the amount of the moneys awarded.
+SECTION 5.
+Annual reporting by lenders.  (1) Not later than July 31 of each year, each
+lender awarded moneys under section 3 of this 2021 Act shall, during the term of the written
+agreement entered into under section 4 of this  2021 Act, provide a report to the Oregon
+Business Development  Department, on a form prescribed by the department, for the period
+beginning on July 1 of the immediately preceding year and ending on June 30 of  the current
+year.
+(2) With  respect to qualified loans made by the lender, the report shall include, but not
+be limited to, the following information:
+(a) The number and total principal amount of all qualified loans made by the lender;
+Enrolled House Bill 2266 (HB 2266-B) Page 3
+(b) For each qualified loan, the following information:
+(A) The term and amortization of the loan; and
+(B) The purpose of the loan;
+(c) The number of loans that  were declined and the primary reasons for declining them;
+and
+(d) Any other information required under rules adopted by the department.
+(3) With respect to qualified borrowers, the report shall set forth:
+(a) The businesses that qualified borrowers conduct in this state;
+(b) The cities and counties in which qualified borrowers use the qualified loan proceeds;
+(c) The number of individuals employed by the qualified businesses;
+(d) Demographic data voluntarily reported by qualified borrowers, including, but not
+limited to, whether a qualified business is owned by a woman, a  minority individual, a vet-
+eran of any branch of the Armed Forces of the United States, the National Guard  or other
+reserve component, a low income person or a person operating the  business in a rural area
+of this state; and
+(e) Outreach conducted by the lender to rural and underserved communities.
+(4) The department may  require any lender to include in the report financial information
+that is identifiable with, or from, the financial records of a borrower.
+SECTION 6.
+Release; repayment.  (1)(a) A lender shall be released from any  obligation
+under a written agreement entered into under  section 4 of this 2021 Act, and may use for
+any purpose whatever any balance in the lender’s loan loss reserve  account, if the lender
+has:
+(A) Performed under the  written agreement entered into with the Oregon Business De-
+velopment Department for at least 10 years;
+(B) Attained during the 10-year period, as required under  section 4 (3) of this 2021 Act,
+a ratio of four-to-one of total principal amount of qualified loans made by the  lender to the
+amount of moneys awarded to the lender under section 3 of this 2021 Act; and
+(C) Complied with the annual reporting requirements under section 5 of this 2021 Act.
+(b) A release under this section does not absolve  a lender of any contractual obligations
+owed to a qualified borrower under a qualified loan agreement.
+(2) A lender shall repay to the department for deposit in  the General Fund the balance
+of moneys awarded to the lender under section 3 of this 2021 Act in  the lender’s loan loss
+reserve account if the department determines that:
+(a) The lender has not made a qualified loan for 24 consecutive months;
+(b) The lender has become insolvent or has ceased lending operations in Oregon;
+(c) The lender has failed to perform in any  material way under the written agreement
+entered into with the department pursuant to section 4 of this 2021 Act;
+(d) The lender made material  misrepresentations in the RFP submitted under section 3
+of this 2021 Act or in an annual report required under section 5 of this 2021 Act; or
+(e) The lender or the lender’s loan loss  reserve account portfolio has been sold, trans-
+ferred or assigned, in whole or part.
+SECTION 7.
+Biennial report by the Oregon Business  Development Department.  On or
+before September  15 of each even-numbered year, the Oregon Business Development De-
+partment shall submit, in the  manner required under ORS 192.245, to the interim committees
+of the Legislative Assembly  related to economic development, a report that sets forth the
+following information:
+(1) The number  and total dollar amount of RFPs received under section 3 of this 2021
+Act;
+(2) The number of  awards and the amount of moneys awarded under section 3 of this 2021
+Act;
+(3) Information described in section 3 (2)(b) of this 2021 Act from the  approved proposals;
+Enrolled House Bill 2266 (HB 2266-B) Page 4
+(4) Aggregated lender and qualified  borrower data, including demographic data reported
+by lenders under section 5 (3)(d) of this 2021 Act;
+(5) The aggregate performance of qualified loans;
+(6) The average interest rate, term and amount of qualified loans;
+(7) The  cities and counties in which qualified borrowers use the qualified loan proceeds;
+and
+(8) Any other information the department considers necessary or useful to include in  the
+report.
+SECTION 8.
+Appropriation. There is appropriated  to the Oregon Business Development
+Department, for the biennium beginning July 1, 2021, out  of the General Fund, the amount
+of $10,000,000, for the purpose of implementing sections 1 to 7 of this 2021 Act.
+SECTION 9. Program evaluation; recommendations.  (1) Not later than September 15,
+2029, the interim  committees of the Legislative Assembly related to economic development
+shall evaluate the effectiveness of the lenders’ loan  loss reserve account program established
+under sections 1 to 7 of this 2021  Act and develop recommendations for legislation, including
+appropriations.
+(2) In making the evaluation under subsection (1) of this section, the interim  committees
+shall:
+(a) Consult  with the Oregon Business Development Department and with lenders that
+have entered into written agreements with the department under section 4 of this 2021  Act
+and made qualified loans and with any  other persons the interim committees consider nec-
+essary or useful; and
+(b) Consider the biennial reports submitted by the department  under section 7 of this
+2021 Act and any other information the interim committees consider necessary or useful.
+SECTION 10. Section captions.  The section captions used  in this 2021 Act are provided
+only for the convenience of the  reader and do not become part of the statutory law of this
+state or express any legislative intent in the enactment of this 2021 Act.
+SECTION 11. As used in sections 11 to 15 of this 2021 Act:
+(1) “Eligible business” means one of the following businesses  as defined in ORS 200.005
+that is operated for  profit and has been certified by the Certification Office for Business
+Inclusion and Diversity under ORS 200.055 at the  time an application is referred on behalf
+of the business to  the Oregon Business Development Department under section 13 of this
+2021 Act:
+(a) A disadvantaged business enterprise;
+(b) A minority-owned business;
+(c) A woman-owned business;
+(d) A business that a service-disabled veteran owns; or
+(e) An emerging small business.
+(2) “Prime rate” means the primary  credit rate of the discount window program of the
+United States Federal Reserve System.
+(3) “Technical assistance  provider” means a small business development center estab-
+lished under ORS 285B.165 to 285B.171 or a  culturally specific business association or cham-
+ber that provides one-on-one business counseling services.
+SECTION 12.
+(1) The Oregon Business Development  Department shall develop and im-
+plement a program to make loans to eligible businesses.
+(2) Loans made under the program may be for the following amounts:
+(a) For eligible businesses that have operated for less than two years, up to $100,000.
+(b) For eligible businesses that have operated for two years or more, up to $250,000.
+(3)(a) The term of a loan may not exceed 10 years.
+(b)(A) Interest on a loan shall be charged at the prime rate plus two percent.
+(B) Notwithstanding subparagraph (A) of this paragraph, the  rate of interest may be in-
+creased for risk based on the loan-to-value ratio.
+Enrolled House Bill 2266 (HB 2266-B) Page 5
+(c) Loans shall be subject to business underwriting standards  used in secondary markets.
+(d) To the extent possible, loans must be secured by business and personal assets.
+(e) Loans  shall require standard commercial loan documentation, including reasonable
+provisions related to default that the department may adopt by rule.
+(4) An eligible business  may use the proceeds of a loan made pursuant to this section for
+equipment, inventory, fixtures and working capital  or other business-related expenses other
+than capital costs.
+SECTION 13.
+(1) The Oregon Business Development Department shall prescribe the form
+and manner in which the owner of an eligible business may apply for a loan under  the loan
+program developed and implemented under section 12 of this 2021 Act.
+(2) The application must, at a minimum, require the inclusion of:
+(a) Documentation showing that the business for which application is made is  an eligible
+business;
+(b) A nonrefundable application fee of $200; and
+(c) Any other information or documentation the department requires.
+(3)(a) The owner of an eligible business interested in applying for a  loan under the loan
+program must seek assistance from a technical assistance provider.
+(b) The technical assistance must include a review of the application form  and associated
+documents and other materials for completeness and accuracy.
+(4)(a) If a technical assistance provider determines in its sole discretion  that the appli-
+cation of an eligible business is complete and accurate and deserves consideration by the
+department, the provider shall refer the application to the department.
+(b) If a technical assistance provider refers an application under  this section that is ap-
+proved by the department, the department shall request  periodic reports from the provider
+on the status of the eligible business after receipt of the loan proceeds.
+(c) If a technical assistance provider determines that an application is not complete or
+accurate or does not deserve to be referred to the department  for consideration in its pres-
+ent form, the technical assistance provider  may, in its sole discretion, work with the owner
+of the eligible business to amend the application and application materials.
+(d) The refusal of a technical assistance provider to refer an application to the depart-
+ment under this section does not give rise to a cause of action of any kind.
+(5)(a) After receiving an application referred  under this section, the department shall
+either approve or reject the application  and notify the applicant and the technical assistance
+provider that worked with the applicant of the decision.
+(b)(A) Rejection of the application by the department  may be appealed through a process
+adopted by the department by rule.
+(B) The owner of an eligible business whose application has been finally rejected with  no
+further right of appeal may contact a technical  assistance provider to begin a new applica-
+tion process at any time.
+(c) If the  department approves the application, the department shall offer a loan agree-
+ment to the eligible business on terms  that do not conflict with sections 11 to 15 of this 2021
+Act.
+(6) Upon execution of a loan agreement offered pursuant to subsection (5)(c) of this  sec-
+tion:
+(a) All third-party expenses that are necessary to close the loan shall be paid:
+(A) By the eligible business; or
+(B) At the sole discretion of the department, out of the loan proceeds.
+(b) Upon payment of third-party  expenses under paragraph (a) of this subsection, the
+department shall pay the  balance of the loan proceeds to the eligible business out of funds
+in the Disadvantaged and Emerging Small Business Loan Fund established under section  14
+of this 2021 Act.
+Enrolled House Bill 2266 (HB 2266-B) Page 6
+SECTION 14. (1) There is  established in the State Treasury, separate and distinct from
+the General Fund, the Disadvantaged and Emerging Small Business Loan Fund. All moneys
+in the fund are continuously appropriated to  the Oregon Business Development Department
+for the purposes of:
+(a) Paying the actual costs of the department  in administering the loan program devel-
+oped and implemented under sections 11 to 15 of this 2021 Act; and
+(b) Making loans  under the loan program developed and implemented under sections 11
+to 15 of this 2021 Act.
+(2) The Disadvantaged and Emerging Small Business Loan Fund shall consist of:
+(a) Moneys  appropriated or otherwise allocated or transferred to the fund by the Legis-
+lative Assembly;
+(b) Interest earned on moneys in the fund;
+(c) Moneys received as repayment of principal and interest on loans made from  the fund
+under sections 11 to 15 of this 2021 Act; and
+(d) Moneys or property of any kind received by the department for deposit  in the fund
+from any source.
+SECTION 15.
+(1) On or before September 15  of each year, the Oregon Business Develop-
+ment Department shall submit, in the manner provided in ORS 192.245, to the  interim legis-
+lative committees related to economic development, a report containing the  following
+information about the loan program developed and implemented  under sections 11 to 15 of
+this 2021 Act:
+(a) The number of loans made;
+(b) The amounts of the loans made;
+(c) Demographic information  about the eligible businesses that received loans that is
+voluntarily given to the department;
+(d) The number of referrals from technical  assistance providers under section 13 of this
+2021 Act;
+(e) The number of loan  applications that were rejected and the reasons for the rejections;
+(f) Demographic information  about the eligible businesses whose applications were re-
+jected that is voluntarily given to the department; and
+(g) Any other information the department considers significant in evaluating the loan
+program.
+(2) The report may include information from periodic reports provided to the department
+by technical assistance providers under section 13 (4)(b) of this 2021 Act.
+SECTION 16.
+There is appropriated to the Oregon Business Development Department, for
+the biennium beginning July 1, 2021, out of the General  Fund, the amount of $10 million for
+deposit in the Disadvantaged and Emerging  Small Business Loan Fund established in section
+14 of this 2021 Act, for the purpose of carrying  out the provisions of sections 11 to 15 of this
+2021 Act.
+SECTION 17. This 2021 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2021 Act takes effect
+on its passage.
+Enrolled House Bill 2266 (HB 2266-B) Page 7
+Passed by House June 22, 2021
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate June 24, 2021
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2021
+Approved:
+........................M.,........................................................., 2021
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2021
+..................................................................................
+Shemia Fagan, Secretary of State
+Enrolled House Bill 2266 (HB 2266-B) Page 8

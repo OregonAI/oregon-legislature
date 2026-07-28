@@ -1,0 +1,416 @@
+80th OREGON LEGISLATIVE ASSEMBLY--2020 Special Session
+Enrolled
+Senate Bill 1602
+Sponsored by Senator COURTNEY;  Senator WAGNER, Representatives GORSEK, HAYDEN, HELT,
+HOLVEY, KENY-GUYER, LEIF, MARSH, MCKEOWN, MCLAIN, MITCHELL, NERON,
+NOSSE, REARDON, SMITH DB, SMITH WARNER, WILDE, WITT, ZIKA (at  the request of
+Joint Committee on the First Special Session of 2020)
+CHAPTER .................................................
+AN ACT
+Relating to forests; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Governor shall facilitate the organization and  holding of one or more
+mediation sessions between representatives of the forest industry  and representatives of
+environmental interests in accordance with  the Memorandum of Understanding announced
+by the Governor on February 10, 2020. The Governor shall limit participation  in the medi-
+ation sessions to not  more than 12 representatives, but may not limit such third party as-
+sistance as the representatives may require.
+(2) The purpose of the mediation sessions shall be to  develop an approach to evaluate and
+jointly recommend  substantive and procedural changes to Oregon Forest Practices Act laws
+and regulations to advance the attainment of federal regulatory assurances for aquatic and
+riparian-dependent species.
+(3) The Governor shall organize the mediation sessions with the goal of fulfilling  the
+purpose described in subsection (2) of this section no later  than 18 months after the effective
+date of this 2020 special session Act.
+(4) Except as provided in ORS 36.220 (1) to (4), mediation sessions described in this sec-
+tion are not subject to ORS 36.220 to 36.238 or 192.610 to 192.690.
+SECTION 2.
+Section 1 of this 2020 special session Act is repealed on January 2, 2023.
+SECTION 3. The President of the Senate and the Speaker of  the House of Represen-
+tatives shall arrange for legislative committees related  to natural resources to hold a joint
+informational hearing during the 2021 regular session of  the Eighty-first Legislative Assem-
+bly regarding the mediation sessions described in section  1 of this 2020 special session Act.
+The committees shall, at a minimum, invite the Governor to submit testimony  or documents
+at the joint informational hearing regarding the past and expected schedule  and structure
+for the  mediation process and such other information concerning the mediation sessions as
+the Governor deems reasonable and prudent to disclose.
+SECTION 4. As used in sections 4 to 11 of this 2020 special session Act:
+(1) “Department reporting system” means  a forest activity electronic reporting and no-
+tice system operated by the State Forestry Department.
+(2) “Nearby recipient”  means a person registered under section 5 of this 2020 special
+session Act:
+Enrolled Senate Bill 1602 (SB 1602-A) Page 1
+(a) Whose parcel location information is reconciled  under section 5 (2) of this 2020 special
+session Act with a tax lot that is in whole or in part less than one mile from the  edge of a
+proposed or scheduled pesticide application by helicopter to forestland; or
+(b) Whose water intake  location noted under section 5 (4) of this 2020 special session Act
+is less than one mile from the edge of  a proposed or scheduled pesticide application by heli-
+copter to forestland.
+(3) “Pesticide”:
+(a) Except as provided in this subsection, has  the meaning given that term in ORS
+634.006.
+(b) Does  not include fertilizer. As used in this paragraph, “fertilizer” means any sub-
+stance, or any  combination or mixture of substances, that is designed for use primarily as
+a source of plant food, for inducing increased plant growth or for producing any physical,
+microbial or chemical change in the soil.
+(4) “Water use qualifying for a spray buffer” means the use of water:
+(a) For watering not more than one-half acre of lawn or noncommercial garden;
+(b) By one or more dwelling units for domestic animal consumption ancillary to residen-
+tial or related use of a property;
+(c) By one or more dwelling units for household purposes or human consumption;
+(d) For livestock watering; or
+(e) Supplied for community purposes through a municipal water system, a system oper-
+ated by a federally recognized Indian tribe or a system operated by a private  corporation.
+As used in  this paragraph, “community purposes” includes, but is not limited to, uses de-
+scribed in paragraphs (a) to  (d) of this subsection, commercial or industrial use, fire pro-
+tection, watering of public parks and street cleaning.
+SECTION 5.
+(1) A person may register with the State Forestry Department to receive
+notices of  proposed or scheduled pesticide applications by helicopter to forestland near the
+residence of the person. To obtain registration, the person must provide the department
+with:
+(a) A description of the parcel where the person resides;
+(b) Proof satisfactory to the department that the person resides at the parcel; and
+(c) Contact information for the person that, at a minimum, includes:
+(A) A mailing address; and
+(B) An electronic mail address or telephone number.
+(2) Upon the receipt of information under subsection (1) of this section,  the department
+shall reconcile the parcel location information with  tax lot information and note the tax lot
+in a geospatial layer maintained within a department reporting system.
+(3) A  person appropriating surface water for a water use qualifying for a spray buffer
+may register with the department to  receive notices of proposed or scheduled pesticide ap-
+plications by helicopter to forestland near the water intake used by the  person. To obtain
+registration, the person must provide the department with:
+(a) The global positioning system coordinates for the water intake;
+(b) If the water use qualifying for a spray buffer is subject  to water right requirements,
+a permit, certificate, registration, limited license or order of determination for the  water
+use;
+(c) If the water use qualifying for  a spray buffer is exempt from water right require-
+ments, a description  of the spring box or other type of water intake and of the type of water
+use;
+(d) Unless established in documentation described in paragraph (b)  of this subsection, an
+attestation that  the person believes the person has a lawful entitlement to make the water
+use qualifying for a spray buffer;
+(e) An attestation that the person controls the works at the  point of diversion for the
+water use qualifying for a spray buffer; and
+Enrolled Senate Bill 1602 (SB 1602-A) Page 2
+(f) Contact information for the person that, at a minimum, includes:
+(A) A mailing address; and
+(B) An electronic mail address or telephone number.
+(4) Upon the receipt of information under subsection (3) of this section,  the department
+shall note the location of the water intake in a  geospatial layer maintained within a depart-
+ment reporting system.
+SECTION 6.
+(1) To  the extent of any conflict between this section and ORS 527.610 to
+527.770, the provisions of this section prevail.
+(2) Notwithstanding ORS 527.670, an operator, timber  owner or landowner proposing to
+conduct a pesticide application by helicopter to  forestland shall send the State Forestry De-
+partment notice of the proposed pesticide application that includes the following:
+(a) Identification of  the pesticides likely to be used. The notice may not identify any
+pesticides that are not likely to be used.
+(b) Identification of the forestland units to receive pesticide application.
+(c) Identification of a 90-day period within which the pesticide application is to occur.
+(d) Contact information for the  operator, timber owner or landowner providing the notice
+that, at a minimum, includes a mail address, electronic mail address and telephone number.
+(e) Any information required by State Board of Forestry rules.
+(3) Except as provided in subsection (4) of this section, if  the department reporting sys-
+tem indicates that the location of the proposed pesticide application  has one or more nearby
+recipients, the beginning of the 90-day period identified  in the notice under subsection (2)(c)
+of this section must be 30 or more days after the date the notice is  provided to the depart-
+ment.
+(4) If a pesticide application is not completed during the 90-day period identified  in a no-
+tice, the  operator, timber owner or landowner must send a new notice before commencing
+or completing the  pesticide application. Notwithstanding ORS 527.670, if the new notice is
+sent in the same calendar year as the original notice,  the 90-day period identified in the new
+notice must be seven or more days after the date the new notice is provided to  the depart-
+ment.
+SECTION 7.
+(1) Upon receipt of  a notice under section 6 (2) of this 2020 special session
+Act, a State Forestry Department reporting system shall provide the operator,  timber owner
+or landowner that provided the notice with a list of, and contact information for, any nearby
+recipients for the proposed pesticide application.
+(2) Two weeks after receiving a notice under section 6 (2) of  this 2020 special session Act,
+and on the date of receipt of any new notice under section 6 (4) of this 2020 special session
+Act, the department shall send notice of the proposed pesticide application  to the electronic
+mail address or telephone number of each nearby recipient for the  application. The notice
+sent by the department must include, but need not be limited to, the  location and nature of
+the proposed pesticide application and the 90-day period within which the pesticide  applica-
+tion may occur, and the mailing address, electronic mail address and  telephone number
+supplied as contact information by the operator,  timber owner or landowner that provided
+notice of the proposed pesticide application under section 6 of this 2020 special session Act.
+SECTION 8.
+(1) An operator, timber owner  or landowner that sends notice under section
+6 of this 2020 special session Act of a  proposed pesticide application by helicopter to
+forestland shall notify the State Forestry Department prior to the  pesticide application by
+helicopter being made. A notice under this section must:
+(a) Be made by electronic communication to a department reporting system;
+(b) Be sent to  the department no later than 7 p.m. on the day preceding the pesticide
+application;
+(c) Specify the day following the notice as a day for pesticide application by helicopter;
+(d) Identify the forestland units to receive pesticide application on the specified day;  and
+(e) Contain any additional information required by State Board of Forestry rules.
+Enrolled Senate Bill 1602 (SB 1602-A) Page 3
+(2) The sending of a notice under subsection (1) of this section does not limit the  number
+of days on which a pesticide application by helicopter may be made. However, a separate
+notice is required for each day that a pesticide application by helicopter is to be made. The
+sending of a notice under subsection  (1) of this section does not require that a pesticide ap-
+plication identified in the notice be conducted.
+(3) Upon receipt of a notice under this section, the department shall send  the schedule
+information for the pesticide  application and forestland unit identification to the electronic
+mail address or telephone number of each  nearby recipient to which the department sent
+notice of the proposed pesticide application under section 7 of this 2020 special session Act.
+SECTION 9.
+(1) If a forestland unit identified in a notice sent under section 8 of this 2020
+special session Act receives an incomplete pesticide application on  the date specified in the
+notice, the  operator, timber owner or landowner shall send a notice of incompletion to a
+State Forestry Department reporting system no later than 24 hours  after the end of the date
+specified for the application in the notice. The notice of incompletion shall consist of desig-
+nating the forestland units to  which an incomplete pesticide application by helicopter was
+made. Entry of a notice of incompletion  does not affect the requirement to send notice under
+section 8 of this 2020 special session Act before completing the pesticide application.
+(2) An operator, timber owner or landowner that sends a  notice under section 8 of this
+2020 special session  Act shall send a completion verification to a department reporting sys-
+tem no later than 24 hours after the completion of the pesticide application. The  completion
+verification shall consist of designating the forestland units to which the pesticide application
+by helicopter was made.
+(3) The department shall make an electronic listing of  the forestland units that were
+identified in the notice under section 8 of this 2020 special session Act available to the op-
+erator, timber  owner or landowner in a format that allows the operator, timber owner or
+landowner to electronically designate:
+(a) Forestland units from the list that have received an incomplete pesticide  application,
+when sending a notice of incompletion; and
+(b) Forestland units  from the list on which pesticide application is complete, when send-
+ing a completion verification.
+SECTION 10.
+(1) As used in this section, “spray season” means a period that:
+(a) Begins on January 1 and ends on June 30 in the same calendar year; or
+(b) Begins on July 1 and ends on December 31 in the same calendar year.
+(2) If an operator, timber owner or landowner fails  to timely send a notice under section
+8 of this 2020 special session Act or timely send  a notice of incompletion or completion ver-
+ification under section 9 of this 2020 special session Act for one or  more forestland units,
+or any combination of such failures on the same day:
+(a) For the first  day during a spray season on which one or more failures occur, the
+State Forestry Department shall issue the landowner a warning.
+(b) For the second day during a single spray season on which one or more failures  occur,
+the department shall assess the landowner a civil penalty of $1,000.
+(c) For a third day or any subsequent day during a  single spray season on which one or
+more failures occur, the  department shall assess the landowner a civil penalty of $5,000 per
+day.
+SECTION 11.
+(1) If the State Forestry Department receives a notice under section  8 of
+this 2020 special session Act, at the beginning of the 90-day period identified in  the notice,
+the department shall designate the  forestland units identified in the notice as being in
+available status. Except as provided  in subsection (2) of this section, the department shall
+terminate the available status of a forestland unit after 90 days.
+(2) Upon receiving a notice under section 8 of this  2020 special session Act specifying a
+date on which a pesticide application by helicopter is to be  made, the department shall
+change the designation of any forestland unit identified in the notice to pending status.
+Enrolled Senate Bill 1602 (SB 1602-A) Page 4
+(3) Upon receiving a notice of incompletion under  section 9 of this 2020 special session
+Act, the department shall change  the designation of any forestland unit identified in the
+notice to incomplete status.
+(4) Upon receiving a completion verification under section 9 of this 2020  special session
+Act, the department shall change  the designation of any forestland unit identified in the
+completion verification to completed status.
+(5) The department  shall change the designation of a forestland unit from pending status
+if, at 11:59 p.m. on the day following  the pesticide application date specified for the forestland
+unit in a notice under section 8 of this  2020 special session Act, the department has not re-
+ceived a notice of incompletion  or completion verification for the forestland unit. Subject
+to subsection (1) of this section,  the department shall return a forestland unit described in
+this subsection from pending status to available status.
+SECTION 12. (1) As used in this  section, “department reporting system” has the meaning
+given that term in section 4 of this 2020 special session Act.
+(2) Sections 4 to 11 of this 2020 special session Act  apply to pesticide applications occur-
+ring on or after:
+(a) July 1, 2021; or
+(b) If the  State Chief Information Officer gives public notice prior to July 1, 2021, that
+the State Forestry Department reporting system  lacks the required capacity for the carrying
+out of sections 4 to 11 of this 2020 special session Act, the earlier of:
+(A) July 1, 2022; or
+(B) The date on which the State Chief Information  Officer gives public notice that the
+department reporting system has the required capacity.
+SECTION 13.
+(1) As used in this  section, “department reporting system” has the meaning
+given that term in section 4 of this 2020 special session Act.
+(2) The State Forestry Department shall develop a system  to allow nondepartment mes-
+sages to nearby recipients described in section  7 (1) of this 2020 special session Act, notices
+under section  8 of this 2020 special session Act and notices of incompletion or completion
+verifications under section 9 of this  2020 special session Act to be sent electronically using
+mobile telephone equipment to access a department reporting system. The department shall
+make the access system  compatible with, at a minimum, the two most commonly used types
+of mobile telephone operating systems.
+SECTION 14. (1) As used in this section:
+(a) “Daily  spray records” means records required of a pesticide operator under ORS
+634.146.
+(b) “Geographic information system  data” means the electronic location data recorded
+during a pesticide application by helicopter.
+(c) “Health provider” means a  person holding a license, certificate or permit issued under
+Oregon law to provide the diagnosis, treatment or care of disease or injury  in the ordinary
+course of business  or practice of a profession, when seeking to provide diagnosis, treatment
+or care of a patient in response to a suspected exposure of the patient to pesticide.
+(d) “Pesticide operator” has the meaning given that term in ORS 634.006.
+(2) The Pesticide Analytical  and Response Center shall accept requests for a pesticide
+operator’s daily spray records and geographic information system data concerning a pesticide
+application by helicopter to forestland from:
+(a) A unit of state government, as defined in ORS 174.111;
+(b) A law enforcement agency, as defined in ORS 181A.010; or
+(c) A health provider.
+(3)(a) The  center shall forward a request received under subsection (2) of this section to
+the pesticide operator that is the subject of the request.  A pesticide operator that receives
+a request from the center shall send the center the daily spray  records and geographic in-
+Enrolled Senate Bill 1602 (SB 1602-A) Page 5
+formation system data possessed or accessible  to the pesticide operator concerning pesticide
+applications by helicopter to forestland identified in the request.
+(b) The pesticide operator shall send the requested daily spray record  information to the
+center no later than 24 hours after receiving the request. The pesticide operator shall send
+the requested geographic information system data to the center no later than five business
+days after receiving the request.
+(c) Upon receiving requested information  from a pesticide operator, the center shall
+forward the information received to the  requesting unit of state government, law enforce-
+ment agency or health provider.
+(4) Failure of a pesticide operator to  timely send records or data as required under sub-
+section (3) of this section is a violation subject to a fine of $1,000 per request.
+(5) Records and data sent or received under this section are not public records for pur-
+poses of ORS 192.311 to 192.478.
+SECTION 15.
+(1) As used in this section:
+(a) “Interfere”:
+(A) Means to use  force, violence or action that impedes a pesticide application by heli-
+copter to forestland.
+(B) Does not mean:
+(i) The memorializing of pesticide application activities through photography, videotaping,
+audiotaping or other creation of an electronic record by a person on public property or on
+private property where the person has a lawful right to be present; or
+(ii) Other activities  to the extent that the activities are protected under the First
+Amendment to the  United States Constitution or Article I, section 8, of the Oregon Consti-
+tution.
+(b) “Nearby recipient” has the meaning given that term in section 4 of this 2020 special
+session Act.
+(2) A person that intentionally interferes with a  pesticide application by helicopter to
+forestland commits an unclassified violation punishable by a fine of:
+(a) $1,000, if during the five years before the date of the interference the person has not
+previously been found to have committed a violation under this section; or
+(b) $5,000, if not more than five years before the date of  the interference the person was
+found to have committed a violation under this section.
+(3) For purposes of this  section, there is a conclusive presumption that interference is
+intentional if performed by a nearby recipient  who was sent information under section 8 (3)
+of this 2020 special session Act concerning the pesticide application.
+SECTION 16.
+(1) As used in this section:
+(a) “Department reporting system,” “pesticide” and “water use qualifying  for a spray
+buffer,” have the meanings given those terms in section 4 of this 2020 special session Act.
+(b) “Flowing water” means surface water  is present at the time of a pesticide application.
+(c) “Inhabited dwelling” means a structure or part of a structure used as a home,  resi-
+dence or sleeping place by a person maintaining a household or  by two or more persons
+maintaining a common household,  but does not include outbuildings, yard areas or other land
+associated with the structure.
+(d) “School” means the campus of:
+(A) A Head Start program;
+(B) A public or private institution offering instruction  for all or part of prekindergarten
+through grade 12;
+(C) The Oregon School for the Deaf;
+(D) A regional residential academy operated by the Oregon Youth Authority;
+(E) An education service district or community college; or
+(F) A public or private college or university.
+Enrolled Senate Bill 1602 (SB 1602-A) Page 6
+(e) “Sixth-level hydrologic unit” means the cataloging unit level of the 12-digit hydrologic
+unit mapping system developed by the Federal Geographic Data Committee.
+(f) “Type D stream” means a stream that has domestic use, but does not have fish use.
+(g) “Type F stream” means a  stream that has fish use or has both domestic use and fish
+use.
+(h) “Type N stream” means a stream that does not have domestic use or fish use.
+(2) Notwithstanding ORS 527.672, a person  may not directly apply pesticide by helicopter
+to forestland:
+(a) Less than 300 feet from an inhabited  dwelling, unless the landowner is the requester
+of the application;
+(b) Less than  300 feet from a school, unless the school board or other governing body for
+the school is the requester of the application; or
+(c) Subject to subsection (4) of  this section, less than 300 feet from a water intake for a
+water use qualifying for a spray buffer:
+(A) Within the same sixth-level hydrologic unit as a  water source for water use qualify-
+ing for a spray buffer that is registered under section 5 of this 2020 special session Act; or
+(B) Within the same sixth-level hydrologic unit as  a water source for water use qualify-
+ing for a spray buffer that is identified by the State Forestry Department and for which  the
+location has been recorded in the department reporting system.
+(3) On forestland that is subject to ORS 527.610 to 527.770, a person may not directly
+apply pesticide by helicopter near a stream:
+(a) That is identified by the department as a Type D  stream or Type F stream, within the
+greatest of:
+(A) 75 feet;
+(B) The required vegetated buffer; or
+(C) A riparian management  area existing in State Board of Forestry rules on the effec-
+tive date of this 2020 special session Act within which vegetation retention and  special
+management practices are required; or
+(b) That is identified by the department as a Type N stream and has flowing water, within
+50 feet.
+(4) The restrictions in subsection (2)(c) of this section are contingent upon the water
+intake location being recorded in the department reporting system.
+SECTION 17.
+Section 16 of this 2020 special session Act applies  to pesticide applications
+made on or after January 1, 2021.
+SECTION 18. The State Board of Forestry shall adopt rules to make  2017 board rules
+regarding salmon, steelhead and bull trout applicable for the Siskiyou Georegion.
+SECTION 19. The State Board of Forestry shall make the rules adopted by the board
+under section 18 of this 2020 special session Act effective on January 1, 2021.
+SECTION 20. (1) As used in this section, “department reporting system” and “water use
+qualifying for a spray buffer” have the meanings  given those terms in section 4 of this 2020
+special session Act.
+(2) The State  Forestry Department shall record in the department reporting system any
+points of diversion inventoried by the Water Resources Department that are:
+(a) For a water use qualifying for a spray buffer; and
+(b) Mapped with sufficient precision to allow the  State Forestry Department to imple-
+ment buffers under section 16 (2)(c) of this 2020 special session Act.
+(3) The State Forestry Department  shall periodically review Water Resources Depart-
+ment inventory information for points of diversion and update State Forestry Department
+reporting system information as necessary to comply with subsection (2) of this section.
+SECTION 20a.
+The State Forestry Department shall begin recording  inventoried points
+of diversion in the department reporting system as required by section 20 of this 2020  special
+Enrolled Senate Bill 1602 (SB 1602-A) Page 7
+session Act no later than 60 days after  the operative date of section 20 of this 2020 special
+session Act.
+SECTION 20b. (1) As used in this section, “department reporting system”  and “water use
+qualifying for a spray buffer” have the meanings given those  terms in section 4 of this 2020
+special session Act.
+(2) Except as provided in subsection (3) of this section, the State Forestry  Department
+and the Water Resources Department shall, in the manner provided in ORS 192.245,  submit
+a report to the Legislative Assembly during the 2022 regular session:
+(a) Stating the number of points of diversion that have been recorded in the State
+Forestry Department reporting system under section 20 of this 2020 special session Act;
+(b) Estimating  the extent to which points of diversion for water use qualifying for a spray
+buffer remain to be inventoried; and
+(c) Estimating the resources required for the  Water Resources Department to identify
+points of  diversion, whether already inventoried or remaining to be inventoried, with suffi-
+cient precision to allow the State Forestry Department to identify those points of  diversion
+qualifying for a spray buffer and implement  buffers under section 16 (2)(c) of this 2020 special
+session Act.
+(3) If section 20 of this 2020  special session Act becomes operative on or after the date
+that the 2022 regular session of the Legislative Assembly adjourns sine  die, the departments
+shall submit the report required by  this section to the Legislative Assembly during the 2023
+regular session.
+SECTION 21. Section 20 of this 2020 special session Act becomes operative  on the date
+sections 4 to 11 of this  2020 special session Act become applicable to pesticide applications
+as determined under section 12 of this 2020 special session Act.
+SECTION 22. This 2020 special session Act being necessary for  the immediate preserva-
+tion of the public peace, health and safety, an emergency is declared to exist, and this 2020
+special session Act takes effect on its passage.
+Passed by Senate June 26, 2020
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Peter Courtney, President of Senate
+Passed by House June 26, 2020
+..................................................................................
+Tina Kotek, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2020
+Approved:
+........................M.,........................................................., 2020
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2020
+..................................................................................
+Bev Clarno, Secretary of State
+Enrolled Senate Bill 1602 (SB 1602-A) Page 8

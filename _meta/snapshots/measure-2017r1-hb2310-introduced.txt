@@ -1,0 +1,608 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2310
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of  Governor Kate Brown for
+Oregon Health Authority)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Modifies provisions regarding schedule by which local public health authorities must submit lo-
+cal plans for applying foundational public health capabilities and implementing  foundational public
+health programs.
+Directs  Oregon  Public Health Advisory Board to establish accountability metrics for purpose
+of evaluating progress in achieving statewide public health goals.
+Establishes process by which governing body  of county may transfer to state duties of county
+with respect to public health laws of state.
+Permits local public health authorities to enter into agreement with Oregon Health  Authority
+under which  local public health authority receives state funding for purpose of applying foundational
+capabilities and implementing foundational programs.
+Authorizes Oregon Health Authority to establish fees for providing public health data for  public
+health purposes.
+Becomes operative January 1, 2018.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the provision of public health services; creating new provisions; amending ORS  431.115,
+431.123, 431.132, 431.148, 431.380, 431.382 and 431.417 and section 115, chapter  736, Oregon Laws
+2015; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SCHEDULE FOR PHASING IN FOUNDATIONAL
+CAPABILITIES AND FOUNDATIONAL PROGRAMS
+SECTION 1.
+ Section 115, chapter 736, Oregon Laws 2015, is amended to read:
+Sec. 115.  [ (1) On or before June 30,  2016, the Oregon Health Authority shall first submit the for-
+mula adopted under ORS 431.380, as amended by section 28 of this 2015  Act, to the Legislative Fiscal
+Office.]
+[(2)] (1) On or before January 1, 2017, the Oregon Health Authority shall:
+(a) Adopt the initial statewide public health  modernization assessment and develop the initial
+statewide public health modernization plan as required by [ section 4 of this 2015 Act ] ORS 431.115;
+and
+(b) Subject to [ subsections (3) and (4) ] subsection (2)  of this section, establish a schedule  by
+which local  public health authorities, as defined in [ section 2 of this 2015 Act ] ORS 431.003, shall
+[first] submit local plans for applying  the foundational capabilities established under [ section 9 of this
+2015 Act ] ORS 431.131 and implementing the foundational programs established under [ section 17
+of this 2015 Act ] ORS 431.141 as required by ORS [ 431.385] 431.417.
+[(3)] (2) The schedule established under subsection [ (2)(b)] (1)(b) of this section[ :]
+[(a) May impose different dates for different local public health authorities; and ]
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 582
+HB 2310
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(b)] must require that all local  public health authorities first submit local plans no later than
+December 31, 2023.
+[(4) The Oregon Health Authority shall collaborate with each local  public health authority in pre-
+scribing a date by which that local public health authority must first submit local plans as  described
+in subsection (2)(b) of this section. ]
+[(5) Notwithstanding the amendments to ORS 431.415, 431.416 and 431.385 by sections 25  to 27 of
+this 2015 Act, a local public health authority is required to submit a local plan to the authority as re-
+quired by ORS 431.385 as  in effect immediately before the effective date of this 2015 Act until the local
+public health authority first submits a local plan pursuant to the schedule established under subsection
+(2)(b) of this section. ]
+(3) In consultation with local public health authorities, the Oregon Health Authority may
+modify the schedule established under subsection  (1)(b) of this section to require local public
+health authorities to apply foundational capabilities and implement foundational  programs
+over a period of time, provided that  all local public health authorities submit local plans for
+applying all foundational capabilities and implementing all foundational  programs no later
+than December 31, 2023.
+ACCOUNTABILITY METRICS
+SECTION 2.  ORS 431.115 is amended to read:
+431.115. (1) For the purpose of fulfilling  its duties under ORS 431.110 (2), (3) and (4), the Oregon
+Health Authority shall:
+(a) Adopt and update as necessary a statewide public health modernization assessment;
+(b) In consideration of the  statewide public health modernization assessment, develop and modify
+as necessary a statewide public health modernization plan;
+(c) Implement the statewide public health modernization plan;
+(d) Subject  to the provisions of ORS 431.380, develop and modify as necessary plans for the
+distribution of funds to local public health authorities;
+(e) Implement plans for the distribution of funds to local public health authorities;
+(f) Coordinate state and local administration  of the foundational programs established under
+ORS 431.141;
+(g) Approve local  plans for applying the foundational capabilities established under ORS 431.131
+and implementing the foundational programs established  under ORS 431.141 as required by ORS
+431.417;
+(h) Monitor the progress of local public  health authorities in meeting statewide public health
+goals, including applying the foundational capabilities established under ORS 431.131 and  imple-
+menting the foundational programs established under ORS 431.141;
+(i) For the purpose of making distributions under  ORS 431.380, consult with and consider the
+recommendations of local public health authorities on the total cost to local public  health authori-
+ties of applying the foundational capabilities established under ORS 431.131 and implementing  the
+foundational programs established under ORS 431.141 [ as identified by local public health  authorities
+in community modernization assessments adopted under ORS 431.413 ];
+(j) Use accountability metrics to encourage the effective and equitable provision of  public
+health services by local public health authorities;
+[(j)] (k) Use incentives [ adopted under ORS 431.380 ] to encourage the effective and equitable
+[2]
+HB 2310
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+provision of public health services by local public health authorities;
+[(k)] (L) Seek  funding, including in the form of federal grants, for ORS 431.001 to 431.550 and
+431.990; and
+[(L)] (m) Coordinate and collaborate with federal agencies in  implementing ORS 431.001 to
+431.550 and 431.990.
+(2) The Oregon Health  Authority shall solicit input from the Conference of Local Health Offi-
+cials and local public health authorities in:
+(a) Establishing the foundational  capabilities under ORS 431.131 and the foundational programs
+under ORS 431.141;
+(b) Adopting and updating a statewide public health  modernization assessment under subsection
+(1)(a) of this section;
+(c) Developing and modifying a statewide public  health modernization plan under subsection
+(1)(b) of this section; and
+(d) Developing and modifying plans for the distribution  of funds under subsection (1)(d) of this
+section.
+SECTION 3.  ORS 431.123 is amended to read:
+431.123. The Oregon Public Health Advisory Board shall:
+(1) Make recommendations to the Oregon Health Policy Board on the development of  statewide
+public health policies and goals;
+(2) Make  recommendations to the Oregon Health Policy Board on how other statewide priorities,
+such as the provision  of early learning services and the delivery of health care services, affect and
+are affected by statewide public health policies and goals;
+(3) Make recommendations to the Oregon  Health Policy Board on the establishment of the
+foundational  capabilities  under ORS 431.131, the foundational programs under ORS 431.141 and any
+other public health program or activity under ORS 431.147;
+(4) Make recommendations to the Oregon Health Policy Board on the adoption and  updating of
+the statewide public health modernization assessment under ORS 431.115;
+(5) Make recommendations to the Oregon Health  Policy Board on the development of and any
+modification to the statewide public health modernization plan developed under ORS 431.115;
+(6) Establish accountability metrics for  the purpose of evaluating the progress of the
+Oregon Health Authority and local public health  authorities in achieving statewide public
+health goals;
+[(6)] (7) Make recommendations to  the Oregon Health Authority and the Oregon Health Policy
+Board on:
+(a) The development of , and any modification to , plans developed under ORS 431.115 for the
+distribution of funds to local public health authorities  under ORS 431.380 ; and
+(b) The total cost to local public health authorities of applying the foundational  capabilities es-
+tablished under ORS 431.131 and implementing the  foundational programs established under ORS
+431.141;
+(8) Make recommendations to the Oregon Health Policy Board on the incorporation and
+use of accountability metrics by the Oregon Health Authority  under ORS 431.380 to encour-
+age the effective and equitable provision of public health services by  local public health au-
+thorities;
+[(7)] (9) Make recommendations  to the Oregon Health Policy Board on the incorporation and
+use of incentives  by the Oregon Health Authority under ORS 431.380 to encourage the effective and
+[3]
+HB 2310
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+equitable provision of public health services by local public health authorities;
+[(8)] (10) Provide support to local  public health authorities in developing local plans to apply the
+foundational capabilities established  under ORS 431.131 and implement the foundational programs
+established under ORS 431.141 as required by ORS 431.417;
+[(9)] (11) Monitor the progress of local public health authorities in meeting  statewide public
+health goals, including employing the foundational capabilities established under  ORS 431.131 and
+implementing the foundational programs established under ORS 431.141;
+[(10)] (12) Assist the Oregon Health Authority in seeking funding, including in the  form of fed-
+eral grants, for ORS 431.001 to 431.550 and 431.990; and
+[(11)] (13) Assist the Oregon Health Authority in coordinating and collaborating with  federal
+agencies.
+FUNDING OF LOCAL PUBLIC HEALTH AUTHORITIES
+SECTION 4.  ORS 431.380 is amended to read:
+431.380. (1) From moneys made available by the state  to the Oregon Health Authority for the
+purpose of funding the foundational  capabilities established under ORS 431.131 and the foundational
+programs established under ORS 431.141, the Oregon Health Authority shall make  payments to local
+public health authorities under this section. The Oregon Health Authority shall each biennium sub-
+mit to the Public Health Advisory Board and the Legislative Fiscal Office a formula  that provides
+for the equitable distribution  of moneys. [ As a part of the formula, ] The Oregon Health Authority
+shall incorporate into the formula :
+(a) [ Establish] A baseline amount to be  invested in local public health activities and services by
+the state;
+(b) [ Establish] A method for awarding matching funds to a local  public health authority that
+invests in local public health activities and services  above the baseline amount established by the
+Oregon Health Authority for that local public health authority; [ and]
+(c) Accountability metrics for the foundational capabilities established under ORS 431.131
+and the foundational programs established  under ORS 431.141, for the purposes described in
+subsection (4) of this section; and
+[(c)] (d) [ Provide ] A method for the use of incentives as described in subsection (4) of this sec-
+tion.
+(2) The formula adopted under subsection (1) of this section must be submitted to the  Public
+Health Advisory Board and the Legislative Fiscal Office no later than  June 30 of each even-
+numbered year.
+(3) In establishing a baseline amount for the purpose of awarding  matching funds under sub-
+section  (1)(b) of this section, the Oregon Health Authority shall consider the population of each local
+public health authority, the burden of disease  borne by communities located within the jurisdiction
+of each local public health authority, the  overall health status of communities located within the
+jurisdiction of each  local public health authority and the ability of each local public health authority
+to invest in local public health activities and services.
+(4) The Oregon Health Authority shall  adopt by rule incentives [ to encourage ] and a process
+for identifying, updating and applying accountability metrics, for the purpose  of encouraging
+the effective and equitable provision of public health services by local public health authorities.
+(5) Nothing in this section prohibits the Oregon  Health Authority from distributing funds to a
+[4]
+HB 2310
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+local public health authority through  a competitive contract or grant process or on the basis of need
+for applying the foundational capabilities established under ORS 431.131 and implementing  the
+foundational programs established under ORS 431.141.
+SECTION 5.  ORS 431.382 is amended to read:
+431.382. [If the Oregon Health  Authority fails to distribute an amount of moneys to a local public
+health authority  equal to or in excess of the baseline amount established under ORS 431.380 (1)(a), a
+local public health authority may request to transfer responsibility for fulfilling the local  public health
+authority’s duties under ORS 431.001 to 431.550 and 431.990 and the other public  health laws of this
+state to the Oregon Health Authority. If a local public health authority requests to transfer responsi-
+bilities under this section,  the moneys available to the local public health authority under ORS 431.380
+revert to the Oregon Health Authority. A request to transfer made under this section must be made in
+the form and  manner prescribed by the Oregon Health Authority and takes effect 180 days after the
+Oregon Health Authority receives the request. ]
+(1) To transfer to the state  the responsibility of fulfilling the duties of a local public
+health authority under ORS 431.001 to 431.550 and 431.990 and the duties  of a local public
+health authority under the other public health  laws of the state, the governing body of a
+county must adopt an ordinance that transfers the responsibility after fulfilling the require-
+ments of subsection (2) of this section. An ordinance adopted under  this section may not
+transfer part of the duties of a local public health authority under ORS  431.001 to 431.550 and
+431.990 or part of the duties of  a local public health authority under the other public health
+laws of the state. An ordinance adopted under this section must  transfer all of the duties
+of a local public health authority under ORS 431.001 to 431.550  and 431.990 and all of the du-
+ties of a local public health authority under the other public health laws of the state.
+(2) Before adopting an ordinance under subsection (1)  of this section, the governing body
+of a county must, not less than 180 days before adopting the ordinance:
+(a) Provide written notice to each household where residents of the county reside, ex-
+plaining the reason for the transfer and the consequences of the  transfer and explaining the
+way in which a resident may provide public comment about the transfer to the  governing
+body of the county; and
+(b) Provide the Oregon Health Authority, in a form and manner prescribed by the au-
+thority, with written notice of the intent to adopt the ordinance.
+(3) If the governing  body of a county adopts an ordinance under this section, the gov-
+erning body must provide the Oregon Health Authority, in a form  and manner prescribed by
+the authority, with the text of the ordinance.
+(4) An ordinance  adopted under this section may not take effect sooner than 180 days
+after the date on which the governing body of the county adopts the ordinance.
+(5) If the governing body of a county adopts an ordinance  under this section, the local
+public health authority that provides  public health services for the county is not eligible to
+receive any funds under ORS 431.380.
+SECTION 6.
+ ORS 431.417 is amended to read:
+431.417. [(1) Each local public health authority  shall submit a local plan for applying the founda-
+tional capabilities established under ORS 431.131 and implementing the foundational programs estab-
+lished under ORS 431.141 to the Oregon  Health Authority in a form and manner prescribed by the
+authority.]
+[(2) The Oregon Health Authority may make suggestions to a  local public health authority on
+[5]
+HB 2310
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+modifying a plan submitted under this section. Suggestions must be based on  emerging best practices
+for the effective application and implementation of public health programs and activities. A  local public
+health authority may request technical assistance from the  Oregon Health Authority on implementing
+the suggestions. ]
+(1) The Oregon Health Authority may by rule require each local public  health authority
+to submit a plan, in a form  and manner prescribed by the Oregon Health Authority, that
+describes how the local public health authority will  use moneys made available under ORS
+431.380.
+(2) The Oregon Health  Authority may enter into an agreement with each local public
+health authority that describes the work the local public health authority agrees  to perform
+and the amount of  state funding the local public health authority will receive under ORS
+431.380.
+(3) The Oregon Health Authority may enter into one or more agreements with a  local
+public health authority for purposes of distributing funds, or providing  incentives, to the lo-
+cal public health authority that are available through federal grants  or other sources. Before
+entering into an agreement under this section,  the Oregon Health Authority shall adopt by
+rule a process by which a local public health authority must submit the documentation  nec-
+essary to receive incentives under an agreement authorized by this subsection.
+ASSESSMENT AND EPIDEMIOLOGY
+SECTION 7.  ORS 431.132 is amended to read:
+431.132. (1) For  the purpose of establishing the foundational capabilities under ORS 431.131, as-
+sessment and epidemiology include, but are not limited to, the knowledge, skills and abilities nec-
+essary to:
+(a) Identify and respond to disease outbreaks and epidemics;
+(b) Analyze and respond to information related to disease outbreaks and epidemics;
+(c) Conduct and assess surveys about health behaviors and practices;
+(d) Collect and maintain vital records and statistics;
+(e) Process data from  a variety of sources, including vital records, health records, hospital data,
+insurance data and indicators of community or environmental health;
+(f) Analyze key indicators of a community’s health;
+(g) Analyze data related to the causes and burdens of disease, injury, disability and death;
+(h) Prioritize and respond to requests for data processed  and analyzed as described in this sec-
+tion and communicate the response in a  manner that is accurate, statistically valid and usable by
+the requester;
+(i) Identify how disease, injury, disability and death disproportionately affect certain populations,
+including populations specific to sex, race, ethnicity and socioeconomic status;
+(j) Conduct a [ public health modernization ] community health assessment and identify priorities
+arising from that assessment[ , as required by ORS 431.115 or 431.413 ]; and
+(k) Use  relevant data to implement, monitor, evaluate and modify state health improvement
+plans or community health improvement plans.
+(2) For purposes of this  section, the Oregon Health Authority may adopt rules differentiating
+between the knowledge,  skills and abilities that are necessary for state governance and that are
+necessary for local governance.
+[6]
+HB 2310
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+EVIDENCE-BASED BEST PRACTICES
+SECTION 8.  ORS 431.148 is amended to read:
+431.148. The  Oregon Health Authority may adopt by rule evidence-based best practices for the
+purpose of assisting local  public health authorities [ implement] in implementing  the foundational
+programs established under ORS 431.141 and any  other public health program or activity established
+under ORS 431.147. Rules adopted under this section are only for the purpose of assisting local
+public health authorities and  are not mandatory guidelines for the implementation of the programs
+or activities.
+FEES FOR PROVISION OF DATA
+SECTION 9. Section 10 of this 2017 Act  is added to and made a part of ORS 431.001 to
+431.550.
+SECTION 10. For purposes of fulfilling the duties and functions  and executing the powers
+conferred on the Oregon Health Authority by ORS 431.001 to 431.550 and 431.990, the  Oregon
+Health Authority may  by rule establish fees for providing data to academic institutions and
+nongovernmental entities that request the data for public health purposes.  Fees established
+under this section must be reasonably calculated to pay the cost of providing the data.
+OPERATIVE DATE
+SECTION 11. (1) Section 10 of this 2017 Act  and the amendments to ORS 431.115, 431.123,
+431.132, 431.148, 431.380, 431.382 and 431.417 and section 115, chapter 736, Oregon Laws 2015,
+by sections 1 to 8 of this 2017 Act become operative on January 1, 2018.
+(2) The Oregon  Health Authority and the Oregon Public Health Advisory Board may take
+any action before the operative date specified  in subsection (1) of this section that is neces-
+sary to enable the authority  and the board to exercise, on and after the operative date
+specified in subsection (1) of this  section, all the duties, powers and functions conferred on
+the authority and the board by section 10 of this 2017 Act and the amendments to ORS
+431.115, 431.123, 431.132, 431.148, 431.380, 431.382 and 431.417 and section 115, chapter 736,
+Oregon Laws 2015, by sections 1 to 8 of this 2017 Act.
+UNIT CAPTIONS
+SECTION 12.
+The unit  captions used in this 2017 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2017 Act.
+EFFECTIVE DATE
+SECTION 13. This 2017 Act takes effect on the 91st day after  the date on which the
+regular session of the Seventy-ninth Legislative Assembly adjourns sine die.
+[7]

@@ -1,0 +1,746 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2278
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of  Governor Kate Brown for
+Department of Revenue)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Authorizes municipal corporation to  budget for estimated debt service payments when general
+obligation bonds are approved by voters at May election.
+Provides that historic ghost towns do not have to comply with Local Budget Law.
+Creates consistency in methods by which community college districts budget and make appro-
+priations.
+Makes nonsubstantive housekeeping changes to Local Budget Law statutes.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to local budget law; creating new provisions; amending ORS  199.743, 261.200, 294.175,
+294.316, 294.456, 294.476, 478.410, 553.720 and 568.806; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this  2017 Act is added to and made a part of ORS 294.305 to
+294.565.
+SECTION 2. (1) If the voters of a municipal  corporation approve the issuance of general
+obligation bonds at a May election, the budget  of the municipal corporation adopted under
+ORS 294.456 may include estimated requirements to pay debt service on the bonds  during the
+ensuing year or each of the years of the ensuing budget period.
+(2) On or after July 1 and before September  1 following the election described in sub-
+section (1) of this section, the governing body  of the municipal corporation may adopt an
+ordinance or resolution imposing and categorizing a tax levy necessary to pay the  estimated
+debt service on the bonds described in subsection (1) of this section.  The portion of an ordi-
+nance or resolution that is adopted under this subsection does not become effective until the
+debt is incurred.
+(3) The assessor of the county in which the municipal corporation  is located shall accept
+a written notice certifying the estimated amount of ad valorem property taxes to be imposed
+by the municipal corporation pursuant  to an ordinance or resolution adopted under sub-
+section (2) of this section, or of a subsequent ordinance or resolution  imposing and categor-
+izing a  tax levy in an amount that is less than the amount imposed under subsection (2) of
+this section, on or before September 1 of the property  tax year, provided the governing body
+of the municipal corporation timely files and is approved for an extension under  ORS 310.060.
+SECTION 3.
+ ORS 294.316 is amended to read:
+294.316. The provisions of ORS 294.305 to 294.565 do not apply to  the following municipal cor-
+porations and entities:
+(1) Drainage districts organized under ORS chapter 547;
+(2) District improvement companies organized under ORS chapter 554;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 746
+HB 2278
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) Highway lighting districts organized under ORS chapter 372;
+(4) Irrigation districts organized under ORS chapter 545;
+(5) Road districts organized under ORS chapter 371;
+(6) Soil and water conservation districts organized under ORS chapter  568 that will not levy an
+ad valorem tax during the ensuing year or ensuing budget period;
+(7) Municipal public utilities operating under separate boards or commissions, authorized under
+ORS chapter 225 and city charters, and people’s utility districts organized under ORS  chapter 261,
+both operating without ad valorem tax support during the ensuing year or ensuing budget period;
+(8) Housing authorities [ organized under ORS 446.515 to 446.547 and  ORS chapter 456 ] created
+under ORS 456.055 to  456.235 that are not carrying out urban renewal activities using a division
+of ad valorem taxes under ORS 457.440 during the ensuing year or ensuing budget period;
+(9) Water control districts  organized under ORS chapter 553 that will not levy an ad valorem
+tax during the ensuing year or ensuing budget period;
+(10) Hospital financing authorities organized under ORS 441.525 to 441.595;
+(11) Export trading corporations organized under ORS 777.755 to 777.800;
+(12) Diking districts organized under ORS chapter 551;
+(13) Health districts organized under ORS 440.315 to 440.410; [ and]
+(14) Intergovernmental entities created under ORS 190.010, including councils of governments
+described in ORS 294.900 to 294.930, except that an intergovernmental entity or a council  of gov-
+ernments that proposes to impose ad valorem property taxes  for the ensuing year or budget period
+is subject to ORS 294.305 to 294.565 for the budget prepared for that year or period[ .]; and
+(15) Historic ghost towns as defined in ORS 221.862.
+SECTION 4.
+ ORS 294.456 is amended to read:
+294.456. (1)(a) After the  public hearing required under ORS 294.453 (1) and consideration of
+matters discussed at the public hearing, the governing body of a municipal  corporation shall enact
+the ordinances or resolutions necessary to adopt the budget,  to make the appropriations, to deter-
+mine, make and declare the ad valorem property  tax amount or rate to be certified to the assessor
+for either the ensuing year or each of the years of the ensuing budget  period and to itemize and
+categorize the ad valorem property tax amount or rate as required under ORS 310.060.
+(b) The governing  body may amend the budget estimates and proposed ad valorem property tax
+amount or rate in the budget  document before adoption under paragraph (a) of this subsection and
+after adoption if the post-adoption  amendments are adopted prior to the commencement of the fiscal
+year or budget period to which the budget relates.
+(c) Notwithstanding paragraph (b)  of this subsection, unless the amended budget document is
+republished pursuant to ORS 294.438 or 294.448 in  the same manner as the original budget and an-
+other public hearing is held pursuant to ORS 294.453 (1), or except to the extent ad valorem  prop-
+erty taxes may be increased under ORS 294.476:
+(A) The amount of estimated expenditures for each fund in an annual budget may  not be in-
+creased by more than $5,000 or 10 percent of the estimated expenditures, whichever is greater;
+(B) The amount of estimated expenditures  for each fund in a biennial budget may not be in-
+creased by more than $10,000 or 10 percent of the estimated expenditures, whichever is greater;  and
+(C) The amount or rate of the total  ad valorem property taxes to be certified by the municipal
+corporation to the assessor may not exceed the amount approved by the budget committee.
+(2)(a) After a  public hearing under ORS 294.453 (2) or (3), receipt of the certification of the tax
+supervising and conservation commission, if required,  and consideration of any orders, recommen-
+[2]
+HB 2278
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+dations or objections  made by the tax supervising and conservation commission in accordance with
+law, the  governing body of a municipal corporation shall enact the ordinances or resolutions nec-
+essary to adopt the budget, to make the appropriations,  to determine, make and declare the ad
+valorem property tax amount or rate for either the ensuing  fiscal year or each of the fiscal years
+of the ensuing budget period and to itemize and categorize the ad  valorem property tax amount or
+rate as required under ORS 310.060.
+(b) The action taken by the governing body under paragraph (a) of this subsection on each order,
+recommendation or objection made by  the commission, with the reasons for the action, must be in-
+cluded in the ordinance or resolution adopting the budget.
+(c) The governing body shall  send a certified copy of the ordinance or resolution to the com-
+mission within 15 days after the date the ordinance or resolution is adopted.
+(d) The governing body may amend the budget estimates, appropriations  and ad valorem prop-
+erty tax amount or rate in the budget document before  adoption under paragraph (a) of this sub-
+section and after adoption if the post-adoption amendments are adopted prior to  the commencement
+of the fiscal year or budget period to which the budget relates.
+(e) Notwithstanding paragraph (d)  of this subsection, unless the amended budget document is
+resubmitted to the tax supervising and conservation commission  for another public hearing and for
+recommendations or objections of the commission, or except to  the extent ad valorem property taxes
+may be increased under ORS 294.476:
+(A) The amount of  estimated expenditures for each fund in an annual budget may not be in-
+creased by more than $5,000 or 10 percent of the estimated expenditures, whichever is greater;
+(B) The amount of estimated expenditures for each fund in a biennial  budget may not be in-
+creased by more than $10,000 or 10 percent of the estimated expenditures, whichever is greater;  and
+(C) The amount or rate of the total ad valorem property  taxes to be certified by the municipal
+corporation to the assessor may not exceed the amount approved by the budget committee.
+(3)(a) Except as provided in subsections (4) and (5)  of this section, the appropriations required
+under subsections (1) and (2) of this section must contain:
+(A) One amount for each organizational unit or program of each fund that  is the total of all
+amounts for personnel services, materials and services and capital outlay attributable to the organ-
+izational unit or program; and
+(B) Separate amounts in each fund for operating expenses for personnel  services, materials and
+services and capital outlay that cannot be allocated to  a particular organizational unit or program
+and for debt service, special payments, interfund revenue transfers and operating contingencies.
+(b) Separate amounts for  activities within an organizational unit or program may be appropri-
+ated separately.
+(c) For a municipal corporation to which the terms “organizational unit” and “program”  do not
+apply, the appropriations must  contain separate amounts for personnel services, materials and ser-
+vices, capital outlay, debt service, special payments, interfund revenue transfers and  operating con-
+tingencies for each fund.
+(4) For a school district or an education service district, the appropriations required under
+subsections (1) and (2) of  this section must contain separate amounts in each major fund for each
+major function, as prescribed by the Department  of Education in consultation with the Department
+of Revenue, including instruction, support services, enterprise and community services, facilities
+acquisition and construction, interfund revenue transfers, debt service and operating contingencies.
+(5) For a community college district, the appropriations required under  subsections (1) and (2)
+[3]
+HB 2278
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of this section must contain separate amounts in each fund for:
+(a) Each major function, as prescribed by the Office of  Community Colleges and Workforce De-
+velopment in consultation with the Department of Revenue, including instruction,  instructional
+support, student services, community services, college support services, interfund transfers, debt
+service and operating contingencies;
+(b) Each major function as required under subsection (4) of this section; or
+(c) Each organizational unit or  program [ or] and each object classification required under
+subsection (3) of this section.
+(6) Except as provided in ORS  294.338, 294.463, 294.466, 294.471, 294.473 and 294.478, after the
+governing body has enacted the ordinances or resolutions necessary to adopt the budget  as required
+under this section, an expenditure, or encumbrance  if encumbrance accounting is used, of public
+money may not be made for any purpose in an amount greater than the amount appropriated.
+(7) The governing body of  a municipal corporation shall record the amount or rate of ad valorem
+property taxes to be certified and the purposes for which  the taxes will be used. Except as provided
+in ORS 294.476, the municipal corporation may not certify ad valorem property  taxes in an amount
+or rate greater than the amount or rate recorded for the purposes indicated.
+(8)(a) The governing body  of a municipal corporation shall determine, make and declare ad
+valorem property taxes under subsections (1) and (2) of this section as a  rate per $1,000 of assessed
+value if the taxes are  operating taxes as defined in ORS 310.055 (1) or rate-based local option taxes.
+(b) The governing body shall determine, make  and declare ad valorem property taxes under
+subsections (1) and (2) of this  section as an amount if the taxes are certified as amount-based local
+option taxes, to pay principal and interest on exempt bonded indebtedness or to pay  other govern-
+ment obligations described in [ section 11 (5), ] Article XI , section 11 (5),  of the Oregon Constitution.
+(c) Notwithstanding paragraph (a) of this subsection, the governing body may certify  operating
+taxes as defined in ORS 310.055 (1) as a rate or an amount if less than  the full authority is needed
+to balance the fund that will receive the taxes.
+SECTION 5.
+ ORS 199.743 is amended to read:
+199.743. (1) Notwithstanding ORS 294.305 to [ 294.520] 294.565 and 310.010 to 310.110, if the
+charter for a city-county is approved under ORS 199.740 (1) and the effective  date of such charter
+is other than the date of the beginning of the fiscal year immediately following the fiscal year in
+progress on the effective date of such charter, during the  remainder of the fiscal year in progress
+on the  effective date of such charter the city-county shall expend moneys and levy taxes in accord-
+ance with the budgets prepared and adopted by each of  the municipal corporations consolidated,
+merged or dissolved in the formation of the city-county pursuant to  such charter, as if such charter
+had not taken effect. For the purposes of this section, the city-county shall be considered to  be a
+continuation of each municipal corporation consolidated, merged  or dissolved in the formation of the
+city-county.
+(2) As used in subsection (1) of this section:
+(a) “Fiscal year” has the meaning given that term in ORS 294.311.
+(b) “Municipal corporation” has the meaning given that term in ORS 294.311.
+SECTION 6.
+ ORS 261.200 is amended to read:
+261.200. (1) If a  majority of votes cast at the election favors formation of the people’s utility
+district and authorization of the district to impose a  special levy for the purposes stated in the pe-
+tition for formation,  or annexation of a parcel of territory or a city to an existing district, or con-
+solidation of two or more districts, as the case may be, and  in conformity with provisions of ORS
+[4]
+HB 2278
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+261.105 and 261.110, the county governing body shall issue a proclamation accordingly and file a
+certified copy with the county clerk of each county  where the district or any portion thereof is lo-
+cated. The proclamation for formation of a district shall be in substantially the following form:
+_______________________________________________________________________________________
+Whereas at an election duly and regularly held  on the day of , 2 , within
+ County (or  Counties), State of Oregon, and within the  boundaries of a pro-
+posed district as herein described, there was submitted  to the electors thereof the question whether
+or not a people’s utility district should be incorporated  as the (here insert name of district) and to
+give authority to impose a special levy of $  under and pursuant to the provisions of ORS
+chapter 261; and
+Whereas at the election so held  votes were cast  in favor of incorporation, and  votes
+were cast against incorporation; and
+Whereas the incorporation of the (here insert  name of district) received the affirmative vote of
+the majority of the votes cast at the election;
+Now, therefore, the  undersigned hereby does proclaim and declare that all of that part of the
+State of Oregon, described as (here insert description) has been duly and legally incorporated  as the
+ People’s  Utility District under and pursuant to the Constitution and laws of the State
+of Oregon, and the district has the authority to collect the sum  of $  by special levy against
+the taxable property within the district.
+Chairperson of the County Governing Body.
+By 
+_______________________________________________________________________________________
+(2) The proclamation for annexing a parcel of territory or a city  to an existing district or the
+consolidation of two or more existing districts, or both, shall  be adaptations of the above procla-
+mation.
+(3) The proclamation of formation, with  the notice of boundary change under ORS 308.225, shall
+be filed by the district with the county assessor of each county in which any  portion of the district
+is situated, who shall thereupon enter the special levy.
+(4) Expenditure of the moneys received from the special  levy for the purposes stated in the pe-
+tition for district formation may be made by  the district without prior adoption of a budget under
+ORS 294.305 to [ 294.520] 294.565.
+(5) Following proclamation of  formation of a district, any person whose property has been im-
+properly included within a district, contrary to the provisions of ORS 261.110 (5) or  (7), may petition
+a county governing body to revise the district  boundaries to exclude the property. After notice to
+the district, and a hearing on the petition,  the county governing body shall revise the district
+boundaries to exclude such property as  it finds should not have been included within the district
+under the standards set forth in ORS 261.110  (5) or (7). Upon such findings and boundary revisions
+a district shall be permitted to  refund related taxes paid that are based upon assessments made after
+January 1, 1978. Boundary revisions shall comply with  ORS 308.225. The remedy provided in this
+subsection  shall  be available only to persons owning property in districts which were formed after
+January 1, 1978.
+SECTION 7.  ORS 294.175 is amended to read:
+294.175. (1) As used in this section and ORS 294.178 to 294.187:
+[5]
+HB 2278
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) “Department” means the Department of Revenue.
+(b) “Expenditures” has the meaning given the term for purposes of ORS 294.305 to  [ 294.520]
+294.565 and may be further defined by rule of the department. “Expenditures” does not include  any
+item or class of items that cannot reasonably be allocated to an organizational unit.
+(c) “Expenditures  for assessment and taxation” means expenditures for any of the activities,
+functions or services required of a  county in the assessment, equalization, levy, collection or dis-
+tribution of property taxes under ORS  chapters 305, 306, 307, 308, 308A, 309, 310, 311, 312 and 321.
+“Expenditures for assessment and taxation” specifically includes expenditures for appraising
+county-appraised industrial property, if the responsibility for making the  appraisal has been deleg-
+ated by the department to a county assessor under ORS 306.126 (3).
+(d) “Grant” has the meaning given the term for purposes of ORS  294.305 to [ 294.520] 294.565,
+and is further described under ORS 294.178.
+(2) On or before  May 1 of each year, each county shall file with the department a true copy of
+its estimates of expenditures for assessment and  taxation for the ensuing year as prepared for pur-
+poses of ORS 294.388 but in accordance with any rules adopted by the department.
+(3) Upon receipt of the estimate, the department shall review the estimate to determine  its ad-
+equacy to provide the resources needed to achieve compliance with ORS 308.232 and 308.234, ORS
+chapter 309 and other laws requiring equality and  uniformity in the system of property taxation
+within the county in order that the same equality and uniformity  may be achieved throughout the
+state.
+(4) If, upon initial review of the estimate,  the department determines that the proposed expen-
+ditures, or any of them, are not at the level or of the type needed to achieve adequacy,  the depart-
+ment shall notify the county  governing body. The notice shall contain an explanation of the reasons
+for the determination and may describe specific items or classifications of expenditure which the
+department has determined are required, or are not  required, in order to achieve adequacy. The
+notice shall fix the date upon which a conference  with the county governing body or representatives
+of the county governing body shall be held.
+(5)(a) Subject to paragraph (b) of this subsection, if, upon initial review,  or upon or after con-
+ference held on the date specified in the notice under  subsection (4) of this section, or another date
+or dates convenient to  the department and the county governing body, the department determines
+that the expenditures as initially filed,  or that the expenditures as agreed upon at the conference,
+are at the level and of the type needed to achieve adequacy for that year or over  a period of years
+under a plan presented as described under  ORS 294.181, the department shall certify to the county
+governing body that its  estimate of expenditures for assessment and taxation so determined are ad-
+equate and that  the county will be included in the computation made under ORS 294.178 for the
+purpose of determining the amount of that county’s quarterly grant. The department shall  include
+in the  certification an estimate of the percentage share of the funds available in the County As-
+sessment Function Funding Assistance Account that the county  will receive under ORS 294.178 and
+an estimate of the total amount of the grant that will be forthcoming to  the county from that ac-
+count for the ensuing year on account of the certification.
+(b) The department shall not certify expenditures under this subsection that the department de-
+termines are in excess of the expenditures necessary to meet the requirements of subsection (3)  of
+this section.
+(6) Any certification issued under subsection (5) of this section shall be issued as of the  June
+15 following the filing of the estimate of expenditures under subsection (2) of this section. If, as  of
+[6]
+HB 2278
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+June 15, agreement has not been reached between the department and  the county governing body
+upon the estimate, the department shall issue a denial of certification.
+(7) A county may  appeal the determination of the department under subsection (5)(b) of this
+section or the denial of certification issued under subsection (6) of this section to the  Director of
+the Oregon Department of Administrative Services. Appeal shall be filed within  10 days after the
+date that the denial  of certification is issued. The sole issue upon appeal shall be the adequacy of
+expenditures for assessment and taxation as filed with the  department under subsection (2) of this
+section, and the determination, if any, made by the department  under subsection (5)(b) of this sec-
+tion. If the Oregon Department  of Administrative Services does not issue an order approving the
+expenditures  before  July 1 of the fiscal year for which the expenditures are proposed, the certifica-
+tion for purposes of ORS 294.175 to 294.187 shall be considered denied.
+SECTION 8.  ORS 478.410 is amended to read:
+478.410. (1) To  provide funds for defraying expenses for the establishment, equipment and main-
+tenance of the district, the district board may provide for a  tax on the assessed value of all taxable
+property within the district.
+(2) To carry into effect any of the  powers granted to the district, the district, when authorized
+by a majority of the voters voting at an election called for that  purpose, may borrow money and sell
+and dispose  of general obligation bonds. The total outstanding general obligation bonds, together
+with liabilities outstanding incurred under rental or lease-purchase agreements authorized by  sub-
+section (3) of this section, may  not exceed one and one-fourth percent (0.0125) of the real market
+value of all taxable property within the district, computed in accordance with ORS 308.207.
+(3) The district board may enter into rental or lease-purchase agreements to  rent, lease or ac-
+quire real  or personal property, or both, required for fire-protection purposes. Except for agree-
+ments to rent, lease or acquire real property, an agreement may not run for more than 10  years or
+be subject to renewal. The aggregate principal obligations under the agreements,  and under other
+like agreements, with outstanding bonded indebtedness, may not exceed the  limitation imposed by
+subsection (2) of this section. ORS 294.305 to  [ 294.520] 294.565 do not affect or restrict the right of
+any district to enter into an agreement described in this subsection.
+(4) Unless expressly prohibited by the  documents creating the district, a district board may
+adopt an ordinance as provided under ORS 198.510 to 198.600 to create a fee  for any service pro-
+vided by the  district. A fee created under authority of this section may not exceed the cost to the
+district  of  providing the service. The fee authority granted to a board by this subsection is in addi-
+tion to any authority granted to a board under local law or by the documents creating the district.
+Notwithstanding ORS 198.600, the failure to pay a fee created under  authority of this section is not
+a violation punishable under ORS 198.600.
+SECTION 9.
+ ORS 553.720 is amended to read:
+553.720. The ad valorem tax provided  for in ORS 553.710 shall be levied and collected in the
+manner otherwise provided by law for the levy and  collection of [ real] property taxes. The board
+shall prepare a budget in the form, manner and time prescribed in  ORS 294.305 to [ 294.520, 294.458
+and] 294.565 (the Local Budget Law),  for each subdistrict for which taxes are to be levied and as-
+sessed, and in  accordance therewith shall fix the amount of money to be raised by taxation for each
+subdistrict. Thereafter the levy shall be equalized and the tax collected and turned  over to the dis-
+trict as otherwise provided by law for public corporations.
+SECTION 10.  ORS 568.806 is amended to read:
+568.806. (1) When authorized to become a taxing district by the eligible electors of the  district
+[7]
+HB 2278
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+as provided in ORS 568.807, a district may assess, levy and collect an ad valorem tax each  year on
+[the real market value of ] all taxable property within the limits of the district. The proceeds of the
+tax shall be applied in carrying out the purposes of ORS 568.210 to 568.808 and 568.900 to 568.933.
+(2) In any year in which the ad valorem tax provided for in subsection (1)  of this section is
+levied, the directors of the district shall prepare a  budget in the form, manner and time prescribed
+in ORS 294.305 to [ 294.520] 294.565 (the Local Budget Law),  and in accordance therewith shall fix
+the amount of money to be raised by taxation for the district.
+(3) Any taxes  levied in any year shall be returned to the county officer, whose duty it is to ex-
+tend the tax roll in the manner provided in ORS 310.060.
+(4) All taxes levied by a district shall become payable at the same time and  be collected by the
+same officer who collects county taxes, and shall be turned over to the district according to law.
+The county officer whose duty it  is to extend the county levy shall extend the levy of the district
+in the same manner as city taxes are extended.
+(5) Property shall be subject to sale for nonpayment of taxes levied  by a district in like manner
+and with like effect as in the case of county and state taxes.
+SECTION 11.
+ ORS 294.476 is amended to read:
+294.476. (1) This subsection applies to the period  following  [ the] a municipal corporation’s
+adoption under ORS 294.456 of a budget [ under ORS 294.456 ] that does not include revenue from
+a proposed local option tax[ ,]. If [ a] the municipal  corporation places a local option tax measure on
+the ballot for an election held in September and the electors of the municipal corporation  approve
+the measure, in order to impose the local  option tax during the current fiscal year or current budget
+period , the governing body of the municipal corporation must:
+(a) Adopt an ordinance or  resolution to determine, make and declare the local option tax and
+to categorize the local option tax amount or rate as provided in ORS 310.060;
+(b) Receive from the assessor of the county in which  the municipal corporation is located (or,
+if the municipal corporation is located in more than one county, from  the assessor of each county
+in which the municipal  corporation is located) written approval to file a supplemental notice of
+property tax as described in ORS 310.060 (9); and
+(c) File with the assessor of the county in which  the municipal corporation is located (or, if the
+municipal corporation is located in more than one  county, with the assessor of each county in which
+the municipal corporation is located) two copies of the ordinance or resolution described in  para-
+graph (a) of this subsection, two copies of the supplemental notice of property  tax required under
+ORS 310.060 and two copies of the approved local option tax measure.
+(2) This subsection applies to the  period following [ the] a municipal corporation’s  adoption
+under ORS 294.456 of a budget  [under ORS 294.456 ] that does not include revenue from a proposed
+local option tax or taxes to pay principal and interest on exempt bonded  indebtedness[ ,]. If [ a] the
+municipal corporation places a local option tax measure or a general obligation bond measure  on
+the ballot for an election, other than an election held in  September, next following adoption of the
+budget and the electors of the municipal corporation  approve the measure, in order to impose the
+tax during the second  fiscal year of a biennial budget period, the governing body of the municipal
+corporation  must:
+(a) Adopt an ordinance or resolution to  determine, make and declare the tax and to categorize
+the tax amount or rate as provided in ORS 310.060; and
+(b) Include with the certification required under  ORS 310.060 for the second fiscal year of the
+biennial budget  period[ ,] two copies of the ordinance or resolution described in paragraph (a) of this
+[8]
+HB 2278
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+subsection and two copies of  the approved local option tax measure or general obligation bond
+measure.
+(3) Funds raised by a  local option tax described in this section may not be expended by the
+municipal corporation unless the  municipal corporation has adopted a supplemental budget in ac-
+cordance with ORS 294.471. Funds may be expended only  in accordance with the supplemental
+budget so adopted.
+(4) As soon as received, the county assessor shall forward one copy  of each of the documents
+described in subsection (1)(c) of this section to the Department of Revenue.
+SECTION 12. This 2017 Act takes effect on the 91st day after the date on which  the 2017
+regular session of the Seventy-ninth Legislative Assembly adjourns sine die.
+[9]

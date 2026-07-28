@@ -1,0 +1,55 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+Senate Bill 1587
+Sponsored by Senator CAMPOS, Representative CHOTZEN, Senator  PROZANSKI, Representatives
+ANDERSEN, CHAICHI, RUIZ, WISE;  Senators FREDERICK, GELSER BLOUIN, GOLDEN,
+GORSEK, JAMA, MANNING  JR, MEEK, NERON MISSLIN, PHAM K, REYNOLDS,
+SOLLMAN, Representatives BOWMAN,  GAMBA, GOMBERG, GRAYBER, HUDSON, JAVADI,
+MCDONALD, MCLAIN, MUNOZ, NELSON, PHAM H, RIEKE SMITH, SOSA, TRAN,
+WALTERS (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to data brokers; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Data broker” has the meaning given that term in ORS 646A.593.
+(b) “Personally identifiable information” has the meaning given  that term in ORS 432.005.
+(c) “Public body” has the meaning given that term in ORS 174.109.
+(2)(a) Except as provided in subsection (3) of this section, a public  body may not disclose
+personally identifiable information to a data broker unless the data broker first provides a
+written attestation to the public body that the information will not  be sold or otherwise
+transferred to any entity that will use the information to enforce federal immigration law.
+(b) If a public body reasonably believes that a data broker’s written  attestation contains
+material misrepresentations, falsehoods or  omissions, the public body shall reject the written
+attestation and shall decline to disclose personally identifiable information to  the data bro-
+ker.
+(3) This section does not prohibit a public body from  disclosing personally identifiable
+information to a data  broker if the disclosure is required under ORS 192.311 to 192.478 or
+required by an order of a court of competent jurisdiction, or  if the information is available
+to the general public  and is only disclosed under the same terms and conditions under which
+the information is available to the general public.
+SECTION 2.
+This 2026 Act takes effect on the 91st day after the date  on which the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Enrolled Senate Bill 1587 (SB 1587-B) Page 1
+Passed by Senate February 24, 2026
+Repassed by Senate March 4, 2026
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House March 2, 2026
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 1587 (SB 1587-B) Page 2

@@ -1,0 +1,126 @@
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Enrolled
+House Bill 2158
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the  request of State
+Treasurer Tobias Read)
+CHAPTER .................................................
+AN ACT
+Relating to bonding; amending ORS 238.697, 286A.035 and 352.402.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 286A.035 is amended to read:
+286A.035. (1) Each related agency shall report  the plans of the related agency for the issuance
+of bonds during the  next biennium. The related agency shall submit the related agency’s report to
+the Governor by a  date determined by the Governor and shall include in the report a description
+of bonds that the related agency intends to retire or defease during the next biennium.
+(2) On or before a date determined by the Governor, the  State Treasurer shall advise the Gov-
+ernor on the prudent maximum amount of  bonds to be issued for each bond program. The State
+Treasurer shall consider available economic and financial data in preparing advice to  be given to
+the Governor.
+(3) As part of the Governor’s budget described in ORS 291.216, the Governor shall:
+(a) Consider the prudent maximum  amounts advised by the State Treasurer pursuant to sub-
+section (2) of this section to determine the Governor’s total recommended amount; and
+(b) Recommend  to the Legislative Assembly the total amount of bonds the State Treasurer may
+issue for each bond program for a biennium.
+(4) The Legislative Assembly shall determine  the amount of bonds the State Treasurer may issue
+for each state agency for a biennium. Except as  provided in subsection (5) of this section,  if the
+Legislative Assembly fails to make  the determination described in this subsection by the first day
+of the biennium, the unused  portion of the authorization the Legislative Assembly made for the
+preceding biennium is deemed  to carry forward for the current biennium at the amount authorized
+for the preceding biennium until the earlier of:
+(a) The date on which  legislation authorizing the amount of bonds for the current biennium is
+enacted;  or
+(b) The date on which the Legislative Assembly adjourns sine die.
+(5) The unused portion  of the amount of pass-through revenue bonds authorized for is-
+suance in the preceding biennium is deemed to  carry forward for the current biennium until
+the date on  which legislation authorizing the amount of pass-through revenue bonds for the
+current biennium is enacted.
+[(5)] (6) The amount of bonds that may be  issued under bond programs may be modified by the
+Governor.  However,  the Governor may not modify the amount of bonds that may be issued under
+bond programs  in a way that would cause the maximum amount established by the Legislative As-
+sembly for a category of bond programs to be exceeded if the Legislative Assembly:
+Enrolled House Bill 2158 (HB 2158-INTRO) Page 1
+(a) Has categorized  the bonds that may be issued under bond programs as general obligation,
+direct revenue and pass-through revenue bonds; and
+(b) Assigned a maximum amount to each category.
+[(6)] (7) This section applies to bonds:
+(a) Unless the bonds are expressly exempted from the requirements of this section.
+(b) Except refunding bonds.
+SECTION 2.
+ ORS 238.697 is amended to read:
+238.697. (1) Before a public body, or an intergovernmental entity formed  pursuant to ORS
+238.695, may authorize the issuance of bonds under ORS 238.694, the public body or intergovern-
+mental entity must first:
+(a) Obtain a statistically based assessment  from an independent economic or financial consulting
+firm regarding the likelihood that investment returns on bond proceeds will exceed the interest cost
+of the bonds under various market conditions; and
+(b) Make a report available to the general public that:
+(A) Describes the results of the assessment; and
+(B) Discloses whether the public body or intergovernmental entity has retained the  services of
+an independent SEC-registered advisor.
+(2) The public body or intergovernmental  entity shall transmit the assessment to the State
+Treasurer [ at least ] by the earlier of:
+(a) 30 days before issuing the bonds[ .]; or
+(b) Two days prior to the date the bonds are offered for sale to investors.
+(3) The State Treasurer shall provide to  the State Debt Policy Advisory Commission an annual
+report on bonds issued  under ORS 238.694. The report must describe each bond issuance under ORS
+238.694 that took place on or after June 11, 2019, and that remains outstanding, including, for  each
+issuance:
+(a) The actual interest rate owed over the term of the bonds;
+(b) The projected rate of return on the bond proceeds, as  determined by the assessment required
+under subsection (1) of this section; and
+(c) The  actual rate of return on the bond proceeds in the previous fiscal year and the cumulative
+rate of return on the bond proceeds.
+(4) As used in  this section, “independent SEC-registered advisor” has the meaning given the
+term “independent registered municipal advisor” in 17 C.F.R. 240.15Ba1-1, as amended.
+SECTION 3.
+ ORS 352.402 is amended to read:
+352.402. (1) A public university [ listed in ORS 352.002 ] may  elect to remain eligible to receive
+proceeds of state bonds. If a public university requests the State Treasurer to issue state bonds for
+the benefit of the university that are authorized under  Article XI-F(1) or XI-Q of the Oregon Con-
+stitution or ORS 283.085 to 283.092, and the state bonds are intended to be repaid in whole  or in
+part by university  revenues or other moneys under the control of the university, the [ State Treasurer
+must review and approve  all plans to issue revenue bonds of the university and to execute other obli-
+gations related to the revenue bonds. ]
+[(2) The State Treasurer shall limit the scope of review and approval under  subsection (1) of this
+section to consideration of periodic cash flow projections and other information  necessary to determine
+the sufficiency of the cash flow of the public university listed in ORS 352.002 ] university may  not
+issue revenue bonds pursuant to ORS 352.388 to 352.415 unless the  university first certifies
+to the State Treasurer, in a form and manner required by the State Treasurer, the  suffi-
+ciency of the university’s cash flow  to pay any loans from state agencies funded with the proceeds
+of state bonds and to pay costs for:
+(a) State bonds issued for the benefit of the  public university [ listed in ORS 352.002 ] pursuant
+to Article XI-F(1) or XI-Q of the Oregon Constitution or ORS 283.085 to 283.092; and
+(b) Revenue bonds issued pursuant to ORS 352.388 to 352.415.
+(2) A public university must transmit the certification required under subsection (1)  of
+this section to the State Treasurer by the earlier of:
+Enrolled House Bill 2158 (HB 2158-INTRO) Page 2
+(a) 30 days before issuing the bonds; or
+(b) 10 days prior to the date the bonds are offered for sale to investors.
+(3) A public university  [ listed in ORS 352.002 ] that issues revenue bonds of the university, or
+executes other obligations related to the revenue bonds, without [ the approval of the State Treasurer
+as provided in subsection (2) of this section ] making the  certification required under this section
+is not eligible to receive proceeds of the state bonds described  in subsection (1) of this section [ and
+that are intended to be repaid in whole or  in part by university revenues or other moneys under the
+control of the university on or after August 14, 2013 ] after the effective date of this 2023 Act .
+(4) As used in this  section, “public university” means a public university listed in ORS
+352.002.
+Passed by House March 7, 2023
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Dan Rayfield, Speaker of House
+Passed by Senate June 21, 2023
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2023
+Approved:
+........................M.,........................................................., 2023
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2023
+..................................................................................
+Secretary of State
+Enrolled House Bill 2158 (HB 2158-INTRO) Page 3

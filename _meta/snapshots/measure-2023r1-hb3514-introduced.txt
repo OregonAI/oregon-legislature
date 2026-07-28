@@ -1,0 +1,106 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 3514
+Sponsored by Representative GOMBERG; Representative NERON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires Oregon Racing Commission  to investigate reports of Multi-Jurisdictional Simulcasting
+and Interactive Wagering Totalizator Hub licensees  that, in violation of statute, permit greyhound
+wagering accounts to be opened by individuals in jurisdictions where greyhound racing  is unlawful.
+Requires commission to suspend license of violators until licensee implements appropriate controls.
+Prohibits licensees from accepting  wagers on greyhound races that took place or are taking
+place outside United States.
+A BILL FOR AN ACT
+Relating to racing; amending ORS 462.725.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 462.725, as amended by section 1, chapter 77, Oregon Laws 2022, is  amended
+to read:
+462.725. (1) Notwithstanding any other provision of this chapter, the Oregon Racing Commission
+may adopt rules to:
+(a) License and  regulate all phases of operation of Multi-Jurisdictional Simulcasting and Inter-
+active Wagering Totalizator Hubs located in Oregon; and
+(b) Authorize and license Multi-Jurisdictional  Simulcasting and Interactive Wagering Totalizator
+Hubs to  conduct simulcast broadcasting of, and mutuel wagering on, animal races, including previ-
+ously held races on which mutuel wagering is lawful  in Oregon , subject to subsection (8) of this
+section.
+(2) In addition to the other rules of operation adopted by the  commission, the commission shall
+adopt a rule setting the amount that may be taken from the gross receipts  of the multi-jurisdictional
+mutuel system.
+(3) All employees working in Oregon and all officers of any Multi-Jurisdictional Simulcasting
+and Interactive Wagering Totalizator Hubs located and operating  in Oregon must obtain a license
+from the commission prior  to the commencement of business or employment. The commission shall
+adopt rules establishing license fees for the employees and officers, not to exceed $30 per year.
+(4) Payments to be made to the commission include:
+(a) Multi-Jurisdictional  Simulcasting and Interactive Wagering Totalizator Hub license fee not
+more than $200 per operating day.
+(b) Not more than one percent of total gross receipts of  mutuel wagering recorded by the
+totalizator system.
+(5) Of the moneys received by the commission under  subsection (4)(b) of this section, 25 percent
+shall be paid to the  State Treasurer for deposit in the General Fund and 75 percent shall be retained
+by the commission. The commission  may adopt rules under which the moneys retained by the com-
+mission may be distributed for the benefit of the Oregon pari-mutuel racing industry.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2116
+HB 3514
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+(6) Wagers on previously held races authorized under subsection (1) of this section are  subject
+to the provisions of ORS 462.157.
+(7)(a) A Multi-Jurisdictional Simulcasting and Interactive  Wagering Totalizator Hub licensee
+may not establish an account for wagering on greyhound racing  for an individual [ unless] if
+wagering on live greyhound racing is unlawful in the jurisdiction of the individual’s principal resi-
+dence.
+(b) The commission shall investigate any reports of violations of this  subsection. If the
+commission finds that a licensee  is in violation of this subsection, the commission shall
+suspend the licensee’s license under this section until the licensee  demonstrates to the sat-
+isfaction of the commission that the licensee has implemented policies and  procedures to
+prevent violations of this subsection.
+(8) A Multi-Jurisdictional Simulcasting and Interactive Wagering  Totalizator Hub
+licensee may not accept wagers on greyhound races that took place or are taking place out-
+side of the United States.
+[2]

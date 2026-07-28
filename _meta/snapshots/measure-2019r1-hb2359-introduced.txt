@@ -1,0 +1,383 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2359
+Sponsored by Representative SMITH DB (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires county at higher risk  of financial distress to withhold from taxing districts costs to
+county of assessing property and collecting property taxes. Limits withheld amount to  two percent
+of tax distribution to taxing district. Excludes moneys distributed for bonded indebtedness  from
+withholding.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to county property tax administration; creating new  provisions; amending ORS 311.385,
+311.390, 311.395 and 311.658; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. (1) This section applies to any county during the  period in which the county
+is listed as being at higher risk of financial distress in an audit report of the financial  con-
+dition of counties issued by the Secretary of State.
+(2)(a) The assessor and tax collector of each county shall make an annual determination
+of the actual costs to the county of assessing property and collecting property taxes.
+(b) The governing body of the  county shall include the costs in the annual budget of the
+county.
+(3) The tax collector shall withhold from the property tax  collection distribution made
+pursuant to ORS 311.390 (1) an amount equal  to the amount of costs determined under sub-
+section (2) of this section, after deducting the following amounts:
+(a) All  funds received from the County Assessment Function Funding Assistance Account
+under ORS 294.178; and
+(b) All amounts  levied by taxing districts for the payment of bonded indebtedness plus
+interest.
+(4)(a) After determining the amount  of costs under subsection (2) of this section, the tax
+collector shall apportion the costs among  the taxing districts in the county in proportion to
+each district’s share of total county property  tax collections, including property tax col-
+lections retained by the county.
+(b) Costs  apportioned to a taxing district may not exceed two percent of the taxing
+district’s distribution that is not bonded indebtedness plus interest.
+(5) Moneys withheld by the tax collector under this section may be deposited  in an ac-
+count of the county other than the unsegregated tax collections account.
+SECTION 2. Section 1 of this 2019 Act applies to property tax years beginning on or  after
+July 1, 2020.
+SECTION 3.  ORS 311.390 is amended to read:
+311.390. (1)(a) When the tax collector receives the assessor’s certificate pursuant to ORS 311.115,
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1105
+HB 2359
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the tax collector shall  prepare and file with the county treasurer a percentage schedule of the ratio
+of taxes on property, as defined in ORS 310.140,  and other amounts to be collected, after reductions
+necessary to comply with section 11b, Article XI of the Oregon Constitution, after making adjust-
+ments in accordance with ORS 311.105 (1)(c), for each governmental unit as shown in such  certif-
+icate, compared to the total of each of those amounts.
+(b) If a  tax supervising and conservation commission has submitted to the tax collector a list
+of municipal corporations subject to proration and the amounts prorated under ORS 294.632, before
+the tax collector calculates the ratio of  taxes on property under this subsection, the tax collector
+shall deduct the amounts submitted by  the tax supervising and conservation commission from the
+amounts scheduled for distribution under this section for  municipal corporations subject to the ju-
+risdiction of the tax supervising and conservation commission. The amount deducted from the  dis-
+tribution to the municipal corporations shall be added to the amount distributed to the county.
+(c) The schedule shall be approved by the county accountant, if one exists in the  county, or by
+the county clerk before filing. Except  as provided in subsections (2) and (3) of this section, the
+distribution of collections by the tax collector shall  be made on the basis of the ratios computed
+pursuant to this section. The ratios computed pursuant to this section for a given  fiscal year shall
+be used for the distribution of all  taxes on property or penalties that have been imposed, collected
+and received for that fiscal year, regardless of the actual  date of receipt, except for moneys retained
+by a county to  pay bankruptcy costs under ORS 311.484  and the amount withheld by a tax col-
+lector under section 1 of this 2019  Act . Interest earned on moneys in the unsegregated tax col-
+lections account shall be distributed according to  the ratio applicable to the year in which the
+moneys are distributed.
+(2) If, after the  ratios are computed pursuant to this section, the amount of a levy or other tax
+on property is changed, or a levy or other tax on property is filed  with the assessor pursuant to
+ORS 310.060 that had not been included in the tax distribution schedule for that year, the  tax col-
+lector shall revise the percentages provided in subsection (1)  of this section to reflect the corrected
+or added levy or tax and shall adjust the amounts previously distributed  and to be distributed
+thereafter to reflect the revision in percentages.
+(3) If, in the opinion of the tax collector, it is not feasible to make the revisions described  in
+subsection (2) of this section, the  tax collector shall treat the amount of the change in levy or tax
+or the additional levy or tax as a separate tax collection and segregate the moneys  collected for the
+particular  district  or districts in the periodic statement of tax collections given to the county
+treasurer pursuant to ORS 311.395.
+(4) If the percentage schedule is  revised, a copy shall be filed with the county treasurer after
+approval by the county accountant, if one exists in the county, or by the county clerk.
+(5) If, after the ratios are computed under this section, a levy or tax is changed or a levy or tax
+is filed with  the assessor pursuant to ORS 310.060, that was not included in the tax distribution
+schedule for that year, future distributions of interest shall  be based on the revised percentages that
+reflect the corrected or added levy or tax. No  adjustments shall be made for previously distributed
+interest.
+SECTION 4.
+ ORS 311.395 is amended to read:
+311.395. (1) The tax collector shall make statements of the exact amounts of property tax moneys
+in cash and warrants collected as follows:
+(a) For the  period beginning on the first Monday following the last Friday in October through
+the last Friday in  November, the tax collector shall make weekly statements of those taxes that are
+[2]
+HB 2359
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+collected for the current tax year.
+(b) For the period beginning the first  Monday following the last Friday of November through the
+last Friday of October of the  ensuing year, the tax collector shall make quarterly statements of
+those taxes that are collected for the current tax year.
+(c) The tax collector shall make quarterly statements of taxes collected for prior years.
+(d) Notwithstanding paragraph (b) or (c) of this subsection, if the  balance in the unsegregated
+tax collection account as of the close of any month for any tax year  (the current tax year or any
+prior tax year) exceeds $10,000 or if requested  by any taxing district, and if weekly statements are
+not required, then  the tax collector shall make a statement for the period since the last statement
+for the tax year.
+(e) If  the processing of tax payments for the current tax year received or postmarked on or be-
+fore the November 15 due date (or if the due date is extended  under ORS 311.507, the due date
+pursuant to the extension) is not substantially completed  as of the last Friday in November, the tax
+collector shall continue to make weekly statements  until the end of a week when the processing is
+substantially completed.
+(2)(a) Each statement shall be of taxes collected during the weekly, monthly, quarterly  or other
+period for which the statement is required.
+(b) The statements prepared under subsection (1) of this section shall specify the tax years  for
+which the payments of taxes were made.
+(c) A copy of each statement shall be filed with the county clerk and a copy shall be  filed with
+the county treasurer no later than  the fifth business day after the last business day of the period
+for which the statement is prepared. A copy of each statement shall be retained in  the office of the
+tax collector.
+(3) For the purposes of this section, property tax moneys are collected when:
+(a) Payment is made in person at the office of the tax collector;
+(b) The tax collector receives tax moneys or notice of tax moneys collected by a financial  in-
+stitution or other collection agency;
+(c) The tax collector receives payment or notice of payment of tax moneys by the state; or
+(d) The tax collector has posted a payment that arrived by mail in the county mail receptacle.
+(4) Each statement required under subsections (1) and (2) of this  section shall separately state
+the amount deposited into the property tax bankruptcy account  under ORS 311.484 and the amount
+determined under section 1 of this 2019 Act  for the period covered by the statement.
+(5) The statements required under subsections (1)  and (2) of this section may be made more often
+and for  shorter periods if the tax collector so desires but one of the statements so filed shall cover
+a period coinciding with  the last business day of the particular calendar month or quarter during
+the period.
+(6) The county treasurer shall credit  the total amount of moneys set out in the statements pre-
+pared under subsections (1) and (2) of this  section, except for the amount deposited into the property
+tax bankruptcy account under ORS  311.484 and the amount determined under section 1 of this
+2019 Act, to the several funds for which the moneys were respectively received in  accordance with
+the schedule provided in ORS 311.390. The county treasurer shall keep the  moneys and warrants
+received from the tax collector in their respective funds.
+(7) Within five business days of  receiving a statement required by subsection (1) or (2) of this
+section, the county treasurer shall distribute the  amount of money set out in the statement, except
+for the amount deposited into the property tax bankruptcy account under ORS  311.484  and the
+[3]
+HB 2359
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+amount determined under section 1 of this 2019 Act , to the several  taxing units according to the
+ratios provided in ORS 311.390. The county treasurer shall  distribute interest earned on moneys in
+the unsegregated tax collections  account at least as often as the treasurer receives a statement from
+the tax collector under subsection (1)(b) or (d) of  this section. When statements are received under
+subsection  (1)(a)  of this section, the county treasurer shall distribute interest at least once a calen-
+dar month.
+SECTION 5.  ORS 311.658 is amended to read:
+311.658. (1) Each of the several counties shall collect and pay over as  required by law the
+amount apportioned as provided under ORS 311.657 and 311.375 and this section.
+(2) The state shall be considered a  taxing district for purposes of ORS 311.105. However, the
+state shall not be included in any distribution of moneys (in lieu of  tax or otherwise) that are re-
+quired to be apportioned among and offset  against the levy of one or more particular districts, but
+only in the distribution of those tax moneys that are used to reduce the amount of  taxes extended
+on the roll and collected by the tax collector.
+(3) Notwithstanding ORS 311.385, property tax moneys collected pursuant to  a state levy shall
+not be deposited to the unsegregated tax collections account under ORS 311.385 but shall be de-
+posited in the county treasury and distributed as provided under ORS 311.375.
+(4) The  state shall not be included in the percentage distribution schedule under ORS 311.390
+and shall not be considered a taxing district for purposes of section 1 of this 2019 Act .
+(5) It shall not be necessary to change the values  of the particular descriptions of property as-
+sessed in  each of the several counties on the assessment rolls on account of a state levy of ad
+valorem property tax.
+(6) No deduction or abatement shall be made from  the apportionment of any county because of
+the delinquency of any taxpayer, or error or omission  in the assessment roll or for any other reason.
+(7) In exercising its supervisory powers under ORS 306.115 (1), the Department  of Revenue may
+adopt rules  governing the certification, apportionment, transmission of transcript, extension, offset,
+collection and distribution of the state tax  levy. The Department of Revenue and the Oregon De-
+partment of Administrative Services shall develop  procedures for informing the State Treasurer of
+the condition  of any general obligation bond fund program and any state levy anticipated or made
+under this section.
+SECTION 6.
+ ORS 311.385 is amended to read:
+311.385. (1) The tax collector shall deposit all property tax moneys  with the county treasurer
+no later than:
+(a) One business day after:
+(A) Payment of the moneys is made in person at the office of the tax collector; or
+(B) The tax collector receives moneys collected by  a financial institution or other collection
+agency; or
+(b) Thirty calendar days after the payment arrives by mail in the county mail receptacle.
+(2) The tax collector shall take a receipt for all moneys deposited with the county treasurer.
+(3) Property tax moneys shall not be deposited in any account other  than the unsegregated tax
+collections account, except as provided  in ORS 311.370, 311.484 and 311.508 and section 1 of this
+2019 Act .
+(4) No later than one business day after  receiving notice of collection of tax moneys by a fi-
+nancial institution or other  collection agency, the tax collector shall notify the county treasurer of
+the collection of those tax moneys.
+[4]
+HB 2359
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+(5) Except as provided in ORS 311.370, 311.484 and 311.508  and section 1  of this 2019 Act , the
+county treasurer shall deposit all property tax moneys to an account  in the records of the county
+treasurer designated as the  unsegregated tax collections account. Only those moneys that will be
+distributed under ORS 311.390 and interest earned from the investment of those  moneys shall be
+deposited to the unsegregated tax collections account.
+(6) As used in this section, “property tax moneys”  includes all ad valorem taxes and all taxes
+on property, as defined in ORS 310.140, and all other amounts specifically authorized by law to be
+included on the assessment and tax roll, that are certified for collection under ORS 310.060 or  other
+law and any interest on those taxes.
+SECTION 7.
+The amendments to ORS 311.385, 311.390,  311.395 and 311.658 by sections 3
+to 6 of this 2019 Act apply to property tax years beginning on or after July 1, 2020.
+SECTION 8. This 2019 Act takes effect on the 91st day after the date on which the 2019
+regular session of the Eightieth Legislative Assembly adjourns sine die.
+[5]

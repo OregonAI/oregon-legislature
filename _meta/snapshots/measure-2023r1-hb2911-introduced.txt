@@ -1,0 +1,230 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2911
+Sponsored by Representatives GOMBERG, OWENS, SMITH G, MARSH (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Allocates moneys to Oregon Business  Development Department to develop and implement pro-
+gram to award  grants to Oregon cultural organizations and support businesses in response to neg-
+ative impact of COVID-19 pandemic on organizations’ and businesses’ earned revenue.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to pandemic relief for Oregon cultural organizations;  creating new provisions; amending
+ORS 285B.290; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+There is allocated for the biennium beginning July 1, 2023, from the Admin-
+istrative Services Economic Development Fund, to the  Oregon Business Development De-
+partment, the amount of $20,000,000, for deposit  in the Industry Competitiveness Fund
+established under ORS 285B.290, to be used for the purpose of awarding grants under section
+3 of this 2023 Act.
+SECTION 2. As used in sections 2 and 3 of this 2023 Act:
+(1)(a) “Earned revenue” means income from the sale of goods or services,  including, but
+not limited to, admission tickets, rentals, merchandise, food and beverages, advertising and
+contracted services and performances.
+(b) “Earned revenue” does not include other sources  of income, including, but not limited
+to, donations, federal, state and local governmental grants or returns on investments.
+(2) “Oregon cultural organization” means a public or private  entity, whether operated for
+profit or as a nonprofit, that:
+(a) Has its business headquarters, and operates primarily, in this state;
+(b) Operates primarily for  the purpose of producing, promoting or presenting the arts,
+culture, humanities, heritage or live cultural entertainment,  other than adult entertainment,
+to the public; and
+(c)(A) Operates as a public facility, performing organization,  museum, historical site or
+visual arts organization;
+(B) Produces cultural projects or programs for the public; or
+(C) Operates a county fair.
+(3) “Oregon cultural support business” means a private entity, whether operated  for
+profit or as a nonprofit, or an independent contractor, that:
+(a) Professionally supports Oregon cultural organizations;
+(b) Has its business headquarters, and operates primarily, in this state; and
+(c) Operates  primarily to provide the services of a musician, lighting designer or opera-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1386
+HB 2911
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tor, makeup artist or hair stylist, cultural content provider, historic preservationist,
+archivist or other independent artist or cultural support contractor.
+SECTION 3.
+(1) The Oregon Business Development Department shall develop and imple-
+ment a program for awarding grants directly to Oregon cultural  organizations and Oregon
+cultural support businesses.
+(2)(a) To be eligible for a  grant, an Oregon cultural organization must demonstrate to the
+department’s satisfaction that, at any time after February 29, 2020, and before January 1,
+2023, the organization experienced a significant loss in earned revenue because of statewide
+mandates, or  guidance of the Oregon Health Authority, in response to the COVID-19
+pandemic.
+(b)(A) To be eligible for a grant,  an Oregon cultural support business must demonstrate
+to the department’s satisfaction that:
+(i) In fiscal year 2019 at least 75 percent of  the business’s total earned revenue derived
+from cultural support activities; and
+(ii) The business sustained a significant loss  of earned revenue in the period beginning
+after February 29, 2020,  and before January 1, 2023, from the cancellation or nonrenewal of
+agreements to provide services to Oregon cultural organizations.
+(B) An Oregon cultural support business’s loss is eligible only  with respect to earned
+revenue directly related to the business’s  professional support of Oregon cultural organiza-
+tions.
+(3)(a) The department shall prescribe the form  and process by which Oregon cultural
+organizations and Oregon  cultural support businesses may apply for and be awarded grants
+under the program.
+(b) For purposes of reviewing applications, the department may  require applicants to
+demonstrate need, as described in subsection (4) of this section, in the form of:
+(A) The organization’s or business’s federal tax return  for the periods to which the ap-
+plication relates; and
+(B) Financial documentation, including, but not limited to, audited financial statements
+or financial statements that have been approved by a certified public accountant.
+(4) The  department shall develop an equitable funding allocation so that grant moneys
+shall be awarded, subject to subsections (5) to (7)  of this section, with priority given ac-
+cording to the greatest ratio of an applicant’s total lost earned revenue to  the applicant’s
+total earned revenue for each fiscal year, beginning with fiscal year 2019, to which the  ap-
+plication relates.
+(5) Subject to  subsections (6) and (7) of this section, the department shall develop award
+allocation options that take into account  an equitable percentage of an applicant’s fiscal size
+and eligible loss and available funding.
+(6) Subject to subsection  (7) of this section, grant moneys shall be awarded proportion-
+ately among the geographic  regions of this state, as defined by the department, based on the
+relative population, and the eligible applications received from Oregon cultural organizations
+and Oregon cultural support businesses located, in each region.
+(7) Grant moneys shall be awarded in the following proportions:
+(a) No less than 60 percent and no more than 80 percent to Oregon  cultural organiza-
+tions; and
+(b) No less than 20 percent and  no more than 40 percent to Oregon cultural support
+[2]
+HB 2911
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+businesses.
+(8) Before awarding  grants, the department may withhold an amount not to exceed five
+percent of the total amount allocated under section 1 of this 2023 Act to  reimburse the de-
+partment for the actual costs of developing and implementing the program.
+(9) Notwithstanding any other provision of law,  this section shall apply to any grant
+moneys that the department awards to an Oregon  cultural organization or an Oregon cul-
+tural support business on or after the effective date of this 2023 Act in response to  the
+negative impact of the COVID-19 pandemic on the organization’s business.
+SECTION 4.
+(1) Sections 2 and 3 of this 2023 Act become operative on December 1, 2023.
+(2) Notwithstanding the operative date specified in  subsection (1) of this section, the
+Oregon Business Development Department  may take any action before the operative date
+specified in  subsection (1) of this section that is necessary for the department to exercise,
+on and after  the operative date specified in subsection (1) of this section, all of the duties,
+functions and powers conferred on the department by sections 2 and 3 of this 2023 Act.
+SECTION 5.  ORS 285B.290 is amended to read:
+285B.290. (1) The Industry Competitiveness Fund is established in  the State Treasury, separate
+and distinct from the General Fund.
+(2) The  Industry Competitiveness Fund shall consist of all moneys credited to the fund, including
+moneys from the Administrative Services Economic Development Fund. Interest  earned by the In-
+dustry Competitiveness Fund shall be credited to the fund.
+(3)(a) Except as provided in paragraph  (b) of this subsection,  moneys in the fund are con-
+tinuously appropriated to the Oregon Business Development Department to  provide funds for activ-
+ities outlined in ORS 285B.286.
+(b) Moneys in the fund that are deposited  or otherwise credited to the fund for the pur-
+pose of awarding grants under section 3 of this 2023 Act are allocated to  the department for
+such purpose and may not be used for any other purpose.
+SECTION 6. This 2023 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2023 Act takes effect
+on its passage.
+[3]

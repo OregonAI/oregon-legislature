@@ -1,0 +1,575 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 2794
+Sponsored by Representative SMITH DB; Representatives LEIF, ZIKA (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Creates Land Use and Wildfire Policy Advisory Committee. Sunsets advisory committee July
+1, 2022.
+Requires State Forestry Department, Oregon State University  and Department of Land Conser-
+vation and Development to conduct study of regional wildfire risk within state.
+Requires departments and advisory committee to report to interim committee of Legislative As-
+sembly no later than February 1, 2022, regarding possible means for implementing final  recommen-
+dations produced by Governor’s Council on Wildfire Response. Requires inclusion of  regional
+wildfire risk information in report.
+Authorizes  assignment  of council to assist state and local agencies and officials regarding im-
+plementation of wildfire risk reduction programs.
+Requires council to report to Legislative Assembly no later than October 31, 2021, with  detailed
+recommendations regarding sustainable financing model for funding  comprehensive wildfire strategy.
+Requires State Department of Energy to commission study of feasibility of using materials  from
+wildfire fuel  reduction projects for renewable energy generation. Requires appointment of advisory
+committee to assist with study. Requires study to be completed by January 15, 2022.
+Appropriates moneys to Department of Land  Conservation and Development, State Forestry
+Department, Oregon State University and State Department of Energy  for 2021-2023 biennium to
+carry out Act.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to wildfires; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+LAND USE AND WILDFIRE POLICY ADVISORY COMMITTEE
+SECTION 1.
+(1) The Director of the Department of Land Conservation and  Development,
+in consultation with counties and cities, shall organize a Land Use and Wildfire Policy Advi-
+sory Committee. The committee shall consist of members appointed as described in  sub-
+sections (2) to (5) of this section.
+(2) The  director and the State Forester, in consultation with counties and cities, shall
+jointly appoint the following to be voting members of the committee:
+(a) One member who is a representative of  a city government serving a population of less
+than 10,000.
+(b) One member who is a representative of  a city government serving a population of
+10,000 or more but less than 25,000.
+(c) One member who is a representative of a  city government serving a population of
+25,000 or more.
+(d) One member who is a representative of a county government serving a population  of
+less than 30,000.
+(e) One member  who is a representative of a county government serving a population of
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2212
+HB 2794
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+30,000 or more but less than 100,000.
+(f) One member who is a representative of  a county government serving a population of
+100,000 or more.
+(g) One member who is a city land use planning director.
+(h) One member who is a county land use planning director.
+(i) One member who is a representative of a utility company.
+(j) One member who is a representative of environmental interests.
+(k) One member who is a representative of special districts.
+(L) One member who is a representative of farming landowners.
+(m) One member who is a representative of ranching landowners.
+(n) One member who is a representative of realty interests.
+(o) One member who is a representative of land and housing development firms.
+(p) One member who is a representative of citizen land use planning organizations.
+(q) One member  who is a representative of state or regional land use planning organiza-
+tions.
+(r) One member who is a representative of public health interests.
+(s) One member who is a representative of small forestland owners.
+(t) One member who is a representative of large forestland owners.
+(u) One member who is a representative of economic development organizations.
+(v) One member who is a representative of federally recognized Indian tribes.
+(w) One member who is a representative of the Oregon Fire Chiefs Association.
+(x) Additional members as determined by the director in consultation with counties and
+cities.
+(3) The director and the State Forester shall make the  joint appointments under sub-
+section (2) of this section from nominations submitted by entities related  to the represented
+interest or entities. The related entities for appointments:
+(a) Under subsection (2)(a), (b), (c) and (g)  of this section is the League of Oregon Cities.
+(b) Under subsection (2)(d), (e), (f) and (h) of  this section is the Association of Oregon
+Counties.
+(c) Under subsection (2)(i) of this section is any  one or more of the investor-owned util-
+ities and consumer-owned utilities in this state.
+(d) Under subsection (2)(j) of this section is the Oregon League of Conservation Voters.
+(e) Under subsection (2)(k) of this section is the Special Districts Association of Oregon.
+(f) Under subsection (2)(L) of this section is the Oregon Farm Bureau.
+(g) Under subsection (2)(m) of this section is the Oregon Cattlemen’s Association.
+(h) Under subsection (2)(n) of this section is the Oregon Association of Realtors.
+(i) Under subsection (2)(o) of this section is the Oregon Home Builders Association.
+(j) Under subsection (2)(p) of this section is the Oregon Property Owners Association.
+(k) Under subsection (2)(q) of this section is 1000 Friends of Oregon.
+(L) Under subsection (2)(r) of this section is the Oregon Health Authority.
+(m) Under subsection (2)(s) of this section is the Oregon Small Woodlands Association.
+(n) Under subsection (2)(t) of this section is the Oregon Forest & Industries Council.
+(o) Under subsection (2)(u) of this section is Business Oregon.
+(p) Under subsection (2)(v) of this section is one  or more of the tribal governing bodies
+for Indian tribes in this state.
+[2]
+HB 2794
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(q) Under subsection (2)(w) of this section is the State Fire Marshal.
+(4) In addition to the members described under subsection (2) of  this section, the fol-
+lowing shall serve as nonvoting members of the committee:
+(a) One member appointed by the State Forester.
+(b) One member appointed by the State Fire Marshal.
+(c) One member appointed by the Director of the Oregon Health Authority.
+(d) One member appointed by the Environmental Justice Task Force.
+(e) One member appointed by the director of the Institute for Natural Resources.
+(f) One member appointed by the Director of the Department of Land Conservation and
+Development.
+(g) One member appointed by the Director of  the Department of Consumer and Business
+Services from the Division of  Financial Regulation of the Department of Consumer and
+Business Services.
+(h) One member appointed by the  Director of the Department of Consumer and Business
+Services from department staff having expertise in building codes.
+(5)(a) The President of the Senate, in consultation with the Senate  Minority Leader, shall
+appoint two members from among the members of the  Senate to be nonvoting members of
+the committee. The two members  appointed under this paragraph may not be from the same
+political party.
+(b) The Speaker of the  House of Representatives, in consultation with the House Minority
+Leader, shall appoint  two members from among the members of the House of Represen-
+tatives to be nonvoting members  of the committee. The two members appointed under this
+paragraph may not be from the same political party.
+(6) Members of the Legislative  Assembly appointed to the committee are nonvoting
+members of the committee and may act in an advisory capacity only.
+(7) The members of the committee shall  elect a voting member to be chair of the com-
+mittee and a voting member to be vice-chair, with all powers appropriate to those offices.
+(8) The committee shall meet at times  and places determined by the chair or by the Di-
+rector of the Department of Land Conservation and  Development. A majority of the voting
+members shall be a quorum for the conducting of business. Official  actions by the committee
+require approval by a majority of the voting members.
+(9) The Department of Land Conservation and Development  shall provide staff services
+for the committee.
+(10) Notwithstanding ORS 171.072, members of the committee who  are members of the
+Legislative Assembly are not entitled to mileage expenses or a per diem and serve as  volun-
+teers on the committee. Other members of the committee are not entitled  to reimbursement
+for expenses and serve as volunteers on the committee. However, the Director of the De-
+partment of Land Conservation and Development may, in the discretion of the director,  re-
+imburse voting members of the committee for unforeseen expenses  from moneys available
+for purposes of carrying out the functions of the committee.
+SECTION 2.
+All agencies of  state government as defined in ORS 174.111 are directed to
+assist the Land  Use and Wildfire Policy Advisory Committee and the Department of Land
+Conservation and Development in the performance of committee and department duties un-
+der sections 3 and 4 of this 2021 Act.
+[3]
+HB 2794
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+REGIONAL WILDFIRE RISK
+SECTION 3.
+(1) The State Forestry Department and Oregon  State University, in consul-
+tation with the Department of Land Conservation and Development, shall for  each wildfire
+risk region of this state  jointly consult with fire protection agencies and districts, fire offi-
+cials and personnel and cities and counties  in the region. The departments and the university
+shall analyze the wildfire risk for each region to develop recommendations for reducing the
+wildfire risk to people, public and  private property, businesses, infrastructure and natural
+resources in that region.
+(2) The State Forestry Department and the university, in consultation  with the Depart-
+ment of Land Conservation and Development, shall  report the recommendations for regional
+wildfire risk reduction to the Land Use and Wildfire Policy Advisory Committee no later than
+October 1, 2021.
+(3) The departments and the committee shall analyze and evaluate the material to  de-
+velop recommendations regarding  possible means for implementing the final recommen-
+dations produced by the Governor’s Council on Wildfire Response through the statewide  land
+use planning program and  local governments to minimize the risks from wildfires to people,
+public and private property, businesses, infrastructure and natural resources.
+IMPLEMENTATION OF COUNCIL RECOMMENDATIONS
+SECTION 4. (1) The Department of Land Conservation and Development, in collaboration
+with the  State Forestry Department and the Land Use and Wildfire Policy Advisory Com-
+mittee, shall report to an interim committee of the Legislative Assembly relating to natural
+resources in  the manner provided under ORS 192.245 no later than February 1, 2022, re-
+garding possible means for implementing the final recommendations produced by  the
+Governor’s Council on Wildfire Response.
+(2) The report must include, but need not be limited to, the following:
+(a) The recommendations developed under section 3 of this 2021 Act.
+(b) Existing state and local maps that identify wildfire risk.
+(c) To the extent the  Land Use and Wildfire Policy Advisory Committee and the depart-
+ments deem appropriate, new map resources that account for  regional differences in pro-
+gram information.
+(d) Identification of state and local resources needed  to develop, maintain and update
+wildfire risk maps.
+(e) Multiple recommendations  regarding possible means for using the statewide planning
+program and local governments including, but  not limited to, recommendations regarding
+revisions and updates to the statewide land use planning program and local zoning codes.
+(f) Planning goals related to natural hazards, including but not limited to Goal 7.
+(g) Existing state and  local programs that minimize wildfire risk, including, but not lim-
+ited to, programs that identify wildlife risk through mapping  or that define minimum
+defensible space.
+(h) Identification of revisions to the  statewide land use planning program and to local
+building codes appropriate to minimize wildfire risks, including, but not limited to, provisions
+regarding sufficient defensible space, safe evacuation, adequate access for wildfire fighting
+[4]
+HB 2794
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+equipment and personnel, and considerations regarding development in areas of high wildfire
+risk that allow for regional  differences in topography, vegetation, soil types and other rele-
+vant factors.
+(i) Funding, staffing  and other administrative resources necessary for state, county and
+city governments to implement wildfire reduction programs, including, but not limited to, the
+costs of program development, implementation and  ongoing operations and the need for
+stable long-term funding for the programs.
+(j) A description of areas of  agreement and disagreement among the departments and
+members of the Land Use and Wildfire Policy Advisory Committee.
+COUNCIL
+SECTION 5.
+The Governor may assign duties to the Governor’s Council on Wildfire Re-
+sponse as the Governor deems appropriate to assist  state and local agencies and officials to
+oversee and assist  in the implementation of wildfire risk reduction programs. The council’s
+duties may include, but need not be limited  to, providing advice, suggesting priorities, re-
+commending future actions and providing coordination with federal agencies.
+SECTION 6. (1) As used in this section, “sustainable” means short-term and long-term
+financial stability that provides the ability  to implement, carry out, expand and maintain
+activity.
+(2) The Governor’s Council on Wildfire  Response shall report detailed recommendations
+of the council for a sustainable model for funding a comprehensive wildfire strategy that is
+consistent with the strategy contained  in the “November 2019: Report and
+Recommendations” of the council.
+(3) The council shall  report its recommendations to the Legislative Assembly as provided
+in ORS 192.245, and to the Governor, no later than October 31, 2021.
+(4) In developing recommendations and preparing the report described in this section, the
+council:
+(a) Shall cooperate with relevant state agencies including, but not limited to, the State
+Forestry Department, the State Fire Marshal, the Oregon  Health Authority, the Office of
+Emergency Management, the Department of Land Conservation and Development, the  De-
+partment of Consumer and Business Services, the  State Department of Fish and Wildlife, the
+Department of Environmental Quality and the Oregon Department of Administrative Ser-
+vices;
+(b) Shall invite comments, advice or assistance from relevant federal  agencies including,
+but not limited to, the United States Forest Service and the Bureau of Land Management;
+(c) May contract with outside consultants and experts; and
+(d) Shall use the regular meetings of the council as a forum  for receiving input from
+council members and the public regarding content for the report.
+FUEL LOAD DISPOSAL STUDY
+SECTION 7.
+(1) The State Department of Energy shall  commission a study to determine
+whether renewable energy generation is a feasible means  for disposing of materials from
+wildfire fuel load reduction projects. The study shall include, but need not be limited  to, an
+[5]
+HB 2794
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+evaluation of the financial and operational  feasibility of using the materials for renewable
+energy generation  instead of disposing of the materials through controlled fires or other
+means.
+(2) The entity commissioned by the department to conduct the study:
+(a) Must have expertise in western United States energy markets;
+(b) Must have expertise related to wildfire fuel load reduction; and
+(c) Must be capable of conducting  the study in conformance with transparency require-
+ments and other requirements of Oregon law.
+(3) The department shall award a contract commissioning  the study no later than August
+31, 2021. The amount of the contract may not exceed $500,000.
+(4) The department shall require the commissioned entity to  complete the study no later
+than January 15, 2022.
+(5) The Director of the State Department of Energy shall  appoint an advisory committee
+to provide advice to the commissioned entity  in conducting the study and to act as a re-
+viewing body for the  study results. To the extent practicable, the director shall appoint ad-
+visory committee members  representing a diverse range of stakeholder interests, expertise
+and education, racial, ethnic and economic groups and geographic  areas of the state. The
+director shall appoint the advisory committee members on or before July 31, 2021.
+(6) Members of the advisory committee are entitled to  compensation and expenses in-
+curred by them in the performance of their official duties in the manner and  amounts pro-
+vided in ORS 292.495. Claims for compensation and expenses shall be paid out of funds
+appropriated to the department for that purpose.
+(7) The members of the advisory  committee shall elect one of the members to be chair
+of the advisory committee  and one member to be vice-chair, with all powers appropriate to
+those offices.
+(8) The advisory committee shall  meet at times and places determined by the chair or
+by the director. A  majority of the advisory committee members shall be a quorum for the
+conducting of business. Official actions by the advisory committee  require approval by a
+majority of the members.
+(9) The department shall provide staff services for the advisory committee.
+APPROPRIATIONS
+SECTION 8.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Department of Land  Conservation and Development, for the biennium beginning
+July 1, 2021, out of the General Fund, the amount of $350,000, which may  be expended for
+carrying out department activities under sections 1, 3 and 4 of this 2021 Act.
+SECTION 9. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the State Forestry Department, for the biennium beginning  July 1, 2021, out of the
+General Fund, the amount of $100,000, which may be expended for  carrying out department
+activities under sections 3 and 4 of this 2021 Act.
+SECTION 10. In addition to and not in lieu of any other  appropriation, there is appro-
+priated to Oregon State University, for the biennium beginning July 1,  2021, out of the Gen-
+eral Fund, the amount of $50,000, which may be expended for carrying out university
+activities under section 3 of this 2021 Act.
+[6]
+HB 2794
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+SECTION 11.
+In addition to  and not in lieu of any other appropriation, there is appro-
+priated to the State Department of Energy, for the biennium beginning  July 1, 2021, out of
+the General Fund, the amount of $61,900, which may be expended as follows:
+(1) Not more than $56,900 to cover additional  personnel costs of the department in car-
+rying out department duties, functions and powers related to section 7 of this 2021 Act; and
+(2) Not more than $5,000 to cover department costs associated with the advisory com-
+mittee appointed by the Director of the State Department  of Energy under section 7 of this
+2021 Act.
+SUNSETS
+SECTION 12. Sections 1, 2, 3, 4 and 6 of this 2021 Act are repealed on July 1, 2022.
+SECTION 13. Section 5 of this 2021 Act is repealed on January 2, 2023.
+SECTION 14. Section 7 of this 2021 Act is repealed on July 1, 2022.
+CAPTIONS
+SECTION 15. The unit captions used in this 2021 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2021 Act.
+EMERGENCY
+SECTION 16. This 2021 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2021 Act takes effect
+on its passage.
+[7]

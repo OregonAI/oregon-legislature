@@ -1,0 +1,122 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4096
+Sponsored by Representative RUIZ;  Representatives GAMBA, HELFRICH, JAVADI, MUNOZ, NGUYEN D, Senators
+FREDERICK, PATTERSON, SOLLMAN, WEBER (at the  request of Multnomah County District Attorney
+Nathan Vasquez) (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates the new crime of aggravated felon in possession of  a firearm. (Flesch
+Readability Score: 65.7).
+Creates the crime of aggravated felon in possession of a firearm  when a person who has been
+convicted of a felony possesses three or more firearms  or has certain prior convictions. Punishes
+by a maximum of 10 years’ imprisonment, $250,000 fine, or both.
+A BILL FOR AN ACT
+Relating to felon in possession of a firearm; amending ORS 166.270.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 166.270 is amended to read:
+166.270. (1)(a) [ Any ] A  person who has been convicted of a felony under the law of this state
+or any other state, or who has been convicted of a felony under the laws of the Government of the
+United States, who owns or has in the person’s possession or under the person’s custody  or control
+any firearm commits the crime of felon in possession of a firearm.
+(b) A person  commits the crime of aggravated felon in possession of a firearm if the
+person:
+(A) Has been convicted of a felony under  the law of this state or any other state, or who
+has been convicted of a felony under the laws of the Government of the United States,  and
+owns or has in  the person’s possession or under the person’s custody or control three or
+more firearms; or
+(B) Commits the crime of felon in possession of a firearm described in  paragraph (a) of
+this subsection and, at the time of the offense,  has one or more prior convictions under this
+subsection.
+(2) [Any ] A  person who has been convicted of a felony under the law of this state or any  other
+state, or who has been convicted of a felony under the laws of the Government  of the United States,
+who owns or has in the person’s possession or under the person’s custody or control any instrument
+or weapon having a blade that projects or swings into position by force  of a spring or by centrifugal
+force or any  blackjack, slungshot, sandclub, sandbag, sap glove, metal knuckles or an Electro-
+Muscular Disruption Technology device as defined in  ORS 165.540, or who carries a dirk, dagger
+or stiletto, commits the crime of felon in possession of a restricted weapon.
+(3) For the purposes of this section, a person “has been convicted of a felony” if, at the time
+of conviction for an offense, that offense was a felony under  the law of the jurisdiction in which it
+was committed. Such conviction shall not be deemed a conviction of a felony if:
+(a) The court declared the conviction to be a misdemeanor at the time of judgment; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 261
+HB 4096
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+(b) The offense was possession of marijuana and the conviction was prior to January 1, 1972.
+(4) Subsection (1) of this section does not apply to any person who has been:
+(a) Convicted of only one felony  under the law of this state or any other state, or who has been
+convicted of only one felony under the laws of the  United States, which felony did not involve
+criminal homicide, as  defined in ORS 163.005, or the possession or use of a firearm or a weapon
+having a  blade that projects or swings into position by force of a spring or by centrifugal force, and
+who has been  discharged from imprisonment, parole or probation for said offense for a period of 15
+years prior to the date of alleged violation of subsection (1) of this section; or
+(b) Granted relief from the disability under 18 U.S.C. 925(c) or  ORS 166.274 or has had the
+person’s record expunged under the laws of this state or equivalent laws of another jurisdiction.
+(5)(a) Felon in possession of a firearm is a Class C felony.
+(b) Aggravated felon in possession of a firearm is a Class B felony.
+(c) Felon in possession of a restricted weapon is a Class A misdemeanor.
+(6)(a) Except as provided in paragraph (b) of this subsection,  the Oregon Criminal Justice
+Commission shall classify aggravated  felon in possession of a firearm as crime category 7
+of the sentencing guidelines grid of the commission.
+(b) The  commission shall classify aggravated felon in possession of a firearm as crime
+category 8 if the person:
+(A) Owns or has in the person’s possession, or under the person’s custody or control, six
+or more firearms; or
+(B) At the time of the offense, has  three or more prior convictions under subsection (1)
+of this section.
+[2]

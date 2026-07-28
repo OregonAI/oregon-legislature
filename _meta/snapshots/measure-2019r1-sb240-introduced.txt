@@ -1,0 +1,189 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Senate Bill 240
+Sponsored by Senator MANNING JR, Representative SMITH G (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs governmental agencies of this  state to use electronic records and electronic signatures
+by July 1, 2020.
+Directs each governmental agency of this state to submit website modernization  plan to State
+Chief Information Officer by July 1, 2020, and to update plan biennially. Directs each  governmental
+agency of this state to  submit plan for use of electronic records and electronic signatures to State
+Chief Information Officer by July 1, 2020, and to update plan biennially.
+Directs  each  governmental agency of this state to ensure its websites effectively render on mo-
+bile devices and are accessible for persons with disabilities by July 1, 2021.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to electronic government records; creating new provisions; amending ORS  84.052; and pre-
+scribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 84.052 is amended to read:
+84.052. (1) Except as otherwise provided in ORS 84.034 (6), each governmental  agency of this
+state shall [ determine whether, and the extent to which,  it will ], to the extent practicable,  send and
+accept electronic records and electronic  signatures to and from other persons and otherwise create,
+generate, communicate, store,  process, use and rely upon electronic records and electronic signa-
+tures.
+(2) To the extent that  a governmental agency uses electronic records and electronic signatures
+under subsection (1) of this section, the governmental  agency, giving due consideration to security,
+may specify:
+(a) The manner and format in which the electronic records must be created, generated,  sent,
+communicated, received and stored and the systems established for those purposes;
+[(b) If electronic records must be signed by electronic  means, the type of electronic signature re-
+quired, the manner and format in which  the electronic signature must be affixed to the electronic record
+and the identity  of, or criteria that must be met by, any third party used by a person filing a document
+to facilitate the process; ]
+[(c)] (b)  Control processes and  procedures as appropriate to ensure adequate preservation, dis-
+position, integrity, security, confidentiality and auditability of electronic records; and
+[(d)] (c)  Any other required attributes for  electronic records that are specified for corresponding
+nonelectronic records or reasonably necessary under the circumstances.
+[(3) Except as otherwise provided in ORS 84.034 (6), ORS 84.001 to 84.061 do not  require a gov-
+ernmental agency of this state to use or permit the use of electronic records or electronic signatures. ]
+SECTION 2. (1) As used in this section, the  terms “electronic record,” “electronic sig-
+nature” and “governmental agency” have the meanings given those terms in ORS 84.004.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1939
+SB 240
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) No later than July 1 of each even-numbered year,  each governmental agency of this
+state shall submit a plan to the State Chief Information Officer for the use of electronic re-
+cords and electronic signatures in an  effort to digitize government processes and work flows
+and to promote the use of intuitive and adaptive electronic forms.
+(3) No later than July 1  of each even-numbered year, each governmental agency of this
+state shall submit to the State Chief Information Officer  a website modernization plan de-
+tailing improvements to the governance of digital services, including modernizing websites
+and enhancing the use of data analytics. Each governmental agency website  modernization
+plan must:
+(a) Demonstrate plans  for the effective delivery of digital services and the utilization of
+data analytics and related tools to determine user goals, needs and behaviors.
+(b) Include plans to ensure the effective  rendering of all publicly facing websites on mo-
+bile devices.
+(c) Include plans to increase the use of data analytics to improve website  operation and
+enhance digital service delivery.
+(d) Be posted on the agency’s publicly facing websites.
+(4) The State Chief Information Officer may  adopt any rules necessary for implementa-
+tion of this section.
+SECTION 3.
+ Section 2 of this 2019 Act is amended to read:
+Sec. 2. (1) As  used in this section, the terms “electronic record,” “electronic signature” and
+“governmental agency” have the meanings given those terms in ORS 84.004.
+(2) Each governmental agency of this state shall  ensure that each of its websites in-
+tended for use by the public is:
+(a) Effectively renderable on mobile devices; and
+(b) Accessible for persons with disabilities.
+[(2)] (3)  No  later than July 1 of each even-numbered year, each governmental agency of this
+state shall submit a plan to the State Chief Information Officer for the use of electronic  records and
+electronic signatures in an effort to digitize government processes and  work flows and to promote
+the use of intuitive and adaptive electronic forms.
+[(3)] (4)  No  later than July 1 of each even-numbered year, each governmental agency of this
+state shall submit to the State Chief Information Officer a website modernization  plan detailing im-
+provements to the governance of digital  services, including modernizing websites and enhancing the
+use of data analytics. Each governmental agency website modernization plan must:
+(a) Demonstrate plans for the effective delivery of digital services and the utilization  of data
+analytics and related tools to determine user goals, needs and behaviors.
+(b) Include plans to  ensure the continuation of  effective rendering of all publicly facing
+websites on mobile devices.
+(c) Include plans to increase the use of data  analytics to improve website operation and enhance
+digital service delivery.
+(d) Be posted on the agency’s publicly facing websites.
+[(4)] (5)  The State Chief Information Officer may adopt any rules  necessary for implementation
+of this section.
+SECTION 4.
+The amendments to ORS 84.052 by section  1 of this 2019 Act apply to any
+electronic record  or electronic signature created, generated, sent, communicated, received
+or stored on or after July 1, 2020.
+[2]
+SB 240
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+SECTION 5. The reports described in section 2  of this 2019 Act are first due no later than
+July 1, 2020.
+SECTION 6. (1) The amendments to ORS 84.052 by section 1 of  this 2019 Act become op-
+erative on July 1, 2020.
+(2) Section 2 of this 2019 Act becomes operative on January 1, 2020.
+(3) The amendments to section 2  of this 2019 Act by section 3 of this 2019 Act become
+operative on July 1, 2021.
+SECTION 7.
+This 2019 Act takes effect on the 91st day after the date on  which the 2019
+regular session of the Eightieth Legislative Assembly adjourns sine die.
+[3]

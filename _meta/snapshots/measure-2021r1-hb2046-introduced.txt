@@ -1,0 +1,1972 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 2046
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of  Governor Kate Brown for
+Department of Consumer and Business Services)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Removes or modifies certain references to federal law in laws concerning health insurance.
+A BILL FOR AN ACT
+Relating to health insurance; amending ORS  414.025, 731.097, 741.002, 741.004, 741.300, 741.500,
+743.826, 743A.067, 743A.262, 743B.005, 743B.013 and 743B.105.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 731.097 is amended to read:
+731.097. “Essential health  benefits” are the items and services prescribed by the Department of
+Consumer and Business Services by rule [ in accordance ] consistent  with federal law, including:
+(1) Ambulatory patient services.
+(2) Emergency services.
+(3) Hospitalization.
+(4) Maternity and newborn care.
+(5) Mental health and substance use disorder services, including behavioral health treatment.
+(6) Prescription drugs.
+(7) Rehabilitative and habilitative services and devices.
+(8) Laboratory services.
+(9) Preventive and wellness services and chronic disease management.
+(10) Pediatric services, including oral and vision care.
+SECTION 2.
+ ORS 741.002 is amended to read:
+741.002. (1) The duties of the Department of Consumer and Business Services include:
+(a) Administering a health insurance exchange [ in accordance  with federal law ] to make qualified
+health plans available to individuals and groups throughout this state.
+(b) Providing information in writing,  through an Internet-based clearinghouse and through a
+toll-free  telephone  line, that will assist individuals and small businesses in making informed health
+insurance decisions and that may include:
+(A) The rating assigned to each health plan and the rating criteria that were used;
+(B) Quality and enrollee satisfaction survey results; and
+(C) The comparative costs, benefits, provider networks  of health plans and other useful infor-
+mation.
+(c) Establishing and maintaining an  electronic calculator that allows individuals and employers
+to determine the cost of coverage  after deducting any applicable tax credits or cost-sharing re-
+duction.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 567
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) Operating a call center for answers to questions from  individuals seeking enrollment in a
+qualified health plan or in the state medical assistance program.
+(e) Providing information about the  eligibility requirements and the application processes for the
+state medical assistance program.
+(2) The department shall:
+(a) Screen, certify and  recertify health plans as qualified health plans according to the require-
+ments, standards and criteria adopted by  the department under ORS 741.310 and ensure that quali-
+fied health plans provide choices of coverage.
+(b) Decertify or suspend, in accordance with ORS chapter  183, the certification of a health plan
+that fails to meet federal and state standards in order to  exclude the health plan from participation
+in the exchange.
+(c) Promote fair competition of carriers participating in the  exchange by certifying multiple
+health plans as qualified under ORS 741.310.
+(d) Assign ratings to health plans in accordance with criteria established by [ the United States
+Secretary of Health and Human Services and by ] the department.
+(e) Establish open and special  enrollment periods for all enrollees, and monthly enrollment pe-
+riods for Native Americans [ in accordance with federal law ].
+(f) Assist individuals and groups to enroll in qualified health plans,  including defined contribu-
+tion plans as defined  in section 414 of the Internal Revenue Code and, if appropriate, collect and
+remit premiums for such individuals or groups.
+(g) Facilitate community-based assistance with enrollment in qualified health  plans by awarding
+grants to entities that are certified as navigators as described in 42 U.S.C. 18031(i).
+(h) Provide employers  with the names of employees who end coverage under a qualified health
+plan during a plan year.
+[(i) Certify the eligibility of an individual for an exemption from the individual  responsibility re-
+quirement of section 5000A of the Internal Revenue Code. ]
+[(j)] (i) Provide information to  the federal government necessary for individuals who are enrolled
+in qualified health plans through the exchange to receive tax credits and reduced cost-sharing.
+[(k)] (j)  Provide to the federal  government any information necessary to comply with federal
+requirements including:
+[(A) Information regarding individuals determined to  be exempt from the individual responsibility
+requirement of section 5000A of the Internal Revenue Code; ]
+[(B)] (A)  Information regarding employees who have reported a change in employer; and
+[(C)] (B)  Information regarding individuals who have ended coverage during a plan year.
+[(L)] (k)  Take any other actions necessary and appropriate to comply with the federal require-
+ments for a health insurance exchange.
+[(m)] (L)  Work in  coordination with the Oregon Health Authority and the Oregon Health Policy
+Board in carrying out its duties.
+(3) The department may adopt rules necessary to carry  out its duties and functions under ORS
+741.001 to 741.540.
+(4) The  department may contract or enter into an intergovernmental agreement with the federal
+government to perform any of the duties and functions described in ORS 741.001 to 741.540.
+(5) The department may assign contracts to the Oregon Health Authority if necessary for the
+authority to administer the state medical assistance program.
+SECTION 3.
+ ORS 741.004 is amended to read:
+[2]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+741.004. (1) The  Health Insurance Exchange Advisory Committee is created to advise the Di-
+rector of the Department of  Consumer and Business Services in the development and implementation
+of the policies and operational procedures  governing the administration of a health insurance ex-
+change in this state including, but not limited to, all of the following:
+(a) The amount of the assessment imposed on insurers under ORS 741.105.
+(b) The implementation of a Small Business Health Options Program [ in accordance with  42
+U.S.C. 18031].
+(c) The processes and procedures to enable each insurance producer to  be authorized to act for
+all of the insurers offering health benefit plans through the health insurance exchange.
+(d) The affordability of health benefit plans offered by  employers [ under section 5000A(e)(1) of the
+Internal Revenue Code ].
+(e) Outreach strategies for reaching minority and low-income communities.
+(f) Solicitation of customer feedback.
+(g) The affordability of health benefit plans offered through the exchange.
+(2) The committee consists of 15  members. Thirteen members shall be appointed by the Governor
+and are subject to  confirmation by the Senate in the manner prescribed in ORS 171.562 and 171.565.
+The appointed members serve at the pleasure of the Governor.  The Director of the Department of
+Consumer and Business Services and the Director of  the Oregon Health Authority shall serve as ex
+officio members of the committee.
+(3) The 13 members appointed by the Governor must represent the interests of:
+(a) Insurers;
+(b) Insurance producers;
+(c) Navigators, in-person assisters, application counselors and other individuals with  experience
+in facilitating enrollment in qualified health plans;
+(d) Health care providers;
+(e) The business community, including small businesses and self-employed individuals;
+(f) Consumer advocacy groups, including advocates for enrolling hard-to-reach populations;
+(g) Enrollees in health benefit plans; and
+(h) State agencies that administer the medical assistance program under ORS chapter 414.
+(4) The Director of the Department of Consumer  and Business Services may solicit recommen-
+dations from the committee and the committee may initiate recommendations on its own.
+(5) The committee shall provide annual reports to the Legislative Assembly, in the manner  pro-
+vided in ORS 192.245, of the findings and recommendations the  committee considers appropriate,
+including a report on the:
+(a) Adequacy of assessments for reserve programs and administrative costs;
+(b) Implementation of the Small Business Health Options Program;
+(c) Number of qualified health plans offered through the exchange;
+(d) Number and demographics of individuals enrolled in qualified health plans;
+(e) Advance premium tax credits provided to enrollees in qualified health plans; and
+(f) Feedback from the community about satisfaction with  the operation of the exchange and
+qualified health plans offered through the exchange.
+(6) The  members of the committee shall be appointed for a term of two years and shall serve
+without compensation, but shall be entitled to  travel expenses in accordance with ORS 292.495. The
+committee  may  hire, subject to the approval of the Director of the Department of Consumer and
+Business Services, such experts as the committee may require to discharge  its duties. All expenses
+[3]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of the committee shall  be paid out of the Health Insurance Exchange Fund established in ORS
+741.102.
+(7) The employees of the Department of Consumer and Business Services  are directed to assist
+the committee in the performance of its duties under subsection (1) of this section  and, to the extent
+permitted by laws relating to confidentiality, to furnish such information and advice as the  members
+of the committee consider necessary to perform their duties under subsection (1) of this section.
+SECTION 4.
+ ORS 741.300 is amended to read:
+741.300. As used in ORS 741.001 to 741.540:
+(1) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(2) “Essential health benefits” has the meaning given that term in ORS 731.097.
+(3) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(4) “Health care service contractor” has the meaning given that term in ORS 750.005.
+(5) “Health insurance” has the meaning given that term  in ORS 731.162, excluding disability
+income insurance.
+(6) “Health insurance exchange” or “exchange” means [ an American Health Benefit  Exchange
+as described  in 42 U.S.C. 18031, 18032, 18033 and 18041 ] the health insurance exchange adminis-
+tered by the Department  of Consumer and Business Services in accordance with ORS
+741.002.
+(7) “Health plan” means health insurance, a health benefit plan or  health care coverage offered
+by an insurer.
+(8) “Insurer” means an  insurer as defined in ORS 731.106 that offers health insurance, a health
+care service contractor, a prepaid managed care health services organization or a  coordinated care
+organization.
+(9) “Insurance producer” has the meaning given that term in ORS 731.104.
+(10) “Prepaid managed care health services organization” has the meaning given  that term in
+ORS 414.025.
+(11) “State program” means a program providing medical assistance, as defined in ORS 414.025,
+and any self-insured health benefit plan or health plan offered to employees by the Public Employees’
+Benefit Board or the Oregon Educators Benefit Board.
+(12) “Qualified health plan” means a health benefit plan available  for purchase through the
+health insurance exchange.
+(13) “Small Business Health Options Program” or “SHOP” means  a health insurance exchange
+for small employers [ as described in 42 U.S.C. 18031 ].
+SECTION 5.
+ ORS 741.500 is amended to read:
+741.500. (1)(a) The Department of Consumer and  Business Services shall adopt by rule the in-
+formation that must be documented in order for a person to qualify for:
+(A) Health plan coverage through the health insurance exchange;
+(B) Premium tax credits; and
+(C) Cost-sharing reductions.
+(b) The documentation specified by the department under this subsection shall  include but is not
+limited to documentation of:
+(A) The identity of the person;
+(B) The status of the person as a United States citizen, or  lawfully admitted noncitizen, and a
+resident of this state;
+(C) Information concerning the income and resources of the person as  necessary to establish the
+[4]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+person’s financial eligibility for coverage, for premium tax credits and for cost-sharing  reductions,
+which may include income tax return information and a Social Security number; and
+(D) Employer  identification information and employer-sponsored health insurance coverage in-
+formation applicable to the person.
+[(2) The department shall adopt by rule the information that  must be documented in order to de-
+termine whether the  person is exempt from a requirement to purchase or be enrolled in a health plan
+under section 5000A of the Internal Revenue Code or other federal law. ]
+[(3)] (2)  The department shall  implement systems that provide electronic access to, and use,
+disclosure and validation of data needed to  administer the exchange, to comply with federal data
+access and data exchange requirements and to streamline and simplify exchange processes.
+[(4)] (3) Information and data that the department obtains under this section may be  exchanged
+with other state or federal health insurance exchanges, with state or federal agencies and,  subject
+to ORS 741.510, for the purpose of carrying out  exchange responsibilities, including but not limited
+to:
+(a) Establishing and verifying eligibility for:
+(A) A state medical assistance program;
+(B) The purchase of health plans through the exchange; and
+(C) Any other programs that are offered through the exchange;
+(b) Establishing and verifying the amount of a person’s federal tax credit, cost-sharing reduction
+or premium assistance;
+[(c) Establishing and verifying eligibility for exemption from the requirement to  purchase or be
+enrolled in a health plan under section 5000A of the Internal Revenue Code or other federal law; ]
+[(d)] (c)  Complying with other federal requirements; or
+[(e)] (d) Improving the operations of the exchange and for program analysis.
+SECTION 6.
+ ORS 743.826 is amended to read:
+743.826. (1) As used in this section ,[:]
+[(a)] “catastrophic plan” means a health benefit plan that meets the requirements  for a cat-
+astrophic plan under 42 U.S.C. 18022(e).
+[(b) “Minimum essential coverage” has the meaning given that term in section 5000A(f)  of the
+Internal Revenue Code. ]
+(2) A carrier may offer a catastrophic plan only to an individual who:
+(a) Is under 30 years of age at the beginning of the plan year; or
+(b) Is exempt from any state or federal penalties imposed for  failing to maintain minimum es-
+sential coverage , as  defined by the Department of Consumer and Business Services by rule,
+during the plan year.
+SECTION 7.
+ ORS 743A.067 is amended to read:
+743A.067. (1) As used in this section:
+(a) “Contraceptives” means health care  services, drugs, devices, products or medical procedures
+to prevent a pregnancy.
+(b) “Enrollee” means an insured individual and the  individual’s spouse, domestic partner and
+dependents who are beneficiaries under the insured individual’s health benefit plan.
+(c) “Health benefit plan” has  the meaning given that term in ORS 743B.005, excluding Medicare
+Advantage Plans and including health benefit plans offering pharmacy benefits administered by  a
+third party administrator or pharmacy benefit manager.
+(d) “Prior authorization” has the meaning given that term in ORS 743B.001.
+[5]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) “Religious employer” has the meaning given that term in ORS 743A.066.
+(f) “Utilization review” has the meaning given that term in ORS 743B.001.
+(2) A health benefit plan offered in this state  must provide coverage for all of the following
+services, drugs, devices, products and procedures:
+(a) Well-woman care prescribed by the Department of Consumer and Business Services by  rule
+consistent with guidelines published by the  United States Health Resources and Services Adminis-
+tration.
+(b) Counseling for sexually transmitted infections, including but not  limited to human
+immunodeficiency virus and acquired immune deficiency syndrome.
+(c) Screening for:
+(A) Chlamydia;
+(B) Gonorrhea;
+(C) Hepatitis B;
+(D) Hepatitis C;
+(E) Human immunodeficiency virus and acquired immune deficiency syndrome;
+(F) Human papillomavirus;
+(G) Syphilis;
+(H) Anemia;
+(I) Urinary tract infection;
+(J) Pregnancy;
+(K) Rh incompatibility;
+(L) Gestational diabetes;
+(M) Osteoporosis;
+(N) Breast cancer; and
+(O) Cervical cancer.
+(d) Screening to determine whether counseling related  to the BRCA1 or BRCA2 genetic
+mutations is  indicated and counseling related to the BRCA1 or BRCA2 genetic mutations if indi-
+cated.
+(e) Screening and appropriate counseling or interventions for:
+(A) Tobacco use; and
+(B) Domestic and interpersonal violence.
+(f) Folic acid supplements.
+(g) Abortion.
+(h) Breastfeeding comprehensive support, counseling and supplies.
+(i) Breast cancer chemoprevention counseling.
+(j) Any contraceptive drug, device or product  approved by the United States Food and Drug
+Administration, subject to all of the following:
+(A) If there is a therapeutic equivalent  of a contraceptive drug, device or product approved by
+the United States Food and Drug Administration, a health  benefit plan may provide coverage for
+either the requested contraceptive drug, device or product or for one or more therapeutic equiv-
+alents of the requested drug, device or product.
+(B) If a  contraceptive drug, device or product covered by the health benefit plan is deemed
+medically inadvisable by the enrollee’s provider, the  health benefit plan must cover an alternative
+contraceptive drug, device or product prescribed by the provider.
+(C) A health benefit plan must pay pharmacy claims for reimbursement  of all contraceptive
+[6]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+drugs available for over-the-counter sale that  are approved by the United States Food and Drug
+Administration.
+(D) A health benefit plan may not infringe upon an  enrollee’s choice of contraceptive drug, de-
+vice or product and may not  require prior authorization, step therapy or other utilization review
+techniques for medically appropriate covered contraceptive drugs, devices or other products ap-
+proved by the United States Food and Drug Administration.
+(k) Voluntary sterilization.
+(L) As a single claim  or combined with other claims for covered services provided on the same
+day:
+(A) Patient education and counseling on contraception and sterilization.
+(B) Services related to sterilization or the administration and monitoring  of contraceptive drugs,
+devices and products, including but not limited to:
+(i) Management of side effects;
+(ii) Counseling for continued adherence to a prescribed regimen;
+(iii) Device insertion and removal; and
+(iv) Provision of alternative contraceptive drugs, devices or products deemed  medically appro-
+priate in the judgment of the enrollee’s provider.
+(m) Any additional preventive services for women that must be covered without cost sharing
+under 42 U.S.C. 300gg-13, as identified  by the United States Preventive Services Task Force or the
+Health Resources and Services  Administration of the United States Department of Health and Hu-
+man Services as of January 1, [ 2017] 2020.
+(3) A health benefit plan may  not impose on an enrollee a deductible, coinsurance, copayment
+or any other cost-sharing requirement on the coverage required  by this section. A health care pro-
+vider shall be reimbursed for providing the services described  in this section without any deduction
+for coinsurance, copayments or any other cost-sharing amounts.
+(4) Except as authorized under this section, a health benefit plan may not  impose any re-
+strictions or delays on the coverage required by this section.
+(5) This section  does not exclude coverage for contraceptive drugs, devices or products pre-
+scribed by a provider, acting within the provider’s scope of practice, for:
+(a) Reasons other than contraceptive purposes, such  as decreasing the risk of ovarian cancer
+or eliminating symptoms of menopause; or
+(b) Contraception that is necessary to preserve the life or health of an enrollee.
+(6) This section does not limit the authority of the Department of Consumer and Business Ser-
+vices to ensure compliance with ORS 743A.063 and 743A.066.
+(7) This section does not require a health benefit plan to cover:
+(a) Experimental or investigational treatments;
+(b) Clinical trials or demonstration projects, except as provided in ORS 743A.192;
+(c) Treatments that do not conform to acceptable and customary standards of medical practice;
+(d) Treatments for which there is insufficient data to determine efficacy; or
+(e) Abortion if the insurer offering the health benefit plan excluded  coverage for abortion in all
+of its individual, small employer and large employer group plans during the 2017 plan year.
+(8) If services, drugs, devices, products or procedures required by  this section are provided by
+an out-of-network provider, the health benefit  plan must cover the services, drugs, devices, products
+or procedures without imposing any cost-sharing requirement on the enrollee if:
+(a) There is no  in-network provider to furnish the service, drug, device, product or procedure
+[7]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+that is geographically accessible or accessible in a reasonable amount of time, as defined by the
+Department of Consumer and Business Services by rule consistent  with the requirements for pro-
+vider networks in ORS 743B.505; or
+(b) An in-network provider is unable or unwilling to provide the service in a timely manner.
+(9) An insurer may offer to a religious employer  a health benefit plan that does not include
+coverage for contraceptives or abortion procedures that are  contrary to the religious employer’s
+religious tenets only if the insurer notifies  in writing all employees who may be enrolled in the
+health benefit plan of the contraceptives and procedures the  employer refuses to cover for religious
+reasons.
+(10) If the Department of  Consumer and Business Services concludes that enforcement of this
+section may adversely affect the allocation of federal funds to this state, the department may  grant
+an exemption to the requirements but only  to the minimum extent necessary to ensure the continued
+receipt of federal funds.
+(11) An insurer that is subject to  this section shall make readily accessible to enrollees and
+potential enrollees, in a consumer-friendly format, information about the coverage of  contraceptives
+by each health benefit plan and the coverage  of other services, drugs, devices, products and proce-
+dures described in this section. The insurer must provide the information:
+(a) On the insurer’s website; and
+(b) In writing upon request by an enrollee or potential enrollee.
+(12) This section does not prohibit an insurer  from using reasonable medical management tech-
+niques to determine the frequency, method, treatment or setting  for the coverage of services, drugs,
+devices, products and procedures described in subsection (2) of  this section, other than coverage
+required by subsection (2)(g) and (j) of this section, if the techniques:
+(a) Are consistent with the coverage requirements of subsection (2) of this section; and
+(b) Do not result in the wholesale or indiscriminate denial of coverage for a service.
+SECTION 8.
+ ORS 743A.262 is amended to read:
+743A.262. Notwithstanding any other provision of law, a health benefit plan that is  not a
+grandfathered health plan:
+(1) Must  provide coverage of preventive health services [ as prescribed by the United States De-
+partment of Health and Human Services pursuant to ] described in  42 U.S.C. 300gg-13 [ in rules
+adopted and in effect on January 1, 2017 ] as  adopted by rule by the Department of Consumer
+and Business Services ; and
+(2) May not  impose cost-sharing requirements on an enrollee for preventive health services, ex-
+cept as allowed by [ federal law ] rules adopted by the department .
+SECTION 9.  ORS 743B.005 is amended to read:
+743B.005. For purposes of ORS  743.004, 743.007, 743.022, 743.535, 743B.003 to 743B.127 and
+743B.128:
+(1) “Actuarial certification” means  a written statement by a member of the American Academy
+of Actuaries or other individual acceptable to the Director of the Department  of Consumer and
+Business Services that a carrier is in  compliance with the provisions of ORS 743B.012 based upon
+the person’s examination, including a review of the appropriate records and of the actuarial  as-
+sumptions and methods used by the carrier in establishing premium rates for  small employer health
+benefit plans.
+(2) “Affiliate” of, or person “affiliated” with, a specified person  means any carrier who, directly
+or indirectly through one or  more intermediaries, controls or is controlled by or is under common
+[8]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+control with a specified person. For purposes  of this definition, “control” has the meaning given that
+term in ORS 732.548.
+(3) “Affiliation period” means,  under the terms of a group health benefit plan issued by a health
+care service contractor, a period:
+(a) That is applied uniformly and  without regard to any health status related factors to an
+enrollee or late enrollee;
+(b) That must expire before  any coverage becomes effective under the plan for the enrollee or
+late enrollee;
+(c) During which no premium shall be charged to the enrollee or late enrollee; and
+(d) That begins on the enrollee’s or late enrollee’s first date of  eligibility for coverage and runs
+concurrently with any eligibility waiting period under the plan.
+(4) “Bona fide association” means an association that:
+(a) Has been in active existence for at least five years;
+(b) Has been formed and maintained in good faith for purposes other than obtaining insurance;
+(c) Does not condition  membership in the association on any factor relating to the health status
+of an individual or the individual’s dependent or employee;
+(d) Makes health insurance  coverage that is offered through the association available to all
+members of the association  regardless of the health status of the member or individuals who are
+eligible for coverage through the member;
+(e) Does not make health insurance coverage that is offered through  the association available
+other than in connection with a member of the association;
+(f) Has a constitution and bylaws; and
+(g) Is not owned or controlled by a carrier, producer or affiliate of a carrier or producer.
+(5) “Carrier” means any person who provides health benefit plans in this state, including:
+(a) A licensed insurance company;
+(b) A health care service contractor;
+(c) A health maintenance organization;
+(d) An association or group of employers that provides benefits by means of a multiple employer
+welfare arrangement and that:
+(A) Is subject to ORS 750.301 to 750.341; or
+(B) Is fully  insured and otherwise exempt under ORS 750.303 (4) but elects to be governed by
+ORS 743B.010 to 743B.013; or
+(e) Any  other person or corporation responsible for the payment of benefits or provision of ser-
+vices.
+(6) “Dependent” means  the spouse or child of an eligible employee, subject to applicable terms
+of the health benefit plan covering the employee.
+(7) “Eligible employee” means  an employee who is eligible for coverage under a group health
+benefit plan.
+(8) “Employee” means any individual employed by an employer.
+(9) “Enrollee” means an employee, dependent of the employee  or an individual otherwise eligible
+for a group or individual health benefit  plan who has enrolled for coverage under the terms of the
+plan.
+(10) “Exchange” means [ an American  Health Benefit Exchange described in 42 U.S.C. 18031,
+18032, 18033 and 18041 ] the health insurance  exchange administered by the Department of
+Consumer and Business Services in accordance with ORS 741.002 .
+[9]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(11) “Exclusion period” means a period during which specified treatments or services are  ex-
+cluded from coverage.
+(12) “Financial impairment” means that a carrier is not insolvent and is:
+(a) Considered by the director to be potentially unable to fulfill its contractual obligations; or
+(b) Placed under an  order of rehabilitation or conservation by a court of competent jurisdiction.
+(13)(a) “Geographic  average rate” means the arithmetical average of the lowest premium and the
+corresponding highest premium to  be charged by a carrier in a geographic area established by the
+director for the carrier’s:
+(A) Group health benefit plans offered to small employers; or
+(B) Individual health benefit plans.
+(b) “Geographic average  rate” does not include premium differences that are due to differences
+in benefit design, age, tobacco use or family composition.
+(14) “Grandfathered health plan” has the meaning prescribed  by rule by the United States Sec-
+retaries of Labor, Health and Human Services and the Treasury pursuant  to 42 U.S.C. 18011(e) that
+is in effect on January 1, 2017.
+(15) “Group eligibility waiting period” means, with respect to a group  health benefit plan, the
+period of  employment or membership with the group that a prospective enrollee must complete be-
+fore plan coverage begins.
+(16)(a) “Health benefit plan” means any:
+(A) Hospital expense, medical expense or hospital or medical expense policy or certificate;
+(B) Subscriber contract of a health care service contractor as defined in ORS 750.005; or
+(C) Plan provided by a  multiple employer welfare arrangement or by another benefit arrange-
+ment defined in the federal Employee Retirement Income Security Act of 1974,  as amended, to the
+extent that the plan is subject to state regulation.
+(b) “Health benefit plan” does not include:
+(A) Coverage for accident only, specific disease or condition only, credit or disability income;
+(B) Coverage of Medicare services pursuant to contracts with the federal government;
+(C) Medicare supplement insurance policies;
+(D) Coverage of TRICARE services pursuant to contracts with the federal government;
+(E) Benefits delivered through a  flexible spending arrangement established pursuant to section
+125 of the Internal Revenue Code of 1986, as amended, when  the benefits are provided in addition
+to a group health benefit plan;
+(F) Separately  offered long term care insurance, including, but not limited to, coverage of nurs-
+ing home care, home health care and community-based care;
+(G) Independent, noncoordinated, hospital-only indemnity insurance or other  fixed indemnity in-
+surance;
+(H) Short term health  insurance policies that are in effect for periods of three months or less,
+including the term of a renewal of the policy;
+(I) Dental only coverage;
+(J) Vision only coverage;
+(K) Stop-loss coverage that meets the requirements of ORS 742.065;
+(L) Coverage issued as a supplement to liability insurance;
+(M) Insurance arising out of a workers’ compensation or similar law;
+(N) Automobile medical payment insurance or insurance under which benefits  are payable with
+or without regard to fault and that is statutorily  required to be contained in any liability insurance
+[10]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+policy or equivalent self-insurance; or
+(O) Any employee welfare benefit plan that is exempt from state  regulation because of the fed-
+eral Employee Retirement Income Security Act of 1974, as amended.
+(c) For purposes of this subsection, renewal of a short term health insurance policy includes the
+issuance of a new  short term health insurance policy by an insurer to a policyholder within 60 days
+after the expiration of a policy previously issued by the insurer to the policyholder.
+(17) “Individual health benefit plan” means a health benefit plan:
+(a) That is issued to an individual policyholder; or
+(b) That provides individual coverage through a trust, association or  similar group, regardless
+of the situs of the policy or contract.
+(18) “Initial enrollment period” means a period of at least 30  days following commencement of
+the first eligibility period for an individual.
+(19) “Late enrollee” means an  individual who enrolls in a group health benefit plan subsequent
+to the initial enrollment period during which the individual  was eligible for coverage but declined
+to enroll. However, an eligible individual shall not be considered a late enrollee if:
+(a) The individual  qualifies for a special enrollment period in accordance with 42 U.S.C. 300gg
+or as prescribed by rule by the Department of Consumer and Business Services;
+(b) The individual applies for coverage during an open enrollment period;
+(c) A court issues an order that coverage be provided for  a spouse or minor child under an
+employee’s employer sponsored health benefit plan and request for enrollment  is made within 30
+days after issuance of the court order;
+(d) The individual is employed by an employer that  offers multiple health benefit plans and the
+individual elects a different health benefit plan during an open enrollment period; or
+(e) The individual’s coverage under Medicaid, Medicare, TRICARE, Indian Health Service or  a
+publicly sponsored or subsidized health  plan, including, but not limited to, the medical assistance
+program under ORS chapter 414, has been involuntarily terminated within  63 days after applying for
+coverage in a group health benefit plan.
+(20) “Multiple employer  welfare arrangement” means a multiple employer welfare arrangement
+as defined in section 3 of the federal  Employee Retirement Income Security Act of 1974, as amended,
+29 U.S.C. 1002, that is subject to ORS 750.301 to 750.341.
+(21) “Preexisting condition exclusion” means:
+(a) Except for a grandfathered health plan, a  limitation or exclusion of benefits or a denial of
+coverage based on a medical condition being present  before the effective date of coverage or before
+the date coverage is denied, whether or not any medical advice, diagnosis, care or  treatment was
+recommended or received for the condition before the date of coverage or denial of coverage.
+(b) With respect to a grandfathered health plan,  a provision applicable to an enrollee or late
+enrollee that excludes coverage for services, charges  or expenses incurred during a specified period
+immediately following enrollment for a condition for which medical advice, diagnosis, care or treat-
+ment was  recommended or received during a specified period immediately preceding enrollment. For
+purposes of this paragraph pregnancy and genetic information do  not constitute preexisting condi-
+tions.
+(22) “Premium” includes insurance premiums or other fees charged for  a health benefit plan,
+including the costs of benefits paid or reimbursements made to or on  behalf of enrollees covered by
+the plan.
+(23) “Rating  period” means the 12-month calendar period for which premium rates established
+[11]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+by a carrier are in effect, as determined by the carrier.
+(24) “Representative” does  not include an insurance producer or an employee or authorized
+representative of an insurance producer or carrier.
+(25) “Small employer” means an employer who  employed an average of at least one but not more
+than 50 full-time equivalent employees on business days during the  preceding calendar year and who
+employs at least one full-time equivalent employee on the first day of the plan year, determined  in
+accordance with a methodology prescribed by the Department of Consumer and Business Services
+by rule.
+SECTION 10.
+ ORS 743B.013 is amended to read:
+743B.013. (1) A health benefit plan issued to a small employer:
+(a) Other than a grandfathered health plan, must  cover essential health benefits [ consistent with
+42 U.S.C. 300gg-11 ].
+(b) May require an affiliation period that does not exceed two months for an enrollee  or 90 days
+for a late enrollee.
+(c) May not apply a preexisting condition exclusion to any enrollee.
+(2) Late enrollees in a small employer health benefit plan may  be subjected to a group eligibility
+waiting period that does not exceed 90 days.
+(3) Each small employer health benefit plan is renewable with respect to  all eligible enrollees
+at the option of the policyholder, small employer or contract holder unless:
+(a) The policyholder, small employer or contract holder fails to pay the required premiums.
+(b) The policyholder, small employer or contract holder or, with  respect to coverage of individ-
+ual enrollees, an enrollee or a representative of an enrollee engages in  fraud or makes an inten-
+tional misrepresentation of a material fact as prohibited by the terms of the plan.
+(c) The number of enrollees covered under the plan is less than  the number or percentage of
+enrollees required by participation requirements under the plan.
+(d) The small employer fails to comply with the  contribution requirements under the health
+benefit plan.
+(e) The  carrier discontinues both offering and renewing all of the carrier’s small employer health
+benefit plans in this state or in a specified service area within this state. In order to discontinue
+plans under this paragraph, the carrier:
+(A) Must give notice of the decision to the Department of Consumer and Business Services  and
+to all policyholders covered by the plans;
+(B) May not cancel  coverage under the plans for 180 days after the date of the notice required
+under subparagraph (A) of this paragraph if coverage is discontinued  in the entire state or in a
+specified service area, except that:
+(i) The carrier  shall cancel coverage in accordance with subparagraph (C) of this paragraph if
+the cancellation is for a specified service area in the circumstances described in  subparagraph (C)
+of this paragraph; and
+(ii) The Director  of the Department of Consumer and Business Services may specify a cancella-
+tion date other than the cancellation date specified in this subparagraph if the carrier is  subject to
+a delinquency proceeding, as defined in ORS 734.014; and
+(C) May not cancel coverage under the plans for 90 days after the date of the  notice required
+under subparagraph (A) of this paragraph if coverage is  discontinued in a specified service area
+because of an inability to reach an agreement  with the health care providers or organization of
+health care providers to provide services under the plans within the service area.
+[12]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(f) The carrier discontinues both offering and  renewing a small employer health benefit plan in
+a specified service area within this state  because of an inability to reach an agreement with the
+health care providers or organization of health  care providers to provide services under the plan
+within the service area. In order to discontinue a plan under this paragraph, the carrier:
+(A) Must give notice to the department and to all policyholders covered by the plan;
+(B) May  not cancel coverage under the plan for 90 days after the date of the notice required
+under subparagraph (A) of this paragraph; and
+(C) Must offer in writing to each small  employer covered by the plan, all other small employer
+health benefit plans that the carrier offers to small employers in  the specified service area. The
+carrier shall issue any  such plans pursuant to the provisions of ORS 743B.010 to 743B.013. The
+carrier shall offer the plans at least 90 days prior to discontinuation.
+(g) The carrier  discontinues both offering and renewing a health benefit plan, other than a
+grandfathered health plan, for all small employers in this state or  in a specified service area within
+this state, other than a plan discontinued under paragraph (f) of this subsection.
+(h) The carrier discontinues both  offering and renewing a grandfathered health plan for all small
+employers in this state or in  a specified service area within this state, other than a plan discontin-
+ued under paragraph (f) of this subsection.
+(i) With respect to plans that are being discontinued under paragraph (g) or  (h) of this sub-
+section, the carrier must:
+(A) Offer in  writing to each small employer covered by the plan, all other health benefit plans
+that the carrier offers to small employers in the specified service area.
+(B) Issue any such plans pursuant to the provisions of ORS 743B.010 to 743B.013.
+(C) Offer the plans at least 90 days prior to discontinuation.
+(D) Act uniformly without  regard to the claims experience of the affected policyholders or the
+health status of any current or prospective enrollee.
+(j) The Director of the Department of Consumer and  Business Services orders the carrier to
+discontinue coverage in accordance with procedures specified or approved by the  director upon
+finding that the continuation of the coverage would:
+(A) Not be in the best interests of the enrollees; or
+(B) Impair the carrier’s ability to meet contractual obligations.
+(k) In the case  of a small employer health benefit plan that delivers covered services through
+a specified network of health care providers, there  is no longer any enrollee who lives, resides or
+works in the service area of the provider network.
+(L) In the case of a health benefit  plan that is offered in the small employer market only to one
+or more bona fide associations, the membership of an  employer in the association ceases and the
+termination of coverage is not related to the health status of any enrollee.
+(4) A  carrier may modify a small employer health benefit plan at the time of coverage renewal.
+The modification is not a discontinuation of the plan under subsection (3)(e), (g) and (h) of this  sec-
+tion.
+(5) Notwithstanding any provision of subsection (3) of this  section to the contrary, a carrier may
+not rescind the coverage of an enrollee in a small employer health benefit plan unless:
+(a) The enrollee or a person seeking coverage on behalf of the enrollee:
+(A) Performs an act, practice or omission that constitutes fraud; or
+(B) Makes an  intentional misrepresentation of a material fact as prohibited by the terms of the
+plan;
+[13]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The carrier provides at least 30 days’ advance written notice, in the form and  manner pre-
+scribed by the department, to the enrollee; and
+(c) The carrier provides notice of the rescission to the department in the form, manner and  time
+frame prescribed by the department by rule.
+(6) Notwithstanding any provision of subsection (3) of this  section to the contrary, a carrier may
+not rescind a small employer health benefit plan unless:
+(a) The small employer or a representative of the small employer:
+(A) Performs an act, practice or omission that constitutes fraud; or
+(B) Makes an  intentional misrepresentation of a material fact as prohibited by the terms of the
+plan;
+(b) The carrier provides at least 30 days’ advance written notice, in the form and  manner pre-
+scribed by the department, to each plan enrollee who would be affected  by the rescission of cover-
+age; and
+(c) The carrier provides notice of the rescission to the department in the form, manner and  time
+frame prescribed by the department by rule.
+(7)(a) A carrier may continue to enforce reasonable employer participation and  contribution re-
+quirements on small employers. However, participation and contribution requirements shall  be ap-
+plied uniformly among all small employer groups with the same  number of eligible employees
+applying for coverage or receiving coverage  from the carrier. In determining minimum participation
+requirements, a carrier shall count only those employees who are not covered by an existing group
+health benefit plan, Medicaid, Medicare, TRICARE, Indian Health Service or a  publicly sponsored
+or subsidized health plan, including but not limited to the medical assistance program under  ORS
+chapter 414.
+(b) A carrier may not deny  a small employer’s application for coverage under a health benefit
+plan based on participation or contribution requirements  but may require small employers that do
+not meet participation or contribution  requirements to enroll during the open enrollment period
+beginning November 15 and ending December 15.
+(8) Premium rates for small  employer health benefit plans, except grandfathered health plans,
+are subject to the following provisions:
+(a) Each carrier must file with the department the initial geographic average rate and  any
+changes in the geographic average rate with respect  to each health benefit plan issued by the car-
+rier to small employers.
+(b)(A) The variations in premium  rates charged during a rating period for health benefit plans
+issued to small employers must be based  solely on the factors specified in subparagraph (B) of this
+paragraph. A carrier may elect which of the factors specified  in subparagraph (B) of this paragraph
+apply to premium rates for health benefit plans for  small employers. All other factors must be ap-
+plied in the same actuarially sound way to all small employer health benefit plans.
+(B) The variations in premium rates described in subparagraph (A) of this paragraph may be
+based only on one or more of the following factors as prescribed by the department by rule:
+(i) The ages  of enrolled employees and their dependents, except that the rate for adults may not
+vary by more than three to one;
+(ii) The level at which enrolled employees and  dependents of enrolled employees engage in to-
+bacco use, except that the rate may not vary by more than 1.5 to one; and
+(iii) Adjustments to reflect differences in family composition.
+(C) A carrier shall apply the carrier’s schedule of premium rate variations as approved  by the
+[14]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+department and in accordance with this paragraph. Except as  otherwise provided in this section, the
+premium rate  established by a carrier for a small employer health benefit plan applies uniformly to
+all employees of the small employer enrolled in that plan.
+(c) Except as provided in paragraph (b) of this subsection, the variation  in premium rates be-
+tween different health benefit plans offered by a carrier  to small employers must be based solely on
+objective differences in plan design or coverage,  age, tobacco use and family composition and must
+not include differences based on the risk characteristics  of groups assumed to select a particular
+health benefit plan.
+(d) A carrier may  not increase the rates of a health benefit plan issued to a small employer more
+than once in a  12-month period. Annual rate increases are effective on the plan anniversary date
+of the health benefit plan issued to a small employer. The percentage increase in  the premium rate
+charged to a small employer for a new rating period may not exceed the sum of the following:
+(A) The percentage change in the geographic average rate measured from the  first day of the
+prior rating period to the first day of the new period; and
+(B) Any adjustment attributable to changes in age and differences in family composition.
+(9) Premium rates for  grandfathered health plans are subject to requirements prescribed by the
+department by rule.
+(10) In connection with the offering for sale of any health benefit plan to  a small employer, each
+carrier shall make a  reasonable disclosure as part of the carrier’s solicitation and sales materials
+of:
+(a) The full array of health benefit plans that are offered to small employers by the carrier;
+(b) The authority of the  carrier to adjust rates and premiums, and the extent to which the car-
+rier considers age, tobacco use, family composition and geographic factors in establishing and  ad-
+justing rates and premiums; and
+(c) The benefits and premiums  for all health insurance coverage for which the employer is
+qualified.
+(11)(a) Each carrier shall maintain at the carrier’s principal place of business a  complete and
+detailed description of  the carrier’s rating practices and renewal underwriting practices relating to
+the carrier’s small employer health benefit plans,  including information and documentation that
+demonstrate that the carrier’s rating methods and practices are based  upon commonly accepted
+actuarial practices and are in accordance with sound actuarial principles.
+(b) A carrier offering a small employer  health benefit plan shall file with the department at least
+once every 12 months an actuarial certification that the carrier is in compliance with ORS  743B.010
+to 743B.013 and that the rating  methods of the carrier are actuarially sound. Each certification must
+be in a uniform form and manner and must contain such information as specified by the department.
+The carrier shall retain a copy of each certification at the carrier’s  principal place of business. A
+carrier is not required to file the actuarial certification under this paragraph if  the department has
+approved the carrier’s rate filing within the preceding 12-month period.
+(c) A carrier shall make the information and documentation  described in paragraph (a) of this
+subsection available to the department upon request. Except  as provided in ORS 743.018 and except
+in cases of violations  of ORS 743B.010 to 743B.013, the information is proprietary and trade secret
+information and is not subject to disclosure to persons outside the department except  as agreed to
+by the carrier or as ordered by a court of competent jurisdiction.
+(12) A carrier may not provide any financial or other incentive  to any insurance producer that
+would encourage the insurance producer to sell health benefit  plans of the carrier to small employer
+[15]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+groups based on a small employer group’s anticipated claims experience.
+(13) For purposes of this section, the date a small employer health benefit plan is continued  is
+the anniversary date of the first issuance of the health benefit plan.
+(14) A carrier shall include a provision that offers coverage to all eligible employees of a small
+employer and to all dependents of the eligible employees to the extent the employer chooses  to offer
+coverage to dependents.
+(15) All small employer health benefit plans must contain special enrollment  periods during
+which eligible employees and dependents may enroll for coverage, as provided by  [ federal law and ]
+rules adopted by the department.
+(16) A small  employer health benefit plan may not impose annual or lifetime limits on the dollar
+amount of essential health benefits.
+SECTION 11.
+ ORS 743B.105 is amended to read:
+743B.105. The following  requirements apply to all group health benefit plans other than small
+employer health benefit plans covering two or more certificate holders:
+(1) A carrier offering  a group health benefit plan may not decline to offer coverage to any eli-
+gible prospective enrollee  and may not impose different terms or conditions on the coverage, pre-
+miums or contributions of any enrollee in the group that are based on the actual or expected health
+status of the enrollee.
+(2) A group health benefit plan may not apply a preexisting condition exclusion to any  enrollee
+but may impose:
+(a) An affiliation period that does not exceed two months for an enrollee or three months for  a
+late enrollee; or
+(b) A group eligibility waiting period for late enrollees that does not exceed 90 days.
+(3) Each group  health benefit plan shall contain a special enrollment period during which eligi-
+ble employees and dependents may enroll for coverage, as provided by  [ federal law and ] rules
+adopted by the Department of Consumer and Business Services.
+(4)(a) A carrier shall issue to a group any of the carrier’s group health benefit plans offered by
+the carrier for  which the group is eligible, if the group applies for the plan, agrees to make the re-
+quired premium payments and agrees to satisfy the other requirements of the plan.
+(b) The department  may waive the requirements of this subsection if the department finds that
+issuing a plan to a group or  groups would endanger the carrier’s ability to fulfill the carrier’s con-
+tractual obligations or result in financial impairment of the carrier.
+(5) Each group health benefit plan shall be renewable with respect to all eligible enrollees at
+the option of the policyholder unless:
+(a) The policyholder fails to pay the required premiums.
+(b) The policyholder or, with respect to coverage  of individual enrollees, an enrollee or a rep-
+resentative of an enrollee engages in fraud or makes an intentional misrepresentation of a  material
+fact as prohibited by the terms of the plan.
+(c) The number of enrollees covered under the plan is less than  the number or percentage of
+enrollees required by participation requirements under the plan.
+(d) The policyholder fails to comply with the contribution requirements under the plan.
+(e) The carrier discontinues both offering  and renewing, all of the carrier’s group health benefit
+plans in this state or in a specified service area within this state. In order to discontinue plans un-
+der this paragraph, the carrier:
+(A) Must give notice of the decision to the department and to  all policyholders covered by the
+[16]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+plans;
+(B) May not cancel coverage under the plans for 180 days after the date of  the notice required
+under subparagraph (A) of this paragraph if coverage  is discontinued in the entire state or in a
+specified service area, except that:
+(i) The carrier shall cancel coverage in accordance with subparagraph (C) of this  paragraph if
+the cancellation is  for a specified service area in the circumstances described in subparagraph (C)
+of this paragraph; and
+(ii) The Director of the Department of Consumer and Business Services may specify  a cancella-
+tion date other than the cancellation date specified in this subparagraph if the carrier is  subject to
+a delinquency proceeding, as defined in ORS 734.014; and
+(C) May not  cancel coverage under the plans for 90 days after the date of the notice required
+under subparagraph (A) of this paragraph if  coverage is discontinued in a specified service area
+because of an inability to reach an agreement with  the health care providers or organization of
+health care providers to provide services under the plans within the service area.
+(f) The carrier discontinues both offering  and renewing a group health benefit plan in a specified
+service  area  within this state because of an inability to reach an agreement with the health care
+providers or organization of health care providers to provide  services under the plan within the
+service area. In order to discontinue a plan under this paragraph, the carrier:
+(A) Must give notice of the decision to the department and to  all policyholders covered by the
+plan;
+(B) May  not cancel coverage under the plan for 90 days after the date of the notice required
+under subparagraph (A) of this paragraph; and
+(C) Must offer in  writing to each policyholder covered by the plan, all other group health benefit
+plans that the carrier offers in the specified service area.  The carrier shall offer the plans at least
+90 days prior to discontinuation.
+(g) The carrier discontinues both offering and renewing a group health benefit plan,  other than
+a grandfathered  health plan, for all groups in this state or in a specified service area within this
+state, other than a plan discontinued under paragraph (f) of this subsection.
+(h) The carrier discontinues both offering and renewing a grandfathered health plan for all
+groups in this state or in a specified service are within this  state, other than a plan discontinued
+under paragraph (f) of this subsection.
+(i) With respect to plans  that are being discontinued under paragraph (g) or (h) of this sub-
+section, the carrier must:
+(A) Offer in writing  to each policyholder covered by the plan, one or more health benefit plans
+that the carrier offers to groups in the specified service area.
+(B) Offer the plans at least 90 days prior to discontinuation.
+(C) Act uniformly without regard to the claims experience of  the affected policyholders or the
+health status of any current or prospective enrollee.
+(j) The director orders the carrier to discontinue coverage in accordance with procedures spec-
+ified or approved by the director upon finding that the continuation of the coverage would:
+(A) Not be in the best interests of the enrollees; or
+(B) Impair the carrier’s ability to meet contractual obligations.
+(k) In the case of a group health benefit plan that delivers covered  services through a specified
+network of health care providers, there is no longer any  enrollee who lives, resides or works in the
+service area of the provider network.
+[17]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(L) In the case of a health benefit plan that is offered in the group market only to  one or more
+bona fide associations, the membership of an employer in the association ceases and  the termination
+of coverage is not related to the health status of any enrollee.
+(6) A carrier may modify a group health  benefit plan at the time of coverage renewal. The
+modification is not a discontinuation of the plan under subsection (5)(e), (g) and (h) of this section.
+(7) Notwithstanding any provision of subsection (5) of this  section to the contrary, a carrier may
+not rescind the coverage of an enrollee under a group health benefit plan unless:
+(a) The enrollee:
+(A) Performs an act, practice or omission that constitutes fraud; or
+(B) Makes an  intentional misrepresentation of a material fact as prohibited by the terms of the
+plan;
+(b) The carrier provides at least 30 days’ advance written notice, in the form and  manner pre-
+scribed by the department, to the enrollee; and
+(c) The carrier provides notice of the rescission to the department in the form, manner and  time
+frame prescribed by the department by rule.
+(8) Notwithstanding any provision of subsection (5) of this  section to the contrary, a carrier may
+not rescind a group health benefit plan unless:
+(a) The plan sponsor or a representative of the plan sponsor:
+(A) Performs an act, practice or omission that constitutes fraud; or
+(B) Makes an  intentional misrepresentation of a material fact as prohibited by the terms of the
+plan;
+(b) The carrier provides at least 30 days’ advance written notice, in the form and  manner pre-
+scribed by the department, to each plan enrollee who would be affected  by the rescission of cover-
+age; and
+(c) The carrier provides notice of the rescission to the department in the form, manner and  time
+frame prescribed by the department by rule.
+(9) A group health benefit plan may not impose annual or lifetime limits  on the dollar amount
+of essential health benefits.
+SECTION 12.
+ ORS 414.025 is amended to read:
+414.025. As used in this chapter and ORS chapters 411 and 413,  unless the context or a specially
+applicable statutory definition requires otherwise:
+(1)(a) “Alternative payment methodology” means a  payment other than a fee-for-services pay-
+ment, used by coordinated care organizations as compensation for the provision of integrated  and
+coordinated health care and services.
+(b) “Alternative payment methodology” includes, but is not limited to:
+(A) Shared savings arrangements;
+(B) Bundled payments; and
+(C) Payments based on episodes.
+(2) “Behavioral health assessment” means an evaluation  by a behavioral health clinician, in
+person or using telemedicine, to determine a patient’s need for immediate crisis stabilization.
+(3) “Behavioral health clinician” means:
+(a) A licensed psychiatrist;
+(b) A licensed psychologist;
+(c) A licensed nurse practitioner with a specialty in psychiatric mental health;
+(d) A licensed clinical social worker;
+[18]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) A licensed professional counselor or licensed marriage and family therapist;
+(f) A certified clinical social work associate;
+(g) An intern or resident who  is working under a board-approved supervisory contract in a
+clinical mental health field; or
+(h) Any other clinician whose  authorized scope of practice includes mental health diagnosis and
+treatment.
+(4) “Behavioral health crisis” means a disruption in an individual’s  mental or emotional stability
+or functioning resulting in an urgent need for immediate outpatient treatment  in an emergency de-
+partment or admission to a hospital to prevent a serious deterioration in the individual’s  mental or
+physical  health.
+(5) “Behavioral health home” means a mental health disorder or substance use  disorder treat-
+ment organization, as defined by the  Oregon Health Authority by rule, that provides integrated
+health care to individuals whose primary diagnoses are mental health disorders or  substance use
+disorders.
+(6) “Category of aid” means assistance provided by the Oregon Supplemental  Income Program,
+aid granted under ORS 411.877 to 411.896 and 412.001 to 412.069  or federal Supplemental Security
+Income payments.
+(7) “Community health worker” means an individual who meets  qualification criteria adopted
+by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in an  urban or rural community, either for pay or as a volunteer in association with
+a local health care system;
+(c) To  the extent practicable, shares ethnicity, language, socioeconomic status and life experi-
+ences with the residents of the community where the worker serves;
+(d) Assists members of the community to improve their health  and increases the capacity of the
+community to meet the health care needs of its residents and achieve wellness;
+(e) Provides  health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services such as first aid or blood pressure screening.
+(8) “Coordinated care organization” means an organization meeting criteria adopted by the
+Oregon Health Authority under ORS 414.572.
+(9) “Dually eligible for Medicare and Medicaid” means, with respect to eligibility for enrollment
+in a  coordinated care organization, that an individual is eligible for health services funded by Title
+XIX of the Social Security Act and is:
+(a) Eligible for or enrolled in Part A of Title XVIII of the Social Security Act; or
+(b) Enrolled in Part B of Title XVIII of the Social Security Act.
+(10)(a) “Family support specialist” means an individual who meets  qualification criteria adopted
+by the authority under ORS 414.665 and who provides supportive services to and  has experience
+parenting a child who:
+(A) Is a current or former consumer of mental health or addiction treatment; or
+(B) Is facing or has faced difficulties in accessing education, health and  wellness services due
+to a mental health or behavioral health barrier.
+(b) A “family support specialist” may be a peer wellness specialist or a peer support specialist.
+[19]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(11) “Global budget” means a total amount established prospectively  by the Oregon Health Au-
+thority to be paid to a coordinated care organization for the delivery  of, management of, access to
+and quality of the health care delivered to members of the coordinated care organization.
+(12) “Health insurance exchange” or  “exchange” means [ an American Health Benefit Exchange
+described in 42 U.S.C. 18031, 18032, 18033 and 18041] the health insurance exchange administered
+by the Department of Consumer and Business Services in accordance with ORS 741.002 .
+(13) “Health services” means at least so much of each of the following as are funded by  the
+Legislative Assembly based upon the prioritized  list of health services compiled by the Health Evi-
+dence Review Commission under ORS 414.690:
+(a) Services  required by federal law to be included in the state’s medical assistance program in
+order for the program to qualify for federal funds;
+(b) Services  provided by a physician as defined in ORS 677.010, a nurse practitioner licensed
+under ORS 678.375, a behavioral health clinician or other licensed practitioner  within the scope of
+the practitioner’s practice as defined by state law, and ambulance services;
+(c) Prescription drugs;
+(d) Laboratory and X-ray services;
+(e) Medical equipment and supplies;
+(f) Mental health services;
+(g) Chemical dependency services;
+(h) Emergency dental services;
+(i) Nonemergency dental services;
+(j) Provider  services, other than services described in paragraphs (a) to (i), (k), (L) and (m) of
+this subsection, defined by federal law that may be included in the state’s  medical assistance pro-
+gram;
+(k) Emergency hospital services;
+(L) Outpatient hospital services; and
+(m) Inpatient hospital services.
+(14) “Income” has the meaning given that term in ORS 411.704.
+(15)(a) “Integrated health  care” means care provided to individuals and their families in a pa-
+tient centered primary care home or behavioral health home by licensed primary care clinicians,
+behavioral health clinicians and other care team members, working together to address one or more
+of the following:
+(A) Mental illness.
+(B) Substance use disorders.
+(C) Health behaviors that contribute to chronic illness.
+(D) Life stressors and crises.
+(E) Developmental risks and conditions.
+(F) Stress-related physical symptoms.
+(G) Preventive care.
+(H) Ineffective patterns of health care utilization.
+(b) As used in this subsection, “other care team members” includes but is not limited to:
+(A) Qualified mental health professionals or qualified  mental health associates meeting require-
+ments adopted by the Oregon Health Authority by rule;
+(B) Peer wellness specialists;
+(C) Peer support specialists;
+[20]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(D) Community health workers who have completed a state-certified training program;
+(E) Personal health navigators; or
+(F) Other qualified individuals approved by the Oregon Health Authority.
+(16) “Investments and savings” means cash, securities as defined in  ORS 59.015, negotiable in-
+struments as defined in ORS  73.0104 and such similar investments or savings as the department or
+the authority may establish by rule that are available to the  applicant or recipient to contribute
+toward meeting the needs of the applicant or recipient.
+(17) “Medical assistance” means so  much of the medical, mental health, preventive, supportive,
+palliative and remedial care and  services as may be prescribed by the authority according to the
+standards established pursuant to  ORS 414.065, including premium assistance and payments made for
+services provided under an insurance or other contractual arrangement and  money paid directly to
+the recipient for the purchase of health services and for services described in ORS 414.710.
+(18) “Medical assistance” includes any care or services for any individual who is a  patient in
+a medical institution or any care or services for any individual who has attained 65 years of  age
+or is under 22 years of age, and  who is a patient in a private or public institution for mental dis-
+eases. Except  as provided in ORS 411.439 and 411.447, “medical assistance” does not include care
+or services for a resident of a nonmedical public institution.
+(19) “Patient centered primary care home” means a health  care team or clinic that is organized
+in accordance with the standards established  by the Oregon Health Authority under ORS 414.655
+and that incorporates the following core attributes:
+(a) Access to care;
+(b) Accountability to consumers and to the community;
+(c) Comprehensive whole person care;
+(d) Continuity of care;
+(e) Coordination and integration of care; and
+(f) Person and family centered care.
+(20) “Peer support specialist” means any of the  following individuals who meet qualification
+criteria adopted by the authority under ORS 414.665  and who provide supportive services to a cur-
+rent or former consumer of mental health or addiction treatment:
+(a) An individual who is a current or former consumer of mental health treatment; or
+(b) An individual who is in recovery, as defined by the Oregon Health Authority by rule, from
+an addiction disorder.
+(21) “Peer wellness specialist” means an individual who  meets qualification criteria adopted by
+the authority under ORS 414.665  and who is responsible for assessing mental health and substance
+use disorder service and support needs of a member of a coordinated care organization through
+community outreach, assisting members with access to available services  and resources, addressing
+barriers  to  services and providing education and information about available resources for individ-
+uals with mental health or substance use disorders in order to reduce  stigma and discrimination
+toward consumers of  mental health and substance use disorder services and to assist the member
+in creating and maintaining recovery, health and wellness.
+(22) “Person centered care” means care that:
+(a) Reflects the individual patient’s strengths and preferences;
+(b) Reflects the clinical needs of the patient as identified  through an individualized assessment;
+and
+(c) Is based upon the patient’s goals and will assist the patient in achieving the goals.
+[21]
+HB 2046
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+(23) “Personal health navigator” means an individual who meets qualification criteria adopted
+by the authority under ORS 414.665 and who  provides information, assistance, tools and support to
+enable a patient to make the  best health care decisions in the patient’s particular circumstances and
+in light of the patient’s needs, lifestyle, combination of conditions and desired outcomes.
+(24) “Prepaid managed care health services organization” means a managed  dental care, mental
+health or chemical dependency organization that contracts with the authority under  ORS 414.654
+or with a coordinated care organization on a prepaid capitated basis to provide  health services to
+medical assistance recipients.
+(25) “Quality  measure” means the health outcome and quality measures and benchmarks identi-
+fied by the Health Plan  Quality Metrics Committee and the metrics and scoring subcommittee in
+accordance with ORS 413.017 (4) and 414.638.
+(26) “Resources” has the meaning  given that term in ORS 411.704. For eligibility purposes, “re-
+sources” does not include charitable  contributions raised by a community to assist with medical
+expenses.
+(27)(a) “Youth support specialist” means an individual who  meets qualification criteria adopted
+by the authority under ORS 414.665 and who, based on a similar life experience,  provides supportive
+services to an individual who:
+(A) Is not older than 30 years of age; and
+(B)(i) Is a current or former consumer of mental health or addiction treatment; or
+(ii) Is  facing or has faced difficulties in accessing education, health and wellness services due
+to a mental health or behavioral health barrier.
+(b) A “youth support specialist” may be a peer wellness specialist or a peer support specialist.
+[22]

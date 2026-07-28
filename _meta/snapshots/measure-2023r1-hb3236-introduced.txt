@@ -1,0 +1,183 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 3236
+Sponsored by Representatives CRAMER, DIEHL; Representatives MANNIX, SCHARF
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Authorizes  expenditures  from Statewide Education Initiatives Account for funding of regional
+career and technical education programs.
+Appropriates moneys to Willamette Career Academy.
+Declares emergency, effective July 1, 2023.
+A BILL FOR AN ACT
+Relating to regional career  and technical education; creating new provisions; amending ORS 327.254;
+and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 327.254 is amended to read:
+327.254. (1) The Department of Education shall use  moneys in the Statewide Education Initi-
+atives Account to provide funding for statewide education initiatives, including:
+(a) Funding the High School Graduation and College and Career Readiness Act at the levels
+prescribed by ORS 327.856;
+(b) Expanding school breakfast and lunch programs;
+(c) Operating youth reengagement programs or providing youth reengagement services;
+(d) Establishing and maintaining  the Statewide School Safety and Prevention System under ORS
+339.341;
+(e) Developing and providing statewide equity initiatives, including the Black  or African-
+American education plan developed under ORS 329.841, the American Indian or Alaska Native  edu-
+cation plan developed under  ORS 329.843, the Latino or Hispanic education plan developed under
+ORS 329.845 or any similar education plan identified by the department;
+(f) Providing summer learning programs at schools  that are considered high poverty under Title
+I of the federal Elementary and Secondary Education Act of 1965;
+(g) Funding early warning systems to assist students in  graduating from high school, as de-
+scribed in ORS 327.367;
+(h) Developing and implementing professional development programs and  training programs, in-
+cluding programs that increase educator diversity and retain diverse educators;
+(i) Planning for increased transparency and accountability in the public  education system of this
+state;
+(j) Providing additional funding to school districts participating  in the intensive program under
+ORS 327.222;
+(k) Providing technical assistance, including costs incurred for:
+(A) The coaching program described in ORS 327.214; and
+(B) The intensive program described in ORS 327.222, including costs for student success teams;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3886
+HB 3236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(L) Funding public charter schools, as described in ORS 327.362;
+(m) Funding education service districts, as described in subsection (2) of this section; [ and]
+(n) Funding regional career and technical  education programs that are provided in part-
+nership with an education service district or multiple school districts from the same  region;
+and
+[(n)] (o) Funding costs incurred by the department in implementing  this section and ORS 327.175
+to 327.235 and 327.274.
+(2)(a) The amount of a distribution to an education  service district under this section shall be
+made as provided by paragraph (b) of this subsection after calculating the  following for each edu-
+cation service district:
+(A) One percent of the total amount available for distribution to  education service districts in
+each biennium.
+(B) The education service district’s ADMw ×  (the total amount available for distribution to
+education service districts in each biennium ÷  the total ADMw of all education  service districts
+that receive a distribution).
+(b) The amount of the distribution to an education service district shall be the greater of  the
+amounts calculated under paragraph (a) of this subsection, except that, for distributions  made as
+provided by paragraph (a)(B) of this subsection, the  total amount available for distribution to edu-
+cation service districts shall be the amount remaining after any  distributions required under para-
+graph (a)(A) of this subsection have been made.
+(c) For purposes  of this subsection, ADMw equals the ADMw as calculated under ORS 327.013,
+except that the additional amount allowed for students who are in  poverty families, as determined
+under ORS 327.013 (1)(c)(A)(v)(I), shall be 0.5.
+(d) An education service district  shall use moneys received under this section as provided by a
+plan developed by the school districts located within the education  service district. A school district
+that declines to participate in the development of the plan or that has withdrawn from an education
+service district as provided by  ORS 334.015 is not entitled to any moneys distributed to the educa-
+tion service district under this subsection.
+(e) A plan developed under this subsection must:
+(A) Align with and support school districts  in meeting the performance growth targets of the
+school districts developing the plan;
+(B) Include the provision of technical assistance to school districts in  developing, implementing
+and reviewing a plan for receiving a grant from the Student Investment Account;
+(C) Provide for  coordination with the department in administering and providing technical as-
+sistance to school  districts, including coordinating any coaching programs established under ORS
+327.214; and
+(D) Be  adopted and amended as provided for local service plans under ORS 334.175 and approved
+by the department.
+(f) Each education service district must submit an annual report to the department that:
+(A) Describes how the education service district spent moneys received under  this subsection;
+and
+(B) Includes an evaluation of the education service district’s compliance with the plan  from the
+superintendent of each school district that participated in the development of the plan.
+(3) The State Board of Education shall adopt rules necessary for the distribution of moneys  un-
+der this section.
+[2]
+HB 3236
+1
+2
+3
+4
+5
+6
+7
+SECTION 2.
+For the 2023-2025 biennium, the Department of Education  shall expend
+$2,850,000 from the Statewide  Education Initiatives Account to provide funding for the
+Willamette Career Academy.
+SECTION 3. This 2023 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2023 Act takes effect
+July 1, 2023.
+[3]

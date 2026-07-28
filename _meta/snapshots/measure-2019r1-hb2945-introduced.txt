@@ -1,0 +1,205 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2945
+Sponsored by Representative NOSSE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires Oregon Health Authority to increase staff resources dedicated  to enforcement of
+staffing requirements for hospital nurses and appropriates moneys to do so.
+Requires three certified nursing assistants to be appointed to hospital  nurse staffing committee.
+Increases to $10,000 civil penalty that may be imposed for violation of  requirements concerning
+nurse staffing in hospitals.
+Declares emergency, effective July 1, 2019.
+A BILL FOR AN ACT
+Relating to hospital nurse staffing; creating new  provisions; amending ORS 441.154 and 441.175; and
+declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. (1) The Legislative Assembly finds that there is a compelling need to in-
+crease the staff resources  of the Oregon Health Authority that are dedicated to enforcing
+the nurse staffing requirements of ORS 441.152 to 441.177.
+(2) The Oregon  Health Authority shall increase the number of full-time employees who
+are responsible for investigating  complaints under ORS 441.171 as necessary to ensure the
+safety of patients in hospitals licensed in this state.
+SECTION 2.  ORS 441.154 is amended to read:
+441.154. (1)(a) For each hospital  there shall be established a hospital nurse staffing committee.
+Each committee shall:
+(A) Consist of an equal number of hospital nurse managers and direct care staff;
+(B) For that portion of the committee composed of direct care  staff, consist entirely of direct
+care registered nurses, except for [ one position ] three positions  to be filled  by [ a direct care staff
+member who is not a registered nurse and whose services are  covered by a written hospital-wide
+staffing plan that meets the requirements of ORS 441.155 ] certified nursing assistants ; and
+(C) Include at least one direct care registered nurse from each hospital nurse specialty or  unit.
+(b) If the direct care registered nurses who work at a hospital are represented under a collective
+bargaining agreement, the  bargaining unit shall conduct a selection process by which the direct care
+registered nurses who work at the hospital select the members  of the committee who are direct care
+registered nurses.
+(c) If the direct  care staff member who is not a registered nurse who works at a hospital is re-
+presented under a collective  bargaining agreement, the bargaining unit shall use the selection pro-
+cess conducted pursuant to  paragraph (b) of this subsection to select that member of the committee.
+(d) If the direct care registered nurses who work at a hospital are not represented  under a
+collective bargaining agreement, the direct care  registered nurses belonging to a hospital nurse
+specialty or unit shall select each member of the committee  who is a direct care registered nurse
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3751
+HB 2945
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+from that specialty or unit.
+(2) A hospital nurse  staffing committee shall develop a written hospital-wide staffing plan in
+accordance with ORS 441.155. The committee’s primary goals in developing the staffing  plan shall
+be to ensure that the hospital is staffed  to meet the health care needs of patients. The committee
+shall review and modify the staffing plan in accordance with ORS 441.156.
+(3) A majority of the members of  a hospital nurse staffing committee constitutes a quorum for
+the transaction of business.
+(4) A hospital nurse staffing committee shall have two  cochairs. One cochair shall be a hospital
+nurse manager elected by the members of the committee  who are hospital nurse managers and one
+cochair  shall  be a direct care registered nurse elected by the members of the committee who are
+direct care staff.
+(5)(a) A decision made by a hospital nurse staffing committee  must be made by a vote of a ma-
+jority  of  the members of the committee. If a quorum of members comprises an unequal number of
+hospital nurse  managers and direct care staff, only an equal number of hospital nurse managers and
+direct care staff may vote.
+(b) If the committee is unable to reach an agreement on the staffing plan, either  cochair of the
+committee may invoke a 30-day period during which the committee shall continue to develop  the
+staffing plan. During the 30-day period, the hospital shall respond in a timely manner to  reasonable
+requests from members of the committee for data that  will enable the committee to reach a resol-
+ution. If at the end of the 30-day period, the committee remains unable  to reach an agreement on
+the staffing plan, one of the cochairs shall notify the Oregon Health Authority of the impasse.
+(c) Upon receiving notification under paragraph (b) of this subsection,  the authority shall pro-
+vide the committee with a mediator to  assist the committee in reaching an agreement on the staffing
+plan. Mediation conducted under this paragraph must be consistent with the  requirements for im-
+plementing and reviewing staffing plans under ORS 441.155 and 441.156.
+(d) If the committee is unable  to reach an agreement on the staffing plan after 90 days of me-
+diation, the authority may impose a penalty against the hospital as described in ORS 441.175.
+(6) A hospital nurse staffing committee shall meet:
+(a) At least once every three months; and
+(b) At any time and place specified by either cochair.
+(7)(a) Subject to paragraph (b) of this  subsection, a hospital nurse staffing committee meeting
+must be open to:
+(A) The hospital nursing staff as observers; and
+(B) Upon invitation by either cochair, other observers or presenters.
+(b) At any time,  either cochair may exclude persons described in paragraph (a) of this subsection
+from a committee meeting for purposes related to deliberation and voting.
+(8) Minutes of hospital nurse staffing committee meetings must:
+(a) Include motions made and outcomes of votes taken;
+(b) Summarize discussions; and
+(c) Be made available in a timely manner to hospital nursing staff and  other hospital staff upon
+request.
+(9) A hospital shall release a member of a hospital nurse staffing committee described in sub-
+section (1)(a) of this section from the member’s assignment, and  provide the member with paid time,
+to attend committee meetings.
+SECTION 3.
+ ORS 441.175 is amended to read:
+[2]
+HB 2945
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+441.175. (1) The Oregon Health Authority may impose civil penalties in the  manner provided in
+ORS 183.745 or  suspend or revoke a license of a hospital for a violation of any provision of ORS
+441.152 to 441.177. The authority shall adopt by rule a  schedule establishing the amount of civil
+penalty that may be imposed for  a violation of ORS 441.152 to 441.177 when there is a reasonable
+belief that safe patient  care has been or may be negatively impacted, except that a civil penalty
+may not exceed [ $5,000] $10,000. Each violation of a written hospital-wide staffing plan shall be
+considered a separate  violation. Any license that is suspended or revoked under this subsection shall
+be suspended or revoked as provided in ORS 441.030.
+(2) The authority shall maintain for public inspection records of any civil penalties or license
+suspensions or revocations imposed on hospitals penalized under subsection (1) of this section.
+SECTION 4. In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Oregon Health Authority, for the biennium beginning July 1, 2019, out of the
+General Fund, the amount of $_______, which may be  expended for carrying out section 1 of
+this 2019 Act.
+SECTION 5.
+This 2019 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2019 Act takes effect
+July 1, 2019.
+[3]

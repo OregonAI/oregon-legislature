@@ -1,0 +1,199 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Senate Bill 152
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Education)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs  Department  of Education to provide reimbursements for vision screenings of students
+to person that provided vision screening.
+Appropriates moneys from General  Fund to Department of Education for deposit in Vision
+Health Account to make reimbursements for vision screenings.
+Declares emergency, effective July 1, 2019.
+A BILL FOR AN ACT
+Relating to reimbursement for vision screenings of students; creating new provisions;  amending ORS
+336.211 and 336.212; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 336.211 is amended to read:
+336.211. (1) As used in this section:
+(a) “Education provider” means:
+(A) An entity that offers  a program that is recognized as an Oregon prekindergarten program
+under ORS 329.170 to 329.200.
+(B) A school district board.
+(b) “Eye examination” means an eye examination that:
+(A) Is conducted by a person licensed by the Oregon Board of Optometry under  ORS 683.010 to
+683.340 or a person licensed by the Oregon Medical Board under ORS chapter 677  and trained in
+eye surgery and eye disease; and
+(B) Involves any diagnosis of the eye and any measurement or assistance  of the powers or range
+of vision of the eye.
+(c) “Vision screening” means an  eye screening test to identify potential vision health problems
+that is conducted by  a person who is :
+(A) [ A person ] Licensed by the Oregon Board of Optometry under ORS 683.010 to 683.340;
+(B) [A person ] Licensed by the Oregon Medical Board under  ORS chapter 677 and trained in eye
+surgery and eye disease;
+(C) A health  care practitioner acting in accordance with rules adopted by the State Board of
+Education; or
+(D) A school nurse, an employee of an education provider or  a person or nonprofit entity des-
+ignated by the Department of Education to provide vision screening to  students who is acting in
+accordance with rules adopted by the State Board of Education.
+(2)(a) Except as provided in subsection (3) of this section, each education  provider shall require
+a student who is seven years of age or younger and who is beginning  an educational program with
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1864
+SB 152
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the education provider for the first time to submit certification that the student received:
+(A) A vision screening or an eye examination; and
+(B) Any further examinations or necessary treatments of the eye or  assistance of the powers or
+range of vision of the eye.
+(b) The certification required by this subsection must be provided no later than 120 days after
+the student begins the educational program.
+(3) A student is  not required to submit certification as required under subsection (2) of this
+section if the student provides a statement from the parent or guardian of the student that:
+(a) The student submitted certification to a prior education provider; or
+(b) The vision screening or eye examination is contrary to the religious beliefs of  the student
+or the parent or guardian of the student.
+(4) Each education provider shall:
+(a) Ensure that the  requirements of this section are met. Failure by a student to meet the re-
+quirements of this section may not result in a program’s  or school’s prohibiting the student from
+attending the program or school, but may result in withholding report cards or similar actions.
+(b) File in the student’s vision health record  any certifications and any results of a vision
+screening or an eye examination known by the education provider.
+(c) Provide the parent or guardian of each  student with information about the vision screenings
+and eye examinations, and information about further examinations or necessary treatments.
+(5)(a) Upon application of [ an education provider ] a person  that provides  students with vision
+screenings, the Department of Education shall  reimburse the [ education provider ] person for any
+necessary expenses incurred by the [ education provider ] person in the provision of the  vision
+screenings[ , including any expenses related to contracting with a person or nonprofit entity ].
+(b) [ An education provider ] A person  may receive reimbursement under this subsection for  the
+provision of a vision screening to any student of [ the] an education provider, regardless  of whether
+the student has complied with subsection (2) or (3) of this section. Nothing in this  paragraph re-
+moves the requirement that a student must comply with subsection (2) or (3) of this section.
+(c) Reimbursements made under this subsection:
+(A) May not exceed $3.20 per vision screening per student per school year.
+(B) Must be paid from the Vision Health Account established under ORS 336.212.
+(C) May not exceed amounts available in the Vision Health Account.
+(6)(a) The State Board of Education,  in consultation with the Oregon Health Policy Board, shall
+adopt by rule any standards for the implementation of this section.
+(b) The State Board of Education shall adopt rules that:
+(A) Prescribe the process by which a person or nonprofit  entity is designated by the Department
+of Education to provide vision screenings; and
+(B) Establish the process for providing reimbursements under subsection (5) of this  section, in-
+cluding the prioritization of [ education providers ] persons to receive a reimbursement if the total
+amount available for reimbursements exceeds the total amount requested for reimbursements.
+SECTION 2.
+ ORS 336.212 is amended to read:
+336.212. (1) The  Vision Health Account is established in the State Treasury, separate and dis-
+tinct from the General Fund. Interest earned by the account shall be credited to the account.
+(2) Moneys in the account are continuously appropriated to the Department  of Education to
+make reimbursements [ to education providers ] for  expenses incurred for the provision of vision
+screenings, as described in ORS 336.211 (5).
+[2]
+SB 152
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+(3) The department, on behalf of the State of Oregon, may solicit and  accept gifts, grants and
+donations from public  and private sources for the provision of vision screenings. Moneys received
+under this subsection shall be deposited into the account.
+(4) From the  moneys appropriated by the Legislative Assembly to the account each biennium,
+the department may retain no more than a total of 10  percent of the moneys for administrative ex-
+penses incurred by the department in making reimbursements [ to education providers ].
+SECTION 3. The amendments to ORS 336.211 by section 1 of this 2019 Act apply to ex-
+penses incurred for vision  screenings provided on or after the effective date of this 2019 Act.
+SECTION 4. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Department of Education, for the biennium beginning July  1, 2019, out of the
+General Fund, the amount of $2,000,000, to be deposited in the Vision  Health Account estab-
+lished under ORS 336.212.
+SECTION 5. This 2019 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2019 Act takes effect
+July 1, 2019.
+[3]

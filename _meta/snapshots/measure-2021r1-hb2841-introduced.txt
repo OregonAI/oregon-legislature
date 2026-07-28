@@ -1,0 +1,165 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 2841
+Sponsored by Representative PRUSAK (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs Oregon Health  Authority to award grant moneys to eligible school-based health center
+pilot projects to expand access to  health care services and improve health and education outcomes
+for students  through telehealth. Defines “telehealth.” Establishes eligibility criteria for pilot
+projects.
+Directs  authority  to report to interim committee of Legislative Assembly on effectiveness and
+success of pilot projects not later than December 31, 2025.
+Sunsets January 2, 2026.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to school nurses; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Distant site” means the site where  a physician licensed under ORS chapter 677, or
+other licensed health  care practitioner, who provides health care services through telehealth
+is located at the time the physician or licensed health care practitioner provides the  health
+care service through telehealth.
+(b) “Originating site” means the site where the patient  is located at the time the patient
+receives health care services provided through telehealth.
+(c) “School-based health center” has the meaning given that term in ORS 413.225.
+(d) “School nurse” means:
+(A) A school nurse as defined in ORS 342.455; or
+(B) A registered nurse who is an employee or contractor of a  school district and who
+practices nursing in a school setting.
+(e) “Telehealth” means the use of  electronic and telecommunication technologies to de-
+liver health care services to a patient.
+(2)(a) The Oregon Health Authority shall award grant moneys to an  eligible school-based
+health center pilot project to expand student access to mental  and physical health care ser-
+vices and to  improve the health and education outcomes of students through the use of
+telehealth.
+(b) To be eligible for a grant under this subsection, a school-based health  center shall
+enter into a pilot project  agreement with a school district. The pilot project agreement must
+provide that:
+(A) The school-based health center is the distant site that provides telehealth  in con-
+junction with a school nurse located at the originating site; and
+(B) The school-based health  center will allocate to the school district a portion of funds
+received under this subsection to increase school nurse capacity and assist in offsetting costs
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3224
+HB 2841
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+incurred by the  school district as a result of the school district’s participation in the pilot
+project.
+(c) Funds described in this subsection may be used to:
+(A) Compensate the following individuals for services provided pursuant to a pilot project:
+(i) A school nurse;
+(ii) A licensed health care practitioner located at a school-based health center; and
+(iii) Administrative or technical staff at a school-based health center;
+(B) Cover the costs of:
+(i) Technical equipment necessary to provide telehealth; and
+(ii) Technical assistance related to the use and function of equipment  necessary to pro-
+vide telehealth; and
+(C) Cover other costs related to the pilot project’s provision of telehealth.
+(3) The authority:
+(a) Shall assist school-based health centers and school districts that enter into pilot
+project agreements in the efficient use of funds distributed  under subsection (2) of this sec-
+tion.
+(b) May coordinate with one or more statewide nonprofit organizations that have  expe-
+rience in supporting school-based health  centers and school nurses to carry out this section.
+(4) A school-based health center that operates a pilot project  shall report, on an interval
+determined by the authority, to the authority on the progress of  the pilot project in a man-
+ner that allows the authority to determine the effectiveness of the pilot project.
+(5) The authority shall establish a process  to evaluate at least the following information
+regarding a pilot project established under this section:
+(a) Billing practices and reimbursements;
+(b) Access to health care services;
+(c) Impact on student absence from schools; and
+(d) Workflow practices.
+(6) Not later than December 31, 2025, the authority shall submit a report, in  the manner
+provided in ORS 192.245, to an interim committee of the Legislative Assembly related  to
+health care, on the effectiveness and success of  pilot projects established under this section.
+The authority may include in the report submitted under  this subsection recommendations
+for legislation.
+SECTION 2.
+There is appropriated to the Oregon Health Authority, for the biennium  be-
+ginning July 1, 2021, out of the General  Fund, the amount of $950,000 for the purpose of
+carrying out the provisions of section 1 of this 2021 Act.
+SECTION 3. Section 1 of this 2021 Act is repealed on January 2, 2026.
+SECTION 4. (1) Section 1 of this 2021 Act becomes operative on January 1, 2022.
+(2) The Oregon Health Authority may take any  action before the operative date specified
+in subsection (1) of this section that is necessary  to enable the authority to exercise, on and
+after the operative date specified in  subsection (1) of this section, all of the duties, functions
+and powers conferred on the authority by section 1 of this 2021 Act.
+SECTION 5. This 2021 Act takes effect on the 91st day after the date on which the 2021
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+[2]

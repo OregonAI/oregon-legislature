@@ -1,0 +1,794 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4083
+Introduced and printed pursuant to  House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+Office of the Governor)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes OHA create a portal to vet a behavioral  health care provider. The Act
+also lets some BH  care providers supervise other BH care providers who have different licenses.
+The Act tells the MHRA to oversee and help run the BLSW. (Flesch Readability Score: 61.6).
+Requires the Oregon  Health Authority to, no later than June 30, 2027, adopt a uniform process
+for credentialing  organizational behavioral health providers and establish a centralized portal for
+processing applications. Prohibits a coordinated care organization from requiring a behavioral
+health provider to comply with any additional credentialing procedures.
+Requires the authority to minimize unnecessary administrative  burden for individual and or-
+ganizational behavioral health providers who serve  medical assistance recipients and to report
+bienially to the Governor and the Legislative Assembly.
+Allows certain licensed behavioral health care providers to  provide supervision for other be-
+havioral health care providers who hold different license types.
+Provides that the Mental  Health Regulatory Agency will provide administrative and regulatory
+oversight and centralized service for the State Board of Licensed Social Workers.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to  behavioral health care providers; creating new provisions; amending ORS 675.030,
+675.110, 675.166, 675.178, 675.595, 675.597 and 675.785; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+CREDENTIALING AND ADMINISTRATION
+SECTION 1.
+(1) As used in this section:
+(a) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(b) “Organizational provider” has the meaning given that term in ORS 430.637.
+(2) The Oregon Health Authority shall:
+(a) Adopt by rule a uniform process for credentialing organizational providers; and
+(b) Establish a centralized portal for processing credentialing applications.
+(3) A coordinated care organization:
+(a) Shall use the centralized portal established by the authority for credentialing  organ-
+izational providers; and
+(b) May not require an organizational provider to comply with any  credentialing proce-
+dures other than the uniform process adopted by the authority under this section.
+SECTION 2.
+The Oregon Health Authority shall establish a centralized credentialing
+portal and complete rulemaking required under section 1 of this  2026 Act no later than June
+30, 2027.
+SECTION 3. (1) As used in this section:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 216
+HB 4083
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) “Behavioral health provider” includes:
+(A) An individual who is licensed, certified or otherwise authorized to provide  behavioral
+health care services in this state; and
+(B) An organizational provider, as defined in ORS 430.637.
+(b) “Medical assistance” has the meaning given that term in ORS 414.025.
+(2) The Oregon Health Authority shall minimize unnecessary administrative  burden for
+behavioral health providers who serve medical assistance recipients.
+(3) In carrying out this section, the authority shall:
+(a) Solicit suggestions from behavioral health providers; and
+(b) Seek any necessary approval from the Centers for Medicare and Medicaid Services.
+(4) Each biennium, the authority  shall report to the Governor and the committees of the
+Legislative Assembly related to behavioral  health in the manner provided in ORS 192.245. The
+report shall identify:
+(a) The efforts that the authority has made to  solicit suggestions from behavioral health
+providers;
+(b) Any suggestions from behavioral health providers that the authority has imple-
+mented; and
+(c) The status of any  request for approval from the Centers for Medicare and Medicaid
+Services.
+SUPERVISION OF BEHAVIORAL HEALTH CARE PROVIDERS
+SECTION 4.
+Section 5 of this  2026 Act is added to and made a part of ORS 675.510 to
+675.600.
+SECTION 5. (1) The  State Board of Licensed Social Workers shall adopt rules to allow,
+in addition to those individuals regulated by the board, at least the  following individuals to
+provide the supervision required for the issuance of  an authorization to practice regulated
+social work:
+(a) A licensed psychologist, as defined in ORS 675.010;
+(b) A licensed marriage and family therapist, as defined in ORS 675.705; and
+(c) A licensed professional counselor, as defined in ORS 675.705.
+(2) In adopting rules under this section, the  board may consult as necessary with the
+Oregon Board of Psychology and the  Oregon Board of Licensed Professional Counselors and
+Therapists. If the rules adopted under this section  allow for supervision by individuals reg-
+ulated by another health professional regulatory board, the  State Board of Licensed Social
+Workers may consult with other health professional regulatory boards as necessary.
+SECTION 6.
+Section 7 of this  2026 Act is added to and made a part of ORS 675.715 to
+675.835.
+SECTION 7. (1) The Oregon Board of Licensed Professional  Counselors and Therapists
+shall adopt rules to allow, in addition to those individuals regulated  by the board, at least the
+following individuals to provide the supervision required for the  issuance of a license or
+registration to practice marriage and family therapy or professional counseling:
+(a) A licensed psychologist, as defined in ORS 675.010; and
+(b) A clinical social worker licensed under ORS 675.530.
+(2) In adopting rules under this section, the  board may consult as necessary with the
+[2]
+HB 4083
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Oregon Board of Psychology and the State Board of Licensed Social  Workers. If the rules
+adopted under this section allow for supervision by individuals regulated by another health
+professional regulatory board, the Oregon Board of Licensed Professional Counselors and
+Therapists may consult with other health professional regulatory boards as necessary.
+SECTION 8.
+ ORS 675.030 is amended to read:
+675.030. (1) Upon application for licensure accompanied by the established fee, the Oregon Board
+of Psychology shall issue a psychologist  license to an applicant who performs to the satisfaction of
+the board in examinations prescribed by the board and furnishes evidence satisfactory to the  board
+that the applicant:
+(a) Has complied with all applicable provisions  of ORS 675.010 to 675.150 and the applicable
+rules of the board;
+(b) Holds a doctoral degree in psychology from an approved doctoral program in psychology;
+(c) Has satisfactorily completed courses and training required by the board;
+(d) Has had two years of supervised employment in the field of psychology:
+(A) Under the direction of a psychologist licensed in Oregon or under the direction of  a person
+considered by the board to have equivalent supervisory competence; or
+(B) In the military; and
+(e) Is of good  moral character. For purposes of this section, the lack of good moral character
+may be established by  reference to acts or conduct that reflect moral turpitude or to acts or conduct
+that would cause a reasonable person to have substantial doubts about the individual’s honesty,
+fairness and respect for the rights of others and for the laws of the state and the nation. The con-
+duct or acts in question must be rationally connected to the applicant’s fitness  to practice psychol-
+ogy.
+(2) The board shall adopt rules by which a person receiving post-doctoral supervision  during the
+application process may enter into a contract to practice psychology under the supervision  of a li-
+censed psychologist, psychologist associate or a person considered  by the board to have equivalent
+supervisory competence. An applicant who  enters such a contract shall be designated as a psy-
+chologist  resident  or a psychologist associate resident, accordingly, and shall be subject to ORS
+675.010 to 675.150.
+(3)(a) In establishing by rule a list of persons who are considered by the board  to have
+equivalent supervisory competence for  purposes of this section, the board shall include per-
+sons who are clinical social workers licensed under ORS 675.530, licensed marriage and family
+therapists, as  defined in ORS 675.705, and licensed professional counselors, as defined in ORS
+675.705.
+(b) In adopting rules under this  section, the board may consult as necessary with the
+Oregon Board of  Licensed Professional Counselors and Therapists and the State Board of
+Licensed Social Workers. If the rules adopted under this section allow for supervision by
+individuals regulated by another health professional regulatory board, the Oregon Board of
+Psychology may consult with other health professional regulatory boards as necessary.
+SECTION 9.
+(1) Sections 5 and 7 of this 2026 Act and the amendments to ORS 675.030 by
+section 8 of this 2026 Act become operative on January 1, 2027.
+(2) The Oregon Board of Psychology,  the Oregon Board of Licensed Professional Coun-
+selors and Therapists and the State Board of Licensed Social Workers may take any  action
+before the operative date specified in subsection (1) of this section that is necessary to enable
+the boards to exercise, on and after the operative date specified in  subsection (1) of this
+[3]
+HB 4083
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+section, all  of the duties, functions and powers conferred on the boards by sections 5 and 7
+of this 2026 Act and the amendments to ORS 675.030 by section 8 of this 2026 Act.
+MENTAL HEALTH REGULATORY AGENCY
+SECTION 10.
+ ORS 675.110 is amended to read:
+675.110. In addition to the powers  otherwise granted under ORS 675.010 to 675.150, the Oregon
+Board of Psychology has all powers necessary or proper to:
+(1) Determine qualifications of applicants to practice psychology  in this state, prepare, conduct
+and grade examinations and license qualified applicants who comply with the provisions of ORS
+675.010 to 675.150 and the rules of the board.
+(2) Grant or deny renewal of licenses and  renew licenses that have lapsed for nonpayment of the
+renewal fee, subject to the provisions of ORS 675.010 to 675.150.
+(3) Suspend or revoke licenses, subject to ORS 675.010 to 675.150.
+(4) Issue letters  of reprimand and impose probationary periods with the authority to restrict the
+scope of practice of a licensed psychologist or to require practice under supervision.
+(5) Impose civil penalties as provided in ORS 675.070.
+(6) Restore licenses that have been suspended or revoked or voided by nonpayment of  the re-
+newal fee.
+(7) Collect fees for application, examination and licensing of  applicants, for renewal of licenses
+and for issuance of limited permits and  use the fees to defray the expenses of the board as provided
+in ORS 675.140.
+(8) Collect a delinquent renewal fee for licenses renewed after the deadline  for renewal but be-
+fore the grace period for renewal has expired.
+(9) Investigate alleged violations of ORS 675.010 to 675.150.
+(10) Issue subpoenas  for the attendance of witnesses, take testimony, administer oaths or affir-
+mations to witnesses, conduct hearings  and require the production of relevant documents in all
+proceedings pertaining to the duties and powers of the board.
+(11) Enforce ORS 675.010  to 675.150 and exercise general supervision over the practice of psy-
+chology in this state.
+(12) Adopt a common seal.
+(13) Formulate a code of professional conduct for the practice of psychology giving particular
+consideration to the Ethical Standards of Psychologists  promulgated by the American Psychological
+Association.
+(14) Establish  standards of service and training and educational qualifications for rendering
+ethical psychological services in this state, including the formulation of standards for the issuance
+of licenses for areas of special competence.
+(15) Formulate and  enforce continuing education requirements for duly licensed psychologists
+to ensure the highest quality of professional services to the public.
+(16) Deny renewal of a license, or renewal  of a license that has lapsed for nonpayment of the
+renewal fee,  unless the applicant completes, or provides documentation of completion within the
+previous 36 months of:
+(a) A one-hour  pain management education program approved by the board and developed based
+on recommendations of the Pain Management Commission; or
+(b) An equivalent pain management education program, as determined by the board.
+[4]
+HB 4083
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(17) Assess costs associated with  a disciplinary action to the person against whom the board
+takes the disciplinary action, as follows:
+(a) For total costs of $3,000 or less, the board may not assess any costs.
+(b) For total costs greater than $3,000 but not greater than  $6,000, the board may assess up to
+50 percent of the total costs.
+(c) For total costs greater than $6,000, the board  may assess up to 100 percent of the total costs.
+(18) For the purpose of requesting a state or nationwide criminal  records check under ORS
+181A.195, require the fingerprints of a person who is:
+(a) Applying for a license issued by the board;
+(b) Applying for renewal of a license issued by the board; or
+(c) Under investigation by the board.
+(19) Prescribe,  in consultation with the Oregon Board of Licensed Professional Counselors and
+Therapists and the State Board  of Licensed Social Workers , the duties of the Director of the
+Mental Health Regulatory Agency.
+(20) Subject to the applicable provisions of ORS chapter 183,  adopt reasonable rules to carry
+out the provisions of ORS 675.010 to 675.150.
+SECTION 11.
+ ORS 675.166 is amended to read:
+675.166. The Mental Health Regulatory  Agency shall provide administrative and regulatory
+oversight and centralized service for:
+(1) The Oregon Board of Licensed Professional Counselors and Therapists, as provided in  ORS
+675.715 to 675.835; [ and]
+(2) The Oregon Board of Psychology, as provided in ORS 675.010 to 675.150[ .]; and
+(3) The State Board of Licensed Social Workers, as provided in ORS 675.510 to 675.600.
+SECTION 12.
+ ORS 675.178 is amended to read:
+675.178. (1) The Mental Health Regulatory  Agency is under the supervision and control of the
+Director of the Mental  Health Regulatory Agency, who is responsible for the performance of the
+duties, functions and powers and for the organization of the agency.
+(2) The regulated boards shall jointly appoint the director,  who shall serve at the direction of
+the boards. If the  boards cannot agree on a director, the Governor shall appoint a director from
+individuals suggested by each board, and the Governor’s decision is final.
+(3) The director is authorized to carry out the provisions of:
+(a) ORS 675.010 to 675.150 as prescribed by the Oregon Board of Psychology; [ and]
+(b) ORS 675.715 to 675.835 as prescribed by the Oregon Board of Licensed Professional Counse-
+lors and Therapists[ .]; and
+(c) ORS 675.510 to 675.600 as prescribed by the State Board of Licensed Social Workers.
+(4) The director may appoint officers and hire employees as necessary to assist the  director in
+fulfilling the duties, functions and powers conferred on the director by this section.
+(5) The director may prescribe the duties and fix the compensation  of officers appointed by the
+director and employees hired by the director.
+(6) The  director has all the powers necessary for the director to fulfill the director’s duties as
+prescribed by the regulated boards under subsection (3) of this section.
+SECTION 13.
+ ORS 675.595 is amended to read:
+675.595. In addition to the powers otherwise  granted under ORS 675.510 to 675.600, the State
+Board of Licensed Social Workers [ shall have the following powers ] has all the powers necessary
+or proper to :
+[5]
+HB 4083
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(1) [To] Determine the qualifications of applicants to practice social work in this state.
+(2) [To cause to have  examinations prepared, conducted and graded ] Prepare, conduct and grade
+examinations.
+(3) [To] Grant authorizations to practice regulated social  work to qualified applicants upon their
+compliance with the provisions of ORS 675.510 to 675.600 and the rules of the board.
+(4) [To] Grant or deny renewal of authorizations to practice regulated social work.
+(5) [To] Suspend or revoke authorizations to practice regulated social work.
+(6) [To] Issue letters of reprimand.
+(7) [ To] Impose probationary periods  with the authority to restrict the scope of practice of a
+regulated social worker.
+(8) [To] Require that a regulated social worker:
+(a) Practice under supervision;
+(b) Obtain additional training in social work; or
+(c) Undergo psychological, physical or psychiatric assessment, enter into  and remain in any
+prescribed treatment program and disclose the results of the treatment program to the board.
+(9) [To] Impose civil penalties as provided in ORS 675.540.
+(10) [ To] Restore authorizations to practice regulated social work that  have been suspended,
+revoked or voided by nonpayment of the renewal fee.
+(11) [ To] Collect  fees for application, examination and reexamination of applicants for initial
+authorizations to practice regulated social work as provided in ORS 675.571.
+(12) [To] Collect fees for renewal of authorizations to practice  regulated social work as provided
+in ORS 675.571.
+(13) [To] Collect delinquent renewal fees as provided in ORS 675.571 (4).
+(14) [To] Investigate alleged violations of ORS 675.510 to 675.600.
+(15) [ To] Issue subpoenas for the attendance of witnesses, take testimony, administer oaths or
+affirmations to witnesses, conduct hearings and require the production of relevant documents in all
+proceedings pertaining to the duties and powers of the board.
+(16) [ To] Enforce ORS 675.510 to 675.600 and exercise general supervision over the practice  of
+social work in this state.
+(17) [To] Adopt a common seal.
+(18) [ To] Formulate and enforce a  code of professional conduct for the practice of social work
+giving particular consideration to the code of ethics.
+(19) [To] Formulate and enforce continuing education  requirements for regulated social workers
+to ensure the highest quality of professional services to the public.
+(20) [ To] Take [ such] any other disciplinary action [ as] that the board in its discretion finds
+proper, including but not limited to assessment of the costs of the disciplinary process.
+(21) For the purpose of  requesting a state or nationwide criminal records check under ORS
+181A.195, [to] require the fingerprints of a person who is:
+(a) Applying for an authorization to practice regulated social work;
+(b) Applying for renewal of an authorization to practice regulated social work; or
+(c) Under investigation by the board.
+(22) Prescribe, in consultation with the Oregon Board of Licensed  Professional Counse-
+lors and  Therapists and the Oregon Board of Psychology, the duties of the Director of the
+Mental Health Regulatory Agency.
+SECTION 14.
+ ORS 675.597 is amended to read:
+[6]
+HB 4083
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+675.597. The State Board  of Licensed Social Workers Account is established in the State
+Treasury, separate and distinct from  the General Fund. Interest earned by the State Board of Li-
+censed Social Workers Account shall be credited to the account. Moneys in the  account are con-
+tinuously appropriated to the board for the administration and enforcement  of ORS 675.172, 675.510
+to 675.600, 676.850 and 676.866.
+SECTION 15.
+ ORS 675.785 is amended to read:
+675.785. The Oregon Board  of Licensed Professional Counselors and Therapists has the following
+powers and duties:
+(1) In accordance with the applicable provisions of ORS chapter 183, the board shall adopt  rules
+necessary for the administration of the laws the board is charged with administering.
+(2) Subject to applicable  provisions of the State Personnel Relations Law, the board may ap-
+point, prescribe the duties and fix  the compensation of employees of the board necessary to carry
+out the duties of the board.
+(3)(a) The board may impose nonrefundable fees in an amount set by rule for the following:
+(A) License application.
+(B) First issuance of a license.
+(C) Renewal of a license.
+(D) Late filing of a license renewal.
+(E) Renewal of registration as an associate.
+(F) Examinations. Examination  fees may not exceed the costs incurred in administering the
+particular examination.
+(G) Limited permits.
+(b) Fees established under this subsection are subject  to prior approval of the Oregon Depart-
+ment of Administrative Services and must be within  the budget authorized by the Legislative As-
+sembly as that budget may be modified by the Emergency Board.
+(4) The Oregon Board of Licensed Professional Counselors and Therapists shall:
+(a) Maintain  a register of all current licensed professional counselors and marriage and family
+therapists.
+(b) Annually publish  a directory listing all current licensed professional counselors and marriage
+and family therapists.  The directory must be available to the public, and the board may collect a
+publication fee for the directory.
+(5) The board shall:
+(a) Investigate alleged violations of the provisions of ORS 675.715 to 675.835 or  rules adopted
+under authority of the board.
+(b) Establish procedures to review the complaints of clients of  licensees of the board. Upon re-
+ceipt of a complaint under ORS 675.715 to 675.835  against a licensed or unlicensed person, the board
+shall conduct an investigation as described under ORS 676.165.
+(6) The board shall  report to the Legislative Assembly concerning the activities of the board
+during the preceding biennium.
+(7) The  board shall form standards committees to establish, examine and pass on the qualifica-
+tions of applicants to practice professional counseling or marriage and family therapy  in this state,
+including standards and requirements for continuing education and supervision, as  appropriate. The
+standards committee for professional counselors shall  be made up of the professional counselors on
+the board, the faculty member and the public member. The standards committee for marriage  and
+family therapists shall be made up of the marriage and family members of the board, the  faculty
+[7]
+HB 4083
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+member and the public member.
+(8) The board shall grant licenses to  applicants who qualify to practice professional counseling
+or marriage and family therapy in this state upon compliance with ORS  675.715 to 675.835 and the
+rules of the board.
+(9) The board may administer oaths, take depositions, defray legal expenses and issue  subpoenas
+to compel the attendance of witnesses and the production of documents or written information  nec-
+essary to carry out ORS 675.715 to 675.835.
+(10) The board may adopt a seal to be affixed to all licenses.
+(11) The board shall adopt  a code of ethics for licensees. The board may use the ethical codes
+of professional counseling  and marriage and family therapy associations as models for the code es-
+tablished by the board.
+(12) The board may set academic and training standards necessary under ORS 675.715 to 675.835,
+including, but not limited to, the  adoption of rules to establish semester hour equivalents for quali-
+fication for licensing where quarter hours are required under ORS 675.715 to 675.835.
+(13) The board shall require the applicant for a professional counselor  license or a marriage and
+family therapy license to receive a  passing score on an examination of competency in counseling
+or marriage and family therapy. The examination may be the examination  given nationally to certify
+counselors, or in the case of marriage and family therapy, the examination approved by the Associ-
+ation of Marital and Family Therapy Regulatory Boards.
+(14) For the purpose of  requesting a state or nationwide criminal records check under ORS
+181A.195, the board may require the fingerprints of a person who is:
+(a) Applying for a license that is issued by the board;
+(b) Applying for renewal of a license that is issued by the board; or
+(c) Under investigation by the board.
+(15) The board shall prescribe, in consultation with the Oregon Board of  Psychology and the
+State Board of Licensed Social  Workers , the duties of the Director of the Mental Health Regu-
+latory  Agency.
+SECTION 16.
+(1) On the operative date of this section, the tenure of any director or other
+administrator who provides administrative oversight for the State  Board of Licensed Social
+Workers ceases.
+(2) All of the duties, functions and powers of any  directors or other administrators of the
+board are imposed upon, transferred to and vested in the Director of the Mental Health
+Regulatory Agency.
+SECTION 17.
+(1) A director or other administrator of the State Board of  Licensed Social
+Workers whose tenure ceases under section 16 of this 2026 Act shall:
+(a) Deliver to the Director of  the Mental Health Regulatory Agency all records and
+property, within the  jurisdiction of a director or other administrator whose tenure ceases
+under section 16 of  this 2026 Act, that related to the duties, functions and powers transferred
+by section 16 of this 2026 Act; and
+(b) Transfer to the Director of the Mental  Health Regulatory Agency those employees
+engaged primarily in the  exercise of the duties, functions and powers transferred by section
+16 of this 2026 Act.
+(2) The Director of the  Mental Health Regulatory Agency shall take possession of the
+records and property, and shall take charge of the employees and  employ them in the exer-
+cise of the duties, functions and  powers transferred by section 16 of this 2026 Act, without
+[8]
+HB 4083
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+reduction of  compensation but subject to change or termination of employment or compen-
+sation as provided by law.
+SECTION 18.
+(1) Nothing in the amendments to ORS 675.110, 675.166, 675.178, 675.595,
+675.597 and 675.785 by sections 10 to 15 of this 2026 Act relieves a person of a liability, duty
+or obligation accruing under or with respect to the duties, functions  and powers transferred
+by section 16 of this 2026 Act. The Director of the Mental Health Regulatory Agency may
+undertake the collection or enforcement of any liability,  duty or obligation accruing under
+or with respect to the duties,  functions and powers transferred by section 16 of this 2026 Act.
+(2) The rights and obligations of a director  or other administrator who provides admin-
+istrative oversight for the State Board of Licensed Social Workers legally incurred  under
+contracts, leases and business transactions executed,  entered into or begun before the op-
+erative date specified in section 19 of this 2026 Act are transferred to the Director of the
+Mental Health Regulatory Agency. For the purpose of succession to these rights and obli-
+gations, the new director is not a new authority.
+SECTION 19.
+(1) Sections 16 to 18 of this 2026 Act and the amendments to ORS 675.110,
+675.166, 675.178, 675.595, 675.597 and 675.785 by sections 10 to 15 of  this 2026 Act become op-
+erative on June 30, 2027.
+(2) The Mental Health Regulatory Agency and the  State Board of Licensed Social Work-
+ers may take  any action before the operative date specified in subsection (1) of this section
+that is  necessary to enable the agency and the board to exercise, on and after the operative
+date specified in subsection (1) of this section, all of the duties, functions and powers  con-
+ferred on the agency and the board by sections 16 to 18 of this 2026 Act and the  amendments
+to ORS 675.110, 675.166, 675.178, 675.595, 675.597 and 675.785 by  sections 10 to 15 of this 2026
+Act.
+CAPTIONS
+SECTION 20. The unit captions used in this 2026 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2026 Act.
+EFFECTIVE DATE
+SECTION 21. This 2026 Act takes effect on the 91st day after the date on which  the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[9]

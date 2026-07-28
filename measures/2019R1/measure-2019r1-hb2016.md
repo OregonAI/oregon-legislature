@@ -1,0 +1,966 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2019r1-hb2016
+title: 'HB 2016 (2019R1): Requires public employer to grant reasonable paid time to public employee who
+  is designated representative to engage in certain activities.'
+doc_type: dataset_doc
+citation: 2019 Regular Session House Bill 2016
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2016/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 33b45b54f98246bb62f0194af41f22d1bcc32cc301f5ab516a9d9192909557ea
+snapshot_id: measure-2019r1-hb2016-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.109
+  - ORS 18.385
+  - ORS 18.736
+  - ORS 238.005
+  - ORS 240.060
+  - ORS 240.065
+  - ORS 240.080
+  - ORS 240.123
+  - ORS 243.650
+  - ORS 243.656
+  - ORS 243.662
+  - ORS 243.666
+  - ORS 243.670
+  - ORS 243.672
+  - ORS 243.676
+  - ORS 243.686
+  - ORS 243.698
+  - ORS 243.702
+  - ORS 243.712
+  - ORS 243.722
+  - ORS 243.726
+  - ORS 243.736
+  - ORS 243.742
+  - ORS 243.746
+  - ORS 243.762
+  - ORS 243.772
+  - ORS 243.776
+  - ORS 243.782
+  - ORS 292.026
+  - ORS 292.055
+  - ORS 329.704
+  - ORS 33.015
+  - ORS 352.002
+  - ORS 652.110
+  - ORS 652.610
+  - ORS 653.077
+  - ORS 84.001
+  - ORS 84.004
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2019r1
+- hb
+session_key: 2019R1
+measure_prefix: HB
+measure_number: 2016
+prefix_meaning: House Bill
+catch_line: Requires public employer to grant reasonable paid time to public employee who is designated
+  representative to engage in certain activities.
+minority_catch_line: null
+measure_summary: "\tRequires public employer to grant reasonable paid time to public employee who is designated\
+  \ representative to engage in certain activities. \n\tRequires public employer, upon request by exclusive\
+  \ representative, to authorize release time to designated representative of exclusive representative.\
+  \ Authorizes public employer and exclusive representative to negotiate and enter into agreements regarding\
+  \ release time. Entitles designated representative to be restored to same position after conclusion\
+  \ of release time. \n\tRequires public employer to provide exclusive representative reasonable access\
+  \ to employees in appropriate bargaining unit. Requires employers to provide employee contact information\
+  \ to exclusive representative within certain time limits. \n\tPermits public employer to deduct dues,\
+  \ fees and assessments from salary and wages of public employee who has authorized deduction. Requires\
+  \ employer to pay amounts deducted to labor organization. \n\tExpands definition of \"employment relations\"\
+  \ to include labor organization access to represented employees. \n\tMakes \t<i>certain activities,\
+  \ related to labor organization,</i>] attempts to influence employee to resign from or decline membership\t\
+  <i>, use of employer's electronic mail to discourage membership</i>] in labor organization \t<i>or to\
+  \ discourage authorization of deduction for payment to labor organization,</i>]<b> and</b> employer's\
+  \ encouragement of employee to revoke authorization of deduction for payment to labor organization \t\
+  <i>and provision of certain personally identifiable information about public employees within bargaining\
+  \ unit to entity other than exclusive representative,</i>] unfair labor practices."
+relating_to: Relating to collective bargaining.
+relating_to_full: Relating to collective bargaining.
+at_the_request_of: null
+lc_number: 2810
+measure_created_date: '2019-02-20T16:08:23'
+measure_modified_date: '2026-05-20T16:29:18'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 58394
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.109
+  - ORS 18.385
+  - ORS 18.736
+  - ORS 238.005
+  - ORS 240.060
+  - ORS 240.065
+  - ORS 240.080
+  - ORS 240.123
+  - ORS 243.650
+  - ORS 243.656
+  - ORS 243.662
+  - ORS 243.666
+  - ORS 243.670
+  - ORS 243.672
+  - ORS 243.676
+  - ORS 243.686
+  - ORS 243.698
+  - ORS 243.702
+  - ORS 243.712
+  - ORS 243.722
+  - ORS 243.726
+  - ORS 243.736
+  - ORS 243.742
+  - ORS 243.746
+  - ORS 243.762
+  - ORS 243.772
+  - ORS 243.776
+  - ORS 243.782
+  - ORS 292.026
+  - ORS 292.055
+  - ORS 329.704
+  - ORS 33.015
+  - ORS 352.002
+  - ORS 652.110
+  - ORS 652.610
+  - ORS 653.077
+  - ORS 84.001
+  - ORS 84.004
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2016`.
+
+# HB 2016 — 2019 Regular Session (2019R1)
+
+## At a glance
+
+- **Measure:** House Bill 2016, 2019 Regular Session (2019R1)
+- **LC number:** 2810
+- **Created:** 2019-02-20T16:08:23
+- **Metadata last modified (upstream):** 2026-05-20T16:29:18
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 58394 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2016/Enrolled>.
+
+## Summary
+
+**Catchline:** Requires public employer to grant reasonable paid time to public employee who is designated representative to engage in certain activities.
+
+**Relating to:** Relating to collective bargaining.
+
+Requires public employer to grant reasonable paid time to public employee who is designated representative to engage in certain activities. 
+ Requires public employer, upon request by exclusive representative, to authorize release time to designated representative of exclusive representative. Authorizes public employer and exclusive representative to negotiate and enter into agreements regarding release time. Entitles designated representative to be restored to same position after conclusion of release time. 
+ Requires public employer to provide exclusive representative reasonable access to employees in appropriate bargaining unit. Requires employers to provide employee contact information to exclusive representative within certain time limits. 
+ Permits public employer to deduct dues, fees and assessments from salary and wages of public employee who has authorized deduction. Requires employer to pay amounts deducted to labor organization. 
+ Expands definition of "employment relations" to include labor organization access to represented employees. 
+ Makes  <i>certain activities, related to labor organization,</i>] attempts to influence employee to resign from or decline membership <i>, use of employer's electronic mail to discourage membership</i>] in labor organization  <i>or to discourage authorization of deduction for payment to labor organization,</i>]<b> and</b> employer's encouragement of employee to revoke authorization of deduction for payment to labor organization  <i>and provision of certain personally identifiable information about public employees within bargaining unit to entity other than exclusive representative,</i>] unfair labor practices.
+
+**RelatingToFull (verbatim upstream field):** Relating to collective bargaining.
+
+## Full text
+
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Enrolled
+House Bill 2016
+Sponsored by  Representatives WITT, LIVELY, Senators GOLDEN, TAYLOR; Representatives
+ALONSO  LEON,  BARKER, CLEM, EVANS, FAHEY, GREENLICK, HELM, HERNANDEZ,
+HOLVEY, KENY-GUYER, KOTEK, MCLAIN, MEEK, MITCHELL,  NOSSE, PILUSO, POWER,
+PRUSAK, SALINAS, SANCHEZ, SCHOUTEN, SMITH WARNER, WILDE,  WILLIAMSON, Sen-
+ators BEYER, BURDICK, DEMBROW,  MANNING JR, PROZANSKI, ROBLAN, STEINER
+HAYWARD, WAGNER
+CHAPTER .................................................
+AN ACT
+Relating to  collective bargaining; creating new provisions; amending ORS 243.650, 243.656, 243.666,
+243.670, 243.672, 243.676, 243.726, 243.742,  243.762, 243.772, 243.782 and 652.610; and repealing
+ORS 243.776 and 292.055.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Sections 2 to 6 of this  2019 Act are added to and made a part of ORS 243.650
+to 243.782.
+SECTION 2. As used in sections 2 to 6 of this 2019 Act:
+(1) “Designated representative” means a public employee:
+(a) Who is  designated by the exclusive representative as a representative for the em-
+ployees in a bargaining unit; and
+(b) For whom:
+(A) Reasonable paid time is granted under section 3 of this 2019 Act; or
+(B) Release time is granted under section 4 of this 2019 Act.
+(2) “Release time” means the period of time when a public employee who is a  designated
+representative takes a leave of absence  from the employee’s regular public employment to
+conduct labor organization business.
+(3) “Retirement credit” has the meaning given that term in ORS 238.005.
+SECTION 3.
+(1) A public employer shall grant public employees who are designated rep-
+resentatives reasonable time to engage in the following activities during  the public
+employee’s regularly scheduled work  hours without loss of compensation, seniority, leave
+accrual or any other benefits:
+(a) Investigate and process grievances  and other workplace-related complaints on behalf
+of the exclusive representative;
+(b) Attend  investigatory meetings and due process hearings involving represented em-
+ployees;
+(c) Participate in  or prepare for proceedings under ORS 243.650 to 243.782, or that arise
+from a dispute involving a collective bargaining agreement, including arbitration proceedings,
+administrative hearings and proceedings before the Employment Relations Board;
+(d) Act as a representative of the exclusive representative  for employees within the
+bargaining unit for purposes of collective bargaining;
+Enrolled House Bill 2016 (HB 2016-B) Page 1
+(e) Attend labor-management meetings held by a  committee composed of employers,
+employees and representatives of the labor  organization to discuss employment relations
+matters;
+(f) Provide information regarding a collective bargaining agreement to newly hired em-
+ployees at employee orientations or at any  other meetings that may be arranged for new
+employees;
+(g) Testify in a legal proceeding in which the public employee has been subpoenaed as  a
+witness; and
+(h) Perform any other duties agreed upon  by a public employer and an exclusive repre-
+sentative in a collective bargaining agreement or any other agreement.
+(2) A public employer may not  reduce a public employee’s work hours in order to comply
+with subsection (1) of this section except to prevent an employee from working unauthorized
+overtime hours.
+SECTION 4.
+(1) Except as otherwise provided under  this section, a public employer and
+an exclusive representative may negotiate and enter into written agreements whereby:
+(a) The public employer shall provide  a reasonable term of release time for public em-
+ployees to serve as designated representatives of the exclusive representative or  an affiliated
+labor organization.
+(b) The public employer and the exclusive representative may agree to:
+(A) The manner in which an exclusive representative shall  request authorization for re-
+lease time;
+(B) The length of release time; and
+(C) The terms of reimbursement for  the period of release time granted to the public
+employee to serve as the designated representative.
+(2) An agreement entered into under subsection  (1) of this section does not constitute a
+violation of ORS 243.670 or 243.672 (1)(b).
+(3) Upon request of an exclusive representative, a collective bargaining agreement or
+other similar written agreement entered into between a  public employer and the exclusive
+representative before the effective  date of this 2019 Act shall be reopened for negotiation
+regarding the authorization of release time under this section.
+(4) At the conclusion or termination of a period of release time granted to  a designated
+representative under this section, the designated representative shall  have a right of rein-
+statement to the same position and work location  held prior to the commencement of the
+release time or, if not feasible,  to a substantially similar position without loss of seniority,
+rank or classification.
+(5) Unless  otherwise provided in a collective bargaining agreement or any other written
+agreement entered into between a public  employer and an exclusive representative, the ex-
+clusive representative shall reimburse  the public employer for any compensation that is paid
+to the designated representative during a period of  release time. Compensation paid under
+this subsection includes any employer contributions made toward any employee  benefits, in-
+cluding benefits under ORS chapter 238A.
+(6) A designated representative taking release time under this section  shall receive full
+retirement credit for the entire duration of  the release time, as long as the designated rep-
+resentative continues to meet any retirement  contribution obligations pursuant to ORS
+chapter 238 or pursuant to the collective bargaining agreement or any other written agree-
+ment entered into between the public employer and the exclusive representative.
+(7) Any release time authorized under this section shall  be in addition to any vacation
+leave, sick leave or any other form of paid or unpaid leave that is available to a public em-
+ployee under state law or under a collective bargaining agreement  or any other written
+agreement entered into between the public employer and the exclusive representative.
+(8) An exclusive representative or a designated representative  may terminate a period
+of release time authorized under this section at any time for any reason.
+Enrolled House Bill 2016 (HB 2016-B) Page 2
+(9)(a) A public employer is not liable for an  act or omission of, or an injury suffered by,
+an employee of the public employer if  the act, omission or injury occurs during the course
+and scope of the employee serving as  a designated representative for the exclusive repre-
+sentative during a period of release time.
+(b) If the public employer is held liable, the  exclusive representative shall indemnify the
+employer and hold the employer harmless from all liability arising from  the act, omission
+or injury that occurred during the period of release time.
+(10) Agreements entered into  under this section shall not be deemed an unfair labor
+practice under ORS 243.672.
+SECTION 5. (1)(a) A public employer shall provide an exclusive representative of an  ap-
+propriate bargaining unit reasonable access to employees within the bargaining unit.
+(b) For purposes of newly hired employees  in the bargaining unit, reasonable access in-
+cludes, but is not limited to:
+(A) The right to meet with new  employees, without loss of employee compensation or
+leave benefits; and
+(B) The right to meet with the new employees within 30 calendar days from the  date of
+hire for a period of  at least 30 minutes but not more than 120 minutes, during new employee
+orientation or, if the public employer does not conduct new employee orientations, at indi-
+vidual or group meetings.
+(c) For purposes of employees in the bargaining unit who  are not new employees, rea-
+sonable access includes, but is not limited to:
+(A) The right to meet with employees during the  employees’ regular work hours at the
+employees’ regular work location to investigate  and discuss grievances, workplace-related
+complaints and other matters relating to employment relations; and
+(B) The right to conduct meetings at the employees’ regular work location before or after
+the employees’ regular work hours, during meal  periods and during any other break periods.
+(2) A public employer shall permit an exclusive representative to use the public
+employer’s facilities  or property, whether owned or leased by the employer, for purposes of
+conducting meetings with the represented employees in the bargaining unit.
+(3)(a) An exclusive  representative may hold the meetings described under subsection (1)
+of this section at a time and place set by the exclusive representative, provided that the
+meetings do not interfere with the employer’s operations.
+(b) The exclusive representative  shall have the right to conduct the meetings without
+undue interference  and may establish reasonable rules regarding appropriate conduct for
+meeting attendees.
+(4)(a) If a public employer has the information in the employer’s records, the public  em-
+ployer shall provide to the exclusive representative, in an editable digital file  format agreed
+to by the exclusive representative, the following information for each employee in an  appro-
+priate bargaining unit:
+(A) The employee’s name and date of hire;
+(B) Contact information including:
+(i) Cellular, home and work telephone numbers;
+(ii) Any means of electronic communication, including  work and personal electronic mail
+addresses; and
+(iii) Home address or personal mailing address; and
+(C) Employment information, including the employee’s job title, salary  and work site lo-
+cation.
+(b) The public employer shall provide the information described in  paragraph (a) of this
+subsection to the exclusive representative:
+(A) Within 10 calendar days from  the date of hire for newly hired employees in an ap-
+propriate bargaining unit; and
+Enrolled House Bill 2016 (HB 2016-B) Page 3
+(B) Every 120 calendar days for employees  in the bargaining unit who are not newly hired
+employees.
+(5) An exclusive representative shall have  the right to use the electronic mail systems
+or other similar communication systems of a public employer  to communicate with the em-
+ployees in the bargaining unit regarding:
+(a) Collective bargaining, including the administration of collective bargaining agree-
+ments;
+(b) The investigation  of grievances or other disputes relating to employment relations;
+and
+(c) Matters involving the governance or business of the labor organization.
+(6) Nothing in this section:
+(a) Prevents a public  employer from providing an exclusive representative access to em-
+ployees within the bargaining unit beyond the reasonable  access required under this section.
+(b) Limits any existing right  of a labor organization to communicate with public em-
+ployees.
+SECTION 6.
+(1) A public employee may enter into an agreement with a labor organization
+that is the exclusive representative to provide  authorization for a public employer to make
+a deduction from the salary or  wages of the public employee, in the manner described in
+subsection (4) of this section, to pay dues, fees and any other assessments or authorized
+deductions to the labor organization or its affiliated organizations or entities.
+(2) A public employer  shall deduct the dues, fees and any other deduction authorized by
+a public employee under this section and remit payment  to the designated organization or
+entity.
+(3)(a) In addition to making the deductions and payments to a labor organization or en-
+tity described in subsection (1)  of this section, a public employer shall make deductions for
+and payments to a noncertified, yet bona  fide, labor organization, if so requested and au-
+thorized by a public employee, in the manner described in subsection (4) of this section.
+(b) The deductions and  payments made in accordance with this subsection shall not be
+deemed an unfair labor practice under ORS 243.672.
+(4)(a) A  public employee may provide authorization for the deductions described in this
+section by telephonic communication or  in writing, including by an electronic record or
+electronic signature, as those terms are defined in ORS 84.004.
+(b) A public employee’s authorization is independent of the  employee’s membership sta-
+tus in the labor organization to which payment is  remitted and irrespective of whether a
+collective bargaining agreement authorizes the deduction.
+(5) Notwithstanding subsections (1) to (4) of this section, a  collective bargaining agree-
+ment between a labor organization and a public employer may authorize a public employer
+to make a deduction from the salary or wages of a public employee who  is a member of the
+labor organization to  pay dues, fees or other assessments to the labor organization or its
+affiliated organizations or entities.
+(6) A public employee’s authorization for a public employer to  make a deduction under
+subsections (1) to (4) of this section shall remain in effect until the public employee  revokes
+the authorization in the manner provided by the terms of the agreement. If the terms of the
+agreement do not specify the manner in which a  public employee may revoke the authorized
+deduction, a public employee may revoke authorization for the  deduction by delivering an
+original signed, written statement of revocation to the headquarters of the labor organiza-
+tion.
+(7) A  labor organization shall provide to each public employer a list identifying the public
+employees who have provided authorization for a public  employer to make deductions from
+the public employee’s salary or wages to  pay dues, fees and any other assessments or au-
+thorized deductions to the labor organization. A public  employer shall rely on the list to
+make the authorized deductions and to remit payment to the labor organization.
+Enrolled House Bill 2016 (HB 2016-B) Page 4
+(8)(a) Notwithstanding subsection (10) of this section,  a public employer that makes de-
+ductions and payments in reliance on the list described in  subsection (7) of this section is
+not liable to a public employee for actual damages resulting from an  unauthorized deduction.
+(b) A labor  organization that receives payment from a public employer shall defend and
+indemnify the public employer for the amount of any unauthorized deduction resulting  from
+the public employer’s reliance on the list.
+(9) If a labor organization provides a  public employer with the list described in subsection
+(7) of this section  and the employer fails to make an authorized deduction and remit payment
+to the labor  organization, the public employer is liable to the labor organization, without
+recourse against the employee who authorized  the deduction, for the full amount that the
+employer failed to deduct and remit to the labor organization.
+(10)(a) If a dispute arises between  the public employee and the labor organization re-
+garding the existence, validity or revocation of an authorization for the deductions  and pay-
+ment described under subsections  (1) and (2) of this section, the dispute shall be resolved
+through an unfair labor practice proceeding under ORS 243.672.
+(b) A  public employer that makes unauthorized deductions or a labor organization that
+receives payment in  violation of the requirements of this section is liable to the public em-
+ployee for actual damages in  an amount not to exceed the amount of the unauthorized de-
+ductions.
+SECTION 7.  ORS 243.650 is amended to read:
+243.650. As used in ORS 243.650 to 243.782, unless the context requires otherwise:
+(1) “Appropriate  bargaining unit” means the unit designated by the Employment Relations Board
+or voluntarily recognized by  the public employer to be appropriate for collective bargaining. How-
+ever, an appropriate bargaining unit may not  include both academically licensed and unlicensed or
+nonacademically licensed school employees. Academically licensed units may include  but are not
+limited to teachers,  nurses, counselors, therapists, psychologists, child development specialists and
+similar positions. This limitation does not apply to any  bargaining unit certified or recognized prior
+to June 6, 1995, or to any school district with fewer than 50 employees.
+(2) “Board” means the Employment Relations Board.
+(3) “Certification” means official recognition by the board that a labor organization  is the ex-
+clusive representative for all of the employees in the appropriate bargaining unit.
+(4) “Collective bargaining” means the performance of the mutual obligation  of a public employer
+and the representative of its employees to meet at reasonable  times and confer in good faith with
+respect  to  employment relations for the purpose of negotiations concerning mandatory subjects of
+bargaining, to meet and confer in  good faith in accordance with law with respect to any dispute
+concerning the interpretation or application of a collective bargaining  agreement, and to execute
+written contracts incorporating agreements that have been reached on  behalf of the public employer
+and the employees in the bargaining unit covered by such negotiations. The obligation to  meet and
+negotiate does not compel either party to agree to a  proposal or require the making of a concession.
+This subsection  may not be construed to prohibit a public employer and a certified or recognized
+representative  of  its employees from discussing or executing written agreements regarding matters
+other than mandatory  subjects of bargaining that are not prohibited by law as long as there is mu-
+tual agreement of the parties to discuss these matters, which are permissive  subjects of bargaining.
+(5) “Compulsory arbitration” means the procedure whereby parties  involved in a labor dispute
+are required by law to submit their differences to a third party for a final and binding decision.
+(6) “Confidential employee” means one who assists and acts in a confidential capacity to a per-
+son who formulates, determines and effectuates management policies in the  area of collective bar-
+gaining.
+(7)(a) “Employment relations” includes, but is not  limited to, matters concerning direct or indi-
+rect monetary benefits, hours, vacations, sick leave, labor organization access  to and communi-
+cation with represented employees,  grievance procedures and other conditions of employment.
+Enrolled House Bill 2016 (HB 2016-B) Page 5
+(b) “Employment relations” does not include  subjects determined to be permissive, nonmanda-
+tory subjects of bargaining by the Employment Relations Board prior to June 6, 1995.
+(c) After June 6, 1995, “employment relations” does not include subjects  that the Employment
+Relations Board determines to have a greater impact  on management’s prerogative than on em-
+ployee wages, hours, or other terms and conditions of employment.
+(d) “Employment relations” does  not include subjects that have an insubstantial or de minimis
+effect on public employee wages, hours, and other terms and conditions of employment.
+(e) For school district bargaining, “employment relations” excludes class size, the  school or ed-
+ucational calendar, standards of performance or criteria for evaluation of teachers,  the school cur-
+riculum, reasonable dress, grooming and at-work personal conduct requirements respecting smoking,
+gum chewing and similar matters of personal conduct, the standards and procedures for student
+discipline, the time between student classes, the selection, agendas and  decisions of 21st Century
+Schools  Councils  established under ORS 329.704, requirements for expressing milk under ORS
+653.077, and any other subject proposed that is permissive under paragraphs (b), (c) and (d)  of this
+subsection.
+(f) For employee bargaining  involving employees covered by ORS 243.736 and employees of the
+Department of  Corrections who have direct contact with inmates, “employment relations” includes
+safety issues that  have an impact on the on-the-job safety of the employees or staffing levels that
+have a significant impact on the on-the-job safety of the employees.
+(g) For all other employee bargaining except school district bargaining and except  as provided
+in paragraph (f) of this  subsection, “employment relations” excludes staffing levels and safety issues
+(except  those  staffing levels and safety issues that have a direct and substantial effect on the on-
+the-job safety of public employees), scheduling of services provided to  the public, determination of
+the minimum qualifications necessary for any position, criteria for evaluation or performance  ap-
+praisal, assignment of duties, workload  when the effect on duties is insubstantial, reasonable dress,
+grooming, and at-work personal conduct requirements respecting smoking, gum chewing, and  similar
+matters of personal conduct  at work, and any other subject proposed that is permissive under par-
+agraphs (b), (c) and (d) of this subsection.
+(8) “Exclusive representative” means  the labor organization that, as a result of certification by
+the board or recognition by the employer, has the right to be the collective bargaining agent of  all
+employees in an appropriate bargaining unit.
+(9) “Fact-finding” means identification  of the major issues in a particular labor dispute by one
+or more impartial individuals who review the positions  of the parties, resolve factual differences and
+make recommendations for settlement of the dispute.
+(10) “Fair-share agreement” means  an agreement between the public employer and the recog-
+nized or certified bargaining representative of public employees whereby employees who  are not
+members of the  employee organization are required to make an in-lieu-of-dues payment to an em-
+ployee organization except as provided in ORS 243.666. Upon the filing with the board  of a petition
+by 30 percent  or more of the employees in an appropriate bargaining unit covered by such union
+security agreement declaring they desire that the agreement be rescinded, the  board shall take a
+secret ballot of the  employees in the unit and certify the results thereof to the recognized or certi-
+fied bargaining representative and to the public employer. Unless  a majority of the votes cast in an
+election favor the  union security agreement, the board shall certify deauthorization of the agree-
+ment. A petition for deauthorization of a union security agreement must be filed not more  than 90
+calendar days after the collective bargaining agreement is  executed. Only one such election may be
+conducted in any appropriate bargaining unit during the term  of a collective bargaining agreement
+between a public employer and the recognized or certified bargaining representative.
+(11) “Final offer” means the proposed contract language and cost summary submitted  to the
+mediator within seven days of the declaration of impasse.
+(12) “Labor  dispute” means any controversy concerning employment relations or concerning the
+association or representation of persons in negotiating, fixing, maintaining,  changing, or seeking to
+Enrolled House Bill 2016 (HB 2016-B) Page 6
+arrange terms or conditions of employment  relations, regardless of whether the disputants stand in
+the proximate relation of employer and employee.
+(13) “Labor  organization” means any organization that has as one of its purposes representing
+employees in their employment relations with public employers.
+(14) “Last best offer package” means the offer exchanged by parties not  less than 14 days prior
+to the date scheduled for an interest arbitration hearing.
+(15) “Legislative body” means the Legislative Assembly, the city council, the  county commission
+and any other board or commission empowered to levy taxes.
+(16) “Managerial employee” means an employee of the State of Oregon or  a public university
+listed in ORS 352.002  who possesses authority to formulate and carry out management decisions or
+who represents management’s interest by taking or effectively recommending  discretionary actions
+that control or implement employer policy, and who has discretion in  the performance of these
+management responsibilities beyond the routine discharge of duties.  A “managerial employee” need
+not act in a supervisory capacity in relation to other employees. Notwithstanding  this subsection,
+“managerial employee” does not include faculty members at a community college, college or uni-
+versity.
+(17) “Mediation” means assistance by an impartial third  party in reconciling a labor dispute
+between the public employer and the exclusive representative regarding employment relations.
+(18) “Payment-in-lieu-of-dues” means an assessment to defray the cost for services by  the exclu-
+sive representative  in negotiations and contract administration of all persons in an appropriate
+bargaining unit who are not members of the organization serving as exclusive  representative of the
+employees. The payment must be equivalent to  regular union dues and assessments, if any, or must
+be an amount  agreed upon by the public employer and the exclusive representative of the employees.
+(19) “Public employee” means  an employee of a public employer but does not include elected
+officials, persons appointed to serve on boards or commissions, incarcerated persons working under
+section 41, Article I of the Oregon Constitution, or persons who are confidential  employees, super-
+visory employees or managerial employees.
+(20) “Public employer”  means the State of Oregon, and the following political subdivisions:
+Cities, counties,  community colleges, school districts, special districts, mass transit districts, metro-
+politan service districts, public service  corporations or municipal corporations and public and
+quasi-public corporations.
+(21) “Public employer representative” includes  any individual or individuals specifically desig-
+nated by the public employer to act in its interests in all matters dealing with employee represen-
+tation, collective bargaining and related issues.
+(22) “Strike” means a public employee’s refusal in concerted action with others to  report for
+duty, or  his or her willful absence from his or her position, or his or her stoppage of work, or his
+or her absence in whole or in part from the full, faithful or  proper performance of his or her duties
+of employment, for the purpose of inducing, influencing or  coercing a change in the conditions,
+compensation, rights, privileges or obligations of public employment; however, nothing  shall limit
+or impair the right  of any public employee to lawfully express or communicate a complaint or
+opinion on any matter related to the conditions of employment.
+(23)(a) “Supervisory  employee” means any individual having authority in the interest of the
+employer to hire, transfer,  suspend, lay off, recall, promote, discharge, assign, reward or discipline
+other employees, or responsibly to direct them, or to adjust their grievances,  or effectively to re-
+commend such  action, if in connection therewith, the exercise of the authority is not of a merely
+routine or clerical nature but requires the use of independent  judgment. Failure to assert supervi-
+sory status in any Employment Relations Board proceeding or in negotiations for any  collective
+bargaining agreement does not thereafter prevent assertion of supervisory status  in any subsequent
+board proceeding or contract negotiation.
+(b) “Supervisory  employee” includes a faculty member of a public university listed in ORS
+352.002 or the Oregon Health and Science University who:
+Enrolled House Bill 2016 (HB 2016-B) Page 7
+(A) Is employed as a president, vice president, provost, vice provost, dean, associate  dean, as-
+sistant dean, head or equivalent position; or
+(B) Is employed in an administrative position without a reasonable expectation of  teaching, re-
+search or other scholarly accomplishments.
+(c) “Supervisory employee” does not include:
+(A) A nurse, charge nurse or  nurse holding a similar position if that position has not tradi-
+tionally been classified as supervisory;
+(B) A firefighter prohibited from striking  by ORS 243.736 who assigns, transfers or directs the
+work of other employees but does not have  the authority to hire, discharge or impose economic
+discipline on those employees; or
+(C) A faculty member of a public university listed in ORS 352.002 or the Oregon  Health and
+Science University who is not a faculty member described in paragraph (b) of this subsection.
+(24) “Unfair labor  practice” means the commission of an act designated an unfair labor practice
+in ORS 243.672.
+(25) “Voluntary arbitration” means the procedure whereby parties involved in a labor  dispute
+mutually agree to submit their differences to a third party for a final and binding decision.
+SECTION 8.
+ ORS 243.656 is amended to read:
+243.656. The Legislative Assembly finds and declares that:
+(1) The people of this state have a fundamental interest in the  development of harmonious and
+cooperative relationships between government and its employees;
+(2) Recognition by public employers of the right of public employees to organize and  full ac-
+ceptance  of  the principle and procedure of collective negotiation between public employers and
+public employee organizations can alleviate various forms of strife and unrest. Experience in the
+private and public sectors of our  economy has proved that unresolved disputes in the public service
+are injurious to the public, the governmental agencies, and public employees;
+(3) Experience in private and public employment has also proved that protection  by law of the
+right of employees to organize and negotiate collectively safeguards employees  and the public from
+injury, impairment and interruptions  of necessary services, and removes certain recognized sources
+of strife and unrest, by encouraging  practices fundamental to the peaceful adjustment of disputes
+arising out  of differences as to wages, hours, terms and other working conditions, and by establish-
+ing greater equality of bargaining power between public employers and public employees;
+(4) The state has a basic obligation to protect the public by attempting to assure  the orderly
+and uninterrupted operations and functions of government; [ and]
+(5) It is in the public interest to ensure  that exclusive representatives of public employ-
+ees are  able to effectively carry out their statutory duties by having direct access to re-
+presented employees, including communicating  with the employees at the workplace or
+otherwise;
+[(5)] (6) It is the purpose of ORS 243.650  to 243.782 to obligate public employers, public em-
+ployees and their representatives to enter into collective negotiations with  willingness to resolve
+grievances and disputes relating to employment relations and to enter  into written and signed con-
+tracts evidencing agreements  resulting from such negotiations. It is also the purpose of ORS 243.650
+to 243.782 to promote the improvement of employer-employee relations within the various public
+employers by providing a uniform basis for recognizing the right of public employees  to join organ-
+izations of their own choice, and to be represented by such organizations in  their employment re-
+lations with public employers[ .]; and
+(7) Ensuring meaningful communication between labor  organizations and employees in-
+creases the effectiveness of public employees’ work performance.
+SECTION 9.
+ ORS 243.666 is amended to read:
+243.666. (1) A labor organization certified by the Employment Relations Board or recognized  by
+the public employer is  the exclusive representative of the employees of a public employer for the
+purposes of collective bargaining with respect to employment  relations. [ Nevertheless any agreements
+entered into involving union security including an all-union agreement or  agency shop agreement must
+Enrolled House Bill 2016 (HB 2016-B) Page 8
+safeguard the rights  of nonassociation of employees, based on bona fide religious tenets or teachings
+of a church or religious body of which such employee is  a member. Such employee shall pay an amount
+of money equivalent to regular union dues and initiation fees and  assessments, if any, to a nonreligious
+charity or to another charitable organization mutually agreed upon by the employee  affected and the
+representative of the labor organization to which such employee  would otherwise be required to pay
+dues. The employee shall furnish written proof  to the employer of the employee that this has been
+done.]
+(2) Notwithstanding the provisions of subsection (1) of this section, an individual  employee or
+group of employees at any  time may present grievances to their employer and have such grievances
+adjusted, without the intervention of the labor organization, if:
+(a) The  adjustment is not inconsistent with the terms of a collective bargaining contract or
+agreement then in effect; and
+(b) The labor organization has been given opportunity to be present at the adjustment.
+(3) Nothing in this section prevents a public  employer from recognizing a labor organization
+which represents at least a majority of employees  as the exclusive representative of the employees
+of a public employer when the board has not designated the appropriate bargaining unit  or when
+the board has not certified an exclusive representative in accordance with ORS 243.686.
+SECTION 10.
+ ORS 243.670 is amended to read:
+243.670. (1) As used in this section:
+(a) “Assist, promote or deter union organizing” means any attempt by a public employer  to in-
+fluence the decision of any or all of its employees  or the employees of its subcontractors regarding:
+(A) Whether to support or oppose a labor organization that represents or seeks  to represent
+those employees; or
+(B) Whether to become a member of any labor organization.
+(b) “Public funds” means moneys drawn  from the State Treasury or any special or trust fund
+of the  state government, including any moneys appropriated by the state government and transferred
+to any public body, as defined in ORS 174.109, and any  other moneys under the control of a public
+official by virtue of office.
+(c) “Public property” means any real property or facility  owned or leased by a public employer.
+(2) A public employer may not:
+(a) Use public funds to support actions to assist, promote or deter union organizing; or
+(b) Discharge, demote, harass or  otherwise take adverse action against any individual because
+the individual seeks to enforce this section or testifies,  assists or participates in any manner in an
+investigation, hearing or other proceeding to enforce this section.
+(3) If an employee  requests the opinion of the employee’s employer or supervisor about union
+organizing, nothing in this section prohibits the employer or supervisor from responding to  the re-
+quest of the employee.
+(4) This section does not apply to an activity performed, or to an expense incurred, in con-
+nection with:
+(a) Addressing a grievance or negotiating or administering a collective bargaining agreement.
+(b) Allowing a labor organization or its representatives access to the public  employer’s facilities
+or property.
+(c) Performing an activity required by federal or state  law or by a collective bargaining agree-
+ment.
+(d) Negotiating, entering into or carrying out an agreement with a labor organization.
+(e) Paying  wages to a represented employee while the employee is performing duties if the
+payment is permitted under a collective bargaining agreement.
+(5)(a) This section shall  be enforced by the Employment Relations Board, which shall adopt rules
+necessary to implement and administer compliance.  A resident of this state may intervene as a
+plaintiff in any action brought under this section.
+(b) Nothing in  this section prohibits a public employer from spending public funds for the pur-
+pose of :
+Enrolled House Bill 2016 (HB 2016-B) Page 9
+(A) Representing the public employer in a proceeding before the board or in a  judicial review
+of that proceeding[ .];
+(B) Granting paid release time under section 4 of this 2019 Act; or
+(C) Providing paid  excused time to public employees who engage in the activities de-
+scribed under section 3 of this 2019 Act.
+SECTION 11.
+ ORS 243.672 is amended to read:
+243.672. (1) It is an unfair labor practice for a public  employer or its designated representative
+to do any of the following:
+(a) Interfere with, restrain or coerce employees in or because of the exercise  of rights guaran-
+teed in ORS 243.662.
+(b) Dominate, interfere with or  assist in the formation, existence or administration of any em-
+ployee organization.
+(c) Discriminate in regard to hiring, tenure or any terms or condition of employment for  the
+purpose of encouraging or discouraging  membership in an employee organization. Nothing in this
+section is intended to prohibit the entering  into of a fair-share agreement between a public employer
+and the exclusive bargaining representative of its  employees. If a “fair-share” agreement has been
+agreed to by the public employer and exclusive representative, nothing prohibits the  deduction of
+the payment-in-lieu-of-dues from the salaries or wages of the employees.
+(d) Discharge or otherwise discriminate against an employee because  the employee has signed
+or filed an affidavit, petition or complaint or has  given information or testimony under ORS 243.650
+to 243.782.
+(e) Refuse to bargain collectively in good faith with the exclusive representative.
+(f) Refuse or fail to comply with any provision of ORS 243.650 to 243.782.
+(g) Violate the provisions  of any written contract with respect to employment relations includ-
+ing an agreement to arbitrate or to accept the terms of an arbitration award, where previously the
+parties have agreed to accept arbitration awards as final and binding upon them.
+(h) Refuse to reduce an agreement, reached as a  result of collective bargaining, to writing and
+sign the resulting contract.
+(i) Violate ORS 243.670 (2).
+(j) Attempt  to influence an employee to resign from or decline to obtain membership in
+a labor organization.
+(k) Encourage an employee to revoke an authorization for the deductions described under
+section 6 of this 2019 Act.
+(2) Subject to the limitations set forth in this subsection, it is an unfair labor practice for a
+public employee or for a labor organization or  its designated representative to do any of the fol-
+lowing:
+(a) Interfere with, restrain or coerce any employee in or because of the exercise of any right
+guaranteed under ORS 243.650 to 243.782.
+(b) Refuse to bargain collectively in good faith with the public employer if the labor organization
+is an exclusive representative.
+(c) Refuse or fail to comply with any provision of ORS 243.650 to 243.782.
+(d) Violate the provisions of any written contract with respect to employment  relations, includ-
+ing an agreement to arbitrate or to accept the terms of an arbitration award, where previously the
+parties have agreed to accept arbitration awards as final and binding upon them.
+(e) Refuse to reduce an agreement, reached as a result of  collective bargaining, to writing and
+sign the resulting contract.
+(f) For any labor organization  to engage in unconventional strike activity not protected for
+private sector employees under  the National Labor Relations Act on June 6, 1995. This provision
+applies to sitdown, slowdown, rolling, intermittent or on-and-off again strikes.
+(g) For a labor organization or its  agents to picket or cause, induce, or encourage to be
+picketed, or threaten to engage in such activity, at the residence or business  premises of any indi-
+vidual who is a member of the governing body of a public employer, with respect to  a dispute over
+Enrolled House Bill 2016 (HB 2016-B) Page 10
+a collective  bargaining agreement or negotiations over employment relations, if an objective or ef-
+fect of such picketing is to induce another person to cease doing business  with the governing body
+member’s business or to cease handling,  transporting or dealing in goods or services produced at the
+governing body’s business. For purposes of this paragraph, a member  of the Legislative Assembly is
+a member of the governing body of a public employer  when the collective bargaining negotiation
+or dispute is between the State of Oregon and a labor  organization. The Governor and other state-
+wide elected  officials are not considered members of a governing body for purposes of this para-
+graph. Nothing in this paragraph may be interpreted or applied in a manner that violates  the right
+of free speech and assembly as protected by the Constitution of the United States  or the Constitu-
+tion of the State of Oregon.
+(3) An injured party may file a  written complaint with the Employment Relations Board not
+later than 180 days following the occurrence of  an unfair labor practice. For each unfair labor
+practice complaint filed, a  fee of $300 is imposed. For each answer to an unfair labor practice
+complaint filed with the board, a fee of $300 is imposed. The board may allow  any other person to
+intervene in the proceeding and to  present testimony. A person allowed to intervene shall pay a fee
+of $300 to the board. The board may, in its  discretion, order fee reimbursement to the prevailing
+party in any case in which the complaint or  answer is found to have been frivolous or filed in bad
+faith. The board shall deposit fees  received under this section to the credit of the Employment Re-
+lations Board Administrative Account.
+SECTION 12.  ORS 243.676 is amended to read:
+243.676. (1) Whenever a written complaint is filed alleging that any  person has engaged in or is
+engaging in any unfair labor practice listed in ORS 243.672  (1) and (2) and 243.752, the Employment
+Relations Board or its agent shall:
+(a) Cause to be served upon such person a copy of the complaint;
+(b) Investigate the complaint to determine  if a hearing on the unfair labor practice charge is
+warranted. If the investigation reveals that no issue of fact or law exists, the board may dismiss the
+complaint; and
+(c) Set the matter  for hearing if the board finds in its investigation made pursuant to paragraph
+(b) of this subsection that an issue of fact or law exists. The hearing  shall be before the board or
+an agent of the board not more than 20 days  after a copy of the complaint has been served on the
+person.
+(2) Where, as a result of the hearing required pursuant to subsection (1)(c) of this section,  the
+board finds that any person named in the complaint has engaged  in or is engaging in any unfair
+labor practice charged in the complaint, the board shall:
+(a) State its findings of fact;
+(b) Issue and cause to be served on such person an order that  the person cease and desist from
+the unfair labor practice;
+(c) Take such affirmative action, including but not limited to the  reinstatement of employees
+with or without back pay, as necessary  to effectuate the purposes of ORS 240.060, 240.065, 240.080,
+240.123, 243.650 to 243.782[, 292.055] and 341.290;
+(d) Designate the amount and award representation costs, if any, to the prevailing party; and
+(e) Designate the amount and award attorney fees, if any, to the prevailing  party on appeal,
+including proceedings for Supreme Court review, of a board order.
+(3) Where the board finds  that the person named in the complaint has not engaged in or is not
+engaging in an unfair labor practice, the board shall:
+(a) Issue an order dismissing the complaint; and
+(b) Designate the amount and award representation costs, if any, to the prevailing party.
+(4)(a) The board may award a civil penalty  to any person as a result of an unfair labor practice
+complaint hearing, in the aggregate amount of up to $1,000 per case, without regard to attorney fees,
+if:
+(A) The complaint has been affirmed pursuant  to subsection (2) of this section and the board
+finds that the person who has committed, or who is engaging,  in an unfair labor practice has done
+Enrolled House Bill 2016 (HB 2016-B) Page 11
+so repetitively, knowing  that the action taken was an unfair labor practice and took the action
+disregarding this knowledge, or that the action constituting the unfair labor practice was  egregious;
+or
+(B) The complaint has been dismissed pursuant to subsection  (3) of this section, and that the
+complaint was frivolously filed, or filed with the intent to harass the other person, or both.
+(b) Notwithstanding paragraph (a) of this subsection, if the  board finds that a public employer
+named in the complaint violated ORS 243.670 (2), the board shall impose a  civil penalty equal to
+triple the amount of funds the  public employer expended to assist, promote or deter union organiz-
+ing.
+(5) As used  in subsections (1) to (4) of this section, “person” includes but is not limited to indi-
+viduals, labor organizations, associations and public employers.
+SECTION 13.  ORS 243.726 is amended to read:
+243.726. (1) Participation in a strike shall be unlawful for any public employee  who is not in-
+cluded in an appropriate bargaining  unit for which an exclusive representative has been certified
+by the Employment Relations  Board or recognized by the employer; or is included in an appropriate
+bargaining unit that provides for resolution of a labor dispute by petition to final and  binding arbi-
+tration; or when the strike is  not made lawful under ORS 240.060, 240.065, 240.080, 240.123, 243.650
+to 243.782[, 292.055] and 341.290.
+(2) It shall be lawful  for a public employee who is not prohibited from striking under subsection
+(1) of this section and who is in the appropriate bargaining unit involved in a  labor dispute to par-
+ticipate in a strike over mandatory subjects of bargaining provided:
+(a) The requirements of ORS 243.712 and 243.722  relating to the resolution of labor disputes
+have been complied with in good faith;
+(b) Thirty days have elapsed since the board has  made public the fact finder’s findings of fact
+and recommendations or the mediator has made public the parties’ final offers;
+(c) The exclusive representative has given 10 days’ notice by  certified mail of its intent to strike
+and stating the reasons for its intent to strike to the board and the public employer;
+(d) The collective bargaining agreement has expired,  or the labor dispute arises pursuant to a
+reopener provision in a collective bargaining agreement or renegotiation under ORS 243.702 (1)  or
+renegotiation under ORS 243.698; and
+(e) The union’s strike does not include unconventional strike activity not protected under the
+National Labor Relations Act on June 6, 1995, and does not constitute an  unfair labor practice un-
+der ORS 243.672 (2)(f).
+(3)(a) Where the strike occurring or is about to occur creates a clear  and present danger or
+threat to the health, safety or welfare of the public, the public employer concerned may petition the
+circuit court of the  county in which the strike has taken place or is to take place for equitable relief
+including but not limited to appropriate injunctive relief.
+(b) If the strike is a strike of state employees the petition shall be filed in the  Circuit Court of
+Marion  County.
+(c) If, after hearing, the court finds that the  strike creates a clear and present danger or threat
+to the health,  safety or welfare of the public, it shall grant appropriate relief. Such relief shall in-
+clude an order that the labor dispute be submitted to  final and binding arbitration within 10 days
+of the court’s order pursuant to procedures in ORS 243.746.
+(4)(a) A  labor organization may not declare or authorize a strike of public employees that is or
+would be in violation of this section. When it is alleged in  good faith by the public employer that
+a labor organization has declared  or authorized a strike of public employees that is or would be in
+violation of this section, the employer may petition the board for a declaration  that the strike is or
+would be unlawful. The board, after conducting an  investigation and hearing, may make such dec-
+laration if it finds that such declaration or authorization of a strike is or would be unlawful.
+(b) When a labor organization or individual disobeys  an order of the appropriate circuit court
+issued pursuant to enforcing an order of the board involving this section and ORS  243.736 or
+Enrolled House Bill 2016 (HB 2016-B) Page 12
+243.738, they shall be punished according to the provisions of ORS 33.015 to 33.155, except  that the
+amount of the fine shall be at the discretion of the court.
+(5) An unfair labor practice by a public employer shall not  be a defense to a prohibited strike.
+The board upon the filing of  an unfair labor charge alleging that a public employer has committed
+an unfair labor practice during or arising out of the collective bargaining procedures set forth  in
+ORS 243.712 and 243.722, shall take immediate action  on such charge and if required, petition the
+court of competent jurisdiction for appropriate relief or a restraining order.
+(6) As used in this section, “danger or threat to the health, safety or welfare of  the public” does
+not include an economic or financial inconvenience to the public or to the public employer  that is
+normally incident to a strike by public employees.
+SECTION 14.  ORS 243.742 is amended to read:
+243.742. (1) It is the public policy of the State of Oregon that where the right of employees  to
+strike is by law prohibited, it is requisite to  the high morale of such employees and the efficient
+operation of such departments to afford an alternate, expeditious, effective and  binding procedure
+for the resolution of labor disputes and  to that end the provisions of ORS 240.060, 240.065, 240.080,
+240.123, 243.650 to 243.782[, 292.055] and 341.290, providing for compulsory arbitration, shall be lib-
+erally construed.
+(2) When the procedures set forth in ORS 243.712 and 243.722, relating  to mediation of a labor
+dispute, have not culminated in  a signed agreement between the parties who are prohibited from
+striking, the public employer and exclusive representative of  its employees shall include with the
+final offer filed with the mediator a petition to the Employment Relations Board  in writing that in-
+itiates binding arbitration for bargaining  units with employees referred to in ORS 243.736 or 243.738.
+Arbitration shall be scheduled by mutual  agreement not earlier than 30 days following the sub-
+mission of the  final offer packages to the mediator. Arbitration shall be scheduled in accordance
+with the procedures prescribed in ORS 243.746.
+SECTION 15.  ORS 652.610 is amended to read:
+652.610. (1)(a) All persons, firms, partnerships,  associations, cooperative associations, corpo-
+rations, municipal corporations, the state and its political subdivisions, except the  federal govern-
+ment and its agencies, employing, in this state, during any calendar month one or more  persons,
+shall provide the employee on regular  paydays and at other times payment of wages, salary or
+commission is made, with an itemized statement as described in paragraph (b) of this subsection.
+(b) The statement required under this subsection must be a written  statement, sufficiently
+itemized to show:
+(A) The date of the payment;
+(B) The dates of work covered by the payment;
+(C) The name of the employee;
+(D) The name and business registry number or business identification number;
+(E) The address and telephone number of the employer;
+(F) The rate or rates of pay;
+(G) Whether the employee is paid by the hour, shift, day or week or on a  salary, piece or com-
+mission basis;
+(H) Gross wages;
+(I) Net wages;
+(J) The amount and purpose of each deduction made during the respective period  of service that
+the payment covers;
+(K) Allowances, if any, claimed as part of minimum wage;
+(L) Unless the employee is paid on a salary basis and is  exempt from overtime compensation as
+established by local, state or federal law, the regular hourly rate or rates of pay,  the overtime rate
+or rates of  pay, the number of regular hours worked and pay for those hours, and the number of
+overtime hours worked and pay for those hours; and
+(M) If the employee is paid a piece rate, the applicable piece rate or rates of pay, the number
+of pieces completed at each piece rate and the total pay for each rate.
+Enrolled House Bill 2016 (HB 2016-B) Page 13
+(c) Notwithstanding paragraph (b)  of this subsection, the employer may provide the statement
+required under this subsection to the employee in electronic form pursuant to ORS 84.001 to  84.061
+if:
+(A) The statement contains the information described in paragraph (b) of this section;
+(B) The employee expressly agrees to receive the statement in electronic form; and
+(C) The employee has the ability to print or store the statement at the time of receipt.
+(2)(a) The statement may be attached to or  be a part of the check, draft, voucher or other in-
+strument by which payment is made, or may be delivered separately from the instrument.
+(b) The statement shall be provided electronically at the time payment is made to all state offi-
+cers and employees paid electronically under the state payroll system as provided by ORS 292.026.
+(c) State agencies shall provide access to electronic statements to employees who  do not have
+regular access to computers in their workplace.
+(d) Notwithstanding paragraph  (b) of this subsection, if an officer or employee paid under the
+state payroll system as provided by ORS 292.026 wants to receive payment of net salary and  wages
+by check or to receive a paper statement of itemized payroll deductions, the officer or employee
+shall request paper statements or payment  by check in accordance with the procedures adopted by
+rule by the Oregon Department of Administrative Services.
+(3) An employer may not withhold, deduct or divert any portion of an employee’s wages unless:
+(a) The employer is required to do so by law;
+(b) The deductions are voluntarily authorized in writing by the employee, are for the  employee’s
+benefit and are recorded in the employer’s books;
+(c) The employee has voluntarily signed an authorization for a deduction for any other item,
+provided that the ultimate recipient of the  money withheld is not the employer and that the de-
+duction is recorded in the employer’s books;
+(d) The  deduction is authorized by a collective bargaining agreement to which the employer is
+a party;
+(e) The deduction is authorized under ORS 18.736; or
+(f) The deduction is made from  the payment of wages upon termination of employment and is
+authorized pursuant to a written agreement between the employee and  employer for the repayment
+of a loan made to the employee by the employer, if all of the following conditions are met:
+(A) The employee has voluntarily signed the agreement;
+(B) The loan was paid to the employee in cash or other medium permitted by ORS 652.110;
+(C) The loan was made solely for the employee’s  benefit and was not used, either directly or
+indirectly, for any purpose required by the employer  or connected with the employee’s employment
+with the employer;
+(D) The  amount of the deduction at termination of employment does not exceed the amount
+permitted to be garnished under ORS 18.385; and
+(E) The deduction is recorded in the employer’s books.
+(4) When an employer deducts an amount from an employee’s wages  as required or authorized
+by law or agreement, the employer shall pay the amount deducted to  the appropriate recipient as
+required by the law or agreement. The employer shall pay the amount deducted within the time re-
+quired by the law or  the agreement or, if the time for payment is not specified by the law or
+agreement, within seven days after the date the wages from which the deductions are made  are due.
+Failure to pay the amount as required constitutes an unlawful deduction.
+(5) This section does not:
+(a) Prohibit the  withholding of amounts authorized in writing by the employee to be contributed
+by the employee to charitable organizations,  including contributions made pursuant to ORS [ 243.666
+and] 663.110;
+(b) Prohibit deductions by checkoff dues to labor organizations or service fees when the  de-
+ductions are not otherwise prohibited by law; or
+(c) Diminish or enlarge the  right of any person to assert and enforce a lawful setoff or
+counterclaim or to attach, take, reach or apply an employee’s compensation on due legal process.
+Enrolled House Bill 2016 (HB 2016-B) Page 14
+SECTION 16.  ORS 243.762 is amended to read:
+243.762. Nothing  in ORS 240.060, 240.065, 240.080, 240.123, 243.650 to 243.782[ , 292.055 ] and
+341.290 is intended  to prohibit a public employer and the exclusive representative of its employees
+from entering into a  collective bargaining agreement which provides for a compulsory arbitration
+procedure which is substantially equivalent to ORS 243.742 to 243.756.
+SECTION 17.  ORS 243.772 is amended to read:
+243.772. Any provisions of local  charters and ordinances adopted pursuant thereto in existence
+on October 5, 1973, and not in conflict with the  rights and duties established in ORS 240.060,
+240.065, 240.080, 240.123, 243.650 to 243.782[, 292.055] and 341.290 may remain in full force  and effect
+after the Employment Relations Board has determined that no conflict exists.
+SECTION 18.  ORS 243.782 is amended to read:
+243.782. (1) For purposes of proceedings commenced pursuant to ORS  240.060, 240.065, 240.080,
+240.123, 243.650 to 243.782[ , 292.055] and 341.290, a person  may be represented by counsel or any
+other agent authorized by such person.
+(2) As used in subsection (1) of this section, “person” means any individual,  a labor organization
+or a public employer.
+SECTION 19. ORS 243.776 and 292.055 are repealed.
+Passed by House March 27, 2019
+Repassed by House June 11, 2019
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate June 6, 2019
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2019
+Approved:
+........................M.,........................................................., 2019
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2019
+..................................................................................
+Bev Clarno, Secretary of State
+Enrolled House Bill 2016 (HB 2016-B) Page 15
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 174.109, ORS 18.385, ORS 18.736, ORS 238.005, ORS 240.060, ORS 240.065, ORS 240.080, ORS 240.123, ORS 243.650, ORS 243.656, ORS 243.662, ORS 243.666, ORS 243.670, ORS 243.672, ORS 243.676, ORS 243.686, ORS 243.698, ORS 243.702, ORS 243.712, ORS 243.722, ORS 243.726, ORS 243.736, ORS 243.742, ORS 243.746, ORS 243.762, ORS 243.772, ORS 243.776, ORS 243.782, ORS 292.026, ORS 292.055, ORS 329.704, ORS 33.015, ORS 352.002, ORS 652.110, ORS 652.610, ORS 653.077, ORS 84.001, ORS 84.004
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `33b45b54f98246bb62f0194af41f22d1bcc32cc301f5ab516a9d9192909557ea` (snapshot `_meta/snapshots/measure-2019r1-hb2016-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2016/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `effa01d79ce7b2f8865818ca923e10653aed3054e104f764c9a7cc9782e4e239` (snapshot `_meta/snapshots/measure-2019r1-hb2016-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2016/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2016` (part of the batched per-session fetch), sha256 `ae6df4298c0af5cc5dddaadd86050dfbe3c0b9a75f4a0da8096eff6dafa219d2` of the shared session snapshot `_meta/snapshots/measures-2019r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

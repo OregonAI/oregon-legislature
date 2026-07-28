@@ -1,0 +1,815 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-hb4144
+title: 'HB 4144 (2026R1): Requires producers of batteries or battery-containing products to join a battery
+  producer responsibility organization and implement a battery producer responsibility program for the
+  collection and recycling of batteries.'
+doc_type: dataset_doc
+citation: 2026 Regular Session House Bill 4144
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4144/Enrolled
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: b33c8937514388e136573abd57989338efb0457face8e2720a3f02284baa38e6
+snapshot_id: measure-2026r1-hb4144-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.116
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 459.005
+  - ORS 459.015
+  - ORS 459.205
+  - ORS 459.247
+  - ORS 459.270
+  - ORS 459.272
+  - ORS 459.386
+  - ORS 459.420
+  - ORS 459.426
+  - ORS 459.468
+  - ORS 459.471
+  - ORS 459.485
+  - ORS 459.705
+  - ORS 459.995
+  - ORS 459A.005
+  - ORS 459A.150
+  - ORS 459A.156
+  - ORS 459A.305
+  - ORS 459A.650
+  - ORS 468.130
+  - ORS 468.135
+  - ORS 469.300
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- hb
+session_key: 2026R1
+measure_prefix: HB
+measure_number: 4144
+prefix_meaning: House Bill
+catch_line: Requires producers of batteries or battery-containing products to join a battery producer
+  responsibility organization and implement a battery producer responsibility program for the collection
+  and recycling of batteries.
+minority_catch_line: null
+measure_summary: "\tDigest: This Act says that makers of batteries must carry out a plan to collect and\
+  \ recycle batteries. (Flesch Readability Score: 60.1). \n\tRequires producers of batteries or battery-containing\
+  \ products to join a battery producer responsibility organization and implement a battery producer responsibility\
+  \ program for the collection and recycling of batteries. \n\tDirects the Department of Environmental\
+  \ Quality to administer and enforce requirements of the Act. \n\tEstablishes the Battery Producer Responsibility\
+  \ Fund. \n\tImposes civil penalties for violations of the Act."
+relating_to: Relating to batteries.
+relating_to_full: Relating to batteries.
+at_the_request_of: null
+lc_number: 27
+measure_created_date: '2026-01-18T14:32:56'
+measure_modified_date: '2026-04-13T08:35:02'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 46747
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.116
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 459.005
+  - ORS 459.015
+  - ORS 459.205
+  - ORS 459.247
+  - ORS 459.270
+  - ORS 459.272
+  - ORS 459.386
+  - ORS 459.420
+  - ORS 459.426
+  - ORS 459.468
+  - ORS 459.471
+  - ORS 459.485
+  - ORS 459.705
+  - ORS 459.995
+  - ORS 459A.005
+  - ORS 459A.150
+  - ORS 459A.156
+  - ORS 459A.305
+  - ORS 459A.650
+  - ORS 468.130
+  - ORS 468.135
+  - ORS 469.300
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4144`.
+
+# HB 4144 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** House Bill 4144, 2026 Regular Session (2026R1)
+- **LC number:** 27
+- **Created:** 2026-01-18T14:32:56
+- **Metadata last modified (upstream):** 2026-04-13T08:35:02
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 46747 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4144/Enrolled>.
+
+## Summary
+
+**Catchline:** Requires producers of batteries or battery-containing products to join a battery producer responsibility organization and implement a battery producer responsibility program for the collection and recycling of batteries.
+
+**Relating to:** Relating to batteries.
+
+Digest: This Act says that makers of batteries must carry out a plan to collect and recycle batteries. (Flesch Readability Score: 60.1). 
+ Requires producers of batteries or battery-containing products to join a battery producer responsibility organization and implement a battery producer responsibility program for the collection and recycling of batteries. 
+ Directs the Department of Environmental Quality to administer and enforce requirements of the Act. 
+ Establishes the Battery Producer Responsibility Fund. 
+ Imposes civil penalties for violations of the Act.
+
+**RelatingToFull (verbatim upstream field):** Relating to batteries.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+House Bill 4144
+Sponsored by Representative  LEVY E, Senator NERON MISSLIN, Representatives PHAM H,
+RIEKE SMITH, Senator  SOLLMAN; Representatives ANDERSEN, CHOTZEN, FRAGALA,
+GAMBA, GOMBERG, HELM, ISADORE, LEVY B,  LIVELY, MARSH, MCDONALD,
+NATHANSON, NELSON, WALTERS, Senators BROADMAN,  FREDERICK, PATTERSON,
+PHAM K, PROZANSKI, REYNOLDS (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to batteries; creating new provisions; and amending ORS 459.995.
+Be It Enacted by the People of the State of Oregon:
+BATTERY PRODUCER RESPONSIBILITY ORGANIZATIONS
+SECTION 1.
+Sections added to chapter. Sections 2 to 17 of this 2026 Act are added to and
+made a part of ORS chapter 459A.
+SECTION 2. Definitions. As used in sections 2 to 17 of this 2026 Act:
+(1)(a) “Battery-containing product” means a product that contains  or is packaged with
+a covered battery.
+(b) “Battery-containing  product” does not include a covered electronic device as defined
+in ORS 459A.305.
+(2) “Battery producer responsibility organization” means a nonprofit organization  desig-
+nated by a group of five or more  covered producers to act as an agent of the covered pro-
+ducers to develop and implement  a battery producer responsibility program on behalf of the
+covered producers.
+(3) “Battery producer responsibility  program” means a statewide program for the re-
+sponsible management of covered batteries  that is implemented by a battery producer re-
+sponsibility organization pursuant to a plan approved by the Department of Environmental
+Quality under section 5 of this 2026 Act.
+(4) “Brand” means any mark, word, name, symbol, design,  device or graphical element,
+or a combination thereof, including a registered  or unregistered trademark, that identifies
+a product and distinguishes the product from other products.
+(5)(a) “Covered battery” means a portable battery or a medium format battery.
+(b) “Covered battery” does not include:
+(A)(i) A battery contained within a medical device that is not designed and  marketed for
+sale or resale principally to consumers for personal use;
+(ii) A battery contained within a  device, as defined in the Federal Food, Drug, and Cos-
+metic Act, 21 U.S.C. 301 et seq., as in effect on the effective date of this 2026 Act; or
+Enrolled House Bill 4144 (HB 4144-A) Page 1
+(iii) A battery that is contained within a medical device and that satisfies criteria  estab-
+lished by the Environmental Quality Commission by rule to maintain consistency with  fed-
+eral laws concerning medical devices.
+(B) A battery that contains an electrolyte as a free liquid.
+(C) A lead-acid battery weighing greater than 11 pounds.
+(D) A battery contained within a  product, if the battery is not intended or designed to
+be easily removable from the product.
+(E) A battery designed to power a motor vehicle or a part of a motor vehicle, including
+a part of a motor  vehicle assembled by, or for, a motor vehicle manufacturer or motor ve-
+hicle dealer or a replacement part for use in a motor vehicle.
+(F) Battery energy storage systems as defined in ORS 469.300.
+(G) A battery that is being recalled for safety reasons.
+(6) “Covered entity” means:
+(a) A resident of this state;
+(b) A business entity located in this state;
+(c) A public or private institution of learning in this state;
+(d) A local government, as defined in ORS 174.116; or
+(e) A nonprofit organization located in this state.
+(7)(a) “Covered producer” means any person:
+(A) That manufactures covered products under a brand  that the manufacturer owns or
+is licensed to use;
+(B) That sells, irrespective of the selling  technique used, covered products manufactured
+by others under a brand that the seller owns;
+(C) That manufactures covered products without affixing a brand;
+(D) That manufactures covered products to which it affixes a brand that it  does not own;
+or
+(E) On whose  account covered products manufactured outside the United States are im-
+ported into the United States.
+(b) “Covered producer” does not include a person described as the  covered producer of
+a battery-containing product under paragraph (a) of this subsection if:
+(A) The covered batteries packaged with or contained within the  battery-containing
+product are easily removable and supplied by a covered producer that has joined  a battery
+producer responsibility organization as the producer for that covered  battery under sections
+2 to 17 of this 2026 Act; and
+(B) The person provides a written statement to the department that:
+(i) Identifies the person that produces the battery-containing  product and the covered
+producer of the covered batteries packaged with or contained within  the battery-containing
+product;
+(ii) States that the covered producer is participating in the battery producer responsi-
+bility organization on behalf of the person that produces the battery-containing product;
+(iii) States that  the person that produces the battery-containing product and the covered
+producer will notify the department if the  covered producer ceases to participate in the
+battery producer responsibility  organization on behalf of the producer of the battery-
+containing product; and
+(iv) Is signed by an authorized representative  of the covered producer and the person
+that produces the battery-containing product.
+(8) “Covered product” means a covered battery or a battery-containing product.
+(9) “Damaged or defective battery” means a battery that has been damaged or identified
+by the manufacturer as being defective for safety reasons and  must be transported and
+packaged as required by rules adopted by the federal Pipeline and Hazardous Materials Safety
+Administration.
+Enrolled House Bill 4144 (HB 4144-A) Page 2
+(10) “Easily removable” means designed by  a manufacturer to be removable without the
+use of tools or removable with the use of only common household tools.
+(11) “Medium format battery” means:
+(a) A rechargeable battery that:
+(A)(i) Weighs more than 11 pounds; or
+(ii) Has a rating of more than 300 watt-hours; and
+(B)(i) Weighs no more than 25 pounds; and
+(ii) Has a rating of no more than 2,000 watt-hours.
+(b) A primary battery that weighs more than 4.4 pounds but less than or equal  to 25
+pounds.
+(12) “Nonprofit organization” means an organization or  group of organizations described
+in section 501(c)(3) of  the Internal Revenue Code that is exempt from income tax under
+section 501(a) of the Internal Revenue Code.
+(13) “Portable battery” means:
+(a) A rechargeable battery that weighs 11 pounds or less and has a rating  of 300 watt-
+hours or less; or
+(b) A primary battery that weighs 4.4 pounds or less.
+(14) “Primary battery” means a battery that is not capable of being recharged.
+(15) “Processor” means a facility that processes covered  batteries after collection and
+prepares covered batteries for recycling or management through the final destination  of the
+collected covered battery material.
+(16) “Rechargeable battery”  means a battery that contains one or more voltaic or
+galvanic cells, electrically connected to  produce electric energy, and that is designed to be
+recharged.
+(17) “Responsible end market” means a materials market in which the recycling  or re-
+covery of materials or the disposal of contaminants is conducted in a way  that benefits the
+environment and minimizes risks to public health and worker health and safety.
+(18) “Responsible management” means the handling,  tracking, processing, disposition and
+other management of covered batteries and materials from covered batteries, from  the point
+of collection through the final destination of the  collected material, in a way that complies
+with section 8  of this 2026 Act and all other applicable laws, and ensures continuous im-
+provement in environmental outcomes, reduction of environmental impacts and protection
+of health, safety  and data privacy in the management of covered batteries for final disposi-
+tion.
+SECTION 3.
+Requirement to participate in a  battery producer responsibility organization.
+(1) A  covered producer may not sell, offer for sale or distribute in or into this state a covered
+product unless the covered producer satisfies the requirements of sections 2  to 17 of this
+2026 Act by participating  in a battery producer responsibility organization that successfully
+implements a battery producer responsibility program.
+(2) The failure of a battery producer responsibility  organization to satisfy any of the re-
+sponsibilities delegated to it by a covered producer for developing and implementing a battery
+producer responsibility  program does not relieve the covered producer of the covered
+producer’s responsibility to satisfy the requirements of sections 2 to 17 of this 2026 Act.
+SECTION 4. Plans for battery producer responsibility programs.  (1) In the form and
+manner prescribed by  the Department of Environmental Quality, a battery producer re-
+sponsibility organization shall submit to the department a plan for implementing a  battery
+producer responsibility program as provided in this section.
+(2) A battery producer responsibility program plan  must describe how the battery pro-
+ducer responsibility organization will implement a battery producer responsibility  program
+that satisfies the requirements of sections 2 to 17 of this 2026 Act. The plan must include:
+Enrolled House Bill 4144 (HB 4144-A) Page 3
+(a) A list of all covered  producers participating in the battery producer responsibility
+organization and a list of each brand of covered product  sold, offered for sale or distributed
+in or into this state by each participating covered producer.
+(b) A description of how the battery producer responsibility organization will:
+(A) Provide for the responsible management of covered batteries consistent with  section
+8 of this 2026 Act and the policies set forth in ORS 459.015 (2).
+(B) Provide for convenient and equitable service as required by section 7  of this 2026 Act,
+including a list of all  service providers involved in the management of collected batteries,
+including all collection sites, transporters  and processors the battery producer responsibility
+organization will contract with or use to  provide services required by sections 2 to 17 of this
+2026 Act.
+(C) Provide for education and public awareness as required by section 9 of this 2026  Act,
+including a description of the biennial survey to measure public awareness required by  sec-
+tion 9 of this 2026 Act.
+(D) Establish a schedule of membership  fees sufficient to meet the financial obligations
+of the battery producer responsibility organization as described  in section 11 of this 2026 Act.
+(E) Ensure continuous improvement of the battery producer responsibility program by
+establishing and working to achieve measurable performance  goals for the program. Per-
+formance goals must include the date by which the goal will  be met. Beginning with the
+fourth program year and thereafter, performance goals must include annual goals for:
+(i) Collection rates;
+(ii) Recycling efficiency; and
+(iii) Achieving, maintaining and improving high public awareness of the  program, in-
+cluding awareness in low-income, rural and other historically underserved communities.
+(F) Coordinate with other battery producer responsibility organizations, if applicable.
+(c) A program budget that describes how  the battery producer responsibility organization
+will finance the battery producer responsibility program, with all costs to carry out a pro-
+gram that satisfies the requirements of sections 2 to  17 of this 2026 Act apportioned among
+each covered producer  participating in the battery producer responsibility organization, as
+required by section 11 of this 2026 Act.
+SECTION 5.
+Approval of battery producer  responsibility program plans.  (1) The Depart-
+ment of Environmental Quality shall approve  a battery producer responsibility program plan
+submitted to the department under section 4 of this 2026 Act if the  department determines
+that the plan meets the requirements of section 4 of this 2026 Act  and that the battery
+producer responsibility organization will successfully  implement the program in accordance
+with the plan.
+(2) Not later than 90 days after receiving  a plan under section 4 of this 2026 Act, the
+department shall either approve, approve with conditions or  reject the plan. If the depart-
+ment rejects the plan, the department shall provide the reason or reasons for the  rejection
+to the battery producer responsibility organization in writing.  A battery producer responsi-
+bility organization shall submit a revised plan to the department no later than 60 days after
+the date of the rejection.
+(3) No later  than 60 days after receiving a revised plan under subsection (2) of this sec-
+tion, the department shall either approve, approve with conditions or reject the revised plan.
+If the department rejects  the revised plan, the department shall provide the reason or rea-
+sons for the rejection to the battery producer  responsibility organization in writing. A bat-
+tery producer responsibility organization  shall submit a second revised plan to the
+department no later than 45 days after the date of the rejection.
+(4)(a) No later than 45 days after receiving a second revised plan under subsection (3)  of
+this section, the department shall either approve the second revised plan or make  such
+modifications to the plan as necessary for approval.
+Enrolled House Bill 4144 (HB 4144-A) Page 4
+(b) Notwithstanding paragraph (a) of this subsection, if,  after receiving a second revised
+plan, the  department determines that the battery producer responsibility organization will
+be unable to successfully implement a battery producer responsibility program  in accordance
+with a proposed or modified plan, the department shall specify the date on which the battery
+producer responsibility organization must  cease to operate a battery producer responsibility
+program in this state and the date on which all covered producers participating  in the bat-
+tery producer responsibility program must  participate in another battery producer respon-
+sibility program. The department may consider the past performance of  a battery producer
+responsibility organization when making a determination under this paragraph.
+(5)(a) A plan approved by the department under this section is valid for three  program
+years. No less than 180  days before a plan approved under this section expires, a battery
+producer responsibility organization shall submit  an updated plan to be approved as provided
+in this section  for an additional three program years. An updated plan must satisfy the re-
+quirements of section 4 of this 2026 Act and describe any substantive changes from the pre-
+viously approved plan.
+(b) The department’s rejection of  a plan does not relieve a battery producer responsibility
+organization from continuing to implement a battery  producer responsibility program in
+compliance with a previously  approved plan pending a final action by the department on the
+updated plan.
+(6) Subject to section 16 of this 2026  Act, the department may make available to the
+public battery producer responsibility program plans, and any revisions thereto.
+(7) Beginning no later than 90 days after a plan  is approved under this section, a battery
+producer responsibility organization shall implement a battery producer responsibility pro-
+gram as described in the approved plan.
+SECTION 6.
+Changes to battery producer responsibility programs.  (1) In a form and
+manner prescribed by  the Department of Environmental Quality, a battery producer re-
+sponsibility organization shall request preapproval from the department for any change to  a
+battery producer responsibility program plan  that substantively alters the program. Except
+as provided in subsection (3) of this section, a  battery producer responsibility organization
+shall make a request under this subsection not later than  60 days before the change is to
+occur. For purposes of this subsection, changes that substantively alter  a battery producer
+responsibility program include, but are not limited to:
+(a) Changes involving the methods used to collect covered batteries;
+(b) Changes involving methods used to dispose of covered batteries;
+(c) Changes to the policies and  procedures for handling and disposing of covered bat-
+teries;
+(d) Changes involving methods used to foster public awareness of  the battery producer
+responsibility program; and
+(e) Changes to the location of a collection site.
+(2) The department shall  approve or reject a request submitted pursuant to subsection
+(1) of this section within 60  days of receiving the request. If the department does not approve
+or reject the request, and provide written notice to the battery producer  responsibility or-
+ganization of the department’s decision within 60 days of  the date on which the department
+received the request, the proposed change shall be considered approved.
+(3) If a battery producer responsibility organization  intends to make a proposed change
+to a battery producer responsibility program but,  for good cause as determined by the de-
+partment, is unable to make a request 60 days before the proposed change  is to occur as
+required under subsection (1) of  this section, the battery producer responsibility organization
+shall notify the department of  the proposed change as far in advance of the proposed change
+as practicable. Upon receipt of notice described in this subsection, the  department shall
+consult with the battery producer responsibility organization regarding the proposed change.
+Enrolled House Bill 4144 (HB 4144-A) Page 5
+Not later than seven business days after receiving the notice,  the department may tempo-
+rarily approve the proposed change.
+(4) The department may require a battery producer responsibility  organization to modify
+a battery producer  responsibility program plan and submit to the department changes for
+approval as described in subsections (1) to (3) of this section if the department determines
+that the battery producer  responsibility organization is not meeting program goals described
+in an approved battery producer responsibility program plan.
+(5) In a form and manner  prescribed by the department, a battery producer responsibility
+organization shall notify the department within 90 days after any change to:
+(a) The contact information for the battery producer responsibility organization;
+(b) Which covered producers are participating in the battery producer responsibility or-
+ganization; or
+(c) The contact information for a covered producer participating in  the battery producer
+responsibility organization.
+SECTION 7.
+Convenient and equitable service.  (1) A  battery producer responsibility or-
+ganization shall provide convenient and equitable service throughout this state as  provided
+in this section, including to rural areas and low-income and  other historically underserved
+communities.
+(2) For portable  batteries, convenient and equitable service must include a network of
+collection sites distributed to ensure that  95 percent of the residents of this state are within
+15 miles of a collection site, and must also include:
+(a) At least one collection site in each county;
+(b) At least one collection site in  each city with a population of at least 4,000 but less
+than 10,000;
+(c) In each  city with a population of at least 10,000 but less than 200,000, at least one
+collection site, plus one  additional collection site for every additional 20,000 residents of the
+city over 10,000; and
+(d) In each city with  a population of 200,000 or greater, at least 10 collection sites, plus
+one additional collection site for every additional 50,000 residents of the city over 200,000.
+(3)(a) A collection site for a county may be  the same as a collection site for a city in the
+county.
+(b) For purposes of calculating the population of  a city within a metropolitan service
+district established under ORS  chapter 268, the population of any adjacent unincorporated
+area of a county that is within  the metropolitan service district shall be included in the
+population of the city.
+(c) Collection sites shall be staffed and open to the public at  a frequency adequate to
+meet the needs of the area being served.
+(d) A battery producer  responsibility organization may provide collection service jointly
+with another battery producer responsibility organization.
+(4) The department may waive  the requirements of subsections (2) and (3) of this section
+with respect to a county  or city if a proposed battery producer responsibility program plan
+demonstrates to the  department’s satisfaction that alternative collection methods would
+provide substantially equivalent collection convenience.
+(5) A collection site described in this section shall:
+(a) Accept each brand and type of covered battery, other than medium format  batteries,
+at no cost to covered entities;
+(b) Use appropriate containers provided by the battery producer responsibility organiza-
+tion for the collection of covered batteries;
+(c) Be staffed by adequately trained employees;
+(d) Display signs or other visual  aids provided by the battery producer responsibility or-
+ganization to inform covered entities  and staff on how to properly and safely collect and
+handle discarded covered batteries; and
+Enrolled House Bill 4144 (HB 4144-A) Page 6
+(e) Provide covered entities with educational materials provided  by a battery producer
+responsibility organization for the purpose of promoting safe and secure  handling of covered
+batteries.
+(6) A battery producer responsibility organization shall:
+(a) Except as provided  in subsection (7) of this section, provide to collection sites fair
+financial compensation calculated to cover the costs of collecting, storing, managing and
+transporting covered batteries; and
+(b) Enter into agreements  with all willing transfer stations, landfills, household hazard-
+ous waste facilities and material recovery facilities, provided that each  transfer station,
+landfill or facility is covered under a solid waste disposal permit issued by  the Department
+of Environmental  Quality, to operate as collection sites.  Covered batteries collected pursu-
+ant to an agreement  described in this paragraph must be collected in accordance with all
+applicable laws, the approved battery producer responsibility program plan and battery safety
+training provided to collection workers.
+(7) A battery producer responsibility organization is not required to  provide financial
+compensation to collection sites operated by  a retail establishment or for collection by
+third-party subscription services.
+(8)(a) A  battery producer responsibility organization shall provide for collection of me-
+dium format and damaged or defective batteries  by providing at no charge to covered enti-
+ties, in each county of this state:
+(A) Collection by trained individuals at  one or more household hazardous waste collection
+sites; or
+(B) Collection by trained individuals at one  or more collection events held in the county
+each year.
+(b) A battery producer responsibility organization is responsible  for all costs associated
+with the collection of medium format and damaged or defective batteries,  including the costs
+of providing containers at collection sites.
+(9) A battery  producer responsibility organization shall accept for processing and further
+management, at no cost to the collection service providers, covered batteries collected
+through on-route battery collection service administered by a local government.
+SECTION 8.
+Responsible management. (1) A battery producer responsibility organization
+shall, in compliance with all applicable laws,  ensure that the organization’s battery producer
+responsibility program uses responsible management in collecting, transporting, processing,
+recycling or otherwise managing covered  batteries and materials from covered batteries.
+Responsible management includes:
+(a) Adequate record keeping;
+(b) Tracking the fate of covered batteries;
+(c) Conducting performance audits and inspections;
+(d) Complying with worker health and safety requirements;
+(e) Ensuring that materials from  covered batteries are delivered to responsible end
+markets;
+(f) Maintaining liability insurance and other financial assurances; and
+(g) Carrying out other practices related to the duties of a battery producer responsibility
+organization, as may be adopted by rule by the Environmental Quality Commission.
+(2) A battery producer responsibility organization shall ensure that  all collection sites
+and processors that manage covered batteries  or materials from covered batteries collected
+through the battery producer responsibility program use responsible  management with re-
+spect to covered batteries and materials from covered batteries.
+SECTION 9.
+Public education and awareness.  (1) A battery producer responsibility or-
+ganization shall develop educational resources and conduct public awareness activities across
+multiple types of media to advertise and promote, on  a regular basis, recycling of covered
+Enrolled House Bill 4144 (HB 4144-A) Page 7
+batteries and collection opportunities statewide. In addition, a battery producer responsibility
+organization shall:
+(a) Establish a toll-free telephone number and a website address that a covered  entity
+may use to contact the battery producer responsibility  organization to provide feedback
+about the battery producer responsibility program and to obtain information  about the pro-
+gram, including:
+(A) The location of collection sites;
+(B) The time and location of collection events; and
+(C) Other collection services.
+(b) Develop educational materials, including educational  web-based content, press re-
+leases, advertisements and promotional materials. Educational materials must:
+(A) Be made  available to sites that sell covered products, collection sites and sites that
+accept damaged or defective batteries; and
+(B) Include materials that address the needs of rural, low-income and other historically
+underserved communities.
+(c) Conduct a biennial survey to  measure public awareness, using questions and methods
+that have been outlined in the battery producer responsibility program plan.
+(2) A battery producer  responsibility organization shall coordinate with other battery
+producer responsibility organizations under this section to ensure that program users can
+easily identify, understand  and access the services provided by all battery producer respon-
+sibility programs that are operational in  this state. At a minimum, all of the battery pro-
+ducer responsibility programs that  are operational in this state must provide a single website
+address that  a covered entity may use to contact battery producer responsibility organiza-
+tions and to acquire information about battery producer responsibility programs.
+SECTION 10.
+Annual report.  (1) A battery producer responsibility  organization shall
+submit to the Department of  Environmental Quality, in a form and manner prescribed by the
+department, an annual report on the development, implementation  and operation of the
+battery producer responsibility program that contains information required by  the depart-
+ment to evaluate whether  the program complied with the requirements of sections 2 to 17
+of this 2026 Act. The annual report must include:
+(a) A list of covered producers participating in the battery  producer responsibility pro-
+gram, the brands associated with each covered producer and the date the  covered producer
+began participating in the organization.
+(b) The amount, by  weight, chemistry and method of collection, of covered batteries
+collected under the program.
+(c) The  amount, by weight and chemistry, of covered batteries collected at each col-
+lection site.
+(d) An assessment of whether the battery producer  responsibility organization imple-
+mented the program in accordance with the plan approved under section 5 of this 2026 Act.
+(e) A description of whether the program provided responsible  management of covered
+batteries from collection to final disposition and an affirmation that all covered  batteries
+were responsibly managed and delivered to responsible end markets.
+(f) A list of collection sites,  processors, transporters or other service providers involved
+in battery management and used by the  program during the preceding program year, and the
+responsible end markets used by the program during the preceding program year.
+(g) A summary  of public awareness and education activities performed by the battery
+producer responsibility organization, alone or  in coordination with one or more battery pro-
+ducer responsibility organizations, sufficient to demonstrate to the department that the or-
+ganization has satisfied the requirements of section 9 of this 2026 Act.
+(h) The results of the most recent biennial  survey conducted under section 9 of this 2026
+Act.
+Enrolled House Bill 4144 (HB 4144-A) Page 8
+(i)(A) An analysis of whether  the battery producer responsibility organization met per-
+formance goals proposed by the battery producer responsibility program plan or adopted by
+the Environmental Quality Commission; and
+(B) If the  battery producer responsibility organization did not meet performance goals,
+a description of actions the battery producer responsibility  organization will take to meet
+those goals.
+(j) A summary of annual expenditures, including amounts  aggregated by categories
+specified by the department, and a report by an  independent certified public accountant, re-
+tained by the battery producer responsibility organization at the battery  producer responsi-
+bility organization’s expense, on the accountant’s  audit of the battery producer responsibility
+organization’s financial statements.
+(k) An analysis of program costs and expenditures incurred in this state, including an
+analysis of the program’s expenses, such as collection, transportation, recycling, education
+and administrative overhead.
+(2) The department shall  review and approve a report submitted under this section within
+90 days of receiving the report, provided that the department determines that the report
+satisfies the requirements of this section. If the department  does not approve the report, the
+department shall provide the battery  producer responsibility organization with written notice
+of the reasons for the rejection. A  battery producer responsibility organization shall submit
+a revised report as required by the department.
+(3) Subject to section 16 of this 2026 Act, the department may make reports  submitted
+under this section available to the public.
+(4) Upon the request of the department, a battery producer responsibility organization
+shall provide to the department:
+(a) A description of each type of material sent to each processor;
+(b) The method of processing used by each processor; and
+(c) The responsible end market for each material managed under the program.
+SECTION 11.
+Membership fees. (1)(a) A battery producer responsibility  organization shall
+establish a schedule of membership fees to be paid by  covered producers participating in the
+organization. Membership fees established pursuant to  this section must be sufficient to
+meet the financial obligations of the organization under sections 2 to 17 of this 2026 Act.
+(b) A battery producer responsibility organization  and any service provider that con-
+tracts with a battery producer responsibility organization may not  charge a fee to a covered
+entity for any services necessary to satisfy  the battery producer responsibility organization’s
+obligations under sections 2 to 17 of this 2026 Act. A covered producer  may not charge a fee
+to a consumer at the point of sale to cover the cost of meeting  the covered producer’s obli-
+gations under sections 2 to 17 of this 2026 Act.
+(2) The schedule of membership fees may  incentivize covered producers to continually
+reduce the environmental and human health impacts of covered products. A fee  schedule
+that satisfies the requirements of this section may include a fee structure that:
+(a) Encourages designs intended to facilitate reuse and recycling of covered batteries;
+(b) Encourages the use of recycled content in covered batteries;
+(c) Discourages the use of materials that increase system  costs of managing covered
+batteries; or
+(d) Encourages other design attributes that reduce the  environmental impacts of covered
+batteries.
+SECTION 12.
+Enforcement.  (1) The Department of Environmental Quality shall have  the
+power to  enter upon and inspect, at any reasonable time, any public or private property,
+premises or place for the purpose of  investigating either an actual or suspected violation of
+sections 2 to 17 of this 2026 Act or rules adopted under sections 2 to 17 of this 2026 Act.
+(2) A battery producer responsibility organization shall  retain all records related to the
+implementation and administration of a battery producer responsibility program  for not less
+Enrolled House Bill 4144 (HB 4144-A) Page 9
+than three years from the time the record  was created and make the records available for
+inspection by the department upon request.
+(3) In accordance with the applicable provisions  of ORS chapter 183 relating to contested
+case proceedings, the department may issue an order  requiring compliance with the pro-
+visions of sections 2 to 17 of this 2026 Act.
+(4) In accordance with the applicable provisions  of ORS chapter 183 relating to contested
+case proceedings, and in accordance with ORS 468.130 and rules adopted  pursuant to ORS
+468.130, the  department may issue civil penalties for violations of the provisions of sections
+2 to 17 of this 2026 Act and rules adopted  under sections 2 to 17 of this 2026 Act. All penalties
+recovered for violations of sections 2 to 17 of this 2026 Act and  rules adopted under sections
+2 to 17 of this 2026 Act shall be paid into the State Treasury and credited to  the Battery
+Producer Responsibility Fund established under section 14 of this 2026 Act.
+(5) The department may issue  an order under subsection (3) of this section to suspend
+or revoke a battery producer responsibility  program plan if the department determines that:
+(a) A violation or repeated violations of  sections 2 to 17 of this 2026 Act present a risk
+to the environment or public health; or
+(b) A violation has had a material impact on the implementation and administration of
+the battery producer responsibility program plan.
+SECTION 13. Fees. (1) The Environmental Quality Commission shall establish  by rule the
+following fees for the purpose of  paying the costs of administering, implementing and en-
+forcing sections 2 to 17 of this 2026 Act:
+(a) A plan review fee for reviewing a battery  producer responsibility program plan sub-
+mitted under section 4 of this 2026 Act.
+(b) An  annual fee for expenses associated with the ongoing costs of administering
+sections 2 to 17 this 2026 Act.
+(2) Each battery producer responsibility organization  that operates a battery producer
+responsibility program in  this state is responsible for paying the fees established by this
+section. If more than one battery producer responsibility organization operates a battery
+producer responsibility program in this state,  the fee established under subsection (1)(b) of
+this section shall be paid in equal parts by each battery producer responsibility organization
+operating in this state.
+(3) Fees established under subsection (1) of this section must be reasonably  calculated
+and adequate to cover the costs of administering, implementing and enforcing sections 2 to
+17 of this 2026 Act.
+(4) The Department of Environmental Quality shall deposit fee moneys collected pursuant
+to this section into the Battery Producer Responsibility Fund established  under section 14
+of this 2026 Act.
+(5) The department may not charge a plan review or annual fee that exceeds  the fees
+established by the Environmental Quality Commission under this section.
+SECTION 14.
+Battery Producer Responsibility Fund.  (1)  The Battery Producer Responsi-
+bility Fund is established in  the State Treasury, separate and distinct from the General
+Fund. Interest earned by  the Battery Producer Responsibility Fund shall be credited to the
+fund.
+(2) The Battery Producer Responsibility Fund shall consist of:
+(a) Amounts deposited  in the fund by the Department of Environmental Quality under
+section 13 of this 2026 Act;
+(b) Amounts credited to the fund under section 12 of this 2026 Act;
+(c) Amounts appropriated  or otherwise transferred to the fund by the Legislative As-
+sembly; and
+(d) Other amounts deposited in the fund from any other source.
+Enrolled House Bill 4144 (HB 4144-A) Page 10
+(3) Moneys in the Battery Producer Responsibility  Fund are continuously appropriated
+to the Department of Environmental Quality for  the purpose of carrying out sections 2 to
+17 of this 2026 Act.
+SECTION 15. Antitrust immunity.  The Legislative Assembly  declares that the collab-
+oration of covered producers through battery  producer responsibility organizations to de-
+velop and implement  battery producer responsibility program plans is in the best interests
+of the public.  Therefore, the Legislative Assembly declares its intent that participating in a
+battery producer responsibility organization to implement a battery producer responsibility
+program plan as required by sections 2 to 17  of this 2026 Act shall be exempt from state
+antitrust laws. The Legislative Assembly further declares its intent to provide immunity  for
+participating in a battery producer responsibility organization to implement  a battery pro-
+ducer responsibility program plan as required by sections 2 to 17 of this 2026 Act from federal
+antitrust laws. This section does not authorize any person to engage in activities or  to
+conspire to engage in activities that constitute per se violations of  state or federal antitrust
+laws that are not authorized under sections 2 to 17 of this 2026 Act.
+SECTION 16.
+Confidentiality. A covered producer or battery producer responsibility or-
+ganization that submits information or records  to the Department of Environmental Quality
+under sections 2 to 17 of this 2026 Act may  request that the information or records be made
+available only for the confidential use of the department. The department shall  consider the
+request and weigh the harm suffered by the  person making the request against the public
+interest in disclosure. Information or records for which the department grants  a request
+under this section are confidential and not subject to public disclosure under ORS  192.311 to
+192.478, except that the  department may disclose summarized information or aggregated data
+if the information or data does not directly or indirectly identify  the confidential information
+of a specific covered producer or battery producer responsibility organization.
+SECTION 17. Rules. The Environmental Quality Commission may adopt any rules neces-
+sary for the effective administration of sections 2 to 17 of this 2026 Act.
+SECTION 18.  ORS 459.995 is amended to read:
+459.995. (1) Except as provided  in subsection (2) of this section, in addition to any other penalty
+provided by law:
+(a) Any person who violates ORS 459.205, 459.270, 459.272, 459.386 to 459.405, 459.485,  459.705
+to 459.790, 459A.005 to 459A.620, 459A.310 to 459A.335,  459A.860 to 459A.975 or 646A.080, or any
+rule or order of the Environmental Quality Commission pertaining to the disposal, collection, stor-
+age or reuse or recycling of solid wastes, as defined by ORS 459.005, or  any rule or order pertaining
+to the disposal, storage or transportation of  waste tires, as defined by ORS 459.705, or any rule or
+order  pertaining  to the sale of novelty items that contain encapsulated liquid mercury or any rule
+or order pertaining to compact fluorescent lamps or linear fluorescent lamps, as  defined by ORS
+459.485, incurs a civil penalty not to exceed $25,000 per day for each day of the violation.
+(b) Any  person who violates the provisions of ORS 459.420 to 459.426 incurs a civil penalty not
+to exceed  $500 for each violation. Each battery that is disposed of improperly is a separate violation.
+Each day an establishment fails to post the notice required  under ORS 459.426 is a separate vio-
+lation.
+(c) For each day a  city, county or metropolitan service district fails to provide the opportunity
+to recycle as required under ORS 459A.005, the city,  county or metropolitan service district incurs
+a civil penalty not to exceed $500 for each violation.
+(d) Any person who violates the provisions of  ORS 459.247 (1)(f) incurs a civil penalty not to
+exceed $500 for each violation. Each  covered electronic device that is disposed of improperly is a
+separate violation.
+(e) Any retailer that violates the provisions of ORS 459A.156 or 459A.825 (1) or (2)(b) incurs a
+civil penalty not to exceed $100 per day for each day of the violation.
+(f) Any producer or renovator that violates the provisions of ORS 459A.156 or 459A.825  (1) in-
+curs a civil penalty not to exceed $1,000 per day for each day of the violation.
+Enrolled House Bill 4144 (HB 4144-A) Page 11
+(g) Any stewardship organization  that violates the provisions of ORS 459A.150 to 459A.189,
+459A.825 (2)(a), 459A.827, 459A.830 to 459A.837 or 459A.842 incurs a civil penalty not to  exceed
+$1,000 per day for each day of the violation.
+(h) Any food vendor that violates ORS 459.468 incurs a civil penalty not  to exceed $100 for each
+day of the violation.
+(i) Any person that violates  ORS 459.471 or 459.474 incurs a civil penalty not to exceed $500
+per day for each day of the violation.
+(j)(A) Except as provided in subparagraph (B) of this paragraph, a covered producer  or
+battery producer responsibility organization that  violates sections 2 to 17 of this 2026 Act
+incurs a civil penalty not to exceed $1,000 per day for each day of the violation.
+(B) A covered  producer that fails to satisfy the requirement to join a battery producer
+responsibility organization under section 3 of  this 2026 Act incurs a civil penalty not to ex-
+ceed $10,000 for each day that covered products that the covered producer is responsible for
+are sold in this state.
+(k) Any person that violates section 20 of this 2026 Act incurs a civil penalty not to ex-
+ceed $500 for each violation. Each removable lithium-ion battery  that is disposed of improp-
+erly is a separate violation.
+(2) Any product manufacturer or package manufacturer who violates ORS  459A.650 to 459A.665
+or any rule adopted  under ORS 459A.650 to 459A.665 incurs a civil penalty not to exceed $1,000 per
+day for each day of the violation. A violation of ORS  459A.650 to 459A.665 is not subject to addi-
+tional penalties under subsection (1) of this section.
+(3) Any civil penalty authorized by subsection (1) or (2) of this section shall be imposed  in the
+manner provided by ORS 468.135.
+SECTION 19.
+Section 20 of this 2026 Act is added to  and made a part of ORS 459.205 to
+459.385.
+SECTION 20. (1) A person may not knowingly dispose of a covered battery in mixed mu-
+nicipal solid waste.
+(2) The owner or operator of a disposal site is not in violation of this section if the dis-
+posal site has posted in a  conspicuous location a sign directing the public to a battery pro-
+ducer responsibility program.
+TEMPORARY PROVISIONS
+SECTION 21. Required date for initial plan.  (1) A battery  producer responsibility organ-
+ization shall first submit a battery producer responsibility program plan to the  Department
+of Environmental Quality  for approval under section 4 of this 2026 Act no later than Sep-
+tember 1, 2028.
+(2) A battery producer responsibility program plan described  in this section must be op-
+erational by July 1, 2029.
+SECTION 22. Report. (1) The Department of Environmental Quality shall review and
+evaluate studies  or assessments regarding whether products or batteries that are not cur-
+rently covered by a state’s  battery extended producer responsibility law should be covered
+at a later date.
+(2) The department shall review and evaluate studies or assessments  described in sub-
+section (1) of this section carried out by Illinois, Vermont and  Washington. The department
+may review similar studies or assessments carried out by any other state or person.
+(3) No later than May 30,  2028, the department shall submit a report to the interim
+committees of the Legislative Assembly related to the environment, in the manner  provided
+by ORS 192.245. The report must include the findings and recommendations of  any study or
+assessment reviewed by the department  under this section. The report may include recom-
+mendations for legislation based on the department’s evaluation of the  studies or assess-
+ments reviewed by the department.
+Enrolled House Bill 4144 (HB 4144-A) Page 12
+SECTION 23. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (3), chapter 426, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, the proceeds of bonds for the Orphan  Site
+Account and federal funds from congestion mitigation  and air quality grants, drinking water
+protection, laboratory accreditation and  woodstove grants and for smoke monitoring labo-
+ratory services, but  excluding lottery funds and federal funds not described in section 2,
+chapter 426, Oregon Laws 2025, collected or received by the  Department of Environmental
+Quality, for land quality, is increased  by $142,317, to carry out the provisions of this 2026 Act.
+UNIT AND SECTION CAPTIONS
+SECTION 24. Unit and section captions.  The unit and section captions  used in this 2026
+Act are provided only for the convenience  of the reader and do not become part of the
+statutory law of this state  or express any legislative intent in the enactment of this 2026 Act.
+Passed by House February 27, 2026
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate March 5, 2026
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 4144 (HB 4144-A) Page 13
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 174.116, ORS 192.245, ORS 192.311, ORS 459.005, ORS 459.015, ORS 459.205, ORS 459.247, ORS 459.270, ORS 459.272, ORS 459.386, ORS 459.420, ORS 459.426, ORS 459.468, ORS 459.471, ORS 459.485, ORS 459.705, ORS 459.995, ORS 459A.005, ORS 459A.150, ORS 459A.156, ORS 459A.305, ORS 459A.650, ORS 468.130, ORS 468.135, ORS 469.300
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-28, sha256 `b33c8937514388e136573abd57989338efb0457face8e2720a3f02284baa38e6` (snapshot `_meta/snapshots/measure-2026r1-hb4144-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4144/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `5b6f310fcb9f8e798f454f89feb1569648509a0c4f7a16d9b387608349988abd` (snapshot `_meta/snapshots/measure-2026r1-hb4144-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4144/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4144` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,232 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2018r1-hb4040
+title: 'HB 4040 (2018R1): Directs Oregon Military Department to establish program to award scholarships
+  to certain persons who have served in military.'
+doc_type: dataset_doc
+citation: 2018 Regular Session House Bill 4040
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4040/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 5192ab6c3114fe5ce66420ce3800fdf62a207140df4752673fcdba3dd8c52cea
+snapshot_id: measure-2018r1-hb4040-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.109
+  - ORS 352.002
+  - ORS 406.140
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2018r1
+- hb
+session_key: 2018R1
+measure_prefix: HB
+measure_number: 4040
+prefix_meaning: House Bill
+catch_line: Directs Oregon Military Department to establish program to award scholarships to certain persons
+  who have served in military.
+minority_catch_line: null
+measure_summary: "\tDirects Oregon Military Department to establish program to award scholarships to certain\
+  \ persons who have served in military. Establishes Oregon Military Families Education and Workforce\
+  \ Preparedness Scholarship Advisory Committee to review applications for scholarships. \n\tEstablishes\
+  \ Oregon Military Education and Workforce Preparedness Scholarship Program Fund in State Treasury. Directs\
+  \ transfer of moneys from Veterans' Services Fund to Oregon Military Education and Workforce Preparedness\
+  \ Scholarship Program Fund for biennium beginning July 1, 2019."
+relating_to: Relating to scholarships for persons who have served in the military.
+relating_to_full: Relating to scholarships for persons who have served in the military.
+at_the_request_of: (at the request of House Interim Committee on Veterans and Emergency Preparedness)
+lc_number: 117
+measure_created_date: '2018-01-11T16:06:28'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 8339
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.109
+  - ORS 352.002
+  - ORS 406.140
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2018R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4040`.
+
+# HB 4040 — 2018 Regular Session (2018R1)
+
+## At a glance
+
+- **Measure:** House Bill 4040, 2018 Regular Session (2018R1)
+- **At the request of:** (at the request of House Interim Committee on Veterans and Emergency Preparedness)
+- **LC number:** 117
+- **Created:** 2018-01-11T16:06:28
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 8339 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4040/Introduced>.
+
+## Summary
+
+**Catchline:** Directs Oregon Military Department to establish program to award scholarships to certain persons who have served in military.
+
+**Relating to:** Relating to scholarships for persons who have served in the military.
+
+Directs Oregon Military Department to establish program to award scholarships to certain persons who have served in military. Establishes Oregon Military Families Education and Workforce Preparedness Scholarship Advisory Committee to review applications for scholarships. 
+ Establishes Oregon Military Education and Workforce Preparedness Scholarship Program Fund in State Treasury. Directs transfer of moneys from Veterans' Services Fund to Oregon Military Education and Workforce Preparedness Scholarship Program Fund for biennium beginning July 1, 2019.
+
+**RelatingToFull (verbatim upstream field):** Relating to scholarships for persons who have served in the military.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2018 Regular Session
+House Bill 4040
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Veterans and Emergency Preparedness)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Directs  Oregon  Military Department to establish program to award scholarships to certain
+persons who  have served in military. Establishes Oregon Military Families Education and
+Workforce Preparedness Scholarship Advisory Committee to review applications for scholarships.
+Establishes Oregon Military Education  and Workforce Preparedness Scholarship Program Fund
+in State Treasury. Directs transfer of moneys from Veterans’ Services Fund to Oregon Military Ed-
+ucation and Workforce Preparedness Scholarship Program  Fund for biennium beginning July 1, 2019.
+A BILL FOR AN ACT
+Relating to scholarships for persons who have served in the military.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Oregon  Military Families Education and Workforce Preparedness
+Scholarship Advisory Committee is established in the Oregon Military Department  to review
+and approve applications for scholarships awarded under section 2 of this 2018  Act. The
+committee consists of at least seven members appointed by the Governor as follows:
+(a) At least three members appointed in consultation with the Oregon Military Depart-
+ment.
+(b) At least two  members appointed in consultation with the Department of Veterans’
+Affairs.
+(c) At least one representative  of an organization providing support services to
+servicemembers and families of servicemembers in this state.
+(d) At least one public member who is not an employee  of a public body, as defined in
+ORS 174.109.
+(2) Members of the committee shall be appointed to serve for terms of  four years, but a
+member serves at the pleasure of the Governor. The Governor  shall appoint a person to fill
+any vacancy on the committee for the expired term.
+(3) The members of the  committee shall appoint a chairperson from among the members
+of the committee.
+(4) A majority of the members of the committee constitutes a quorum for the transaction
+of business.
+(5) The committee  shall meet at the call of the chairperson or upon the request of a
+majority of the members of the committee. The committee  may meet by phone or video
+conference with at least 24 hours’ public notice.
+(6) The Oregon Military Department  shall provide administrative support to the com-
+mittee.
+(7) Members of the committee  are not entitled to compensation or reimbursement for
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 117
+expenses and serve as volunteers on the committee.
+SECTION 2. (1) As used in this section:
+(a) “Armed Forces of the United States” means:
+(A) The Army, Navy, Air Force, Marine Corps and Coast Guard of the United States;
+(B) The reserves of  the Army, Navy, Air Force, Marine Corps and Coast Guard of the
+United States; and
+(C) The Oregon National Guard and a National Guard of any other state or territory.
+(b) “Post-secondary institution of education” means:
+(A) A community college operated under ORS chapter 341;
+(B) A public university listed in ORS 352.002 or the Oregon Health and Science University;
+or
+(C) A generally accredited, private institution of higher education located in Oregon.
+(c)(A) “Veteran” means a person who:
+(i) Served on active duty with the Armed Forces of the United States:
+(I) For a period of more than 90 consecutive days beginning on or before January 31, 1955,
+and was discharged or released under honorable conditions;
+(II) For a period of  more than 178 consecutive days beginning after January 31, 1955, and
+was discharged or released from active duty under honorable conditions;
+(III) For 178 days or less and was discharged or released from  active duty under honor-
+able conditions because of a service-connected disability;
+(IV) For 178 days or less and was discharged or released from active duty under  honor-
+able conditions and has a disability rating from the United States  Department of Veterans
+Affairs; or
+(V) For at least one day in a combat zone  and was discharged or released from active
+duty under honorable conditions;
+(ii) Received a combat  or campaign ribbon or an expeditionary medal for service in the
+Armed Forces of the United States and was discharged or released from  active duty under
+honorable conditions;
+(iii) Is receiving a nonservice-connected pension from the United  States Department of
+Veterans Affairs; or
+(iv) Is a member of the Oregon National Guard, available for deployment and  in good
+standing, as determined by the Oregon Military Department by rule.
+(B) As used in this paragraph, “active duty” does not include attendance at a school un-
+der military orders, except  schooling incident to an active enlistment or a regular tour of
+duty, or normal military training  as a reserve officer or member of an organized reserve or
+a National Guard unit.
+(2) The department shall establish a program to award scholarships to veterans who  are
+residents of this state and who are pursuing and enrolled in an approved course  of study,
+approved professional training,  approved workforce development program or approved ap-
+prenticeship in, or in connection with, a post-secondary institution of education.
+(3) The department  shall establish a process allowing veterans to apply for scholarships
+from the program.
+(4) The department may award scholarships from the program to applicants  approved by
+the Oregon Military Families Education  and Workforce Preparedness Scholarship Advisory
+Committee established in section 1 of this 2018 Act to the extent  of the funds available in the
+Oregon Military Education and Workforce Preparedness Scholarship  Program Fund estab-
+lished in section 3 of this 2018 Act.
+(5) A scholarship awarded to a veteran under  this section may not exceed $2,500 per ac-
+ademic year.
+(6) The department may adopt rules as necessary to implement this section.
+SECTION 3.
+(1) There is established in the State Treasury, separate and distinct from the
+General Fund,  the Oregon Military Education and Workforce Preparedness Scholarship Pro-
+gram Fund. Interest earned by the Oregon Military Education  and Workforce Preparedness
+Scholarship Program Fund shall be credited to the fund. The fund shall consist of:
+(a) Amounts transferred to the fund under section 4 of this 2018 Act.
+(b) Gifts, grants and donations, in money or otherwise, for use as  described in subsection
+(2) of this section.
+(2)(a) Moneys in the fund are continuously  appropriated to the Oregon Military Depart-
+ment for the purposes of implementing the provisions of section 2 of this 2018 Act.
+(b) The department  may use up to five percent of the moneys in the fund to pay the ad-
+ministrative expenses of implementing the provisions of section 2 of this 2018 Act.
+SECTION 4.
+There is allocated for the biennium beginning July 1, 2019, from the
+Veterans’ Services Fund established  in ORS 406.140, to the Oregon Military Department, for
+deposit in the Oregon Military Education and Workforce  Preparedness Scholarship Program
+Fund established in section 3 of this 2018 Act, the lesser of:
+(1) $250,000; or
+(2) The moneys in the Veterans’ Services Fund that have not been allocated for  other
+specific purposes.
+SECTION 5.
+Notwithstanding the term of  office specified by section 1 of this 2018 Act,
+of the members first appointed to  the Oregon Military Families Education and Workforce
+Preparedness Scholarship Advisory Committee:
+(1) At least two members shall serve for a term ending January 1, 2021.
+(2) At least two members shall serve for a term ending January 1, 2022.
+(3) At least three members shall serve for a term ending January 1, 2023.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 174.109, ORS 352.002, ORS 406.140
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `5192ab6c3114fe5ce66420ce3800fdf62a207140df4752673fcdba3dd8c52cea` (snapshot `_meta/snapshots/measure-2018r1-hb4040-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4040/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2018R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4040` (part of the batched per-session fetch), sha256 `bca18089f38921052b3a5eaec76cd832e1ebed6c2cb2100be71a9423d261c9a8` of the shared session snapshot `_meta/snapshots/measures-2018r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

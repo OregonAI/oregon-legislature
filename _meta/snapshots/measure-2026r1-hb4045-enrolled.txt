@@ -1,0 +1,82 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+House Bill 4045
+Sponsored by Representative  MANNIX, Senator PROZANSKI; Representatives ANDERSEN,
+BOSHART DAVIS, DOBSON, GRAYBER, HARTMAN, HUDSON,  JAVADI, KROPF, LEVY E,
+LEWIS, MUNOZ, RESCHKE,  RIEKE SMITH, SCHARF, TRAN, WALTERS, Senators MANNING
+JR, NERON MISSLIN, SMITH DB, THATCHER (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to search warrant response time limits; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2026 Act  shall be known and may be cited  as  “Kristil’s
+Law.”
+SECTION 2. (1) As used in this section:
+(a) “Communications provider” means:
+(A) An Internet service provider, a cellular telephone provider or a Voice over  Internet
+Protocol service provider;
+(B) A social media platform;
+(C) An electronic communication service provider as defined in 50 U.S.C. 1881;
+(D) A digital communications company  that provides Internet, cellular, text, electronic
+mail, social media services  or any other media that communicates, stores or transmits voice,
+data, text, images or video over a distance using electrical, electronic or light wave  trans-
+mission media; or
+(E) Any other entity that constitutes a telecommunications utility as  defined in ORS
+759.005.
+(b) “Domestic violence” has the meaning given that term in ORS 135.230.
+(c) “Social media platform” has the meaning given that term in 42 U.S.C. 1862w.
+(2) This section applies to search warrants:
+(a) For which the object of the search is one or  more documents or records or other
+information from a communications provider; and
+(b) That pertain to an investigation  of a crime constituting domestic violence, stalking
+as defined in ORS 163.732 or violating a court’s stalking protective order under ORS 163.750.
+(3) A person  making application for a search warrant described in subsection (2) of this
+section shall specify in the application that the warrant is subject to the requirements of this
+section.
+(4) When a search warrant  described in subsection (2) of this section is requested, the
+applicant shall include in the proposed warrant:
+(a) In both  the title and body of the warrant, the words “Immediate Response
+Required”;
+(b) A statement that the warrant is subject to this section; and
+Enrolled House Bill 4045 (HB 4045-A) Page 1
+(c) A statement  that the communications provider must produce the documents, records
+or other information specified in the warrant to the applicant:
+(A) Within 72 hours of proper service of the  warrant, if the communications provider is
+a social media platform; or
+(B) Within five business days of proper service of the  warrant, for all other communi-
+cations providers.
+(5) Notwithstanding ORS 136.583 (3),  a communications provider doing business in this
+state shall respond to a search warrant described in subsection (2) of this section:
+(a) Within 72 hours of proper service of the warrant, if the communications provider  is
+a social media platform; or
+(b) Within five business days of proper service of the warrant, for  all other communi-
+cations providers.
+SECTION 3. (1) Section 2 of this 2026 Act becomes operative on May 1, 2026.
+(2) The Judicial Department and any entity defined  as a communications provider under
+section 2 of this 2026  Act may take any action before the operative date specified in sub-
+section (1) of this section that is necessary to enable  the department or entity to exercise,
+on and after the operative date specified in subsection (1) of this section, all  of the duties,
+functions and powers conferred on the department and entity by section 2 of this 2026 Act.
+SECTION 4. This 2026 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency  is declared to exist, and this 2026 Act takes effect
+on its passage.
+Passed by House February 17, 2026
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate March 2, 2026
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 4045 (HB 4045-A) Page 2

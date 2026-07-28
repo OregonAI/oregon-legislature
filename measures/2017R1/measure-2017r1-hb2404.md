@@ -1,0 +1,453 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2017r1-hb2404
+title: 'HB 2404 (2017R1): Requires Oregon Health Authority to analyze ground water contaminant data and
+  provide education in areas with ground water contaminant problems.'
+doc_type: dataset_doc
+citation: 2017 Regular Session House Bill 2404
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2404/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 58ff3ecc1713ef390aa1669decec0670963b805c8fa8bc130db5776eab815752
+snapshot_id: measure-2017r1-hb2404-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 431.003
+  - ORS 448.119
+  - ORS 448.268
+  - ORS 448.271
+  - ORS 468B.150
+  - ORS 468B.165
+  - ORS 468B.175
+  - ORS 468B.180
+  - ORS 479.270
+  - ORS 633.311
+  - ORS 634.006
+  - ORS 90.100
+  - ORS 90.320
+  - ORS 90.325
+  - ORS 90.505
+  - ORS 90.730
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2017r1
+- hb
+session_key: 2017R1
+measure_prefix: HB
+measure_number: 2404
+prefix_meaning: House Bill
+catch_line: Requires Oregon Health Authority to analyze ground water contaminant data and provide education
+  in areas with ground water contaminant problems.
+minority_catch_line: null
+measure_summary: "\tRequires Oregon Health Authority to analyze ground water contaminant data and provide\
+  \ education in areas with ground water contaminant problems. \n\tAuthorizes authority to make grants\
+  \ and loans for purpose of assisting rental property owners and low-income property owners with installation\
+  \ of treatment systems. Authorizes authority to make grants to local public health authorities and other\
+  \ specified entities for purposes related to ensuring safe ground water. Establishes Safe Ground Water\
+  \ Fund and continuously appropriates moneys in fund to authority for purpose of making grants and loans.\
+  \ Appropriates moneys for deposit in fund. \n\tRequires, for each dwelling unit rented by landlord for\
+  \ which source of drinking water is well, landlord to collect and test samples of drinking water from\
+  \ dwelling unit for arsenic, total coliform bacteria and nitrates. Becomes operative March 1, 2018."
+relating_to: Relating to ground water that is used for domestic purposes.
+relating_to_full: Relating to ground water that is used for domestic purposes; creating new provisions;
+  and amending ORS 90.320, 448.271 and 468B.150.
+at_the_request_of: null
+lc_number: 1602
+measure_created_date: '2016-12-19T17:10:19'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 22597
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 431.003
+  - ORS 448.119
+  - ORS 448.268
+  - ORS 448.271
+  - ORS 468B.150
+  - ORS 468B.165
+  - ORS 468B.175
+  - ORS 468B.180
+  - ORS 479.270
+  - ORS 633.311
+  - ORS 634.006
+  - ORS 90.100
+  - ORS 90.320
+  - ORS 90.325
+  - ORS 90.505
+  - ORS 90.730
+  from_relating_to_full:
+  - ORS 448.271
+  - ORS 468B.150
+  - ORS 90.320
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2404`.
+
+# HB 2404 — 2017 Regular Session (2017R1)
+
+## At a glance
+
+- **Measure:** House Bill 2404, 2017 Regular Session (2017R1)
+- **LC number:** 1602
+- **Created:** 2016-12-19T17:10:19
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 22597 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2404/Introduced>.
+
+## Summary
+
+**Catchline:** Requires Oregon Health Authority to analyze ground water contaminant data and provide education in areas with ground water contaminant problems.
+
+**Relating to:** Relating to ground water that is used for domestic purposes.
+
+Requires Oregon Health Authority to analyze ground water contaminant data and provide education in areas with ground water contaminant problems. 
+ Authorizes authority to make grants and loans for purpose of assisting rental property owners and low-income property owners with installation of treatment systems. Authorizes authority to make grants to local public health authorities and other specified entities for purposes related to ensuring safe ground water. Establishes Safe Ground Water Fund and continuously appropriates moneys in fund to authority for purpose of making grants and loans. Appropriates moneys for deposit in fund. 
+ Requires, for each dwelling unit rented by landlord for which source of drinking water is well, landlord to collect and test samples of drinking water from dwelling unit for arsenic, total coliform bacteria and nitrates. Becomes operative March 1, 2018.
+
+**RelatingToFull (verbatim upstream field):** Relating to ground water that is used for domestic purposes; creating new provisions; and amending ORS 90.320, 448.271 and 468B.150.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2404
+Sponsored by Representative LIVELY, Senator  ROBLAN; Representatives EVANS, POWER, Senator GELSER
+(Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Requires Oregon Health Authority to analyze ground water  contaminant data and provide edu-
+cation in areas with ground water contaminant problems.
+Authorizes authority to make grants and loans for purpose of assisting rental property owners
+and low-income property owners  with installation of treatment systems. Authorizes authority to
+make grants to local public health authorities and other specified entities  for purposes related to
+ensuring safe ground water. Establishes Safe Ground Water  Fund and continuously appropriates
+moneys in fund to authority for purpose of making grants and loans. Appropriates moneys for  de-
+posit in fund.
+Requires, for each dwelling unit rented by landlord for which  source of drinking water is well,
+landlord to collect and test samples of drinking water from dwelling unit for arsenic, total  coliform
+bacteria and nitrates. Becomes operative March 1, 2018.
+A BILL FOR AN ACT
+Relating to ground  water that is used for domestic purposes; creating new provisions; and amending
+ORS 90.320, 448.271 and 468B.150.
+Be It Enacted by the People of the State of Oregon:
+TESTING OF WELLS THAT SUPPLY
+GROUND WATER FOR DOMESTIC PURPOSES
+SECTION 1. As used in ORS 448.268 and 448.271 and sections 3 and 4 of this 2017 Act:
+(1) “Area of ground water concern” has the meaning given that term in ORS 468B.150.
+(2) “Contaminant” has the meaning given that term in ORS 468B.150.
+(3) “Local public health authority” has the meaning given that term in ORS 431.003.
+SECTION 2.
+ ORS 448.271 is amended to read:
+448.271. (1) In any transaction for the sale or exchange  of real estate that includes a well that
+supplies ground water for domestic purposes, the seller of the real estate shall,  upon accepting an
+offer to  purchase [ that] the real estate, have the well tested for arsenic, nitrates and total coliform
+bacteria.  The  Oregon Health Authority [ also may,] by rule[ ,] may require additional tests for specific
+contaminants in specific areas of public health concern. The seller shall submit the results of the
+tests required under this  [ section] subsection to the authority and to the [ buyer] purchaser within
+90 days of receiving the results of the tests.
+[(2)] The failure of a seller to comply with [ the provisions of this section ] this subsection  does
+not invalidate an instrument of conveyance executed in the transaction.
+(2) The authority shall:
+(a) Analyze the results of tests received by the authority under subsection  (1) of this
+section;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1602
+(b) Identify areas with ground water contaminant problems; and
+(c) Provide ground water contaminant education in areas identified as  having ground
+water contaminant problems.
+(3) The authority shall provide the results of tests received by the authority under  sub-
+section (1) of this section  and any information derived from the authority’s activities under
+subsection (2)(a) and (b)  of this section to the Department of Environmental Quality. The
+department may use that  information in the administration of ORS 468B.150 to 468B.190.
+Upon request,  the department shall assist the authority in fulfilling the authority’s duties
+under subsection (2)(a) and (b) of this section.
+(4) To fulfill its duties under subsection (2)(c) of this section, the authority may:
+(a) Collaborate with the department or any  other state agency to provide ground water
+contaminant education; or
+(b) Notify a local public health authority that ground water  contaminant education is
+needed in an area subject to the jurisdiction of the local public health authority.
+(5) The authority may adopt rules to implement this section.
+GRANTS AND LOANS
+SECTION 3.
+(1) The  Oregon Health Authority may make grants and loans from the Safe
+Ground Water Fund established under section 5 of this 2017 Act for the purpose  of assisting
+low-income and rental  property owners with installation of treatment systems for ground
+water that has contaminant problems or with repair  or replacement of wells because of
+ground water that has contaminant problems.
+(2) The authority shall identify appropriate property owners for receipt  of a grant or loan
+under this section. At a minimum, a property owner that receives a grant or loan under this
+section must:
+(a) Be a low-income property owner, as determined by the  authority, or a rental property
+owner;
+(b) Have tested the ground water supply of the property; and
+(c) Have received test results indicating that the ground  water supply of the property
+poses a health risk.
+(3) The authority shall provide property owners that receive  a grant or loan under this
+section with information necessary to install a treatment system or to repair  or replace a
+well, including information on the efficacy of  different treatment systems or well designs and
+information on businesses that sell treatment systems or that repair or replace wells.  In
+providing information under this section, the authority may  post information on a website
+maintained by the authority and provide  notice of the website to property owners that re-
+ceive a grant or loan under this section.
+(4) The  authority shall require a property owner that receives a loan under this section
+to repay the loan within five years after receiving the loan.
+(5) The authority may pay the  expenses incurred by the authority in administering this
+section out of  moneys that are available for the purpose of making grants or loans under this
+section.
+(6) The authority may adopt rules necessary to administer this section.
+SECTION 4.
+(1) The Oregon Health Authority may make grants from the Safe Ground
+Water Fund established under section 5 of this 2017 Act for the purpose  of assisting local
+public health authorities,  nonprofit organizations, soil and water conservation districts and
+the Oregon State University Extension Service with:
+(a) Providing ground water contaminant education in an area that has  been identified by
+the authority as having a ground water contaminant problem; and
+(b) Conducting free or low-cost tests of wells.
+(2) For purposes of  making grants under this section, the authority shall identify appro-
+priate recipients of grant moneys. In identifying appropriate recipients of grant  moneys, the
+authority shall consider  whether the recipient is qualified and capable of providing ground
+water contaminant education as described  in subsection (1)(a) of this section or conducting
+free or low-cost tests of wells as described in subsection (1)(b) of this section.
+(3) The authority shall provide recipients of grant moneys under this  section with the
+technical support necessary to provide ground water contaminant education as described  in
+subsection (1)(a) of this section or to  conduct free or low-cost tests of wells as described in
+subsection (1)(b) of this section.
+(4) The authority may pay the  expenses incurred by the authority in administering this
+section out of moneys that are available for  the purpose of making grants under this section.
+(5) The authority may adopt rules necessary to administer this section.
+SECTION 5.
+(1) There is established the Safe Ground  Water Fund, separate and distinct
+from the General Fund. Interest  earned by the Safe Ground Water Fund shall be credited
+to the fund.
+(2) Moneys  in the fund are continuously appropriated to the Oregon Health Authority for
+purposes described in sections 3 and 4 of this 2017 Act.
+(3) The authority may accept  from any source any grant, donation or gift of moneys for
+deposit in the fund.
+SECTION 6. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Oregon Health Authority, for the biennium beginning July 1, 2017, out of the
+General Fund, the amount of $15,000, for deposit  in the Safe Ground Water Fund established
+in section 5 of this 2017 Act.
+LANDLORD TESTING OF DRINKING WATER
+SECTION 7.
+Section 8 of this 2017 Act is added to and made a part of ORS 90.100 to 90.465.
+SECTION 8. (1) For each dwelling unit rented by a landlord for which a source of drinking
+water is a well, the landlord shall collect  and test samples of drinking water in accordance
+with this section, for the purpose  of having those samples tested in accordance with rules
+adopted by the Oregon Health Authority.
+(2)(a) A landlord subject to this section must ensure that each well  for which drinking
+water collected under this section is tested as follows:
+(A) The  drinking water must be tested for arsenic at least once during the life of the
+well, no later than 30 days after installing the well.
+(B) Except as provided in paragraphs (b) and (c) of this subsection,  the drinking water
+must be tested for total coliform bacteria and nitrates at least once each year. If the results
+of a test conducted under  this subparagraph confirm that drinking water collected under this
+section contains:
+(i) Any amount of total coliform  bacteria, the landlord must, as soon as practicable, treat
+the drinking water  and retest the drinking water to confirm that all coliform bacteria has
+been removed; or
+(ii) An amount of nitrates that exceeds  the amount of nitrates that drinking water may
+safely contain as established by the United States Environmental Protection Agency,  the
+landlord must, as soon as practicable, treat the drinking water and  retest the drinking water
+to confirm that nitrates are at an acceptable level.
+(b) If the results  of tests conducted under paragraph (a)(B) of this subsection for three
+consecutive years confirm that drinking water collected under  this section does not contain
+any total  coliform bacteria or nitrates, the landlord is not required to collect and test
+drinking water from that well for the next five years.
+(c) If the results of the first test conducted under paragraph (a)(B)  of this subsection
+following a five-year period of a landlord not being required to conduct  a test to confirm that
+drinking water  collected under this section does not contain any total coliform bacteria or
+nitrates, the landlord is not required to collect and  test drinking water from that well for
+the next five years.
+(d) A landlord subject  to this section must report the results of tests conducted under
+this subsection to the Oregon Health Authority in a form and manner prescribed by  the au-
+thority.
+(3)(a) In accordance with rules adopted by the authority:
+(A) Except as provided in paragraph (b) of this subsection, a  landlord subject to this
+section shall collect samples of drinking water from a dwelling unit’s  primary dispenser of
+drinking water.
+(B) A landlord subject to this section may collect supplementary samples of  drinking
+water from a dwelling unit’s other dispensers of  drinking water or from a dwelling unit’s
+well head.
+(b) A landlord subject to this section may delegate the landlord’s duty  to collect samples
+of drinking water to a tenant  if the landlord and the tenant agree to the delegation in writing
+and the agreement is made in good faith and for adequate consideration.
+(4) At the beginning of  a tenancy for a dwelling unit for which a landlord must collect
+and test drinking water under this section, the landlord must provide to the tenant:
+(a) Notice that the dwelling unit has a well as a source of drinking water;
+(b) Notice that the dwelling unit’s drinking  water has been tested for arsenic, total
+coliform bacteria and nitrates;
+(c) The results of the most recent test for arsenic;
+(d) The results of the most recent test for total coliform bacteria and nitrates;
+(e) The date on  which the most recent test for total coliform bacteria and nitrates was
+conducted; and
+(f) The date on which the next test for total coliform  bacteria and nitrates will be con-
+ducted.
+(5) Each time a landlord conducts a  test under subsection (2)(a)(B), (b) or (c) of this
+section, no later than 30 days after conducting  the test, the landlord must provide the tenant
+of the dwelling unit for which the landlord conducted  the test with the following information:
+(a) If the results of  the test confirm that the drinking water does not contain any total
+coliform bacteria or nitrates, with:
+(A) Notice of having conducted the test;
+(B) A summary of the test results;
+(C) A statement that the tenant may request a copy of the test results; and
+(D) The date on which the landlord will next test the drinking water.
+(b) If the results of the test confirm that the drinking water contains  total coliform
+bacteria or nitrates, with:
+(A) Notice of having conducted the test;
+(B) A copy of the test results;
+(C) If applicable, the date on which the landlord treated or will treat  the drinking water;
+(D) The date on which the landlord will next test the drinking water; and
+(E) The handout adopted by the authority under subsection (6) of this section.
+(6) The authority shall adopt by rule:
+(a) A form that a landlord subject to this section shall use to provide  information de-
+scribed in subsection (5)(a) of this section; and
+(b) A handout providing information on testing drinking water for contaminants and the
+impact that drinking water that contains contaminants can have on a person’s health.
+(7) This section does not apply to a dwelling unit that is:
+(a) Subject to ORS 90.505 to 90.850; or
+(b) Part  of a premises subject to regulation under ORS 448.119 to 448.285, 454.235 and
+454.255, as described in ORS 448.119.
+(8) If a landlord fails to conduct a test or disclose  test results as required by this section,
+the tenant renting the dwelling unit from the landlord may  recover the actual damages of
+the tenant or $300, whichever is greater.
+SECTION 9.
+Notwithstanding section 8 (2) of this 2017 Act, if  the results of the first test
+of drinking water for total  coliform bacteria and nitrates following the operative date speci-
+fied in section 13 of this 2017 Act confirm that drinking water collected under section 8  of
+this 2017 Act does not  contain any total coliform bacteria or nitrates, the landlord of the
+dwelling unit for which the test is conducted is not required to collect and test the drinking
+water for that dwelling unit for the next five years.
+SECTION 10.
+(1) For each  dwelling unit rented by a landlord before the operative date
+specified in section 13 of this 2017 Act for which a source of  drinking water is a well, the
+landlord shall collect and test samples of drinking water  in accordance with section 8 of this
+2017 Act no later  than 60 days after the operative date specified in section 13 of this 2017
+Act.
+(2) For each dwelling unit rented by a landlord before the operative  date specified in
+section 13 of this 2017 Act for which  a source of drinking water is a well, the landlord shall
+provide the tenant of the dwelling  unit for which the landlord conducted the test with the
+information described in section 8 (5) of this 2017 Act no later than 90  days after the opera-
+tive date specified in section 13 of this 2017 Act.
+CONFORMING AMENDMENTS
+SECTION 11.  ORS 468B.150 is amended to read:
+468B.150. As used in ORS [ 448.268, 448.271 and] 468B.150 to 468B.190:
+(1) “Area of ground water concern” means an area  of the state subject to a declaration by the
+Department of Environmental Quality under ORS 468B.175 or the Oregon Health Authority  under
+ORS 448.268.
+(2) “Contaminant” means any chemical, ion, radionuclide, synthetic organic compound,
+microorganism, waste or other substance that does not occur naturally in ground water  or that oc-
+curs naturally but at a lower concentration.
+(3) “Ground water management area” means an area  in which contaminants in the ground water
+have exceeded the levels established under ORS  468B.165, and the affected area is subject to a
+declaration under ORS 468B.180.
+(4) “Fertilizer” has the meaning given that term in ORS 633.311.
+(5) “Pesticide” has the meaning given that term in ORS 634.006.
+SECTION 12.
+ ORS 90.320 is amended to read:
+90.320. (1) A landlord shall at all times during  the tenancy maintain the dwelling unit in a
+habitable condition. For purposes of this section, a  dwelling unit shall be considered unhabitable if
+it substantially lacks:
+(a) Effective waterproofing and weather protection of roof  and exterior walls, including windows
+and doors;
+(b) Plumbing facilities that conform to applicable law in effect at the time  of installation, and
+maintained in good working order;
+(c) A water supply approved under applicable law that is:
+(A) Under the control  of the tenant or landlord and is capable of producing hot and cold running
+water;
+(B) Furnished to appropriate fixtures;
+(C) Connected to a sewage disposal system approved under applicable law; and
+(D) Maintained so as to provide safe drinking water , including as demonstrated by  a test or
+a treatment as required by section 8  of this 2017 Act for a dwelling unit with a well as the
+source of drinking water,  and to be in good working order to the extent that the  system can be
+controlled by the landlord;
+(d) Adequate heating facilities that  conform to applicable law at the time of installation and
+maintained in good working order;
+(e) Electrical lighting  with wiring and electrical equipment that conform to applicable law at the
+time of installation and maintained in good working order;
+(f) Buildings, grounds and appurtenances at the  time of the commencement of the rental agree-
+ment in every part safe for normal and reasonably foreseeable uses, clean, sanitary  and free from
+all accumulations of debris, filth, rubbish, garbage, rodents and vermin, and all areas under  control
+of the  landlord kept in every part safe for normal and reasonably foreseeable uses, clean, sanitary
+and free from all accumulations of debris, filth, rubbish, garbage, rodents and vermin;
+(g) Except as otherwise provided by local ordinance or by written agreement between the land-
+lord and the tenant, an adequate  number of appropriate receptacles for garbage and rubbish in clean
+condition and good repair at the  time of the commencement of the rental agreement, and the land-
+lord shall provide and maintain appropriate serviceable  receptacles thereafter and arrange for their
+removal;
+(h) Floors, walls, ceilings, stairways and railings maintained in good repair;
+(i) Ventilating, air  conditioning and other facilities and appliances, including elevators, main-
+tained in good repair if supplied or required to be supplied by the landlord;
+(j) Safety from fire hazards,  including a working smoke alarm or smoke detector, with working
+batteries  if  solely battery-operated, provided only at the beginning of any new tenancy when the
+tenant first takes possession of the premises, as provided in ORS 479.270, but not to  include the
+tenant’s testing of the smoke alarm or smoke detector as provided in ORS 90.325 (1);
+(k) A carbon monoxide alarm, and the dwelling unit:
+(A) Contains a carbon monoxide source; or
+(B) Is located  within a structure that contains a carbon monoxide source and the dwelling unit
+is connected to the room in which the carbon monoxide source is located by a door, ductwork or a
+ventilation shaft; or
+(L) Working locks for all  dwelling entrance doors, and, unless contrary to applicable law,
+latches for all windows, by  which access may be had to that portion of the premises that the tenant
+is entitled under the rental agreement  to occupy to the exclusion of others and keys for those locks
+that require keys.
+(2) The landlord and tenant may agree in writing that the tenant is to perform specified repairs,
+maintenance tasks and minor remodeling only if:
+(a) The agreement of the parties is entered into in good faith and not for the  purpose of evading
+the obligations of the landlord;
+(b) The agreement does not  diminish the obligations of the landlord to other tenants in the
+premises; and
+(c) The terms and conditions of  the agreement are clearly and fairly disclosed and adequate
+consideration for the agreement is specifically stated.
+(3) Any provisions of this section that  reasonably apply only to a structure that is used as a
+home, residence or sleeping place shall not apply to a  manufactured dwelling, recreational vehicle
+or floating home where the tenant owns the manufactured dwelling, recreational  vehicle or floating
+home, rents the  space and, in the case of a dwelling or home, the space is not in a facility. Manu-
+factured dwelling or floating home tenancies in which the tenant owns  the dwelling or home and
+rents space in a facility shall be governed by ORS 90.730, not by this section.
+OPERATIVE DATE
+SECTION 13.
+(1) Sections 7 to 10 of this 2017  Act and the amendments to ORS 90.320 by
+section 12 of this 2017 Act become operative on March 1, 2018.
+(2) The Oregon Health Authority may take any  action before the operative date specified
+in subsection (1) of this section that is necessary  to enable the authority to exercise, on and
+after the operative date specified in subsection (1) of this section, all the duties, powers  and
+functions conferred on the authority by sections 7 to  10 of this 2017 Act and the amendments
+to ORS 90.320 by section 12 of this 2017 Act.
+UNIT CAPTIONS
+SECTION 14. The unit captions used in this 2017 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2017 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 448.271, ORS 468B.150, ORS 90.320
+- From bill text (Introduced version): ORS 431.003, ORS 448.119, ORS 448.268, ORS 448.271, ORS 468B.150, ORS 468B.165, ORS 468B.175, ORS 468B.180, ORS 479.270, ORS 633.311, ORS 634.006, ORS 90.100, ORS 90.320, ORS 90.325, ORS 90.505, ORS 90.730
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `58ff3ecc1713ef390aa1669decec0670963b805c8fa8bc130db5776eab815752` (snapshot `_meta/snapshots/measure-2017r1-hb2404-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2404/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2404` (part of the batched per-session fetch), sha256 `8a531c771f7c0531d1b6a422bf18d037d210e0e6cb92f247a009fd99e6400c68` of the shared session snapshot `_meta/snapshots/measures-2017r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

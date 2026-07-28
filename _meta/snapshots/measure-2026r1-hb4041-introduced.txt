@@ -1,0 +1,608 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4041
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Judiciary for Representative Jason Kropf for  Oregon District Attorneys Association, Oregon Criminal De-
+fense Lawyers Association)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells DOJ to do two studies and adds a way of committing the  crime of criminal
+mistreatment in the first degree. The Act changes what is recorded at GJ, when  a person can enter
+a conditional plea and how a misdemeanor is  reduced to a violation. The Act also raises the dollar
+amounts in the elements of some crimes. (Flesch Readability Score: 61.3).
+Directs the Department of Justice to study whether legislative changes are  needed concerning
+credit for time served and post-conviction relief  petitions based on nonunanimous jury verdicts. Di-
+rects the department  to submit findings to the interim committees of the Legislative Assembly re-
+lated to the judiciary no later than September 15, 2027. Sunsets on January 2, 2028.
+Provides that a person  commits the crime of criminal mistreatment in the first degree if the
+person exposes another person to  an unlawful controlled substance in a specified manner. Punishes
+by a maximum of five years’ imprisonment, $125,000 fine, or both.
+Requires the recording of a presentation of facts to the court by a grand  jury for the purpose
+of receiving further instruction.
+Removes the requirement that the state consent to the entry of a conditional plea of guilty or
+no contest.
+Authorizes the court to enter a judgment of conviction for a Class A violation instead of a
+misdemeanor in specified circumstances.
+Increases the dollar amounts in  specified property crimes that serve as a minimum value amount
+of damages or stolen property or as a threshold between offense levels of the crime.
+A BILL FOR AN ACT
+Relating to public safety; creating new provisions; and  amending ORS 132.260, 132.370, 135.335,
+163.205, 164.043, 164.045, 164.055, 164.057, 164.061, 164.354 and 164.365.
+Be It Enacted by the People of the State of Oregon:
+CREDIT FOR TIME SERVED
+SECTION 1.
+The Department of Justice, in  consultation with the Department of Cor-
+rections, shall study whether legislative changes are  needed to modify how credit for time
+served is applied to sentences. The Department of Justice shall submit a report in  the man-
+ner provided by ORS 192.245, and may include recommendations for legislation, to the interim
+committees of the Legislative  Assembly related to the judiciary no later than September 15,
+2027.
+SECTION 2.
+Section 1 of this 2026 Act is repealed on January 2, 2028.
+POST-CONVICTION RELIEF
+SECTION 3. The Department  of Justice shall study whether legislative changes are
+needed to modify the procedures for post-conviction relief petitions  based on nonunanimous
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 92
+HB 4041
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+jury verdicts. The department shall submit a report in the manner provided by  ORS 192.245,
+and may include recommendations for legislation, to the  interim committees of the Legisla-
+tive Assembly related to the judiciary no later than September 15, 2027.
+SECTION 4.
+Section 3 of this 2026 Act is repealed on January 2, 2028.
+CRIMINAL MISTREATMENT
+SECTION 5.  ORS 163.205 is amended to read:
+163.205. (1) A person commits the crime of criminal mistreatment in the first degree if:
+(a) The person, in violation of a legal duty to provide care  for another person, or having as-
+sumed the permanent or temporary care, custody or responsibility for the  supervision of another
+person, intentionally or knowingly :
+(A) Withholds necessary and adequate food,  physical care or medical attention from that other
+person; or
+(B) Exposes the other person to  an unlawful controlled substance in a manner that re-
+sults in a detectable level of the controlled substance in the other person’s body; or
+(b) The person, in  violation of a legal duty to provide care for a dependent person or elderly
+person, or having assumed the permanent or temporary care,  custody or responsibility for the
+supervision of a dependent person or elderly person, intentionally or knowingly:
+(A) Causes physical injury or injuries to the dependent person or elderly person;
+(B) Deserts the  dependent person or elderly person in a place with the intent to abandon that
+person;
+(C) Leaves the dependent person  or elderly person unattended at a place for such a period of
+time as may be likely to endanger the health or welfare of that person;
+(D) Hides the dependent person’s or elderly person’s money or property or takes the  money or
+property for, or appropriates the money or property to,  any use or purpose not in the due and lawful
+execution of the person’s responsibility;
+(E) Takes charge of a dependent or elderly person for the purpose of fraud;
+(F) Leaves  the dependent person or elderly person, or causes the dependent person or elderly
+person to enter or remain, in or upon premises:
+(i) Where a cannabinoid extract as defined in ORS 475C.009 is being processed; and
+(ii) That have not been licensed under ORS 475C.085; or
+(G) Leaves the dependent person or elderly person, or causes  the dependent person or elderly
+person to enter or remain, in or upon premises where a chemical reaction  involving one or more
+precursor substances:
+(i) Is occurring as part of unlawfully manufacturing a controlled substance or  grinding, soaking
+or otherwise  breaking down a precursor substance for the unlawful manufacture of a controlled
+substance; or
+(ii) Has occurred as part of unlawfully  manufacturing a controlled substance or grinding, soak-
+ing or otherwise breaking down a precursor substance for the  unlawful manufacture of a controlled
+substance and the premises have not been certified as fit for use under ORS 453.885.
+(2) As used in this section:
+(a) “Controlled substance” has the meaning given that term in ORS 475.005.
+(b) “Dependent person” means a person who because of either  age or a physical or mental dis-
+ability is dependent upon another to provide for the person’s physical needs.
+[2]
+HB 4041
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) “Elderly person” means a person 65 years of age or older.
+(d) “Legal duty” includes but is not limited to a duty created by familial  relationship, court or-
+der, contractual agreement or statutory or case law.
+(e) “Precursor substance” has the meaning given that term in ORS 475.940.
+(3) Criminal mistreatment in the first degree is a Class C felony.
+GRAND JURY RECORDATION
+SECTION 6.
+ ORS 132.260 is amended to read:
+132.260. (1) Except as provided in subsection (2) of this section, the grand juror described in ORS
+132.250 (2)(a), or the shorthand reporter described in ORS 132.250 (2)(b),  who is recording grand jury
+proceedings shall record all testimony given before the grand jury, including:
+(a) The case name and number;
+(b) The name of each witness appearing before the grand jury; [ and]
+(c) Each question asked of, and each response provided  by, a witness appearing before the grand
+jury[.]; and
+(d) A presentment made pursuant to ORS 132.370.
+(2) The grand juror operating the audio electronic recording device or  the shorthand reporter
+may not record:
+(a) The deliberations or voting of the grand jury.
+[(b) A presentment made pursuant to ORS 132.370. ]
+[(c)] (b) Any statements made by a  grand juror who is examined as a witness as provided in ORS
+132.350.
+[(d)] (c)  A procedure related  to the production of records, or the unsealing of records,
+subpoenaed pursuant to ORS 136.583 and to be presented before the grand jury.
+(3) The district attorney shall maintain the audio recordings, or report of the  shorthand repor-
+ter, produced pursuant to this section and ORS 132.250.
+SECTION 7.
+ ORS 132.370 is amended to read:
+132.370. (1) When the grand jury is  in doubt whether the facts, as shown by the evidence before
+it, constitute a  crime in law or whether the same has ceased to be punishable by reason of lapse
+of time or a  former acquittal or conviction, it may make a presentment of the facts to the court,
+without mentioning the names of individuals, and ask the court for instructions concerning  the law
+arising thereon.
+(2) A presentment  cannot be found and made to the court except as provided in subsection (1)
+of this section, and, when so  found and presented, the court shall give such instructions to the grand
+jury concerning the law of the case as it thinks proper and necessary.
+(3) A presentment is made  to the court by the foreman in the presence of the grand jury[ . But
+being a mere ] and is a  formal statement of facts for the purpose of obtaining the advice of the  court
+as to the law arising thereon[ , it is not to  be filed in court or preserved beyond the sitting of the grand
+jury].
+CONDITIONAL PLEAS
+SECTION 8.  ORS 135.335 is amended to read:
+135.335. (1) The kinds of plea to an indictment,  information or complaint, or each count thereof,
+[3]
+HB 4041
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+are:
+(a) Guilty.
+(b) Not guilty.
+(c) No contest.
+(2) A  defendant may plead no contest only with the consent of the court. Such a plea shall be
+accepted by the court only after due consideration of the views  of the parties and the interest of the
+public in the effective administration of justice.
+(3) With the consent of the court [ and the state ], a defendant may  enter a conditional plea of
+guilty or no contest reserving, in writing, the right, on appeal from the  judgment, to a review of an
+adverse determination of any  specified pretrial motion. A defendant who finally prevails on appeal
+may withdraw the plea.
+REDUCTION OF MISDEMEANORS TO VIOLATIONS
+SECTION 9.
+Section 10 of this 2026 Act  is added to and made a part of ORS 161.705 to
+161.737.
+SECTION 10. (1) Notwithstanding ORS 161.545, and except as provided in subsection  (3)
+of this section, the court may enter  a judgment of conviction for a Class A violation and
+make disposition accordingly when:
+(a) A person is convicted of any misdemeanor other than one listed  in subsection (3) of
+this section; and
+(b) The court, considering the  nature and circumstances of the crime and the history and
+character of the defendant, believes that a violation conviction is appropriate.
+(2) The entry of a judgment  of conviction for a Class A violation under this section may
+be made at the time of conviction and the court  shall clearly denominate the offense as a
+Class A violation in the judgment.
+(3) A court may  not enter a judgment of conviction for a violation for the following
+misdemeanors under this section:
+(a) Assault in the fourth degree under ORS 163.160;
+(b) Strangulation under ORS 163.187;
+(c) Menacing under ORS 163.190;
+(d) Sexual abuse in the third degree under ORS 163.415;
+(e) Contributing to the sexual delinquency of a minor under ORS 163.435;
+(f) Sexual misconduct under ORS 163.445;
+(g) Custodial sexual misconduct in the second degree under ORS 163.454;
+(h) Unlawful dissemination of an intimate image under ORS 163.472;
+(i) Encouraging child sexual abuse in the third degree under ORS 163.687;
+(j) Invasion of personal privacy in the second degree under ORS 163.700;
+(k) Stalking under ORS 163.732;
+(L) Violating a court’s stalking protective order under ORS 163.750;
+(m) Fleeing or attempting to elude a police officer under ORS 811.540;
+(n) Driving under the influence of intoxicants under ORS 813.010;
+(o) A misdemeanor constituting domestic violence as defined in ORS 135.230;
+(p) A misdemeanor that was originally  charged as a felony and for which the court en-
+tered a judgment of conviction for a misdemeanor under ORS 161.705; or
+[4]
+HB 4041
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(q) A misdemeanor for which an order of restitution is outstanding.
+(4) Notwithstanding ORS 153.019 and 153.021, if the court enters a judgment of conviction
+for a Class A violation under this section, the fine that the court may impose:
+(a) May be waived, after the court has  taken into consideration the defendant’s ability
+to pay and whether the defendant has already paid any  fines, fees or restitution on the
+charge;
+(b) May be less than  the presumptive fine established by ORS 153.019 for a Class A vio-
+lation; and
+(c) May not exceed the maximum fine established by ORS  153.018 for a Class A violation.
+(5) Notwithstanding subsections (1) and (3) of this  section, the court may reduce any
+misdemeanor, other than a misdemeanor listed in subsection (3)(m) or (n)  of this section, to
+a violation at  any time after the filing of an information upon agreement of the defendant
+and prosecutor.
+SECTION 11.
+Section 10 of this 2026 Act  applies to offenses committed on or after the
+effective date of this 2026 Act.
+OFFENSE LEVELS BASED ON DOLLAR AMOUNTS
+SECTION 12.  ORS 164.043 is amended to read:
+164.043. (1) A person commits the crime of theft in the third degree if:
+(a) By means other than extortion, the person commits theft as defined in ORS 164.015; and
+(b) The total value of the property in a single or an aggregate transaction is less than  [ $100]
+$150.
+(2) Theft in the third degree is a Class C misdemeanor.
+SECTION 13.
+ ORS 164.045 is amended to read:
+164.045. (1) A person commits the crime of theft in the second degree if:
+(a) By means other than extortion, the person commits theft as defined in ORS 164.015; and
+(b) The total value of the property in a single or aggregate transaction is [ $100] $150 or more
+and less than [ $1,000] $1,500.
+(2) Theft in the second degree is a Class A misdemeanor.
+SECTION 14.
+ ORS 164.055 is amended to read:
+164.055. (1) A person commits the crime of theft in the first degree if, by means  other than
+extortion, the person commits theft as defined in ORS 164.015 and:
+(a) The total value of the property in a single  or aggregate transaction is [ $1,000] $1,500 or
+more;
+(b) The theft is committed during a  riot, fire, explosion, catastrophe or other emergency in an
+area affected by the riot, fire, explosion, catastrophe or other emergency;
+(c) The theft is theft by receiving committed by buying, selling, borrowing or  lending on the
+security of the property;
+(d) The subject of the theft is a firearm or explosive;
+(e) The subject of the theft is a livestock  animal, a companion animal or a wild animal removed
+from habitat or born of a wild animal removed from habitat, pursuant to ORS 497.308 (2)(c);
+(f) The subject of the theft is a precursor substance; or
+(g) During  the commission of the theft, the person recklessly engages in conduct that creates a
+substantial risk of serious physical injury to another person.
+[5]
+HB 4041
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) As used in this section:
+(a) “Companion animal” means a dog or cat possessed by a person, business or other  entity for
+purposes of companionship, security,  hunting, herding or providing assistance in relation to a phys-
+ical disability.
+(b) “Explosive” means a chemical  compound, mixture or device that is commonly used or in-
+tended for the purpose of producing a chemical reaction  resulting in a substantially instantaneous
+release of gas and heat, including but not limited to dynamite,  blasting powder, nitroglycerin,
+blasting caps and nitrojelly, but excluding fireworks  as defined in ORS 480.111, black powder,
+smokeless powder, small arms ammunition and small arms ammunition primers.
+(c) “Firearm” has the meaning given that term in ORS 166.210.
+(d) “Livestock animal” means a ratite, psittacine, horse, gelding, mare, filly,  stallion, colt, mule,
+ass, jenny, bull, steer, cow, calf, goat, sheep, lamb, llama, pig or hog.
+(e) “Precursor substance” has the meaning given that term in ORS 475.940.
+(3) Theft in the first degree is a Class C felony.
+SECTION 15.
+ ORS 164.057 is amended to read:
+164.057. (1) A person commits the crime of aggravated theft in the first degree, if:
+(a)(A) The  person violates ORS 164.055 with respect to property, other than a motor vehicle
+used primarily for personal rather than commercial transportation; and
+[(b)] (B)  The value of the property in a single  or aggregate transaction is [ $10,000] $15,000 or
+more; or
+(b)(A) The person violates ORS 164.055 with respect to  property, other than a motor ve-
+hicle used primarily for personal rather than commercial transportation;
+(B) The victim of the theft was  65 years of age or older at the time of the commission
+of the offense; and
+(C) The value of the property stolen from the victim described in subparagraph (B) of this
+paragraph, in a single or aggregate transaction, is $10,000 or more .
+(2) Aggravated theft in the first degree is a Class B felony.
+SECTION 16.
+ ORS 164.061 is amended to read:
+164.061. When a person  is convicted of aggravated theft in the first degree under ORS 164.057
+(b), the court shall sentence the person to a term of incarceration  ranging from 16 months to 45
+months, depending on the person’s criminal history, if:
+(1) The  victim of the theft was 65 years of age or older at the time of the commission of the
+offense; and
+(2) The value of the  property stolen from the victim described in subsection (1) of this section,
+in a single or aggregate transaction, is $10,000 or more.
+SECTION 17.  ORS 164.354 is amended to read:
+164.354. (1) A person commits the crime of criminal mischief in the second degree if:
+(a) The person violates ORS 164.345, and  as a result thereof, damages property in an amount
+exceeding [ $500] $750; or
+(b) Having no right to do so nor reasonable  ground to believe that the person has such right,
+the person intentionally damages property of another,  or, the person recklessly damages property
+of another in an amount exceeding [ $500] $750.
+(2) Criminal mischief in the second degree is a Class A misdemeanor.
+SECTION 18.
+ ORS 164.365 is amended to read:
+164.365. (1) A person commits the crime of criminal mischief in the first degree who, with intent
+[6]
+HB 4041
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+to damage property, and having no right to do so nor reasonable ground to believe that  the person
+has such right:
+(a) Damages or destroys property of another:
+(A) In an amount exceeding [ $1,000] $1,500;
+(B) By means of an explosive;
+(C) By starting a  fire in an institution while the person is committed to and confined in the in-
+stitution;
+(D) Which is a livestock animal as defined in ORS 164.055;
+(E) Which is the property of a public utility, telecommunications carrier,  railroad, public trans-
+portation facility or medical facility used in direct service to the public; or
+(F) By intentionally interfering with, obstructing or adulterating in any  manner the service of
+a public utility, telecommunications carrier, railroad, public transportation facility  or medical facil-
+ity; or
+(b) Intentionally uses,  manipulates, arranges or rearranges the property of a public utility,
+telecommunications carrier, railroad, public transportation facility or medical  facility used in direct
+service to the public so as to interfere with its efficiency.
+(2) As used in subsection (1) of this section:
+(a) “Institution” includes state and local correctional facilities,  mental health facilities, juvenile
+detention facilities and state training schools.
+(b) “Medical facility” means  a health care facility as defined in ORS 442.015, a licensed
+physician’s office or anywhere a licensed medical practitioner provides health care services.
+(c) “Public utility” has the meaning provided for that term in  ORS 757.005 and includes any
+cooperative, people’s utility district  or other municipal corporation providing an electric, gas, water
+or other utility service.
+(d) “Railroad” has the meaning provided for that term in ORS 824.020.
+(e) “Public transportation  facility” means any property, structure or equipment used for or in
+connection with the transportation of persons for hire by rail, air or bus,  including any railroad
+cars, buses or airplanes used to carry out such transportation.
+(f) “Telecommunications carrier” has the meaning given that term in ORS 133.721.
+(3) Criminal mischief in the first degree is a Class C felony.
+SECTION 19.
+The amendments to  ORS 164.043, 164.045, 164.055, 164.057, 164.061, 164.354
+and 164.365 by sections  12 to 18 of this 2026 Act apply to conduct constituting, or alleged to
+constitute, a criminal offense occurring on or after the effective date of this 2026 Act.
+CAPTIONS
+SECTION 20. The unit captions used in this 2026 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2026 Act.
+[7]

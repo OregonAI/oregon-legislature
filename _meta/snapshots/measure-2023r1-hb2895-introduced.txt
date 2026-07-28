@@ -1,0 +1,195 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2895
+Sponsored by Representative CATE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Removes cap on amounts distributed from State School Fund to school districts for  students el-
+igible for special education as children with disabilities.
+Provides additional weight for students who  are homeless for purposes of calculating distrib-
+utions of State School Fund moneys to school districts. Specifies that Department of  Education will
+collect information related to homeless students.
+Declares emergency, effective July 1, 2023.
+A BILL FOR AN ACT
+Relating to State School Fund distributions; creating new provisions; amending ORS  327.013; and
+declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 327.013 is amended to read:
+327.013. The State School Fund distributions for school districts include the following grants:
+(1) General Purpose Grant = Funding Percentage ×  Target Grant ×  District  extended ADMw.
+For the purpose of the calculation made under this subsection:
+(a) The funding percentage shall be calculated by  the Superintendent of Public Instruction to
+distribute as nearly as practicable the total sum of money available for distribution.
+(b) Target Grant = Statewide Target per ADMw Grant + Teacher Experience  Factor. For the
+purpose of the calculation made under this paragraph:
+(A) Statewide Target per ADMw Grant = $4,500.
+(B) Teacher Experience Factor  = $25 ×  {District average teacher experience − statewide av-
+erage teacher experience}. As used in this  subparagraph, “average teacher experience” means the
+average,  in  years, of teaching experience of licensed teachers as reported to the Department of Ed-
+ucation.
+(c) District extended ADMw = ADMw or ADMw of the  prior year, whichever is greater. The
+calculation of the district extended ADMw must be made as provided  by ORS 338.155 if a public
+charter school is located in the school district. For the purpose of this paragraph:
+(A) Weighted average daily membership or ADMw = average  daily membership + an additional
+amount computed as follows:
+(i) 1.0 for each  student in average daily membership eligible for special education as a child with
+a disability under ORS 343.035[ , which may not exceed 11 percent of the district’s ADM without review
+and approval by the Department  of Education ]. Children with disabilities eligible for special educa-
+tion in adult local correctional facilities,  as defined in ORS 169.005, or adult regional correctional
+facilities, as defined in ORS 169.620, may not be included in the calculation made  under this sub-
+subparagraph.
+(ii) 0.5 for each student in average daily membership eligible for and  enrolled in an English
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2978
+HB 2895
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+language learner program under ORS 336.079.
+(iii) 0.2 for each student in average daily membership enrolled in a union high school  district
+or in an area of  a unified school district where the district is only responsible for educating students
+in grades 9 through 12 in that area.
+(iv) −0.1  for each student in average daily membership enrolled in an elementary district oper-
+ating kindergarten through grade six  or kindergarten through grade eight or in an area of a unified
+school district where the district is only responsible  for educating students in kindergarten through
+grade eight.
+(v) 0.25 times the sum of the following:
+(I) The number of students who are in average  daily membership and who are also in poverty
+families, as determined by the Department  of Education based on rules adopted by the State Board
+of Education that  incorporate poverty data published by the United States Census Bureau, student
+data provided by school districts and other data identified by the board;
+(II) The number of children in foster homes in the district as determined by the  report of the
+Department of Human Services to the United  States Department of Education, “Annual Statistical
+Report on Children in Foster Homes and Children in Families Receiving AFDC  Payments in Excess
+of the Poverty Income Level,” or its successor, for October 31 of the  year prior to the year of dis-
+tribution; and
+(III) The number of children in the district  in state-recognized facilities for neglected and de-
+linquent children, based on information  from the Department of Human Services for October 31 of
+the year prior to the year of distribution.
+(vi) 1.0 for each student  in average daily membership who is homeless, as determined
+under rules adopted by the State Board of Education based on standards adopted by the De-
+partment of Human Services and based  on information collected by the Department of Edu-
+cation related to homeless students.
+[(vi)] (vii) The amount determined under ORS 327.077 for each remote small elementary school
+and for each small high school in the district.
+(B) All numbers of children used  for the computation in this paragraph must reflect any district
+consolidations that have occurred since the numbers were compiled.
+(C) The total additional weight that shall be assigned to any student in  average daily member-
+ship in a district, exclusive of students described in subparagraph (A)(v) [ and (vi) ] to (vii)  of this
+paragraph, may not exceed 2.0.
+(2) High cost disabilities grant = the total amount received by a  school district under ORS
+327.348 for providing special education and related services to resident pupils with disabilities.
+(3)(a) Transportation grant equals:
+(A) 70 percent of approved transportation  costs for those school districts ranked below the 80th
+percentile under paragraph (b) of this subsection.
+(B) 80 percent of approved transportation costs for those school districts ranked in or  above the
+80th percentile but below the 90th percentile under paragraph (b) of this subsection.
+(C) 90 percent of approved transportation costs for those school districts ranked in or  above the
+90th percentile under paragraph (b) of this subsection.
+(b) Each fiscal year, the Department of  Education shall rank school districts based on the ap-
+proved transportation  costs per ADM of each school district, ranking the school district with the
+highest approved transportation costs per ADM at the top of the order.
+(4)(a) Facility Grant = 8 percent of total construction costs of new school buildings.
+[2]
+HB 2895
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+(b) A school district shall receive a Facility Grant in the distribution year that a new  school
+building is first used.
+(c) As used in this subsection:
+(A) “New school building” includes  new school buildings, structures added onto existing school
+buildings and premanufactured structures added to a school district if those buildings or  structures
+are to be used for instructing students.
+(B) “Construction costs” does not include costs for land acquisition.
+SECTION 2.
+The amendments to ORS 327.013 by section 1 of this 2023 Act  apply to State
+School Fund distributions commencing with the 2023-2024 distributions.
+SECTION 3. This 2023 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2023 Act takes effect
+July 1, 2023.
+[3]

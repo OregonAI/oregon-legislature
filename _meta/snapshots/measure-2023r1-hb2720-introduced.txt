@@ -1,0 +1,148 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2720
+Sponsored by Representative HELM, Senator DEMBROW,  Representative SMITH DB; Senator LIEBER (Presession
+filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs Department of Transportation to establish grant program for fuel cell  electric vehicle
+and hydrogen fueling demonstration projects. Appropriates moneys from General Fund to department
+for grant program.
+Requires department to study existing state statutes, regulations, rules and policies that  may
+impede or hinder wide-scale adoption and use of fuel cell  electric vehicles and hydrogen fueling.
+Directs department to submit findings and recommendations to  interim committees of Legislative
+Assembly related to energy and economic development not later than September 15, 2024.
+A BILL FOR AN ACT
+Relating to hydrogen.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section, “fuel cell electric vehicle” mean  a fully electric
+vehicle that generates its  own electricity by combining oxygen from the air with hydrogen
+from an onboard storage tank, emitting only water vapor and heat from the vehicle.
+(2) The Department  of Transportation shall establish a program to award grants to public
+and private entities for projects that demonstrate the  potential for wide-scale adoption and
+use of fuel cell electric vehicles and hydrogen fueling in the state’s transportation sector.
+(3)(a) A grant awarded under this section  may be used to plan and develop a project that
+demonstrates, with regard to hydrogen fuel:
+(A) Production;
+(B) Delivery;
+(C) Storage;
+(D) Use of public or private fueling stations and dispensing to end-users;
+(E) Utilization by a fleet of fuel cell electric  vehicles, such as at a port or warehouse or
+by a public transportation system or commercial vehicles; or
+(F) Utilization by individual or privately owned vehicles.
+(b) The department shall give priority when awarding grants to demonstration  projects
+that reflect all stages of the hydrogen fuel market from production to end use.
+(4)(a) The department shall adopt rules to administer the grant program and establish:
+(A) Grant application procedures and criteria for grant approval; and
+(B) Procedures for revocation  of grants to recipients failing to comply with the criteria
+established by the department pursuant to this section.
+(b) At a minimum the rules must provide for the Director of Transportation to:
+(A) Convene an advisory committee  to evaluate applications and recommend grant
+awards under this section;
+(B) After reviewing the  recommendation from the advisory committee, approve or deny
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1487
+HB 2720
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+an application for a grant and set the amount of the grant awarded to the grant recipient;
+(C) Monitor grant recipients for compliance with grant criteria established by the  de-
+partment pursuant to this section; and
+(D) Evaluate the efficacy of completed demonstration projects.
+SECTION 2.
+(1) As  used in this section, “fuel cell electric vehicle” mean a fully electric
+vehicle that generates its own electricity by combining oxygen from the  air with hydrogen
+from an onboard storage tank, emitting only water vapor and heat from the vehicle.
+(2) The Department of Transportation shall conduct a study of existing state  statutes,
+regulations, rules and policies that may impede or hinder the wide-scale  adoption and use
+of fuel cell electric vehicles and hydrogen fueling in this state.
+(3) The study shall include, but is not limited to, the following evaluations:
+(a) The use of hydrogen fuel for transportation  in this state, assuming no restrictions for
+transportation through tunnels or bridges or by ferry;
+(b) The process for permitting and siting hydrogen fueling infrastructure,  including hy-
+drogen fueling stations;
+(c) The permitting process to convert existing vehicle maintenance structures,  such as
+vehicle repair shops, to be able to maintain or repair fuel cell electric vehicles;
+(d) Existing length and weight restrictions for medium and heavy-duty  vehicles and me-
+dium and heavy-duty fuel cell electric vehicles; and
+(e) Existing statutory definitions of zero-emission vehicles, alternative  fuel vehicles and
+electric vehicles, and whether existing statutory definitions cover fuel cell electric vehicles.
+(4) The department shall  provide recommendations on the wide-scale adoption and use
+of hydrogen fuel for transportation in this state and for changes  to existing state statutes,
+regulations, rule and  policies that may enable or support the use of fuel cell electric vehicles
+and hydrogen fueling.
+(5) The department shall provide  the findings and recommendations of the study in a
+report that may include recommendations for legislation, in the manner  provided in ORS
+192.245, to the interim committees  of the Legislative Assembly related to energy and eco-
+nomic development no later than September 15, 2024.
+SECTION 3.
+Section 2 of this 2023 Act is repealed on January 2, 2025.
+SECTION 4. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Department of Transportation, for  the biennium beginning July 1, 2023, out of the
+General Fund,  the amount of $25,000,000, for the fuel cell electric vehicle and hydrogen fuel-
+ing demonstration projects grant program established  pursuant to section 1 of this 2023 Act.
+[2]

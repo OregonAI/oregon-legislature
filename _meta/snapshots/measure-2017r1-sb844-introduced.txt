@@ -1,0 +1,211 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Senate Bill 844
+Sponsored by COMMITTEE ON JUDICIARY
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Authorizes Department of Corrections to collect  portion of certain moneys in inmate trust ac-
+count for transitional fund and payment  of court-ordered financial obligations. Directs Department
+of Justice and Judicial Department to provide Department of Corrections with  accounting of court-
+ordered financial obligations.  Specifies procedures for collection and disbursement of moneys and
+prioritization of payments.
+A BILL FOR AN ACT
+Relating to inmate trust account moneys.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Collected moneys” means moneys that have  been collected from an inmate trust
+account by the Department of Corrections pursuant to this section.
+(b) “Court-ordered financial obligation” means:
+(A) A compensatory fine imposed pursuant to ORS  137.101, an award of restitution as
+defined in ORS 137.103 or any  other fines or court-appointed attorney fees associated with
+an inmate’s criminal conviction;
+(B) A child support obligation;
+(C) A civil  judgment including a money award for a crime victim entered against an in-
+mate resulting from a crime committed by the inmate; or
+(D) A civil judgment including  a money award entered against an inmate resulting from
+an action  for the inmate’s assault or battery of a Department of Corrections or Oregon
+Corrections Enterprises employee.
+(c) “Eligible moneys” means  moneys deposited in an inmate trust account that are sub-
+ject to collection under this  section, including but not limited to inmate performance mone-
+tary awards  and moneys received from an inmate’s family members or friends. “Eligible
+moneys” does not include protected moneys.
+(d) “Inmate” means a person who  is at least 18 years of age and in the physical custody
+of the Department of Corrections. “Inmate” does not include:
+(A) A person on leave from prison due to participation in an  alternative incarceration
+program established under ORS 421.504 or short-term transitional leave under ORS 421.168.
+(B) A person transferred into or  out of department custody pursuant to an interstate
+corrections compact.
+(C) A person in the physical custody of the Oregon Youth Authority.
+(D) A person in the physical custody of a county jail or other county detention facility.
+(e) “Protected  moneys” means moneys deposited in an inmate trust account that are not
+subject to collection  under state or federal law or under this section including but not limited
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1357
+SB 844
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to:
+(A) Disability benefits for veterans;
+(B) Moneys received from a Native American tribe or tribal government;
+(C) Moneys dedicated for medical, dental or optical expenses or emergency trips;
+(D) Railroad retirement benefits; or
+(E) Moneys paid as compensation to an inmate  in a prison work program established
+under the Prison Industries  Enhancement Certification Program, or a successor program
+designated by the United States Director of the Bureau of Justice  Assistance pursuant to 18
+U.S.C. 1761.
+(2)(a) The  Department of Corrections shall collect eligible moneys from an inmate trust
+account if the inmate owes court-ordered financial obligations as described in this section.
+(b) Notwithstanding any other provision of this section, the  department may deduct a
+fixed percentage of each inmate performance monetary award made to  an inmate, to be
+credited to a general victims assistance fund, before crediting  the remainder of the award
+to the inmate trust account.
+(3)(a) The Department of Justice and the Judicial Department shall provide an accounting
+to the Department  of Corrections of court-ordered financial obligations, if any, owed by each
+inmate. The accounting records may be provided electronically in a format agreed upon by
+the departments.
+(b) Upon receipt of  the accounting records described in paragraph (a) of this subsection,
+the Department of Corrections shall collect a portion of eligible moneys from the  inmate
+trust account of each inmate as follows:
+(A) Until an inmate not sentenced to death or to life imprisonment without the possibility
+of release or parole has $500 in a transitional fund to facilitate reentry after  release, 10
+percent of eligible moneys shall be collected  for court-ordered financial obligations and five
+percent of  eligible moneys shall be collected and transferred to the inmate’s transitional
+fund.
+(B) After the inmate has at least $500 in the transitional fund, or  if the inmate has been
+sentenced to death  or to life imprisonment without the possibility of release or parole, the
+department shall collect 15 percent of eligible moneys for court-ordered financial obligations.
+(C) After court-ordered financial obligations have been  paid, an inmate not sentenced to
+death or to life imprisonment without the possibility of  release or parole may elect to con-
+tinue to transfer five percent of eligible moneys into the transitional fund.
+(4) There are three levels of priority for  the application of collected moneys to court-
+ordered financial obligations, with Level I obligations having the highest priority and Level
+III obligations having the lowest priority. The levels are as follows:
+(a) Level I obligations are compensatory fines imposed pursuant to ORS 137.101,  awards
+of restitution defined in ORS 137.103 and fines and court-appointed attorney fees payable  to
+the state resulting from the inmate’s criminal action.
+(b) Level II obligations are child support obligations  and civil judgments including a
+money award for a crime victim entered against an inmate resulting from a crime committed
+by the inmate.
+(c) Level III obligations are civil judgments including a  money award entered against an
+inmate resulting from an action for the inmate’s  assault or battery of a Department of
+Corrections or Oregon Corrections Enterprises employee.
+[2]
+SB 844
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+(5)(a) After receiving the accounting records  described in subsection (3) of this section,
+the Department of Corrections shall  disburse the collected moneys for court-ordered finan-
+cial obligations to the Department of Justice and the Judicial Department.
+(b) The Department of Justice and the Judicial Department shall apply  the collected
+moneys received from the Department of Corrections under this subsection to an inmate’s
+court-ordered financial obligations according to the priority levels of the obligations.
+(6)(a) The Department of Justice  may create a subaccount in which to deposit the col-
+lected moneys received from the Department of Corrections under this section.
+(b) The  Judicial Department may create a subaccount in which to deposit the collected
+moneys received from the Department of Corrections under this section.
+(c) The Department of Corrections may create subaccounts for the purposes of storing
+collected moneys prior to disbursement under this section.
+(7) The Department  of Corrections, the Department of Justice and the Judicial Depart-
+ment may adopt rules to implement this section.
+SECTION 2. (1) Section 1 of this 2017 Act becomes operative on June 30, 2018.
+(2) The Department of Corrections, the Department of Justice and the  Judicial Depart-
+ment may take any action before the operative date specified in subsection  (1) of this section
+that is necessary to enable the departments, on and after the  operative date specified in
+subsection (1) of this section, to exercise the duties, functions and powers  conferred on the
+departments by section 1 of this 2017 Act.
+[3]

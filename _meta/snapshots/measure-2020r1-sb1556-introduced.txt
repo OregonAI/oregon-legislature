@@ -1,0 +1,148 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+80th OREGON LEGISLATIVE ASSEMBLY--2020 Regular Session
+Senate Bill 1556
+Sponsored by Senator JOHNSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Authorizes Oregon Liquor Control Commission to create data and analysis regarding commer-
+cial sales and  commercial industries. Authorizes commission to contract for services related to
+creating, marketing, selling or licensing use of data and analysis.
+Establishes Oregon Liquor Control Commission  Information Technology Infrastructure Fund.
+Appropriates fund moneys to commission for paying costs related to data and analysis  program and
+for procuring, operating, maintaining, staffing and servicing information  system hardware, software
+and supplies related to operational or revenue generating functions of commission. Appropriates
+commission net share of revenue from data and analysis program to fund.
+Authorizes commission to negotiate certain  distilled liquor prices with Indian tribes and com-
+mercial airlines.
+A BILL FOR AN ACT
+Relating to the Oregon Liquor Control Commission.
+Be It Enacted by the People of the State of Oregon:
+DATA, ANALYSIS AND INFORMATION SYSTEMS
+SECTION 1.
+(1) The Oregon Liquor Control Commission may create reports and  analysis
+of commission data regarding commercial  sales and commercial industries. The commission
+may market, sell, license the  use of or offer other forms of value-added access to data and
+analysis described in this subsection to private entities.
+(2) The commission may enter into contracts with private entities for the entities to:
+(a) Capture and compile commission data to create reports and analysis regarding com-
+mercial sales and commercial industries; and
+(b) Receive a  share of revenue derived by the commission from selling or licensing the
+use of the data and analysis.
+(3) Commission data that a private entity captures or compiles under  an agreement de-
+scribed in subsection (2) of this section is proprietary information of the commission.
+(4) The commission may enter into contracts with private entities for the entities to ac-
+cept payments, and distribute  shares of revenue, from sales or licenses for use of data and
+analysis described in subsection (1) of this section or any systems,  processes or business
+models developed from that data or analysis.
+(5) The commission shall ensure that data and  analysis that the commission sells or li-
+censes for use are in a format that preserves anonymity of the source and do  not contain
+personally identifiable information.
+(6) The commission may adopt rules to:
+(a) Ensure that personally identifiable information is not included in data or analysis;
+(b) Control the use of data and analysis; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 120
+SB 1556
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+(c) Establish prices or fees for the purchasing of, or other access to, data and analysis.
+(7) Net revenue from selling  or licensing the use of data and analysis described in this
+section remaining after payments of revenue shares to private entities described  under sub-
+section (2) or (4) of this section shall be  deposited to the Oregon Liquor Control Commission
+Information Technology Infrastructure Fund established under section 2 of this 2020 Act.
+SECTION 2.
+The Oregon Liquor Control Commission Information Technology
+Infrastructure Fund is established in the State Treasury, separate and distinct from  the
+General Fund. Interest earned by the Oregon Liquor Control Commission Information
+Technology Infrastructure Fund shall be credited  to the fund. Moneys in the fund are con-
+tinuously appropriated to the Oregon Liquor Control Commission for the purposes of:
+(1) Paying costs directly or indirectly related to the duties, functions and powers of the
+commission under section 1 of this 2020 Act; and
+(2) Procuring, operating, maintaining, staffing or servicing  information system hardware,
+software and supplies directly or indirectly related  to supporting the operational or revenue
+generating functions of the commission. Commission actions under this subsection  to im-
+prove information technology must be carried out in  accordance with Oregon Department
+of Administrative Services procurement  policies and the Enterprise Information Resources
+Management Strategy.
+PRICE NEGOTIATIONS
+SECTION 3.
+Sections 4 and 5 of  this 2020 Act are added to and made a part of ORS
+chapter 471.
+SECTION 4. Notwithstanding ORS 471.175, an Indian tribe that  holds a full on-premises
+sales license may purchase distilled liquor for sale by the drink on tribal reservation  land
+directly from the Oregon Liquor Control Commission at  a price negotiated by the Indian
+tribe and the commission.
+SECTION 5. Notwithstanding ORS 471.175, an airline described in ORS 471.182  that holds
+a full on-premises sales license may purchase  distilled liquor for sale to ticketed passengers
+aboard a commercial aircraft directly from the Oregon Liquor  Control Commission at a price
+negotiated by the airline and the commission.
+CAPTIONS
+SECTION 6. The unit captions used in this 2020 Act are provided only for the convenience
+of the reader and do not become part of the statutory law of this state or express  any leg-
+islative intent in the enactment of this 2020 Act.
+[2]

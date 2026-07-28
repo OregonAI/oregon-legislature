@@ -1,0 +1,236 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Senate Bill 1032
+Sponsored by Senator DEVLIN;  Senators BAERTSCHIGER JR, BEYER, BOQUIST, BURDICK, FREDERICK,
+GIROD, HASS, KRUSE, MANNING  JR, MONNES ANDERSON, MONROE, OLSEN, PROZANSKI, RILEY,
+ROBLAN, STEINER HAYWARD, TAYLOR, Representatives ALONSO LEON,  BARKER, CLEM, FAHEY,
+GORSEK, HUFFMAN, JOHNSON, MCKEOWN, MCLANE, MEEK,  NOSSE, REARDON, SMITH DB,
+SOLLMAN, WHISNANT
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Amends Oregon Promise program to remove prohibition on awarding  more than $10 million in
+grants per fiscal year. Makes requirement that person participating in  program pay $50 per term in
+tuition payable by reducing amount of  grant awarded, instead of requiring separate payment by
+person.
+A BILL FOR AN ACT
+Relating to the Oregon Promise program; amending ORS 341.522.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 341.522, as amended by section 1, chapter 75, Oregon Laws 2016, is  amended
+to read:
+341.522. (1) The Office of Student Access and Completion  shall administer the Oregon Promise
+program as provided by this section.
+(2) Subject to subsections (5) and (6) of this section, the office shall  provide a [ waiver of
+tuition] grant  for community college  courses to a person who meets the criteria described in sub-
+sections (3) and (4) of this section. The [ waiver] grant  shall be [ a grant and ] limited as provided  by
+subsections (5) and (6) of this section.
+(3) A grant shall be awarded under this section to a person who meets the following criteria:
+(a) Is enrolled in courses that are:
+(A) Offered at a community college in this state; and
+(B) Determined  by the office, in accordance with rules adopted by the Higher Education Coor-
+dinating Commission, to be required for completion of:
+(i) A one-year curriculum for students who plan to  transfer to another post-secondary institution
+of education;
+(ii) An associate degree; or
+(iii) A program in career and technical education;
+(b) Has been a  resident of this state for at least 12 months prior to enrolling in the courses
+described in paragraph (a) of this subsection;
+(c) Attained the person’s highest level of education in this state prior to:
+(A) Receiving a diploma under ORS 329.451;
+(B) Receiving a General Educational Development  (GED) certificate as provided by ORS 350.175;
+(C) Completing grade 12 in compliance with the requirements of ORS 339.035; or
+(D) Completing grade 12 at a private or parochial school, as described in ORS 339.030 (1)(a);
+(d) Attained the person’s highest level of education as  described in paragraph (c) of this sub-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4304
+SB 1032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+section within six months from the date that the person  first enrolls in courses described in para-
+graph (a) of this subsection for the purpose of receiving a grant under this section;
+(e) Earned a cumulative grade point  average of 2.5 or better in high school or otherwise dem-
+onstrated an equivalent academic ability, as determined by the office according to rules adopted  by
+the commission;
+(f) Completed and submitted the Free Application for Federal Student Aid for  each academic
+year and accepted all state and federal aid grants  available to the person, if eligible to file the ap-
+plication; and
+(g) Has not completed either of the following:
+(A) More than a total of 90 credit hours, or the equivalent, at a post-secondary  institution of
+education; or
+(B) A curriculum, degree or program, as described in paragraph (a)(B) of this subsection.
+(4)(a) A person continues to remain eligible  to receive a grant under this section if the person,
+in addition to satisfying the criteria specified in subsection (3) of  this section, meets the following
+criteria:
+(A) Maintains at least the minimum cumulative grade point average prescribed by the  commis-
+sion based on federal aid grant requirements;
+(B) Makes satisfactory academic  progress toward a curriculum, degree or program, as described
+in subsection (3)(a)(B) of this section, as prescribed by the commission based on federal  aid grant
+requirements;
+(C) Enrolls in courses described in subsection (3)(a) of this section  for a sufficient number of
+credit hours to be considered at least a half-time  student each term for at least three terms in each
+consecutive academic year; and
+(D) Completes a first-year experience, as identified by the community college  and reported by
+the community college to the commission.
+(b) A person who fails to meet an eligibility requirement  described in paragraph (a) of this
+subsection becomes ineligible to receive a grant  under this section for the term after which the
+person fails to meet the  eligibility requirement, unless the eligibility requirement is waived by the
+office according to rules adopted by the commission.
+(5)(a) The total amount of a grant awarded under this section shall be based on each term  that
+a person is enrolled in courses described in subsection (3)(a) of  this section. After the amount of
+tuition for the person for the term is [ reduced by $50, to be paid by the  person, and ] reduced by any
+amounts received by the person in state and federal aid grants, the person shall be  eligible for a
+grant under this section in an amount that equals:
+(A) Except as provided by [ paragraph] paragraphs (b)  and (c)  of this subsection, not less than
+the greater of:
+(i) $1,000; and
+(ii) The person’s actual cost for tuition.
+(B) Not more than the lesser of:
+(i) The average cost of tuition at a community  college in this state, as determined by the office;
+and
+(ii) The person’s actual cost for tuition.
+(b) The amount of a grant, as calculated under paragraph (a) of this subsection, shall  be
+reduced by $50 for each term that the person receives a grant under this section.
+[(b)] (c) The minimum amount of a grant, as calculated under paragraph (a) of this subsection,
+[2]
+SB 1032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+may be prorated for a person who is enrolled in courses described  in subsection (3)(a) of this section
+for a sufficient number  of credit hours to be considered at least a half-time student but not a full-
+time student.
+[(c)] (d) The commission may prescribe  by rule whether to include fees, and any limitations re-
+lated to the inclusion of fees, when determining the actual cost of  tuition or the average cost of
+tuition under this subsection.
+(6) [The total amount in grants awarded under  this section by the office may not exceed $10 million
+per fiscal year, or any lesser amount available to the office for the purpose of this section. ] The  com-
+mission may adopt  by rule the priority by which grants are awarded, which may allow for preference
+to be given to persons enrolled in school districts or high schools that meet specified criteria.
+(7) The commission  shall adopt any rules necessary for the administration of this section, in-
+cluding any requirements related to:
+(a) Specifying the form and timelines for submitting an application for a grant under this section;
+(b) Determining whether a person is eligible for a grant under  this section, including whether
+the person shall be given priority as allowed under subsection (6) of this section;
+(c) Implementing programs or  policies that improve the academic success or completion rates for
+persons who receive a grant under this section;
+(d) Prescribing eligibility requirements and grant calculations for persons dually enrolled in a
+community college and a public university; and
+(e) Evaluating the impact of the program established under this section, including any  require-
+ments for reporting data needed for evaluations.
+(8) No  later than December 31 of each even-numbered year, the commission shall submit to an
+interim legislative committee related to education a report  that summarizes the commission’s
+findings on the impact of the program established under this section. The report shall include:
+(a) Student completion rates of curricula, degrees and programs described in subsection (3)(a)(B)
+of this section;
+(b) The amount of federal aid grants received by persons who received a grant under this  sec-
+tion;
+(c) The financial impact of the program on school districts  that had students receive a grant
+under this section;
+(d) The financial impact and the enrollment impact of the program on  community colleges and
+public universities in this state; and
+(e) The overall success rate of the program and financial impact of the program.
+[3]

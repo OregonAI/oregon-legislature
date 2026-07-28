@@ -1,0 +1,150 @@
+79th OREGON LEGISLATIVE ASSEMBLY--2018 Regular Session
+Enrolled
+House Bill 4143
+Introduced and printed pursuant to House  Rule 12.00. Presession filed (at the request of Governor
+Kate Brown)
+CHAPTER .................................................
+AN ACT
+Relating to drugs; creating new provisions; amending ORS 431A.855; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Director of the Department of Consumer and Business  Services, in
+consultation with the Oregon Health Authority, shall study and report on  existing barriers
+to effective treatment for and  recovery from substance use disorders, including addictions
+to opioids and opiates, that are a result of current structures of  payment for treatment and
+recovery services in  both publicly and privately funded health systems in Oregon. The report
+must including findings on:
+(a) The  impact of reimbursement systems, rules and requirements established by coor-
+dinated care organizations and third-party payers on access to treatment and recovery ser-
+vices for substance use disorders, including access  to evidence-based treatment and
+medication-assisted treatment;
+(b) Existing structures for  reimbursement of substance use disorder treatment, including
+the use of the least costly treatment option before any other treatment options;
+(c) The classification of substance use disorder as an acute illness rather  than a chronic
+illness;
+(d) Access to medication-assisted treatment for substance use  disorders in rural and
+underserved areas of this state; and
+(e) Substance use disorder treatment options other than medication-assisted treatment.
+(2) The director, in consultation  with the Department of Corrections, shall study the ease
+of and barriers to access to medication-assisted treatment for individuals entering into and
+leaving custody of the Department of Corrections, and shall  include findings from the study
+described in this subsection in the report described in subsection (1) of this section.
+(3) The  director shall submit the report described in subsection (1) of this section in the
+manner provided in  ORS 192.245, and shall include recommendations for legislation, to an
+interim committee of the Legislative  Assembly related to public health not later than June
+30, 2018.
+SECTION 2.
+Section 1 of this 2018 Act is repealed on January 2, 2019.
+SECTION 3. (1) The Oregon Health Authority shall establish a pilot project for the pur-
+pose of  determining the effectiveness of establishing immediate access to appropriate
+evidence-based treatment for persons who  suffer opioid and opiate overdoses. The pilot
+project may include:
+Enrolled House Bill 4143 (HB 4143-A) Page 1
+(a) Creating a direct  link between an emergency department and appropriate treatment
+and resources, including the availability of medication-assisted  treatment in the emergency
+department;
+(b) Using peer recovery support mentors to facilitate the link  between an emergency
+department and appropriate treatment and resources; and
+(c) Any other programming aimed at reducing deaths  caused by opioid and opiate over-
+doses by providing persons  who suffer opioid and opiate overdoses with immediate access to
+appropriate treatment and resources.
+(2) The authority shall implement the pilot  project in Coos, Jackson, Marion and
+Multnomah Counties.
+(3) At least twice each year, the counties listed in subsection (2)  of this section shall
+report to each other and the authority regarding the pilot project. The counties and the  au-
+thority may jointly determine the form and content of the  reporting required under this
+subsection.
+(4) Not later than December 31 of each year, the authority shall submit, in  the manner
+provided in ORS 192.245,  a report on the efficacy and implementation of the pilot project
+described in this section, and  may include any recommendations for legislation, to an interim
+committee of the Legislative Assembly related to public health.
+(5) The authority may adopt rules to carry out this section.
+SECTION 4.
+There is appropriated to the  Oregon Health Authority, out of the General
+Fund, the amount of $2,000,000 for the purpose of carrying out the  provisions of section 3
+of this 2018 Act. This appropriation is available continuously until the  earlier of the date on
+which the amount is expended for the purpose specified in this section or January 2, 2021.
+SECTION 5. Section 3 of this 2018 Act is repealed on January 2, 2021.
+SECTION 6. Section 7 of this 2018 Act is added to and made a part of  ORS 431A.855 to
+431A.900.
+SECTION 7. (1) In order to ensure the development, administration and evaluation  of
+best practices for prescribing opioids and opiates, a practitioner shall register with the
+electronic system established under ORS 431A.855.
+(2) The Oregon Health Authority may adopt rules to administer this section.
+SECTION 8.
+ ORS 431A.855 is amended to read:
+431A.855. (1)(a) The Oregon Health Authority, in consultation with the Prescription Monitoring
+Program Advisory Commission, shall establish and maintain a prescription  monitoring program for
+monitoring and reporting:
+(A) Prescription drugs dispensed by pharmacies licensed by the State  Board of Pharmacy that
+are classified in schedules II through IV under the federal Controlled  Substances Act, 21 U.S.C. 811
+and 812, as modified by the board by rule under ORS 475.035; and
+(B) Prescribed naloxone dispensed by pharmacies.
+(b)(A) To fulfill  the requirements of this subsection, the authority shall establish, maintain and
+operate an electronic system to monitor and report drugs described in paragraph (a) of this sub-
+section that are dispensed by prescription.
+(B) The electronic system must :
+(i) Operate and be accessible by practitioners  and pharmacies 24 hours a day, seven days a
+week; and
+(ii) Allow practitioners to register  as required under section 7 of this 2018 Act and to
+apply for access to the electronic system  in accordance with rules adopted by the authority
+under subsection (2) of this section .
+(C) The authority may contract with a state agency or private entity to ensure the effective
+operation of the electronic system.
+(2) In consultation with the commission, the authority shall adopt rules  for the operation of the
+electronic  prescription  monitoring program established under subsection (1) of this section, including
+standards for:
+Enrolled House Bill 4143 (HB 4143-A) Page 2
+(a) Reporting data;
+(b) Providing maintenance, security and disclosure of data;
+(c) Ensuring accuracy and completeness of data;
+(d) Complying with the  federal Health Insurance Portability and Accountability Act of 1996 (P.L.
+104-191) and regulations adopted under that law, including  45 C.F.R. parts 160 and 164, federal al-
+cohol and drug treatment confidentiality laws and regulations adopted under  those laws, including
+42 C.F.R. part 2,  and state health and mental health confidentiality laws, including ORS 179.505,
+192.517 and 192.553 to 192.581;
+(e) Ensuring accurate identification of persons or entities requesting information  from the da-
+tabase;
+(f) Accepting printed or nonelectronic reports from pharmacies that do not  have the capability
+to provide electronic reports; [ and]
+(g) Notifying a patient, before or when a drug classified  in schedules II through IV is dispensed
+to the patient, about the prescription monitoring program and the  entry of the prescription in the
+electronic system ; and
+(h) Registering practitioners with the electronic system .
+(3) The authority shall submit an annual report to  the commission regarding the prescription
+monitoring program established under this section.
+SECTION 9.
+(1) Section 3 of this 2018 Act becomes operative on January 1, 2019.
+(2) The Oregon Health Authority may take  any action before the operative date specified
+in subsection (1) of this section that is  necessary to enable the authority to exercise, on and
+after the operative date specified  in subsection (1) of this section, all of the duties, functions
+and powers conferred on the authority by section 3 of this 2018 Act.
+SECTION 10. (1) A practitioner shall register  as required by section 7 of this 2018 Act
+not later than July 1, 2018.
+(2) Subsection (1) of this section applies to a person who:
+(a) Is a practitioner on the effective date of this 2018 Act; or
+(b) Becomes a practitioner before July 1, 2018.
+SECTION 11.
+This 2018 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2018 Act takes effect
+on its passage.
+Enrolled House Bill 4143 (HB 4143-A) Page 3
+Passed by House March 1, 2018
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate March 2, 2018
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2018
+Approved:
+........................M.,........................................................., 2018
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2018
+..................................................................................
+Dennis Richardson, Secretary of State
+Enrolled House Bill 4143 (HB 4143-A) Page 4

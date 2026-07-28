@@ -1,0 +1,448 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-sb1557
+title: 'SB 1557 (2026R1): Modifies provisions relating to contempt proceedings.'
+doc_type: dataset_doc
+citation: 2026 Regular Session Senate Bill 1557
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1557/Enrolled
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: 19fdb427e474cc4ec515c2e5c7a5804ed04fc356e84494dc0bc3bf01eb269d48
+snapshot_id: measure-2026r1-sb1557-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 107.728
+  - ORS 107.835
+  - ORS 109.232
+  - ORS 131.335
+  - ORS 133.055
+  - ORS 135.230
+  - ORS 161.685
+  - ORS 192.311
+  - ORS 192.324
+  - ORS 33.015
+  - ORS 33.055
+  - ORS 33.065
+  - ORS 33.075
+  - ORS 33.105
+  - ORS 33.145
+  - ORS 44.415
+  - ORS 476.274
+  - ORS 476.276
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- sb
+session_key: 2026R1
+measure_prefix: SB
+measure_number: 1557
+prefix_meaning: Senate Bill
+catch_line: Modifies provisions relating to contempt proceedings.
+minority_catch_line: null
+measure_summary: "\t<b>Digest: Changes some laws about contempt of court. The Act changes some laws about\
+  \ surrogacy contracts. (Flesch Readability Score: 63.8).</b> \n\t[<i>Digest: Changes some laws about\
+  \ contempt of court. (Flesch Readability Score: 78.8).</i>] \n\tModifies provisions relating to contempt\
+  \ proceedings. \n\t<b>Modifies provisions relating to the confidentiality of surrogacy agreements.</b>"
+relating_to: Relating to courts; and prescribing an effective date.
+relating_to_full: Relating to courts; and prescribing an effective date.
+at_the_request_of: (at the request of Chief Justice Meagan A. Flynn for Judicial Department)
+lc_number: 246
+measure_created_date: '2026-01-16T09:01:20'
+measure_modified_date: '2026-04-28T12:29:23'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 21363
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 107.728
+  - ORS 107.835
+  - ORS 109.232
+  - ORS 131.335
+  - ORS 133.055
+  - ORS 135.230
+  - ORS 161.685
+  - ORS 192.311
+  - ORS 192.324
+  - ORS 33.015
+  - ORS 33.055
+  - ORS 33.065
+  - ORS 33.075
+  - ORS 33.105
+  - ORS 33.145
+  - ORS 44.415
+  - ORS 476.274
+  - ORS 476.276
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1557`.
+
+# SB 1557 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1557, 2026 Regular Session (2026R1)
+- **At the request of:** (at the request of Chief Justice Meagan A. Flynn for Judicial Department)
+- **LC number:** 246
+- **Created:** 2026-01-16T09:01:20
+- **Metadata last modified (upstream):** 2026-04-28T12:29:23
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 21363 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1557/Enrolled>.
+
+## Summary
+
+**Catchline:** Modifies provisions relating to contempt proceedings.
+
+**Relating to:** Relating to courts; and prescribing an effective date.
+
+<b>Digest: Changes some laws about contempt of court. The Act changes some laws about surrogacy contracts. (Flesch Readability Score: 63.8).</b> 
+ [<i>Digest: Changes some laws about contempt of court. (Flesch Readability Score: 78.8).</i>] 
+ Modifies provisions relating to contempt proceedings. 
+ <b>Modifies provisions relating to the confidentiality of surrogacy agreements.</b>
+
+**RelatingToFull (verbatim upstream field):** Relating to courts; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+Senate Bill 1557
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Chief Justice Meagan A. Flynn for Judicial Department)
+CHAPTER .................................................
+AN ACT
+Relating to courts; creating new provisions; amending ORS 33.055, 33.065,  33.075, 109.232 and
+476.274; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+CONTEMPT PROCEEDINGS
+SECTION 1.  ORS 33.055 is amended to read:
+33.055. (1) Except as otherwise provided in ORS  161.685, proceedings to impose remedial sanc-
+tions for contempt shall be conducted as provided in this section.
+(2) The following [ persons] contempt plaintiffs may initiate the proceeding [ by filing an action
+and may request that the contempt defendant be ordered to appear ]:
+(a) A party aggrieved by an alleged contempt of court.
+(b) A district attorney.
+(c) A city attorney.
+(d) The Attorney General.
+(e) Any other  person specifically authorized by statute to seek imposition of sanctions for con-
+tempt.
+(3) If the  alleged contempt is related to another proceeding, an action to initiate a proceeding
+to impose remedial sanctions must be filed in accordance with rules adopted under ORS 33.145.
+[(4) The person initiating a proceeding under this section shall  file supporting documentation or
+affidavits sufficient to give the contempt defendant notice of the specific acts alleged to constitute  con-
+tempt.]
+[(5)(a) The contempt defendant shall be served with the document initiating the  contempt action in
+the manner provided in ORCP 7.  The court may issue an order directing the contempt defendant to
+appear. Except as otherwise provided in paragraph (b) of this  subsection, the contempt defendant shall
+be personally served with the order to appear in the manner provided  in ORCP 7. If the contempt
+defendant is represented by counsel in a proceeding to which the action for contempt under this section
+is related, that counsel shall also be served with  the initiating instrument and any order to appear in
+the manner provided  in ORCP 9. The court may order service by a method other than personal service
+on the contempt  defendant or issue an arrest warrant if, based upon motion and supporting affidavit,
+the court finds that the contempt defendant cannot be personally served. ]
+Enrolled Senate Bill 1557 (SB 1557-A) Page 1
+(4) A contempt plaintiff shall initiate the proceeding by filing a complaint, an affidavit
+or declaration based on personal knowledge under penalty of perjury in the form required
+by ORCP 1 E and an ex parte motion  requesting that the contempt defendant be ordered to
+personally appear before the court. The affidavit or declaration and any other  supporting
+documentation is sufficient to give the contempt defendant notice of the specific acts alleged
+to constitute contempt.
+(5) The court may dismiss the  action at any time if the court determines that the con-
+tempt plaintiff has not established a prima facie case for the contempt action.
+(6) If the court orders the contempt defendant to appear:
+(a) The order must direct the parties to personally appear in court  on an identified date
+and time and state whether the proceeding will be held in person or remotely.
+(b) The contempt plaintiff shall serve the contempt  defendant with the order as provided
+in subsection (7) of this section.
+(c) Upon being  served, the contempt defendant may, but is not required to, file a re-
+sponsive pleading within 21 days. The court may grant a continuance for  good cause related
+to lack of or insufficiency of a responsive pleading.
+(d) The court may permit the use of provisional process under ORCP 83.
+(e) If the contempt plaintiff fails to appear  as directed in the order, the court may dis-
+miss or continue the action.
+(7)(a) Except as otherwise provided  in paragraph (b) of this subsection, the contempt
+plaintiff shall cause the contempt defendant to  be personally served in the manner provided
+in ORCP 7 D with the complaint, the affidavit or declaration, any  other supporting doc-
+umentation filed with the complaint, the ex parte motion and the order  to appear. If the
+contempt defendant is represented by counsel in a proceeding to which the action for con-
+tempt under this section is related, the contempt  plaintiff shall cause service upon the
+counsel in the manner provided in ORCP 9 with the same  documents required to be served
+on the contempt defendant under this paragraph. The court  may order service by a method
+other than personal service  on the contempt defendant or issue an arrest warrant if, based
+upon the motion  and supporting affidavit or declaration under penalty of perjury in the form
+required by ORCP 1 E, the court finds that the contempt  defendant cannot be personally
+served.
+(b) The contempt defendant shall be served by  substituted service if personal service is waived
+under ORS 107.835. If  personal service is waived under ORS 107.835, the contempt defendant shall
+be served by the method specified in the waiver.
+[(6)] (8) The court may impose a remedial sanction  only after affording the contempt defendant
+opportunity for a hearing tried to  the court. The contempt defendant may waive the opportunity for
+a hearing by stipulated order filed with the court.
+(9)(a) If the contempt defendant does not appear for the hearing scheduled  under sub-
+section (6) of this section:
+(A) The court may continue the hearing, issue an order or warrant pursuant to ORS
+33.075 or take other appropriate action.
+(B) The  contempt plaintiff may seek an order of default or judgment by default under
+ORCP 69, except that the requirement that  the plaintiff file a motion and supporting docu-
+ments may be satisfied by evidence presented at the hearing.
+(C) If  the contempt plaintiff seeks an order of default or judgment by default under ORCP
+69, the court may address default at the hearing.
+(b) If the court finds the  contempt defendant in default on the plaintiff’s motion as pro-
+vided in paragraph (a)(B) of this subsection, the court may:
+(A) Find the contempt defendant in contempt  of court if the court determines that the
+plaintiff satisfied the burden of proof; and
+(B) As appropriate in the absence of the contempt defendant, order the relief  sought or
+impose any other sanction necessary to cure the contempt as provided in ORS 33.105.
+Enrolled Senate Bill 1557 (SB 1557-A) Page 2
+(c) Nothing in this subsection allows the court to impose a sanction of confinement.
+[(7)] (10)(a) A contempt defendant has no right to a jury trial and, except as  provided in this
+section, has only those rights accorded to a defendant in a civil action.
+[(8)] (b) A contempt defendant is entitled to be represented by retained counsel. [ A court shall
+not impose on a contempt defendant a remedial sanction of confinement unless, before the  hearing is
+held, the contempt defendant is: ]
+(c) If the contempt defendant is not represented by counsel when appearing  before the
+court, the court shall inform  the contempt defendant of the right to retained counsel, and,
+if confinement has been sought as  a sanction, of the right to appointed counsel if the con-
+tempt defendant is financially eligible.
+(d) A court  may not impose a remedial sanction of confinement on a contempt defendant
+unless, before the hearing is held, the contempt defendant is:
+[(a)] (A) Informed that such sanction may be imposed; and
+[(b)] (B) Afforded the same right to appointed counsel  required in proceedings for the imposition
+of an equivalent punitive sanction of confinement.
+[(9) If the contempt defendant is not represented by counsel  when coming before the court, the court
+shall inform the contempt defendant  of the right to counsel, and of the right to appointed counsel if the
+contempt defendant is entitled to,  and financially eligible for, appointed counsel under subsection (8)
+of this section. ]
+[(10)] (11) Inability to comply with an order of the court is an affirmative defense.
+[(11)] (12) In any proceeding for imposition of a remedial sanction other than confinement, proof
+of contempt shall be by clear and convincing evidence. In any proceeding  for imposition of a reme-
+dial sanction of confinement, proof of contempt shall be beyond a reasonable doubt.
+(13)(a) Upon finding the contempt defendant in contempt  of court, the court may order
+the relief sought or impose any other sanction necessary to cure  the contempt as provided
+in ORS 33.105.
+(b) The court may also:
+(A) Require the contempt  defendant to pay the contempt plaintiff’s attorney fees and
+costs;
+(B) Continue the proceedings to allow  the contempt defendant to cure the contempt; and
+(C) Enter a general judgment dismissing  the action if the contempt defendant cures the
+contempt.
+(14)(a) Except as provided in paragraph (b) of this subsection, the court may grant  the
+prevailing party an award of attorney fees and costs under ORCP 68.
+(b) If the court dismisses the action based on the contempt defendant’s cure of the  con-
+tempt, the court may award attorney fees and  costs to the contempt plaintiff if the cure
+arose as a result of the plaintiff’s complaint.
+[(12)] (15) Proceedings under this section are subject to rules adopted under ORS 33.145. Pro-
+ceedings under this section are not subject to the  Oregon Rules of Civil Procedure except as pro-
+vided in [ subsection (5) ] subsections (4), (6), (7), (9) and (14)  of this section or as may be provided
+in rules adopted under ORS 33.145.
+SECTION 2.
+ ORS 33.065 is amended to read:
+33.065. (1) Except as otherwise provided in ORS 161.685, proceedings to impose punitive sanc-
+tions for contempt shall be conducted as provided in this section.
+(2) The following persons may initiate the proceeding  by an accusatory instrument charging a
+person with contempt of court and seeking a punitive sanction:
+(a) A city attorney.
+(b) A district attorney.
+(c) The Attorney General.
+(3) If a city attorney, district attorney or Attorney General who  regularly appears before the
+court declines to prosecute a  contempt, and the court determines that remedial sanctions would not
+provide an effective alternative remedy,  the court may appoint an attorney who is authorized to
+Enrolled Senate Bill 1557 (SB 1557-A) Page 3
+practice law in this state, and who is not counsel  for an interested party, to prosecute the contempt.
+The court shall allow reasonable compensation for the appointed attorney’s attendance, to  be paid
+by:
+(a) The Oregon Department of  Administrative Services, if the attorney is appointed by the Su-
+preme Court, the Court of Appeals or the Oregon Tax Court;
+(b) The city where the court is located, if the attorney is appointed by a municipal court; and
+(c) The county where the prosecution is initiated, in all other cases.
+(4) The prosecutor may  initiate proceedings on the prosecutor’s own initiative, on the request
+of a party to an action or proceeding or on the request of the court. After the prosecutor files an
+accusatory instrument, the court may issue any order or warrant  necessary to compel the appear-
+ance of the defendant.
+(5) Except as otherwise provided by this section, the accusatory instrument is subject to the
+same requirements and laws applicable  to an accusatory instrument in a criminal proceeding, and
+all proceedings on the accusatory instrument shall be in the manner prescribed for  criminal pro-
+ceedings.
+(6) Except for  the right to a jury trial, the defendant is entitled to the constitutional and stat-
+utory protections, including the right to appointed counsel, that  a defendant would be entitled to in
+a criminal proceeding in which the fine or term of imprisonment that could  be imposed is equivalent
+to the punitive sanctions sought in the contempt proceeding. This subsection does not  affect any
+right to a jury that may otherwise be created by statute.
+(7) Inability to comply with an order of the court is an  affirmative defense. If the defendant
+proposes  to  rely in any way on evidence of inability to comply with an order of the court, the de-
+fendant shall, not less than five days before the trial of the cause, file and serve upon the city at-
+torney, district attorney or Attorney General  prosecuting the contempt a written notice of intent
+to offer that evidence. If the defendant fails to file and serve the notice, the defendant  shall not be
+permitted to introduce evidence of inability to comply with an order of the court at  the trial of the
+cause unless the court, in its discretion, permits such evidence to be  introduced where just cause
+for failure to file the notice, or to file the notice within the time allowed, is made to appear.
+[(8) The court may impose a remedial sanction in addition to or in lieu of a punitive sanction. ]
+[(9)] (8) In any proceeding for imposition of a punitive sanction, proof of contempt shall be be-
+yond a reasonable doubt.
+(9) Upon finding the contempt defendant in contempt of court,  the court may impose a
+remedial sanction in addition to or in lieu of a punitive sanction.
+SECTION 3.
+ ORS 33.075 is amended to read:
+33.075. (1) If a [ person] contempt defendant served with an order  to appear under ORS 33.055
+fails to appear at the time and place  specified in the order, and in person or remotely as specified
+in the order,  the court may issue any order or warrant necessary to compel  the [ appearance of the
+defendant] contempt defendant’s personal appearance .
+(2) A person against  whom a complaint has been issued under ORS 33.065 may be cited to ap-
+pear in lieu of custody as provided in ORS 133.055. If the  person fails to appear at the time and
+place specified in the citation, the court may issue any order  or warrant necessary to compel the
+appearance of the defendant.
+(3) When the court issues  a warrant for contempt, the court shall specify a security amount.
+Unless the defendant pays the security amount upon arrest, the sheriff shall  keep the defendant in
+custody until either a release decision is made by the court or until disposition  of the contempt
+proceedings.
+(4) The defendant shall be discharged from the arrest upon executing  and delivering to the
+sheriff, at any time before the return day of the warrant, a security release or a release  agreement
+as provided in ORS 135.230 to 135.290, to the effect that the  defendant will appear on the return day
+and abide by the order or judgment of the court or officer  or pay, as may be directed, the sum
+specified in the warrant.
+Enrolled Senate Bill 1557 (SB 1557-A) Page 4
+(5) The sheriff shall return the warrant and  the security deposit, if any, given to the sheriff by
+the defendant by the return day specified in the warrant.
+(6) When a warrant for contempt issued under subsection (2) of this section has been  returned
+after having been served and the defendant does not appear on the return day, the court may  do
+either or both of the following:
+(a) Issue another warrant.
+(b) Proceed against the security deposited upon the arrest.
+(7) If the court proceeds against the security under subsection  (6) of this section and the sum
+specified is recovered, the court may award  to any party to the action any or all of the money re-
+covered as remedial damages.
+SECTION 4.
+ ORS 476.274 is amended to read:
+476.274. (1) At the request of the State Fire  Marshal, for the purpose of investigating liability
+for the actual cost, as defined in ORS 476.276, of  a fire, the Attorney General may administer oaths
+and affirmations, take testimony or depositions and by subpoena compel:
+(a) The attendance of witnesses;
+(b) The production of documents, including but not limited to writings, drawings, graphs, charts,
+photographs  and  other data compilations from which information can be obtained and translated;
+and
+(c) The production of any other tangible thing that the Attorney General  deems relevant or
+material to the investigation.
+(2) Each witness subpoenaed under subsection (1) of this section shall receive the fees and
+mileage provided in ORS 44.415 (2).
+(3) If a person fails to comply with a subpoena issued under  this section, or if a party or witness
+refuses to testify on any  matter under this section, the State Fire Marshal may petition the circuit
+court of any county to order the person to show cause why the person  has failed to comply with the
+subpoena and should not be held in contempt.
+(4) If the State Fire Marshal petitions a circuit court as described in subsection  (3) of this sec-
+tion, the State Fire Marshal shall serve the person  with the document initiating the contempt action
+as described in ORS 33.055 [ (5)(a)].
+(5) If the State Fire  Marshal petitions a circuit court as described in subsection (3) of this sec-
+tion and the person does not show good cause why the person has failed to comply with  the
+subpoena, the circuit court shall compel obedience with the subpoena by proceedings for contempt.
+SECTION 5.
+Section 6 of this 2026 Act is added to and made a part of ORS 33.015 to
+33.155.
+SECTION 6. (1) Except as provided in subsection (3)  of this section, an action to impose
+either remedial or punitive sanctions for  contempt under ORS 33.015 to 33.155 shall be com-
+menced and tried in:
+(a) The circuit court that issued  or entered the order or judgment that provides the basis
+for the alleged contempt;
+(b) The circuit court for a county in which a violation  of the order or judgment occurred;
+or
+(c) The county in which the  contempt defendant resides at the commencement of the
+action.
+(2) In  a punitive contempt proceeding, all objections of improper place of trial are waived
+by a contempt defendant unless the contempt  defendant objects in the manner set forth in
+ORS 131.335 to 131.363.
+(3) Subsection (1) of this section does not apply to contempt  proceedings subject to ORS
+107.728.
+PARENTAGE  PROCEEDINGS
+SECTION 7.  ORS 109.232 is amended to read:
+Enrolled Senate Bill 1557 (SB 1557-A) Page 5
+109.232. (1) [ A petition and any other document related  to a surrogacy agreement filed with the
+court shall be  sealed, ] A case for determination of parentage of a child born by assisted re-
+production under a gestational surrogacy agreement shall be confidential,  exempt from public
+disclosure under ORS 192.311 to 192.478 and may not be disclosed except:
+(a) To a party to the proceeding;
+(b) To a child conceived by assisted reproduction under the agreement;
+(c) To an attorney of a party to the proceeding or a child conceived  by assisted reproduction
+under the agreement;
+(d) The court; or
+(e) Pursuant to a court order for good cause shown, and subject  to the provisions of ORS
+192.324.
+[(2) The individual seeking  to inspect the document may be required to pay the expense of prepar-
+ing a copy of the document to be inspected. ]
+(2) If an individual authorized to  access the case seeks copies of case documents, the
+court may require the individual to pay the expense of preparing copies of the documents.
+SECTION 8.
+Upon the motion of a party to a  case described in ORS 109.232 that was in-
+itiated before September 29, 2025, the court shall make the case confidential  and subject to
+the confidentiality provisions prescribed in ORS 109.232.
+APPLICABILITY
+SECTION 9. Section 6 of this 2026  Act and the amendments to ORS 33.055, 33.065, 33.075
+and 476.274 by sections 1 to 4 of this 2026  Act apply to contempt proceedings initiated on or
+after January 1, 2027.
+SECTION 10. The amendments to ORS 109.232 by section 7 of this  2026 Act apply to cases
+initiated on or after September 29, 2025, and, upon motion of a party to the case, to cases
+initiated before September 29, 2025.
+CAPTIONS
+SECTION 11.
+The unit captions  used in this 2026 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2026 Act.
+DELAYED OPERATIVE DATE
+SECTION 12. Section 6 of this  2026 Act and the amendments to ORS 33.055, 33.065, 33.075
+and 476.274 by sections 1 to 4 of this 2026 Act become operative on January 1, 2027.
+EFFECTIVE DATE
+SECTION 13. This 2026 Act takes effect on the 91st day after the date on  which the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Enrolled Senate Bill 1557 (SB 1557-A) Page 6
+Passed by Senate February 19, 2026
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House March 3, 2026
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 1557 (SB 1557-A) Page 7
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 107.728, ORS 107.835, ORS 109.232, ORS 131.335, ORS 133.055, ORS 135.230, ORS 161.685, ORS 192.311, ORS 192.324, ORS 33.015, ORS 33.055, ORS 33.065, ORS 33.075, ORS 33.105, ORS 33.145, ORS 44.415, ORS 476.274, ORS 476.276
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-28, sha256 `19fdb427e474cc4ec515c2e5c7a5804ed04fc356e84494dc0bc3bf01eb269d48` (snapshot `_meta/snapshots/measure-2026r1-sb1557-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1557/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `5e9ad9626fabc929b954bde33936e54edde914ea158535cad16be424b92cc9f9` (snapshot `_meta/snapshots/measure-2026r1-sb1557-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1557/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1557` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

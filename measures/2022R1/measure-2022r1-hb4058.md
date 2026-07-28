@@ -1,0 +1,592 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2022r1-hb4058
+title: 'HB 4058 (2022R1): Directs Oregon Health Authority to create program to acquire and distribute
+  air conditioners and air filters on emergency basis to individuals eligible for medical assistance.'
+doc_type: dataset_doc
+citation: 2022 Regular Session House Bill 4058
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2022R1/Downloads/MeasureDocument/HB4058/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: c260f4946fe72e65ee12c881ca8614161288c231001f1931afe2af2d89c61c13
+snapshot_id: measure-2022r1-hb4058-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.101
+  - ORS 174.111
+  - ORS 174.116
+  - ORS 183.413
+  - ORS 192.245
+  - ORS 200.005
+  - ORS 284.754
+  - ORS 293.640
+  - ORS 414.025
+  - ORS 431A.400
+  - ORS 431A.402
+  - ORS 458.505
+  - ORS 469A.400
+  - ORS 62.803
+  - ORS 757.005
+  - ORS 757.392
+  - ORS 757.600
+  - ORS 757.695
+  - ORS 90.100
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2022r1
+- hb
+session_key: 2022R1
+measure_prefix: HB
+measure_number: 4058
+prefix_meaning: House Bill
+catch_line: Directs Oregon Health Authority to create program to acquire and distribute air conditioners
+  and air filters on emergency basis to individuals eligible for medical assistance.
+minority_catch_line: null
+measure_summary: "\tDirects Oregon Health Authority to create program to acquire and distribute air conditioners\
+  \ and air \t<i>purifiers</i>] <b>filters</b> on emergency basis to individuals eligible for medical\
+  \ assistance. Appropriates moneys to authority to implement program. \n\tAdds <b>Indian health center\
+  \ and</b> manufactured dwelling park nonprofit cooperative to list of entities eligible to participate\
+  \ in Healthy Homes Program. Clarifies electric utility as eligible entity. Adds improvements to reduce\
+  \ heat and electrical upgrades to types of repair and rehabilitation covered by program grants. \n\t\
+  Establishes Heat Pump Deployment Program within State Department of Energy to provide grants to entities\
+  \ to provide financial assistance to cover purchase and installation of heat pumps and related upgrades.\
+  \ Establishes Heat Pump Deployment Advisory Council. \n\tEstablishes Heat Pump Deployment Fund<b> and\
+  \ appropriates moneys for deposit into fund</b>. \n\t\t<i>Directs State Department of Energy to develop\
+  \ and submit report related to heat pump technician training programs no later than September 15, 2023.\
+  \ Sunsets January 2, 2024.</i>] \n\t\t<i>Directs Public Utility Commission to explore measures to address\
+  \ differentiated rates or energy assistance for ratepayers with higher utility bills during periods\
+  \ of extreme temperatures or poor air quality.</i>] \n\tDeclares emergency, effective on passage."
+relating_to: Relating to heat relief; declaring an emergency.
+relating_to_full: Relating to heat relief; creating new provisions; amending ORS 431A.400; and declaring
+  an emergency.
+at_the_request_of: (at the request of House Interim Committee on Environment and Natural Resources for
+  Representative Pam Marsh)
+lc_number: 144
+measure_created_date: '2022-01-14T13:00:23'
+measure_modified_date: '2022-02-22T10:14:06'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 30067
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.101
+  - ORS 174.111
+  - ORS 174.116
+  - ORS 183.413
+  - ORS 192.245
+  - ORS 200.005
+  - ORS 284.754
+  - ORS 293.640
+  - ORS 414.025
+  - ORS 431A.400
+  - ORS 431A.402
+  - ORS 458.505
+  - ORS 469A.400
+  - ORS 62.803
+  - ORS 757.005
+  - ORS 757.392
+  - ORS 757.600
+  - ORS 757.695
+  - ORS 90.100
+  from_relating_to_full:
+  - ORS 431A.400
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2022R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4058`.
+
+# HB 4058 — 2022 Regular Session (2022R1)
+
+## At a glance
+
+- **Measure:** House Bill 4058, 2022 Regular Session (2022R1)
+- **At the request of:** (at the request of House Interim Committee on Environment and Natural Resources for Representative Pam Marsh)
+- **LC number:** 144
+- **Created:** 2022-01-14T13:00:23
+- **Metadata last modified (upstream):** 2022-02-22T10:14:06
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 30067 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2022R1/Downloads/MeasureDocument/HB4058/Introduced>.
+
+## Summary
+
+**Catchline:** Directs Oregon Health Authority to create program to acquire and distribute air conditioners and air filters on emergency basis to individuals eligible for medical assistance.
+
+**Relating to:** Relating to heat relief; declaring an emergency.
+
+Directs Oregon Health Authority to create program to acquire and distribute air conditioners and air  <i>purifiers</i>] <b>filters</b> on emergency basis to individuals eligible for medical assistance. Appropriates moneys to authority to implement program. 
+ Adds <b>Indian health center and</b> manufactured dwelling park nonprofit cooperative to list of entities eligible to participate in Healthy Homes Program. Clarifies electric utility as eligible entity. Adds improvements to reduce heat and electrical upgrades to types of repair and rehabilitation covered by program grants. 
+ Establishes Heat Pump Deployment Program within State Department of Energy to provide grants to entities to provide financial assistance to cover purchase and installation of heat pumps and related upgrades. Establishes Heat Pump Deployment Advisory Council. 
+ Establishes Heat Pump Deployment Fund<b> and appropriates moneys for deposit into fund</b>. 
+  <i>Directs State Department of Energy to develop and submit report related to heat pump technician training programs no later than September 15, 2023. Sunsets January 2, 2024.</i>] 
+  <i>Directs Public Utility Commission to explore measures to address differentiated rates or energy assistance for ratepayers with higher utility bills during periods of extreme temperatures or poor air quality.</i>] 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to heat relief; creating new provisions; amending ORS 431A.400; and declaring an emergency.
+
+## Full text
+
+81st OREGON LEGISLATIVE ASSEMBLY--2022 Regular Session
+House Bill 4058
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Environment and Natural Resources for Representative Pam Marsh)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Directs Oregon Health Authority to create program to acquire and distribute  air conditioners
+and air purifiers on emergency  basis to individuals eligible for medical assistance. Appropriates
+moneys to authority to implement program.
+Adds manufactured  dwelling park nonprofit cooperative to list of entities eligible to participate
+in Healthy Homes Program. Clarifies  electric utility as eligible entity. Adds improvements to reduce
+heat and electrical upgrades to types of repair and rehabilitation covered by program grants.
+Establishes Heat Pump Deployment Program within  State Department of Energy to provide
+grants to entities to provide financial assistance to  cover purchase and installation of heat pumps
+and related upgrades. Establishes Heat Pump Deployment Advisory Council.
+Establishes Heat Pump Deployment Fund.
+Directs State Department of Energy to  develop and submit report related to heat pump techni-
+cian training programs no later than September 15, 2023. Sunsets January 2, 2024.
+Directs Public Utility Commission to explore measures  to address differentiated rates or energy
+assistance for ratepayers with higher utility bills  during periods of extreme temperatures or poor
+air quality.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to heat relief; creating new provisions; amending ORS 431A.400 and 757.695;  and declaring
+an emergency.
+Be It Enacted by the People of the State of Oregon:
+AIR CONDITIONER AND AIR PURIFIER
+DEPLOYMENT PROGRAM
+SECTION 1.
+(1) As used in this section:
+(a) “Air conditioner”  means a portable, stand-up air conditioner that is Energy Star
+certified.
+(b)(A) “Air purifier” means  an air purifier that uses a high efficiency particulate air filter
+to remove contaminating particles from the air.
+(B) “Air purifier” does not include an electrostatic or ionizing air purifier.
+(c) “Eligible distribution entity” means a:
+(A) Local government as defined in ORS 174.116;
+(B) Local housing authority;
+(C) Nonprofit organization;
+(D) Federally recognized Indian tribe in Oregon;
+(E) Coordinated care organization as defined in ORS 414.025;
+(F) Community action agency as described in ORS 458.505;
+(G) Manufactured dwelling park nonprofit cooperative as defined in ORS 62.803; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 144
+(H) Program administered by:
+(i) An electric utility as defined in ORS 757.600; or
+(ii) A natural gas utility as defined in ORS 757.392.
+(2)(a) The Oregon Health Authority shall create a program to:
+(A) Acquire an emergency supply of air conditioners and air purifiers; and
+(B) Distribute the air conditioners and air purifiers to eligible distribution  entities that
+will provide on an emergency basis the air conditioners and air purifiers  to individuals eligi-
+ble under subsection (4) of this section.
+(b) The authority may  provide or contract with one or more third parties to provide the
+program.
+(3) The authority or a third party shall:
+(a) Determine the percentage of program  funds needed to support the costs of installa-
+tion and materials for installation.
+(b) Maintain a telephone  hotline to answer questions about the installation, use and
+maintenance of the air conditioners and air purifiers.
+(c) Provide technical assistance to eligible distribution entities.
+(4) An individual is  eligible to receive an air conditioner or air purifier under this section
+if the individual:
+(a) Is eligible to receive medical assistance, as defined in  ORS 414.025, through the
+Oregon Health Authority or Department of Human Services;
+(b) Resides in any type  of housing or recreational vehicle, as defined in ORS 174.101, that
+has electricity for operating the air conditioner or air purifier; and
+(c) Upon receiving an air conditioner  or air purifier, provides an attestation that the in-
+dividual can safely and legally install the air conditioner or air  purifier in the individual’s
+home or recreational vehicle.
+(5) The authority shall adopt rules to implement the program described in this section.
+HEALTHY HOMES PROGRAM
+SECTION 2.
+ ORS 431A.400 is amended to read:
+431A.400. (1) As used in this section:
+(a) “Eligible entity” means a:
+(A) Local government as defined in ORS 174.116;
+(B) Local housing authority;
+(C) Nonprofit organization;
+(D) Federally recognized Indian tribe in Oregon;
+(E) Coordinated care organization as defined in ORS 414.025;
+(F) Community action agency as described in ORS 458.505; [ or]
+(G) Manufactured dwelling park nonprofit cooperative as defined in ORS 62.803; or
+[(G)] (H) Program administered by:
+(i) An electric [ company] utility as defined in ORS 757.600; or
+(ii) A natural gas utility as defined in ORS 757.392.
+(b) “Environmental justice factor” means a circumstance  or condition that impacts a
+community’s ability to achieve a balance  of health, economic or environmental benefits and burdens
+or that impacts a community’s ability to participate in public processes.
+(c) “Grant program recipient” means an eligible entity that has been awarded a grant  from the
+Oregon Health Authority under this section.
+(d) “Landlord” means a landlord,  as defined in ORS 90.100, that meets eligibility criteria for a
+loan, grant or other financial assistance under the Healthy Homes Program as  determined by the
+authority.
+(e) “Low income household” means a household having an income equal to or below 80  percent
+of the area median family income as determined by the authority.
+(f) “Nonprofit organization” means an organization or group  of organizations that is described
+in section 501(c)(3) of the  Internal Revenue Code and is exempt from income tax under section 501(a)
+of the Internal Revenue Code.
+(g) “Repair and rehabilitation” includes actions that:
+(A) Maximize energy efficiency of residences;
+(B) Extend the usable life of residences; or
+(C) Improve the health and safety of the occupants of residences, including:
+(i) Radon abatement;
+(ii) Lead abatement;
+(iii) Mold and mildew abatement;
+(iv) Installation of  a smoke filtration system, an air purification system or ventilation or re-
+duction of pathways for air infiltration;
+(v) Removal of asthma or allergen triggers;
+(vi) Structural or safety improvements that increase accessibility or visitability;
+(vii) Improvements that make homes more fire resistant; [ and]
+(viii) Structural or safety improvements that promote seismic resiliency ;
+(ix) Improvements that reduce the reflection of heat on or around the home; and
+(x) Electrical upgrades that improve the safety of  the home or support or enable the use
+of energy efficiency upgrades .
+(h) “Residence” means a dwelling  that is intended for occupation by a single family and is oc-
+cupied by one  or more individuals who are members of a low income household as the individuals’
+principal residence, including a site-built home, manufactured home,  residential trailer, mobile home,
+condominium unit or unit within multifamily housing.
+(i) “Smoke filtration system” means a residential air filtration system that  meets minimum effi-
+ciency standards, as determined by the authority, for the removal of particulates and  other harmful
+substances generated by wildfires.
+(2) The Healthy Homes Program is  established within the Oregon Health Authority. The purpose
+of the program is to provide grants to eligible entities that provide financial assistance to persons
+in low income  households to repair and rehabilitate their residences and to landlords to repair and
+rehabilitate dwelling units inhabited by low income households.
+(3) To be eligible to receive grants from the Healthy Homes  Program, an eligible entity must
+establish that it:
+(a) Serves or represents:
+(A) Communities with high concentrations of low income households; or
+(B) Communities impacted by environmental justice factors, including but not limited to:
+(i) Areas with above-average concentrations of historically disadvantaged households or resi-
+dents with low levels of educational attainment,  areas with high unemployment, high linguistic iso-
+lation, low levels of homeownership or high rent burden or sensitive populations;
+(ii) Areas disproportionately  affected by environmental pollution and other hazards that can lead
+to negative public health effects, exposure or environmental degradation; or
+(iii) Other environmental justice factors as determined by the authority.
+(b) Has the capacity to administer grant funds received under this section.
+(c) Is able to comply with the requirements of all state and federal laws, rules and regulations.
+(4)(a) The authority shall adopt by rule processes for eligible entities  to apply to receive grants
+from the Healthy Homes Program. The processes may include a request for proposals.
+(b) The authority may adopt by rule:
+(A) Standards for repair and rehabilitation activities conducted by low-income households;
+(B) Standards for repair and rehabilitation activities conducted by landlords;
+(C) Additional requirements for landlords who receive program funds; and
+(D) Provisions for the  allocation of program funds including but not limited to allocations for
+types of eligible entities, types of recipients, types of housing and regions of this state.
+(c) The authority, in consultation  with the Governor’s Policy Advisor for Economic and Business
+Equity, may establish by rule standards  for the work performed using grants from the program to
+be performed by disadvantaged business  enterprises, minority-owned businesses, woman-owned busi-
+nesses or businesses that service-disabled veterans own, as those terms are defined in ORS 200.005.
+(5) Upon being awarded a grant under this section,  the grant program recipient shall enter into
+an agreement with the authority that contains provisions that:
+(a) Indicate the purposes for which the grant funds may be used;
+(b) Prohibit the grant program recipient from using more  than 15 percent of grant funds for
+administrative expenses and program delivery costs;
+(c) Include the repayment provisions set forth in subsection (6) of this section;
+(d) Permit the authority to conduct audits and investigations of the grant  program recipient
+regarding the purposes for which grant funds have been used; and
+(e) Require the grant program recipient to provide reports as  set forth in subsection (7) of this
+section.
+(6) A grant program recipient must repay to the authority, in  whole or in part, grant funds re-
+ceived under this section to the extent that:
+(a) The grant program recipient does not use the grant funds  in accordance with the provisions
+of the grant agreement executed between the authority and the grant program recipient  under sub-
+section (5) of this section; or
+(b) The Director of the Oregon Health Authority determines that the grant program recipient
+must repay all or part of the grant funds on grounds of misappropriation, fraud or  similar reasons
+after auditing or investigating  the grant program recipient’s operations and conducting a contested
+case hearing under ORS 183.413 to 183.470.
+(7) A grant program recipient shall report to the authority by June 30 of each  year concerning
+the status and use of grant funds received under this section. The report  required under this section
+may not disclose the personal information of  the recipients of loans, grants or other financial as-
+sistance under the Healthy Homes Program. The report must include:
+(a) A detailed description of the grant program recipient’s use of grant funds;
+(b) A list of each loan, grant or other financial assistance that the grant program recipient  has
+provided and, where applicable, a full accounting of the repayment status of the loans;
+(c) The number  of low income households that the grant program recipient has provided finan-
+cial assistance to for the repair and rehabilitation of their residences;
+(d) The number of landlords that the grant program recipient  has provided financial assistance
+to for the repair and rehabilitation of dwelling units;
+(e) The nature and amounts of the administrative expenses and program  delivery costs the grant
+program recipient has incurred in providing the financial assistance under the program;
+(f) Disaggregated data concerning the income, racial or  ethnic background, family size and re-
+lated demographic  information of low income households who received financial assistance for repair
+and rehabilitation of residences under the program from the grant program recipient; and
+(g) Any other information required by the authority.
+(8) The authority may not pay amounts for grants under this section from  any source other than
+available funds in the Healthy Homes Repair Fund established in ORS 431A.402.
+(9) Under the Healthy Homes Program, the authority may develop,  or contract with public in-
+stitutions of higher education or nonprofit organizations to assist in developing:
+(a) Methods for evaluating health hazards in housing;
+(b) Methods for preventing and reducing health hazards in housing;
+(c) Performance  measures for the work being performed through the financial assistance pro-
+vided under the program; and
+(d) Recommendations for promoting the incorporation of healthy housing into ongoing  practices
+and systems, including housing codes.
+HEAT PUMP DEPLOYMENT PROGRAM
+SECTION 3.
+(1) As used in this section:
+(a) “Bulk  fuel” means liquid petroleum, propane, coal, wood, wood-based products or
+other fuel delivered and stored until used onsite by the final consumer to produce energy.
+(b) “Climate zone” means a heating or cooling climate zone assigned to a  county by the
+Bonneville Power Administration.
+(c) “Electric resistance heat”  means heat produced by passing an electric current
+through a material that has high resistance,  such as used in an electric baseboard, wall or
+space heater.
+(d) “Eligible entity” means a:
+(A) Local government as defined in ORS 174.116;
+(B) Local housing authority;
+(C) Nonprofit organization;
+(D) Federally recognized Indian tribe in Oregon;
+(E) Coordinated care organization as defined in ORS 414.025;
+(F) Community action agency as described in ORS 458.505;
+(G) Manufactured dwelling park nonprofit cooperative as defined in ORS 62.803; or
+(H) Program administered by:
+(i) An electric utility as defined in ORS 757.600; or
+(ii) A natural gas utility as defined in ORS 757.392.
+(e) “Energy burden” means the percentage  of gross household income spent on energy
+costs.
+(f) “Environmental justice communities” has  the meaning given that term in ORS
+469A.400.
+(g) “Heat  pump” means an air-source or ground-source heat pump with a seasonal energy
+efficiency rating of 13 or higher.
+(h) “Region” means an economic development district in Oregon,  created by the Eco-
+nomic Development Administration of  the United States Department of Commerce, for which
+a regional solutions center has been established under ORS 284.754.
+(i) “Utility” means a public utility as defined in ORS 757.005.
+(2) The Heat Pump Deployment Program is established within the State Department of
+Energy. The purpose of the program is to award a  grant to an eligible entity for each region
+and federally recognized Indian tribe in Oregon to:
+(a) Administer grant funds for that region or tribe; and
+(b) Provide financial assistance from grant funds to  people who reside within that region
+or who are members of that tribe for the purchase and installation of heat pumps and related
+upgrades.
+(3)(a) To be eligible to receive a grant from  the Heat Pump Deployment Program, an el-
+igible entity must establish that it:
+(A) Serves or represents:
+(i) A community or communities within a region; or
+(ii) Members of a federally recognized Indian tribe in Oregon; and
+(B) Has the capacity to administer grant funds received under this section.
+(b) An eligible entity applying  for a grant may partner with other eligible entities but, if
+awarded a grant, shall take a lead role in administering grant funds and providing financial
+assistance.
+(c) An eligible entity that serves or represents a community that  has boundaries located
+within more than one region may apply for a grant for the region  within which at least 50
+percent of the people of that community reside.
+(4) An eligible entity that is awarded  a grant from the Heat Pump Deployment Program
+shall:
+(a) Use the grant funds to cover up to:
+(A) One hundred percent of the purchase and installation costs of a heat pump.
+(B) Seventy-five percent of the costs for related upgrades that  support or enable the use
+of a heat pump, including:
+(i) A new electrical panel or other upgrades  to the electrical system of a home or build-
+ing.
+(ii) Weatherization or  other structural repairs to reduce home or building heat and
+cooling loss.
+(iii) Upgrades to improve the airflow of a home or building.
+(b) Prioritize the provision of financial assistance to people who:
+(A) Are members of environmental justice communities.
+(B) Rely on bulk fuels or electric resistance heating.
+(C) Reside in a home or building that does not have a heating or cooling system.
+(c) Enter into a performance  agreement described under subsection (7) of this section
+with the department.
+(5) The department shall:
+(a) Award grants using available funds in the Heat Pump Deployment Fund  established
+in section 5 of this 2022 Act.
+(b) In awarding grants, give preference to eligible entities that have, but may  not require
+eligible entities to have:
+(A) Experience in administering state  grant programs or programs similar to the Heat
+Pump Deployment Program.
+(B) Experience with community program development within a  region or with members
+of a tribe.
+(C) Connections to communities within a region or with members of a tribe.
+(c) Develop criteria for allocating grant funds based on the energy burden of residences
+within a region or of members of a tribe and the climate zones of the counties  that comprise
+that region or of tribal lands.
+(d) Permit a review of awarded grant funds by members of communities who may  benefit
+from the Heat Pump Deployment Program.
+(6) The department may:
+(a) Establish a maximum amount of grant funds payable  towards the purchase and in-
+stallation of a heat pump and related upgrades.
+(b) Permit the use of grants,  rebates or incentives offered by a utility or other programs
+towards any costs of the purchase and installation of a heat pump  and related upgrades not
+covered by the Heat Pump Deployment Program.
+(c) Establish incentives to encourage the  purchase and installation of heat pumps and
+related upgrades that have higher efficiency ratings.
+(d) Establish incentives  for the purchase and installation of a heating or cooling device
+with an efficiency rating similar to or higher than that of a heat pump and that provides
+cobenefits such as improving indoor air quality or lowering a person’s energy burden.
+(7) Upon being awarded a grant under this section, an eligible  entity shall enter into a
+performance agreement with the department that contains provisions that:
+(a) Indicate the purposes for which the grant funds may be used;
+(b) Prohibit the eligible entity  from using more than 25 percent of awarded grant funds
+for administrative expenses and marketing costs;
+(c) Include the repayment provisions set forth in subsection (8) of this section;
+(d) Permit the  department to conduct audits and investigations of the eligible entity re-
+garding the purposes for which grant funds have been used; and
+(e) Require the eligible entity to provide reports as set forth in subsection (9) of  this
+section.
+(8) An eligible entity must repay to the department, in whole or  in part, grant funds re-
+ceived under this section to the extent that:
+(a) The eligible entity does not use the grant  funds in accordance with the provisions of
+the performance agreement  executed between the department and the eligible entity under
+subsection (7) of this section; or
+(b) The Director of the State Department of Energy determines that the eligible entity
+must repay all or  part of the grant funds on grounds of misappropriation, fraud or similar
+reasons after auditing or  investigating the eligible entity’s operations and conducting a con-
+tested case hearing under ORS 183.413 to 183.470.
+(9) An eligible entity that received grant funds under this section shall report  to the de-
+partment by  June 30 of each year concerning the status and use of grant funds received
+under this section. The report required under this section  may not disclose the personal in-
+formation of the  recipients of loans, grants and other financial assistance under the Heat
+Pump Deployment Program. The report must include:
+(a) A detailed description of the eligible entity’s use of grant funds;
+(b) A list of each loan, grant  or other financial assistance that the eligible entity has
+provided and, where applicable, a full accounting of the repayment status of the loans;
+(c) The nature and amounts of  the administrative expenses and marketing costs the eli-
+gible entity has incurred in providing the financial assistance under the program; and
+(d) Any other information required by the department.
+(10) The department shall adopt rules  to carry out the provisions of this section. The
+rules shall be developed in consultation with:
+(a) The Bureau of Labor and Industries on issues related to the workforce.
+(b) The Building Codes Division of the  Department of Consumer and Business Services
+on issues related to building codes and commissioning.
+(c) The Housing and Community  Services Department to ensure the Heat Pump Deploy-
+ment Program complements any existing programs or services.
+(d) The Department of Environmental  Quality on issues of air quality related to bulk
+fuels and to ensure  the Heat Pump Deployment Program complements any existing programs
+or services.
+(e) The Oregon Health Authority  on any health impacts and health impact data related
+to the Heat Pump Deployment Program  and to ensure the Heat Pump Deployment Program
+complements any existing programs or services.
+(f) Utilities and utility program administrators on any impacts  the Heat Pump Deploy-
+ment Program may have  on utility systems or services and to ensure the Heat Pump De-
+ployment Program complements any existing programs or services.
+(g) Nonprofit organizations, housing providers, heat pump technicians and  other
+stakeholders as appropriate.
+SECTION 4.
+(1) The Heat Pump Deployment Advisory Council is established.
+(2) The council consists of representatives from eligible entities administering  grant
+funds under the Heat Pump Deployment Program established under  section 3 of this 2022
+Act.
+(3) The council shall study and identify:
+(a) Best practices for administering grant funds and providing financial assistance;
+(b) Barriers to administering grant funds and providing financial assistance; and
+(c) Opportunities for providing technical assistance.
+(4) A  majority of the members of the council constitutes a quorum for the transaction
+of business.
+(5) Official action by the council requires the approval  of a majority of the members of
+the council.
+(6) The council shall elect one of its members to serve as chairperson.
+(7) The council shall meet at times and places specified by the call of the chairperson or
+of a majority of  the members of the council. The council may meet by telephone or video
+conference.
+(8) The council may adopt rules necessary for the operation of the council.
+(9) The State Department of Energy shall provide staff support to the council.
+SECTION 5.
+(1) The Heat Pump Deployment Fund is established in the State Treasury,
+separate and distinct from  the General Fund. Interest earned by the Heat Pump Deployment
+Fund shall be credited to the fund. The fund consists of:
+(a) Moneys  appropriated or otherwise transferred to the fund by the Legislative Assem-
+bly;
+(b) Moneys received from federal, state or local sources;
+(c) Gifts, grants or other moneys contributed to the fund; and
+(d) Other amounts deposited in the fund from any source.
+(2) Moneys in the fund are  continuously appropriated to the State Department of Energy
+for the purpose of carrying out the provisions of section 3 of this 2022 Act.
+(3) The department may use reasonable amounts from the fund, but  no more than 20
+percent of the fund, necessary to  administer and market the Heat Pump Deployment Pro-
+gram described in section 3 of this 2022 Act.
+(4) The Director of the State Department of  Energy shall submit a biennial report to the
+Legislative Assembly  in the manner provided by ORS 293.640 regarding the expenditures of
+moneys deposited in the Heat Pump Deployment Fund, including:
+(a) A detailed description of the use of the moneys;
+(b) A  detailed description of the loans, grants or other financial assistance provided from
+the moneys and, where applicable, an accounting of the repayment status of the loans;
+(c) The nature and amounts of the  administrative expenses and marketing costs paid
+from the moneys; and
+(d) Indicators of program success.
+HEAT PUMP TECHNICIAN WORKFORCE REPORT
+SECTION 6.
+(1) The State Department of Energy shall develop and submit a report de-
+scribed in this section  in the manner provided in ORS 192.245 to the interim committees of
+the Legislative Assembly  related to environment and natural resources no later than Sep-
+tember 15, 2023.
+(2) The department shall  develop a report under this section in consultation with the
+Heat Pump Deployment Advisory Council established under section  4 of this 2022 Act and
+relevant agencies of state government as defined in ORS 174.111.
+(3) The report submitted under this section must include a description of:
+(a) Training programs in Oregon for heat pump technicians for the most  common heat
+pump brands;
+(b) Barriers to accessing training programs for heat  pump technicians related to the lo-
+cation of environmental justice communities, as defined in ORS 469A.400;
+(c) Barriers to women, individuals who identify as gender nonbinary and members of
+environmental justice communities from entering the heat pump technician workforce; and
+(d) Resources needed to develop programs to provide technical assistance.
+SECTION 7.
+Section 6 of this 2022 Act is repealed on January 2, 2024.
+MEASURES TO ADDRESS HIGHER UTILITY BILLS
+SECTION 8.  ORS 757.695 is amended to read:
+757.695. (1) The Public Utility Commission shall explore measures to address differen-
+tiated rates or energy assistance for ratepayers with higher utility  bills during periods of
+extreme high or low temperatures or poor air quality that endanger  public health, safety or
+lives.
+[(1)] (2) In addition to comprehensive classifications,  tariff schedules, rates and bill credits, the
+[Public Utility ] commission may address  the mitigation of energy burdens through bill reduction
+measures or  programs that may include, but need not be limited to, demand response or
+weatherization.
+[(2)] (3) The costs of tariff schedules, rates, bill credits or program discounts allowed pursuant
+to subsection [ (1)] (2) of this section  must be collected in the rates of an electric company through
+charges paid by all retail electricity consumers, such that retail electricity consumers  that purchase
+electricity from electricity service suppliers  pay the same amount to address the mitigation of en-
+ergy burdens as retail electricity consumers that are not served by electricity service suppliers.
+APPROPRIATIONS
+SECTION 9.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Oregon Health Authority, for the  biennium ending June 30, 2023, out of the
+General Fund, the amount of $5,000,000, for carrying out section 1 of this 2022 Act.
+SECTION 10. In addition to and not in lieu of any other  appropriation, there is appro-
+priated to the State Department of Energy, for the biennium ending June 30, 2023, out of the
+General Fund, the amount of $10,000,000 for deposit  into the Heat Pump Deployment Fund
+established in section 5 of this 2022 Act.
+UNIT CAPTIONS
+SECTION 11.
+The unit captions used in this 2022 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2022 Act.
+EFFECTIVE DATE
+SECTION 12. This 2022 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2022 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 431A.400
+- From bill text (Introduced version): ORS 174.101, ORS 174.111, ORS 174.116, ORS 183.413, ORS 192.245, ORS 200.005, ORS 284.754, ORS 293.640, ORS 414.025, ORS 431A.400, ORS 431A.402, ORS 458.505, ORS 469A.400, ORS 62.803, ORS 757.005, ORS 757.392, ORS 757.600, ORS 757.695, ORS 90.100
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `c260f4946fe72e65ee12c881ca8614161288c231001f1931afe2af2d89c61c13` (snapshot `_meta/snapshots/measure-2022r1-hb4058-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2022R1/Downloads/MeasureDocument/HB4058/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2022R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4058` (part of the batched per-session fetch), sha256 `0acdcfea3b9250961be7adbe1b2d5f75259a82d9fe2dbc86f24a21268aafa1d1` of the shared session snapshot `_meta/snapshots/measures-2022r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

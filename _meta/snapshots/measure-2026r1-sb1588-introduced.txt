@@ -1,0 +1,207 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1588
+Sponsored by Senators GOLDEN, NERON MISSLIN; Senators FREDERICK, GELSER BLOUIN,  JAMA, MANNING
+JR, PATTERSON, PHAM K, PROZANSKI, Representatives ANDERSEN, CHOTZEN, EVANS,  GAMBA,
+GOMBERG, MARSH, MCDONALD, NATHANSON, NELSON, PHAM H (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells each power company to make  a program to help pay for energy projects that re-
+duce customers’ costs. Sets out program standards. (Flesch Readability Score: 64.9).
+Requires each electric company to develop an inclusive utility investment program to  provide
+financing for customers’ energy efficiency upgrades  or renewable energy projects. Requires an in-
+clusive utility investment program to provide  savings reflected in the reduction in a customer’s
+electricity or energy utility costs.  Allows the Public Utility Commission to establish minimum fi-
+nancial savings standards and adopt and provide electric companies with performance incentives.
+A BILL FOR AN ACT
+Relating to inclusive utility investment programs.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2026 Act is added to and made a part of ORS chapter 757.
+SECTION 2. (1) As used in this section:
+(a) “Electric company” has the meaning given that term in ORS 757.600.
+(b) “Program” means, unless the context  requires otherwise, an electric company’s pro-
+posed or approved inclusive utility investment program.
+(c) “Project” includes energy efficiency upgrades, renewable  energy projects or any
+combination thereof.
+(2) Each electric company shall develop  and file with the Public Utility Commission an
+inclusive utility investment program that is consistent with the provisions of  this section.
+Under an inclusive utility investment program,  an electric company shall offer to pay for
+qualifying energy efficiency upgrades or  renewable energy projects at the property sites of
+the electric company’s customers. In return, the electric company shall be  entitled to re-
+cover the purchase  and installation costs for a project at a customer’s property site through
+an additional fixed, site-specific charge on the customer’s utility bill.
+(3) The types of energy efficiency upgrades or renewable energy projects that qualify for
+financing under an inclusive utility investment program must include, but are not  limited to,
+the following:
+(a) Energy efficiency upgrades that are not related to the use of fossil fuels;
+(b) Electric heat pumps;
+(c) Energy storage systems;
+(d) Demand response equipment;
+(e) Solar photovoltaic energy systems;
+(f) Solar thermal energy systems; and
+(g) Any ancillary equipment or upgrades necessary  to complete the installation of a
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 123
+SB 1588
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+qualifying project.
+(4) A customer’s participation in an inclusive utility  investment program is voluntary.
+Any customer who owns a property site or is  a tenant and has permission from the owner
+of the property site to participate in  the program shall be allowed to participate in the pro-
+gram.
+(5)(a) An inclusive utility investment program must provide  a participating customer
+with immediate and ongoing savings relative to  the customer’s baseline electricity or energy
+utility costs. The amount charged for financing  energy efficiency upgrades or renewable
+energy projects at a customer’s property site must be less than  the estimated savings re-
+flected in the reduction in the customer’s electricity or energy utility costs.
+(b) A participating customer may not be required to make an upfront payment.  However,
+a customer may pay down the costs of a project if  by paying down the costs, the project
+qualifies for financing through the estimated savings reflected in the  reduction in the
+customer’s electricity or energy utility costs. Any payments made by a customer to pay
+down the costs of a project must be made to the installing contractor.
+(c) A participating customer may pay  for a project through an additional fixed, site-
+specific charge on the customer’s utility bill or  by using a third-party structured payment
+arrangement.
+(6) An inclusive utility investment program must:
+(a) Be accessible to low-income customers and environmental justice communities;
+(b) Ensure that participating customers use to  the greatest extent possible all other
+available financial incentives; and
+(c) Include customer protection standards that are based on best practices.
+(7) An inclusive utility investment program may:
+(a) Connect participating customers with project vendors; and
+(b) Prioritize project vendors that have a history of material compliance  with state laws
+and regulations or that participate  in an apprenticeship program registered with the State
+Apprenticeship and Training Council.
+(8) In developing an inclusive utility investment program, an electric company shall:
+(a) Address how the electric company plans to secure capital to fund  qualifying projects.
+An electric company may raise  capital on its own or work with third-party lenders to secure
+capital for participating  customers. However, the electric company shall use a market
+mechanism to identify the least costly source of capital  funds for the purpose of passing on
+the maximum amount of savings to participating customers.
+(b) Guarantee that a program’s  conservative estimates of financial savings will imme-
+diately exceed program costs for participating customers.
+(9) In implementing an inclusive utility investment program, an electric company shall:
+(a) Coordinate with the entity designated by the commission to administer moneys  col-
+lected by an electric company through the public purpose charge described under ORS 757.612
+and other energy efficiency incentives and program providers; and
+(b) Integrate the electric company’s program with planning  requirements that the elec-
+tric company is required to carry out and other energy efficiency incentives and programs.
+(10) The commission may:
+(a) Establish minimum financial savings  standards that must be realized relative to an
+electric company’s program costs.
+[2]
+SB 1588
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+(b) Adopt and provide performance incentives based on the number and type of custom-
+ers served or the number and type of projects completed by an electric company’s program.
+(11) An electric company may recover prudent costs incurred in developing  or imple-
+menting an inclusive utility investment program that is approved by the commission.
+SECTION 3.
+(1) In developing an inclusive utility investment program under section 2 of
+this 2026 Act, an electric company shall:
+(a) Review existing models and programs, including the  Pay As You Save system devel-
+oped by the Energy Efficiency Institute, Inc.
+(b) Consult with the State Department of Energy, the entity designated by  the Public
+Utility Commission to administer moneys collected by an electric  company through the
+public purpose charge described under ORS 757.612 and utility equity advisory groups.
+(2)(a) An electric  company shall first file with the commission for the commission’s ap-
+proval a proposed inclusive utility investment program  under section 2 of this 2026 Act in the
+next distribution system planning docket  that commences after the effective date of this 2026
+Act.
+(b) If the commission approves an electric company’s proposed inclusive utility invest-
+ment program, the program must be available  to the electric company’s customers no later
+than January 1, 2028.
+[3]

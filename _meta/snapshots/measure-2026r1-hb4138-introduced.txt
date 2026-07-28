@@ -1,0 +1,845 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4138
+Sponsored by Representatives CHAICHI, TRAN, Senator  MANNING JR, Representatives ANDERSEN, CHOTZEN,
+JAVADI, MCLAIN, MUNOZ,  NELSON, NOSSE, WISE, Senators FREDERICK, PHAM K; Representatives
+FRAGALA, GAMBA,  GOMBERG, GRAYBER, MCDONALD, RUIZ, Senators GELSER BLOUIN, GOLDEN,
+JAMA, NERON MISSLIN, PATTERSON, REYNOLDS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act sets police ID rules and limits the actions of public  employees when working
+with U.S. or out-of-state law enforcement. The Act also creates a cause of action when the  rules are
+violated. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 66.9).
+Requires law  enforcement agencies to enact policies concerning identifying information on law
+enforcement uniforms.  Broadens  the application of laws  specifying identification requirements for
+law enforcement officers.
+Requires law enforcement agencies to enact policies prohibiting the wearing of  facial coverings
+by officers except in specified circumstances. Prohibits the wearing  of facial coverings by law
+enforcement officers except in specified circumstances.
+Creates the offense of misrepresentation by a law enforcement officer.  Punishes by a maximum
+penalty of a $2,000 fine.
+Includes federal officers in the definition of “peace officer” for purposes of the  crime of criminal
+impersonation of a peace officer.
+Prohibits employees of public  bodies in this state from participating in certain actions. Directs
+public bodies to enact policies prohibiting engagement in certain actions.
+Specifies disclosure requirements for law enforcement agencies that enter into joint task forces
+or cross-deputization  agreements with federal law enforcement agencies or law enforcement agencies
+of another state.
+Provides that volunteers in a civil defense force are agents of  a public body for purposes of the
+Oregon Tort Claims Act.
+Allows a person harmed by violations of  certain provisions to bring a civil cause of action. Al-
+lows a person to seek an injunction.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to limitations on the actions of public employees; creating new provisions; amending ORS
+162.367, 181A.700, 181A.702 and 399.035; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+LAW ENFORCEMENT IDENTIFIABILITY REQUIREMENTS
+(Identification Requirements)
+SECTION 1.
+(1) A law enforcement  agency operating within this state shall maintain and
+publicly post a written policy on the visible identification  of all sworn officers performing
+official duties for the agency.
+(2) The policy must include, at a minimum, the following:
+(a) A purpose statement affirming the agency’s commitment to:
+(A) Transparency, accountability and public trust; and
+(B) Restricting situations in which sworn officers do not visibly display identification  to
+specific, clearly defined and limited circumstances.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 30
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) A requirement that all sworn officers visibly display identification that includes the
+officer’s agency and either a name or badge number, or both name and badge  number, in
+accordance with ORS 181A.702, when performing official duties.
+(c) An exception for officers engaged in undercover duties as part  of the regular per-
+formance of the officer’s official duties.
+(3) A member of the public, a law enforcement oversight body or a local governing au-
+thority may object to a policy adopted under  this section, on the grounds that the policy does
+not conform with the requirements of this section,  by submitting a written objection to the
+head of the  law enforcement agency. The agency shall have 120 days to correct any defi-
+ciencies in the policy. If, after 120  days, the agency fails to adequately address the objection,
+the objecting party may bring a cause of action in a court  of competent jurisdiction for a
+judicial determination of whether the policy conforms with the requirements of  this section.
+(4) Nothing in this section prohibits a law enforcement agency  from adopting a policy
+that is more stringent than the requirements of this section, so long as the  policy includes
+the exception described in subsection (2) of this section.
+(5) As used in this section:
+(a) “Law enforcement agency” includes:
+(A) A law enforcement agency that employs a peace officer as defined in ORS 133.005.
+(B) A federal law enforcement agency.
+(C) A law enforcement agency of another state.
+(b) “Visibly display identification” means to wear externally on  the uniform in a size and
+location such as to be reasonably visible  to a member of the public with whom the officer
+interacts.
+SECTION 2.
+A law enforcement agency operating within this state shall adopt the policy
+described in section 1 of this 2026 Act no later  than 120 days after the effective date of this
+2026 Act or 30 days before commencing operations within this state, whichever is later.
+SECTION 3.  ORS 181A.700 is amended to read:
+181A.700. As used in ORS 181A.702 and 181A.704:
+[(1) “Crowd management” means a public  security practice in which large crowds of 50 persons
+or more are managed to prevent the outbreak of crowd crushes, affrays, fights or riots. ]
+[(2)] (1) “Law enforcement agency” [ means] includes:
+(a) The Oregon State Police, a county sheriff’s  office, a municipal police department or a police
+department established by a university under ORS 352.121 or 353.125.
+(b) A federal law enforcement agency.
+(c) A law enforcement agency of another state.
+[(3)] (2) “Law enforcement officer” [ means] includes:
+(a) A member of the Oregon State Police, a  sheriff or deputy sheriff, a municipal police officer
+or a police officer commissioned by a university under ORS 352.121 or 353.125.
+(b) A federal officer as defined in ORS 133.005.
+(c) A law enforcement officer of another state.
+SECTION 4.
+ ORS 181A.702 is amended to read:
+181A.702. (1) A law enforcement officer who is on duty [ and assigned to  work crowd management
+in a city with a population of over 60,000 ] shall have:
+(a) The officer’s first initial and last  name, or a unique identifier assigned by the officer’s law
+enforcement agency, affixed to the front of the officer’s uniform;
+[2]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The officer’s first initial and last name, or a unique  identifier assigned by the officer’s law
+enforcement agency, affixed to the back of the officer’s uniform;
+(c) If wearing a tactical helmet and assigned a unique identifier by  the officer’s law enforcement
+agency, the unique identifier affixed to the back of the officer’s helmet;
+(d) The name of  the jurisdiction of the officer’s law enforcement agency and the word
+“POLICE,” “SHERIFF” or “TROOPER” on the front and back of the officer’s uniform; and
+(e) A patch signifying the officer’s law enforcement agency affixed to one shoulder.
+(2) The information required under subsection (1) of this  section shall be affixed in a manner
+that makes the letters and numbers clearly visible.
+(3) A law enforcement agency shall  adopt a policy prohibiting the intentional obscuring by a law
+enforcement officer of any of the information required under subsection (1) of this section.
+(4) This section does not apply to [ members of the  Oregon State Police ] an officer engaged in
+undercover duties as part of the regular performance of the officer’s official duties .
+SECTION 5.
+The amendments  to ORS 181A.700 and 181A.702 by sections 3 and 4 of this
+2026 Act become operative 120 days after the effective date of this 2026 Act.
+NOTE: Section 6 was deleted. Subsequent sections were not renumbered.
+(Facial Covering Prohibition)
+SECTION 7. (1) A law enforcement  agency operating within this state shall maintain and
+publicly post a written policy  on the use of facial coverings by all sworn officers performing
+official duties for the agency.
+(2) The policy must include, at a minimum, the following:
+(a) A purpose statement affirming the agency’s commitment to:
+(A) Transparency, accountability and public trust;
+(B) Restricting the use of  facial coverings to specific, clearly defined and limited cir-
+cumstances; and
+(C) The principle that generalized and  undifferentiated fear and apprehension about offi-
+cer safety is not sufficient to justify the use of facial coverings.
+(b) A  requirement that all sworn officers performing official duties for the agency not
+wear a facial covering while performing official duties.
+(c) A list of narrowly tailored exceptions from the facial covering prohibition  for the
+following:
+(A) An officer engaged  in undercover duties in the regular performance of the officer’s
+official duties.
+(B) An officer assigned to  a Special Weapons and Tactics (SWAT) team unit, while ac-
+tively performing SWAT duties, if a facial covering is necessary to protect the officer’s  face
+from physical harm while performing such duties.
+(3) A supervisor may not knowingly allow a  law enforcement officer under the
+supervisor’s supervision to violate state law or agency policy  limiting the use of facial cov-
+erings.
+(4) A member of the public, a law enforcement oversight body or a local governing au-
+thority may object to a policy adopted under  this section, on the grounds that the policy does
+not conform with the requirements of this section,  by submitting a written objection to the
+head of the law enforcement agency. The agency shall have 120 days to correct  any defi-
+[3]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ciencies in the policy. If, after 120  days, the agency fails to adequately address the objection,
+the objecting party may bring a  cause of action in a court of competent jurisdiction for a
+judicial determination of whether the policy conforms with the requirements of  this section.
+(5) Nothing in this section prohibits a law enforcement agency  from adopting a policy
+that is more stringent than the requirements of this section, so long as the  policy includes
+the exceptions described in subsection (2) of this section.
+(6) As used in this section:
+(a) “Facial covering” has the meaning given that term in section 8 of this 2026 Act.
+(b) “Law enforcement agency” includes:
+(A) Any law enforcement agency that employs a peace officer as defined in ORS 133.005.
+(B) Any federal law enforcement agency.
+(C) Any law enforcement agency of another state.
+SECTION 8.
+(1) A law enforcement officer may not wear a facial covering  that conceals
+or obscures the officer’s facial identity while performing official duties  except as expressly
+authorized by this section.
+(2) This section does not apply to:
+(a) An officer engaged in  undercover duties in the regular performance of the officer’s
+official duties.
+(b) An officer assigned to  a Special Weapons and Tactics (SWAT) team unit, while ac-
+tively performing SWAT duties, if a facial covering is necessary to protect the officer’s face
+from physical harm while performing such duties.
+(3) As used in this section:
+(a) “Facial covering” means  any opaque mask, garment, helmet, headgear, balaclava,
+tactical mask, gaiter, ski mask or other item  that conceals or obscures the facial identity
+of an individual.
+(b) “Facial covering” does not include:
+(A) A N95 medical mask or surgical  mask worn to protect against the transmission of
+disease or infection, or any other mask, helmet or device, including but  not limited to air
+purifying respirators,  full or half masks or self-contained breathing apparatuses, necessary
+to protect against exposure to any toxin, gas, smoke or extreme or  severely inclement
+weather.
+(B) A mask, helmet or device, including but not limited to  a self-contained underwater
+breathing apparatus, for use under water.
+(C) A motorcycle or bicycle helmet when worn by an officer utilizing a motorcycle, bicy-
+cle or other vehicle that requires a helmet for safe  operation while in the performance of the
+officer’s duties.
+(D) A fire helmet when worn during an arson investigation.
+(E) Eyewear necessary to protect the eyes from  physical objects or the use of retinal
+weapons, including but not limited to lasers.
+SECTION 9.
+(1) A law enforcement agency operating within this state shall adopt the
+policy described in section 7  of this 2026 Act no later than 120 days after the effective date
+of this 2026 Act.
+(2) Section 8  of this 2026 Act becomes operative 120 days after the effective date of this
+2026 Act.
+[4]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(Enforcement Offenses)
+SECTION 10.
+(1) A person commits the offense of misrepresentation by  a law enforce-
+ment officer if the person is a law enforcement officer and knowingly:
+(a) Misrepresents the  law enforcement agency for which the officer is performing official
+duties;
+(b) Refuses to identify the law  enforcement agency for which the officer is performing
+official duties; or
+(c) Engages in conduct that obscures or conceals the identity of the  law enforcement
+agency for which the officer is performing official duties.
+(2) Misrepresentation by a law enforcement officer is a Class A violation.
+(3) As used in this section, “law enforcement officer” includes:
+(a) A peace officer as defined in ORS 133.005.
+(b) A federal officer as defined in ORS 133.005.
+(c) A law enforcement officer of another state.
+SECTION 11.
+ ORS 162.367 is amended to read:
+162.367. (1) A person commits the crime  of criminal impersonation of a peace officer if the per-
+son, with the intent to obtain a benefit or to injure or defraud another person,  uses false law
+enforcement identification or wears  a law enforcement uniform to give the impression that the per-
+son is a peace officer and does an act in that assumed character.
+(2) Criminal impersonation of a peace officer is a Class C felony.
+(3) As used in this section:
+(a) “False law enforcement identification” means a badge or an identification card that:
+(A) Identifies the possessor of the badge or card as a member of a law enforcement unit; and
+(B) Was not lawfully issued to the possessor by the law enforcement unit.
+(b) “Law enforcement uniform” means clothing bearing words such as “police,”  “sheriff,” “state
+trooper” or “law enforcement,” or clothing that is an official uniform or substantially similar  to an
+official uniform of a law enforcement unit  that would make it reasonably likely that a person would
+believe that the wearer is a peace officer.
+(c) “Peace officer”  means a peace officer or a federal officer, as those terms are defined
+in ORS 133.005.
+ASSISTANCE WITH FEDERAL OR OUT-OF-STATE
+LAW ENFORCEMENT OPERATIONS
+SECTION 12.
+(1) An employee of a public body within this state is prohibited from  vol-
+untarily assisting a federal law enforcement agency or a law enforcement agency  of another
+state in investigating, apprehending or arresting individuals:
+(a) On the basis of an individual’s conduct protected by Article  I, section 8 or 26, of the
+Oregon Constitution, or the First Amendment to the United States Constitution;
+(b) On the basis of an individual’s membership in a class protected by the  Oregon or
+United States Constitution or other state or federal law; or
+(c) In connection with an unlawful search  or seizure or other surveillance activity con-
+ducted in violation of Article I, section 9, of the  Oregon Constitution, or the Fourth
+Amendment to the United States Constitution.
+[5]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) For purposes of this section, “public  body” includes an institution of higher education,
+including a public university listed in ORS 352.002, a community college operated under ORS
+chapter 341 or the Oregon Health and Science University.
+SECTION 13.
+(1) All public bodies within this state shall establish policies prohibiting any
+person acting in the person’s capacity as  an employee or agent of the public body from as-
+sisting or cooperating with, or allowing any  time, money, facilities, property, equipment,
+personnel or other resources to be used to  assist, cooperate with or facilitate, any operation
+executed in whole or in part by a federal law enforcement agency or a  law enforcement
+agency of another state if the operation is intended to:
+(a) Identify, or impose  civil or criminal liability upon, any individual, group, association,
+organization, corporation, business or partnership based on participation  in activities pro-
+tected by Article I, section 8 or 26, of the Oregon Constitution, or the First Amendment to
+the United States Constitution;
+(b) Identify, or impose civil or criminal liability upon, any  individual, group, association,
+organization, corporation, business or partnership based on membership in,  or support of
+persons who are members of, a class of persons  protected under the Oregon or United States
+Constitution or other state or federal law, including classes based on race, color,  religion,
+sex, sexual orientation, gender identity, national origin, marital status, disability or age; or
+(c) Identify, or  impose civil or criminal liability upon, any individual, group, association,
+organization, corporation, business or  partnership based on political, religious or social
+views, associations or activities.
+(2) For purposes of this section, “public  body” includes an institution of higher education,
+including a public university listed in ORS 352.002, a community college operated under ORS
+chapter 341 or the Oregon Health and Science University.
+SECTION 14.
+All public bodies within this state shall adopt a policy described in section
+13 of this 2026 Act no later than 120 days after the effective date of this 2026 Act.
+SECTION 14a. Notwithstanding sections 12 and  13 of this 2026 Act, a public body, or an
+employee or agent of a public body, may upon  request provide assistance or cooperate with,
+or allow time, money,  facilities, property, equipment, personnel or other resources to be used
+to assist, cooperate with or facilitate, an operation executed in whole or in part  by a federal
+law enforcement agency or a law  enforcement agency of another state if the requesting
+federal or out-of-state law enforcement agency  includes in the request an attestation, made
+under penalty of perjury, stating that the request does not relate to an operation  described
+in section 12 or 13 of this 2026 Act.
+JOINT TASK FORCES AND DEPUTIZATIONS
+SECTION 15. (1) A public body that participates in a joint task force  with a federal law
+enforcement agency or a law enforcement agency of another state, or that  enters into an
+agreement with a federal law enforcement agency or a law enforcement agency of another
+state for the cross-deputization of officers, shall:
+(a) Require as  part of the terms of any agreement or memorandum of understanding
+concerning the task force  or cross-deputization that the public body, and any person em-
+ployed by the public body, not engage in surveillance or investigations  based on activities
+protected by Article I, section 8, of  the Oregon Constitution, or the First Amendment to the
+[6]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+United States Constitution,  or membership in a class protected by the Oregon or United
+States Constitution or other state or federal law.
+(b) Require as  part of the terms of any agreement or memorandum of understanding
+concerning the task force or cross-deputization that the public body, and any officer em-
+ployed by the public body, comply with ORS 181A.250.
+(c) Prohibit in the terms of any agreement or memorandum of understanding concerning
+the task force or cross-deputization the development or use of confidential informants to
+conduct investigations of activity protected by the Article I, section 8,  of the Oregon Con-
+stitution, or the First Amendment to the  United States Constitution, or membership in a
+class protected by the Oregon or United States Constitution or other state or federal law.
+(2) A public body within this state, or any person employed by the public  body, may not
+enter into an agreement with a federal law enforcement agency or  a law enforcement agency
+of another state, or seek to enter such  an agreement, involving the sharing of information
+for, provision of assistance in  or participation in surveillance, investigations, prosecution or
+immigration enforcement operations,  including surveillance, investigations, prosecution or
+operations through or  for a joint federal-state operation such as a Department of Homeland
+Security Task  Force, Fusion Center or Joint Terrorism Task Force, if the public body or
+person has reason to believe the agreement would result in:
+(a) Requests made by a federal law enforcement agency or  a law enforcement agency of
+another state to engage in conduct constituting a  violation of individual liberties or rights
+guaranteed by the Oregon or United  States Constitution, including but not limited to conduct
+constituting racial profiling, unlawful surveillance or investigation, excessive use of force or
+unlawful detention;
+(b) Requests made by a federal  law enforcement agency or a law enforcement agency of
+another state:
+(A) Seeking  to identify, apprehend, arrest or impose civil or criminal liability or other
+penalties upon a person or entity for:
+(i) Engaging in activities protected by Article I, section 8, of the Oregon  Constitution,
+or the First Amendment to the United States Constitution;
+(ii) The provision of humanitarian assistance, legal assistance or other aid  to benefit an
+individual, if the provision would have been lawful had it occurred within this state; or
+(iii) Offenses related to immigration status, including but  not limited to violations of 8
+U.S.C. 1253, 1301 et seq., 1304(e), 1306(a) or (b), 1324, 1325 or 1326, or 18  U.S.C. 1028A or 1546;
+or
+(B) Subjecting a person to civil immigration detention, removal or deportation  pro-
+ceedings;
+(c) Requests made by a  federal law enforcement agency or a law enforcement agency of
+another state to obtain data from an Oregon  public body or conduct surveillance or investi-
+gation in furtherance of the objectives of National  Security Presidential Memorandum 7
+(NSPM-7), dated September 25, 2025, including  surveillance or investigation pursuant to a
+Joint Terrorism Task Force request or agreement made  in furtherance of the objectives of
+National Security Presidential Memorandum 7 (NSPM-7); or
+(d) Any other violation  of the Oregon Constitution or state law, including but not limited
+to a violation of ORS 181A.250, 181A.820 or 181A.822 to 181A.829.
+(3) A state or local law enforcement  officer who is deputized as a federal agent may not
+[7]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+exercise federal law enforcement authority in a manner that causes the law enforcement
+officer to be in violation of Oregon law.
+(4) A memorandum of understanding, cross-deputization agreement or policy of  a public
+body may not immunize a cross-deputized law enforcement  officer employed by the public
+body from violations of state or local law.
+SECTION 16.
+Section 15 of this 2026 Act applies to agreements or memoranda  of under-
+standing entered into or renewed on or after the effective date of this 2026 Act.
+SECTION 17. (1)(a) All state and local law enforcement agencies within this state shall
+regularly release, on a  publicly accessible website, all agreements or memoranda of under-
+standing concerning membership by the agency, or any officer employed by the agency, on
+a task  force with a federal law enforcement agency or a law enforcement agency of another
+state, or the entry into a cross-deputization agreement with a federal law enforcement
+agency or a law enforcement agency of another state.
+(b) A state or local law enforcement agency within this state shall release on the  website
+any new agreements or memoranda of understanding concerning  joint task force member-
+ships or cross-deputization agreements entered into by the agency, or  any officer employed
+by the agency, with a federal  law enforcement agency or a law enforcement agency of an-
+other state, within 14 days of the effective date of the agreement or memorandum.
+(2) A law enforcement agency may decline to release on the website specific information
+concerning a task force or cross-deputization agreement if public disclosure would  endanger
+the life or physical safety of any individual. The  agency shall note on the website the fact
+that the agency has not disclosed specific information under  this subsection and the justi-
+fication for the nondisclosure.
+(3) As used in this section, “law enforcement agency” means an  entity that employs a
+peace officer as defined in ORS 133.005.
+SECTION 18.
+A state or local law enforcement agency shall release on a publicly  acces-
+sible website, within 120 days after the effective date of this 2026 Act, all agreements  and
+memoranda of understanding described in section 17 (1)  of this 2026 Act that are in effect
+on the effective date of this 2026 Act.
+STATUS OF VOLUNTEERS IN CIVIL DEFENSE FORCE
+SECTION 19.  ORS 399.035 is amended to read:
+399.035. (1) In addition to the  federally recognized Oregon National Guard subject to call or
+order to federal service under laws of the United States, there shall be organized  within the state
+a National Guard Reserve force. Such force shall be known as  the Oregon Civil Defense Force, and
+shall be composed principally of officers, warrant officers and  enlisted persons not eligible for gen-
+eral service under federal selective service laws.
+(2) In time of peace the Oregon Civil Defense Force shall be maintained  at cadre strength in
+numbers to be determined by the Governor.
+(3) In time of peace the mission of the Oregon Civil Defense  Force shall be to augment the
+Oregon National Guard as an internal security force. In time  of war, it shall replace the Oregon
+National Guard as a force when the National Guard is ordered into federal service.
+(4) Whenever laws of the United States  authorize the organization of such forces under federal
+recognition, the Governor shall promulgate such regulations as are necessary to comply with such
+[8]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+federal laws and obtain federal recognition for the force authorized by this section.
+(5) Notwithstanding subsections (1) to (4) of this section:
+(a) The Superintendent  of State Police may form a volunteer Oregon State Police Civil Defense
+Force for the purpose of providing emergency response and communications, medical assistance,  lo-
+gistical support and other aid  authorized by the superintendent. The superintendent, in collaboration
+with the Adjutant General, may assign delegate members of the Oregon State Police Civil Defense
+Force to command centers throughout this state.
+(b) The sheriff of a county in this state may form a volunteer  County Civil Defense Force for
+the purpose of providing emergency response and communications,  medical assistance, logistical
+support and other aid authorized by the sheriff.
+(6) Volunteers in  the Oregon State Police Civil Defense Force or a County Civil Defense Force
+must possess and demonstrate  experience or training in the military, law enforcement, communi-
+cations, rescue operations or logistical support.
+(7)(a) Volunteers in the Oregon State  Police Civil Defense Force or a County Civil Defense
+Force are not, by virtue of volunteering in the force, considered:
+(A) Members of the Oregon Civil Defense Force;
+(B) Employees or volunteers of the state; or
+(C) In “state service,” as that term is defined in ORS 240.015[ ; or ].
+[(D) Agents of a public body under ORS 30.260  to 30.300 (Oregon Tort Claims Act) for the purpose
+of acts and omissions of the volunteer that are within the course and scope of the volunteer’s duties. ]
+(b) Volunteers in the Oregon State  Police Civil Defense Force or a County Civil Defense
+Force are agents of a public body under ORS  30.260 to 30.300 for the purpose of acts and
+omissions of the volunteer that are within the course and scope of the volunteer’s duties.
+[(b)] (c) Unless entitled to compensation, reimbursement, benefits or coverage  under any other
+provision of law, volunteers in the  Oregon State Police Civil Defense Force or a County Civil De-
+fense Force are not entitled to compensation,  reimbursement for expenses, workers’ compensation
+or other insurance coverage,  public employment benefits or entitlements from the Oregon Military
+Department, the Oregon Department of Emergency Management or any other state or  local agency
+or government.
+CAUSES OF ACTION
+SECTION 20.
+(1) Any person harmed by a violation of ORS 162.367 or 181A.702  or section
+1, 7, 8,  10, 12, 13 or 15 of this 2026 Act may bring a civil action against the individual who
+committed the violation.
+(2) A plaintiff who prevails in an action under this section may recover:
+(a) Economic and noneconomic damages.
+(b) Punitive damages.
+(3) The court shall award  reasonable attorney fees and costs to a prevailing plaintiff in
+an action under this section.
+(4) A defendant in an action under this  section may not assert any privilege or immunity,
+including any immunity provided under ORS 30.265, for the defendant’s tortious conduct
+against a claim of civil liability under this section.
+(5) Except as provided in subsection (4) of this section, a claim under  this section against
+a public body or an officer, employee or agent of a public body acting within the scope of
+[9]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+employment is subject to ORS 30.260 to 30.300.
+SECTION 21.
+(1) Any person may seek an injunction against an individual or  a public
+body to restrain a threatened or actual violation of ORS 162.367 or 181A.702 or section 1,  2,
+7, 8, 9, 10, 12, 13, 14, 15, 17 or 18 of this 2026 Act.
+(2) A defendant in an action under this  section may not assert any privilege or immunity,
+including any immunity provided under ORS 30.265.
+(3) The court shall award reasonable attorney fees and costs to  a prevailing plaintiff in
+an action under this section.
+CAPTIONS
+SECTION 22. The unit captions used in this 2026 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2026 Act.
+EMERGENCY CLAUSE
+SECTION 23. This 2026 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2026 Act takes effect
+on its passage.
+[10]

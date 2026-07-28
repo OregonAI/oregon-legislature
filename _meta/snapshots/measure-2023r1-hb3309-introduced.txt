@@ -1,0 +1,372 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 3309
+Sponsored by Representative VALDERRAMA; Representative HUDSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires minimum percentages of certain  accessible units in multifamily housing developed un-
+der Housing and Community Services Department programs. Requires department  to include acces-
+sible units and accessibility considerations in programs and plans.
+Directs department to study issues relating to accessible housing and to  submit findings to in-
+terim committees of Legislative Assembly no later than September 15, 2024.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to housing accessibility; creating new provisions;  amending ORS 456.515, 456.555 and
+456.571; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2023 Act is added to and made a  part of ORS 456.515 to
+456.725.
+SECTION 2. Except as limited by federal law  or program requirement, all grants, loans
+or housing programs administered by the Housing and Community  Services Department un-
+der ORS 456.515 to 456.725 or ORS chapter 458 that would create new multifamily  housing
+must require that at least  three percent of the units contain communication features and
+at least 7.5 percent of the units contain mobility features, as those  terms are used in the
+United States Department of Justice’s “2010 ADA Standards for Accessible Design.”
+SECTION 3. (1) The Housing and Community Services Department shall conduct a study
+relating to the provision of state-funded accessible units, as defined  in ORS 456.515. The
+study must include:
+(a) The proportions of housing developed  with money from programs of the department
+with accessible units, divided by type;
+(b) An estimate of the amount of unmet accessible units in the state; and
+(c) A review of rules  of the department and state land use and building code standards
+that are applicable to accessible units.
+(2) The Department of State Lands and Department of Consumer  and Business Services
+shall assist the Housing and Community Services Department with the study.
+(3) The department shall submit a report in the manner provided  by ORS 192.245, and
+may include recommendations for legislation, to the appropriate  interim committees of the
+Legislative Assembly no later than September 15, 2024.
+SECTION 4.
+ ORS 456.515 is amended to read:
+456.515. As  used in ORS 456.515 to 456.725 and ORS chapter 458 unless the context requires
+otherwise:
+(1) “Accessible unit” includes dwelling units:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1868
+HB 3309
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Designed and constructed for accessibility in accordance with section  1102 or 1103 of
+the International Code Council Standard for  Accessible and Usable Buildings and Facilities
+as last updated April 2022; or
+(b) That  contain mobility features or communication features as described in the United
+States Department of Justice’s “2010 ADA Standards for Accessible Design.”
+[(1)] (2)  “Community Action Partnership of Oregon” means an organization described in  ORS
+458.505.
+[(2)] (3)  “Construction” includes, but is  not limited to, new construction or moderate or sub-
+stantial rehabilitation of existing structures or facilities.
+[(3)] (4) “Council” means the Oregon Housing Stability Council established under ORS 456.567.
+[(4)] (5) “Department” means the Housing and Community Services Department established un-
+der ORS 456.555.
+[(5)] (6) “Director” means the Director of the Housing and Community Services Department.
+[(6)] (7)  “Elderly household” means a household whose head is over the age of  55, residing in
+this state.
+[(7)] (8) “Major life activity” includes but is not limited to self-care, ambulation, communication,
+transportation, education, socialization, employment and ability  to acquire, rent or maintain prop-
+erty.
+[(8)(a)] (9)(a)  “Multifamily  housing” means a structure or facility established primarily to pro-
+vide housing that provides more than  one living unit, and may also provide facilities that are func-
+tionally related and  subordinate to the living units for use by the occupants in social, health,
+educational or recreational activities:
+(A) For the elderly, including but not  limited to individual living units within such structures,
+mobile home and manufactured dwelling parks and residential facilities licensed under  ORS 443.400
+to 443.455 and other congregate care facilities with or without domiciliary care.
+(B) For persons with disabilities, including,  but not limited to, individual living units within such
+structures, mobile home and manufactured dwelling  parks and residential facilities licensed under
+ORS 443.400 to 443.455 and other congregate care facilities with or without domiciliary care.
+(b) “Multifamily housing” does not include nursing homes, hospitals,  places primarily engaged
+in recreational activities and single-family, detached dwellings,  except manufactured dwellings situ-
+ated in a mobile home and manufactured dwelling park.
+[(9)] (10) “Person with  a disability” means a person who has a physical or mental impairment
+that substantially limits one or more major life activities.
+[(10)] (11) “Target population” means:
+(a) Elderly households; or
+(b) Persons with disabilities.
+SECTION 5.
+ ORS 456.555 is amended to read:
+456.555. (1) The Housing and Community Services Department is established.
+(2) The department shall be under the supervision and control of a director  who is responsible
+for the performance of the  duties imposed upon the department. The Governor shall appoint the
+Director of the Housing and Community Services Department. The director shall hold  office at the
+pleasure of the Governor. The person appointed as  director shall be a person who, by training and
+experience, is well qualified to perform the duties of the office.
+(3) The director shall receive such salary as may  be provided by law, or, if not so provided, as
+may be fixed by the Governor. In addition to the salary of the director, the director  shall, subject
+[2]
+HB 3309
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to the limitations otherwise provided by law,  be reimbursed for all expenses actually and necessarily
+incurred by the director in the performance of official duties.
+(4) The director  may establish department divisions including but not limited to divisions for
+administration, housing programs and community services programs.
+(5) The Oregon Housing Stability Council shall:
+(a) With the advice of the director, set policy and approve or disapprove rules  and standards for
+housing programs;
+(b) Approve or disapprove loans, grants and other funding award proposals under ORS 456.561;
+(c) Provide policy direction and oversight to the department regarding the department’s financial
+planning and biennial budget proposal prior to its submittal  to the Oregon Department of Adminis-
+trative Services; [ and]
+(d) Carry out the provisions of ORS 456.571[ .]; and
+(e) Prioritize loans, grants and other funding awards based on the quantity and quality
+of accessible units that the award will generate.
+(6) The Housing and Community Services Department and the council shall consider  advice on
+housing and community service programs from:
+(a) Persons who have experienced housing instability;
+(b) Tribes;
+(c) The Community Action Partnership of Oregon;
+(d) Continuums of care, as defined in 24 C.F.R. part 578;
+(e) Local governments;
+(f) Nonprofit organizations;
+(g) Homeless services providers;
+(h) Culturally specific organizations;
+(i) Housing providers;
+(j) Veterans’ services organizations; [ and]
+(k) Persons with disabilities and disability services or advocacy organizations; and
+[(k)] (L)  Other entities identified by the department by rule.
+(7) The  director shall report regularly to the council to keep the council informed on progress
+made by the department in carrying out the department’s responsibilities for housing programs.
+(8) The department shall administer federal programs with advice from the council. Federal
+funds for housing  stabilization must, to the extent consistent with federal law, be allocated statewide
+in a manner proportionate to a needs-based and geographically based formula.
+(9) The department may adopt rules to carry out the programs that the department is  charged
+with administering, including, but not limited to, rules regarding:
+(a) Administration and enforcement.
+(b) Criteria for the granting of benefits.
+(c) The establishment of fees and charges.
+(d) The identification of housing programs and community services programs.
+(e) The distinguishing of housing programs from community services programs.
+(10) Subject to the approval of the council, the department shall establish by rule  one or more
+threshold property purchase prices above which a housing  loan proposed by the department requires
+council review and approval under ORS 456.561.  In establishing or modifying a threshold property
+purchase price under this subsection,  the department shall consider any maximum acquisition cost
+set forth in the Internal Revenue Code or federal rules and regulations implementing the code.
+[3]
+HB 3309
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(11) Subject to the  approval of the council, the department shall establish by rule one or more
+threshold amounts above which a housing  grant or other housing funding award proposal requires
+council review and approval under ORS 456.561.
+SECTION 6.
+ ORS 456.571 is amended to read:
+456.571. (1) The Oregon Housing Stability Council shall, with the advice of the Director of  the
+Housing and Community Services Department, develop policies to:
+(a) Aid in  stimulating and increasing the supply of housing for persons and families of lower
+income and for households that include a person with a disability ;
+(b) Address geographic and racial disparities; and
+(c) Ensure funds distributed by the Housing  and Community Services Department contribute to
+addressing other state priorities.
+(2) The council shall make special effort to respond  to both private and public actions that may
+raise the cost of the housing supply in the open market, as the open market  is the source of housing
+for the preponderance  of lower income households  and households that include a person with a
+disability.
+(3) The council is responsible for studying and commenting upon, and  advising the department,
+Governor, Legislative Assembly, other  state agencies and local governments concerning, local, state
+and federal legislation or rules that affect the cost and supply of housing,  both before and after the
+legislation  and  rules are enacted. For purposes of this subsection, “legislation or rules that affect
+the cost and supply of housing” includes but is not limited to legislation or rules that would:
+(a) Provide financing for the construction or rehabilitation of housing;
+(b) Subsidize new or existing housing costs for lower income households by  income support, tax
+credit, or support service methods;
+(c) Regulate the division of land;
+(d) Regulate the use of land;
+(e) Regulate building construction standards;
+(f) Regulate fees and charges for inspection services, permits,  or professional services related
+to housing;
+(g) Encourage alternatives that increase housing choices;
+(h) Encourage alternatives that increase the quantity and quality of accessible units;
+[(h)] (i) Create or avert overlapping jurisdictional functions and the  concomitant increased costs
+that are reflected in housing prices;
+[(i)] (j)  Create or avoid conflicting state  and federal regulations that deprive lower income
+households of assistance; and
+[(j)] (k) Help or hinder compliance with the housing goals established by the Land Conservation
+and Development Commission under ORS 197.240.
+(4) The council, with the approval of the Governor, may initiate legal  proceedings in the name
+of the council to further the council’s purposes under this section.
+(5) The council shall exercise the responsibilities and powers of the council in a  manner that
+expedites the acquisition, construction, improvement or rehabilitation of housing.
+(6) With respect to the Community  Development Incentive Project Fund established under ORS
+458.720, the council shall develop program guidelines, including specific  project criteria and financ-
+ing mechanisms,  review applications seeking funding from the fund and make recommendations for
+funding approval to  the director and review proposals for cooperative agreements or joint projects
+between the department and other state agencies to facilitate the goals of the fund.
+[4]
+HB 3309
+1
+2
+3
+4
+5
+6
+7
+8
+(7) The council, in conjunction with the Community  Action Partnership of Oregon, shall advise
+and assist the department with rules, policies  and programs regarding low income home energy as-
+sistance under ORS 458.515.
+(8) The council,  in conjunction with the Community Action Partnership of Oregon, shall ensure
+the coordination of state agency homelessness relief efforts.
+SECTION 7.
+This 2023 Act takes effect on the 91st day after the date on  which the 2023
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[5]

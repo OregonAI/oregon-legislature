@@ -1,0 +1,709 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2227
+Sponsored by Representative WHISNANT; Representative NEARMAN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs Legislative Fiscal Officer to prepare  fiscal impact statement on legislative measures
+reported out of committee that would have financial effect on small businesses in state.
+Transfers responsibility for revenue estimates  upon which legislatively adopted budget is based
+to State Treasurer. Allows State Treasurer to contract with qualified nonpartisan  public or private
+entity to prepare revenue estimates.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to state finance; creating new provisions; amending ORS  291.349, 291.357 and 314.840; and
+declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Section 2 of this 2017 Act is added to and made a  part of ORS 173.025 to
+173.055.
+SECTION 2. (1) As used in this section, “small business” has the meaning given that
+term in ORS 183.310.
+(2) The Legislative Fiscal Officer, with the aid of the Oregon Department of  Administra-
+tive Services, the Legislative Revenue Officer and state agencies, shall prepare  a fiscal im-
+pact statement for each measure reported out of a committee  of the Legislative Assembly
+that would have a financial effect on small businesses in this state. The statement must de-
+scribe the financial effect that the  measure would, if enacted, have on small businesses in
+this state.
+SECTION 3.
+(1) In addition to the quarterly  estimates prepared by the Oregon Depart-
+ment of Administrative Services under ORS 291.342, the State Treasurer, with  the assistance
+of the Legislative Revenue Officer, the Legislative Fiscal Officer, the  Department of Revenue
+and the Oregon Department of Administrative Services, shall for  each calendar quarter of
+the year ascertain  by computation and estimate the total amount of revenue available for
+state purposes for the  current fiscal year, as well as the amount of revenue received quar-
+terly, cumulated throughout the biennium.
+(2) During a regular session of  the Legislative Assembly held in an odd-numbered year,
+as specified in ORS 171.010, the State  Treasurer shall also estimate the total anticipated re-
+venues available for purposes of enacting the legislatively adopted budget, as defined in  ORS
+291.002, for the next biennium.
+(3) The State Treasurer shall report the estimates of revenues to the Emergency Board,
+or if the Legislative Assembly is in session, to the Joint Committee on Ways and Means.
+(4) For purposes of enacting the legislatively adopted budget,  as defined in ORS 291.002,
+the Legislative Assembly shall use  the estimates of revenues prepared by the State Treas-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1770
+HB 2227
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+urer under subsections (1) and (2) of this section.
+(5) In carrying out the duties imposed under subsections (1) to (3) of this section, the
+State Treasurer shall issue quarterly  a statement setting forth the methodology and as-
+sumptions used in making the estimates of revenues. Nothing in this subsection requires  the
+statement  to  set forth procedures used or methods used to determine either the methodology
+or the assumptions.
+(6)(a) Except as provided in  paragraph (b) of this subsection, an estimate of revenues or
+revenue forecast  required under any provision of the Oregon Constitution or any provision
+of law other than this section shall be  considered to be an estimate or forecast prepared by
+the State Treasurer.
+(b) An estimate of revenues  or revenue forecast required under Article IX, section 14,
+of the Oregon Constitution,  or ORS 291.216 or 291.349 shall be considered to be an estimate
+or forecast prepared by the Oregon Department of Administrative Services  under ORS
+291.342 or 291.348 or other authority.
+(7) The State Treasurer  may contract with a qualified nonpartisan public or private en-
+tity to perform the duties of the State Treasurer as required under this section.
+SECTION 4.  ORS 291.349 is amended to read:
+291.349. (1) As soon as practicable after adjournment sine die of the odd-numbered  year regular
+session of the Legislative Assembly, the Oregon Department of Administrative  Services shall report
+to the Legislative Revenue Officer and the Legislative Fiscal Officer the estimate as of  July 1 of the
+first year of the biennium of General Fund and State Lottery  Fund revenues that will be received
+by the state during  that biennium. The Oregon Department of Administrative Services shall base its
+estimate on the last forecast [ given to  the Legislative Assembly ] made by the department  before
+adjournment sine die of the odd-numbered year regular session [ on which the printed, adopted budget
+prepared in the Oregon Department of  Administrative Services is based ], adjusted only insofar as
+necessary to reflect changes in laws adopted at  that session. The report shall contain the estimated
+revenues from corporate income and excise taxes separately from the estimated  revenues from other
+General Fund sources. The Oregon Department of Administrative Services may  revise the estimate
+if necessary following adjournment sine die of a  special session or an even-numbered year regular
+session of the Legislative Assembly, but any revision does not affect the basis  of the computation
+described in subsection (3) or (4) of this section.
+(2) As soon as practicable after the end of  the biennium, the Oregon Department of Adminis-
+trative Services shall report to the Legislative Revenue Officer and  the Legislative Fiscal Officer,
+or the Legislative Assembly if it is in session, the amount of General Fund  revenues collected as
+of the last June 30 of the preceding biennium. The report shall contain  the collections from corpo-
+rate income and excise taxes separately from collections from other sources.
+(3) If the  revenues received from the corporate income and excise taxes during the biennium
+exceed the amounts estimated to be received from such  taxes for the biennium, as estimated after
+adjournment sine die of  the odd-numbered year regular session, by two percent or more, the total
+amount of that excess shall be retained in the General Fund and used, in the manner described in
+ORS 291.345, to provide additional funding for public education, kindergarten through grade 12.
+(4) If the revenues received from General Fund revenue  sources, exclusive of those described in
+subsection (3) of this section, during the biennium exceed the  amounts estimated to be received from
+such sources for the biennium, as  estimated after adjournment sine die of the odd-numbered year
+regular session, by two percent or  more, there shall be credited to personal income taxpayers an
+[2]
+HB 2227
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+amount equal to the total amount of that  excess, reduced by the cost certified by the Department
+of Revenue under ORS 291.351 as being allocable to credits described under this subsection.  The
+excess amount to be credited shall be credited to personal  income taxpayers in a percentage amount
+of prior year personal income tax liability as determined under subsection (5) of this section.
+(5)(a) If there  is an excess to be credited under subsection (4) of this section, on or before Oc-
+tober 1, following the end of each  biennium, the Oregon Department of Administrative Services shall
+determine and certify to the Department  of Revenue the percentage amounts of credit for purposes
+of subsection (4) of this section. The percentage amounts determined shall be percentage amounts
+to the nearest one-tenth of a percent that will distribute the excess to  be credited to personal in-
+come taxpayers.
+(b) The percentage amount applicable  to subsection (4) of this section shall equal the amount
+distributed under subsection (4) of  this section divided by the estimated total personal income tax
+liability for all personal income taxpayers for tax years beginning in the  calendar year immediately
+preceding the calendar year in which the excess is determined.
+(c) The amount of the surplus credit under subsection (4) of this section is determined by
+multiplying the  percentage amount determined under paragraph (b) of this subsection by the total
+amount of a personal  income taxpayer’s tax liability for the tax year beginning in the calendar year
+immediately preceding the calendar year in which the excess is determined in order to  calculate the
+amount to be credited to the taxpayer.
+(d) The credit shall  be determined based on the tax liability as shown on the return of the tax-
+payer or as corrected by the Department of Revenue.
+(e) The credit shall be computed after the allowance of  a credit provided under ORS 316.082,
+316.131 or 316.292, but  before the allowance of any other credit or offset against tax liability allowed
+or allowable under any  provision of law of this state, and before the application of estimated tax
+payments, withholding or other advance tax payments.
+(f) For personal income taxpayers,  if a credit applied against tax liability as described in para-
+graph (e) of this subsection reduces tax  liability to zero and an amount of the credit remains unused,
+the remaining unused amount shall be refunded to the taxpayer. For purposes of ORS chapters  305,
+314, 315 and 316, refunds  issued under this paragraph are refunds of an overpayment of tax imposed
+under ORS chapter 316.
+(g) The Department of Revenue may prescribe by rule the  manner of calculating and claiming
+a credit if the filing status of a taxpayer changes between the tax year for which a credit may  be
+claimed and the succeeding tax year.
+(6) A refund may not be made under this section to a  taxpayer if the amount of the refund is
+less than $1.
+(7) Not later  than October 15 following the end of the biennium, the Department of Revenue
+shall provide information and  guidance to taxpayers relating to the calculation of the credit. The
+department may make the information and guidance available electronically or otherwise.
+(8) The Department of Revenue may adopt rules specifying the manner for issuing  refunds under
+this section to taxpayers who filed returns for the tax year  on which the credit is computed but who
+are not required to file returns for the year in which the credit could be claimed.
+SECTION 5.
+ ORS 291.357 is amended to read:
+291.357. (1) As used in this section, “general governmental purposes” means:
+(a) Those  activities defined as governmental activities under the accounting standards
+promulgated by the Governmental Accounting Standards Board of the Financial  Accounting Foun-
+[3]
+HB 2227
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+dation that are in effect on August 10, 2001; and
+(b) Post-secondary educational activities that are partially funded by student tuition and fees.
+(2) Each biennium, state governmental appropriations for general governmental purposes shall
+be no greater than eight percent of projected personal income in Oregon for the same  biennium.
+Projected personal income shall be based on the United States Department of Commerce projections
+used by the [ Oregon Department of Administrative Services ] State Treasurer  in  the last [ forecast]
+quarterly revenue estimate  given to the Legislative Assembly  before adjournment sine die of the
+odd-numbered year regular session on which the [ printed,] legislatively adopted  budget , as defined
+in ORS 291.002, is based.
+(3) For purposes of this section, the following are considered to be appropriations:
+(a) An authorization, given by law, to expend moneys in a biennium;
+(b) A limitation, imposed by law, on the expenditure in  a biennium of moneys that are contin-
+uously appropriated; and
+(c) An  estimate of amounts of moneys that are continuously appropriated that will be spent in
+a biennium without limitation.
+(4) The following appropriations are not subject to  the limitation on appropriations contained
+in this section:
+(a) Appropriations for the construction or acquisition of assets that are financed by state bonds,
+certificates of participation or other forms of borrowing.
+(b) Appropriations of moneys received directly or indirectly from the federal government.
+(c) Appropriations for fee remission programs of public universities listed in ORS 352.002.
+(d) Appropriations of moneys voluntarily donated to a state agency.
+(e) Appropriations of moneys from revenue increases or  new revenue sources if the increases
+or sources result from  approval of a measure by the people at an election held on or after August
+10, 2001.
+(f) Appropriations to fund new programs or to increase funding for  existing programs if the need
+for new or increased funding results from approval of a measure by the people at an election  held
+on or after August 10, 2001.
+(5) The limitation on appropriations established by this section may  be exceeded for a biennium
+if the Governor declares an emergency and three-fifths of  the members serving in each house of the
+Legislative Assembly affirmatively vote to exceed the limitation for the biennium.
+SECTION 6.
+ ORS 314.840 is amended to read:
+314.840. (1) The Department of Revenue may:
+(a) Furnish any taxpayer, representative authorized to represent the taxpayer under ORS 305.230
+or person designated by the taxpayer under ORS 305.193, upon  request of the taxpayer, represen-
+tative or designee, with a copy  of the taxpayer’s income tax return filed with the department for
+any year, or with a copy of any report filed by the taxpayer in connection with the return, or with
+any other information the department considers necessary.
+(b) Publish lists of taxpayers who are entitled to unclaimed tax refunds.
+(c) Publish statistics so classified as to prevent the identification  of income or any particulars
+contained in any report or return.
+(d) Disclose a taxpayer’s name, address, telephone number, refund amount,  amount due, Social
+Security number, employer identification number or other taxpayer identification number to  the ex-
+tent necessary  in connection with collection activities or the processing and mailing of correspond-
+ence or of forms for any  report or return required in the administration of any local tax under ORS
+[4]
+HB 2227
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+305.620 or any law imposing a tax upon or measured by net income.
+(2) The department also may disclose and give access to information described  in ORS 314.835
+to:
+(a) The Governor  of the State of Oregon or the authorized representative of the Governor with
+respect to an individual who is  designated as being under consideration for appointment or reap-
+pointment to an office or for employment in the office of the Governor.  The information disclosed
+shall be confined to whether the individual:
+(A) Has filed returns with respect  to the taxes imposed by ORS chapter 316 for those of not
+more than the three immediately preceding years for which the individual was required to  file an
+Oregon individual income tax return.
+(B) Has failed to pay any tax within 30 days  from the date of mailing of a deficiency notice or
+otherwise respond to a deficiency notice within 30 days of its mailing.
+(C) Has been assessed any penalty under the Oregon personal income tax laws and the nature
+of the penalty.
+(D) Has been or is under investigation for possible criminal offenses  under the Oregon personal
+income tax laws. Information disclosed pursuant  to this paragraph shall be used only for the purpose
+of making the appointment, reappointment or decision to employ or not to  employ the individual in
+the office of the Governor.
+(b) An officer or employee of the  State Treasurer or the  Oregon Department of Administrative
+Services duly authorized or employed  to prepare revenue estimates, or a person contracting with the
+State Treasurer or the  Oregon Department of  Administrative Services to prepare revenue esti-
+mates, in the preparation of revenue estimates required under section 3 of this 2017 Act, required
+for the Governor’s budget under ORS 291.201  to 291.226, or required for submission to the Emer-
+gency Board or  the Joint Interim Committee on Ways and Means, or if the Legislative Assembly is
+in session, to the Joint Committee on Ways and Means, and to the  Legislative Revenue Officer or
+Legislative Fiscal Officer under ORS 291.342,  291.348 and 291.445. The Department of Revenue shall
+disclose and give access to the information described in ORS  314.835 for the purposes of this para-
+graph only if:
+(A) The request for information is made in writing, specifies  the purposes for which the request
+is made and is signed by an authorized representative of the  State  Treasurer or the  Oregon De-
+partment of Administrative Services. The form for request for information shall be prescribed  by the
+Oregon Department of Administrative Services and approved by the Director of the Department  of
+Revenue.
+(B) The officer, employee or person  receiving the information does not remove from the premises
+of the Department of Revenue any  materials that would reveal the identity of a personal or corpo-
+rate taxpayer.
+(c) The Commissioner of Internal Revenue or authorized  representative, for tax administration
+and compliance purposes only.
+(d) For tax administration and compliance  purposes, the proper officer or authorized represen-
+tative of any of the following entities that has or is  governed by a provision of law that meets the
+requirements of any applicable provision of the Internal Revenue Code as to confidentiality:
+(A) A state;
+(B) A city, county or other political subdivision of a state;
+(C) The District of Columbia; or
+(D) An association established exclusively to provide services to federal, state or local  taxing
+[5]
+HB 2227
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+authorities.
+(e) The Multistate Tax Commission or its  authorized representatives, for tax administration and
+compliance purposes only. The Multistate Tax Commission may make the information available  to
+the Commissioner of Internal Revenue or the  proper officer or authorized representative of any
+governmental entity described in and meeting the qualifications of paragraph (d) of this subsection.
+(f) The Attorney General, assistants and employees in the Department of Justice,  or other legal
+representative of the State of Oregon, to the extent the department  deems disclosure or access
+necessary for the performance of the duties of advising or representing the department  pursuant to
+ORS 180.010 to 180.240 and the tax laws of this state.
+(g) Employees of the State of Oregon, other  than of the Department of Revenue or Department
+of Justice, to the extent the department deems disclosure or access necessary for such  employees
+to perform their duties under contracts  or agreements between the department and any other de-
+partment, agency or subdivision of the State of Oregon, in the  department’s administration of the
+tax laws.
+(h) Other persons, partnerships, corporations and other  legal entities, and their employees, to
+the extent the department deems disclosure or  access necessary for the performance of such others’
+duties under contracts  or agreements between the department and such legal entities, in the
+department’s administration of the tax laws.
+(i) The Legislative Revenue Officer or authorized representatives upon compliance  with ORS
+173.850. Such officer or representative shall not remove  from the premises of the department any
+materials that would reveal the identity of any taxpayer or any other person.
+(j) The Department of Consumer and Business Services, to the  extent the department requires
+such information to determine  whether it is appropriate to adjust those workers’ compensation
+benefits the amount of which is based pursuant to ORS chapter 656  on the amount of wages or
+earned income received by an individual.
+(k) Any agency of the State of Oregon, or any person, or any officer  or employee of such agency
+or person to whom disclosure or access is given  by state law and not otherwise referred to in this
+section, including but not limited to  the Secretary of State as Auditor of Public Accounts under
+Article VI, section 2, of the Oregon Constitution; the Department  of Human Services pursuant to
+ORS 412.094; the Division of  Child Support of the Department of Justice and district attorney re-
+garding cases for which they are providing support enforcement  services under ORS 25.080; the
+State Board of Tax Practitioners, pursuant to ORS 673.710;  and the Oregon Board of Accountancy,
+pursuant to ORS 673.415.
+(L) The Director of the Department of Consumer and Business Services to determine that a
+person complies with  ORS chapter 656 and the Director of the Employment Department to determine
+that a person complies with ORS chapter 657, the following employer information:
+(A) Identification numbers.
+(B) Names and addresses.
+(C) Inception date as employer.
+(D) Nature of business.
+(E) Entity changes.
+(F) Date of last payroll.
+(m) The Director of the Oregon Health Authority to  determine that a person has the ability to
+pay for care that includes services provided by  the Oregon State Hospital, or the Oregon Health
+Authority to collect any unpaid cost of care as provided by ORS chapter 179.
+[6]
+HB 2227
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(n) Employees of  the Employment Department to the extent the Department of Revenue deems
+disclosure  or  access to information on a combined tax report filed under ORS 316.168 is necessary
+to performance of their duties in administering the tax imposed by ORS chapter 657.
+(o) The State Fire Marshal to assist the State  Fire Marshal in carrying out duties, functions and
+powers under ORS 453.307 to 453.414, the employer or agent name, address, telephone number and
+standard industrial classification, if available.
+(p) Employees  of the Department of State Lands for the purposes of identifying, locating and
+publishing lists of taxpayers entitled to unclaimed refunds as required  by the provisions of chapter
+694, Oregon Laws 1993. The information shall be limited to the  taxpayer’s name, address and the
+refund amount.
+(q) In addition to the disclosure  allowed under ORS 305.225, state or local law enforcement
+agencies to assist in the investigation or prosecution of the following criminal activities:
+(A) Mail theft of a check, in which case  the information that may be disclosed shall be limited
+to the stolen document, the  name, address and taxpayer identification number of the payee, the
+amount of the check and the date printed on the check.
+(B) The counterfeiting, forging or altering  of a check submitted by a taxpayer to the Department
+of Revenue or issued  by the Department of Revenue to a taxpayer, in which case the information
+that may be disclosed  shall be limited to the counterfeit, forged or altered document, the name, ad-
+dress and taxpayer identification number of the payee, the amount  of the check, the date printed
+on the check and the altered name and address.
+(r) The United States Postal Inspection Service or a  federal law enforcement agency, including
+but not limited to the United States Department of Justice, to assist in the  investigation of the fol-
+lowing criminal activities:
+(A) Mail theft of a check, in which case the  information that may be disclosed shall be limited
+to the stolen document, the name, address and taxpayer identification number  of the payee, the
+amount of the check and the date printed on the check.
+(B) The counterfeiting, forging or altering  of a check submitted by a taxpayer to the Department
+of Revenue or issued by the Department of Revenue to a taxpayer, in which  case the information
+that may be disclosed shall be limited to the counterfeit, forged or altered document,  the name, ad-
+dress and taxpayer identification number of the  payee, the amount of the check, the date printed
+on the check and the altered name and address.
+(s) The United States Financial Management Service, for purposes of  facilitating the offsets de-
+scribed in ORS 305.612.
+(t) A  municipal corporation of this state for purposes of assisting the municipal corporation in
+the administration of a tax of the municipal corporation that is imposed on  or measured by income,
+wages or net earnings from self-employment. Any disclosure under this paragraph may be made  only
+pursuant to a written agreement between the Department of Revenue and the municipal  corporation
+that ensures the confidentiality of the information disclosed.
+(u) A consumer reporting agency, to  the extent necessary to carry out the purposes of ORS
+314.843.
+(v) The Public Employees Retirement Board, to the extent necessary to  carry out the purposes
+of ORS 238.372 to 238.384, and to any public employer, to the extent necessary to  carry out the
+purposes of ORS 237.635 (3) and 237.637 (2).
+(3)(a) Each officer or employee of the department and each person described or  referred to in
+subsection  (2)(a), (b), (f) to (L) or (n) to (q) of this section to whom disclosure or access to the tax
+[7]
+HB 2227
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+information is given under subsection (2) of this section  or any other provision of state law, prior
+to beginning employment or the performance of duties involving such disclosure  or access, shall be
+advised in writing of the provisions of ORS  314.835 and 314.991, relating to penalties for the vio-
+lation of ORS 314.835, and  shall as a condition of employment or performance of duties execute a
+certificate for the department,  in a form prescribed by the department, stating in substance that the
+person has read these provisions of law, that the person has  had them explained and that the person
+is aware of the penalties for the violation of ORS 314.835.
+(b) The disclosure authorized in subsection (2)(r) of this section shall be made only after a
+written agreement has been entered  into between the Department of Revenue and the person de-
+scribed in subsection (2)(r) of this section  to whom disclosure or access to the tax information is
+given, providing that:
+(A) Any information described in  ORS 314.835 that is received by the person pursuant to sub-
+section (2)(r) of this section is  confidential information that may not be disclosed, except to the ex-
+tent necessary  to investigate or prosecute the criminal activities described in subsection (2)(r) of
+this section;
+(B) The information shall be protected as  confidential under applicable federal and state laws;
+and
+(C) The United States Postal Inspection Service or the  federal law enforcement agency shall
+give notice to the Department of Revenue of any request received under the federal Freedom of In-
+formation Act, 5 U.S.C. 552, or other federal law relating to the disclosure of information.
+(4) The Department of Revenue may recover the costs of furnishing the information described
+in subsection (2)(L), (m) and (o) to (q) of this section from the respective agencies.
+SECTION 7.
+(1) Sections 1 to 3 of this 2017 Act and the amendments to ORS 291.349,
+291.357 and 314.840 by sections 4 to 6  of this 2017 Act become operative on January 1, 2018,
+and apply to measures  reported out of committees of the Legislative Assembly, and to esti-
+mates of revenues and economic forecasts required, on or after January 1, 2018.
+(2) The State Treasurer, the Oregon Department of Administrative Services,  the Legis-
+lative Revenue Officer, the Legislative Fiscal Officer and the Department of Revenue  may
+take any action prior to January 1, 2018, that is necessary to allow the State Treasurer,  the
+Oregon Department  of Administrative Services, the Legislative Revenue Officer, the Legis-
+lative Fiscal  Officer and the Department of Revenue to exercise, on and after January 1,
+2018, all the duties, functions and powers conferred  on the State Treasurer, the Oregon De-
+partment of  Administrative Services, the Legislative Revenue Officer, the Legislative Fiscal
+Officer and the Department of Revenue by sections 1 to 3 of this 2017 Act  and the amend-
+ments to ORS 291.349, 291.357 and 314.840 by sections 4 to 6 of this 2017 Act.
+SECTION 8. This 2017 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2017 Act takes effect
+on its passage.
+[8]

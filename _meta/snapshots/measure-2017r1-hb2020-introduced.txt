@@ -1,0 +1,1732 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2020
+Sponsored by Representative HOLVEY
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes Oregon Energy and Climate  Board as oversight and advisory body for Oregon De-
+partment of Energy and Climate.
+Establishes Interagency Climate Coordinating Committee  to make recommendations to board on
+ways to coordinate state policies and programs related to energy and climate.
+Changes name  of State Department of Energy to Oregon Department of Energy and Climate.
+Changes name of Director of State Department of Energy to Energy and Climate Director.
+Abolishes Oregon Global Warming Commission.
+Modifies state energy policy.
+Modifies general duties of department.
+Requires board and department to develop report on existing policies and programs of agencies
+of executive department that are related to greenhouse gas emissions or  climate change, and to in-
+clude in report proposal for restructuring policies and programs in pursuance of certain goals. Re-
+quires board and  department to submit report to appropriate interim committees of Legislative
+Assembly no later than September 15, 2018.
+Becomes operative January 1, 2018.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to State Department of  Energy; creating new provisions; amending ORS 176.820, 244.050,
+352.823, 401.054, 458.505, 469.010, 469.020, 469.030, 469.040, 469.060, 469.110, 469.120 and 469.605;
+repealing ORS 468A.215, 468A.220, 468A.225, 468A.230, 468A.235, 468A.240,  468A.245, 468A.250,
+468A.255, 468A.260 and 469.426; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+ENERGY POLICY
+SECTION 1.
+ ORS 469.010 is amended to read:
+469.010. The Legislative Assembly finds and declares that:
+(1) Continued growth in  demand for [ nonrenewable energy forms ] energy, at affordable cost,
+poses a  serious and immediate, as well as future, concern. [ problem. It is essential that future gen-
+erations not be left a legacy of vanished or depleted resources, resulting in  massive environmental, so-
+cial and financial impact. ]
+(2) It is the goal of Oregon to  promote the efficient use of energy resources [ and to develop
+permanently sustainable energy resources. The need exists for comprehensive state leadership  in energy
+production, distribution and utilization. ] consistent with state environmental policy.  It is, there-
+fore, the policy of Oregon:
+(a) That the development and use of a diverse array of  affordable, sustainable energy re-
+sources be  encouraged. [permanently sustainable energy resources be encouraged utilizing to the
+highest degree possible the private sector of our free enterprise system. ]
+(b) That the development of  energy resources be accomplished consistent with state
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4297
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+greenhouse gas reduction goals.
+[(b)] (c)  That through state government example and policy [ other effective communications ], en-
+ergy conservation and  elimination of wasteful and uneconomical uses of energy and materials be
+promoted. [ This conservation must include, but not be limited  to, resource recovery and materials re-
+cycling.]
+[(c) That the  basic human needs of every citizen, present and future, shall be given priority in the
+allocation of energy resources, commensurate with perpetuation of a free and productive  economy with
+special attention to the preservation and enhancement of environmental quality. ]
+(d) That state government assist every citizen and industry in adjusting to [ a diminished avail-
+ability of energy ] changes in the available mix of energy resources and to climate change .
+(e) That energy-efficient modes of transportation  [ for people and goods ] shall be encouraged[ ,
+while energy-inefficient modes of transportation shall be discouraged ].
+(f) That cost-effectiveness , balanced with environmental policy considerations,  be considered
+in [ state] agency decision-making relating to  energy sources, facilities or conservation[ , and that
+cost-effectiveness be considered in all agency decision-making relating to energy facilities ].
+(g) That  state government shall provide a source of impartial and objective information in order
+that this energy policy may be enhanced.
+OREGON ENERGY AND CLIMATE BOARD
+SECTION 2. Sections 3, 4, 6 and 7 of this 2017 Act are added to  and made a part of ORS
+469.010 to 469.155.
+(Establishment)
+SECTION 3. (1) In order to  ensure close correspondence among Oregon Department of
+Energy and Climate policies  and programs, the public interest and state climate policies,
+there is created the Oregon Energy and Climate Board.
+(2) The Energy  and Climate Director and an Oregon member of the Pacific Northwest
+Electric Power and Conservation Planning Council  shall serve as ex officio members of the
+board.
+(3) The Governor shall appoint five members to the board, subject to confirmation by  the
+Senate as provided in ORS 171.562  and 171.565. Members of the board appointed under this
+subsection must be residents of this state well informed in energy and climate issues and
+shall include the following:
+(a) One member who is an economist;
+(b) One member from an institution of higher education  in Oregon with expertise in en-
+ergy and climate issues;
+(c) One member who represents residential energy users;
+(d) One member who represents commercial or industrial energy users; and
+(e) One member with expertise in transportation issues.
+(4) A member of  the board may not hold any pecuniary interest in, have any contract
+of employment with, or have any substantial voluntary transactions with any  business entity
+conduction operations which if conducted in  this state would be subject to the energy re-
+source supplier assessment imposed under ORS 469.421 (8).
+[2]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 4. (1) The term of office of  each member appointed to the Oregon Energy and
+Climate Board is four years, but the  members of the board may be removed by the Governor.
+Before the expiration of the term  of a member, the Governor shall appoint a successor to
+assume the duties of the member on July 1 of the next following year.
+(2) A member is eligible for reappointment, but no member may serve  more than two
+consecutive terms. In case  of a vacancy for any cause, the Governor shall make an ap-
+pointment to become immediately effective for the unexpired term.
+(3) The board shall select one of its members as chairperson and another as vice  chair-
+person, for terms and with duties and powers  necessary for the performance of the functions
+of the offices as the board determines.
+(4) A majority of the members of the board  constitutes a quorum for the transaction of
+business.
+(5) The board shall meet once during each calendar quarter  at a time and place deter-
+mined by the chairperson. The board may hold additional meetings at times and places  de-
+termined by the chairperson or the Energy and Climate  Director, or as requested by a
+majority of the members.
+(6) A member of the board is not entitled to compensation  but may be reimbursed from
+funds available to the board for actual and  necessary travel and other expenses incurred by
+the member in the performance of the member’s official duties in  the manner and amount
+provided in ORS 292.495.
+SECTION 5. Notwithstanding the term of office specified by section  3 of this 2016 Act,
+of the members first appointed by the Governor to the Oregon Energy and Climate Board:
+(1) One shall serve for a term ending July 1, 2019.
+(2) One shall serve for a term ending July 1, 2020.
+(3) One shall serve for a term ending July 1, 2021.
+(4) Two shall serve for terms ending July 1, 2022.
+(Duties)
+SECTION 6.
+(1) The Oregon Energy and  Climate Board shall advise the Oregon Depart-
+ment of Energy and Climate regarding:
+(a) The implementation, administration and enforcement of  department programs and
+activities;
+(b) The  development of department policies in accordance with the policy stated in ORS
+469.010 and state environmental policies; and
+(c) The preparation for submission to the Governor budget  forms under ORS 291.208 for
+purposes related to the compilation and preparation of the Governor’s budget  under ORS
+291.216.
+(2) In advising the department under subsection (1) of this section the board shall give
+due regard to the department’s role in aiding agencies of the executive department as defined
+in ORS 174.122 in the achievement of the  greenhouse gas reduction goals established by ORS
+468A.205.
+(3) By  arrangement with the chairperson, the Energy and Climate Director shall review
+with the board the activities of the department and,  subject to policy direction by the board,
+outline the methods, policies and program of work for the department.
+[3]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4) The board shall receive regular reports from the Energy Facility Siting  Council and
+the Oregon Hanford Cleanup Board.
+INTERAGENCY CLIMATE COORDINATING COMMITTEE
+SECTION 7. (1) The Interagency Climate Coordinating Committee is established, con-
+sisting of the following ex officio members:
+(a) The Director of Transportation;
+(b) The chairperson of the Public Utility Commission of Oregon;
+(c) The Director of the Department of Environmental Quality;
+(d) The Director of Agriculture;
+(e) The State Forester;
+(f) The Water Resources Director;
+(g) The Director of the Oregon Business Development Department;
+(h) The State Fish and Wildlife Director; and
+(i) Any number of additional ex  officio members, each from a state agency, as the Oregon
+Energy and Climate Board  determines are necessary to ensure that all state agencies
+charged with administering policies or programs related to  energy and climate are repres-
+ented on the committee.
+(2) The committee shall, as requested by the Oregon Energy and  Climate Board, collab-
+orate to identify, evaluate and make  recommendations to the Oregon Energy and Climate
+Board on ways to coordinate state  policies and programs related to energy and climate, with
+a focus on better coordination of policies or  programs so as to increase the effectiveness of
+efforts to reduce greenhouse gas emissions  in Oregon consistent with the greenhouse gas
+emissions reduction goals established by ORS 468A.205.
+(3) The committee shall meet  with the Oregon Energy and Climate Board at such times
+and places as are specified by the  call of the chairperson of the Oregon Energy and Climate
+Board.
+CLIMATE CENSUS REPORT
+SECTION 8.
+(1) The  Oregon Energy and Climate Board and the Oregon Department of
+Energy and Climate shall review and develop a report  on the existing policies and programs
+of all  agencies of the executive department, as defined in ORS 174.112, that relate to
+greenhouse gas emissions or climate change. For each  climate policy or program, the report
+shall describe:
+(a) The policy or program and its goals;
+(b) Implementation and budget information related to the policy or program;
+(c) Any metrics  that have been applied to measure the progress of the agency toward
+achieving the goals of the policy or program, and the results of the policy or program based
+on those metrics or on other measures of performance; and
+(d) Any other relevant data or information.
+(2) Based on the review and cataloging of existing climate policies  and programs by the
+board and the department under subsection (1) of this section, the board and  the department
+shall include in the report a proposal, which may  include recommendations for legislation,
+[4]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+for restructuring this state’s policies and programs that relate to  greenhouse gas emissions
+or climate change, with the goals of ensuring that:
+(a) The State of Oregon has an identified agency that is charged with  a definitive lead-
+ership role  in climate policy and program coordination, development, analysis and
+prioritization;
+(b) All state climate policies and programs are  being administered in a manner that is
+well-coordinated and that positions this state to achieve the greenhouse gas emissions re-
+duction goals set forth in ORS 468A.205; and
+(c) All agencies of the executive department  have systems in place to accurately evalu-
+ate:
+(A) The effectiveness of climate policies or programs administered by the agencies;
+(B) Future objectives related to climate  and how those objectives may be best achieved
+in a coordinated manner; and
+(C) Additional greenhouse gas mitigation strategies that may be pursued by agencies.
+(3) The board and the department shall submit the report  required by this section to the
+appropriate interim committees of the Legislative Assembly  no later than September 15,
+2018.
+SECTION 9.
+Section 8 of this 2017 Act is repealed on December 31, 2018.
+PROVISIONS ABOLISHING GLOBAL WARMING COMMISSION
+SECTION 10. The Oregon Global Warming Commission is abolished.
+SECTION 11. ORS 468A.210, 468A.215, 468A.220, 468A.225, 468A.230, 468A.235, 468A.240,
+468A.245, 468A.250, 468A.255 and 468A.260 are repealed.
+SECTION 12. (1) The Chairperson of the Oregon Global Warming Commission shall:
+(a) Deliver to the Oregon Department of Energy  and Climate all records, property and
+work product within the jurisdiction  of the chairperson that relate to the duties, functions
+and powers of the Oregon  Global Warming Commission as those duties, functions and powers
+existed prior to the effective date of the abolishment  of the commission by section 10 of this
+2017 Act.
+(2) The Energy and Climate Director shall take possession  of the records, property and
+work product.
+(3) The Governor shall resolve any dispute  between the Oregon Global Warming Com-
+mission and the Oregon  Department of Energy and Climate relating to transfers of records,
+property and work product under this section, and the Governor’s decision is final.
+SECTION 13.  ORS 352.823 is amended to read:
+352.823. (1) The Oregon Climate  Change Research Institute is established at Oregon State Uni-
+versity. In administering the institute, Oregon State University may  seek the cooperation of other
+public universities listed in ORS 352.002.
+(2) The purpose of the Oregon Climate Change Research Institute is to:
+(a) Facilitate research by faculty at public universities listed in ORS 352.002 on  climate change
+and its effects on natural and human systems in Oregon;
+(b) Serve as a clearinghouse for climate change information;
+(c) Provide climate change information to the public in integrated and accessible formats;  and
+[(d) Support the Oregon Global Warming Commission in developing strategies to prepare for and
+[5]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to mitigate the effects of climate change on natural and human systems; and ]
+[(e)] (d)  Provide technical assistance to local governments to assist them  in developing climate
+change policies, practices and programs.
+(3) The Oregon Climate Change Research Institute shall assess,  at least once each biennium, the
+state of climate change science, including biological, physical and social science, as  it relates to
+Oregon and the likely effects of climate change on the state. The institute shall  submit the assess-
+ment to the Legislative Assembly in the manner provided in ORS 192.245 and to the Governor.
+(4) State agencies may contract with the Oregon Climate Change  Research Institute to fulfill
+agency needs regarding the collection, storage,  integration, analysis, dissemination and monitoring
+of climate change information, research and training.
+STATE DEPARTMENT OF ENERGY
+(Modification of General Duties; Name Change)
+SECTION 14.  ORS 469.030 is amended to read:
+469.030. (1) There is created the [ State] Oregon Department of Energy  and Climate .
+(2) [ The State Department of Energy shall: ] Subject to the policy direction of the Oregon
+Energy and Climate  Board, and in furtherance of the energy policies stated in ORS 469.010
+and 469.310, the Oregon Department of Energy and Climate shall:
+(a) Provide technical analysis and expert advice  to the Governor and the Legislative As-
+sembly on energy and climate policy;
+[(a)] (b) [Be] Collect, compile and analyze energy data and serve as  the central repository
+within the state government for [ the collection of  data on energy resources; ] energy and climate
+information, to which all agencies shall send information on all energy  and climate-related
+research;
+(c) Monitor energy industry research and developments;
+[(b) Endeavor to utilize all public and private sources to inform and educate the public about  en-
+ergy problems and ways in which the public can conserve energy resources; ]
+(d) Track and evaluate:
+(A) Progress toward achieving the  greenhouse gas emissions reduction goals established
+by ORS 468A.205;
+(B) The advancement of regional, national and international  policies to reduce
+greenhouse gas emissions;
+(C) Local and regional efforts to prepare for the effects of climate change; and
+(D) Other  information, policies or analyses that the department determines will aid in the
+achievement of the greenhouse gas emissions reduction goals established by ORS 468A.205;
+[(c)] (e)  Engage in research, but whenever possible, contract with appropriate  public or private
+agencies  and  dispense funds for research projects and other services related to energy resources
+and climate , except that the State Department of Energy shall endeavor to  avoid duplication of
+research whether completed or in progress;
+[(d)] (f)  Qualify for,  accept and disburse or utilize any private or federal moneys or services
+available for the  administration of ORS [ 176.820,] 192.501 to 192.505, [ 192.690,] 469.010 to 469.155,
+469.300 to 469.563, 469.990, 757.710 and 757.720;
+[(e)] (g)  Administer federal and state energy allocation and  conservation programs and energy
+[6]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+research and development programs and apply for and receive available funds  [ therefor] for the
+programs;
+[(f) Be a clearinghouse for energy research  to which all agencies shall send information on all
+energy related research; ]
+[(g)] (h)  Prepare contingent energy programs to include all forms of energy not  otherwise pro-
+vided pursuant to ORS 757.710 and 757.720;
+[(h) Maintain an inventory of energy research projects in Oregon and the results thereof; ]
+[(i) Collect, compile and analyze energy statistics, data and information; ]
+[(j)] (i)  Contract with public and private agencies for  energy activities consistent with ORS
+469.010 and this section;
+[(k)] (j)  Upon request of the governing body of any affected jurisdiction, coordinate a public  re-
+view of a proposed transmission line according to the provisions of ORS 469.442; and
+[(L) Advise the Governor on energy-related matters. ]
+(k) Provide staff support to the Oregon Energy and Climate Board, the Oregon Hanford
+Cleanup Board and the Energy Facility Siting Council.
+SECTION 15. (1) The  amendments to ORS 469.030 by section 14 of this 2017 Act are in-
+tended to change the name of the “State Department of Energy” to  the “Oregon Department
+of Energy and Climate.”
+(2) For the purpose of harmonizing and clarifying  statute sections published in Oregon
+Revised Statutes, the Legislative Counsel may substitute for words  designating the “State
+Department of Energy,”  wherever they occur in Oregon Revised Statutes, other words des-
+ignating the “Oregon Department of Energy and Climate.”
+(Director)
+SECTION 16.  ORS 469.040 is amended to read:
+469.040. (1) The [ State] Oregon  Department of Energy  and Climate  shall be under the super-
+vision of the Energy and Climate  Director [ of the State Department of Energy ], who shall , subject
+to the policy direction of the Oregon Energy and Climate Board :
+(a) Supervise the day-to-day functions  of the [ State] Oregon  Department of Energy  and
+Climate;
+(b) Supervise and facilitate  the work and research on energy facility siting applications at the
+direction of the Energy Facility Siting Council;
+(c) Hire, assign, reassign and coordinate personnel of the [ State] department [ of Energy ], pre-
+scribe their duties and fix their compensation, subject to the State Personnel Relations Law; and
+(d) Adopt rules and issue  orders to carry out the duties of the director and the [ State] depart-
+ment [of Energy ] in accordance with ORS chapter 183 and the policy stated in ORS 469.010.
+(2) The director may delegate to any  officer or employee the exercise and discharge in the
+director’s name of any power, duty or function of whatever  character vested in the director by law.
+The official act of any person acting in the director’s name and by the director’s authority shall  be
+considered an official act of the director.
+(3) The director shall be appointed by the  Governor[ .], subject to confirmation by the Senate
+in the manner provided by ORS 171.562 and 171.565.
+SECTION 17. (1) The amendments to ORS 469.040 by section 16 of this 2017  Act are in-
+tended to change the name of the “Director of the State Department of Energy” to  the
+[7]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+“Energy and Climate Director.”
+(2) For the purpose of harmonizing and clarifying  statute sections published in Oregon
+Revised Statutes, the Legislative Counsel may substitute for words  designating the “Director
+of the State Department of Energy,” wherever  they occur in Oregon Revised Statutes, other
+words designating the “Energy and Climate Director.”
+SECTION 18.  ORS 469.110 is amended to read:
+469.110. (1) At the direction of the Energy and Climate  Director  [ of the State Department of
+Energy] and of the Oregon Energy  and Climate Board , the [ State] Oregon Department of Energy
+and Climate may represent the  state’s energy-related interests in any matter involving the federal
+government, its departments or agencies, which is within the scope of the power and duties of the
+[State] Oregon  Department of Energy  and Climate , and may, upon request, represent the interest
+of a county, city, state agency, federally recognized  Native American or American Indian tribe,
+special district or owner or operator of an energy facility.
+(2) At the  direction of the director  and the board , the department may intervene in any pro-
+ceeding undertaken by  an agency for the purpose of expressing its views as to the effect of an
+agency action, upon state energy resources and state energy policy.
+(Repeal of Energy Advisory Work Group)
+SECTION 19. ORS 469.426 is repealed.
+CONFORMING AMENDMENTS
+SECTION 20.  ORS 176.820 is amended to read:
+176.820. There is continuously  appropriated from the Motor Vehicle Division Account to the
+[State] Oregon  Department of Energy  and Climate , for deposit in the [ State] Oregon  Department
+of Energy  and  Climate  Account, sufficient moneys for the payment of expenses incurred under
+chapter 606, Oregon Laws 1975, subject  to limitations on payment of expenses as approved under
+legislative authority.
+SECTION 21.  ORS 244.050 is amended to read:
+244.050. (1) On or before April 15 of each year the following persons shall file  with the Oregon
+Government Ethics Commission  a verified statement of economic interest as required under this
+chapter:
+(a) The Governor,  Secretary of State, State Treasurer, Attorney General, Commissioner of the
+Bureau of Labor and Industries, district attorneys and members of the Legislative Assembly.
+(b) Any judicial officer, including justices of the peace and municipal judges,  except any pro tem
+judicial officer who does not otherwise serve as a judicial officer.
+(c) Any candidate for a public office designated in paragraph (a) or (b) of this subsection.
+(d) The Deputy Attorney General.
+(e) The Deputy Secretary of State.
+(f) The Legislative Administrator, the Legislative Counsel, the Legislative Fiscal Officer, the
+Secretary of the Senate and the Chief Clerk of the House of Representatives.
+(g) The  president and vice presidents, or their administrative equivalents, in each public uni-
+versity listed in ORS 352.002.
+(h) The following state officers:
+[8]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Adjutant General.
+(B) Director of Agriculture.
+(C) Manager of State Accident Insurance Fund Corporation.
+(D) Water Resources Director.
+(E) Director of Department of Environmental Quality.
+(F) Director of Oregon Department of Administrative Services.
+(G) State Fish and Wildlife Director.
+(H) State Forester.
+(I) State Geologist.
+(J) Director of Human Services.
+(K) Director of the Department of Consumer and Business Services.
+(L) Director of the Department of State Lands.
+(M) State Librarian.
+(N) Administrator of Oregon Liquor Control Commission.
+(O) Superintendent of State Police.
+(P) Director of the Public Employees Retirement System.
+(Q) Director of Department of Revenue.
+(R) Director of Transportation.
+(S) Public Utility Commissioner.
+(T) Director of Veterans’ Affairs.
+(U) Executive director of Oregon Government Ethics Commission.
+(V) [ Director of the State Department of Energy. ] Energy and Climate Director.
+(W) Director and each assistant director of the Oregon State Lottery.
+(X) Director of the Department of Corrections.
+(Y) Director of the Oregon Department of Aviation.
+(Z) Executive director of the Oregon Criminal Justice Commission.
+(AA) Director of the Oregon Business Development Department.
+(BB) Director of the Office of Emergency Management.
+(CC) Director of the Employment Department.
+(DD) Chief of staff for the Governor.
+(EE) Administrator of the Office for Oregon Health Policy and Research.
+(FF) Director of the Housing and Community Services Department.
+(GG) State Court Administrator.
+(HH) Director of the Department of Land Conservation and Development.
+(II) Board chairperson of the Land Use Board of Appeals.
+(JJ) State Marine Director.
+(KK) Executive director of the Oregon Racing Commission.
+(LL) State Parks and Recreation Director.
+(MM) Public defense services executive director.
+(NN) Chairperson of the Public Employees’ Benefit Board.
+(OO) Director of the Department of Public Safety Standards and Training.
+(PP) Executive director of the Higher Education Coordinating Commission.
+(QQ) Executive director of the Oregon Watershed Enhancement Board.
+(RR) Director of the Oregon Youth Authority.
+(SS) Director of the Oregon Health Authority.
+[9]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(TT) Deputy Superintendent of Public Instruction.
+(i) The First Partner, the legal counsel, the deputy  legal counsel and all policy advisors within
+the Governor’s office.
+(j) Every elected city or county official.
+(k) Every member of a city or county planning, zoning or development commission.
+(L) The chief executive officer of a city or county who performs  the duties of manager or prin-
+cipal administrator of the city or county.
+(m) Members of local government boundary commissions formed under ORS 199.410 to 199.519.
+(n) Every member of a governing body of a metropolitan service  district and the auditor and
+executive officer thereof.
+(o) Each member of the board of directors of the State Accident Insurance Fund Corporation.
+(p) The chief administrative officer and the financial  officer of each common and union high
+school district, education service district and community college district.
+(q) Every member of the following state boards and commissions:
+(A) Board of Geologic and Mineral Industries.
+(B) Oregon Business Development Commission.
+(C) State Board of Education.
+(D) Environmental Quality Commission.
+(E) Fish and Wildlife Commission of the State of Oregon.
+(F) State Board of Forestry.
+(G) Oregon Government Ethics Commission.
+(H) Oregon Health Policy Board.
+(I) Oregon Investment Council.
+(J) Land Conservation and Development Commission.
+(K) Oregon Liquor Control Commission.
+(L) Oregon Short Term Fund Board.
+(M) State Marine Board.
+(N) Mass transit district boards.
+(O) Energy Facility Siting Council.
+(P) Board of Commissioners of the Port of Portland.
+(Q) Employment Relations Board.
+(R) Public Employees Retirement Board.
+(S) Oregon Racing Commission.
+(T) Oregon Transportation Commission.
+(U) Water Resources Commission.
+(V) Workers’ Compensation Board.
+(W) Oregon Facilities Authority.
+(X) Oregon State Lottery Commission.
+(Y) Pacific Northwest Electric Power and Conservation Planning Council.
+(Z) Columbia River Gorge Commission.
+(AA) Oregon Health and Science University Board of Directors.
+(BB) Capitol Planning Commission.
+(CC) Higher Education Coordinating Commission.
+(DD) Oregon Growth Board.
+(EE) Early Learning Council.
+[10]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(FF) Oregon Energy and Climate Board.
+(r) The following officers of the State Treasurer:
+(A) Deputy State Treasurer.
+(B) Chief of staff for the office of the State Treasurer.
+(C) Director of the Investment Division.
+(s) Every member of the board of commissioners of a port governed by ORS 777.005 to 777.725
+or 777.915 to 777.953.
+(t) Every member of the  board of directors of an authority created under ORS 441.525 to 441.595.
+(u) Every member of a governing board of a public university listed in ORS 352.002.
+(v) Every member of the board of directors of an authority created under ORS  465.600 to
+465.621.
+(2) By April 15 next after the date an appointment takes effect, every appointed public official
+on a board or commission listed in subsection (1) of this section shall file  with the Oregon Govern-
+ment Ethics  Commission a statement of economic interest as required under ORS 244.060, 244.070
+and 244.090.
+(3) By  April 15 next after the filing deadline for the primary election, each candidate described
+in subsection (1) of this section shall file with the commission a statement of economic interest  as
+required under ORS 244.060, 244.070 and 244.090.
+(4) Within 30 days after the filing deadline for  the general election, each candidate described in
+subsection (1) of this section who was not a  candidate in the preceding primary election, or who
+was nominated for public office described in subsection (1) of this  section at the preceding primary
+election by write-in  votes, shall file with the commission a statement of economic interest as re-
+quired under ORS 244.060, 244.070 and 244.090.
+(5) Subsections (1) to (4)  of this section apply only to persons who are incumbent, elected or
+appointed public officials as of April 15 and to persons who are candidates on April  15. Subsections
+(1) to (4) of this section also apply to persons who do  not become candidates until 30 days after the
+filing deadline for the statewide general election.
+(6) If a statement required to be filed under this section has not been received by  the commis-
+sion within five days after the date the statement is  due, the commission shall notify the public of-
+ficial or candidate and give the public official or candidate not less than 15 days to comply with  the
+requirements of this section. If the public official or candidate fails to comply by the date set by  the
+commission, the commission may impose a civil penalty as provided in ORS 244.350.
+SECTION 22.
+ ORS 244.050, as amended by section 10,  chapter 88, Oregon Laws 2016, is
+amended to read:
+244.050. (1) On or before April 15 of each year the following persons shall file  with the Oregon
+Government Ethics Commission  a verified statement of economic interest as required under this
+chapter:
+(a) The Governor,  Secretary of State, State Treasurer, Attorney General, Commissioner of the
+Bureau of Labor and Industries, district attorneys and members of the Legislative Assembly.
+(b) Any judicial officer, including justices of the peace and municipal judges,  except any pro tem
+judicial officer who does not otherwise serve as a judicial officer.
+(c) Any candidate for a public office designated in paragraph (a) or (b) of this subsection.
+(d) The Deputy Attorney General.
+(e) The Deputy Secretary of State.
+(f) The Legislative Administrator, the Legislative Counsel, the Legislative Fiscal Officer, the
+[11]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Legislative Policy and Research Director, the Secretary of the Senate  and the Chief Clerk of the
+House of Representatives.
+(g) The president and vice presidents, or their administrative equivalents, in each public  uni-
+versity listed in ORS 352.002.
+(h) The following state officers:
+(A) Adjutant General.
+(B) Director of Agriculture.
+(C) Manager of State Accident Insurance Fund Corporation.
+(D) Water Resources Director.
+(E) Director of Department of Environmental Quality.
+(F) Director of Oregon Department of Administrative Services.
+(G) State Fish and Wildlife Director.
+(H) State Forester.
+(I) State Geologist.
+(J) Director of Human Services.
+(K) Director of the Department of Consumer and Business Services.
+(L) Director of the Department of State Lands.
+(M) State Librarian.
+(N) Administrator of Oregon Liquor Control Commission.
+(O) Superintendent of State Police.
+(P) Director of the Public Employees Retirement System.
+(Q) Director of Department of Revenue.
+(R) Director of Transportation.
+(S) Public Utility Commissioner.
+(T) Director of Veterans’ Affairs.
+(U) Executive director of Oregon Government Ethics Commission.
+(V) [ Director of the State Department of Energy. ] Energy and Climate Director.
+(W) Director and each assistant director of the Oregon State Lottery.
+(X) Director of the Department of Corrections.
+(Y) Director of the Oregon Department of Aviation.
+(Z) Executive director of the Oregon Criminal Justice Commission.
+(AA) Director of the Oregon Business Development Department.
+(BB) Director of the Office of Emergency Management.
+(CC) Director of the Employment Department.
+(DD) Chief of staff for the Governor.
+(EE) Administrator of the Office for Oregon Health Policy and Research.
+(FF) Director of the Housing and Community Services Department.
+(GG) State Court Administrator.
+(HH) Director of the Department of Land Conservation and Development.
+(II) Board chairperson of the Land Use Board of Appeals.
+(JJ) State Marine Director.
+(KK) Executive director of the Oregon Racing Commission.
+(LL) State Parks and Recreation Director.
+(MM) Public defense services executive director.
+(NN) Chairperson of the Public Employees’ Benefit Board.
+[12]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(OO) Director of the Department of Public Safety Standards and Training.
+(PP) Executive director of the Higher Education Coordinating Commission.
+(QQ) Executive director of the Oregon Watershed Enhancement Board.
+(RR) Director of the Oregon Youth Authority.
+(SS) Director of the Oregon Health Authority.
+(TT) Deputy Superintendent of Public Instruction.
+(i) The First Partner, the legal counsel, the deputy  legal counsel and all policy advisors within
+the Governor’s office.
+(j) Every elected city or county official.
+(k) Every member of a city or county planning, zoning or development commission.
+(L) The chief executive officer of a city or county who performs  the duties of manager or prin-
+cipal administrator of the city or county.
+(m) Members of local government boundary commissions formed under ORS 199.410 to 199.519.
+(n) Every member of a governing body of a metropolitan service  district and the auditor and
+executive officer thereof.
+(o) Each member of the board of directors of the State Accident Insurance Fund Corporation.
+(p) The chief administrative officer and the financial  officer of each common and union high
+school district, education service district and community college district.
+(q) Every member of the following state boards and commissions:
+(A) Board of Geologic and Mineral Industries.
+(B) Oregon Business Development Commission.
+(C) State Board of Education.
+(D) Environmental Quality Commission.
+(E) Fish and Wildlife Commission of the State of Oregon.
+(F) State Board of Forestry.
+(G) Oregon Government Ethics Commission.
+(H) Oregon Health Policy Board.
+(I) Oregon Investment Council.
+(J) Land Conservation and Development Commission.
+(K) Oregon Liquor Control Commission.
+(L) Oregon Short Term Fund Board.
+(M) State Marine Board.
+(N) Mass transit district boards.
+(O) Energy Facility Siting Council.
+(P) Board of Commissioners of the Port of Portland.
+(Q) Employment Relations Board.
+(R) Public Employees Retirement Board.
+(S) Oregon Racing Commission.
+(T) Oregon Transportation Commission.
+(U) Water Resources Commission.
+(V) Workers’ Compensation Board.
+(W) Oregon Facilities Authority.
+(X) Oregon State Lottery Commission.
+(Y) Pacific Northwest Electric Power and Conservation Planning Council.
+(Z) Columbia River Gorge Commission.
+[13]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(AA) Oregon Health and Science University Board of Directors.
+(BB) Capitol Planning Commission.
+(CC) Higher Education Coordinating Commission.
+(DD) Oregon Growth Board.
+(EE) Early Learning Council.
+(FF) Oregon Energy and Climate Board.
+(r) The following officers of the State Treasurer:
+(A) Deputy State Treasurer.
+(B) Chief of staff for the office of the State Treasurer.
+(C) Director of the Investment Division.
+(s) Every member of the board of commissioners of a port governed by ORS 777.005 to 777.725
+or 777.915 to 777.953.
+(t) Every member of the  board of directors of an authority created under ORS 441.525 to 441.595.
+(u) Every member of a governing board of a public university listed in ORS 352.002.
+(v) Every member  of the board of directors of an authority created under ORS 465.600 to
+465.621.
+(2) By April 15 next after the date an appointment takes effect, every appointed public official
+on a board or commission  listed in subsection (1) of this section shall file with the Oregon Govern-
+ment Ethics Commission a statement of economic interest as required under ORS 244.060,  244.070
+and 244.090.
+(3) By  April 15 next after the filing deadline for the primary election, each candidate described
+in subsection (1) of this section shall file with the commission a statement of economic interest  as
+required under ORS 244.060, 244.070 and 244.090.
+(4) Within 30 days after the filing deadline for  the general election, each candidate described in
+subsection (1) of this section who was not a  candidate in the preceding primary election, or who
+was nominated for public office described in subsection (1) of this  section at the preceding primary
+election by write-in  votes, shall file with the commission a statement of economic interest as re-
+quired under ORS 244.060, 244.070 and 244.090.
+(5) Subsections (1) to (4)  of this section apply only to persons who are incumbent, elected or
+appointed public officials as of April 15 and to persons who are candidates on April  15. Subsections
+(1) to (4) of this section also apply to persons who do  not become candidates until 30 days after the
+filing deadline for the statewide general election.
+(6) If a statement required to be filed under this section has not been received by  the commis-
+sion within five days after the date the statement is  due, the commission shall notify the public of-
+ficial or candidate and give the public official or candidate not less than 15 days to comply with  the
+requirements of this section. If the public official or candidate fails to comply by the date set by  the
+commission, the commission may impose a civil penalty as provided in ORS 244.350.
+SECTION 23.
+ ORS 401.054 is amended to read:
+401.054. (1) Each of the following state  agencies shall designate an individual within the agency
+to act as a liaison with the Office of Emergency Management:
+(a) The Department of Consumer and Business Services;
+(b) The Department of Corrections;
+(c) The Department of Environmental Quality;
+(d) The Department of Human Services;
+(e) The Department of Justice;
+[14]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(f) The Department of Land Conservation and Development;
+(g) The Department of State Police;
+(h) The Department of Transportation;
+(i) The Judicial Department;
+(j) The Oregon Department of Administrative Services;
+(k) The Oregon Department of Aviation;
+(L) The Oregon Department of Energy and Climate;
+[(L)] (m)  The Oregon Health Authority;
+[(m)] (n)  The Public Utility Commission of Oregon;
+[(n)] (o)  The State Department of Agriculture;
+[(o) The State Department of Energy; ]
+(p) The State Department of Fish and Wildlife;
+(q) The State Department of Geology and Mineral Industries;
+(r) The State Fire Marshal;
+(s) The State Forestry Department;
+(t) The State Marine Board;
+(u) The State Parks and Recreation Department; and
+(v) The Water Resources Department.
+(2) Each state agency required to designate a liaison under this section  shall designate an in-
+dividual who has authority during an emergency to allocate resources and assets of the agency.
+(3) Each individual designated as a liaison under subsection (1) of this section shall assist  in the
+coordination  of  the functions of the individual’s agency that relate to emergency preparedness and
+response with similar functions of the Office of Emergency Management.
+SECTION 24.
+ ORS 458.505 is amended to read:
+458.505. (1) The community action agency network,  established initially under the federal Eco-
+nomic Opportunity Act of 1964, shall  be the delivery system for federal antipoverty programs in
+Oregon, including the Community  Services Block Grant, Low Income Energy Assistance Program,
+[State] Oregon Department of Energy  and Climate Weatherization Program and  such others as may
+become available.
+(2) Funds for such programs shall be distributed to the community action  agencies by the
+Housing and Community  Services Department with the advice of the Community Action Partnership
+of Oregon.
+(3) In areas not  served by a community action agency, funds other than federal community ser-
+vices funds may be distributed to and administered by organizations that  are found by the Housing
+and Community Services Department  to serve the antipoverty purpose of the community action
+agency network.
+(4) In addition to  complying with all applicable requirements of federal law, a community action
+agency  shall:
+(a) Be an office, division or agency of the designating political subdivision or a not  for profit
+organization in compliance with ORS chapter 65.
+(b) Have a  community action board of at least nine but no more than 33 members, constituted
+so that:
+(A) One-third of the members of the board are elected public  officials currently serving or their
+designees. If the number of elected officials reasonably available and willing to serve is less  than
+one-third of the membership, membership  of appointed public officials may be counted as meeting the
+[15]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+one-third requirement;
+(B) At  least one-third of the members are persons chosen through democratic selection proce-
+dures adequate to assure that they are representatives of the poor in the area served; and
+(C) The remainder  of the members are officials or members of business, industry, labor, religious,
+welfare, education or other major groups and interests in the community.
+(c) If the agency is a private not for profit organization, be governed by the Community Action
+Board. The board shall have all duties, responsibilities and powers normally  associated with such
+boards, including, but not limited to:
+(A) Selection, appointment and dismissal of the executive director of the agency;
+(B) Approval of all contracts, grant applications and budgets and operational policies of the
+agency;
+(C) Evaluation of programs; and
+(D) Securing an annual audit of the agency.
+(d) If the organization is an office, division or agency of a  political subdivision, be administered
+by the board that shall provide for the  operation of the agency and be directly responsible to the
+governing board of the political subdivision. The administering board at a minimum, shall:
+(A) Review and approve program policy;
+(B) Be involved in and consulted on the hiring and firing of the agency director;
+(C) Monitor and evaluate program effectiveness;
+(D) Ensure the effectiveness of community involvement in the planning process; and
+(E) Assume all duties delegated to it by the governing board.
+(e) Have a clearly defined,  specified service area. Community action service areas may not
+overlap.
+(f) Have an accounting system that meets  generally accepted accounting principles and be so
+certified by an independent certified accountant.
+(g) Provide assurances against the use of government funds for political activity by the com-
+munity action agency.
+(h) Provide assurances that no person shall, on the grounds of race, color, sex, sexual orien-
+tation or national origin be  excluded from participation in, be denied the benefits of or be subjected
+to discrimination under any program or activity funded in whole or in part with funds  made avail-
+able through the community action program.
+(i) Provide assurances the community action agency  shall comply with any prohibition against
+discrimination on the basis of age under the Age Discrimination Act of 1975 or  with respect to an
+otherwise qualified individual with disabilities as provided in section 504 of the Rehabilitation  Act
+of 1973.
+(5) For the purposes of this section, the Oregon Human  Development Corporation is eligible to
+receive federal community service funds and low-income energy assistance funds.
+(6) The Housing and Community Services Department shall:
+(a) Administer federal and state antipoverty programs.
+(b) Apply for all available antipoverty funds on behalf of eligible entities as defined in  this sec-
+tion.
+(c) In conjunction with the Community  Action Partnership of Oregon, develop a collaborative
+role in advocating for, and addressing the needs of, all low income Oregonians.
+(d) Biennially produce and make available to the public a status  report on efforts by it and state
+agencies to reduce the incidence of poverty in Oregon. This report shall  contain figures regarding
+[16]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the numbers and types of persons living in  poverty in Oregon. The report shall also describe the
+status of efforts by the department and the Department of Human Services  to implement the state
+policy regarding homelessness described in ORS 458.528.
+(e) On  a regular basis provide information to the Community Action Partnership of Oregon on
+the activities and expenditures of the Housing and Community Services Department.
+(f) As resources are available, provide resources for  technical assistance, training and program
+assistance to eligible entities.
+(g) As resources are available, provide resources pursuant to ORS 409.750 for  the training and
+technical assistance needs of the Community Action Partnership of Oregon.
+(h) Conduct a planning process  to meet the needs of low income people in Oregon. That process
+shall fully integrate the Oregon Human Development Corporation into the antipoverty delivery sys-
+tem. The planning process shall include development of a  plan for minimum level of services and
+funding for low income migrant and seasonal  farmworkers from the antipoverty programs adminis-
+tered by the agency.
+(i) Limit its administrative budget in an effort  to maximize the availability of antipoverty federal
+and state funds for expenditures by local eligible entities.
+SECTION 25.
+ ORS 469.020 is amended to read:
+469.020. As used in ORS 176.820,  469.010 to 469.155, 469.860 (3), 469.880 to 469.895, 469.900 (3),
+469.990, 469.992, 757.710 and 757.720, unless the context requires otherwise:
+(1) “Agency” includes a department or other  agency of state government, city, county, municipal
+corporation, political subdivision, port, people’s  utility district, joint operating agency and electric
+cooperative.
+(2) “Board” means the Oregon Energy and Climate Board  created under section 3 of this
+2017 Act.
+[(2)] (3)  “Coal supplier” means any person  engaged in the wholesale distribution in this state
+of coal intended for use in this state for an energy facility.
+[(3)] (4) “Cost-effective” means that  an energy resource, facility or conservation measure during
+its life cycle results in delivered power  costs to the ultimate consumer no greater than the compa-
+rable incremental cost of the least cost alternative new energy resource, facility or  conservation
+measure. Cost comparison under this definition shall include but not be limited to:
+(a) Cost escalations and future availability of fuels;
+(b) Waste disposal and decommissioning costs;
+(c) Transmission and distribution costs;
+(d) Geographic, climatic and other differences in the state; and
+(e) Environmental impact.
+[(4)] (5) “Council” means the Energy Facility Siting Council established under ORS 469.450.
+[(5)] (6)  “Department” means the [ State] Oregon  Department of Energy  and Climate  created
+under ORS 469.030.
+[(6)] (7)  “Director” means the Energy and Climate  Director [ of the State Department  of
+Energy] appointed under ORS 469.040.
+[(7)] (8) “Energy facility” has the meaning given in ORS 469.300.
+[(8)] (9) “Energy generation area” means an area within which the effects  of two or more small
+generating plants may accumulate so the small generating  plants have effects of a magnitude similar
+to a single  generating plant of 25 megawatts or more. An energy generation area for facilities using
+a geothermal resource and covered by a unit agreement, as provided in ORS 522.405  to 522.545 or
+[17]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+by federal law, shall be defined in that unit agreement. If no such unit agreement exists, an energy
+generation area for facilities using a geothermal resource shall be the area that is within two  miles,
+measured from the electrical generating equipment of the facility, of an existing  or proposed
+geothermal electric power generating plant,  not including the site of any other such plant not owned
+or controlled by the same person.
+[(9)] (10) “Geothermal reservoir” means an aquifer or  aquifers containing a common geothermal
+fluid.
+[(10)] (11) “Nominal electric generating capacity” has the meaning given in ORS 469.300.
+[(11)] (12)  “Person” means an individual, partnership, joint venture,  private or public corpo-
+ration, association, firm, public service company,  political subdivision, municipal corporation, gov-
+ernment agency, people’s utility district, or any other entity, public or private, however organized.
+[(12)] (13) “Petroleum supplier” means a petroleum  refiner in this state, or any person engaged
+in the wholesale distribution of crude petroleum or derivative thereof or of propane in this state.
+[(13)] (14) “Related or supporting facilities” means  any structure, proposed by the applicant, to
+be constructed or substantially modified in connection with the  construction of an energy facility,
+including associated transmission lines, reservoirs, storage facilities, intake structure, road and  rail
+access, pipelines, barge basins, office or public buildings,  and commercial and industrial structures.
+“Related or supporting facilities” does not include  geothermal or underground gas storage reser-
+voirs, production, injection or monitoring wells or wellhead equipment or pumps.
+[(14)] (15) “Site” means a  proposed location of an energy facility, and its related or supporting
+facilities.
+[(15)] (16) “Thermal power plant” has the meaning given that term by ORS 469.300.
+[(16)] (17) “Utility” includes:
+(a) An individual, a regulated electrical company, a people’s utility district, a joint  operating
+agency, an electric cooperative, municipality or any combination thereof, engaged in or authorized
+to engage in the business of generating, transmitting or distributing electric energy;
+(b) A person or  public agency generating electric energy from an energy facility for its own
+consumption; and
+(c) A person engaged in this state in  the transmission or distribution of natural or synthetic gas.
+SECTION 26.
+ ORS 469.120 is amended to read:
+469.120. (1) The [ State] Oregon Department of Energy  and Climate  Account is established.
+(2) The account shall consist of all funds received by the [ State] Oregon Department of Energy
+and Climate  pursuant to law. All moneys in the account are continuously appropriated to  the
+[State] Oregon  Department of Energy  and Climate  for  payment of expenses of the department and
+of the Energy Facility Siting Council.
+(3) Moneys collected under ORS 469.421 (8) may be expended only for  the purposes of programs
+and activities that  the council and the department are charged with administering and authorized
+to conduct under the laws of this state, including those enumerated in ORS 469.030.
+(4) The Energy and Climate  Director [ of the State Department  of Energy ] shall keep a record
+of all moneys deposited in the account. The record shall indicate by  special cumulative accounts the
+source from which moneys  are derived and the individual activity or program, including any activ-
+ities described in ORS 469.424, against which each withdrawal is charged. On or after October 1 of
+each year,  the director shall make available, upon request, the record for the prior fiscal year to
+any energy resource supplier that has paid the assessment imposed under ORS 469.421  (8). The di-
+rector shall make the record available within 30 days of receiving the request.
+[18]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 27.  ORS 469.605 is amended to read:
+469.605. (1) No person shall ship or transport radioactive material  identified by the Energy Fa-
+cility Siting Council by  rule as posing a significant hazard to public health and safety or the envi-
+ronment if improperly transported into or  within the State of Oregon without first obtaining a
+permit from the [ State] Oregon Department of Energy  and Climate .
+(2) Such permit shall be issued for a period not to exceed one year and shall be  valid for all
+shipments within that period of time unless specifically limited by permit conditions.
+(3) Application  for a permit under this section shall be made in a form and manner prescribed
+by the Energy and Climate  Director [ of the State Department of Energy ] and may include:
+(a) A description of the kind, quantity and radioactivity of the material to be transported;
+(b) A description of the route or routes proposed to be taken and the transport schedule;
+(c) A description of any mode of transportation; and
+(d) Other information required by the director to evaluate the application.
+(4) The director shall  collect a fee from all applicants for permits under this section in an
+amount reasonably calculated to  provide for the costs to the department of performing the duties
+of the department under ORS 469.550 (3), 469.563, 469.603 to 469.619 and 469.992. Fees collected un-
+der this subsection shall be deposited in the  [ State] Oregon  Department of Energy and Climate
+Account established under ORS 469.120.
+(5) The director shall issue a permit only if  the application demonstrates that the proposed
+transportation will comply with all applicable rules adopted under ORS 469.603 to 469.619 and if the
+proposed route complies with federal law as provided in ORS 469.606.
+(6) The director may  delegate the authority to issue permits for the transportation of radioactive
+material to the Department of Transportation. In exercising such authority, the Department  of
+Transportation shall comply with the applicable provisions of ORS 469.603 to 469.619 and rules
+adopted by the director or the Energy Facility Siting Council under ORS 469.603 to 469.619.  Permits
+issued by the Department of Transportation under this subsection shall  be enforced according to the
+provisions of ORS 825.258. The director also may delegate other authority  granted under ORS
+469.605 to 469.619 to other state agencies if the delegation will maintain or enhance  the quality of
+the transportation safety program.
+OPERATIVE DATE
+SECTION 28.
+(1) Sections 2 to 10, 12,  15 and 17 of this 2017 Act, the amendments to
+statutes by sections 1, 13, 14, 16, 18 and 20 to 27 of this 2017 Act and the repeal of  statutes
+by sections 11 and 19 of this 2017 Act become operative January 1, 2018.
+(2) The members of the Oregon Energy and Climate Board  may be appointed, and the
+Oregon Energy and  Climate Board, the Energy and Climate Director and the Oregon De-
+partment of Energy and Climate may take  any action, before the operative date provided for
+in subsection (1) of this section that is necessary to enable  the board, the director and the
+department to exercise, on and after the operative date  specified in subsection (1) of this
+section, the duties, functions and powers of the administrator, the  board and the department
+pursuant to sections 2 to 10, 12, 15 and 17 of this 2017  Act, the amendments to statutes by
+sections 1, 13, 14, 16, 18 and 20 to 27 of this 2017 Act and the repeal of statutes by sections
+11 and 19 of this 2017 Act.
+[19]
+HB 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+CAPTIONS
+SECTION 29. The unit  captions used in this 2017 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2017 Act.
+EFFECTIVE DATE
+SECTION 30. This 2017 Act takes effect on the 91st day after the date on which  the 2017
+regular session of the Seventy-ninth Legislative Assembly adjourns sine die.
+[20]

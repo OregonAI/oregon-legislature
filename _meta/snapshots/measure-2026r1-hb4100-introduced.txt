@@ -1,0 +1,409 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4100
+Sponsored by Representatives ISADORE, NELSON, Senator REYNOLDS, Representative TRAN, Senator
+FREDERICK; Representatives ANDERSEN, EVANS, GAMBA, GOMBERG, RIEKE  SMITH, WALTERS, Sen-
+ators MANNING JR, PHAM K (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act makes owners of  bulk oils and liquid fuels terminals show they can cover the
+costs of oil or fuel spills. (Flesch Readability Score: 80.6).
+Requires owners or operators of bulk oils or liquid fuels terminals to obtain a certificate  of fi-
+nancial responsibility from the Department of Environmental Quality.
+Directs the Environmental Quality Commission to establish rules pertaining to certificates  of
+financial  responsibility. Requires the department to report to the Legislative Assembly on the im-
+plementation of the Act each even-numbered year.
+Preempts local governments from requiring financial  assurance that exceeds or is in addition to
+the requirements of the Act.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to bulk fuel terminals; creating new provisions; amending ORS 468B.513 and 468B.525;  and
+declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 5 of this 2026 Act are added to and made a part of ORS 468B.510
+to 468B.525.
+SECTION 2. The Legislative Assembly finds and declares that:
+(1) Ensuring financial responsibility for bulk oils or liquid fuels terminals  handling oil,
+liquid fuel and hazardous materials is essential to protecting the  state’s natural resources,
+economy and public health.
+(2) Bulk oils or liquid fuels terminals  must be financially capable of covering spill-related
+liabilities, including spill or release response, remediation and damages.
+(3) Requirements for certificates of financial responsibility established by  the Environ-
+mental Quality Commission under section 4 of this 2026 Act should ensure that  bulk oils or
+liquid fuels terminals maintain sufficient financial  assurances to address potential spill-
+related liabilities.
+(4) Rules adopted by the commission under section 4 of this 2026 Act should:
+(a) Be consistent with federal standards, where appropriate, while  addressing state-
+specific risks and needs; and
+(b) To  promote consistency for regulated entities in the region, and as far as practicable,
+be consistent with requirements for financial  responsibility established by the State of
+Washington.
+SECTION 3.
+As used in sections 2 to 5 of this 2026 Act:
+(1) “Certificate of financial responsibility” means a certification issued by the Depart-
+ment of Environmental Quality that confirms that a bulk oils or liquid fuels terminal has
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 108
+HB 4100
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+demonstrated the financial ability to cover potential spill-related liabilities.
+(2) “Financial assurance mechanism” means an instrument or other evidence  that es-
+tablishes financial assurance for spill-related liabilities, including but not limited to:
+(a) Evidence of insurance;
+(b) Surety bonds;
+(c) A letter of credit;
+(d) A trust; or
+(e) Other evidence of financial responsibility deemed  acceptable by the Environmental
+Quality Commission.
+(3) “Hazardous material” has the meaning given that term in ORS 466.605.
+(4) “Spill or  release” means the discharge, deposit, injection, dumping, spilling, emitting,
+releasing, leaking or placing of any oil, liquid fuel or hazardous material into the  air or into
+or on any land or waters of the state.
+(5) “Spill-related liability” means the costs and damages incurred by the State of Oregon,
+federally recognized Indian tribes, cities or counties as the result of an oil, liquid  fuel or
+hazardous material spill or release, including but not limited to:
+(a) Spill or release response and cleanup expenses;
+(b) Fire damage; and
+(c) Natural resource damage assessments and restoration.
+SECTION 4.
+(1) The owner or operator of a bulk oils or liquid  fuels terminal shall acquire
+and maintain a certificate of financial responsibility in accordance with rules  adopted by the
+Environmental Quality Commission under this section.
+(2) Rules adopted by the commission must:
+(a) Establish reasonable minimum amounts of financial assurance based  on an evaluation
+of:
+(A) The type, size and operational risk of bulk oils or liquid fuels terminals;
+(B) The maximum volume  of oil, liquid fuel or hazardous materials handled by bulk oils
+or liquid fuels terminals;
+(C) Historical spill or release response costs and projected cleanup expenses  in the areas
+where bulk oils or liquid fuels terminals operate;
+(D) The environmental sensitivity  of the areas where bulk oils or liquid fuels terminals
+operate;
+(E) Commercially available financial assurance mechanisms,  including maximum cover-
+ages offered; and
+(F) Financial assurance requirements in other jurisdictions.
+(b) Describe acceptable financial assurance mechanisms.
+(c) Require that, before a certificate of financial responsibility is issued to a  bulk oils or
+liquid fuels terminal, one or more financial assurance mechanisms  will cover the bulk oils
+or liquid fuels terminal’s potential spill-related liabilities.
+(d) Establish initial deadlines for  bulk oils or liquid fuels terminals to apply for a certif-
+icate of financial responsibility.
+(e) Establish policies and procedures for enforcing this section, including:
+(A) A process for verifying a bulk oils  or liquid fuels terminal’s evidence of financial as-
+surance;
+(B) Standards for restricting or  suspending the operations of bulk oils or liquid fuels
+[2]
+HB 4100
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+terminals that do not satisfy the requirements of this section; and
+(C) In accordance with ORS 468.130 and  rules adopted pursuant to ORS 468.130, the im-
+position of a  civil penalty for each day that a bulk oils or liquid fuels terminal operates
+without a certificate of financial assurance.
+(f) Be consistent with the  requirements of federal law, including the federal Oil Pollution
+Act of 1990 (P.L. 101-380), while accounting for state-specific needs.
+(g) As far  as practicable, be consistent with financial responsibility requirements estab-
+lished by the State of Washington.
+(3)(a) Rules adopted under this section may not require a bulk oils or liquid fuels terminal
+to obtain an amount of financial assurance that is greater than $300 million.
+(b) No more than  once every three years, the Department of Environmental Quality may
+evaluate and adjust the maximum amount of financial assurance listed  in paragraph (a) of
+this subsection.
+(4) The commission  shall, at regular times established by the commission by rule, update
+the minimum amounts of financial assurance established under subsection  (2)(a) of this
+section to reflect:
+(a) Inflation and other economic conditions;
+(b) Industry changes and improvements;
+(c) Emerging risks; and
+(d) Lessons learned from spill or release response efforts.
+(5)(a) The  commission shall appoint an advisory committee to assist the commission in
+drafting rules under this section  and ensure that the requirements for financial responsibil-
+ity established under this section are fair and effective.
+(b) The advisory committee shall be composed of, in equal proportions:
+(A) Industry stakeholders;
+(B) Local government representatives; and
+(C) Community members.
+(c) The advisory committee may consult with or be advised by  any person with expertise
+relevant to the duties of the advisory committee.
+(6) A local  government, as defined in ORS 174.116, may not adopt or enforce any ordi-
+nance, rule or regulation requiring the owner or operator of a bulk  oils or liquid fuels ter-
+minal to obtain a financial assurance mechanism  that exceeds or is in addition to the
+requirements of this section or rules adopted by the commission pursuant to this section.
+SECTION 5.
+No later than September 15 of each even-numbered year, the Department
+of Environmental Quality shall submit a report to the interim committees of  the Legislative
+Assembly related to emergency management and the environment, in the manner provided
+by ORS 192.245, that describes the department’s implementation of sections 2 to 5 of this 2026
+Act.
+SECTION 6. Notwithstanding section 5 of this 2026 Act, the Department  of Environ-
+mental Quality shall first submit the report described in section 5 of this 2026 Act  to the
+interim committees of the Legislative  Assembly related to emergency management and the
+environment no later than September 15, 2027.
+SECTION 7. Notwithstanding section 4 (3) of this 2026 Act,  the Department of Environ-
+mental Quality may not evaluate or adjust the maximum amount of  financial assurance
+listed in section 4 (3) of this 2026 Act before January 1, 2030.
+[3]
+HB 4100
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 8.
+ ORS 468B.513 is amended to read:
+468B.513. (1) The owner or operator of a bulk oils or liquid  fuels terminal shall properly imple-
+ment a seismic risk  mitigation implementation plan that has been approved by the Department of
+Environmental Quality. A seismic risk mitigation implementation plan must,  at a minimum, identify
+actions, with timelines, to protect public health, life safety and environmental safety within  the fa-
+cility, in areas adjacent to the facility and in other areas that may be affected as a result of damages
+to the facility. A seismic risk mitigation implementation  plan, as a risk-based assessment, must in-
+clude consideration of the likelihood of a magnitude 9.0 Cascadia Subduction Zone  earthquake, the
+potential consequences of that event and the resources needed to respond to that event.
+(2) The Environmental Quality Commission, in  consultation with the State Department of
+Geology  and  Mineral Industries, shall adopt by rule a seismic risk mitigation implementation pro-
+gram for bulk oils or liquid fuels terminals  that is based on risk. To the extent feasible and appro-
+priate, the program adopted under this section shall be consistent  and coordinated with the program
+established under ORS 468B.345 to 468B.415. Rules  adopted under this section shall include, but not
+be limited to:
+(a) Rules for the  required content of seismic risk mitigation implementation plans and rules for
+approval by the Department  of Environmental Quality of seismic risk mitigation implementation
+plans.
+(b) Provisions for training, response exercises, external peer reviews,  inspections and tests in
+order to verify  the ability of the facility to sustain safe conditions and respond to uncontrolled re-
+leases of hazardous materials from the bulk oils or liquid fuels terminal due to an earthquake.
+(c) Requirements to minimize harmful impacts to local communities and natural  resources due
+to uncontrolled releases of hazardous materials from the  bulk oils or liquid fuels terminal due to an
+earthquake and its associated direct and indirect impacts, including fires and flooding.
+(d) Requirements for the inspection of bulk storage tanks at bulk oils or liquid fuels terminals.
+(e) Design and construction standards for  new bulk storage tanks constructed at bulk oils or
+liquid fuels terminals.
+(f) Design and construction standards  for seismic mitigation of existing bulk storage tanks, pip-
+ing and related structures constructed at bulk oils or liquid fuels terminals.
+(g) Provisions requiring the proper installation of seismically  certified generators to power
+critical operations, or at  a minimum, the installation of electrical hookups for emergency generators.
+(h) Provisions for the review  of seismic vulnerability assessments required under ORS 468B.510
+and seismic risk mitigation implementation plans required under subsection (1) of this section  by
+state agencies with expertise in earthquake hazards, risk mitigation or emergency preparedness or
+management.
+(i) Provisions requiring the owner or operator of a bulk oils or  liquid fuels terminal to submit
+seismic vulnerability mitigation implementation plan updates to the department:
+(A) According to a schedule established by the commission;
+(B) Upon the retrofit or reconstruction of all or a part of a bulk oils  or liquid fuels terminal;
+and
+(C) Based on new scientific or technical findings, but no more frequently  than once every three
+years.
+(j) Provisions establishing a fee calculated to cover  the costs to the department of [ reviewing
+seismic risk mitigation implementation plans  submitted under this section and seismic risk assessments
+submitted under  ORS 468B.510, ] carrying out ORS 468B.510 to 468B.525,  less any federal funds
+[4]
+HB 4100
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+received by the department for [ those purposes ] that purpose . Fees received by the  department un-
+der this paragraph  shall be deposited in the Seismic Risk Mitigation Fund established under ORS
+468B.525.
+(k) Provisions establishing  grants or other financial assistance to owners or operators of bulk
+oils or liquid fuels terminals for improvements to existing infrastructure, provided that federal  funds
+are made available to the department for that purpose.
+SECTION 9.
+ ORS 468B.525 is amended to read:
+468B.525. (1) The Seismic Risk Mitigation  Fund is established in the State Treasury, separate
+and distinct from the General Fund. Interest earned  by the Seismic Risk Mitigation Fund shall be
+credited to the fund.
+(2) Moneys in the Seismic Risk Mitigation Fund shall consist of:
+(a) Money appropriated to the fund by the Legislative Assembly;
+(b) Fees deposited in the fund under ORS 468B.513;
+(c) Moneys transferred to the fund from the federal or state government; or
+(d) Gifts, grants and donations received from any source.
+(3) All moneys in the Seismic Risk Mitigation Fund are continuously  appropriated to the De-
+partment of Environmental Quality for the purposes of:
+(a) [ Reviewing seismic risk mitigation implementation plans  submitted under ORS 468B.513 and
+seismic risk assessments submitted under ORS  468B.510] Carrying out ORS 468B.510 to 468B.525 ;
+and
+(b) Providing grants or other financial assistance to owners or operators of  bulk oils or liquid
+fuels terminals under ORS 468B.513 (2)(k).
+SECTION 10.
+This 2026 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2026 Act takes effect
+on its passage.
+[5]

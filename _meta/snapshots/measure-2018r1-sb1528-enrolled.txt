@@ -1,0 +1,168 @@
+79th OREGON LEGISLATIVE ASSEMBLY--2018 Regular Session
+Enrolled
+Senate Bill 1528
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Senate Interim Committee on Finance and Revenue)
+CHAPTER .................................................
+AN ACT
+Relating to  taxation; creating new provisions; amending ORS 314.752 and 318.031; and prescribing
+an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Sections 2 and 3 of this  2018 Act are added to and made a part of ORS
+chapter 315.
+SECTION 2. (1) A  credit against the taxes that are otherwise due under ORS chapter 316
+or, if  the taxpayer is a corporation, under ORS chapter 317 or 318, is allowed to a taxpayer
+for certified Opportunity Grant contributions made by the taxpayer during the tax year  to
+the Opportunity Grant Fund established under section 4 of this 2018 Act.
+(2)(a) The  Department of Revenue shall, in cooperation with the Higher Education Coor-
+dinating Commission, conduct an auction of tax credits under this section.  The department
+may conduct the auction in the manner that it determines is best  suited to maximize the
+return to the  state on the sale of tax credit certifications and shall announce a reserve bid
+prior to conducting the auction. The reserve amount shall be  at least 95 percent of the total
+amount of the tax credit. Moneys necessary to reimburse the department for the  actual
+costs incurred by the department in administering an auction,  not to exceed 0.25 percent of
+auction proceeds, are continuously  appropriated to the department. Moneys necessary to
+reimburse the commission for the actual costs incurred by the commission in  administering
+an auction, not to exceed 0.25 percent of auction proceeds, are  continuously appropriated to
+the commission. The department shall deposit net receipts from  the auction required under
+this section in the Opportunity Grant Fund.
+(b) The commission may adopt rules necessary for the administration of the auction.
+(3) Contributions made under this section shall be  deposited in the Opportunity Grant
+Fund.
+(4)(a) Upon receipt of a contribution, the commission shall,  except as provided in section
+3 of this 2018 Act, issue to the taxpayer written certification of the amount certified for  tax
+credit under this section to the extent the amount  certified for tax credit, when added to all
+amounts previously certified for tax credit under this section, does  not exceed $14 million for
+the fiscal year in which certification is made.
+(b) The commission and  the department are not liable, and a refund of a contributed
+amount need not be made, if a taxpayer that has  received tax credit certification is unable
+to use all or a portion of the tax credit to offset the tax liability of the taxpayer.
+Enrolled Senate Bill 1528 (SB 1528-B) Page 1
+(5) To the extent the commission  does not certify contributed amounts as eligible for a
+tax credit under  this section, the taxpayer may request a refund of the amount the taxpayer
+contributed, and the commission shall refund that amount.
+(6)(a) Except as provided in paragraph (b) of this subsection, a tax  credit claimed under
+this section may not exceed the tax liability of the taxpayer and may  not be carried over to
+another tax year.
+(b) Any tax credit otherwise allowable under this section  that is not used by the taxpayer
+in a particular tax year may be carried forward and offset against the taxpayer’s  tax liability
+for the next succeeding tax year. Any credit remaining unused  in the next succeeding tax
+year may be carried forward and used in the second succeeding tax  year, and likewise, any
+credit not used in that second  succeeding tax year may be carried forward and used in the
+third succeeding tax year but may not be carried forward for any tax year thereafter.
+(c) A taxpayer is not eligible for a tax credit under this section if the first tax year  for
+which the credit would otherwise be allowed begins on or after January 1, 2024.
+(7) If a tax credit is claimed under this section by  a nonresident or part-year resident
+taxpayer, the amount shall be allowed without proration under ORS 316.117.
+(8) If the amount of contribution for which a tax credit  certification is made is allowed
+as a deduction for federal tax  purposes, the amount of the contribution shall be added to
+federal taxable income for Oregon tax purposes.
+SECTION 3. (1) In lieu of  the issuance of certifications for tax credit under section 2 of
+this 2018 Act by the Higher Education Coordinating Commission, the  Legislative Assembly
+may, no later than 30 days prior to the end of each fiscal year, appropriate to the commission
+for deposit into the Opportunity Grant Fund  established under section 4 of this 2018 Act an
+amount equal to the total amount that would  otherwise be certified for tax credits during
+the upcoming fiscal year, based on the amount of contributions and accompanying applica-
+tions for credit received by the commission during the fiscal year.
+(2) If the Legislative Assembly makes the election  allowed in subsection (1) of this sec-
+tion:
+(a) Any contributions to the Opportunity Grant Fund made for  the upcoming fiscal year
+and for which an application for  a credit under section 2 of this 2018 Act is pending shall,
+at the request of the taxpayer, be refunded by the commission; and
+(b) A credit under section 2 of this 2018 Act may not  be claimed for any contribution
+made during the current fiscal year.
+SECTION 4.
+(1) The Opportunity Grant Fund is established in the State  Treasury, sepa-
+rate and distinct from the General Fund. Interest earned by the  Opportunity Grant Fund
+shall be credited to the fund.
+(2) Moneys in the Opportunity Grant Fund shall consist of:
+(a) Amounts donated to the fund;
+(b) Amounts  appropriated or otherwise transferred to the fund by the Legislative As-
+sembly;
+(c) Other amounts deposited in the fund from any source; and
+(d) Interest earned by the fund.
+(3) Moneys in the fund are continuously appropriated to  the Higher Education Coordi-
+nating Commission. After the payment of refunds to taxpayers as described  in sections 2 and
+3 of this 2018 Act and payments to a tax credit marketer for  marketing services provided
+by the marketer  as described in section 5 of this 2018 Act, the balance remaining in the fund
+shall be used for the Oregon Opportunity Grant program under ORS 348.260.
+(4) Expenditures from the fund are not subject to ORS 291.232 to 291.260.
+SECTION 5.
+The Higher Education Coordinating Commission  may hire or contract with
+a marketer to market the tax credits described in section 2 of this 2018 Act to taxpayers.
+SECTION 6. Sections 2, 3 and 5 of this 2018 Act apply to tax years beginning on or after
+January 1, 2018, and before January 1, 2024.
+Enrolled Senate Bill 1528 (SB 1528-B) Page 2
+SECTION 7.  ORS 314.752 is amended to read:
+314.752. (1) Except as provided in ORS 314.740 (5)(b), the tax credits allowed or  allowable to a
+C corporation for  purposes of ORS chapter 317 or 318 shall not be allowed to an S corporation. The
+business tax credits allowed or allowable for purposes of ORS chapter 316 shall be allowed or  are
+allowable to the shareholders of the S corporation.
+(2) In determining the tax imposed under ORS chapter 316, as provided under ORS 314.734,  on
+income of the shareholder  of an S corporation, there shall be taken into account the shareholder’s
+pro rata share  of business tax credit (or item thereof) that would be allowed to the corporation (but
+for subsection (1) of this section)  or recapture or recovery thereof. The credit (or item thereof), re-
+capture or recovery shall be passed through to shareholders in pro rata shares as determined in  the
+manner prescribed under section 1377(a) of the Internal Revenue Code.
+(3) The character of any item included in a shareholder’s pro rata share  under subsection (2)
+of this section shall be determined as if such item were  realized directly from the source from which
+realized by the corporation, or incurred in the same manner as incurred by the corporation.
+(4) If the shareholder is a nonresident and there is a requirement  applicable for the business tax
+credit that in the case of a nonresident the credit be  allowed in the proportion provided in ORS
+316.117, then that provision shall apply to the nonresident shareholder.
+(5) As used in this section, “business tax  credit” means the following credits: ORS 315.104
+(forestation and reforestation), ORS 315.138 (fish screening, by-pass  devices, fishways), ORS 315.141
+(biomass production for biofuel), ORS 315.156  (crop gleaning), ORS 315.164 and 315.169 (agriculture
+workforce housing), ORS 315.176 (bovine manure), ORS 315.204 (dependent care assistance),  ORS
+315.208 (dependent care facilities), ORS  315.213 (contributions for child care), ORS 315.237 (employee
+and dependent scholarships), ORS 315.271 (individual development accounts),  ORS 315.304 (pollution
+control facility), ORS 315.326 (renewable energy development contributions),  ORS 315.331 (energy
+conservation projects), ORS 315.336 (transportation projects), ORS  315.341 (renewable energy re-
+source equipment manufacturing facilities), ORS 315.354 and 469B.151 (energy conservation  facili-
+ties), ORS 315.506 (tribal taxes on reservation enterprise zones and reservation partnership zones),
+ORS 315.507 (electronic  commerce), ORS 315.514 (film production development contributions), ORS
+315.521 (university venture development funds), ORS 315.523 (employee  training programs), ORS
+315.533 (low  income community jobs initiative), ORS 315.675 (Trust for Cultural Development Ac-
+count contributions), ORS 317.097 (loans for affordable housing),  ORS 317.124 (long term enterprise
+zone facilities), ORS 317.147 (loans for agriculture workforce  housing), ORS 317.152 (qualified re-
+search expenses) and ORS 317.154 (alternative qualified research expenses) and section 9, chapter
+774, Oregon Laws 2013 (alternative fuel vehicle contributions) and section 2 of this  2018 Act
+(Opportunity Grant Fund contributions) .
+SECTION 8.
+ ORS 318.031 is amended to read:
+318.031. It being the intention of the Legislative Assembly that this chapter and ORS  chapter
+317 shall be administered as uniformly as possible  (allowance being made for the difference in im-
+position of the taxes), ORS  305.140 and 305.150, ORS chapter 314 and the following sections are in-
+corporated into and made a part of this chapter: ORS 315.104, 315.141, 315.156, 315.176, 315.204,
+315.208, 315.213, 315.304, 315.326, 315.331, 315.336, 315.506, 315.507, 315.523 and 315.533 and section
+2 of this 2018 Act  (all only to the extent applicable to a corporation) and ORS chapter 317.
+SECTION 9.
+Section 10 of this 2018 Act is added to and made a part of ORS chapter 316.
+SECTION 10. There shall be added to federal taxable income for Oregon tax purposes the
+amount allowable as a deduction under section 199A(a) of the Internal  Revenue Code for the
+tax year.
+SECTION 11. Section 10 of this 2018 Act applies to tax years beginning on or after Jan-
+uary 1, 2018.
+SECTION 12. This 2018 Act takes effect on the 91st day after the date on  which the 2018
+regular session of the Seventy-ninth Legislative Assembly adjourns sine die.
+Enrolled Senate Bill 1528 (SB 1528-B) Page 3
+Passed by Senate February 23, 2018
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Peter Courtney, President of Senate
+Passed by House March 2, 2018
+..................................................................................
+Tina Kotek, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2018
+Approved:
+........................M.,........................................................., 2018
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2018
+..................................................................................
+Dennis Richardson, Secretary of State
+Enrolled Senate Bill 1528 (SB 1528-B) Page 4

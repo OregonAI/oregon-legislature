@@ -1,0 +1,358 @@
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Enrolled
+Senate Bill 1069
+Sponsored by  Senators JAMA, ANDERSON; Senators GIROD, KNOPP, MEEK, THATCHER,
+WOODS, Representatives DEXTER, FAHEY, HELFRICH, JAVADI, TRAN
+CHAPTER .................................................
+AN ACT
+Relating to residential tenancies; amending ORS 90.150, 90.155, 90.160, 90.300,  90.394, 90.412 and
+90.414.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. ORS 90.155 is amended to read:
+90.155. (1) Except as provided in ORS 90.300, 90.315, 90.425 and 90.675,  where this chapter re-
+quires written notice, service  or delivery of that written notice shall be executed by one or more
+of the following methods:
+(a) Personal delivery to the landlord or tenant[ ;].
+(b) First class mail to the landlord or tenant[ ; or ].
+(c) If allowed under a written rental agreement [ so provides ], both first class  mail and attach-
+ment to a designated location. In order for a written rental agreement  to provide for mail and at-
+tachment service  of written notices from the landlord to the tenant, the agreement must also provide
+for such service of written notices  from the tenant to the landlord. Mail and attachment service of
+written notices shall be executed as follows:
+(A) For written notices from the landlord to the tenant, the first class mail  notice copy shall
+be addressed  to the tenant at the premises and the second notice copy shall be attached in a secure
+manner to the main entrance to that portion of  the premises of which the tenant has possession; and
+(B) For written notices from the  tenant to the landlord, the first class mail notice copy shall
+be addressed to the landlord at  an address as designated in the written rental agreement and the
+second notice copy shall be  attached in a secure manner to the landlord’s designated location, which
+shall be described with particularity in the  written rental agreement, reasonably located in relation
+to the tenant and available at all hours.
+(d) Except as provided in subsection (5) of this section, electronic mail, for  written no-
+tices to the landlord or the tenant, only if allowed under  a written addendum to the rental
+agreement that:
+(A) Specifies the electronic mail address from which  the landlord agrees to send, and at
+which the landlord agrees to receive, electronic mail;
+(B) Specifies the electronic mail address from which the tenant  agrees to send, and at
+which the tenant agrees to receive, electronic mail;
+(C) Is executed by both parties after the tenancy begins  and the tenant has occupied the
+premises;
+Enrolled Senate Bill 1069 (SB 1069-B) Page 1
+(D) Allows the landlord or tenant to terminate the service of written notice  by electronic
+mail or to change their specified electronic mail address for  receipt of written notice by
+giving no less than three days’ written notice; and
+(E) Includes notice in substantially the following form:
+THIS IS AN IMPORTANT NOTICE
+ABOUT YOUR RIGHTS REGARDING
+RECEIPT OF WRITTEN NOTICES.
+By signing this  addendum, you agree to receive written notices from your landlord by
+e-mail. This may include important legal notices, including rent increase and tenancy  ter-
+mination notices. Failure to read or  respond to a written notice could result in you losing
+your housing or being unaware of a change in  rent. Signing this addendum is voluntary. Only
+agree to service of written notices electronically if you check your e-mail regularly.
+(2) If a notice is served by mail  under subsection (1)(b) of this section , the minimum period
+for compliance or termination of tenancy, as appropriate, shall be extended by three days,  and the
+notice shall include the extension in the period provided.
+(3) A  landlord or tenant may utilize alternative methods of notifying the other so long as the
+alternative method is in addition to one of the service methods described in  subsection (1) of this
+section.
+(4) After 30 days’ written notice, a landlord may unilaterally amend a rental  agreement for a
+manufactured dwelling or floating home that is subject to ORS 90.505 to 90.850 to provide for service
+or delivery of written notices by mail and attachment service as  provided by subsection (1)(c) of this
+section.
+(5) A party to a rental agreement may  use electronic mail to give a written notice ter-
+minating the tenancy only if allowed under subsection (1)(d) of this section  and the termi-
+nation notice is sent by both first class mail and electronic mail.
+SECTION 2.
+ ORS 90.150 is amended to read:
+90.150. When this chapter requires actual notice, service  or delivery of that notice shall be ex-
+ecuted by one or more of the following methods:
+(1) Verbal notice that is given  personally to the landlord or tenant or left on the landlord’s or
+tenant’s telephone answering device.
+(2) Written notice that is personally delivered to the landlord or tenant, left at the  landlord’s
+rental office, sent by facsimile to the landlord’s residence or rental office or to  the tenant’s dwelling
+unit, or attached in a secure manner to the main entrance of the landlord’s residence or tenant’s
+dwelling unit.
+(3) Other written notice [ that is delivered by first class mail  to the landlord or tenant ] under
+ORS 90.155. If the notice is mailed, the notice shall be considered served three days  after the date
+the notice was mailed.
+(4) Any other method reasonably calculated to achieve actual  receipt of notice, as agreed to and
+described in a written rental agreement.
+SECTION 3.
+ ORS 90.160 is amended to read:
+90.160. [(1)] Notwithstanding ORCP 10 [ and not including the seven-day and four-day waiting pe-
+riods provided in ORS 90.394, where there are ]:
+(1) For  references in this chapter to periods [ and] or  notices based on a number of  days, those
+days [ shall] must be calculated by consecutive calendar days,  not including the initial day of ser-
+vice, but including the last day until 11:59 p.m. [ Where there are ]
+(2) For references in this chapter to periods or notices based on  a number of hours, those hours
+[shall] must be calculated in consecutive clock hours, beginning :
+Enrolled Senate Bill 1069 (SB 1069-B) Page 2
+(a) Immediately upon service , except as provided in paragraph (b) of this subsection; or [.]
+[(2) Notwithstanding subsection (1) of this section, for nonpayment notices whose periods are based
+on a number of hours under ORS 90.394 that are served pursuant to ORS 90.155  (1)(c), the time period
+described in subsection (1) of this section begins at 11:59 p.m. the day the  notice is both mailed and
+attached to the premises. ]
+(b) For notices to terminate a tenancy, at 11:59 p.m. the day that:
+(A) A notice given under ORS 90.155 (1)(c) is both mailed and attached to the  premises;
+or
+(B) A notice given under ORS 90.155 (5) is both mailed and sent by electronic mail.
+SECTION 4.
+ ORS 90.300 is amended to read:
+90.300. (1) As used in this section, “security deposit” includes any last month’s rent deposit.
+(2)(a) Except as otherwise provided in this section, a  landlord may require a tenant to pay a
+security deposit. The landlord shall provide the  tenant with a receipt for any security deposit the
+tenant pays. The landlord shall hold a security deposit or prepaid rent for the tenant who is  a party
+to the rental agreement. A tenant’s claim to the security deposit or prepaid rent is prior to the claim
+of a creditor of the landlord, including a trustee in bankruptcy.
+(b) Except as provided in ORS 86.782 (10), the holder of the landlord’s interest  in the premises
+at the time the tenancy  terminates is responsible to the tenant for any security deposit or prepaid
+rent and is bound by this section.
+(3) A written rental agreement, if any, must list a security deposit paid by  a tenant or required
+by a landlord.
+(4) A landlord may not  charge a tenant a pet security deposit for keeping a service animal or
+companion animal that a tenant with a disability requires  as a reasonable accommodation under fair
+housing laws.
+(5)(a) Except as otherwise provided in this subsection, a landlord  may not change the rental
+agreement to require the tenant to pay a  new or increased security deposit during the first year
+after the tenancy has begun. Subject to subsection (4) of this section, the landlord may  require an
+additional deposit if the landlord and tenant agree to modify the terms and conditions of the  rental
+agreement to permit a pet or for other cause and the additional deposit relates to  the modification.
+This paragraph does  not prevent a landlord from collecting a security deposit that an initial rental
+agreement provided for but that remained unpaid at the time the tenancy began.
+(b) If a  landlord requires a new or increased security deposit after the first year of the tenancy,
+the landlord shall allow the tenant at least three months to pay the new or increased deposit.
+(6) The landlord may claim  all or part of the security deposit only if the landlord required the
+security deposit for any or all of the purposes specified in subsection (7) of this section.
+(7)(a) The landlord may claim from the security deposit only the amount reasonably necessary:
+(A) To remedy the tenant’s defaults in the  performance of the rental agreement including, but
+not limited to, unpaid rent; and
+(B) To repair damages to the  premises caused by the tenant, not including ordinary wear and
+tear.
+(b) A landlord is not required to repair damage caused by the tenant in order  for the landlord
+to claim against the deposit for  the cost to make the repair. Any labor costs the landlord assesses
+under this subsection for cleaning or repairs must be based  on a reasonable hourly rate. The land-
+lord may charge a reasonable hourly rate for the  landlord’s own performance of cleaning or repair
+work.
+(c) Defaults and damages for which a landlord may recover  under this subsection include, but
+are not limited to:
+(A) Carpet cleaning, other than the use of a common vacuum cleaner, if:
+(i) The cleaning is performed by use of a  machine specifically designed for cleaning or
+shampooing carpets;
+(ii) The carpet was cleaned or replaced after  the previous tenancy or the most recent significant
+use of the carpet and before the tenant took possession; and
+Enrolled Senate Bill 1069 (SB 1069-B) Page 3
+(iii) The written rental agreement provides that  the landlord may deduct the cost of carpet
+cleaning regardless of whether the tenant cleans the  carpet before the tenant delivers possession
+as described in ORS 90.147.
+(B) Loss of use of the dwelling  unit during the performance of necessary cleaning or repairs for
+which the tenant is responsible under this subsection if the cleaning or  repairs are performed in a
+timely manner.
+(8) A landlord may not require a tenant to pay or to forfeit a security deposit or prepaid  rent
+to the landlord for the tenant’s failure  to maintain a tenancy for a minimum number of months in
+a month-to-month tenancy.
+(9) The landlord must apply any last month’s rent deposit to the rent due for  the last month of
+the tenancy:
+(a) When either the landlord or the  tenant gives to the other a notice of termination, pursuant
+to this chapter, other than a notice of termination under ORS 90.394;
+(b) When the landlord and tenant agree to terminate the tenancy; or
+(c) When the tenancy terminates in accordance with the provisions of a written  rental agree-
+ment for a term tenancy.
+(10) A landlord shall account for and refund as provided in subsections (12) to (14) of this section
+any portion of a last month’s rent deposit the landlord does not apply  as provided under subsection
+(9) of this section. Unless the tenant and landlord agree otherwise,  the tenant may not require the
+landlord to apply a last month’s rent deposit to rent due for any period other than the last month
+of the tenancy. A  last month’s rent deposit does not limit the amount of rent charged unless a
+written rental agreement provides otherwise.
+(11) When the tenancy terminates, a landlord shall account for and refund to the tenant, in  the
+same manner this section requires for security deposits, the unused  balance of any prepaid rent the
+landlord has not previously  refunded to the tenant under ORS 90.380 and 105.120 (5)(b) or any other
+provision of this chapter. The landlord may claim from the remaining prepaid rent only the  amount
+reasonably necessary to pay the tenant’s unpaid rent.
+(12) In order to claim all or part of any prepaid  rent or security deposit, within 31 days after
+the tenancy terminates and the  tenant delivers possession the landlord shall give to the tenant a
+written accounting that states specifically the basis or bases  of the claim. The landlord shall give
+a separate accounting for security deposits and for prepaid rent.
+(13) The landlord shall return to the tenant the  security deposit or prepaid rent or the portion
+of the security deposit or prepaid rent  that the landlord does not claim in the manner provided by
+subsections (11) and (12) of this section not later than 31  days after the tenancy terminates and the
+tenant delivers possession to the landlord. If agreed to by both parties  in an addendum executed
+after the tenancy begins and the tenant has occupied the premises, the landlord  may return
+any amount due under this subsection electronically to  a bank account or other financial
+institution designated by the tenant.
+(14) The landlord shall give the  written accounting required under subsection (12) of this section
+or shall return the security deposit or prepaid rent as  required by subsection (13) of this section by
+personal delivery or by first class  mail  or, if allowed under  ORS 90.155 (1)(d), by electronic
+mail.
+(15) If a security deposit  or prepaid rent secures a tenancy for a space for a manufactured
+dwelling or floating home the tenant owns and occupies, whether or  not in a facility, and the
+dwelling or  home is abandoned as described in ORS 90.425 (2) or 90.675 (2), the 31-day period de-
+scribed in subsections (12) and (13) of this section commences on the earliest of:
+(a) Waiver of the abandoned property process under ORS 90.425 (26) or 90.675 (24);
+(b) Removal of the manufactured dwelling or floating home from the rented space;
+(c) Destruction or other disposition of  the manufactured dwelling or floating home under ORS
+90.425 (10)(b) or 90.675 (10)(b); or
+(d) Sale of the manufactured dwelling or floating home pursuant to ORS 90.425 (10)(a)  or 90.675
+(10)(a).
+Enrolled Senate Bill 1069 (SB 1069-B) Page 4
+(16) If the landlord fails to  comply with subsection (13) of this section or if the landlord in bad
+faith fails to return all or any portion of any prepaid rent or security deposit due to the tenant
+under this  chapter or the rental agreement, the tenant may recover the money due in an amount
+equal to twice the amount:
+(a) Withheld without a written accounting under subsection (12) of this section; or
+(b) Withheld in bad faith.
+(17)(a) A security deposit or prepaid  rent in the possession of the landlord is not garnishable
+property, as provided in ORS 18.618.
+(b) If a landlord delivers a security deposit or prepaid rent to a garnishor in  violation of ORS
+18.618 (1)(b), the landlord that delivered the security deposit or  prepaid rent to the garnishor shall
+allow the tenant at least 30 days after a copy  of the garnishee response required by ORS 18.680 is
+delivered to the tenant under ORS 18.690 to restore the security deposit or prepaid rent.  If the
+tenant fails to restore a security deposit or prepaid rent under the provisions of this  paragraph be-
+fore the tenancy terminates, and the  landlord retains no security deposit or prepaid rent from the
+tenant after the garnishment, the landlord is not required to refund or  account for the security de-
+posit or prepaid rent under subsection (11) of this section.
+(18) This section does not  preclude the landlord or tenant from recovering other damages under
+this chapter.
+SECTION 5.
+ ORS 90.394 is amended to read:
+90.394. The landlord may terminate the rental agreement for nonpayment  of rent and take pos-
+session as provided in ORS 105.105 to 105.168, as follows:
+(1) When the tenancy is a  week-to-week tenancy, by delivering to the tenant at least 72 hours’
+written notice of nonpayment and the landlord’s intention to terminate the  rental agreement if the
+rent is not paid within that period. The landlord shall give this notice no sooner than on the  fifth
+day of the rental period, including the first day the rent is due.
+(2) For all tenancies other than week-to-week tenancies, by delivering to the tenant:
+(a) At least 72 hours’ written notice of nonpayment  and the landlord’s intention to terminate the
+rental agreement if the rent is not paid within that period. The landlord shall  give this notice no
+sooner than on the eighth day of the rental period, including the first day the rent is due; or
+(b) At least 144 hours’ written notice of  nonpayment and the landlord’s intention to terminate
+the rental agreement  if the rent is not paid within that period. The landlord shall give this notice
+no sooner than on the fifth day of the rental period, including the first day the rent is due.
+(3) The notice described in this section must also specify the  amount of rent that must be paid
+and the date and time by which the tenant must pay the rent to cure the nonpayment of rent.
+(4) Payment by a tenant who has received a notice under this section is timely if mailed to the
+landlord within the period of the notice unless:
+(a) The notice is served on the tenant:
+(A) By personal delivery as provided in ORS 90.155 (1)(a); [ or]
+(B) By first class mail and attachment as provided in ORS 90.155 (1)(c); or
+(C) By first class mail and electronic mail as provided in ORS 90.155 (5);
+(b) A written rental agreement and the notice expressly state that payment is  to be made at a
+specified location that is either on the premises or at a place where the tenant has  made all previ-
+ous rent payments in person; and
+(c) The place so specified is available to the tenant for payment throughout the period  of the
+notice.
+SECTION 6.
+ORS 90.412 is amended to read:
+90.412. (1) As used in this section and ORS 90.414 and 90.417, “rent” does not  include funds paid
+to a landlord:
+(a) Under the United States Housing Act of 1937 (42 U.S.C. 1437f).
+(b) By any other local, state or federal housing assistance program.
+(2) Except as otherwise provided in this section, a landlord waives the right to terminate a
+rental agreement for a particular violation of the rental agreement or of law if the landlord:
+Enrolled Senate Bill 1069 (SB 1069-B) Page 5
+(a) During three or more separate rental periods, accepts rent with knowledge  of the violation
+by the tenant; or
+(b) Accepts performance by a tenant that varies from the terms of the rental agreement.
+(3) A landlord has not accepted rent for purposes of subsection (2) of this section if:
+(a) Within 10 days after receipt of the rent payment, the landlord refunds the rent; or
+(b) The rent payment is made in the form of a check that is dishonored.
+(4) A landlord does not waive the right to terminate a  rental agreement for a violation under
+any of the following circumstances:
+(a) The landlord and tenant agree otherwise after the violation has occurred.
+(b) The violation concerns the tenant’s conduct and, following the violation but prior to  ac-
+ceptance  of  rent for three rental periods or performance as described in subsection (2) of this sec-
+tion, the landlord gives a written warning notice to the tenant regarding the violation that:
+(A) Describes specifically the conduct that constitutes  the violation, either as a separate and
+distinct violation, a series or group of violations or a continuous or ongoing violation;
+(B) States that the tenant is required to discontinue the conduct or correct the violation; and
+(C) States that a reoccurrence of the conduct that constitutes  a violation may result in a ter-
+mination of the tenancy pursuant to ORS 90.392, 90.398, 90.405 or 90.630.
+(c) The violation  concerns the tenant’s failure to pay money owed to the landlord for damage
+to the premises, damage to  any other structure located upon the grounds, utility charges, fees or
+deposits and, following the violation but prior to the acceptance of rent  for three rental periods or
+performance as described in subsection  (2) of this section, the landlord gives a written warning no-
+tice to the tenant regarding the violation that:
+(A) Describes specifically the basis of  the claim and the amount of money owed that constitutes
+the violation;
+(B) States that the tenant is required to correct the violation by paying the money owed; and
+(C) States that continued nonpayment of the money owed that constitutes a violation  may result
+in a termination of the tenancy pursuant to ORS 90.392.
+(d) The tenancy consists of rented space for a manufactured dwelling  or floating home as de-
+scribed in ORS 90.505, and the violation concerns:
+(A) Disrepair or deterioration of  the manufactured dwelling or floating home pursuant to ORS
+90.632; or
+(B) A failure to maintain the rented space, as provided by ORS 90.740 (2), (4)(b) and (4)(h) and
+(i).
+(e) The termination is under ORS 90.396.
+(f) The landlord accepts:
+(A) A last month’s rent deposit collected at the  beginning of the tenancy, regardless of whether
+the deposit covers a period beyond a termination date;
+(B) Rent distributed pursuant  to a court order releasing money paid into court as provided by
+ORS 90.370 (1); or
+(C) Rent paid for a rent obligation not yet due and paid  more than one rental period in advance.
+(5)(a) For a continuous or ongoing violation, the landlord’s written warning  notice under sub-
+section (4)(b) of this section remains effective for 12 months and may be renewed  with a new
+warning notice before the end of the 12 months.
+(b) For a violation concerning the tenant’s failure to pay money owed  to the landlord, the
+landlord’s written warning  notice under subsection (4)(c) of this section remains effective for 12
+months from the date of the tenant’s failure to pay the money owed.
+(6) A landlord that must refund rent under this section  or ORS 90.414 shall make the refund :
+(a) To the tenant  by personal delivery or first class mail in any form of check  or money
+or electronically as provided in ORS 90.300 (13);  or
+(b) To any  other  payer by personal delivery or first class mail[ . The refund may be in the form
+of the tenant’s or other payer’s check or ] in any [ other] form of check or money.
+SECTION 7.
+ ORS 90.414 is amended to read:
+Enrolled Senate Bill 1069 (SB 1069-B) Page 6
+90.414. (1) If a notice of termination has been  given by the landlord or the tenant, the following
+do not waive the right of the landlord to terminate on the notice and do not reinstate the tenancy:
+(a) Except when the notice is a nonpayment of rent termination notice  under ORS 90.394, the
+acceptance of rent if:
+(A) The rent is prorated to the termination date specified in the notice; or
+(B) The landlord refunds at least the unused balance of the  rent prorated for the period beyond
+the termination date within 10 days after receiving the rent payment.
+(b) Except if the termination is for cause under ORS 90.392, 90.398, 90.405, 90.630  or 90.632, the
+acceptance of rent for a rental period  that extends beyond the termination date in the notice, if the
+landlord refunds at least the unused balance of the rent for the period beyond the  termination date
+within 10 days after the end of the remedy or correction period described in the applicable notice.
+(c) If the termination is for cause  under ORS 90.392, 90.398, 90.405, 90.630 or 90.632 and pro-
+ceedings have commenced under ORS 105.105 to 105.168 to recover possession of the premises  based
+on the termination:
+(A) The acceptance of rent  for a period beyond the expiration of the notice of termination dur-
+ing which the tenant remains in possession if:
+(i) The landlord notifies the  tenant in writing in, or after the service of, the notice of termi-
+nation for cause that the acceptance of rent while  an action for possession is pending will not waive
+the right to terminate under the notice; and
+(ii) The rent does not cover a period that extends beyond the date  the rent payment is accepted.
+(B) Service of a nonpayment of rent termination notice under ORS 90.394.
+(2) The following do not waive the right of the landlord  to terminate on a notice of termination
+given by the landlord or the tenant and do not reinstate a tenancy:
+(a) The acceptance of a last month’s rent deposit collected at the beginning of  the tenancy,
+whether or not the deposit covers a period beyond a termination date.
+(b) The acceptance of rent distributed under a court order releasing money that was paid into
+the court as provided under ORS 90.370 (1).
+(c) The acceptance of rent paid for a rent obligation  not yet due and paid more than one rental
+period in advance.
+[(3) When  a landlord must refund rent under this section, the refund shall be made to the tenant
+or other payer by personal delivery or first class mail and may be in the form of the tenant’s  or other
+payer’s check or in any other form of check or money. ]
+Enrolled Senate Bill 1069 (SB 1069-B) Page 7
+Passed by Senate April 13, 2023
+Repassed by Senate June 15, 2023
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House May 23, 2023
+..................................................................................
+Dan Rayfield, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2023
+Approved:
+........................M.,........................................................., 2023
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2023
+..................................................................................
+Secretary of State
+Enrolled Senate Bill 1069 (SB 1069-B) Page 8
