@@ -1,0 +1,1115 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2019r1-hb3031
+title: 'HB 3031 (2019R1): Creates family and medical leave insurance program to provide employee who is
+  eligible for coverage with portion of wages while employee is on family and medical leave or military
+  family leave.'
+doc_type: dataset_doc
+citation: 2019 Regular Session House Bill 3031
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3031/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: b0405c03efb599b04fe31601a0ad462b52b49dee09556ca3d80154b9622d8a8d
+snapshot_id: measure-2019r1-hb3031-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 10.090
+  - ORS 10.092
+  - ORS 171.120
+  - ORS 174.111
+  - ORS 181A.680
+  - ORS 183.605
+  - ORS 183.635
+  - ORS 19.415
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.556
+  - ORS 205.125
+  - ORS 25.080
+  - ORS 25.337
+  - ORS 25.424
+  - ORS 31.730
+  - ORS 348.282
+  - ORS 408.230
+  - ORS 408.237
+  - ORS 410.600
+  - ORS 475B.281
+  - ORS 476.574
+  - ORS 652.020
+  - ORS 652.220
+  - ORS 652.355
+  - ORS 653.025
+  - ORS 653.060
+  - ORS 653.263
+  - ORS 653.265
+  - ORS 653.450
+  - ORS 653.470
+  - ORS 653.547
+  - ORS 653.549
+  - ORS 653.601
+  - ORS 656.005
+  - ORS 657.100
+  - ORS 657.105
+  - ORS 657.150
+  - ORS 657.155
+  - ORS 658.005
+  - ORS 659.852
+  - ORS 659A.030
+  - ORS 659A.040
+  - ORS 659A.043
+  - ORS 659A.046
+  - ORS 659A.069
+  - ORS 659A.082
+  - ORS 659A.093
+  - ORS 659A.103
+  - ORS 659A.145
+  - ORS 659A.150
+  - ORS 659A.156
+  - ORS 659A.159
+  - ORS 659A.162
+  - ORS 659A.400
+  - ORS 659A.406
+  - ORS 659A.820
+  - ORS 659A.850
+  - ORS 659A.885
+  - ORS 670.600
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2019r1
+- hb
+session_key: 2019R1
+measure_prefix: HB
+measure_number: 3031
+prefix_meaning: House Bill
+catch_line: Creates family and medical leave insurance program to provide employee who is eligible for
+  coverage with portion of wages while employee is on family and medical leave or military family leave.
+minority_catch_line: null
+measure_summary: "\tCreates family and medical leave insurance program to provide employee who is eligible\
+  \ for coverage with portion of wages while employee is on family and medical leave or military family\
+  \ leave. Requires employer and employee contributions to fund program. Allows self-employed individuals\
+  \ and tribal government employers to opt into program. Directs Director of Department of Consumer and\
+  \ Business Services to determine contribution amounts and weekly benefit amounts. Establishes Family\
+  \ and Medical Leave Insurance Fund and continuously appropriates moneys in fund to Department of Consumer\
+  \ and Business Services for purposes of Act. \n\tProtects eligible employee's position of employment\
+  \ with employer while employee is on leave if employee has been employed with employer for minimum of\
+  \ 90 days before commencing leave. Prohibits employer from retaliating against employee who invokes\
+  \ program and from interfering with employee rights under program. Establishes right of employee for\
+  \ civil action for certain employer violations. \n\tAmends Oregon family leave law to allow for leave\
+  \ after employee has been employed for 90 days with employer and to extend length of leave taken for\
+  \ bereavement. \n\tDirects department to administer collection of, and reporting requirements for, payroll\
+  \ contributions. Requires director to work with other agencies and promulgate rules for administration\
+  \ of program. Establishes requirements for director to submit initial report to interim committees of\
+  \ Legislative Assembly no later than September 15, 2021. Beginning September 15, 2022, requires director\
+  \ to report to committees on September 15 of every even-numbered year thereafter. Requires department\
+  \ to conduct study regarding implementation of program with regard to self-employed individuals and\
+  \ tribal governments opting into program. \n\tBecomes operative on January 1, 2021. Provides that eligibility\
+  \ provisions and provisions related to elective coverage for self-employed individuals and tribal governments\
+  \ become operative on January 1, 2023. \n\tTakes effect on 91st day following adjournment sine die."
+relating_to: Relating to family medical leave benefits; prescribing an effective date; providing for revenue
+  raising that requires approval by a three-fifths majority.
+relating_to_full: Relating to family medical leave benefits; creating new provisions; amending ORS 657.100,
+  659A.156, 659A.162 and 659A.885; prescribing an effective date; and providing for revenue raising that
+  requires approval by a three-fifths majority.
+at_the_request_of: null
+lc_number: 2895
+measure_created_date: '2019-02-20T16:18:18'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 67651
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 10.090
+  - ORS 10.092
+  - ORS 171.120
+  - ORS 174.111
+  - ORS 181A.680
+  - ORS 183.605
+  - ORS 183.635
+  - ORS 19.415
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.556
+  - ORS 205.125
+  - ORS 25.080
+  - ORS 25.337
+  - ORS 25.424
+  - ORS 31.730
+  - ORS 348.282
+  - ORS 408.230
+  - ORS 408.237
+  - ORS 410.600
+  - ORS 475B.281
+  - ORS 476.574
+  - ORS 652.020
+  - ORS 652.220
+  - ORS 652.355
+  - ORS 653.025
+  - ORS 653.060
+  - ORS 653.263
+  - ORS 653.265
+  - ORS 653.450
+  - ORS 653.470
+  - ORS 653.547
+  - ORS 653.549
+  - ORS 653.601
+  - ORS 656.005
+  - ORS 657.100
+  - ORS 657.105
+  - ORS 657.150
+  - ORS 657.155
+  - ORS 658.005
+  - ORS 659.852
+  - ORS 659A.030
+  - ORS 659A.040
+  - ORS 659A.043
+  - ORS 659A.046
+  - ORS 659A.069
+  - ORS 659A.082
+  - ORS 659A.093
+  - ORS 659A.103
+  - ORS 659A.145
+  - ORS 659A.150
+  - ORS 659A.156
+  - ORS 659A.159
+  - ORS 659A.162
+  - ORS 659A.400
+  - ORS 659A.406
+  - ORS 659A.820
+  - ORS 659A.850
+  - ORS 659A.885
+  - ORS 670.600
+  from_relating_to_full:
+  - ORS 657.100
+  - ORS 659A.156
+  - ORS 659A.162
+  - ORS 659A.885
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3031`.
+
+# HB 3031 — 2019 Regular Session (2019R1)
+
+## At a glance
+
+- **Measure:** House Bill 3031, 2019 Regular Session (2019R1)
+- **LC number:** 2895
+- **Created:** 2019-02-20T16:18:18
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 67651 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3031/Introduced>.
+
+## Summary
+
+**Catchline:** Creates family and medical leave insurance program to provide employee who is eligible for coverage with portion of wages while employee is on family and medical leave or military family leave.
+
+**Relating to:** Relating to family medical leave benefits; prescribing an effective date; providing for revenue raising that requires approval by a three-fifths majority.
+
+Creates family and medical leave insurance program to provide employee who is eligible for coverage with portion of wages while employee is on family and medical leave or military family leave. Requires employer and employee contributions to fund program. Allows self-employed individuals and tribal government employers to opt into program. Directs Director of Department of Consumer and Business Services to determine contribution amounts and weekly benefit amounts. Establishes Family and Medical Leave Insurance Fund and continuously appropriates moneys in fund to Department of Consumer and Business Services for purposes of Act. 
+ Protects eligible employee's position of employment with employer while employee is on leave if employee has been employed with employer for minimum of 90 days before commencing leave. Prohibits employer from retaliating against employee who invokes program and from interfering with employee rights under program. Establishes right of employee for civil action for certain employer violations. 
+ Amends Oregon family leave law to allow for leave after employee has been employed for 90 days with employer and to extend length of leave taken for bereavement. 
+ Directs department to administer collection of, and reporting requirements for, payroll contributions. Requires director to work with other agencies and promulgate rules for administration of program. Establishes requirements for director to submit initial report to interim committees of Legislative Assembly no later than September 15, 2021. Beginning September 15, 2022, requires director to report to committees on September 15 of every even-numbered year thereafter. Requires department to conduct study regarding implementation of program with regard to self-employed individuals and tribal governments opting into program. 
+ Becomes operative on January 1, 2021. Provides that eligibility provisions and provisions related to elective coverage for self-employed individuals and tribal governments become operative on January 1, 2023. 
+ Takes effect on 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to family medical leave benefits; creating new provisions; amending ORS 657.100, 659A.156, 659A.162 and 659A.885; prescribing an effective date; and providing for revenue raising that requires approval by a three-fifths majority.
+
+## Full text
+
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Corrected Title
+House Bill 3031
+Sponsored by Representatives WILLIAMSON,  FAHEY, HOLVEY, DOHERTY, HERNANDEZ, Senator MANNING
+JR; Representatives ALONSO LEON, BYNUM, EVANS, GORSEK, GREENLICK,  KENY-GUYER, MARSH,
+MCLAIN, MEEK, MITCHELL, NERON, NOSSE, PILUSO, POWER, PRUSAK, SALINAS, SANCHEZ,
+SCHOUTEN, SMITH WARNER,  WILLIAMS, Senators DEMBROW, FAGAN, FREDERICK, GELSER, GOLDEN,
+MONNES ANDERSON, RILEY
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Creates family and medical leave insurance program to provide employee who  is eligible for
+coverage with portion of wages while employee is on  family and medical leave or military family
+leave. Requires employer and employee contributions to fund program. Allows self-employed indi-
+viduals and tribal government employers to opt into  program. Directs Director of Department of
+Consumer and Business Services to determine contribution amounts  and weekly benefit amounts.
+Establishes Family and Medical Leave Insurance Fund  and continuously appropriates moneys in
+fund to Department of Consumer and Business Services for purposes of Act.
+Protects eligible employee’s position of employment with employer while employee is on  leave
+if employee has been employed with employer for  minimum of 90 days before commencing leave.
+Prohibits employer from retaliating against employee who invokes program  and from interfering
+with employee rights under program. Establishes right of employee  for civil action for certain em-
+ployer  violations.
+Amends Oregon family leave law to allow for leave  after employee has been employed for 90
+days with employer and to extend length of leave taken for bereavement.
+Directs department to administer collection of, and reporting requirements  for, payroll contri-
+butions. Requires director to work with other agencies and  promulgate rules for administration of
+program. Establishes requirements  for director to submit initial report to interim committees of
+Legislative Assembly no later than September 15,  2021. Beginning September 15, 2022, requires di-
+rector to report to committees on September 15 of every even-numbered year thereafter. Requires
+department to conduct study regarding implementation of program with regard to self-employed  in-
+dividuals and tribal governments opting into program.
+Becomes operative on January 1,  2021. Provides that eligibility provisions and provisions related
+to elective coverage for self-employed individuals and  tribal governments become operative on Jan-
+uary 1, 2023.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to family medical leave  benefits; creating new provisions; amending ORS 657.100, 659A.156,
+659A.162 and 659A.885;  prescribing an effective date; and providing for revenue raising that re-
+quires approval by a three-fifths majority.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Definitions. As used in sections 1 to 19 of this 2019 Act:
+(1) “Activities of daily living” has the meaning given that term in ORS 410.600.
+(2) “Average weekly wage” means the  amount calculated by the Employment Department
+as the state average weekly covered wage under ORS 657.150 (4)(d) as determined not more
+than once per year.
+(3) “Base year” means the first  four of the last five completed calendar quarters pre-
+ceding the benefit year.
+(4) “Benefit year” means the 12-month period beginning on the  first day of the week in
+which a covered individual applies for family and  medical leave insurance coverage, as pro-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2895
+vided in section 2 of this 2019 Act.
+(5) “Covered individual” means any one of the following who  receives paid family and
+medical leave insurance benefits:
+(a) An eligible employee;
+(b) A self-employed individual;
+(c) An employee of a tribal government; or
+(d) An unemployed individual who is not  receiving unemployment insurance benefits un-
+der ORS chapter 657.
+(6) “Covered servicemember” has the meaning given that term in 29 U.S.C. 2611.
+(7) “Eligible employee” means an employee who has earned at least $300 in  wages during
+the base year.
+(8) “Eligible employee’s average wage”  means an amount determined by the Director of
+the Department of Consumer and Business Services on the basis of an eligible  employee’s
+average wages per week during the base year.
+(9)(a) “Employee” means an individual employed for  remuneration or under any contract
+of hire, written or oral, express or implied, by an employer.
+(b) “Employee” does not include:
+(A) An independent contractor as defined in ORS 670.600  who is not a covered individual.
+(B) A participant in a work training program administered under a state  or federal as-
+sistance program.
+(C) A participant in a work-study program that provides students in  secondary or post-
+secondary educational institutions with employment opportunities  for financial assistance or
+vocational training.
+(D) A railroad worker exempted  under the federal Railroad Unemployment Insurance
+Act.
+(E) A volunteer.
+(10)(a) “Employer” means any person employing one or more  employees working any-
+where in this state, the State of Oregon or any political subdivision thereof, or  any county,
+city, district, authority, public corporation  or entity and any of their instrumentalities or-
+ganized and existing under law or charter.
+(b) “Employer” does not include the federal government or a tribal government.
+(11) “Family and medical leave  insurance benefits” means the insurance benefits provided
+under sections 1 to 19 of this 2019 Act.
+(12) “Family member” means:
+(a) A family member as defined in ORS 659A.150;
+(b) An individual who is biologically related to an employee;
+(c) An individual who is legally recognized under  the laws of this state as related to an
+employee;
+(d) An individual for whom an employee is responsible for  providing health care, assist-
+ance in accessing or managing medical treatment or support with  the activities of daily liv-
+ing;
+(e) An individual who lives  with an employee and with whom the employee shares re-
+sponsibility for each other’s common welfare; or
+(f) Any other individual whose close association with an employee is equivalent  to a
+family relationship as evidenced by a nexus of factors including, but not limited to:
+(A) A shared responsibility for financial obligations;
+(B) Signs of intent to marry;
+(C) A child or children in common;
+(D) The length of the personal relationship between the individual and the employee; or
+(E) Common ownership of real or personal property.
+(13) “Health care provider” has the meaning given that term in ORS 659A.150.
+(14) “Parental  leave” means leave taken to care for a new child during the first year after
+the birth, adoption or placement through foster care of the child.
+(15) “Qualifying exigency” includes:
+(a) A need arising out of a family member’s active duty service  or notice of an impending
+call or order to active duty in the Armed Forces of  the United States, as that term is defined
+in ORS 348.282; and
+(b) A qualifying exigency as described in 29 C.F.R. 825.126.
+(16) “Self-employed  individual” is an individual who has self-employment income, as de-
+fined in section 1402(b) of the Internal Revenue Code as amended and in effect on December
+31, 2018.
+(17) “Serious health condition” has the meaning given that term in 29 U.S.C. 2611.
+(18) “Tribal government” has the meaning given that term in ORS 181A.680.
+(19) “Wages” has the meaning given that term in ORS 657.105.
+(20) “Week” means a period of seven consecutive calendar days as determined by  the
+Director of the Department of Consumer and Business Services.
+SECTION 2.
+Eligibility; payment of benefits; purposes for which leave may be taken.  (1)
+The following may apply for family and medical leave insurance coverage in a manner de-
+termined by the Department of Consumer and Business Services by rule:
+(a) An eligible employee;
+(b) A self-employed individual who elects coverage under section 15 of this 2019 Act; and
+(c) An employee  of a tribal government that elects coverage under section 15 of this 2019
+Act.
+(2) Family and medical leave insurance benefits are payable to:
+(a) An eligible employee who:
+(A) Applies for coverage under subsection (1) of this section; and
+(B) During the  base year prior to applying for coverage, contributes to the Family and
+Medical Leave Insurance Fund established  under section 17 of this 2019 Act an amount de-
+termined by the Director of the Department of Consumer and Business Services  under sec-
+tion 5 of this 2019 Act;
+(b) A self-employed individual who:
+(A) Elects coverage under section 15 of this 2019 Act;
+(B) Has earned at least $300 in taxable income during the base year as a self-employed
+individual;
+(C) Applies for coverage under subsection (1) of this section; and
+(D) During  the base year prior to applying for coverage, contributes to the Family and
+Medical Leave Insurance Fund established  under section 17 of this 2019 Act an amount de-
+termined by the director under section 5 of this 2019 Act;
+(c) An employee of a  tribal government who has applied for coverage under subsection
+(1) of this section; or
+(d) An unemployed individual who is  not receiving unemployment insurance benefits un-
+der ORS chapter 657.
+(3) Family and medical leave insurance benefits may not be paid to an individual de-
+scribed in subsection (2)  of this section, unless the individual submits a claim in a manner
+determined by the department by rule for leave that is taken for any of the  following pur-
+poses:
+(a) Parental leave;
+(b) Leave to care for a family member with a serious health condition;
+(c) Leave for a serious health condition, including pregnancy;
+(d) Leave to care for a covered servicemember;
+(e) Leave for a purpose described in ORS 659A.093 for a family member;
+(f) Leave because of a qualifying exigency for a family member; or
+(g) Leave for any purpose set forth in ORS 659A.159.
+(4) The first payment of family and medical leave insurance benefits must be made  to a
+covered individual from the Family and Medical Leave Insurance  Fund established under
+section 17 of this 2019  Act within two weeks after the covered individual files a claim for
+benefits. Subsequent payments must be made every two weeks.
+(5) Except as provided in section 7  of this 2019 Act, family and medical leave insurance
+benefits are not payable for leave of less than one week.
+(6) An eligible employee may retain the employee’s status  as an eligible employee and
+retain any family and medical leave insurance benefits that the employee has accrued from
+the employee’s contributions under section 5 of this 2019 Act at any  time the employee
+changes jobs, as long as the employee continues to be employed by an employer in  this state.
+(7) An individual may  not be deemed “unemployed” within the meaning of ORS 657.100
+during the period that  the individual is a covered individual and receiving family and medical
+leave insurance benefits.
+(8)(a) A covered individual who receives family and medical leave  insurance benefits un-
+der this section must, upon request by the covered individual’s employer or the  director,
+provide verification of the need for leave in a manner determined by the director.
+(b) Upon request by an employer, the director shall provide any  verification that the di-
+rector has received under paragraph (a) of this  subsection to the employer in a manner that
+complies with all standards required by state  and federal laws governing privacy and security
+of protected health information.
+(c) For purposes of this subsection, “protected health information”  has the meaning
+given that term in ORS 192.556.
+SECTION 3.
+Duration of benefits.  (1)(a) A covered individual may qualify for up to  12
+weeks of family and medical leave insurance benefits per benefit year.
+(b) In addition to the 12 weeks of family and medical leave  insurance benefits described
+in paragraph (a) of this subsection:
+(A) A covered individual may qualify for up to 14 weeks of benefits for parental leave.
+(B) A covered individual may qualify for up to six weeks of benefits for an  illness, injury
+or condition related to pregnancy or childbirth that  disables the eligible employee from per-
+forming any available job duties offered by the employer.
+(c) The total amount  of leave that a covered individual may take under this subsection
+may not exceed 32 weeks per benefit year.
+(2)(a) An employer may not require  an eligible employee to take more leave than the el-
+igible employee requests.
+(b) A covered individual may take less leave  than available to the covered individual un-
+der this section.
+SECTION 4. Amount of benefits. (1) Except  as provided in subsection (2) of this section,
+the Director  of the Department of Consumer and Business Services shall determine the
+amount of family and medical leave insurance benefits that an  eligible employee qualifies for,
+as follows:
+(a) The director shall determine the eligible employee’s average wage on the basis  of the
+eligible employee’s wages earned during the base year.
+(b) The director shall set the weekly benefit amount at:
+(A) If the eligible employee’s average wage is more than the  average weekly wage, 90
+percent of the average weekly wage plus  50 percent of the difference between the eligible
+employee’s average wage and the average weekly wage.
+(B) If the eligible  employee’s average wage is equal to or less than the average weekly
+wage, 90 percent of the eligible employee’s average wage.
+(c) The director  shall establish a maximum weekly benefit amount of 130 percent of the
+average weekly wage.
+(2) If an eligible employee is an employee who is  paid for each hour of work at the min-
+imum wage rate required under ORS 653.025, the director shall set the weekly benefit amount
+at 100 percent of the eligible  employee’s average wage up to 
+percent of the average
+weekly wage.
+(3) The director shall determine the amount of family and medical leave insurance bene-
+fits that a self-employed individual qualifies for on  the basis of the self-employed individual’s
+contribution amount described in section 5 of this 2019 Act.
+(4) The director shall determine the amount of family and medical leave insurance bene-
+fits that an employee of a tribal government that elects coverage under  section 15 of this
+2019 Act qualifies for on the basis of the tribal  government’s contribution amount described
+in section 5 of this 2019 Act.
+(5) Family and medical leave insurance benefits are payable  only to the extent that
+moneys are available in the Family and  Medical Leave Insurance Fund for that purpose. The
+state, any political subdivision of the state or any  state agency is not liable for any amount
+in excess of this limit.
+SECTION 5. Contributions. (1)(a) All  employers and eligible employees shall contribute
+to the Family and Medical  Leave Insurance Fund established under section 17 of this 2019
+Act at a rate determined by the  Director of the Department of Consumer and Business
+Services under subsection (2) of this  section. Payroll contributions shall be paid by employers
+and eligible employees in equal amounts. Payroll contributions from an eligible employee may
+not exceed 0.5 percent of the employee’s wages.  The director shall evaluate and determine
+on an  annual basis the amount of payroll contributions, timing of payroll contributions and
+maximum employee contributions necessary to finance sections 1 to 19 of this 2019 Act.
+(b) Subject to section 15 (2) and (3) of this 2019  Act, a self-employed individual who has
+elected coverage under  section 15 (1) of this 2019 Act shall contribute to the fund at a rate
+of one percent of the  individual’s taxable income as reported for purposes of ORS chapter
+316 for a period of not less than three years from the date that the  election becomes effec-
+tive.
+(c) A tribal government that elects coverage under section 15 of this 2019  Act shall con-
+tribute to the fund at a rate determined by the director by rule.
+(2) The director shall set rates for the collection of  payroll contributions consistent with
+subsection (1) of this section and in a manner that:
+(a) At the end of  the period for which the rates are effective, the balance of moneys in
+the fund is an amount not less than six months’ worth of projected expenditures from the
+fund for performance of  the functions and duties of the director under sections 1 to 19 of this
+2019 Act; and
+(b) The volatility of the contribution rates is minimized.
+(3) Subject to the  limitations described in subsections (1) and (2) of this section, the di-
+rector may adjust the contribution rates to meet the needs of the fund for the expenditures
+of the Department of Consumer and Business Services  in carrying out the department’s
+functions and duties pursuant to sections 1 to 19 of this 2019 Act.  In making adjustments
+under this subsection, the director shall consider the cash balance of the fund and other
+factors as determined by the director.
+(4) Employers shall hold any moneys collected under this section in trust  for the State
+of Oregon and for the payment  thereof to the Department of Revenue in the manner de-
+scribed in subsection (5) of this section.
+(5)(a) Employers  shall make and file a combined quarterly report of wages earned and
+contributions paid under this section  upon a report form prescribed by the Department of
+Revenue.
+(b) The report shall be filed with the Department of Revenue on or before the last  day
+of the month following the quarter in which the report relates and shall be deemed  received
+on the date of mailing.
+(c) The report shall be accompanied by payment of any contributions  due under this
+section in a manner determined by the Department of Revenue by rule.
+(d) The Department  of Consumer and Business Services may assess a civil penalty in an
+amount not to exceed $1,000 for an employer’s failure to comply with this subsection.
+(6) If an employer fails to remit any  moneys collected under this section, the Department
+of Consumer and Business Services may enforce collection by  the issuance of a distraint
+warrant for the collection of the delinquent amount and all  penalties, interest and collection
+charges accrued  thereon. The warrant shall be issued and proceeded upon in the same
+manner and shall have the same force and effect as a  judgment issued and proceeded upon
+as provided in ORS 205.125.
+(7)(a) If an employer fails to  pay sufficient payroll contributions under this section, the
+Department of  Consumer and Business Services may issue a notice of liability to any officer,
+employee or member of the employer within three years of the  due date of the contributions.
+(b) Within 30 days from the date the notice of liability is mailed to the  officer, employee
+or member of the employer, the  officer, employee or member shall pay the amount due, plus
+penalties and interest, or shall request  a hearing on the matter in writing to the Director
+of the Department of Consumer and Business Services. A hearing will not  be granted unless
+the request specifies the grounds  upon which the officer, employer or member requesting the
+hearing contests the liability.
+(c) Hearings conducted under this subsection shall be held before  an administrative law
+judge assigned  from the Office of Administrative Hearings established under ORS 183.605.
+The procedure shall be that for a contested case under ORS chapter 183.
+(d) More than one officer, employee or member of  an employer may be held jointly and
+severally liable for the payment of unpaid contributions.
+(8) Moneys collected under this section shall be deposited in  the fund for the purpose of
+carrying out the functions and duties of the director under sections 1 to 19 of this 2019  Act.
+(9)(a) If an employer quits business or sells out, exchanges or otherwise disposes of the
+business or stock of goods, any payroll contribution payable under this section is immediately
+due and payable, and the employer shall, within 10  calendar days, pay the payroll contribu-
+tions due. Any person who becomes a successor to the business is liable for the full amount
+of the payroll contribution.
+(b) The director shall adopt rules for compliance with sections 1  to 19 of this 2019 Act
+related to payroll contributions from an employer’s successor in interest.
+SECTION 6.
+Employment agencies.  (1) As used in this section, “employment agency” has
+the meaning given that term in ORS 658.005.
+(2) When an employee has obtained employment through  the services of an employment
+agency:
+(a) Except as provided in paragraph (b) of this subsection, the  employment agency and
+the organization where the employee  has been placed to perform services shall both be con-
+sidered the employer of the employee for purposes of sections 1 to 19 of this 2019 Act; and
+(b) The employment agency, but not the organization where the employee has been placed
+to perform services, shall be considered the employer for purposes of section 5  (1) to (6) of
+this 2019 Act.
+SECTION 7. Benefits for reduced leave. (1)(a) Except as provided in paragraph (b) of this
+subsection, a covered individual may use family and medical leave insurance benefits for
+leave that is taken in increments of less than 40 hours, provided that:
+(A) Leave is taken in increments no shorter than eight hours;
+(B) Leave that is taken in an increment of less than 40 hours is  predictable on a weekly
+basis and verified by the covered individual pursuant to section 2 of this 2019 Act;
+(C) Benefit amounts, as determined under section 4 of this  2019 Act, are prorated to in-
+crements of no less than eight hours; and
+(D) Benefits are payable in increments of 40 hours.
+(b) A covered individual may use  family and medical leave insurance benefits for leave
+that is taken in increments of less than eight hours if the covered individual is a  part-time
+employee or if the covered individual’s scheduled work shift is less than eight  hours and the
+leave that is taken is not less than the hours scheduled in the work shift.
+(2) An eligible employee shall make a reasonable effort to schedule  leave under this sec-
+tion so as not to unduly disrupt the operations of the employer. The eligible employee  shall
+provide the employer with prior  notice of the schedule on which the eligible employee will
+be taking the leave, to the extent practicable.
+(3) An employer, self-employed individual  or tribal government shall notify the Director
+of the Department of Consumer and Business Services, upon request, of the actual  amount
+of leave taken each week for the purpose of verifying the  amount of family and medical leave
+insurance benefits that are payable to the covered individual.
+(4) Family  and medical leave taken under this section must not result in a reduction of
+the total  amount of leave to which a covered individual is entitled beyond the amount of
+leave actually taken.
+(5) Nothing in this section shall be construed to  entitle a covered individual to an amount
+of family and medical  leave insurance benefits per benefit year that is more than required
+under section 3 of this 2019 Act.
+SECTION 8. Notice to employer.  (1) Except as provided in subsection  (2) of this section,
+an employer may require an eligible employee to give  the employer written notice at least
+30 days before commencing leave. The employer may  require the employee to include in the
+notice an explanation of the need for the leave.
+(2) An eligible employee may commence leave  without 30 days’ advance notice if the leave
+is not foreseeable, including under the following circumstances:
+(a) An unexpected serious health condition of the employee or  a family member of the
+employee;
+(b) An unexpected illness, injury or condition  of a child of the employee that requires
+home care;
+(c) A premature birth, unexpected adoption  or unexpected foster placement by or with
+the employee; or
+(d) The death of a family member of the employee.
+(3) If an eligible  employee commences leave without advance notice under subsection (2)
+of this section:
+(a) The employee shall give notice to the employer as  soon as practicable, but in no event
+later than 45 days after the  date on which the leave commenced, in a manner determined
+by the Director of the Department of Consumer and Business Services; and
+(b) The employee shall receive family and  medical leave insurance benefits for the period
+that begins on the date on which the leave commenced.
+(4) The notice described in subsection (3) of  this section may be given by a family mem-
+ber, health care provider or authorized  representative on behalf of the eligible employee
+taking the leave.
+SECTION 9.
+Employment protection; retaliation prohibited. (1) After returning to work
+after a period of leave taken under section  2 of this 2019 Act, an eligible employee is entitled
+to be restored to the position  of employment held by the employee when the leave com-
+menced if that  position still exists, without regard to whether the employer filled the position
+with a replacement worker during the period of leave. If  the position held by the employee
+at the time leave  commenced no longer exists, the employee is entitled to be restored to any
+available equivalent position with equivalent employment benefits, pay and other  terms and
+conditions of employment.
+(2) During a period in which an eligible employee takes leave under  section 2 of this 2019
+Act, the employer shall maintain any health care benefits the employee had prior to taking
+such leave for the duration  of the leave as if the employee had continued in employment
+continuously from the date the employee commenced the leave until  the date the family and
+medical leave insurance benefits terminate.
+(3) An eligible employee who  has taken leave under section 2 of this 2019 Act does not
+lose any employment benefits, including seniority or pension rights, accrued  before the date
+that leave commenced.
+(4) This section does  not entitle an eligible employee to accrue employment benefits
+during a period of leave taken under section 2 of this 2019 Act or to a right, benefit or posi-
+tion of employment other  than a right, benefit or position to which the employee would have
+been entitled had the employee not taken leave.
+(5) During a period in which an eligible employee takes leave under  section 2 of this 2019
+Act, the Director of the Department of Consumer and Business  Services or an employer may
+require the employee or a family member, health care provider or authorized  representative
+of the employee to report periodically to the  director or the employer on the employee’s
+status and on the employee’s intention to return to work.
+(6) It is an unlawful practice for a person to:
+(a) Violate subsections (1) to (3) of this section;
+(b) Interfere with a right to which a covered individual is entitled under sections 1  to 19
+of this 2019 Act; or
+(c) Retaliate or in any way  discriminate against an individual with respect to hire or
+tenure or any other term or condition of  employment because the individual has inquired
+about the provisions  of sections 1 to 19 of this 2019 Act, applied for coverage under section
+2 of this 2019 Act or invoked any provision of sections 1 to 19 of this 2019 Act.
+(7) An  individual who alleges a violation of this section may bring a civil action under
+ORS 659A.885  or may file a complaint with the Commissioner of the Bureau of Labor and
+Industries in the manner provided by ORS 659A.820.
+(8) The protections for eligible employees provided under this section  apply only to an
+eligible employee who was employed by the employer for at least 90 days before  taking leave
+under section 2 of this 2019 Act.
+SECTION 10.
+Coordination of benefits. (1) For employees eligible for leave under ORS
+659A.150 to 659A.186, leave taken under sections 1 to  19 of this 2019 Act shall run concur-
+rently with leave under ORS 659A.150 to 659A.186.
+(2)(a) Sections 1 to 19 of this 2019 Act do not diminish an employer’s  obligation to comply
+with a collective bargaining agreement, an employer policy or local, state or federal law.
+(b) An eligible employee’s  right to family and medical leave insurance benefits under
+sections 1 to 19 of  this 2019 Act may not be waived in or diminished by a collective bargaining
+agreement entered into or renewed, or an employee policy adopted or  retained, after the ef-
+fective date of this 2019 Act.
+(c) The eligibility of an employee for family and medical leave  insurance benefits is not
+affected by a strike  or lockout at the store, factory, warehouse, establishment or other
+premises at which the employee is or was last employed.
+(d) Nothing  in sections 1 to 19 of this 2019 Act requires the reopening or renegotiation
+of a collective bargaining agreement, prior to the  date of expiration of the collective bar-
+gaining agreement, entered into before the effective date of this 2019 Act.
+(3)(a) An employer may not require an eligible employee to  use paid sick time, paid va-
+cation time or any other paid time off before or as a condition  of using family and medical
+leave insurance benefits.
+(b) An eligible employee is entitled to use any  accrued paid sick time or other paid time
+off without a reduction in family and medical leave insurance benefits.
+(4) Family and medical leave taken under sections 1 to 19 of this 2019 Act does not in-
+clude leave taken by  an eligible employee who is unable to work because of a disabling
+compensable injury, as defined in ORS 656.005, unless the employee has refused  a suitable
+offer of light duty or modified employment as defined by the Director of the  Department of
+Consumer and Business Services.
+(5) An employer’s failure to  provide information to the Department of Consumer and
+Business Services upon written request by the director  or the director’s authorized repre-
+sentative to assist with the processing of a claim under sections 1 to 19 of  this 2019 Act shall
+constitute interference under section 9 of this 2019 Act.
+SECTION 11. Notice to employees. An employer shall display and provide written notice
+of employee rights under  sections 1 to 19 of this 2019 Act in a manner determined by the
+Director of the Department of Consumer and Business Services. Such notice shall include:
+(1) An eligible employee’s right  to apply for and receive family and medical leave insur-
+ance benefits under sections 1 to 19 of this 2019 Act and the terms  under which the benefits
+may be used;
+(2) The criteria used to determine  eligibility for and the amount of family and medical
+leave insurance benefits;
+(3) The procedure for filing a claim for family and medical leave insurance benefits;
+(4) The right to job protection  and benefits continuation under section 9 of this 2019 Act;
+(5) That discrimination and retaliatory personnel actions against an individual for  in-
+quiring about, requesting, applying for or using family and medical leave insurance benefits
+is prohibited under section 9 of this 2019 Act; and
+(6) That an individual has  a right to bring a civil action or to file a complaint for violation
+of section 9 of this 2019 Act.
+SECTION 12.
+Records of employers; inspections. (1) Employers must maintain payroll and
+employment records that reflect the total hours worked by all employees for the  current
+calendar year plus the three prior calendar years.
+(2) The Director of the Department of Consumer and  Business Services may inspect the
+payroll and employment records of  employers for the purpose of administering sections 1 to
+19 of this 2019 Act. Employers must provide the director with all pertinent  payroll and em-
+ployment records upon request.
+SECTION 13. Enforcement and confidentiality. (1) Notwithstanding ORS 183.635, the Di-
+rector of the Department of Consumer and Business Services shall establish a system  for
+enforcement and appeal of  contested cases involving family and medical leave insurance
+benefit claims under ORS chapter 183. In establishing the  system, the director may utilize
+any and all procedures and appeals mechanisms.
+(2) The director shall implement procedures to ensure confidentiality of all  information
+related to any claims  filed or appeals taken to the maximum extent permitted by applicable
+laws.
+(3) All information in the records of the Department of  Consumer and Business Services
+pertaining to the administration of sections 1 to 19 of this 2019 Act:
+(a) Is confidential and for the exclusive  use and information of the director in adminis-
+tering sections 1 to 19 of this 2019 Act;
+(b) May not be used in any court  action or in any proceeding pending in the court unless
+the director or the State of Oregon is a party to the action or proceeding or unless the action
+or proceeding concerns the establishment, enforcement or  modification of a support obli-
+gation and support services are  being provided by the Division of Child Support of the De-
+partment of Justice or the district attorney pursuant to ORS 25.080; and
+(c) Is exempt from disclosure under ORS 192.311 to 192.478.
+(4) At the discretion of the director and subject to an  interagency agreement, the direc-
+tor may disclose information to a public official in the performance of  the public official’s
+official duties administering or enforcing laws within  the public official’s authority and to
+an agent or contractor of a public official. The public official shall agree to assume respon-
+sibility for misuse of the information by the public official’s agent or contractor.
+(5) At the discretion of the director, the director may disclose information to  a contrac-
+tor pursuant to a contract for  actuarial services. The contractor shall agree to assume re-
+sponsibility for misuse of the information by the contractor’s agent.
+SECTION 14.
+Noncompliance and erroneous payments. (1) An employer  or individual
+acting on behalf of an employer may not willfully make or cause to be  made false statements
+or willfully fail to report a material fact regarding the claim of an eligible employee or re-
+garding an employee’s eligibility for family and medical leave  insurance benefits under
+sections 1 to 19 of this 2019 Act.
+(2) The Director of the Department of Consumer and Business Services may assess a civil
+penalty in an amount not to exceed  $1,000 against an employer for each occurrence that vi-
+olates subsection (1) of this section.
+(3) A covered individual  is disqualified from family and medical leave insurance benefits
+for one year if the director  determines that the covered individual willfully made a false
+statement or willfully  failed to report a material fact to obtain benefits under sections 1 to
+19 of this 2019 Act.
+(4) If family and medical leave insurance benefits are paid erroneously or as a  result of
+willful misrepresentation, or  if a claim for family and medical leave insurance benefits is
+rejected after benefits are  paid except for matters that have been timely appealed, the di-
+rector:
+(a) May  seek repayment of benefits from a covered individual upon issuance of a final
+order in a manner provided by rule; and
+(b) Shall exercise the  director’s discretion to waive, in whole or in part, the amount of
+any such payments where the recovery  would be against equity, good conscience or admin-
+istrative efficiency.
+SECTION 15. Elective coverage. (1) A self-employed individual may elect to be covered
+under sections 1 to 19 of this 2019 Act. The self-employed individual must file a notice of
+election in writing with the Director of the Department of Consumer  and Business Services,
+as required by the director, and contribute  to the Family and Medical Leave Insurance Fund
+established under section 17 of this 2019 Act  in a manner determined by the director. The
+election becomes effective on the date of filing the notice. The self-employed individual shall
+agree to supply  any information concerning taxable income that the director deems neces-
+sary.
+(2) A self-employed individual who has elected coverage may terminate coverage at times
+as the director may prescribe by rule,  including at a change in the self-employed individual’s
+employment status, by filing written notice with the  director. The termination may not take
+effect sooner than 30 days after filing the notice.
+(3) Notwithstanding subsection (2) of this section, a  self-employed individual who has
+elected coverage may terminate coverage on the date of filing a  voluntary or involuntary
+bankruptcy petition. The self-employed individual’s elective coverage terminates  on the date
+the self-employed individual provides to the director documentation to support the self-
+employed individual’s filing of the bankruptcy petition  and files written notice with the di-
+rector. At any time thereafter, the self-employed individual may reelect coverage under  this
+section.
+(4) A tribal government may elect  to be covered under sections 1 to 19 of this 2019 Act
+in the same manner as provided in subsection (1) of this section.
+SECTION 16.
+Administration. (1) The Director of the Department of Consumer and
+Business Services shall adopt rules for the implementation and administration of  sections 1
+to 19 of this 2019 Act.
+(2) The director may enter into interagency  agreements to implement and administer
+sections 1 to 19 of this 2019 Act.
+(3) All agencies of  state government, as defined in ORS 174.111, are directed to assist the
+Department of Consumer and Business Services  upon request in the performance of the
+department’s duties under sections 1 to 19 of this 2019 Act, including outreach,  technical
+assistance and training.
+SECTION 17. Family and  Medical Leave Insurance Fund.  (1) The Family and Medical
+Leave Insurance Fund is established in the State Treasury, separate and distinct  from the
+General Fund. The Family and  Medical Leave Insurance Fund consists of moneys deposited
+in the fund under sections 1 to 19 of this 2019 Act and may include fees, revenues  or other
+income deposited in the fund. Interest earned by the fund shall be credited to the fund.
+(2) All moneys in the fund are continuously appropriated to the  Department of Consumer
+and Business Services for the purposes of carrying out the provisions of sections 1 to 19 of
+this 2019 Act, including payment  of family and medical leave insurance benefits under section
+2 of this 2019 Act and repayment of any funds used for start-up costs.
+(3) Whenever, in the judgment of the  director, there is in the fund an amount of moneys
+in excess of the amount sufficient to meet the current expenditures for a self-sustaining  in-
+surance account, the director shall have full  power to invest, reinvest, manage, contract, sell
+or exchange investments acquired with such excess funds to reduce contribution rates.
+(4) Contributions under section 5 of this  2019 Act that are intended for the fund and
+moneys in the fund may not be subject to execution, attachment or any other  process or to
+the operation of any bankruptcy or insolvency law.
+(5) Expenditures from the fund may not be used  for purposes other than carrying out the
+provisions of sections 1 to 19 of this 2019 Act.
+SECTION 18.
+Reports. (1) Not later than September 15, 2021,  the Director of the De-
+partment of Consumer and Business Services shall submit to the interim  committees of the
+Legislative Assembly related to  workforce or business and labor an initial report summariz-
+ing the progress of the Department of  Consumer and Business Services toward implementing
+a family and medical leave insurance benefits program as  described under sections 1 to 19
+of this 2019 Act.
+(2) The director shall submit a report in the  manner provided by ORS 192.245, and may
+include recommendations for  legislation, to the interim committees of the Legislative As-
+sembly related to workforce or business and labor no later than  September 15, 2022, and no
+later than September 15 of every even-numbered year thereafter.
+(3) The department shall conduct a study to determine  how to implement the provisions
+of sections 1 to 19 of this 2019 Act,  as those provisions pertain to coverage elected by self-
+employed individuals or tribal governments under section 15 of this 2019 Act. The study shall
+include procedures for determining the amount of payroll contributions that a  self-employed
+individual or a tribal government must pay under section 5 of this 2019  Act and the amount
+of family and medical leave insurance benefits that may  be made available. The director shall
+include in the report described in subsection (2) of this section recommendations that  are
+based on the study.
+(4) The director shall  include in reports submitted after January 1, 2025, analyses of data
+regarding the number of individuals who apply for family and medical leave insurance cov-
+erage under sections 1 to 19 of this 2019 Act, reasons for the leave taken, gender of covered
+individuals taking leave, contribution rates, balances  in the Family and Medical Leave In-
+surance Fund established under section 17 of this 2019 Act, outreach efforts  and, if applica-
+ble, family members for whom leave was taken to provide care.
+SECTION 19.
+Sharing technology.  The Director of the Department of Consumer and
+Business Services is encouraged to use  state data collection and technology to the extent
+possible and to integrate the provisions of sections 1  to 19 of this 2019 Act with existing state
+policies.
+SECTION 20. Short title.  Sections 1 to 19 of this 2019 Act shall be known and may be
+cited as the Family and Medical Leave Insurance Equity Act.
+SECTION 21.  ORS 657.100 is amended to read:
+657.100. (1) An individual is deemed “unemployed” in  any week during which the individual
+performs no services and with respect to which no remuneration for  services performed is paid or
+payable to the individual, or in any week of less than full-time  work if the remuneration paid or
+payable to the individual for services performed during the week is less  than the individual’s weekly
+benefit amount.
+(2) For the purposes of ORS 657.155 (1), an individual who performs full-time services in any
+week for an employing unit is not unemployed  even though remuneration is neither paid nor payable
+to the individual for the services  performed; however, nothing in this subsection shall prevent an
+individual from meeting the definition of  “unemployed” as used in this section solely by reason of
+the individual’s  performance of volunteer services without remuneration for a charitable institution
+or a governmental entity.
+(3) An individual may not be  deemed “unemployed” under this section for any week in
+which the individual is receiving family and medical leave insurance benefits as defined in
+section 1 of this 2019 Act.
+[(3)] (4) The Director of the Employment Department shall prescribe rules as the director  deems
+necessary with respect to the various types of unemployment.
+SECTION 22.
+ ORS 659A.156 is amended to read:
+659A.156. (1) All employees of a covered employer are eligible to take leave for one  of the pur-
+poses specified in ORS 659A.159 (1)(b) to (e) except:
+(a) An employee who was employed by the covered employer for fewer than [ 180] 90 days  im-
+mediately before the date on which the family leave would commence.
+(b) An employee who worked an average of fewer than 25 hours per week for the covered em-
+ployer during the  [ 180] 90 days immediately preceding the date on which the family leave would
+commence.
+(2) All employees of a covered employer are eligible to take leave for  the purpose specified in
+ORS 659A.159 (1)(a) except an employee who was employed by the covered employer  for fewer than
+[180] 90 days immediately before the date on which the family leave would commence.
+SECTION 23.  ORS 659A.162 is amended to read:
+659A.162. (1) Except as specifically provided by ORS  659A.150 to 659A.186, an eligible employee
+is entitled to up to a total of 12 weeks of family leave within any one-year period.
+(2)(a) Notwithstanding section 2 (3)(g) of this 2019 Act and  except as  provided by paragraph
+(b) of this subsection,  an eligible employee is entitled to a total of two weeks of family leave for the
+purposes described in ORS 659A.159 (1)(e).
+(b) An eligible employee is entitled to the period of leave  described in paragraph (a) of this
+subsection upon the death of each family member of the employee [ within any  one-year period ], ex-
+cept that leave  taken as provided by this subsection may not exceed the total period of family leave
+authorized by subsection (1) of this section.
+[(c) A covered employer may not require an  eligible employee to take multiple periods of leave de-
+scribed in ORS 659A.159 (1)(e) concurrently if more than one  family member of the employee dies
+during the one-year period. ]
+[(d)] (c) All leave taken for the purposes described in ORS 659A.159 (1)(e) shall be counted to-
+ward the total period of family leave authorized by subsection (1) of this section.
+(3)(a) In addition to the 12 weeks of family leave authorized by  subsection (1) of this section,
+[a female] an eligible  employee may take a total of 12 weeks of leave within any one-year period for
+an illness, injury or condition related to pregnancy or childbirth that  disables the eligible employee
+from performing any available job duties offered by the covered employer.
+(b) An eligible employee  who takes 12 weeks of family leave within a one-year period for the
+purpose specified in ORS 659A.159 (1)(a) may take up to an additional 12 weeks of leave within the
+one-year period for the purpose specified in ORS 659A.159 (1)(d).
+(4) When two or more family members work for the same covered  employer, the eligible em-
+ployees may not take concurrent family leave unless:
+(a) One employee needs to care for  another employee who is a family member and who is suf-
+fering from a serious health condition;
+(b) One employee needs to care for a child who has a  serious health condition while another
+employee who is a family member is also suffering from a serious health condition; or
+(c) The employees are taking leave described in ORS 659A.159 (1)(e).
+(5) An  eligible employee may take family leave for the purpose specified in ORS 659A.159 (1)(a)
+in two or more nonconsecutive periods of leave only with the approval of the employer.
+(6) Leave need not be provided to an eligible employee by a covered employer for the  purpose
+specified in ORS 659A.159 (1)(d) if another family member is available to care for the child.
+(7) A covered employer may not reduce the amount of  family leave available to an eligible em-
+ployee under this section by any period the employee  is unable to work because of a disabling
+compensable injury.
+(8)(a) The Commissioner of the Bureau of Labor  and Industries shall adopt rules governing when
+family leave for a serious health condition of an eligible employee  or a family member of the eligible
+employee may be taken intermittently or  by working a reduced workweek. Rules adopted by the
+commissioner under this paragraph shall allow taking  of family leave on an intermittent basis or by
+use of a reduced workweek  to the extent permitted by federal law and to the extent that taking
+family leave on an intermittent  basis or by use of a reduced workweek does not result in the loss
+of an eligible employee’s exempt status under the federal Fair Labor Standards Act.
+(b) The commissioner shall adopt rules governing when  family leave for the purposes described
+in ORS 659A.159 (1)(e) may be taken to the extent permitted by federal law and  to the extent that
+taking family leave on an intermittent basis does not result in the loss of an  eligible employee’s
+exempt status under the federal Fair Labor Standards Act.
+SECTION 24.  ORS 659A.885, as amended by section 9, chapter 197, Oregon Laws  2017, and
+section 13, chapter 691, Oregon Laws 2017, is amended to read:
+659A.885. (1) Any person claiming to be aggrieved by  an unlawful practice specified in sub-
+section (2) of this section may file  a civil action in circuit court. In any action under this subsection,
+the court may order injunctive relief and  any other equitable relief that may be appropriate, in-
+cluding but  not limited to reinstatement or the hiring of employees with or without back pay. A
+court may order back pay in an action under this subsection only for the two-year period imme-
+diately preceding the filing  of a complaint under ORS 659A.820 with the Commissioner of the Bureau
+of Labor and Industries, or if a complaint was not filed before the action  was commenced, the two-
+year period immediately preceding the filing of the  action. In any action under this subsection, the
+court may allow the prevailing party costs and reasonable attorney fees at trial and on appeal.  Ex-
+cept as provided in subsection (3) of this section:
+(a) The judge shall determine the facts in an action under this subsection; and
+(b) Upon  any appeal of a judgment in an action under this subsection, the appellate court shall
+review the judgment pursuant to the standard established by ORS 19.415 (3).
+(2) An action may be brought under subsection (1) of this section alleging a violation of:
+(a) ORS 10.090, 10.092, 25.337, 25.424, 171.120, 408.230, 408.237 (2), 475B.281, 476.574,  652.020,
+652.220, 652.355, 653.060, 653.263, 653.265, 653.547,  653.549, 653.601 to 653.661, 659.852, 659A.030,
+659A.040, 659A.043, 659A.046, 659A.063, 659A.069, 659A.082, 659A.088, 659A.103 to  659A.145,
+659A.150 to  659A.186, 659A.194, 659A.199, 659A.203, 659A.218, 659A.228, 659A.230, 659A.233,
+659A.236, 659A.250 to 659A.262, 659A.277, 659A.290, 659A.300, 659A.306, 659A.309,  659A.315,
+659A.318, 659A.320, 659A.355 or 659A.421 or section 9 of this 2019 Act ; or
+(b) ORS 653.470, except an action may not be brought for a claim relating to ORS 653.450.
+(3) In any action under subsection (1)  of this section alleging a violation of ORS 25.337, 25.424,
+652.220, 652.355, 653.547, 653.549,  659.852, 659A.030, 659A.040, 659A.043, 659A.046, 659A.069,
+659A.082, 659A.103 to 659A.145, 659A.199,  659A.203, 659A.228, 659A.230, 659A.250 to 659A.262,
+659A.290, 659A.318, 659A.355 or 659A.421 or section 9 of this 2019 Act :
+(a) The court may award, in addition  to the relief authorized under subsection (1) of this section,
+compensatory damages or $200, whichever is greater, and punitive damages;
+(b) At the request of any party, the action shall be tried to a jury;
+(c) Upon appeal of any judgment finding a violation, the appellate court shall review the  judg-
+ment pursuant to the standard established by ORS 19.415 (1); and
+(d) Any attorney fee agreement shall be subject to approval by the court.
+(4) Notwithstanding ORS 31.730, in an action under subsection (1) of this section alleging  a vi-
+olation of ORS 652.220, the court may award punitive damages if:
+(a) It is proved by clear and convincing evidence that an employer has  engaged in fraud, acted
+with malice or acted with willful and wanton misconduct; or
+(b) An employer was previously adjudicated in  a proceeding under this section or under ORS
+659A.850 for a violation of ORS 652.220.
+(5) In any action under subsection (1) of this  section alleging a violation of ORS 653.060, the
+court may award, in addition to the relief authorized under subsection (1) of  this section,
+compensatory damages or $200, whichever is greater.
+(6) In any action under subsection (1) of this section alleging a violation of ORS  171.120, 476.574
+or 659A.218, the court may award, in addition to  the relief authorized under subsection (1) of this
+section, compensatory damages or $250, whichever is greater.
+(7) In any action under  subsection (1) of this section alleging a violation of ORS 10.090 or 10.092,
+the court may award, in  addition to the relief authorized under subsection (1) of this section, a civil
+penalty in the amount of $720.
+(8) Any individual against whom any distinction,  discrimination or restriction on account of
+race, color, religion, sex, sexual orientation, national origin, marital status  or age, if the individual
+is 18 years of age or older, has been made by any place of public accommodation, as defined in ORS
+659A.400, by any employee or person acting on behalf of the place or by  any person aiding or
+abetting the place or person in violation of ORS 659A.406 may  bring an action against the operator
+or manager of the  place, the employee or person acting on behalf of the place or the aider or abettor
+of the place or person. Notwithstanding subsection (1) of this section, in an  action under this sub-
+section:
+(a) The court may award, in addition  to the relief authorized under subsection (1) of this section,
+compensatory and punitive damages;
+(b) The operator or manager of the place of  public accommodation, the employee or person
+acting on behalf of the place, and any aider or abettor shall  be jointly and severally liable for all
+damages awarded in the action;
+(c) At the request of any party, the action shall be tried to a jury;
+(d) The court shall award reasonable attorney fees to a prevailing plaintiff;
+(e) The court may award reasonable attorney  fees and expert witness fees incurred by a de-
+fendant who prevails only if the court determines that the  plaintiff had no objectively reasonable
+basis for asserting a claim or no  reasonable basis for appealing an adverse decision of a trial court;
+and
+(f) Upon  any appeal of a judgment under this subsection, the appellate court shall review the
+judgment pursuant to the standard established by ORS 19.415 (1).
+(9) When the commissioner or the Attorney General  has reasonable cause to believe that a
+person or group of persons is engaged in a pattern or practice of resistance to the rights  protected
+by ORS  659A.145 or 659A.421 or federal housing law, or that a group of persons has been denied
+any of the rights protected by ORS  659A.145 or 659A.421 or federal housing law, the commissioner
+or the  Attorney General may file a civil action on behalf of the aggrieved persons in the same
+manner as a person or group of persons may file a civil action  under this section. In a civil action
+filed under this subsection, the court may assess against the  respondent, in addition to the relief
+authorized under subsections (1) and (3) of this section, a civil penalty:
+(a) In an amount not exceeding $50,000 for a first violation; and
+(b) In an amount not exceeding $100,000 for any subsequent violation.
+(10) In any action under subsection (1) of this section  alleging a violation of ORS 659A.145 or
+659A.421 or alleging discrimination under federal housing law, when  the commissioner is pursuing
+the action on behalf of an aggrieved complainant, the  court shall award reasonable attorney fees to
+the commissioner if the commissioner prevails in the action.  The court may award reasonable at-
+torney fees and expert witness fees  incurred by a defendant that prevails in the action if the court
+determines that the commissioner had no objectively reasonable basis for asserting the  claim or for
+appealing an adverse decision of the trial court.
+(11) In an action under subsection (1) or (9)  of this section alleging a violation of ORS 659A.145
+or 659A.421 or discrimination under federal housing law:
+(a) “Aggrieved person” includes a person who believes that the person:
+(A) Has been injured by an unlawful practice or discriminatory housing practice; or
+(B) Will be injured by an  unlawful practice or discriminatory housing practice that is about to
+occur.
+(b) An aggrieved person in regard to issues to be determined in an action may intervene  as of
+right in the action. The Attorney General may intervene in the action if  the Attorney General cer-
+tifies that the case is of general public importance. The court may  allow an intervenor prevailing
+party costs and reasonable attorney fees at trial and on appeal.
+SECTION 25.
+ ORS 659A.885, as amended by sections 9 and 10,  chapter 197, Oregon Laws 2017,
+and section 13, chapter 691, Oregon Laws 2017, is amended to read:
+659A.885. (1) Any person claiming to be  aggrieved by an unlawful practice specified in sub-
+section (2) of this section may file  a civil action in circuit court. In any action under this subsection,
+the court may order injunctive relief and any other equitable  relief that may be appropriate, in-
+cluding but not limited to reinstatement or the hiring of employees with or without back pay.  A
+court may order back pay in an action under this subsection only for the two-year period imme-
+diately preceding the filing  of a complaint under ORS 659A.820 with the Commissioner of the Bureau
+of Labor and Industries, or  if a complaint was not filed before the action was commenced, the two-
+year period immediately preceding the filing of the action.  In any action under this subsection, the
+court  may  allow the prevailing party costs and reasonable attorney fees at trial and on appeal. Ex-
+cept as provided in subsection (3) of this section:
+(a) The judge shall determine the facts in an action under this subsection; and
+(b) Upon any appeal of a judgment in an action under this subsection, the appellate court  shall
+review the judgment pursuant to the standard established by ORS 19.415 (3).
+(2) An action may be brought under subsection (1) of this section alleging a violation of:
+(a) ORS  10.090, 10.092, 25.337, 25.424, 171.120, 408.230, 408.237 (2), 475B.281, 476.574, 652.020,
+652.220, 652.355, 653.060, 653.263, 653.265, 653.547, 653.549,  653.601 to 653.661, 659.852, 659A.030,
+659A.040, 659A.043,  659A.046, 659A.063, 659A.069, 659A.082, 659A.088, 659A.103 to 659A.145,
+659A.150 to 659A.186, 659A.194, 659A.199, 659A.203, 659A.218, 659A.228, 659A.230,  659A.233,
+659A.236, 659A.250  to 659A.262, 659A.277, 659A.290, 659A.300, 659A.306, 659A.309, 659A.315,
+659A.318, 659A.320, 659A.355, 659A.357 or 659A.421  or section 9 of this 2019 Act ; or
+(b) ORS 653.470, except an action may not be brought for a claim relating to ORS 653.450.
+(3) In any action under subsection (1) of this section alleging  a violation of ORS 25.337, 25.424,
+652.220, 652.355, 653.547, 653.549, 659.852, 659A.030, 659A.040,  659A.043, 659A.046, 659A.069,
+659A.082, 659A.103 to 659A.145, 659A.199, 659A.203, 659A.228,  659A.230, 659A.250 to 659A.262,
+659A.290, 659A.318, 659A.355, 659A.357 or 659A.421 or section 9 of this 2019 Act :
+(a) The court may award, in addition  to the relief authorized under subsection (1) of this section,
+compensatory damages or $200, whichever is greater, and punitive damages;
+(b) At the request of any party, the action shall be tried to a jury;
+(c) Upon  appeal of any judgment finding a violation, the appellate court shall review the judg-
+ment pursuant to the standard established by ORS 19.415 (1); and
+(d) Any attorney fee agreement shall be subject to approval by the court.
+(4) Notwithstanding ORS  31.730, in an action under subsection (1) of this section alleging a vi-
+olation of ORS 652.220, the court may award punitive damages if:
+(a) It is proved by  clear and convincing evidence that an employer has engaged in fraud, acted
+with malice or acted with willful and wanton misconduct; or
+(b) An employer was previously adjudicated in a proceeding  under this section or under ORS
+659A.850 for a violation of ORS 652.220.
+(5) In any action under subsection (1) of this  section alleging a violation of ORS 653.060, the
+court may award,  in addition to the relief authorized under subsection (1) of this section,
+compensatory damages or $200, whichever is greater.
+(6) In any action under subsection (1) of this section alleging a violation of ORS  171.120, 476.574
+or 659A.218, the court may award, in addition to  the relief authorized under subsection (1) of this
+section, compensatory damages or $250, whichever is greater.
+(7) In any action under  subsection (1) of this section alleging a violation of ORS 10.090 or 10.092,
+the court may award, in  addition to the relief authorized under subsection (1) of this section, a civil
+penalty in the amount of $720.
+(8) Any individual against whom any distinction,  discrimination or restriction on account of
+race, color, religion, sex, sexual orientation, national origin, marital status  or age, if the individual
+is 18 years of age or older, has been made by any place of public accommodation, as defined in ORS
+659A.400, by any employee or person acting on behalf of the place or by  any person aiding or
+abetting the place or person in violation of ORS 659A.406 may  bring an action against the operator
+or manager of the  place, the employee or person acting on behalf of the place or the aider or abettor
+of the place or person. Notwithstanding subsection (1) of this section, in an  action under this sub-
+section:
+(a) The court may award, in addition  to the relief authorized under subsection (1) of this section,
+compensatory and punitive damages;
+(b) The operator or manager of the place of  public accommodation, the employee or person
+acting on behalf of the place, and any aider or abettor shall  be jointly and severally liable for all
+damages awarded in the action;
+(c) At the request of any party, the action shall be tried to a jury;
+(d) The court shall award reasonable attorney fees to a prevailing plaintiff;
+(e) The court may award reasonable attorney  fees and expert witness fees incurred by a de-
+fendant who prevails only if the court determines that the  plaintiff had no objectively reasonable
+basis for asserting a claim or no  reasonable basis for appealing an adverse decision of a trial court;
+and
+(f) Upon  any appeal of a judgment under this subsection, the appellate court shall review the
+judgment pursuant to the standard established by ORS 19.415 (1).
+(9) When the commissioner or the Attorney General  has reasonable cause to believe that a
+person or group of persons is engaged in a pattern or practice of resistance to the rights  protected
+by ORS  659A.145 or 659A.421 or federal housing law, or that a group of persons has been denied
+any of the rights protected by ORS  659A.145 or 659A.421 or federal housing law, the commissioner
+or the  Attorney General may file a civil action on behalf of the aggrieved persons in the same
+manner as a person or group of persons may file a civil action  under this section. In a civil action
+filed under this subsection, the court may assess against the  respondent, in addition to the relief
+authorized under subsections (1) and (3) of this section, a civil penalty:
+(a) In an amount not exceeding $50,000 for a first violation; and
+(b) In an amount not exceeding $100,000 for any subsequent violation.
+(10) In any action under subsection (1) of this section  alleging a violation of ORS 659A.145 or
+659A.421 or alleging discrimination under federal housing law, when  the commissioner is pursuing
+the action on behalf of an aggrieved complainant, the  court shall award reasonable attorney fees to
+the commissioner if the commissioner prevails in the action.  The court may award reasonable at-
+torney fees and expert witness fees  incurred by a defendant that prevails in the action if the court
+determines that the commissioner had no objectively reasonable basis for asserting the  claim or for
+appealing an adverse decision of the trial court.
+(11) In an action under subsection (1) or (9)  of this section alleging a violation of ORS 659A.145
+or 659A.421 or discrimination under federal housing law:
+(a) “Aggrieved person” includes a person who believes that the person:
+(A) Has been injured by an unlawful practice or discriminatory housing practice; or
+(B) Will be injured by an unlawful practice or discriminatory housing  practice that is about to
+occur.
+(b) An aggrieved  person in regard to issues to be determined in an action may intervene as of
+right in the action. The  Attorney General may intervene in the action if the Attorney General cer-
+tifies that the case is  of general public importance. The court may allow an intervenor prevailing
+party costs and reasonable attorney fees at trial and on appeal.
+SECTION 26.
+Operative dates.  (1)(a) Sections 1 and 3 to  14 of this 2019 Act and the
+amendments to ORS 657.100, 659A.156, 659A.162 and 659A.885 by sections 21  to 25 of this 2019
+Act become operative on January 1, 2021.
+(b) Sections 2 and 15 of this 2019 Act become operative on January 1, 2023.
+(2) The Department of Consumer  and Business Services, the Bureau of Labor and In-
+dustries, the  Employment Department and the Department of Revenue may take any action
+before the operative dates specified in subsection (1) of this  section that is necessary to en-
+able the  bureau and departments to exercise, on or after the operative dates specified in
+subsection (1) of this section, the duties, functions and  powers conferred on the bureau and
+departments by sections 1 to  15 of this 2019 Act and the amendments to ORS 657.100,
+659A.156, 659A.162 and 659A.885 by sections 21 to 25 of this 2019 Act.
+SECTION 27.
+Captions. The section captions used in this 2019  Act are provided only for
+the convenience of the reader and  do not become part of the statutory law of this state or
+express any legislative intent in the enactment of this 2019 Act.
+SECTION 28. Effective date.  This 2019 Act takes effect on the 91st day after the date on
+which the 2019 regular session of the Eightieth Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 657.100, ORS 659A.156, ORS 659A.162, ORS 659A.885
+- From bill text (Introduced version): ORS 10.090, ORS 10.092, ORS 171.120, ORS 174.111, ORS 181A.680, ORS 183.605, ORS 183.635, ORS 19.415, ORS 192.245, ORS 192.311, ORS 192.556, ORS 205.125, ORS 25.080, ORS 25.337, ORS 25.424, ORS 31.730, ORS 348.282, ORS 408.230, ORS 408.237, ORS 410.600, ORS 475B.281, ORS 476.574, ORS 652.020, ORS 652.220, ORS 652.355, ORS 653.025, ORS 653.060, ORS 653.263, ORS 653.265, ORS 653.450, ORS 653.470, ORS 653.547, ORS 653.549, ORS 653.601, ORS 656.005, ORS 657.100, ORS 657.105, ORS 657.150, ORS 657.155, ORS 658.005, ORS 659.852, ORS 659A.030, ORS 659A.040, ORS 659A.043, ORS 659A.046, ORS 659A.069, ORS 659A.082, ORS 659A.093, ORS 659A.103, ORS 659A.145, ORS 659A.150, ORS 659A.156, ORS 659A.159, ORS 659A.162, ORS 659A.400, ORS 659A.406, ORS 659A.820, ORS 659A.850, ORS 659A.885, ORS 670.600
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `b0405c03efb599b04fe31601a0ad462b52b49dee09556ca3d80154b9622d8a8d` (snapshot `_meta/snapshots/measure-2019r1-hb3031-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3031/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3031` (part of the batched per-session fetch), sha256 `ae6df4298c0af5cc5dddaadd86050dfbe3c0b9a75f4a0da8096eff6dafa219d2` of the shared session snapshot `_meta/snapshots/measures-2019r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

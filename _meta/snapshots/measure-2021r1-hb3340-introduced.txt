@@ -1,0 +1,158 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 3340
+Sponsored by Representative HOLVEY (at the request of FHL Bank Des Moines)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Provides that court may not stay or prohibit federal home loan bank from exercising rights  to
+collateral pledged by insurer-member that is subject to  delinquency proceeding. Requires receiver
+to comply with provisions of Act with respect to claims against insurer-member.
+Requires federal home loan bank that exercises right to collateral to repurchase any outstanding
+capital stock that exceeds amount of federal home loan bank stock that  insurer-member must hold
+as minimum investment, subject to certain determinations.
+Prohibits receiver from voiding transfer of,  or obligation to transfer, moneys or property under
+terms of federal home loan bank security agreement.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to federal home  loan bank rights with respect to insurer-members under Oregon delin-
+quency proceedings; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this  2021 Act is added to and made a part of ORS 734.110 to
+734.440.
+SECTION 2. (1) As used in this section:
+(a) “Federal home  loan bank” has the definition given that term in 12 U.S.C. 1422, as in
+effect on the effective date of this 2021 Act.
+(b) “Insurer-member” means an insurer that is a member of a federal home loan bank.
+(2) Notwithstanding requirements  for a form of claim against an insurer that are set
+forth in ORS 734.280 and notwithstanding the priority of preferred claims against an  insurer
+that are specified in ORS 734.290, of special deposit claims  against an insurer that are spec-
+ified in ORS 734.300 or of secured claims against an insurer that are  specified in ORS 734.310:
+(a) A court may  not stay or prohibit a federal home loan bank from exercising the federal
+home loan bank’s rights with respect to collateral that an insurer-member has pledged; and
+(b) A receiver shall comply with the provisions of this section with respect to:
+(A) The federal home loan bank’s rights in connection with an insurer-member; and
+(B) Claims against an insurer-member.
+(3) A federal home  loan bank that exercises a right with respect to collateral pledged by
+an insurer-member that is subject to a  delinquency proceeding shall repurchase any out-
+standing capital stock that exceeds the amount of the federal home  loan bank’s stock that
+the insurer-member  must hold as a minimum investment if the federal home loan bank de-
+termines in good faith that the repurchase is:
+(a) Permissible under applicable laws, regulations,  regulatory obligations and the federal
+home loan bank’s capital plan; and
+(b) Consistent with  the current capital stock practices the federal home loan bank applies
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3529
+HB 3340
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+to the entire membership of the federal home loan bank.
+(4) After the appointment of a receiver  for an insurer-member, a federal home loan bank,
+within 10 business days  after a request from the receiver, shall establish a process and
+timeline for:
+(a) Releasing collateral that, under the terms of applicable  agreements between the fed-
+eral home loan bank and the  insurer-member, exceeds the amount required to support obli-
+gations that remain after repaying loans;
+(b) Releasing any of  the insurer-member’s collateral that remains in the federal home
+loan bank’s possession after payment in full of all of the insurer-member’s outstanding obli-
+gations;
+(c) Paying fees the insurer-member owes  and operating the insurer-member’s deposits
+and accounts with the federal home loan bank; and
+(d) Redeeming or repurchasing federal home loan bank stock or excess  stock of any class
+that an insurer-member must own.
+(5) A federal home loan bank, at a receiver’s request, shall provide any available oppor-
+tunities that may exist  for an insurer-member that is subject to a delinquency proceeding
+to renew or restructure a loan to defer prepayment fees, with due regard for:
+(a) Market conditions;
+(b) The terms of any loans to the insurer-member that are outstanding;
+(c) Applicable policies of the federal home loan bank; and
+(d) The federal home loan bank’s compliance with federal laws and regulations.
+(6)(a) Notwithstanding ORS 734.350 and except as provided in paragraph  (b) of this sub-
+section, a receiver for an  insurer-member, including the Director of the Department of
+Consumer and Business Services, may not void any transfer of, or obligation  to transfer,
+moneys or property that occurs or arises under or in connection with:
+(A) A federal home loan bank security agreement;
+(B) A pledge, security, collateral or guarantee agreement; or
+(C) Any other similar  arrangement or credit enhancement that relates to a federal home
+loan bank security agreement made  in the ordinary course of business and in compliance
+with the applicable federal home loan bank agreement.
+(b) A receiver may  void a transfer if the transfer was made with an intent to hinder,
+delay or defraud the insurer-member, the receiver or existing or future creditors.
+(c) This subsection does not affect a receiver’s rights  under 12 C.F.R. part 1266.4, as in
+effect on the effective  date of this 2021 Act, with respect to advances to an insurer-member
+that is subject to a delinquency proceeding.
+SECTION 3.
+Section 2 of this 2021  Act applies to delinquency proceedings that begin on
+or after the effective date of this 2021 Act.
+SECTION 4. This 2021 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2021 Act takes effect
+on its passage.
+[2]

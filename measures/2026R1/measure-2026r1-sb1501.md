@@ -1,0 +1,326 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-sb1501
+title: 'SB 1501 (2026R1): Authorizes the Oregon Department of Administrative Services to enter into agreements
+  to own and oversee the operations of the Moda Center in the City of Portland.'
+doc_type: dataset_doc
+citation: 2026 Regular Session Senate Bill 1501
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1501/Enrolled
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: cc0760c002356098977f1248bc89d2ce605395e76f1d100c85aea6176ea77af2
+snapshot_id: measure-2026r1-sb1501-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.109
+  - ORS 314.835
+  - ORS 316.162
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- sb
+session_key: 2026R1
+measure_prefix: SB
+measure_number: 1501
+prefix_meaning: Senate Bill
+catch_line: Authorizes the Oregon Department of Administrative Services to enter into agreements to own
+  and oversee the operations of the Moda Center in the City of Portland.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act allows DAS to enter into agreements to own and operate the Moda Center.\
+  \ The Act sends certain tax revenue to a fund to pay for costs of the Moda Center. (Flesch Readability\
+  \ Score: 68.9). \n\tAuthorizes the Oregon Department of Administrative Services to enter into agreements\
+  \ to own and oversee the operations of the Moda Center in the City of Portland. Provides that agreements\
+  \ may not pledge or obligate state moneys except for moneys in the Oregon Arena Fund. \n\tCreates the\
+  \ Oregon Arena Fund in the State Treasury. Dedicates certain tax revenues related to work in and around\
+  \ the Moda Center to the fund. \n\tSets forth prerequisite conditions for tax diversion and debt issuance.\
+  \ \n\tSets forth mandatory provisions of agreements relating to the Moda Center. \n\tDeclares an emergency,\
+  \ effective on passage."
+relating_to: Relating to the Moda Center; and declaring an emergency.
+relating_to_full: Relating to the Moda Center; and declaring an emergency.
+at_the_request_of: null
+lc_number: 146
+measure_created_date: '2026-02-09T08:49:35'
+measure_modified_date: '2026-04-06T11:53:20'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 14113
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.109
+  - ORS 314.835
+  - ORS 316.162
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1501`.
+
+# SB 1501 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1501, 2026 Regular Session (2026R1)
+- **LC number:** 146
+- **Created:** 2026-02-09T08:49:35
+- **Metadata last modified (upstream):** 2026-04-06T11:53:20
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 14113 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1501/Enrolled>.
+
+## Summary
+
+**Catchline:** Authorizes the Oregon Department of Administrative Services to enter into agreements to own and oversee the operations of the Moda Center in the City of Portland.
+
+**Relating to:** Relating to the Moda Center; and declaring an emergency.
+
+Digest: The Act allows DAS to enter into agreements to own and operate the Moda Center. The Act sends certain tax revenue to a fund to pay for costs of the Moda Center. (Flesch Readability Score: 68.9). 
+ Authorizes the Oregon Department of Administrative Services to enter into agreements to own and oversee the operations of the Moda Center in the City of Portland. Provides that agreements may not pledge or obligate state moneys except for moneys in the Oregon Arena Fund. 
+ Creates the Oregon Arena Fund in the State Treasury. Dedicates certain tax revenues related to work in and around the Moda Center to the fund. 
+ Sets forth prerequisite conditions for tax diversion and debt issuance. 
+ Sets forth mandatory provisions of agreements relating to the Moda Center. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to the Moda Center; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+Senate Bill 1501
+Sponsored by Senators WAGNER, FREDERICK,  LIEBER, Representatives BOWMAN, ISADORE,
+NGUYEN D; Senators  MANNING JR, MEEK, Representatives NELSON, PHAM H, RIEKE
+SMITH, WATANABE
+CHAPTER .................................................
+AN ACT
+Relating to the Moda Center; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 1 to 8 of this 2026 Act:
+(1) “Construction organization” means an employer that derives  revenue in a given
+quarter from activities or operations directly related to the renovation or other improvement
+of the Moda Center.
+(2) “Joint authority” means the joint authority formed under section 2 of this 2026 Act.
+(3) “Management entity” means an entity  that has a long-term operating agreement or
+lease to manage the Moda Center.
+(4) “Moda Center” means  the multipurpose sports and entertainment arena known, as
+of the effective date of this 2026 Act, as the Moda Center, located  at 1 North Center Court
+Street, Portland, Oregon, and  the surrounding areas containing ancillary hospitality and
+support functions.
+(5) “Operating  organization” means an employer that derives revenue from activities or
+operations that  are physically located in the Rose Quarter, excluding construction organiza-
+tions and performers.
+(6) “Performer” means a person or entity who performs, or whose employees or  con-
+tractors perform, for any audience at the Rose Quarter,  including, without limitation, a
+musical, comedic, theatrical, sports or other  artistic, athletic or entertainment performance,
+excluding a professional sports team that conducts its regular season home  schedule at a
+facility located in the Rose Quarter.
+(7) “Public body” has the meaning given that term in ORS 174.109.
+(8)(a) “Rose Quarter” means the sports and entertainment district containing the Moda
+Center, Memorial Coliseum, public plazas and associated facilities  and infrastructure, as de-
+picted on the  map titled “Project Site Map” at Exhibit 2.5 in the Amended and Restated De-
+velopment Agreement between Rip City Management  LLC and the City of Portland, dated
+September 19, 2024.
+(b) “Rose Quarter”  does not include transit facilities owned or operated by a public body.
+SECTION 2.
+(1) The Oregon Department of  Administrative Services, in consultation with
+the Governor and the Attorney General, is  authorized to negotiate and enter into agree-
+ments with one or more public bodies to establish a joint authority, the  purpose of which is
+to own and oversee the operations of the Moda Center.
+Enrolled Senate Bill 1501 (SB 1501-B) Page 1
+(2)(a) An agreement under this section:
+(A) May not purport to pledge or obligate any  state moneys, revenues or other property,
+except for moneys credited to the Oregon Arena Fund established under section 3 of this 2026
+Act;
+(B) May not purport to pledge the taxing power or the full faith and credit of the  State
+of Oregon; and
+(C) May not purport to create an indebtedness of the State of Oregon in violation of Ar-
+ticle XI, section 7, of the Oregon Constitution.
+(b) An agreement under this section is void  to the extent that it violates any provision
+of this subsection.
+SECTION 3.
+(1) The Oregon Arena Fund  is established in the State Treasury, separate
+and distinct from  the General Fund. Interest earned by the Oregon Arena Fund must be
+credited to  the fund. The Oregon Arena Fund consists of moneys appropriated, allocated,
+deposited or transferred to the fund by the Legislative Assembly or from any public or pri-
+vate source and interest earned on moneys in the fund. The  moneys in the Oregon Arena
+Fund are continuously appropriated to the  Oregon Department of Administrative Services
+for the purpose of paying expenses of the joint authority, including,  without limitation, ex-
+penses related to  construction, renovation, capital improvements, repair, maintenance, de-
+ferred maintenance, arena operations and debt service, and subject to  subsection (3) of this
+section.
+(2) The department and the  State Treasurer are authorized to create subaccounts within
+the fund as necessary or convenient for the administration of the fund.
+(3) The department and the State Treasurer shall ensure that the following moneys are
+separately accounted for and used as follows:
+(a) Proceeds of  debt instruments issued by the State of Oregon and deposited in the fund
+and moneys transferred to  the fund under section 4 of this 2026 Act may be used only for
+construction, renovation, maintenance and deferred maintenance of  the Moda Center and
+debt service; and
+(b) Moneys deposited  in the fund by Multnomah County may be used only for con-
+struction, renovation, maintenance and  deferred maintenance of the Moda Center and debt
+service.
+(4) The State of  Oregon and the Legislative Assembly do not have a legal obligation to
+deposit moneys in the  fund, appropriate moneys to the fund or otherwise make moneys
+available to the fund.  The  Legislative Assembly declares  its current intention to issue debt
+instruments sufficient to yield $365,000,000 in net  proceeds to support construction and ren-
+ovation of the Moda Center.
+SECTION 4.
+(1) During the period specified in subsection (3) of this section:
+(a) On September 1, 2027,  and every three months thereafter, the Department of Revenue
+shall determine the aggregate amount withheld  in the previous three months pursuant to
+ORS 316.162 to 316.221 by operating organizations from wages paid for services:
+(A) Physically performed in the Rose Quarter; or
+(B) Related to activities or operations that are physically located in the Rose Quarter.
+(b) On September 1, 2027,  and every three months thereafter, the Department of Revenue
+shall determine the aggregate amount withheld in the  previous three months pursuant to
+ORS 316.162 to 316.221 by construction organizations from wages paid for services  directly
+related to the renovation or other improvement of the Moda Center.
+(c) On July 1, 2028, and on  July 1 of each year thereafter, the division of the Oregon
+Department of Administrative Services that serves as the office of economic analysis  shall
+estimate the amount of tax paid by performers under ORS chapter 316 on income derived
+from performances at the Rose Quarter in the previous 12 months.
+(2) As soon as practicable after an  amount described in subsection (1)(a), (b) or (c) of this
+section is determined or estimated, the Oregon Department of Administrative  Services shall
+Enrolled Senate Bill 1501 (SB 1501-B) Page 2
+cause an amount equal to the amount determined or estimated to be transferred  from the
+General Fund to the Oregon Arena Fund established under section 3 of this 2026  Act, subject
+to section 5 of this 2026 Act.
+(3) The  determinations and estimates under subsection (1) of this section shall be made
+during the period beginning on the dates specified in subsection (1)  of this section, and end-
+ing on the later of:
+(a) January 1 following  the date on which the lease term described in section 6 of this
+2026 Act expires; or
+(b) January 1 following the date on which all indebtedness  incurred by the State of
+Oregon, the net proceeds of which are deposited in the Oregon Arena Fund, is retired.
+(4) Notwithstanding ORS 314.835, the Department of Revenue may share information ob-
+tained from employers and performers under this section and ORS chapter  316, and associ-
+ated tax data,  with the Oregon Department of Administrative Services as necessary to carry
+out the  provisions of this section. Any information shared pursuant to this subsection must
+be aggregated to the  extent practicable and remains subject to applicable state and federal
+confidentiality laws.
+(5) The Oregon Department of Administrative Services and  the Department of Revenue
+may adopt rules necessary or convenient for the administration  of this section. The Oregon
+Department of Administrative Services and the Department of Revenue may require report-
+ing from taxpayers as necessary to carry out the provisions of this section.
+SECTION 5.
+Notwithstanding any  other laws authorizing the issuance of debt instru-
+ments, the State Treasurer may not issue any  debt instruments for purposes related to the
+Moda Center, and no moneys may be transferred pursuant to section 4 (2) of this 2026  Act,
+unless all of the following conditions are met:
+(1) A change in  ownership of the Portland Trail Blazers basketball team is finalized and
+approved by the National Basketball Association,  and the team remains a member in good
+standing of the National Basketball Association;
+(2) The State of Oregon and the City of Portland have entered into an agreement, which
+may include other entities, to establish a joint authority for  the ownership and operation of
+the Moda Center, and:
+(a) The State  of Oregon takes an ownership interest in the Moda Center that the Oregon
+Department of Administrative Services determines is greater than a nominal interest; or
+(b) The department determines  that an ownership interest in the Moda Center is not
+necessary for the issuance of debt instruments by the state;
+(3) The joint authority has executed one or more agreements  with a management entity
+that satisfy the requirements of section 6 of this 2026 Act;
+(4) The joint authority has reviewed plans  for renovation of the Moda Center and has
+approved the project scope, schedule and budget; and
+(5) The department has determined  that the City of Portland and Multnomah County
+have made binding and substantial commitments to finance construction,  renovation, main-
+tenance and deferred maintenance of the Moda Center and related debt service.
+SECTION 6. (1) The joint authority and a management entity must execute one or  more
+agreements that collectively contain all of the following provisions:
+(a) A binding commitment from the  management entity to lease the Moda Center for a
+minimum term of 20 years;
+(b) A provision authorizing the joint authority to give final approval of  scope, schedule
+and budget for construction or renovation projects relating to the Moda Center, provided
+that such approval does not cause unreasonable delay to the project;
+(c) A provision addressing responsibility for cost overruns in any project carried out  by
+the joint authority, which must provide that the  joint authority is not required to pay for
+any cost overruns,  except to the extent that such cost overruns are the result of modifica-
+tions to the project scope or design that the joint authority requests after final approval;
+Enrolled Senate Bill 1501 (SB 1501-B) Page 3
+(d) A  provision authorizing the following remedies, at a minimum, in case of breach of
+a nonrelocation agreement or exclusive site agreement, as  applicable, by the management
+entity:
+(A) Injunctive relief; and
+(B) Liquidated damages in the amount of any outstanding debt  issued by any public body
+that is part of the joint authority for projects at the Moda Center;
+(e) A provision authorizing a management entity to seek injunctive  relief or specific
+performance to prevent  acts or omissions of the joint authority or any public body belonging
+to the joint authority that materially impair the management entity’s ability to use or  oc-
+cupy the Moda Center in accordance with relevant agreements; and
+(f) A provision  requiring all parties to engage in good-faith discussions regarding
+amendments to  terms of the agreements, without obligating any party to agree to any
+amendments, on or before the date five years before the expiration of the  term of the lease.
+(2)(a) In negotiating the agreements, the State of Oregon shall, in a timely manner and
+at its own  expense, retain a professional with expertise in arena negotiations to review in-
+formation regarding recent comparable National  Basketball Association arena projects in
+similar-sized markets.
+(b) Nothing in this subsection requires the inclusion or  exclusion of any particular term
+in an agreement between the joint authority and a management entity.
+SECTION 7.
+If the Oregon Department of Administrative Services enters into  an agree-
+ment to establish a joint authority under section  2 of this 2026 Act, the department shall,
+at least once per quarter,  report to the standing or interim legislative committee related to
+ways and means on the following:
+(1) Planning, design and execution of renovations to the Moda Center;
+(2) Expenditures by the joint authority; and
+(3) Amounts and sources of revenue obtained by the joint authority.
+SECTION 8.
+Section 7 of this 2026 Act is repealed on January 2, 2032.
+SECTION 9. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to  the Oregon Department of Administrative Services, for the biennium ending June 30,
+2027, out of the General  Fund, the amount of $1,511,985, for Enterprise Asset Management,
+for implementation of sections 1 to 8 of this 2026 Act.
+SECTION 10. This 2026 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2026 Act takes effect
+on its passage.
+Enrolled Senate Bill 1501 (SB 1501-B) Page 4
+Passed by Senate March 4, 2026
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House March 6, 2026
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 1501 (SB 1501-B) Page 5
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 174.109, ORS 314.835, ORS 316.162
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-28, sha256 `cc0760c002356098977f1248bc89d2ce605395e76f1d100c85aea6176ea77af2` (snapshot `_meta/snapshots/measure-2026r1-sb1501-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1501/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `3733d6538764b792a34b3a8289a405a223d4b74318bd081ba8d0482aae222737` (snapshot `_meta/snapshots/measure-2026r1-sb1501-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1501/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1501` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

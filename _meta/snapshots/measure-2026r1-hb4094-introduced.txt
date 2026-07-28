@@ -1,0 +1,194 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4094
+Sponsored by Representative NELSON, Senators MANNING JR, GORSEK, Representatives  CHAICHI, CHOTZEN,
+RIEKE SMITH, WISE, Senator CAMPOS; Representatives  ANDERSEN, GAMBA, ISADORE, MUNOZ, SOSA,
+TRAN, WALTERS, Senators FREDERICK, NERON MISSLIN, PATTERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act makes laws about  payouts for certain unused paid time off. (Flesch Readability
+Score:  81.8).
+Requires employers who  provide paid vacation time to compensate employees for all earned or
+accrued but unused paid vacation time when employment terminates.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to compensation for  certain unused paid time off upon termination of employment; creating
+new provisions; amending ORS 652.140; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Paid vacation  time” means an employer-provided benefit allowing employees to take
+time off from work without loss of pay for vacation leave.
+(b) “Paid vacation time” does not mean an employer-provided benefit  allowing employees
+to take time off from work without loss of pay for:
+(A) Sick time governed by ORS 653.601  to 653.661, or any other leave that is designated
+for, may be used for or is taken for illness or other health-related purposes, including  any
+portion of an employer-provided benefit  designated to meet the minimum requirements of
+ORS 653.601 to 653.661.
+(B) Personal business leave.
+(C) Holidays and floating holidays.
+(2) If an employer provides employees  with paid vacation time pursuant to an employer
+policy or  otherwise, the employer shall, upon the termination of the employment relation-
+ship, compensate the employee, at one hundred percent of the employee’s  regular rate of pay
+for all earned or accrued but unused paid vacation time,  in accordance with the manner and
+timeframe set forth under ORS 652.140 for the payment of final wages.
+(3) Nothing in this  section prohibits an employer from adopting a written policy or en-
+tering into an employment contract that:
+(a) Establishes the method or rate of earning or accrual of paid vacation time;
+(b) Establishes requirements for requesting and scheduling paid vacation time; or
+(c) Requires employees to use earned or accrued paid vacation time by a  specific date or
+that provides for the forfeiture of unused paid vacation time not  used by that date, provided
+that:
+(A) The employer provides employees with written notice of such requirement at the time
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 240
+HB 4094
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of hire and not less than 90 days  before the date on which any unused paid vacation time
+would be forfeited under the policy;
+(B) Employees are given a reasonable opportunity to  schedule use of the paid vacation
+time before any forfeiture occurs; and
+(C) Nothing in  the policy permits the forfeiture of paid vacation time that is earned or
+accrued and has not been forfeited prior to the termination of employment.
+SECTION 2.
+ ORS 652.140 is amended to read:
+652.140. (1) When an employer discharges an employee or when employment is  terminated by
+mutual agreement, all wages earned and unpaid at the time of the discharge  or termination become
+due and payable not later than the end of the first business day after the discharge or termination.
+(2)(a) When  an employee who does not have a contract for a definite period quits employment,
+all wages earned and unpaid at the time of quitting become due  and payable immediately if the
+employee has given to the employer not  less than 48 hours’ notice, excluding Saturdays, Sundays
+and holidays, of intention to quit employment.
+(b) Except as provided in  paragraph (c) of this subsection, if the employee has not given to the
+employer the notice  described in paragraph (a) of this subsection, the wages become due and payable
+within five days, excluding Saturdays, Sundays and holidays,  after the employee has quit, or at the
+next regularly scheduled payday after the employee has quit, whichever event first occurs.
+(c) If the employee has not given to the employer the notice described in paragraph  (a) of this
+subsection  and  if the employee is regularly required to submit time records to the employer to en-
+able the employer to determine the wages due the employee, within five days  after the employee has
+quit the employer shall  pay the employee the wages the employer estimates are due and payable.
+Within five days after the employee has submitted the time records, all wages  earned and unpaid
+become due and payable.
+(3) For the purpose of  this section, if employment termination occurs on a Saturday, Sunday or
+holiday, all wages earned and unpaid shall be paid no later  than the end of the first business day
+after the employment termination, except that if the employment is related to activities  authorized
+under ORS chapter 565, all wages earned and unpaid shall be paid no later  than the end of the
+second business day after the employment termination.
+(4) The employer shall forward such wages by mail to any address designated  by the employee
+if the employee requests the employer so to do. An employer may  deposit such wages without dis-
+count  in  the employee’s account in a financial institution, as defined in ORS 706.008, in this state,
+provided the employee and the employer have agreed to such deposit.
+(5) This section does not apply to employment for which a collective bargaining agreement oth-
+erwise provides for the payment of wages upon termination of employment.
+(6) When a  termination of employment results from the sale of a business or business property
+and the purchaser employs or continues the  employment of an individual employed at the business,
+this section does not apply to the payment to such an individual  of wages for earned but unused
+accrued holiday leave, sick leave, vacation  leave or other leave benefits payable upon termination
+of employment pursuant to a collective bargaining or other employment agreement or employer
+policy, if the following conditions are met:
+(a) On the first day of such an individual’s continued employment the  purchaser of the business
+credits the individual with all such earned but unused accrued leave; and
+(b) The leave, when used,  is paid at a rate not less than the rate at which the leave was earned
+or, if paid at a lesser rate, the number of hours credited is increased  to compensate the individual
+[2]
+HB 4094
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+for any difference.
+(7) Except as provided in subsection (6) of this section, all  wages earned and unpaid, as
+described in this section, include compensation  for earned or accrued but unused paid vaca-
+tion time, as defined in section 1 of this 2026 Act.
+SECTION 3.
+Section 1 of this 2026 Act applies to:
+(1) Paid vacation time, as defined in section 1 of this 2026 Act, earned or accrued on or
+after the effective date of this 2026 Act.
+(2) Contracts entered into, renewed or extended on or after the effective  date of this 2026
+Act.
+SECTION 4. This 2026 Act takes effect on the 91st day after the date on which the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

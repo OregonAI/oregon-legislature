@@ -1,0 +1,422 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+81st OREGON LEGISLATIVE ASSEMBLY--2022 Regular Session
+House Bill 4139
+Sponsored by Representative RAYFIELD (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires Department of Transportation  to establish pilot program to reduce greenhouse gas
+emissions by means of replacing or  substituting certain materials used in constructing or maintain-
+ing state transportation system with other materials that enable greenhouse gas emission reductions,
+or by means of other appropriate measures. Specifies required scope and content of pilot program.
+Requires bids and proposals for designated demonstration projects within  pilot program to in-
+clude environmental product declarations. Specifies exceptions.
+Requires department to establish technical advisory committee and  specifies matters on which
+committee will advise department.
+Requires department to report annually to Oregon Transportation  Commission and interim
+committee  of  Legislative Assembly related to transportation concerning implementation of pilot
+program.
+Sunsets December 31, 2030.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to reductions of greenhouse gas emissions in the state’s transportation  system; and pre-
+scribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section and sections 2 and 3 of this 2022 Act:
+(a) “Bidder” has the meaning given that term in ORS 279A.010.
+(b) “Covered materials” means:
+(A) Concrete, including ready  mix concrete, shotcrete, precast concrete and concrete
+masonry units;
+(B) Asphalt paving mixtures;
+(C) Steel, including rebar and reinforcing steel and structural  steel, including hot-rolled
+sections, hollow sections, plate steel and cold-formed steel; and
+(D) Other materials the Department  of Transportation designates by rule after consul-
+tation with the technical advisory committee.
+(c) “Emergency” has the meaning given that term in ORS 279A.010.
+(d) “Environmental product declaration” means a product-specific  measurement of the
+life cycle environmental impact of a product from the point  of raw material extraction to the
+point of manufacture, calculated in accordance with rules the  Department of Environmental
+Quality adopts with reference to ISO 14040 and ISO 14044 environmental management stan-
+dards.
+(e) “Procurement” has the meaning given that term in ORS 279A.010.
+(f) “Proposer” has the meaning given that term in ORS 279A.010.
+(g) “Public contract” has the meaning given that term in ORS 279A.010.
+(h) “Public Contracting Code” has the meaning given that term in ORS 279A.010.
+(i) “Technical advisory committee” means  the committee described in section 2 of this
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 141
+HB 4139
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+2022 Act.
+(2)(a) The Department of Transportation,  not later than December 2025, shall establish
+a pilot program for greenhouse gas reduction that:
+(A) Establishes and quantifies a baseline  of greenhouse gas emissions attributable to
+covered materials the Department of Transportation uses  in construction and maintenance
+projects for the state’s transportation system, using a  methodology and standards the De-
+partment of Environmental Quality specifies by rule;
+(B) Conducts a life cycle assessment of covered  materials the Department of Transpor-
+tation currently uses in  construction and maintenance projects for the state’s transportation
+system and a separate life cycle assessment of potential replacements  or substitutes for
+covered materials that the Department of Transportation could consider using  in con-
+struction and maintenance projects for the purpose of reducing greenhouse gas emissions;
+(C) Devises measures for reducing greenhouse gas emissions at  least in part by using
+replacement or substitute covered materials with lower levels of greenhouse gas  emissions
+in place of covered materials with higher levels of greenhouse gas emissions, but also, where
+feasible, by developing alternative construction techniques, sourcing materials closer to work
+sites and adopting other innovative practices that can aid  in reducing greenhouse gas emis-
+sions;
+(D) Designates  a set of construction and maintenance projects the Department of
+Transportation may use as demonstrations of the effectiveness of using  replacement or
+substitute covered materials and other measures described in subparagraph (C) of this  par-
+agraph to reduce greenhouse gas emissions;
+(E) Quantifies the amount of greenhouse gas reductions attributable  to using replace-
+ment or substitute covered materials and other  measures in the projects the Department
+of Transportation designates under subparagraph (D) of this paragraph, using  the same
+methods and standards the Department of Transportation used  to establish a baseline for
+greenhouse gas emissions under subparagraph (A) of this paragraph; and
+(F) Estimates the time required to implement  the measures described in subparagraph
+(C) of this paragraph and the expected amount of greenhouse gas reductions that  will result
+from the measures, along with the time within which detectable reductions might occur.
+(b) In establishing the baseline described in  paragraph (a)(A) of this subsection and the
+greenhouse gas reductions described in paragraph (a)(E) of  this subsection, the Department
+of Transportation shall identify and disclose in any reports  the department produces all rel-
+evant measurement difficulties, deficiencies  in needed data, technological limitations, costs
+associated with measurement and any other  relevant limitations of methodology or practice.
+(c) In devising the measures described in paragraph (a)(C) of this subsection, the De-
+partment of Transportation, at a minimum, shall consider and evaluate:
+(A) Advancements in materials and  engineering as applied to greenhouse gas emission
+reduction;
+(B) Regional variability in the quality and durability  of aggregates and other components
+of covered materials;
+(C) The types and effects of fuels used  in manufacturing, transporting and using covered
+materials; and
+(D) Any other factors that the department, in consultation with  the technical advisory
+committee, deems relevant and useful.
+[2]
+HB 4139
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) The Department of Transportation shall establish the baselines, conduct the evalu-
+ations and quantifications and  devise the measures described in paragraph (a) of this sub-
+section separately for each of the state’s five transportation  regions, accounting for
+differences among the regions with respect to the availability  of covered materials, fuel and
+other necessary resources.
+(3)(a) In procuring covered materials for  the demonstration projects the Department of
+Transportation designates under subsection (2)(a)(D) of this section, the department  shall
+require bidders and  proposers to submit environmental product declarations with all re-
+sponses to invitations to bid or requests for proposals unless the department:
+(A) Procures the covered materials on an emergency basis;
+(B) Determines in writing that an environmental product declaration is not available  for
+the covered material;
+(C) Determines in writing that requiring an environmental product declaration will  re-
+duce competition for public contracts or otherwise contravene the requirements of the Pub-
+lic Contracting Code;
+(D) Determines in writing that requiring an environmental product declaration  would
+unreasonably affect the department’s specifications or requirements for covered materials;
+(E) Determines in writing that an environmental product declaration is  not necessary to
+measure or quantify greenhouse gas emissions as described in this section; or
+(F) Determines after consultation with the technical advisory  committee that other
+considerations outweigh the need for requiring environmental product declarations.
+(b) Notwithstanding paragraph (a) of this subsection,  in procuring asphalt paving mix-
+tures, the department  may allow contractors to submit environmental product declarations
+within a reasonable time after executing a public contract  for constructing roads or acquir-
+ing materials or within the time required for an environmental product declaration provider
+to prepare the environmental product declaration, but not later than the  date on which the
+contractor completes performance of the public contract.
+(c) The department shall evaluate a bidder’s or  proposer’s submission of an environ-
+mental product declaration as a matter  of the bidder’s or the proposer’s responsiveness un-
+der the department’s rules, but  may not use the environmental product declaration as a
+consideration in ranking or scoring a  bid or proposal unless the department determines in
+writing, after consulting with  the technical advisory committee, that using environmental
+product declarations for ranking or scoring  bids or proposals will not unreasonably reduce
+competition among bidders or proposers.
+(4)(a) In order to assist bidders or proposers to prepare or submit  environmental product
+declarations required under this section, the department  by rule shall establish a program
+to extend grants to bidders or proposers that are certified as a  disadvantaged business en-
+terprise, a minority-owned business, a woman-owned business, a business that a  service-
+disabled veteran owns or an emerging small business under ORS 200.055.
+(b) Before establishing a pilot program under this section, the  department shall submit
+a request for funding  to the Legislative Assembly in an amount that the department esti-
+mates would be necessary to provide the grants  described in this subsection. The department
+shall deposit any funding the department receives into a designated account within the
+department’s operating account and shall keep  records of disbursements from the account.
+Any moneys the department does not award as grants  must revert to the General Fund upon
+[3]
+HB 4139
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the termination of the pilot program.
+(c) The department by rule shall establish criteria for eligibility for  grants under this
+subsection and shall specify the maximum amount of each grant on the  basis of available
+funding.
+SECTION 2.
+(1) The Department  of Transportation shall establish a technical advisory
+committee to assist the department with issues related to implementing  the pilot program
+described in section 1 of this 2022 Act.
+(2) The department shall determine the membership and  qualifications of the technical
+advisory committee by rule.
+(3) The technical advisory committee shall:
+(a) Recommend quantities of covered materials  below which the department need not
+require an environmental product declaration.
+(b) Advise the department as needed  to prepare the reports required under section 3 of
+this 2022 Act.
+(c) Advise the department concerning:
+(A) The extent to which environmental product declarations are available or are  in de-
+velopment;
+(B) Characteristics that are appropriate for designating a demonstration project under
+section 1 (2)(a)(D) of this 2022 Act;
+(C) The time within  which a bidder or proposer must submit an environmental product
+declaration and any related information;
+(D) How to properly analyze or interpret an environmental product declaration in  the
+context of the need to reduce greenhouse gas emissions under the pilot program described
+in section 1 of this 2022 Act;
+(E) The content of and criteria for devising, adopting and  implementing the measures
+described in section 1 (2)(a)(C) of this 2022 Act;
+(F) Potential changes to the design or implementation of the pilot program described in
+section 1 of this 2022 Act in light  of technological advances and the need to maintain rea-
+sonable competition for public contracts; and
+(G) Other  matters the technical advisory committee deems necessary to achieve the
+goals of the pilot program.
+(4) The technical advisory committee may recommend to the  department additional ma-
+terials for designation as covered materials.
+(5) A  majority of the members of the technical advisory committee constitutes a quorum
+for the transaction of business.
+(6) The technical advisory committee shall strive to reach consensus on all matters the
+technical advisory committee considers, but official action by the technical  advisory com-
+mittee requires at least the approval of a majority of the members of the  technical advisory
+committee.
+(7) The technical advisory committee shall elect two of the members  of the technical
+advisory committee to serve as cochairpersons.
+(8) The department  shall appoint a replacement for any vacancy on the technical advisory
+committee. The replacement must become immediately effective upon appointment.
+(9) The technical advisory committee must meet at least four times within each calendar
+year at times and places specified by the call of the chairperson, of a  majority of the mem-
+[4]
+HB 4139
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+bers of the technical advisory committee or of the Director of Transportation.
+(10) The technical advisory committee may adopt rules  necessary for the operation of the
+technical advisory committee.
+(11) The department shall provide staff support to the technical advisory committee.
+(12) Members of the technical advisory committee are not entitled to compensation or
+reimbursement for expenses and serve as volunteers on the technical advisory committee.
+SECTION 3.
+The Department of Transportation, after establishing  the pilot program de-
+scribed in section 1 of this 2022  Act, shall report annually not later than December 31 of each
+calendar year to the Oregon Transportation Commission and an interim committee of  the
+Legislative Assembly  related to transportation concerning the progress of the pilot program
+and related matters. The reports, at a minimum, must include:
+(1) A comprehensive description of the  department’s efforts to design and implement the
+pilot program, an evaluation of the  department’s success in reducing greenhouse gas emis-
+sions by means of the  pilot program and recommendations as to whether to continue or ex-
+pand the pilot program;
+(2) Specific data concerning:
+(a) The total number and  value of contracts the department awards in connection with
+the pilot program;
+(b) The total number and value of subcontracts that contractors awarded to  contractors
+and suppliers incorporated or headquartered outside the United States;
+(c) The dollar value of any  covered materials the department procured in connection with
+the pilot program that were manufactured or otherwise  sourced from outside the United
+States;
+(d) All waivers of requirements for sourcing materials within the United  States that the
+department granted in connection with the pilot program; and
+(e) The total dollar value of  all covered materials the department procured in connection
+with the pilot program; and
+(3) Any other matters the department, in consultation with the technical advisory  com-
+mittee, deems relevant, material or  important to highlight or recommend to the commission
+or the Legislative Assembly.
+SECTION 4.
+Sections 1 to 3 of this 2022 Act are repealed on December 31, 2030.
+SECTION 5. This 2022 Act takes effect on the 91st day after the date on which the 2022
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+[5]

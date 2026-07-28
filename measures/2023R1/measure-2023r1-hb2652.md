@@ -1,0 +1,370 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2023r1-hb2652
+title: 'HB 2652 (2023R1): Authorizes county to declare shortage of health care and human services personnel
+  and apply to Oregon Health Authority for moneys to make grants to employers to alleviate shortage by
+  offering certain benefits to potential workers and educators.'
+doc_type: dataset_doc
+citation: 2023 Regular Session House Bill 2652
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2652/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 64c08bfbf37ade5e0a46152c52ba269649f2c191791eb0b120e1510260faaedb
+snapshot_id: measure-2023r1-hb2652-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 192.245
+  - ORS 652.210
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2023r1
+- hb
+session_key: 2023R1
+measure_prefix: HB
+measure_number: 2652
+prefix_meaning: House Bill
+catch_line: Authorizes county to declare shortage of health care and human services personnel and apply
+  to Oregon Health Authority for moneys to make grants to employers to alleviate shortage by offering
+  certain benefits to potential workers and educators.
+minority_catch_line: null
+measure_summary: "\tAuthorizes county to declare shortage of health care and human services personnel\
+  \ and apply to Oregon Health Authority for moneys to make grants to employers to alleviate shortage\
+  \ by offering certain benefits to potential workers and educators. \n\tAppropriates moneys to Oregon\
+  \ Health Authority to distribute to counties for purposes related to encouraging healthy eating, physical\
+  \ activity and mental health. \n\tDeclares emergency, effective on passage."
+relating_to: Relating to funding county health measures; declaring an emergency.
+relating_to_full: Relating to funding county health measures; and declaring an emergency.
+at_the_request_of: (at the request of Washington County)
+lc_number: 2810
+measure_created_date: '2022-12-22T13:54:36'
+measure_modified_date: '2023-01-23T09:38:14'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 16322
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 192.245
+  - ORS 652.210
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2652`.
+
+# HB 2652 — 2023 Regular Session (2023R1)
+
+## At a glance
+
+- **Measure:** House Bill 2652, 2023 Regular Session (2023R1)
+- **At the request of:** (at the request of Washington County)
+- **LC number:** 2810
+- **Created:** 2022-12-22T13:54:36
+- **Metadata last modified (upstream):** 2023-01-23T09:38:14
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 16322 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2652/Introduced>.
+
+## Summary
+
+**Catchline:** Authorizes county to declare shortage of health care and human services personnel and apply to Oregon Health Authority for moneys to make grants to employers to alleviate shortage by offering certain benefits to potential workers and educators.
+
+**Relating to:** Relating to funding county health measures; declaring an emergency.
+
+Authorizes county to declare shortage of health care and human services personnel and apply to Oregon Health Authority for moneys to make grants to employers to alleviate shortage by offering certain benefits to potential workers and educators. 
+ Appropriates moneys to Oregon Health Authority to distribute to counties for purposes related to encouraging healthy eating, physical activity and mental health. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to funding county health measures; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2652
+Sponsored by Representative BYNUM (at the request of Washington County) (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Authorizes county to declare shortage of health  care and human services personnel and apply
+to Oregon Health  Authority for moneys to make grants to employers to alleviate shortage by offer-
+ing certain benefits to potential workers and educators.
+Appropriates moneys to Oregon Health Authority to distribute to  counties for purposes related
+to encouraging healthy eating, physical activity and mental health.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to funding county health measures; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in sections 1 to 3 of this 2023 Act:
+(a) “County vacancy” means a vacancy in a position ordinarily held  or sought in a county
+by health care and human services personnel.
+(b) “Health care and human services personnel” means workers, potential workers, fac-
+ulty and educators in the fields of health care and human services.
+(c) “Shortage  declaration” means a declaration by the governing body of a county made
+under subsection (2) of this section that the county is experiencing a shortage of health care
+and human services personnel.
+(2) The governing body of a county may make by ordinance or resolution  a shortage
+declaration if any of the following circumstances applies to the county:
+(a) The county is in  a health professional shortage area designated by the Health Re-
+sources and Services  Administration of the United States Department of Health and Human
+Services;
+(b) The county is  in an area affected by a national crisis or declaration of a public health
+emergency;
+(c) The county has a health ranking, index or metric of concern;
+(d) Consistent with equal employment opportunity and affirmative action law, the county:
+(A) Ensures workforce diversity and equitable representation in the workforce;
+(B) Has identified shortages of workers in underrepresented  communities and tailors in-
+centives to serve them; or
+(C) Needs bilingual or multilingual providers to support community needs;
+(e) The Governor has declared a state of emergency that applies to any  part of the
+county;
+(f) A needs assessment of both private and public institutions in the county indicates
+that:
+(A) In a county with a population  of less than 20,000, the number of county vacancies is
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2810
+greater than three.
+(B) In a county with a population of 20,000 or more and less than 75,000, the number of
+county vacancies is greater than five.
+(C) In a county  with a population of 75,000 or more and less than 150,000, the number of
+county vacancies is greater than 10.
+(D) In a county with a  population of 150,000 or more and less than 375,000, the number
+of county vacancies is greater than 15.
+(E) In a county with a population of  375,000 or more, the number of county vacancies is
+greater than 25;
+(g) The governing body of the county declares that lack  of access to primary, secondary
+or tertiary programs and  services based on workforce limitations puts the health of the
+county’s residents at risk;
+(h) The county is experiencing local challenges to  the achievement of health objectives
+promulgated by the United States Department of Health and Human Services;
+(i) The  county identifies local challenges to addressing health crises identified by the
+Surgeon General; or
+(j) When  there is a shortage of health care and human services faculty, the county
+identifies local challenges to addressing collateral crises.
+(3)(a) A shortage declaration shall expire at the  end of the 90th day following the date
+on which the declaration was made.
+(b) The governing body of the county may make subsequent shortage declarations  in ac-
+cordance with subsection (2) of this section at any time.
+(4)(a) The governing body of a county that has made a shortage declaration is eligible to
+apply to the Oregon Health Authority for access to  moneys in the County Health Care and
+Human Services Fund established under section 5 of this 2023 Act to be used for the purposes
+set forth in section 2 of this 2023 Act.
+(b) The Oregon Health Authority shall prescribe an application process for  counties, in-
+cluding deadlines, forms and  the information and documentation that must be included to
+support the county’s shortage declaration claims.
+(c) An application must, at a minimum, set forth the basis on  which the governing body
+made the shortage declaration and the number  and categories of health care and human
+services personnel positions the county is seeking to have filled.
+(d) If the Oregon Health Authority is satisfied  that the county’s application substantiates
+the county’s basis and vacancy claims under subsection  (2) of this section, the authority
+shall approve the application and make moneys from the  County Health Care and Human
+Services Fund available to the  governing body of the county upon request for the purpose
+of awarding grants to employers under section 2 of this 2023 Act.
+SECTION 2.
+(1)(a) During the period of a shortage declaration  in a county whose appli-
+cation has been approved under section 1 of this 2023 Act, the governing body  of the county
+may award grants  to public and private health care and human services employers and edu-
+cational institutions for the purpose of providing to health care and human services  person-
+nel any of the following benefits:
+(A) Scholarships  for undergraduate and graduate students studying for entry into the
+fields of health care and human services.
+(B) Loan forgiveness  and repayment incentives for health care and human services per-
+sonnel.
+(C) Housing assistance.
+(D) Signing bonuses.
+(E) Part-time and flextime opportunities.
+(F) Retention bonuses.
+(G) Professional development.
+(H) Child care and elder care subsidies.
+(I) Subsidized dual certification with a focus  on rural and vulnerable populations and pay
+equity.
+(J) Tuition assistance and reimbursement.
+(K) Bonuses and stipends for supervisors of interns or associates.
+(L) Licensure examination preparation.
+(M) Stipends for graduate students enrolled in health  care and human services programs.
+(N) Physical, mental and behavioral health assistance.
+(O) Telehealth infrastructure subsidies, including, but not limited to, broadband service.
+(P) Safety needs.
+(b) The value of any benefit  provided to health care and human services personnel pur-
+suant to this  subsection may not be included in the definition of “compensation” for purposes
+of ORS 652.210.
+(2)(a) Health care and human services personnel eligible for benefits under this section
+may be, or be studying to qualify as, any of the following practitioners:
+(A) Counselors.
+(B) Social Workers.
+(C) Psychologists.
+(D) Doctors.
+(E) Nurses.
+(F) Physician assistants.
+(G) Dentists.
+(H) Dental hygienists.
+(I) Audiologists, speech-language pathologists, music therapists and art therapists.
+(J) Emergency medical services providers.
+(K) Optometrists.
+(L) Chiropractors.
+(M) Naturopathic physicians.
+(N) Veterinarians and veterinary technicians.
+(O) Massage therapists.
+(P) Physical therapists.
+(Q) Pharmacists.
+(R) Dietitians.
+(S) Environmental health specialists.
+(b) To be eligible, a  practitioner listed in paragraph (a) of this subsection must be current
+with all licenses, certificates or other credentials that are  required for the practice of their
+occupation or profession under all applicable law.
+(c) The Oregon Health Authority may amend the  list in paragraph (a) of this subsection
+by rule in furtherance of sections 1 to 3 of this 2023 Act.
+(d) In addition, health care and human services personnel eligible for benefits  under this
+section may be employed in any of the following fields:
+(A) Physical, mental, behavioral and nutritional health.
+(B) Animal services.
+(C) Developmental disabilities.
+(D) Disability, aging and veteran services.
+(E) Health and human services administration.
+(F) Solid waste and recycling.
+(G) Emergency management.
+(H) Child care.
+(3)(a) The  Oregon Health Authority shall prescribe an application process for employers,
+including deadlines and forms that an employer may use to apply to a county for a  grant
+pursuant to this section.
+(b) The  application must be submitted by an employer to the governing body of the
+county in which the health care and human services personnel will perform services  for the
+employer.
+(c) The application must set forth:
+(A) The number of county vacancies that would need to be filled to  meet the community
+need, categorized by field, occupation or  profession and any credentials that are required for
+the practice of the occupation or profession;
+(B) The impact of the county vacancies on community health;
+(C) The employer’s strategy to recruit  and retain health care and human services per-
+sonnel to reduce the crisis; and
+(D) Any other  information the authority considers important for the governing body of
+a county to review an application under this section.
+(4)(a) Within 30 days following receipt of an application  for a grant submitted pursuant
+to this section, the governing  body of the county shall review and approve or reject the ap-
+plication.
+(b) Before making a decision on an employer’s  application, the governing body may con-
+sult with the employer and, after such consultation, the employer  may amend the applica-
+tion.
+(c) The governing body shall notify each applicant of the approval or rejection of the ap-
+plication and the amount of any grant awarded with respect to an approved application.
+(d) The rejection of an application and the amount of a grant award  may not be appealed,
+but an employer may reapply at any time before the deadline.
+(5)(a) As  soon as practicable after approving an application, the governing body of the
+county shall offer a grant agreement to each successful applicant.
+(b) Once the agreement is signed,  the governing body shall, under section 1 (4) of this
+2023 Act, request  that the Oregon Health Authority make available to the governing body
+moneys in the amount of  the grant award for transfer to the employer in accordance with
+the terms of the agreement between the county and the employer.
+SECTION 3.
+(1) The governing body of each county that awards grants under section  2
+of this 2023 Act shall annually submit to the Oregon Health Authority an  anonymous and
+aggregated list of the health  care and human services personnel who have been granted
+benefits by employers using the grant moneys, categorized by:
+(a) Age;
+(b) Ethnicity;
+(c) Gender;
+(d) Race;
+(e) Disability;
+(f) Language spoken; and
+(g) Sexual orientation.
+(2) In  addition, each governing body shall report to the authority the extent to which the
+following populations have benefited from the grants awarded under section 2  of this 2023
+Act:
+(a) Members of federally recognized Indian tribes in this state;
+(b) People of color;
+(c) Lesbian, gay, bisexual and transgender youth;
+(d) Veterans;
+(e) Persons with disabilities;
+(f) Individuals with intellectual and developmental disabilities;
+(g) Individuals with limited English proficiency;
+(h) Individuals working with adults in custody or formerly in custody;
+(i) Socially vulnerable communities; and
+(j) Any other underserved population specified by the authority.
+(3)(a) Each employer that receives  a grant under section 2 of this 2023 Act shall provide
+the information set forth in subsections (1) and (2) of this section to the governing  body of
+the county  from which the employer received the grant. The employer shall provide the in-
+formation on or before a deadline set by the county.
+(b) All such information must be provided voluntarily by the health care  and human
+services personnel  and must be reported in a form that is anonymous and aggregated in a
+manner that protects the identities of the personnel.
+SECTION 4.
+Not later than September 15,  2024, the Oregon Health Authority shall submit
+a report, in the manner provided by  ORS 192.245, setting forth in detail the progress and
+outcomes of the provisions of sections 1 to 3 of this 2023 Act, to  the interim committees of
+the Legislative Assembly related to health care and human services.
+SECTION 5. (1) The County Health Care and Human Services Fund is established in the
+State Treasury, separate and distinct from the  General Fund. Interest earned by the County
+Health Care and  Human Services Fund shall be credited to the fund. Moneys in the County
+Health Care and Human Services Fund are continuously appropriated to  the Oregon Health
+Authority for the purposes set forth in sections 1 to 3 this 2023 Act.
+(2) Moneys in the County Health Care and Human Services Fund shall consist of:
+(a) Moneys appropriated or otherwise transferred or credited to the fund by the Legisla-
+tive Assembly.
+(b) Interest earned by moneys in the fund.
+(c) Moneys or other assets  transferred or otherwise credited to the fund from any public
+or private source.
+SECTION 6.
+Sections 1 to 5 of this 2023 Act are repealed on January 2, 2030.
+SECTION 7. There is appropriated to the Oregon Health Authority, for the biennium be-
+ginning July 1, 2023,  out of the General Fund, the amount of $58,000,000 for the purpose of
+carrying out the provisions of sections 1 to 3 of this 2023 Act as follows:
+(1) $50,000,000 for counties to award as grants under section 2 (4) and (5)  of this 2023 Act;
+and
+(2) $8,000,000 to pay for costs incurred by counties in  carrying out the provisions of
+sections 1 to 3 of this 2023 Act.
+SECTION 8.
+There is appropriated to the Oregon Health Authority, for the biennium be-
+ginning July 1, 2023,  out of the General Fund, the amount of $31,000,000, to be used by the
+authority for the purpose of carrying out the provisions of section 9 of this 2023 Act.
+SECTION 9. (1)(a) The Oregon Health Authority shall distribute $30 million to counties
+to enable counties to partner over the next five years with school districts to  design, imple-
+ment and evaluate programming for their students and staff  on healthy eating, physical ac-
+tivity and mental health.
+(b) Compensation paid to county and school district  employees while performing services
+pursuant to paragraph (a) of this subsection may not be included in the definition of  “com-
+pensation” for purposes of ORS 652.210.
+(2)(a) The authority shall expend $1 million to partner with local businesses, universities
+and other entities to develop initiatives related to hunger, nutrition and health.
+(b) Such initiatives shall seek to:
+(A) Improve food access and affordability;
+(B) Integrate  nutrition and health considerations into higher education curricula and the
+work of health profession organizations, health systems, hospitals,  clinics and other facilities
+that provide health services and private companies;
+(C) Empower consumers to make, and have access to, healthy nutritional choices;
+(D) Support physical activity for everybody; and
+(E) Enhance nutrition and food security research.
+SECTION 10.
+Section 9 of this 2023 Act is repealed on January 2, 2027.
+SECTION 11. This 2023 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2023 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 192.245, ORS 652.210
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `64c08bfbf37ade5e0a46152c52ba269649f2c191791eb0b120e1510260faaedb` (snapshot `_meta/snapshots/measure-2023r1-hb2652-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2652/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2652` (part of the batched per-session fetch), sha256 `93fbdf58369388064230f7ba2c78bd17b78e15ffa1d19e5c25089297c647cbe1` of the shared session snapshot `_meta/snapshots/measures-2023r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,835 @@
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Enrolled
+Senate Bill 577
+Sponsored by  Senators FREDERICK, PROZANSKI, Representative POWER, Senator MANNING JR,
+Representatives BYNUM, WILLIAMSON; Senators DEMBROW, FAGAN, TAYLOR,  WAGNER,
+Representatives HOLVEY, KENY-GUYER, KOTEK, NOSSE, PRUSAK (at the request of  Attor-
+ney General Ellen Rosenblum) (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to bias crimes;  creating new provisions; amending ORS 30.198, 30.200, 90.396, 137.225,
+137.712, 163.707, 166.155, 166.165, 166.715 and 181A.225; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 166.155 is amended to read:
+166.155. (1) A person  commits [ the crime of intimidation ] a bias crime  in the second degree if
+the person:
+(a) Tampers or interferes with property, having no right to do  so nor reasonable ground to be-
+lieve that the person has such right, with  the intent to cause substantial inconvenience to another
+person because of the person’s perception  of the [ other’s] other person’s  race, color, religion,
+gender identity, sexual orientation, disability or national origin;
+(b) Intentionally subjects another  person to offensive physical contact  because of the person’s
+perception of the [ other’s] other person’s  race, color,  religion,  gender identity, sexual orientation,
+disability or national origin; or
+(c) Intentionally,  because of the person’s perception of race, color, religion,  gender identity,
+sexual orientation, disability or national origin of another  person  or of a member  of the [ other’s]
+other person’s  family, subjects the other person to alarm by threatening:
+(A) To inflict serious physical injury upon or to commit a  felony affecting the other person, or
+a member of the  other  person’s family; or
+(B) To cause substantial damage to the property of the  other person or of a member of the other
+person’s family.
+(2) [Intimidation] A bias crime  in the second degree is a Class A misdemeanor.
+(3) [For purposes of ] As used in  this section  and ORS 166.165 [,]:
+(a) “Gender identity” means an individual’s gender-related identity, appearance,  ex-
+pression or  behavior, regardless of whether the identity, appearance, expression or behavior
+differs from that associated with the gender assigned to the individual at birth.
+(b) “Property” means any tangible personal property or real property.
+SECTION 2.  ORS 166.165 is amended to read:
+166.165. [(1) Two or more persons acting together commit the crime of intimidation in the first  de-
+gree, if the persons: ]
+Enrolled Senate Bill 577 (SB 577-B) Page 1
+[(a)(A) Intentionally, knowingly or recklessly cause physical  injury to another person because of
+the actors’ perception of that person’s race, color, religion, sexual orientation,  disability or national
+origin; or]
+[(B) With criminal negligence cause physical injury to another person by means of a deadly weapon
+because of the actors’ perception of that person’s race, color, religion, sexual  orientation, disability or
+national origin; ]
+[(b) Intentionally, because of the actors’ perception of another person’s race, color, religion,  sexual
+orientation, disability or national origin, place another person in fear of imminent serious  physical in-
+jury; or ]
+[(c) Commit such acts as would constitute the crime of intimidation in the  second degree, if
+undertaken by one person acting alone. ]
+(1) A person commits a bias crime in the first degree if the person:
+(a) Intentionally, knowingly or recklessly causes  physical injury to another person be-
+cause of the  person’s perception of the other person’s race, color, religion, gender identity,
+sexual orientation, disability or national origin;
+(b) With criminal negligence causes physical injury to another person by means of a
+deadly weapon because of the person’s perception of the other person’s race, color, religion,
+gender identity, sexual orientation, disability or national origin; or
+(c) Intentionally, because of the person’s perception of another person’s race, color,  re-
+ligion, gender identity, sexual orientation, disability or national origin, places another person
+in fear of imminent serious physical injury.
+(2) [Intimidation] A bias crime  in the first degree is a Class C felony.
+SECTION 3.
+ ORS 181A.225 is amended to read:
+181A.225. (1) All law enforcement agencies shall report  to the Department of State Police sta-
+tistics concerning crimes:
+(a) As  directed by the department, for purposes of the Uniform Crime Reporting System of the
+Federal Bureau of Investigation.
+(b) As otherwise directed by  the Governor concerning general criminal categories of criminal
+activities but not individual criminal records.
+(c) Motivated by prejudice based on the perceived  race, color, religion, national origin, sexual
+orientation, [ marital status, political affiliation or beliefs, membership or activity in  or on behalf of a
+labor organization or against a labor organization, physical or  mental ] disability[ , age, economic or
+social status or citizenship ] or gender identity  of the victim.
+(d) And other incidents arising out of  domestic disturbances under ORS 133.055 (2) and 133.310
+(3).
+(2) The department shall prepare:
+(a) Quarterly and annual reports for the use of agencies reporting under subsection  (1) of this
+section, and others having an interest therein;
+(b) An annual public report of the statistics on the incidence of crime motivated  by prejudice
+based on the perceived race, color, religion,  national origin, sexual orientation, [ marital status, pol-
+itical affiliation or beliefs, membership or activity in or on behalf of  a labor organization or against
+a labor organization, physical or mental ] disability[ , age, economic or social status or citizenship ] or
+gender identity of the victim;
+(c) Quarterly and annual reports of the statistics on  the incidence of crimes and incidents of
+domestic disturbances; and
+(d) Special reports as directed by the Governor.
+(3)(a) The department shall report to the Oregon Criminal Justice  Commission, contin-
+ually and at least quarterly, all  primary data collected pursuant to subsection (1) of this
+section.
+(b) The data reported to, and maintained by, the commission under this subsection:
+(A) Shall be used only for statistical purposes and not for any other purpose.
+Enrolled Senate Bill 577 (SB 577-B) Page 2
+(B) Is exempt  from public disclosure if the data directly identifies any individual involved
+in a bias crime.
+SECTION 4. The Oregon Criminal Justice Commission, in the rules of the commission
+concerning sentencing departure factors, shall include  gender identity as defined in ORS
+166.155 as a characteristic of the victim constituting an aggravating factor when the char-
+acteristic was the motivation, entirely or in part, for the commission of the crime.
+SECTION 5.
+(1)(a) No later than  July 1, 2020, the Oregon Criminal Justice Commission,
+in consultation with the Oregon District  Attorneys Association and the Department of State
+Police, shall develop and  implement a standardized method for district attorneys to record
+the data described in subsection (2) of this section and report the data to the commission.
+(b) The commission shall  analyze the data reported under this section to identify gaps
+or weaknesses  in the investigation, presentation, prosecution and sanctioning of crimes mo-
+tivated by bias.
+(2) The data  subject to recording and reporting under this section includes, at a mini-
+mum, the following data  concerning any crime or alleged crime in which the bias of the actor
+was, in whole or in part, a motivating factor in the commission of the crime or alleged crime:
+(a) Charges presented to the district attorney for prosecution;
+(b) Cases issued by the district attorney;
+(c) Charges indicted;
+(d) Sentencing enhancements requested;
+(e) Sentences imposed, including conditions of supervision;
+(f) Charges to which a defendant enters a plea of guilty or no contest; and
+(g) Trial outcomes.
+(3) No later than July 1, 2020, the district attorneys of Multnomah County and two addi-
+tional counties identified by the  commission shall begin to record the data described in sub-
+section (2) of this section. The counties shall report the data to  the commission using the
+method identified in subsection (1) of this section.
+(4)(a) The commission shall select  one or more statistical analysis methodologies, deter-
+mined to be consistent with current best practices,  with which to analyze the data received
+under subsection (3) of this section.
+(b) The commission shall analyze all data received under subsection (3) of this  section
+using the selected methodology.
+(5) No later than July 1, 2021,  the commission shall report on the analysis of the data
+received under subsection (3) of this section to the Legislative Assembly in  the manner
+provided under ORS 192.245.
+(6) After  completing the report described in subsection (5) of this section, the commis-
+sion, in consultation  with the Oregon District Attorneys Association and the Department of
+State Police, shall make any necessary refinements to the data  reporting, recording and
+analysis methodologies.
+(7) No later than July  1, 2022, the district attorney of each county in this state shall re-
+cord the data described in subsection (2) of this  section and report the data to the commis-
+sion.
+(8) The data reported to, and maintained by, the commission under this section:
+(a) Shall be used only for statistical purposes and not for any other purpose.
+(b) Is exempt from public disclosure if the data  directly identifies any individual involved
+in the crime or alleged crime described in subsection (2) of this section.
+(9) Any data recorded by a district attorney under this section that reveals  the identity
+of any individual is exempt from public disclosure.
+(10) The commission may adopt rules to carry out the provisions of this section.
+SECTION 6.
+ Section 5 of this 2019 Act is amended to read:
+Sec. 5.  (1)(a) [ No later than July 1, 2020, ] The Oregon Criminal Justice Commission, in consul-
+tation with the Oregon District Attorneys Association and  the Department of State Police, shall
+Enrolled Senate Bill 577 (SB 577-B) Page 3
+develop and implement a standardized method for district attorneys to record the data described  in
+subsection (2) of this section and report the data to the commission.
+(b) The commission shall analyze the data reported under this section  to identify gaps or
+weaknesses in the investigation, presentation, prosecution and sanctioning of crimes motivated  by
+bias.
+(2) The data subject to recording and reporting under this section includes, at a minimum,  the
+following data concerning any crime or alleged  crime in which the bias of the actor was, in whole
+or in part, a motivating factor in the commission of the crime or alleged crime:
+(a) Charges presented to the district attorney for prosecution;
+(b) Cases issued by the district attorney;
+(c) Charges indicted;
+(d) Sentencing enhancements requested;
+(e) Sentences imposed, including conditions of supervision;
+(f) Charges to which a defendant enters a plea of guilty or no contest; and
+(g) Trial outcomes.
+[(3) No later than July 1, 2020, the district attorneys of Multnomah County and two additional
+counties identified by the commission shall begin to record the data described in subsection  (2) of this
+section. The counties shall report the data to the commission using the method identified in  subsection
+(1) of this section. ]
+[(4)(a) The commission shall select one or more statistical analysis  methodologies, determined to
+be consistent with current best practices, with which to analyze the data received  under subsection (3)
+of this section. ]
+[(b) The commission shall analyze all data received under subsection (3) of this section using the
+selected methodology. ]
+[(5) No later than  July 1, 2021, the commission shall report on the analysis of the data received
+under subsection (3) of this section to the Legislative Assembly in the manner provided  under ORS
+192.245.]
+[(6) After completing the report described in subsection (5)  of this section, the commission, in con-
+sultation with  the Oregon District Attorneys Association and the Department of State Police, shall
+make any necessary refinements to the data reporting, recording and analysis methodologies. ]
+[(7)] (3) [ No later than July 1, 2022, ] The district attorney of  each county in this state shall re-
+cord the data described in subsection (2) of this section and report the data to the commission.
+[(8)] (4) The data reported to, and maintained by, the commission under this section:
+(a) Shall be used only for statistical purposes and not for any other purpose.
+(b) Is exempt from public disclosure if the  data directly identifies any individual involved in the
+crime or alleged crime described in subsection (2) of this section.
+[(9)] (5) Any data recorded by a district attorney under this section that reveals the identity  of
+any individual is exempt from public disclosure.
+[(10)] (6) The commission may adopt rules to carry out the provisions of this section.
+NOTE:
+ Section 7 was deleted by amendment. Subsequent sections were not renumbered.
+SECTION 8. (1) As used in this section:
+(a) “Bias crime” means the commission, attempted  commission or alleged commission
+of an offense described in ORS 166.155 or 166.165.
+(b) “Bias incident” means a person’s  hostile expression of animus toward another person,
+relating to the other person’s perceived race, color, religion,  gender identity, sexual orien-
+tation, disability or national origin, of which criminal investigation or  prosecution is impos-
+sible or inappropriate. “Bias incident” does not include any incident in which probable  cause
+of the commission of a crime is established by the investigating law enforcement officer.
+(c) “Hate crimes hotline” means the  telephone hotline established by the Department of
+Justice under subsection (3) of this section.
+(d) “Local victims’ services” means services  provided to a victim of a bias crime or bias
+incident, including but not limited to  safety planning, trauma management and data report-
+Enrolled Senate Bill 577 (SB 577-B) Page 4
+ing, by an entity located in the  same geographic area as the law enforcement agency that
+responds to the bias crime or bias incident.
+(2)(a) A  law enforcement agency that responds to a report of a bias incident shall refer
+the victim of the bias incident to qualifying local victims’ services.
+(b) The Department of Justice shall by rule designate qualifying local victims’ services.
+(c) If qualifying local victims’ services are unavailable,  the law enforcement agency shall
+refer the victim of the bias incident to the hate crimes hotline.
+(3) The Department of Justice shall establish a staffed hate crimes telephone hotline
+dedicated to assisting the victims of bias crimes and bias incidents.
+(4) There is created in the Department of Justice the position of Hate Crimes Response
+Coordinator. The Hate Crimes Response Coordinator shall:
+(a) Respond to all reports of bias crimes and  bias incidents made to the hate crimes
+hotline.
+(b) Provide assistance to victims of bias crimes and bias incidents that is  culturally
+competent and designed to reduce the effects of trauma, prevent further trauma and reach
+a diverse community.
+(c) Assist with safety planning for victims of bias crimes and bias incidents.
+(d) Coordinate with local nongovernmental organizations and service providers in assist-
+ing victims of bias crimes and bias incidents.
+(e) Develop training for nongovernmental organizations and service  providers to stand-
+ardize methods for assisting victims of bias crimes and bias incidents.
+(5)(a) The Department of Justice shall:
+(A) In coordination with  the Oregon Criminal Justice Commission, develop a standardized
+intake process for all reports of bias crimes and bias incidents made to the department.
+(B) Collect all data possible concerning the character, location and impacted  protected
+class of any bias crime or bias incident reported to the department.
+(C) Report to the commission continually  and at least quarterly all data collected pur-
+suant to this subsection.
+(b) The data reported to the commission under this subsection may not contain infor-
+mation that reveals the identity of any individual.
+(6) Any data collected by the Department of Justice under this  section that reveals the
+identity of any individual is exempt from public disclosure.
+(7) The Department of Justice may adopt rules to carry out the provisions of this section.
+SECTION 9.
+(1) As used in this section:
+(a) “Bias crime” means the commission, attempted  commission or alleged commission
+of an offense described in ORS 166.155 or 166.165.
+(b) “Bias incident” means a person’s  hostile expression of animus toward another person,
+relating to the other person’s perceived race, color, religion,  gender identity, sexual orien-
+tation, disability or national origin, of which criminal investigation or  prosecution is impos-
+sible or inappropriate. “Bias incident” does not include any incident in which probable  cause
+of the commission of a crime is established by the investigating law enforcement officer.
+(2) The Oregon Criminal Justice Commission shall review all data pertaining  to bias
+crimes and bias incidents submitted to the commission:
+(a) By district attorneys under section 5 of this 2019 Act;
+(b) By the Department of State Police under ORS 181A.225; and
+(c) By the Department of Justice under section 8 of this 2019 Act.
+(3) The commission  shall select one or more statistical analysis methodologies, deter-
+mined to be consistent with  current best practices, with which to analyze the data described
+in subsection (2) of this section.
+(4) No later than July 1, 2020, and at least annually  thereafter, the commission shall re-
+port the results of the data analysis to the Governor,  the Legislative Assembly, the Attorney
+Enrolled Senate Bill 577 (SB 577-B) Page 5
+General, the Oregon District Attorneys Association, the Department of State Police and  the
+Department of Public Safety Standards and Training.
+(5) Except as provided in subsection (7) of this section, the data described  in subsection
+(2) of this section shall be made publicly accessible to the fullest extent possible  under state
+and federal law.
+(6) The commission may use the data described in subsection (2)  of this section only for
+statistical purposes and not for any other purpose.
+(7) Any data  described in subsection (2) of this section that reveals the identity of any
+individual is exempt from public disclosure.
+(8) The commission may adopt rules to carry out the provisions of this section.
+NOTE:
+ Section 10 was deleted by amendment. Subsequent sections were not renumbered.
+SECTION 11.  ORS 90.396 is amended to read:
+90.396. (1) Except as provided in subsection (2) of this section, after  at least 24 hours’ written
+notice specifying the acts and omissions constituting  the cause and specifying the date and time of
+the termination, the landlord may terminate the rental agreement and take  possession as provided
+in ORS 105.105 to 105.168, if:
+(a) The tenant, someone in the tenant’s control or the tenant’s pet  seriously threatens to inflict
+substantial personal injury,  or inflicts any substantial personal injury, upon a person on the prem-
+ises other than the tenant;
+(b) The tenant or someone in the tenant’s control recklessly endangers  a person on the premises
+other than the tenant by creating a serious risk of substantial personal injury;
+(c) The tenant,  someone in the tenant’s control or the tenant’s pet inflicts any substantial per-
+sonal injury upon a neighbor living in the immediate vicinity of the premises;
+(d) The tenant or someone in the tenant’s control intentionally inflicts any substantial damage
+to the premises or the tenant’s pet inflicts  substantial damage to the premises on more than one
+occasion;
+(e)(A) The tenant  intentionally provided substantial false information on the application for the
+tenancy within the past year;
+(B) The  false information was with regard to a criminal conviction of the tenant that would have
+been material to the landlord’s acceptance of the application; and
+(C) The landlord terminates the  rental agreement within 30 days after discovering the falsity
+of the information; or
+(f) The tenant, someone in the  tenant’s control or the tenant’s pet commits any act that is out-
+rageous in the extreme, on the premises or in the immediate vicinity  of the premises. For purposes
+of this paragraph, an act is outrageous in the  extreme if the act is not described in paragraphs (a)
+to (e) of this subsection, but is similar in degree and is one that a reasonable  person in that com-
+munity would consider to be so offensive as to warrant termination of the tenancy  within 24 hours,
+considering the seriousness of the  act or the risk to others. An act that is outrageous in the extreme
+is more extreme or serious than  an act that warrants a 30-day termination under ORS 90.392. Acts
+that are “outrageous in  the extreme” include, but are not limited to, the following acts by a person:
+(A) Prostitution, commercial sexual solicitation or promoting prostitution, as described in  ORS
+167.007, 167.008 and 167.012;
+(B) Unlawful manufacture, delivery or possession of a  controlled substance, as defined in ORS
+475.005;
+(C) Manufacture of a cannabinoid extract, as defined in ORS 475B.015, unless  the person man-
+ufacturing the cannabinoid extract holds a license issued under ORS 475B.090 or  is registered under
+ORS 475B.840;
+(D) [ Intimidation] A bias crime , as described in ORS 166.155 and 166.165; or
+(E) Burglary as described in ORS 164.215 and 164.225.
+(2) If the  cause for a termination notice given pursuant to subsection (1) of this section is based
+upon the acts of the tenant’s pet, the tenant may cure the cause and  avoid termination of the
+tenancy by removing the pet from the premises  prior to the end of the notice period. The notice
+Enrolled Senate Bill 577 (SB 577-B) Page 6
+must describe the right of the tenant to cure the cause. If  the tenant returns the pet to the premises
+at any time after having cured the violation, the landlord,  after at least 24 hours’ written notice
+specifying  the  subsequent presence of the offending pet, may terminate the rental agreement and
+take possession as provided in ORS 105.105 to 105.168. The tenant does not  have a right to cure this
+subsequent violation.
+(3) For purposes of  subsection (1) of this section, someone is in the tenant’s control if that per-
+son enters or remains on the premises with the tenant’s permission or consent  after the tenant
+reasonably knows or  should know of that person’s act or likelihood to commit any act of the type
+described in subsection (1) of this section.
+(4) An act  can be proven to be outrageous in the extreme even if the act is one that does not
+violate a criminal statute. Notwithstanding  the references to criminal statutes in subsection (1)(f)
+of this section, the landlord’s burden of proof in an action for possession under  subsection (1) of this
+section is the civil standard of proof by a preponderance of the evidence.
+(5) If a good faith effort by a  landlord to terminate the tenancy under subsection (1)(f) of this
+section and to recover possession of the rental unit under ORS 105.105  to 105.168 fails by decision
+of the court, the landlord may  not be found in violation of any state statute or local ordinance re-
+quiring the landlord to remove that tenant upon threat of  fine, abatement or forfeiture as long as
+the landlord continues to make a good faith effort to terminate the tenancy.
+SECTION 12.  ORS 137.225, as amended by section 12, chapter  120, Oregon Laws 2018, is
+amended to read:
+137.225. (1)(a) Except as provided in paragraph (c) of this subsection, at any time after the lapse
+of three years from  the date of pronouncement of judgment, any defendant who has fully complied
+with and performed the sentence of the court and whose conviction is described in subsection  (5)
+of this section by motion may apply to the court where  the conviction was entered for entry of an
+order setting aside the conviction. A person who  is still under supervision, or who is still
+incarcerated, as part of the sentence for the offense that is the  subject of the motion has not fully
+complied with or performed the sentence of the court.
+(b) At  any time after the lapse of one year from the date of any arrest, issuance of a criminal
+citation or criminal charge, if no accusatory instrument was filed, or at any time after  an acquittal
+or a dismissal  of the charge, the arrested, cited or charged person may apply to the court that would
+have jurisdiction over the crime for which the person  was arrested, cited or charged, for entry of
+an order setting aside the record of the arrest, citation or charge. For the purpose of computing  the
+one-year period, time  during which the person has secreted himself or herself within or without this
+state is not included.
+(c) A person whose sentence of probation was  revoked may not apply to the court for entry of
+an order setting aside the  conviction for which the person was sentenced to probation for a period
+of 10 years from the date of revocation.
+(2)(a) A copy of  the motion and a full set of the defendant’s fingerprints shall be served upon
+the office of the prosecuting attorney who prosecuted  the crime or violation, or who had authority
+to prosecute the charge if there was no accusatory instrument filed, and opportunity shall  be given
+to contest the motion. The fingerprint card with the notation “motion for setting aside conviction,”
+or “motion for setting aside arrest, citation or  charge record” as the case may be, shall be for-
+warded to the Department of State Police.  Information resulting from the fingerprint search along
+with the fingerprint card shall be returned to the prosecuting attorney.
+(b) When a prosecuting  attorney is served with a copy of a motion to set aside a conviction
+under this section, the prosecuting attorney shall  provide a copy of the motion and notice of the
+hearing date to the victim, if any, of the crime by mailing a copy  of the motion and notice to the
+victim’s last-known address.
+(c) When a person makes a motion under subsection (1)(a) of this section,  the person must pay
+a fee of $80 to the Department of State Police. The  person shall attach a certified check payable to
+the Department of State Police in the amount of $80 to the  fingerprint card that is served upon the
+Enrolled Senate Bill 577 (SB 577-B) Page 7
+prosecuting attorney. The  office of the prosecuting attorney shall forward the check with the
+fingerprint card to the Department of State Police.
+(d) In addition to the  fee established under paragraph (c) of this subsection, when a person
+makes a motion under  subsection (1)(a) of this section the person must pay the filing fee established
+under ORS 21.135.
+(e) The prosecuting attorney may not charge the defendant a fee  for performing the require-
+ments described in this section.
+(3) Upon hearing the motion, the court may require the filing of such affidavits and may require
+the taking of such proofs as the court  deems proper. The court shall allow the victim to make a
+statement at the hearing. Except  as otherwise provided in subsection (12) of this section, if the court
+determines that the circumstances  and behavior of the applicant from the date of conviction, or from
+the date of arrest, citation or charge as the case may be, to  the date of the hearing on the motion
+warrant setting aside the conviction, or the arrest, citation or charge record as the case  may be,
+the court shall enter an appropriate order that shall state the original arrest or citation charge and
+the conviction charge, if any and if different from the original, date of charge,  submitting agency
+and disposition. The order shall further state that positive identification has been established  by the
+Department of State Police and further identified as to Department of State Police number or  sub-
+mitting agency number. Upon the entry of the order, the applicant for purposes of  the law shall
+be deemed not to have been previously convicted, or arrested, cited or  charged as the case may be,
+and the court shall issue an order sealing the record of conviction and other official records  in the
+case, including the records  of arrest, citation or charge whether or not the arrest, citation or charge
+resulted in a further criminal proceeding.
+(4) The clerk of the court shall forward a certified copy of the order to such agencies as directed
+by the court. A certified copy must be sent to  the Department of Corrections when the person has
+been in the custody  of the Department of Corrections. Upon entry of the order, the conviction, ar-
+rest, citation, charge or other proceeding shall be deemed not to have occurred, and the applicant
+may answer accordingly any questions relating to its occurrence.
+(5) The provisions of subsection (1)(a) of this section apply to a conviction for:
+(a) A Class B felony, except for  a violation of ORS 166.429 or any crime classified as a person
+felony as that term is defined in the rules of the Oregon Criminal Justice Commission, only if:
+(A)(i) Twenty years or more have  elapsed from the date of the conviction sought to be set aside
+or of the release of the person  from imprisonment for the conviction sought to be set aside, which-
+ever is later; and
+(ii) The person has not been  convicted of, arrested or criminally cited for or charged with any
+other offense, excluding motor vehicle violations, after the date the person was convicted of the of-
+fense sought to  be set aside. Notwithstanding subsection (1) of this section, a conviction, arrest, ci-
+tation or charge that has been set  aside under this section shall be considered for the purpose of
+determining whether this subparagraph is applicable; or
+(B) The Class B felony is described in paragraphs (b) to (d) of this subsection.
+(b) Any misdemeanor, Class C felony or felony punishable as a misdemeanor  pursuant to ORS
+161.705.
+(c) An offense constituting a violation under state law or local ordinance.
+(d) An offense committed before January 1, 1972, that, if committed after that date, would qualify
+for an order under this section.
+(6) Notwithstanding subsection (5) of this section, the provisions of subsection (1)(a) of  this
+section do not apply to a conviction for:
+(a) Criminal  mistreatment in the second degree under ORS 163.200 if the victim at the time of
+the crime was 65 years of age or older.
+(b) Criminal mistreatment in the first degree under ORS 163.205 if the victim at  the time of the
+crime was 65  years of age or older, or when the offense constitutes child abuse as defined in ORS
+419B.005.
+Enrolled Senate Bill 577 (SB 577-B) Page 8
+(c) Endangering the welfare of a minor under ORS  163.575 (1)(a), when the offense constitutes
+child abuse as defined in ORS 419B.005.
+(d) Criminally negligent homicide under ORS  163.145, when that offense was punishable as a
+Class C felony.
+(e) Assault in the third degree under ORS 163.165 (1)(h).
+(f) Any sex crime, unless:
+(A) The sex crime is listed in ORS 163A.140 (1)(a) and:
+(i) The person has been relieved of the  obligation to report as a sex offender pursuant to a court
+order entered under ORS 163A.145 or 163A.150; and
+(ii) The person has not been convicted of, found guilty except for insanity of  or found to be
+within the jurisdiction of the  juvenile court based on a crime for which the court is prohibited from
+setting aside the conviction under this section; or
+(B) The sex crime constitutes a Class C felony and:
+(i) The person was under 16 years of age at the time of the offense;
+(ii) The person is:
+(I) Less than two years and 180 days older than the victim; or
+(II) At least two years and 180 days older,  but less than three years and 180 days older, than
+the victim and the court finds that setting aside  the conviction is in the interests of justice and of
+benefit to the person and the community;
+(iii) The  victim’s lack of consent was due solely to incapacity to consent by reason of being less
+than a specified age;
+(iv) The victim was at least 12 years of age at the time of the offense;
+(v) The person has not been convicted of,  found guilty except for insanity of or found to be
+within the jurisdiction of the  juvenile court based on a crime for which the court is prohibited from
+setting aside the conviction under this section; and
+(vi) Each conviction or finding described in this subparagraph involved the same victim.
+(7) Notwithstanding  subsection (5) of this section, the provisions of subsection (1) of this section
+do not apply to:
+(a) A conviction for a state or municipal traffic offense.
+(b) A person convicted, within the  10-year period immediately preceding the filing of the motion
+pursuant to subsection (1) of this section, of any other offense,  excluding motor vehicle violations,
+whether or not  the other conviction is for conduct associated with the same criminal episode that
+caused the arrest, citation, charge or conviction that is sought to  be set aside. A single violation,
+other than a motor vehicle violation, within the  last 10 years is not a conviction under this sub-
+section. Notwithstanding subsection (1) of this  section, a conviction that has been set aside under
+this section shall be considered for the purpose of determining whether this paragraph  is applicable.
+(c) A person who at  the time the motion authorized by subsection (1) of this section is pending
+before the court is under charge of commission of any crime.
+(8) The provisions of subsection (1)(b) of this section do not apply to:
+(a) A person arrested or criminally  cited for or charged with an offense within the three-year
+period immediately preceding  the filing of the motion for any offense, excluding motor vehicle vio-
+lations, and excluding arrests, citations or charges for conduct associated with the  same criminal
+episode that caused the arrest, citation or charge that is sought to be set aside. An  arrest, citation
+or charge that has been set  aside under this section may not be considered for the purpose of de-
+termining whether this paragraph is applicable.
+(b) An arrest or citation for  driving while under the influence of intoxicants if the charge is
+dismissed as a result of the person’s successful completion of a diversion agreement  described in
+ORS 813.200.
+(9) The provisions of subsection (1) of this section apply to  convictions, arrests, citations and
+charges that occurred before, as  well as those that occurred after, September 9, 1971. There is no
+time limit for making an application.
+Enrolled Senate Bill 577 (SB 577-B) Page 9
+(10) For purposes of any civil action in which  truth is an element of a claim for relief or affir-
+mative defense, the provisions of subsection (3) of this section providing  that the conviction, arrest,
+citation, charge or other proceeding be deemed not to have occurred do not apply and a  party may
+apply to the court for  an order requiring disclosure of the official records in the case as may be
+necessary in the interest of justice.
+(11) Upon motion of any prosecutor or defendant in a case involving records sealed  under this
+section, supported by affidavit showing  good cause, the court with jurisdiction may order the reo-
+pening and disclosure of any records  sealed under this section for the limited purpose of assisting
+the investigation of the movant. However, such an order has no other  effect on the orders setting
+aside the conviction or the arrest, citation or charge record.
+(12) Unless the court makes written findings by clear and convincing evidence that granting  the
+motion would not be in the best interests of justice, the court shall  grant the motion and enter an
+order as provided in subsection (3) of this section if the defendant has been convicted of one  of the
+following crimes and is otherwise eligible for relief under this section:
+(a) Abandonment of a child, ORS 163.535.
+(b) Attempted assault in the second degree, ORS 163.175.
+(c) Assault in the third degree, ORS 163.165.
+(d) Coercion, ORS 163.275.
+(e) Criminal mistreatment in the first degree, ORS 163.205.
+(f) Attempted escape in the first degree, ORS 162.165.
+(g) Incest, ORS 163.525, if the victim was at least 18 years of age.
+(h) [ Intimidation] A bias crime  in the first degree, ORS 166.165.
+(i) Attempted kidnapping in the second degree, ORS 163.225.
+(j) Attempted robbery in the second degree, ORS 164.405.
+(k) Robbery in the third degree, ORS 164.395.
+(L) Supplying contraband, ORS 162.185.
+(m) Unlawful use of a weapon, ORS 166.220.
+(13) As used in this section, “sex crime” has the meaning given that term in ORS 163A.005.
+SECTION 13.
+ ORS 137.712 is amended to read:
+137.712. (1)(a) Notwithstanding ORS 137.700 and 137.707,  when a person is convicted of
+manslaughter in the second degree as defined in ORS 163.125, assault  in the second degree as de-
+fined in ORS 163.175 (1)(b), kidnapping in the second degree as defined  in ORS 163.225, rape in the
+second degree as defined in ORS 163.365, sodomy in  the second degree as defined in ORS 163.395,
+unlawful sexual penetration in the  second degree as defined in ORS 163.408, sexual abuse in the first
+degree as defined in ORS 163.427 (1)(a)(A) or  robbery in the second degree as defined in ORS
+164.405, the court may impose a sentence  according to the rules of the Oregon Criminal Justice
+Commission that is less than the minimum  sentence that otherwise may be required by ORS 137.700
+or 137.707 if the court, on the record at  sentencing, makes the findings set forth in subsection (2)
+of this section and finds that a substantial and compelling reason under the rules of the  Oregon
+Criminal Justice Commission  justifies the lesser sentence. When the court imposes a sentence under
+this subsection, the person is eligible for a reduction in the sentence  as provided in ORS 421.121
+and any other statute.
+(b) In order to make a dispositional departure under this section, the court must  make the fol-
+lowing additional findings on the record:
+(A) There exists a substantial and compelling reason  not relied upon in paragraph (a) of this
+subsection;
+(B) A sentence  of probation will be more effective than a prison term in reducing the risk of
+offender recidivism; and
+(C) A sentence of probation will better serve to protect society.
+(2) A conviction is subject to subsection (1) of this section only if  the sentencing court finds on
+the record by a preponderance of the evidence:
+(a) If the conviction is for manslaughter in the second degree:
+Enrolled Senate Bill 577 (SB 577-B) Page 10
+(A) That the victim was a  dependent person as defined in ORS 163.205 who was at least 18 years
+of age;
+(B) That the defendant is the mother or father of the victim;
+(C) That the death of  the victim was the result of an injury or illness that was not caused by
+the defendant;
+(D) That the defendant treated the injury or illness solely by  spiritual treatment in accordance
+with the religious beliefs or practices of  the defendant and based on a good faith belief that spiritual
+treatment would bring about the victim’s recovery from the injury or illness;
+(E) That no other person previously under the defendant’s care has died or sustained significant
+physical injury as a result of or despite the  use of spiritual treatment, regardless of whether the
+spiritual treatment was used alone or in conjunction with medical care; and
+(F) That the defendant does  not have a previous conviction for a crime listed in subsection (4)
+of this section or for criminal mistreatment in the second degree.
+(b) If the conviction is for assault in the second degree:
+(A) That the victim was not physically injured by means of a deadly weapon;
+(B) That the victim did not suffer a significant physical injury; and
+(C) That the defendant does not have a previous conviction for  a crime listed in subsection (4)
+of this section.
+(c) If the conviction is for kidnapping in the second degree:
+(A) That the victim was at least 12 years of age at the time the crime was committed; and
+(B) That the defendant does not have  a previous conviction for a crime listed in subsection (4)
+of this section.
+(d) If the conviction is for robbery in the second degree:
+(A) That the victim did not suffer a significant physical injury;
+(B) That, if the defendant represented by words or conduct that  the defendant was armed with
+a dangerous weapon, the representation did not reasonably put the victim in  fear of imminent sig-
+nificant physical injury;
+(C) That, if the defendant represented by words or conduct that  the defendant was armed with
+a deadly weapon, the representation did not reasonably put the victim in fear  of imminent physical
+injury; and
+(D) That the defendant does not have a previous  conviction for a crime listed in subsection (4)
+of this section.
+(e) If the conviction is for rape in the second degree, sodomy  in the second degree or sexual
+abuse in the first degree:
+(A) That the victim was at least 12 years of age, but under 14 years  of age, at the time of the
+offense;
+(B) That the defendant does not have a prior conviction for a crime listed  in subsection (4) of
+this section;
+(C) That the defendant has not been previously found to be within the  jurisdiction of a juvenile
+court for an act that would have been  a felony sexual offense if the act had been committed by an
+adult;
+(D) That the defendant was no more than five years older than the  victim at the time of the
+offense;
+(E) That the offense did not involve sexual contact with any minor other than the victim; and
+(F) That the victim’s lack of consent  was due solely to incapacity to consent by reason of being
+under 18 years of age at the time of the offense.
+(f) If the conviction is for unlawful sexual penetration in the second degree:
+(A) That the victim was 12 years of age or older at the time of the offense;
+(B) That the defendant does  not have a prior conviction for a crime listed in subsection (4) of
+this section;
+Enrolled Senate Bill 577 (SB 577-B) Page 11
+(C) That the defendant has not been previously found to be within the  jurisdiction of a juvenile
+court for an act that would have been a felony sexual offense if  the act had been committed by an
+adult;
+(D) That the defendant was no more  than five years older than the victim at the time of the
+offense;
+(E) That the offense did not involve sexual contact with any minor other than the victim;
+(F) That the victim’s lack of consent  was due solely to incapacity to consent by reason of being
+under 18 years of age at the time of the offense; and
+(G) That the object used to commit the unlawful sexual penetration  was the hand or any part
+thereof of the defendant.
+(3) In making the findings required by subsections (1) and (2) of this  section, the court may
+consider any evidence presented at trial and  may receive and consider any additional relevant in-
+formation offered by either party at sentencing.
+(4) The crimes  to which subsection (2)(a)(F), (b)(C), (c)(B), (d)(D), (e)(B) and (f)(B) of this section
+refer are:
+(a) A crime listed in ORS 137.700 (2) or 137.707 (4);
+(b) Escape in the first degree, as defined in ORS 162.165;
+(c) Aggravated murder, as defined in ORS 163.095;
+(d) Criminally negligent homicide, as defined in ORS 163.145;
+(e) Assault in the third degree, as defined in ORS 163.165;
+(f) Criminal mistreatment in the first degree, as defined in ORS 163.205 (1)(b)(A);
+(g) Rape in the third degree, as defined in ORS 163.355;
+(h) Sodomy in the third degree, as defined in ORS 163.385;
+(i) Sexual abuse in the second degree, as defined in ORS 163.425;
+(j) Stalking, as defined in ORS 163.732;
+(k) Burglary in the first degree, as defined in ORS 164.225, when it is classified  as a person
+felony under the rules of the Oregon Criminal Justice Commission;
+(L) Arson in the first degree, as defined in ORS 164.325;
+(m) Robbery in the third degree, as defined in ORS 164.395;
+(n) [ Intimidation] A bias crime  in the first degree, as defined in ORS 166.165;
+(o) Promoting prostitution, as defined in ORS 167.012; and
+(p) An attempt or solicitation to commit any Class A or B felony listed in paragraphs  (a) to (L)
+of this subsection.
+(5) Notwithstanding  ORS 137.545 (5)(b), if a person sentenced to probation under this section
+violates a condition of probation by committing a new crime, the court shall  revoke the probation
+and impose the presumptive sentence of imprisonment under the rules of the Oregon  Criminal Jus-
+tice Commission.
+(6) As used in this section:
+(a) “Conviction” includes, but is not limited to:
+(A) A juvenile court adjudication  finding a person within the court’s jurisdiction under ORS
+419C.005, if the person was at least 15 years of age at the time the  person committed the offense
+that brought the person within the jurisdiction of the juvenile court. “Conviction” does not  include
+a juvenile court adjudication described in  this subparagraph if the person successfully asserted the
+defense set forth in ORS 419C.522.
+(B) A conviction in another jurisdiction for a crime that if  committed in this state would con-
+stitute a crime listed in subsection (4) of this section.
+(b) “Previous conviction”  means a conviction that was entered prior to imposing sentence on the
+current crime provided that the prior conviction is based on a crime committed in a separate crim-
+inal episode. “Previous conviction” does not include a conviction for a Class C felony, including  an
+attempt or  solicitation to commit a Class B felony, or a misdemeanor, unless the conviction was
+entered within the 10-year period immediately preceding the date  on which the current crime was
+committed.
+Enrolled Senate Bill 577 (SB 577-B) Page 12
+(c) “Significant physical injury” means a physical injury that:
+(A) Creates a risk of death that is not a remote risk;
+(B) Causes a serious and temporary disfigurement;
+(C) Causes a protracted disfigurement; or
+(D) Causes a prolonged impairment of health or the function of any bodily organ.
+SECTION 14.
+ ORS 163.707 is amended to read:
+163.707. (1) A motor vehicle used  by the owner in a drive-by shooting is subject to civil in rem
+forfeiture.
+(2) Seizure and forfeiture proceedings under this section shall be conducted in  accordance with
+ORS chapter 131A.
+(3) As used in this  section, “drive-by shooting” means discharge of a firearm from a motor ve-
+hicle while committing or attempting to commit:
+(a) Aggravated murder under ORS 163.095;
+(b) Murder under ORS 163.115;
+(c) Manslaughter in any degree under ORS 163.118 or 163.125;
+(d) Assault in any degree under ORS 163.160, 163.165, 163.175 or 163.185;
+(e) Menacing under ORS 163.190;
+(f) Recklessly endangering another person under ORS 163.195;
+(g) Assaulting a public safety officer under ORS 163.208; or
+(h) [ Intimidation] A bias crime  in any degree under ORS 166.155 or 166.165.
+SECTION 15.
+ ORS 166.715 is amended to read:
+166.715. As used in ORS 166.715 to 166.735, unless the context requires otherwise:
+(1) “Documentary material” means any book, paper, document, writing, drawing,  graph, chart,
+photograph, phonograph record, magnetic tape, computer printout, other data  compilation from
+which information can be obtained or from which information can be translated into  usable form,
+or other tangible item.
+(2) “Enterprise” includes any individual,  sole proprietorship, partnership, corporation, business
+trust or other profit or nonprofit legal entity, and  includes any union, association or group of indi-
+viduals associated in fact although not  a legal entity, and both illicit and licit enterprises and gov-
+ernmental and nongovernmental entities.
+(3) “Investigative agency” means the Department of Justice or any district attorney.
+(4) “Pattern of racketeering  activity” means engaging in at least two incidents of racketeering
+activity that have the same  or similar intents, results, accomplices, victims or methods of commis-
+sion or otherwise are interrelated by distinguishing characteristics, including  a nexus to the same
+enterprise, and are not isolated incidents, provided at  least one of such incidents occurred after
+November 1, 1981, and that the last of  such incidents occurred within five years after a prior inci-
+dent of racketeering activity. Notwithstanding  ORS 131.505 to 131.525 or 419A.190 or any other
+provision of law providing that a previous prosecution is a bar to  a subsequent prosecution, conduct
+that constitutes an incident of racketeering activity may be used to establish a pattern  of
+racketeering activity without  regard to whether the conduct previously has been the subject of a
+criminal prosecution or conviction or a juvenile court adjudication, unless  the prosecution resulted
+in an acquittal or the adjudication resulted  in entry of an order finding the youth not to be within
+the jurisdiction of the juvenile court.
+(5) “Person” means  any individual or entity capable of holding a legal or beneficial interest in
+real or personal property.
+(6) “Racketeering activity” includes conduct of a person committed both  before and after the
+person attains the age of 18 years, and means to commit,  to attempt to commit, to conspire to
+commit, or to solicit, coerce or intimidate another person to commit:
+(a) Any conduct that constitutes a crime, as defined in ORS 161.515, under any  of the following
+provisions of the Oregon Revised Statutes:
+(A) ORS 59.005 to 59.505, 59.710 to 59.830, 59.991 and 59.995, relating to securities;
+(B) ORS 162.015, 162.025 and 162.065 to 162.085, relating to bribery and perjury;
+Enrolled Senate Bill 577 (SB 577-B) Page 13
+(C) ORS 162.235, 162.265 to 162.305, 162.325, 162.335, 162.355 and 162.365, relating to obstructing
+governmental  administration;
+(D) ORS 162.405 to 162.425, relating to abuse of public office;
+(E) ORS 162.455, relating to interference with legislative operation;
+(F) ORS 163.095 to 163.115, 163.118, 163.125 and 163.145, relating to criminal homicide;
+(G) ORS 163.160 to 163.205, relating to assault and related offenses;
+(H) ORS 163.225 and 163.235, relating to kidnapping;
+(I) ORS 163.275, relating to coercion;
+(J) ORS 163.665 to 163.693, relating to sexual conduct of children;
+(K) ORS  164.015, 164.043, 164.045, 164.055, 164.057, 164.075 to 164.095, 164.098, 164.125, 164.135,
+164.140, 164.215, 164.225 and 164.245 to 164.270, relating to  theft, burglary, criminal trespass and
+related offenses;
+(L) ORS 164.315 to 164.335, relating to arson and related offenses;
+(M) ORS 164.345 to 164.365, relating to criminal mischief;
+(N) ORS 164.395 to 164.415, relating to robbery;
+(O) ORS 164.865, 164.875 and 164.868 to  164.872, relating to unlawful recording or labeling of a
+recording;
+(P) ORS 165.007 to 165.022,  165.032 to 165.042 and 165.055 to 165.070, relating to forgery and
+related offenses;
+(Q) ORS 165.080 to 165.109, relating to business and commercial offenses;
+(R) ORS 165.540 and 165.555, relating to communication crimes;
+(S) ORS 166.180, 166.190, 166.220, 166.250, 166.270, 166.275, 166.410, 166.450 and 166.470, relating
+to firearms and other weapons;
+(T) ORS  164.377 (2) to (4), as punishable under ORS 164.377 (5)(b), 167.007 to 167.017, 167.057,
+167.062 to 167.080, 167.090, 167.122 to 167.137, 167.147, 167.164, 167.167, 167.212, 167.355,  167.365,
+167.370, 167.428, 167.431 and 167.439, relating to prostitution, obscenity, sexual conduct, gambling,
+computer crimes involving the Oregon State  Lottery, animal fighting, forcible recovery of a fighting
+bird and related offenses;
+(U) ORS 171.990, relating to legislative witnesses;
+(V) ORS 260.575 and 260.665, relating to election offenses;
+(W) ORS 314.075, relating to income tax;
+(X) ORS 180.440 (2) and 180.486 (2) and ORS  chapter 323, relating to cigarette and tobacco
+products taxes and the directories developed under ORS 180.425 and 180.477;
+(Y) ORS 411.630, 411.675, 411.690 and 411.840,  relating to public assistance payments or medical
+assistance benefits, and ORS 411.990 (2) and (3);
+(Z) ORS 462.140, 462.415 and 462.420 to 462.520, relating to racing;
+(AA)  ORS  463.995, relating to entertainment wrestling and unarmed combat sports, as defined
+in ORS 463.015;
+(BB) ORS 471.305, 471.360, 471.392 to 471.400,  471.403, 471.404, 471.405, 471.425, 471.442, 471.445,
+471.446, 471.485, 471.490 and 471.675, relating to alcoholic  liquor, and any of the provisions of ORS
+chapter 471 relating to licenses issued under the Liquor Control Act;
+(CC) ORS 475B.010 to 475B.545, relating to marijuana items as defined in ORS 475B.015;
+(DD) ORS 475.005 to 475.285 and 475.752 to 475.980, relating to controlled substances;
+(EE) ORS 480.070, 480.210, 480.215, 480.235 and 480.265, relating to explosives;
+(FF) ORS 819.010, 819.040, 822.100, 822.135 and 822.150, relating to motor vehicles;
+(GG) ORS 658.452 or 658.991 (2) to (4), relating to labor contractors;
+(HH) ORS chapter 706, relating to banking law administration;
+(II) ORS chapter 714, relating to branch banking;
+(JJ) ORS chapter 716, relating to mutual savings banks;
+(KK) ORS chapter 723, relating to credit unions;
+(LL) ORS chapter 726, relating to pawnbrokers;
+(MM) ORS 166.382 and 166.384, relating to destructive devices;
+Enrolled Senate Bill 577 (SB 577-B) Page 14
+(NN) ORS 165.074;
+(OO) ORS 86A.095 to 86A.198, relating to mortgage bankers and mortgage brokers;
+(PP) ORS chapter 496, 497 or 498, relating to wildlife;
+(QQ) ORS 163.355 to 163.427, relating to sexual offenses;
+(RR) ORS 166.015, relating to riot;
+(SS) ORS 166.155 and 166.165, relating to [ intimidation] bias crimes ;
+(TT) ORS chapter 696, relating to real estate and escrow;
+(UU) ORS chapter 704, relating to outfitters and guides;
+(VV) ORS 165.692, relating to making a false claim for health care payment;
+(WW) ORS 162.117, relating to public investment fraud;
+(XX) ORS 164.170 or 164.172;
+(YY) ORS 647.140, 647.145 or 647.150, relating to trademark counterfeiting;
+(ZZ) ORS 164.886;
+(AAA) ORS 167.312 and 167.388;
+(BBB) ORS 164.889;
+(CCC) ORS 165.800; or
+(DDD) ORS 163.263, 163.264 or 163.266.
+(b) Any conduct defined as “racketeering activity” under 18 U.S.C. 1961 (1)(B), (C), (D) and (E).
+(7) “Unlawful debt” means any money or  other thing of value constituting principal or interest
+of a debt that is  legally unenforceable in the state in whole or in part because the debt was incurred
+or contracted:
+(a) In violation of any one of the following:
+(A) ORS chapter 462, relating to racing;
+(B) ORS 167.108 to 167.164, relating to gambling; or
+(C) ORS 82.010 to 82.170, relating to interest and usury.
+(b) In gambling activity  in violation of federal law or in the business of lending money at a rate
+usurious under federal or state law.
+(8) Notwithstanding contrary provisions in  ORS 174.060, when this section references a statute
+in the Oregon Revised Statutes  that is substantially different in the nature of its essential provisions
+from what the statute was when this section  was enacted, the reference shall extend to and include
+amendments to the statute.
+SECTION 16.
+ ORS 30.198 is amended to read:
+30.198. (1) Irrespective of any criminal prosecution  or the result thereof, any person injured by
+a violation of ORS 166.155 or 166.165 shall have  a civil action to secure an injunction, damages or
+other appropriate relief against any [ and all persons ] person whose actions are unlawful under  ORS
+166.155 and 166.165.
+(2) Upon prevailing in such action, the plaintiff may recover:
+(a) Both special and general damages, including damages for emotional distress; and
+(b) Punitive damages.
+(3) The court shall award reasonable attorney fees  to the prevailing plaintiff in an action under
+this section. The court may award reasonable attorney  fees and expert witness fees incurred by a
+defendant who prevails in the action  if the court determines that the plaintiff had no objectively
+reasonable basis for asserting a claim or no reasonable  basis for appealing an adverse decision of
+a trial court.
+(4) The parent, parents or  legal guardian of an unemancipated minor shall be liable for any
+judgment recovered against such minor under this section, in an amount not to exceed $5,000.
+SECTION 17.
+ ORS 30.200 is amended to read:
+30.200. If any district attorney has reasonable cause to believe  that any person [ or group of
+persons] is engaged in  violation of ORS 166.155 or 166.165, the district attorney may bring a civil
+claim for relief in the appropriate court, setting forth facts pertaining to such violation, and  request
+such relief as may be necessary to restrain  or prevent such violation. Any claim for relief under this
+section does not prevent any person from seeking any other remedy otherwise available under law.
+Enrolled Senate Bill 577 (SB 577-B) Page 15
+SECTION 17a. Notwithstanding any other law limiting expenditures,  the limitation on
+expenditures established by  section 3 (3), chapter ___, Oregon Laws 2019 (Enrolled Senate
+Bill 5515), for the biennium beginning July 1, 2019, as the maximum limit for payment  of
+expenses from federal funds collected  or received by the Department of Justice for the Crime
+Victim and Survivor  Services Division is increased by $201,380, for the purpose of carrying
+out the provisions of this 2019 Act.
+SECTION 17b. Notwithstanding any other provision  of law, the General Fund appropri-
+ation made to the Department of Justice by section 1 (4), chapter  ___, Oregon Laws 2019
+(Enrolled Senate Bill 5515), for the biennium beginning July 1, 2019, for Crime  Victim and
+Survivor Services is increased by $46,453, for the purpose of carrying out the provisions  of
+this 2019 Act.
+SECTION 17c. In addition to and not in  lieu of any other appropriation, there is appro-
+priated to the Oregon Criminal Justice Commission, for the  biennium beginning July 1, 2019,
+out of the General Fund, the amount of $235,476, for the  purpose of carrying out the pro-
+visions of this 2019 Act.
+SECTION 18. Section 4 of this 2019 Act and the amendments  to ORS 30.198, 30.200, 90.396,
+137.225, 137.712, 163.707, 166.155, 166.165 and 166.715 by sections 1, 2 and 11 to 17 of this 2019
+Act apply to conduct occurring on or after the effective date of this 2019 Act.
+SECTION 19. (1)(a) Sections 5, 8 and 9 of  this 2019 Act become operative on January 1,
+2020.
+(b) The Department of Justice and the Oregon Criminal Justice Commission may  take
+any action before the operative date specified in paragraph (a) of this  subsection that is
+necessary to enable the department or commission  to exercise, on and after the operative
+date specified in paragraph (a)  of this subsection, all of the duties, functions and powers
+conferred on the department or commission by sections 5, 8 and 9 of this 2019 Act.
+(2) The amendments to section 5 of this 2019 Act by section 6 of  this 2019 Act become
+operative on January 2, 2023.
+SECTION 20. This 2019 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2019 Act takes effect
+on its passage.
+Enrolled Senate Bill 577 (SB 577-B) Page 16
+Passed by Senate June 13, 2019
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Peter Courtney, President of Senate
+Passed by House June 19, 2019
+..................................................................................
+Tina Kotek, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2019
+Approved:
+........................M.,........................................................., 2019
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2019
+..................................................................................
+Bev Clarno, Secretary of State
+Enrolled Senate Bill 577 (SB 577-B) Page 17

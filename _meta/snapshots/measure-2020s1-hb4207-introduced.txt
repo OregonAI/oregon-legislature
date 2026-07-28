@@ -1,0 +1,156 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+80th OREGON LEGISLATIVE ASSEMBLY--2020 Special Session
+House Bill 4207
+Sponsored by Representative KOTEK (at the request of Joint Committee on the First Special Session of 2020)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs Department of Public  Safety Standards and Training to establish statewide database of
+police officer discipline records. Directs  department to publish online information about disciplinary
+proceedings against police officers.
+Directs department to  submit annual report to appropriate committee of Legislative Assembly
+on complaints against police officers.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to records of discipline of police officers; creating new provisions; amending ORS 181A.830;
+and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2020 special session Act is added to and made  a part of ORS
+181A.355 to 181A.670.
+SECTION 2. (1) The Department of Public Safety Standards and Training shall establish
+a statewide database of police officer discipline records.
+(2) The department shall regularly  publish online information about all disciplinary pro-
+ceedings undertaken by  the department to suspend or revoke the certification of a police
+officer under ORS 181A.630, 181A.640 and 181A.650 during the  preceding 12 months, including
+but not limited to:
+(a) The name of the officer;
+(b) The law enforcement unit at which the officer was employed;
+(c) A description of the facts underlying the disciplinary proceeding; and
+(d) The outcome of the disciplinary proceeding.
+(3) If the decision of the department in a disciplinary proceeding is appealed under ORS
+181A.650, the department may not publish the name of the  police officer online under sub-
+section (2) of this section unless  and until the department’s decision has been sustained by
+the Court of Appeals or the appeal has been dropped.
+(4) The department shall submit an annual  report to an appropriate committee of the
+Legislative Assembly including the number of founded and unfounded  complaints against
+police officers received by the department, categorized by law enforcement unit.
+SECTION 3.
+ ORS 181A.830 is amended to read:
+181A.830. (1) As used in this section:
+(a) “Public body” has the meaning given that term in ORS 192.311.
+(b) “Public safety employee” means a certified reserve officer,  corrections officer, parole and
+probation officer, police officer or youth correction officer  as those terms are defined in ORS
+181A.355.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 78
+HB 4207
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+(2) A public body may not disclose a photograph of a public safety employee of the public  body
+without the written consent of the employee. This subsection does  not apply to the use by the public
+body of a photograph of a public safety employee.
+(3) A public body may not disclose information  about a personnel investigation of a public safety
+employee of the public body if the investigation does not result in discipline of the employee.
+(4) Subsection (3) of this section does not apply:
+(a) When the public interest requires disclosure of the information.
+(b) When the employee consents to disclosure in writing.
+(c) When disclosure is necessary for an investigation by the public body, the Department of
+Public Safety Standards and Training or a citizen review body designated by the public body.
+(d) To disclosures required under section 2 of this 2020 special session Act.
+[(d)] (e) When the public body determines that nondisclosure of the information would adversely
+affect the confidence of the public in the public body.
+(5) If an investigation of a public  safety employee of a public body results from a complaint, the
+public body may  disclose to the complainant the disposition of the complaint and, to the extent the
+public body  considers necessary to explain the action of the public body on the complaint, a written
+summary of information obtained in the investigation.
+(6) A public body must notify a public safety employee of the public body if the  public body re-
+ceives a request for:
+(a) A photograph of the employee.
+(b) Information about the employee that is exempt from disclosure under ORS 192.345 or 192.355
+(2) or (3).
+(c) Information about the employee that is prohibited from disclosure by subsection  (3) of this
+section.
+SECTION 4.
+(1) Section 2 of this 2020 special session Act becomes operative on January
+1, 2021.
+(2) The Department of  Public Safety Standards and Training may take any action before
+the operative date specified in subsection (1) of this section  to enable the department, on and
+after the operative date specified in subsection (1) of this section, to exercise  the duties,
+functions and powers conferred on the department by section 2 of this 2020  special session
+Act.
+SECTION 5. Section 2 of this 2020 special session Act does not affect a collective bar-
+gaining agreement entered into before the effective date of this 2020 special  session Act to
+the extent compliance with the provisions of section 2 of this 2020 special session Act  would
+conflict with or impair the execution of the terms of the collective bargaining agreement.
+SECTION 6. This 2020 special session Act  being necessary for the immediate preservation
+of the public peace, health and  safety, an emergency is declared to exist, and this 2020 special
+session Act takes effect on its passage.
+[2]

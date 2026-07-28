@@ -1,0 +1,292 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2021r1-hb2195
+title: 'HB 2195 (2021R1): Prohibits student from enrolling in virtual public charter school located in
+  school district in which student is not resident if student''s resident school district or education
+  service district offers appropriate online instruction.'
+doc_type: dataset_doc
+citation: 2021 Regular Session House Bill 2195
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2195/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 7be54d6d9202f4d398d63528a395bd17a9539f774244a77e146c3d00fd2b929d
+snapshot_id: measure-2021r1-hb2195-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 327.006
+  - ORS 338.005
+  - ORS 338.075
+  - ORS 338.080
+  - ORS 338.120
+  - ORS 338.125
+  - ORS 338.165
+  - ORS 339.133
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2021r1
+- hb
+session_key: 2021R1
+measure_prefix: HB
+measure_number: 2195
+prefix_meaning: House Bill
+catch_line: Prohibits student from enrolling in virtual public charter school located in school district
+  in which student is not resident if student's resident school district or education service district
+  offers appropriate online instruction.
+minority_catch_line: null
+measure_summary: "\tProhibits student from enrolling in virtual public charter school located in school\
+  \ district in which student is not resident if student's resident school district or education service\
+  \ district offers appropriate online instruction. \n\tApplies first to 2022-2023 school year, with exception\
+  \ for students who are already enrolled in virtual public charter schools and who would be enrolled\
+  \ in grade 12 for 2022-2023 school year."
+relating_to: Relating to online instruction.
+relating_to_full: Relating to online instruction; creating new provisions; and amending ORS 338.005 and
+  338.125.
+at_the_request_of: null
+lc_number: 1099
+measure_created_date: '2020-12-16T22:10:17'
+measure_modified_date: '2021-01-21T11:11:54'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 13518
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 327.006
+  - ORS 338.005
+  - ORS 338.075
+  - ORS 338.080
+  - ORS 338.120
+  - ORS 338.125
+  - ORS 338.165
+  - ORS 339.133
+  from_relating_to_full:
+  - ORS 338.005
+  - ORS 338.125
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2195`.
+
+# HB 2195 — 2021 Regular Session (2021R1)
+
+## At a glance
+
+- **Measure:** House Bill 2195, 2021 Regular Session (2021R1)
+- **LC number:** 1099
+- **Created:** 2020-12-16T22:10:17
+- **Metadata last modified (upstream):** 2021-01-21T11:11:54
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 13518 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2195/Introduced>.
+
+## Summary
+
+**Catchline:** Prohibits student from enrolling in virtual public charter school located in school district in which student is not resident if student's resident school district or education service district offers appropriate online instruction.
+
+**Relating to:** Relating to online instruction.
+
+Prohibits student from enrolling in virtual public charter school located in school district in which student is not resident if student's resident school district or education service district offers appropriate online instruction. 
+ Applies first to 2022-2023 school year, with exception for students who are already enrolled in virtual public charter schools and who would be enrolled in grade 12 for 2022-2023 school year.
+
+**RelatingToFull (verbatim upstream field):** Relating to online instruction; creating new provisions; and amending ORS 338.005 and 338.125.
+
+## Full text
+
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 2195
+Sponsored by Representative WILDE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Prohibits student from enrolling in virtual public charter  school located in school district in
+which student is not resident if student’s resident  school district or education service district offers
+appropriate online instruction.
+Applies first to  2022-2023 school year, with exception for students who are already enrolled in
+virtual public charter schools and who would be enrolled in grade 12 for 2022-2023 school year.
+A BILL FOR AN ACT
+Relating to online instruction; creating new provisions; and amending ORS 338.005 and 338.125.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 338.125 is amended to read:
+338.125. (1) Student enrollment in a public charter school is voluntary.
+(2)(a) All students who reside in the school district in which the public charter  school is located
+are eligible for enrollment in the public charter school if space is available.
+(b) Notwithstanding ORS 339.133, students who  do not reside in the school district in which
+the public charter school is  located are eligible for enrollment in the public charter school  as res-
+idents if space is available and , for a virtual public  charter school,  subject to subsection (4) of
+this section.
+(c) A public charter  school may not limit student enrollment based on race, religion, sex, sexual
+orientation, ethnicity, national origin, disability, the  terms of an individualized education program,
+income level, proficiency in the English language or athletic ability.
+(3)(a) Except as provided by paragraphs (b) and (c)  of this subsection, if the number of applica-
+tions from students who reside in the school district exceeds the capacity of a program, class, grade
+level or building, the public charter school  shall select students through an equitable lottery se-
+lection process.
+(b)(A) A  public charter school may give priority for admission to students who reside within the
+attendance boundaries that were in effect at  the time a school district closed a nonchartered public
+school  if:
+(i) The public charter school began to operate not  more than two years after the nonchartered
+public school was closed;
+(ii) The school district that closed the nonchartered public  school is the sponsor of the public
+charter  school;
+(iii) The public charter school is physically located within the  attendance boundaries of the
+closed nonchartered public school; and
+(iv) The  school district board, through board action, approved the public charter school giving
+priority as described in this paragraph.
+(B) Nothing in this paragraph requires an amendment to a charter.  A school district board may
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1099
+take an action described in subparagraph (A)(iv) of this  paragraph at any time during the term of
+a charter.
+(c) After a public charter school has been in operation for one or more  years, the public charter
+school may give priority for admission to students who:
+(A) Were enrolled in the school in the prior year;
+(B) Have siblings who are presently enrolled in the school and who were  enrolled in the school
+in the prior year; or
+(C) If the public charter school is  a party to a cooperative agreement described in ORS 338.080,
+reside in the school district that is the sponsor of the public charter school or in  a school district
+that is a party to the cooperative agreement.
+[(4)(a) A student who wishes to enroll in a virtual public charter school  does not need the approval
+of the school district where the student is a resident before the student  enrolls in the virtual public
+charter school. If a student wishes to enroll in a virtual public charter school,  the parent, legal
+guardian or person in parental relationship  with the student must provide the following notices to the
+school district where the student is a resident: ]
+[(A) Intent to enroll the student in a virtual public charter school; and ]
+[(B) Enrollment of the student in a virtual public charter school. ]
+(4)(a) A student may not enroll  in a virtual public charter school that is not located in
+the school district in which the student is a  resident if the school district in which the stu-
+dent is a resident, or the  education service district that serves that school district, offers
+appropriate online instruction and space is available for the student in that instruction. For
+purposes of this paragraph, online instruction is appropriate if the instruction is provided:
+(A) Primarily online, with no more than 10 hours of instruction per five-day  week pro-
+vided to students at a common physical location; and
+(B) For the grade in which the student is enrolled.
+(b) If a student is not prohibited from enrolling in a virtual public charter  school under
+paragraph (a) of this  subsection, the student may enroll in a virtual public charter school
+that is not located in the school district in which the student  is a resident only if the re-
+quirements of paragraph (c) or (d) of this subsection are satisfied.
+[(b)(A) ] (c)(A) [ Notwithstanding paragraph (a) of this subsection and ORS  339.133,] If more than
+three percent of the  students who reside in a school district are enrolled in virtual public charter
+schools that are not sponsored by the school district, a student who is a resident of  the school dis-
+trict [ must receive approval from  the school district before enrolling ] may enroll in a virtual public
+charter school  that is not sponsored by the school district only  if the student receives ap-
+proval to enroll from the school district . A school district is not required to give approval if more
+than three percent of the students who reside in the school district are enrolled in virtual public
+charter schools that are not sponsored by the school district.
+(B) For the purpose of determining whether more than  three percent of the students who reside
+in the school district are enrolled in virtual public charter schools that are not sponsored by the
+school district, the school district board shall include any students who:
+(i) Reside in the school district, regardless of whether the students are considered residents  of
+different school districts as provided by ORS 339.133 (5); and
+(ii) Are enrolled in virtual public charter schools that are not sponsored by the school district.
+(C) Students who reside in the school district, regardless of whether the  students are considered
+residents of different school districts as provided by ORS 339.133  (5), must receive approval from the
+school district before enrolling in a virtual public charter school that is not sponsored by the
+school district if the limit described in subparagraph (A) of this paragraph has been met.
+[(c)] (d) If the school district does not give approval under paragraph [ (b)] (c) of this subsection,
+the school district must provide information to the parent,  legal guardian or person in parental re-
+lationship with the student about the right to appeal the decision to the State Board of Education
+and other online options available to  the student. If an appeal is made to the State Board of Edu-
+cation, the board must issue a decision within 30 days of the submission of the appeal.
+(e) Prior to  enrolling a student in a virtual public charter school, the parent, legal
+guardian or person in parental relationship with the student must provide  the following no-
+tices to the school district in which the student is a resident:
+(A) Intent to enroll the student in a virtual public charter school; and
+(B) Enrollment of the student in a virtual public charter school.
+(5) Within 10 days of a student’s enrollment in a public charter  school, the public charter school
+shall provide written notice of the  student’s enrollment to the school district in which the public
+charter school is located if the student does not reside in the school district [ where] in which the
+public charter school is located.
+(6) Within 10  days of receiving the notice described in subsection (5) of this section, the school
+district in which the public charter school is located shall  provide to the student’s parent, legal
+guardian or person in parental relationship written information about:
+(a) The school district’s responsibility to identify, locate and  evaluate students enrolled in the
+public charter school to determine which students  may be in need of special education and related
+services as provided by ORS 338.165; and
+(b) The methods by which the school district may be contacted to  answer questions or provide
+information related to special education and related services.
+(7) When a student described in subsection (5) of this section withdraws from  a public charter
+school for a reason other than graduation from  high school, the school district in which the public
+charter school is located shall:
+(a) Provide to the school district in which the student resides written notice that the student
+has withdrawn.
+(b) Provide to the student’s parent,  legal guardian or person in parental relationship written
+information about:
+(A) The responsibility of the school district in which the student  resides to identify, locate and
+evaluate students  who reside in the school district to determine which students may be in need of
+special education and related services as provided by ORS 338.165; and
+(B) The methods by which the school district in which the student resides may  be contacted to
+answer questions or provide information related to special education and related services.
+(8)(a) If a student described in subsection (5) of this  section enrolls in a public charter school
+and has an individualized education program, the school district in which the public charter  school
+is located must implement the individualized education program and follow the terms  of the indi-
+vidualized education program until a new individualized education program is developed.
+(b) If a student described  in subsection (5) of this section withdraws from a public charter school
+and has an individualized  education program, the school district in which the student resides must
+implement the individualized education program and follow the terms  of the individualized education
+program until a new individualized education program is developed.
+(9) When a virtual public  charter school enrolls a student or a student no longer is enrolled in
+a virtual public charter  school, the virtual public charter school shall provide the written notices
+described in ORS 338.120 (1)(m) and (n) to the school district [ where] in which the student is a
+resident.
+(10) A  public charter school may conduct fund-raising activities but may not require a student
+to participate in fund-raising activities as a condition of admission to the public charter school.
+SECTION 2.
+(1) The amendments to ORS 338.125 by section 1 of this  2021 Act first apply
+to enrollment by students for the 2022-2023 school year.
+(2) Notwithstanding subsection  (1) of this section, the provisions of ORS 338.125 (4)(a),
+as amended by section 1 of this 2021 Act, do not apply to enrollment by  students who were
+enrolled in virtual public charter schools on  the effective date of this 2021 Act and who would
+be enrolled in grade 12 for the 2022-2023 school year.
+SECTION 3.  ORS 338.005 is amended to read:
+338.005. As used in this chapter, unless the context requires otherwise:
+(1) “Applicant” means any person or group that develops and submits a written proposal for a
+public charter school to a sponsor.
+(2) “Public charter school” means  an elementary or secondary school offering a comprehensive
+instructional program operating under a written agreement entered into between  a sponsor and an
+applicant and operating pursuant to this chapter.
+(3) “Remote and necessary school district” means  a school district that offers kindergarten
+through grade 12 and has:
+(a) An  average daily membership (ADM), as defined in ORS 327.006, in the prior fiscal year of
+less than 110; and
+(b) A school that is located, by the nearest traveled  road, more than 20 miles from the nearest
+school or from a city with a population of more than 5,000.
+(4) “Sponsor” means:
+(a) The board of the common  school district or the union high school district in which the public
+charter school is located that has  developed a written charter with an applicant to create a public
+charter school.
+(b) The State Board of Education pursuant to ORS 338.075.
+(5)(a) “Virtual public charter school” means a public  charter school that [ provides] primarily
+serves students through  online courses.
+(b) “Virtual  public charter school” does not include a public charter school that primarily serves
+students in a common physical location.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 338.005, ORS 338.125
+- From bill text (Introduced version): ORS 327.006, ORS 338.005, ORS 338.075, ORS 338.080, ORS 338.120, ORS 338.125, ORS 338.165, ORS 339.133
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `7be54d6d9202f4d398d63528a395bd17a9539f774244a77e146c3d00fd2b929d` (snapshot `_meta/snapshots/measure-2021r1-hb2195-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2195/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2195` (part of the batched per-session fetch), sha256 `5da569ca758abb18ddc62b98b159745491357dbe8bf5488fc371a795d58c4c1e` of the shared session snapshot `_meta/snapshots/measures-2021r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

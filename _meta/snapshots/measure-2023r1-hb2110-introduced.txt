@@ -1,0 +1,212 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2110
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the  request of Secretary of State Shemia
+Fagan)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Removes requirement for certain state agencies  to withhold moneys from municipal corporations
+that fail to file audit reports with Secretary of State. Removes certain  provisions relating to ad-
+dressing deficiencies identified in audit reports.
+Modifies expenditure thresholds for audit exemptions for municipal corporations.
+Replaces requirement for certain municipal corporations to have financial statements  reviewed
+with requirement to have certain procedures performed on financial statements.
+A BILL FOR AN ACT
+Relating to municipal audits; amending ORS 297.435 and 297.466.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 297.466 is amended to read:
+297.466. (1) In performing an audit and review required under ORS 297.425, the accountant under
+contract with the municipal corporation or the  Secretary of State, whoever performs the audit and
+review, shall determine if  the municipal corporation has, or has not, followed generally accepted
+accounting principles in  reporting its financial condition and operations, established appropriate
+accounting systems and internal controls and substantially complied with  legal requirements in
+conducting its financial affairs. The determination shall either be included  in the signed expression
+of opinion or otherwise disclosed in the audit report required under ORS 297.465.
+(2) Upon receipt of an audit report under ORS 297.465, the governing body of a municipal  cor-
+poration shall determine the measures it  considers necessary to address any deficiencies disclosed
+in the report. The governing body shall adopt a plan of action to address the  deficiencies. The plan
+must include the estimated period of time necessary to complete the planned actions.
+(3)[(a)] Within 30  days after filing an audit report with the Secretary of State under ORS 297.465,
+a municipal corporation shall file  with the secretary a copy of the plan of action adopted under
+subsection (2) of this section.
+[(b) At the request of the governing body of  the municipal corporation, the secretary shall make
+suggestions for addressing the deficiencies cited in the audit report. ]
+[(c) For counties and  cities, upon receipt by the secretary of the audit report and the plan of action
+adopted under subsection (2) of this section, the secretary shall either acknowledge  the county or city’s
+plan of action to address the deficiencies cited in the audit report or notify the county or city of defi-
+ciencies that, if not  addressed, could result in withholding of funds under this section. If the governing
+body of the county or city does not agree with  the notification by the secretary, the secretary shall
+provide the governing body with an opportunity for  a conference regarding the notification, audit de-
+terminations or corrective measures to be taken. ]
+[(4) If the Secretary  of State determines that a county or city has not filed an audit report with the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 261
+HB 2110
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+secretary  as  required under ORS 297.465, the secretary may certify the determination to the State
+Treasurer, the Director of the Department of Revenue, the Director of  Transportation and the Director
+of the Oregon Department of Administrative Services. ]
+[(5) If the Secretary of State concurs with determinations made  under subsection (1) of this section
+in two  successive audits and reviews of the same county or city, and determines that the governing body
+of the county or city has not taken adequate action to address  the deficiencies cited in the notifications
+given under subsection (3) of this section, the secretary may certify the determination to the State
+Treasurer, the Director of the Department of Revenue, the Director of  Transportation and the Director
+of the Oregon Department  of Administrative Services. The certificate of the secretary under this sub-
+section may be issued only after notice, opportunity to be heard and hearing pursuant to the provisions
+of ORS  chapter 183, governing contested cases. The hearing shall be held within the jurisdiction of the
+county or city. ]
+[(6) Upon receipt of a certificate from the Secretary of  State under subsection (4) or (5) of this
+section, the State Treasurer, the Director  of the Department of Revenue, the Director of Transportation
+and the  Director of the Oregon Department of Administrative Services shall withhold from distribution
+to the county or city  10 percent of the moneys otherwise to be distributed to it under ORS 221.770,
+323.455, 366.762 to 366.768, 366.785 to 366.820, 471.805 and 471.810. The moneys withheld  shall be
+disbursed to the county or city only  after the officer responsible for disbursement has received notice
+from the secretary that: ]
+[(a) The county or city has filed the audit report required under ORS 297.465 with  the secretary;
+or]
+[(b) The governing body of the county or city has  taken action to follow generally accepted ac-
+counting principles  in reporting financial condition and operations and establish appropriate account-
+ing systems and internal controls and will substantially comply with  legal requirements in conducting
+its financial affairs. ]
+[(7) The Secretary of State may not issue  a certificate under subsection (5) of this section for failure
+to follow generally accepted accounting principles if a county or city  has followed accounting practices
+authorized by state law. ]
+[(8)] (4)  As used in  this section, “generally accepted accounting principles” means those ac-
+counting principles sanctioned by recognized authoritative bodies  such as the Governmental Ac-
+counting  Standards  Board, the American Institute of Certified Public Accountants, the Financial
+Accounting Standards Board or their successors.
+SECTION 2.
+ ORS 297.435 is amended to read:
+297.435. (1) Subject to ORS 297.445, ORS  297.425 does not apply to any municipal corporation,
+except a county or a  school district, if, with respect to any one calendar year or fiscal year, the
+municipal corporation meets all the conditions in either subsection (2) or (3) of this section.
+(2)(a) Total expenditures [ for all purposes, including  moneys expended for debt retirement, ] did not
+exceed [ $150,000] $250,000 for the year;
+(b) The municipal  corporation has submitted financial statements for the year to the Secretary
+of State within 90 days following the end of the year; and
+(c) A certificate has been submitted with the financial  statements stating that the principal re-
+sponsible official of the  municipal corporation was covered during the entire year by a fidelity or
+faithful performance bond in an amount at least equal to the total amount of moneys received by
+the municipal corporation during the year.
+(3)(a) Total expenditures [ for all purposes,  including moneys expended for debt retirement, ] ex-
+[2]
+HB 2110
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+ceeded [ $150,000] $250,000 but did not exceed [ $500,000] $1,000,000 for the year;
+(b) The municipal corporation has submitted financial statements for the year to  the Secretary
+of State within 180 days following the end of the year, and [ the financial statements have been re-
+viewed by an accountant or the Secretary of State in accordance with standards prescribed by the
+Secretary of State ] an accountant or the  Secretary of State has performed the procedures es-
+tablished under subsection (5) of this section on the financial statements ; and
+(c) A certificate has been submitted with the financial statements  stating that the official re-
+sponsible for receiving and disbursing moneys  on behalf of the municipal corporation was covered
+during the entire year by a fidelity or faithful performance bond in  an amount at least equal to 10
+percent of the total receipts for the year, but not less than $10,000.
+(4) The financial statements required by this section shall  be in a form prescribed by the Sec-
+retary of State and shall be considered audit reports for the purpose of the filing fee required by
+ORS 297.485.
+[(5) The provisions of ORS 297.466 apply to financial statements  for cities reviewed under sub-
+section (3) of this section. ]
+(5)(a) The Secretary of State shall establish, by rule, procedures that the secretary deems
+appropriate for addressing  risks to municipal corporations to be performed on financial
+statements under subsection (3) of this section.
+(b) In adopting or amending rules under  this subsection, the Secretary of State shall
+consult with the  Oregon Board of Accountancy, the Oregon Society of Certified Public Ac-
+countants and one or more organizations representing municipal corporations.
+[3]

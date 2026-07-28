@@ -1,0 +1,893 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2017r1-sb5530
+title: 'SB 5530 (2017R1): Increases amount of lottery bonds authorized to be issued for Oregon Business
+  Development Department and Housing and Community Services Department.'
+doc_type: dataset_doc
+citation: 2017 Regular Session Senate Bill 5530
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB5530/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: f5725505b2a62066602621e39803c4ad444377202aa1849d2fbcc9a4e95c431b
+snapshot_id: measure-2017r1-sb5530-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 285A.020
+  - ORS 285A.188
+  - ORS 285A.213
+  - ORS 285A.227
+  - ORS 285A.708
+  - ORS 285B.092
+  - ORS 285B.410
+  - ORS 285B.455
+  - ORS 285B.456
+  - ORS 285B.551
+  - ORS 285B.563
+  - ORS 286A.560
+  - ORS 286A.576
+  - ORS 367.080
+  - ORS 390.262
+  - ORS 390.264
+  - ORS 461.510
+  - ORS 461.553
+  - ORS 461.557
+  - ORS 541.576
+  - ORS 541.656
+  - ORS 777.267
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2017r1
+- sb
+session_key: 2017R1
+measure_prefix: SB
+measure_number: 5530
+prefix_meaning: Senate Bill
+catch_line: Increases amount of lottery bonds authorized to be issued for Oregon Business Development
+  Department and Housing and Community Services Department.
+minority_catch_line: null
+measure_summary: "\tIncreases amount of lottery bonds authorized to be issued for Oregon Business Development\
+  \ Department and Housing and Community Services Department. \n\tAuthorizes issuance of various other\
+  \ lottery bonds. \n\tEstablishes funds, or provides for deposit of moneys into existing funds, and appropriates\
+  \ moneys for projects financed. \n\t<b>Modifies descriptions of projects previously approved for funding\
+  \ from lottery bond revenue.</b> \n\tDeclares emergency, effective July 1, 2017."
+relating_to: Relating to lottery bonds; and declaring an emergency.
+relating_to_full: Relating to lottery bonds; and declaring an emergency.
+at_the_request_of: (at the request of Oregon Department of Administrative Services)
+lc_number: 9530
+measure_created_date: '2016-12-13T08:40:36'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 57839
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 285A.020
+  - ORS 285A.188
+  - ORS 285A.213
+  - ORS 285A.227
+  - ORS 285A.708
+  - ORS 285B.092
+  - ORS 285B.410
+  - ORS 285B.455
+  - ORS 285B.456
+  - ORS 285B.551
+  - ORS 285B.563
+  - ORS 286A.560
+  - ORS 286A.576
+  - ORS 367.080
+  - ORS 390.262
+  - ORS 390.264
+  - ORS 461.510
+  - ORS 461.553
+  - ORS 461.557
+  - ORS 541.576
+  - ORS 541.656
+  - ORS 777.267
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 5530`.
+
+# SB 5530 — 2017 Regular Session (2017R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 5530, 2017 Regular Session (2017R1)
+- **At the request of:** (at the request of Oregon Department of Administrative Services)
+- **LC number:** 9530
+- **Created:** 2016-12-13T08:40:36
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 57839 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB5530/Enrolled>.
+
+## Summary
+
+**Catchline:** Increases amount of lottery bonds authorized to be issued for Oregon Business Development Department and Housing and Community Services Department.
+
+**Relating to:** Relating to lottery bonds; and declaring an emergency.
+
+Increases amount of lottery bonds authorized to be issued for Oregon Business Development Department and Housing and Community Services Department. 
+ Authorizes issuance of various other lottery bonds. 
+ Establishes funds, or provides for deposit of moneys into existing funds, and appropriates moneys for projects financed. 
+ <b>Modifies descriptions of projects previously approved for funding from lottery bond revenue.</b> 
+ Declares emergency, effective July 1, 2017.
+
+**RelatingToFull (verbatim upstream field):** Relating to lottery bonds; and declaring an emergency.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Enrolled
+Senate Bill 5530
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Oregon Department of Administrative Services)
+CHAPTER .................................................
+AN ACT
+Relating to lottery bonds; creating new provisions;  amending ORS 285B.551 and section 4, chapter
+906, Oregon  Laws 2009, sections 3, 6 and 18, chapter 786, Oregon Laws 2013, and sections 23
+and 28a, chapter 812, Oregon Laws 2015; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 285B.551 is amended to read:
+285B.551. (1) Pursuant to ORS  286A.560 to 286A.585, at the request of the Oregon Department
+of Administrative Services, after the department consults with the  Oregon Business Development
+Department, the State Treasurer is authorized to issue lottery bonds:
+(a) To  provide financial and other assistance, including but not limited to loans and grants, to
+municipalities,  ports  and other persons and entities in accordance with the laws governing use of
+moneys in the Special Public Works Fund created  by ORS 285B.455, the Water Fund created by ORS
+285B.563, the Safe Drinking Water Revolving  Loan Fund created by ORS 285A.213, the Oregon Port
+Revolving Fund created by ORS 285A.708, the Brownfields Redevelopment Fund created by ORS
+285A.188, the Oregon Business  Development Fund created by ORS 285B.092 and the Marine Navi-
+gation Improvement Fund created by ORS 777.267.
+(b) To fund Oregon’s share of the costs of the Columbia River channel deepening project.
+(c) To fund Oregon’s share of the costs of studies and ecosystem  restoration projects in the
+lower Columbia River estuary designed to improve habitat for  listed endangered or threatened spe-
+cies of Columbia River anadromous salmonids.
+(2) The use of lottery bond proceeds is authorized based on the following findings:
+(a) The financial and  other assistance to municipalities, ports and other persons and entities
+will assist in the establishment and expansion  of businesses in Oregon and in the construction, im-
+provement and expansion of infrastructure, community  and port facilities and other facilities that
+comprise the physical foundation for industrial and commercial activity and provide the  basic
+framework for continued  and expanded economic opportunities and quality communities throughout
+Oregon.
+(b) The Columbia River channel deepening  project is necessary to allow newer, larger
+steamships access to Oregon and Washington deep draft ports. A deeper shipping channel will  allow
+the Columbia River to  continue as a world leader in agricultural exports and as a key trade corridor
+for farms and businesses throughout Oregon and the region.
+(c) Such financial  and other assistance to municipalities, ports and other persons and entities
+and the deepening  of the Columbia River channel will therefore promote economic development
+Enrolled Senate Bill 5530 (SB 5530-A) Page 1
+within this state, and thus the use of net proceeds derived from the operation of  the Oregon State
+Lottery to pay debt service on lottery bonds  issued under this section to provide such financial and
+other assistance to municipalities, ports and other persons and entities and  to pay a portion of the
+costs of deepening the Columbia  River channel is an authorized use of state lottery funds under
+section 4, Article XV of the Oregon Constitution, and ORS 461.510.
+(d) The current lower Columbia River estuary habitat for listed endangered or  threatened spe-
+cies  of  Columbia River anadromous salmonids could be improved through ecosystem restoration
+projects. The use of the Oregon State Lottery to pay debt service on lottery bonds issued  under this
+section to pay  for studying how the estuary could be improved and to pay for ecosystem restoration
+projects are authorized uses of state lottery funds.
+(3)(a) The aggregate  principal amount of lottery bonds issued pursuant to subsection (1)(a) of
+this section for financial and other assistance to municipalities, ports and other  persons and entities
+may not  exceed the sum of [ $306,226,252] $336,226,252 and an additional amount estimated by the
+State Treasurer to be  necessary to pay bond-related costs. The aggregate principal amount of lottery
+bonds issued pursuant to subsection (1)(b) of this section for the Columbia River channel  deepening
+project may not  exceed the sum of $17.7 million and an additional amount estimated by the State
+Treasurer to be necessary to pay bond-related costs.
+(b) The Oregon Department of Administrative Services may not request the  issuance of lottery
+bonds under subsection (1)(b) of this section  until the Director of the Oregon Business Development
+Department determines  that a final environmental impact statement has been issued and a record
+of decisions  has been submitted to Congress by the United States Army Corps of Engineers, Con-
+gress has authorized the Columbia River channel deepening project, and  the Washington sponsors’
+shares of the costs of the Columbia River channel deepening project have been committed.
+(4) The net proceeds of lottery bonds issued pursuant to subsection (1)(a)  and (b) of this section
+shall be deposited in the Economic Infrastructure Project Fund, which is  hereby established in the
+State Treasury separate and distinct from the General Fund. Interest earned by the  Economic
+Infrastructure Project Fund shall be credited  to the fund. All moneys in the Economic Infrastructure
+Project  Fund  are continuously appropriated to the Oregon Business Development Department for
+any purpose for which  moneys in the Special Public Works Fund created by ORS 285B.455 may be
+used, any  purpose for which moneys in the Water Fund created by ORS 285B.563 may be used, any
+purpose for which moneys in the Safe Drinking Water Revolving Loan Fund  created by ORS
+285A.213 may be used, any purpose for which moneys in  the Oregon Port Revolving Fund created
+by ORS 285A.708 may be used, any purpose for which moneys in the Brownfields Redevelopment
+Fund created by ORS 285A.188 may be used, any purpose for  which moneys in the Oregon Business
+Development Fund created by ORS 285B.092 may be used and any purpose for  which moneys in the
+Marine Navigation  Improvement Fund created by ORS 777.267 may be used. The Director of the
+Oregon Business Development Department shall allocate the moneys deposited in  the Economic
+Infrastructure  Project  Fund for the purposes described in this subsection in accordance with the
+priorities developed by the Oregon Business Development Commission in accordance with  ORS
+285A.020. However, the director shall  transfer from the Economic Infrastructure Project Fund and
+deposit into the Channel  Deepening Account of the Marine Navigation Improvement Fund the pro-
+ceeds of any lottery bonds sold to finance  a portion of the costs of the Columbia River channel
+deepening project. Upon determining the relative  allocation of moneys deposited in the Economic
+Infrastructure Project Fund among  the purposes described in this subsection, the director shall
+transfer from the Economic Infrastructure Project Fund, and deposit into each  of the other funds
+described in this subsection, the amounts so allocated. Notwithstanding any other provision  of law
+governing the funds described in this  subsection, the funds described in this subsection may be
+credited with moneys transferred from the Economic Infrastructure Project Fund by the director  in
+accordance with this subsection.
+(5) The aggregate principal amount of lottery bonds issued  pursuant to subsection (1)(c) of this
+section for the costs of studies and ecosystem restoration projects in  the lower Columbia River
+estuary may not exceed the sum of $750,000 and an additional amount estimated by the  State
+Enrolled Senate Bill 5530 (SB 5530-A) Page 2
+Treasurer  to  be necessary to pay bond-related costs. The net proceeds of lottery bonds issued pur-
+suant to subsection (1)(c) of this section shall be  deposited in the Oregon Business, Innovation and
+Trade Fund created by ORS 285A.227 and may be  used only for the Oregon nonfederal share of
+United States Army Corps of Engineers Columbia  River estuary projects authorized by Congress
+prior to August 9, 2001. The director may  not request the issuance of lottery bonds under subsection
+(1)(c) of  this section until Congress and Washington have authorized their respective shares of the
+costs of the studies and ecosystem restoration projects in the lower Columbia River estuary.
+(6) The proceeds of lottery bonds issued  pursuant to this section may be used only for the pur-
+poses set forth in this section and for bond-related costs.
+SECTION 2. (1) Net proceeds of lottery  bonds issued under ORS 285B.551 during the
+biennium beginning July 1, 2017, in an amount sufficient  to provide $10 million in net pro-
+ceeds and interest  earnings must be transferred to the Oregon Business Development De-
+partment for deposit in the Levee  Project Subaccount, established in ORS 285B.456, for the
+purpose of providing financial assistance under ORS 285B.410 to 285B.482 for  levee projects,
+as defined in ORS 285B.410.
+(2) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and  is authorized based on the following
+findings:
+(a) Levees are an integral part of the commercial and  industrial infrastructure of this
+state.
+(b) The inspection, accreditation, certification and repair of levees  will promote economic
+development within this state.
+SECTION 3. (1) For the  biennium beginning July 1, 2017, at the request of the Oregon
+Department of Administrative Services, after the department consults with  the Oregon
+Business Development Department, the State Treasurer is authorized to issue lottery  bonds
+pursuant to ORS 286A.560 to 286A.585 in an amount that produces  $4 million in net proceeds
+and interest earnings for the purposes described in  subsection (2) of this section, plus an
+additional amount estimated by the State Treasurer to be necessary  to pay bond-related
+costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $4 million in net proceeds and interest earnings must be transferred  to the Oregon
+Business Development Department for deposit in the Regional Infrastructure Fund  estab-
+lished in section 3, chapter 786, Oregon Laws 2013, to  provide grants and loans to local gov-
+ernments for infrastructure projects,  including long-range planning, research and design.
+The grants  and loans are to be allocated based on recommendations of regionally based
+planning committees designated by the department.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and  is authorized based on the following
+findings:
+(a) Infrastructure projects will create jobs; and
+(b) Integrated development of infrastructure will  establish a foundation for expanding
+existing businesses and for developing and attracting new businesses.
+SECTION 4.
+ Section 3, chapter  786, Oregon Laws 2013, as amended by section 3, chapter 812,
+Oregon Laws 2015, is amended to read:
+Sec. 3.  (1) The  Regional Infrastructure Fund is established in the State Treasury, separate and
+distinct from the General Fund. Interest earned on the moneys in the Regional Infrastructure  Fund
+shall be credited to the fund. The Regional Infrastructure Fund consists of moneys deposited in  the
+fund under section 2, chapter 786, Oregon Laws 2013, and section 2 [ of this 2015  Act ], chapter 812,
+Oregon Laws 2015, and section 3 of this 2017 Act,  and may include fees, revenues or other income
+deposited into the fund by the Legislative Assembly.
+Enrolled Senate Bill 5530 (SB 5530-A) Page 3
+(2) Moneys in the fund are  continuously appropriated to the Oregon Business Development De-
+partment for disbursement to local governments  for the purposes set forth in section 2, chapter 786,
+Oregon Laws 2013, and section 2 [ of this 2015 Act ], chapter 812, Oregon Laws 2015, and section
+3 of this 2017 Act .
+SECTION 5. (1) For the biennium beginning July 1, 2017, at the  request of the Oregon
+Department of Administrative Services, after the department  consults with the Water Re-
+sources Department,  the State Treasurer is authorized to issue lottery bonds pursuant to
+ORS 286A.560 to 286A.585 in an amount  that produces $20,700,000 in net proceeds and interest
+earnings for the purposes  described in subsection (2) of this section, plus an additional
+amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under this section must be  transferred to the
+Water Resources Department for deposit in the  Water Supply Development Account estab-
+lished in ORS 541.656, in an amount sufficient to provide:
+(a) $15 million in net proceeds and interest earnings to provide grants or loans to evalu-
+ate, plan and develop in-stream and out-of-stream statewide water development projects.
+(b) $2.5 million in net proceeds and interest earnings to  the City of Carlton to reduce
+sedimentation and increase water storage capacity at the Panther Creek Reservoir.
+(c) $2 million in net proceeds and  interest earnings to the City of Carlton to replace the
+city’s finished water supply line and reduce water loss.
+(d) $1.2 million in net proceeds and interest earnings to the Santiam  Water Control Dis-
+trict to  complete the Mill Creek Corporate Center irrigation conversion and efficiency
+project.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife,  and is authorized based on the following
+findings:
+(a) Having adequate drinking water systems, irrigation, drainage and healthy ecosystems
+enhances community development and supports Oregon’s economic growth.
+(b) Assisting local governments to mitigate losses resulting  from reduced water supply
+for irrigation and retirement of water  rights will enhance community efforts to facilitate and
+promote economic growth.
+SECTION 6. (1) For the biennium beginning July 1, 2017, at the  request of the Oregon
+Department of Administrative Services, after the department  consults with the Water Re-
+sources Department,  the State Treasurer is authorized to issue lottery bonds pursuant to
+ORS 286A.560 to 286A.585 in an amount that produces $1.5 million in net proceeds and in-
+terest earnings for the purposes described in subsection (2) of  this section, plus an additional
+amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $1.5 million in net proceeds and interest earnings  must be transferred to the Water
+Resources Department for deposit  in the Water Conservation, Reuse and Storage Investment
+Fund, established in ORS 541.576, to  be used to pay the qualifying costs of planning studies
+performed to evaluate the feasibility  of developing water conservation, reuse or storage
+projects.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and  is authorized based on the following
+findings:
+(a) Having adequate drinking water systems, irrigation, drainage and healthy ecosystems
+enhances community development and supports Oregon’s economic growth.
+(b) Assisting local governments to  mitigate losses resulting from reduced water supply
+for irrigation and retirement of water  rights will enhance community efforts to facilitate and
+promote economic growth.
+Enrolled Senate Bill 5530 (SB 5530-A) Page 4
+SECTION 7.  Section 4, chapter  906, Oregon Laws 2009, as amended by section 3, chapter 624,
+Oregon Laws 2011, section 19, chapter 786,  Oregon Laws 2013, section 15, chapter 121, Oregon Laws
+2014, section 37, chapter 812, Oregon Laws 2015, and section 4, chapter 66, Oregon  Laws 2016, is
+amended to read:
+Sec. 4.  (1) Pursuant to ORS 286A.560 to 286A.585, at  the request of the Oregon Department of
+Administrative Services, after the department consults with  the Housing and Community Services
+Department, the State Treasurer is authorized to issue lottery bonds for the Housing and Community
+Services Department to provide financial assistance to aid in the acquisition, renovation or mainte-
+nance of section 8 housing or other housing with federal rent subsidies.
+(2) The use of lottery bond proceeds is authorized based on the following findings:
+(a) Individuals who are at risk of homelessness or who otherwise pay a disproportionate  share
+of income for housing increase their potential  for self-sufficiency, and use proportionately fewer
+community-funded resources when they are provided a stable housing environment.
+(b) Having housing for at-risk populations is essential to Oregon’s healthy economic growth.
+(3) The aggregate  principal amount of lottery bonds issued pursuant to subsection (1) of this
+section may not exceed the amount of [ $33,801,718] $58,801,718 plus an additional amount estimated
+by the State Treasurer to be necessary to pay bond-related costs as defined in ORS 286A.560.
+SECTION 8.
+(1) For the  biennium beginning July 1, 2017, at the request of the Oregon
+Department of  Administrative Services, in consultation with the Department of Transporta-
+tion, the State  Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+286A.585 in an amount that produces $30 million in net  proceeds and interest earnings for
+the purpose described in subsection (2) of this section, plus an additional amount estimated
+by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued  pursuant to this section and interest earnings
+must be transferred to the Department of Transportation for  deposit in the Connect Oregon
+Fund established under ORS 367.080 in an amount sufficient to provide $30 million for the
+department to finance grants  for transportation projects as provided in ORS 367.080 to
+367.086.
+(3) Bond-related costs for the  lottery bonds authorized by this section must be paid from
+the gross  proceeds of the lottery bonds and from allocations for the purposes of ORS
+286A.576 (1)(c).
+(4) The Legislative Assembly finds that issuing lottery bonds to finance  transportation
+projects pursuant to this section is essential to  promoting the state’s economic development,
+and the use of lottery bond proceeds is authorized based on the following findings:
+(a) There is  an urgent need to improve and expand publicly owned and privately owned
+transportation infrastructure to support economic development in this state.
+(b) A safe, efficient and reliable transportation network supports  the long-term economic
+development and livability of this state.
+(c) A multimodal network of transportation options moves people and goods efficiently.
+(d) Local governments and private sector businesses often lack capital and the technical
+capacity to undertake multimodal transportation projects.
+(e) Public financial assistance can stimulate industrial growth  and commercial enterprise
+and promote employment opportunities in this state.
+(f) Public investment in transportation infrastructure will create jobs  and further eco-
+nomic development in this state.
+(g) The use of  lottery bond proceeds as provided in this section will create jobs, further
+economic development, finance public education or restore and  protect parks, beaches,
+watersheds and native fish and wildlife within Oregon, and issuance of  lottery bonds for the
+purpose described in this section is therefore an appropriate use of state lottery funds under
+Article XV, section 4, of the Oregon Constitution, and ORS 461.510.
+SECTION 9.
+To the extent that proposed  transportation projects meet the qualifications
+established by the Oregon  Transportation Commission by rule, the commission shall allocate
+Enrolled Senate Bill 5530 (SB 5530-A) Page 5
+at least 10  percent of the net proceeds of the lottery bonds authorized by section 8 of this
+2017 Act to each region described in this section. For purposes of this section, the  regions
+are as follows:
+(1) Region one consists of  Clackamas, Hood River, Multnomah and Washington Counties.
+(2) Region two consists of Benton, Clatsop, Columbia, Lane, Lincoln, Linn, Marion,  Polk,
+Tillamook and Yamhill Counties.
+(3) Region three consists of Coos, Curry, Douglas, Jackson and Josephine Counties.
+(4) Region four  consists of Crook, Deschutes, Gilliam, Jefferson, Klamath, Lake,
+Sherman, Wasco and Wheeler Counties.
+(5) Region five consists of Baker, Grant, Harney, Malheur, Morrow, Umatilla,  Union and
+Wallowa Counties.
+SECTION 10.
+(1) For the biennium beginning July 1, 2017, at  the request of the Oregon
+Department of Administrative Services, after the department consults  with the Department
+of State Lands,  the State Treasurer is authorized to issue lottery bonds pursuant to ORS
+286A.560 to 286A.585 in an amount that produces $3 million in net proceeds and  interest
+earnings for the purposes described in subsection (2) of this section,  plus an additional
+amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $3 million in net proceeds and interest earnings must be transferred  to the Depart-
+ment of State Lands for deposit in the  Portland Harbor Cleanup Fund, established in section
+11 of this 2017 Act, to  provide financial assistance to the department for coordination and
+participation in any contracts or agreements relating  to or arising out of the Portland Har-
+bor Superfund Site. The purposes  of the contracts or agreements may include, but are not
+limited to:
+(a) Investigation necessary to characterize  existing baseline conditions throughout the
+Portland Harbor Superfund Site, as well as conditions upstream and downstream that may
+be impacting the Portland Harbor Superfund Site;
+(b) Investigation of  key sediment management areas to update the extent of areas of
+higher contamination in the Portland Harbor Superfund Site;
+(c) Investigation of potential infrastructure needs related  to contaminated sediments in
+the Portland Harbor Superfund Site;
+(d) Development and administration of  a comprehensive data management system for the
+Portland Harbor Superfund Site;
+(e) Satisfaction of some or all  of the department’s obligations under any administrative
+settlement or administrative order on consent in connection with  the Portland Harbor
+Superfund Site; and
+(f) Work required  by the United States Environmental Protection Agency in connection
+with the Portland Harbor Superfund Site.
+(3) In executing  contracts for the work described in subsection (2) of this section, the
+Department of State Lands shall, when practicable, contract  with regional contractors em-
+ploying individuals from communities disproportionately impacted  by contamination in the
+Portland Harbor.
+(4) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and  is authorized based on the following
+findings:
+(a) Having healthy ecosystems supports Oregon’s economic growth and restores
+watersheds and habitat for native fish.
+(b) The future cleanup of the Portland Harbor will enhance community efforts  to facili-
+tate and promote economic growth.
+SECTION 11.
+(1) The Portland Harbor Cleanup Fund is established in the State Treasury,
+separate and distinct from the General Fund. The Portland Harbor Cleanup Fund consists
+Enrolled Senate Bill 5530 (SB 5530-A) Page 6
+of moneys deposited in the fund  under section 10 of this 2017 Act and may include moneys
+appropriated, allocated, deposited or transferred to the fund by the Legislative  Assembly or
+otherwise and interest earned on moneys in the fund.
+(2) Moneys in the fund are continuously appropriated to the Department  of State Lands
+for disbursement for the purposes set forth in section 10 of this 2017 Act.
+(3) Nothing in section 10 or  11 of this 2017 Act waives or limits the department’s ability
+to recover, by way of insurance, cost recovery, contribution, or  claim or action relating to
+or arising out of the  Portland Harbor Superfund Site, monies from other parties, including
+claims for costs incurred by  the department. In no event shall anything in section 10 or 11
+of this  2017 Act be construed as a waiver by the State of Oregon of any form of defense or
+immunity, whether sovereign immunity, governmental immunity, immunity based on  the
+Eleventh Amendment to the United States Constitution or otherwise.
+SECTION 12. (1) For the biennium  beginning July 1, 2017, at the request of the Oregon
+Department of Administrative Services, after the department  consults with the Cascade
+AIDS Project, the State Treasurer is authorized to issue lottery bonds pursuant to  ORS
+286A.560 to  286A.585 in an amount that produces $1 million in net proceeds and interest
+earnings for the purposes  described in subsection (2) of this section, plus an additional
+amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $1 million in net proceeds and interest earnings must be  transferred to the depart-
+ment for  deposit in the ODAS Economic Development Distributions Fund established under
+ORS 461.553 for distribution to the Cascade AIDS Project for acquisition and renovation of
+a primary care and mental health  center for the lesbian, gay, bisexual, transgender, queer,
+and other minority gender identities and sexual orientation community.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife,  and is authorized based on the following
+findings:
+(a) Individuals increase their potential for self-sufficiency and use fewer public resources
+when they have access to health care.
+(b) Individuals who have mental illnesses increase their potential for self-sufficiency and
+use fewer public resources when they have access to mental health services.
+SECTION 13.
+(1) For the biennium  beginning July 1, 2017, at the request of the Oregon
+Department of Administrative Services, after the department consults with  the City of
+Spray, the State Treasurer is authorized to issue lottery bonds pursuant to ORS  286A.560 to
+286A.585 in an amount that produces $725,000 in net  proceeds and interest earnings for the
+purposes described in subsection (2) of this section, plus an additional  amount estimated by
+the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $725,000 in net proceeds and interest  earnings must be transferred to the department
+for deposit in  the ODAS Economic Development Distributions Fund established under ORS
+461.553 for distribution to the City of Spray to construct a public  safety and emergency ser-
+vices center, which includes fire protection and emergency medical services.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+public safety and emergency services are necessary components of a climate  that facilitates
+and encourages economic development.
+SECTION 14. (1) For the biennium beginning July 1, 2017, at  the request of the Oregon
+Department of Administrative Services, after the department consults with  the Eugene Civic
+Alliance, the State Treasurer is authorized to issue  lottery bonds pursuant to ORS 286A.560
+to 286A.585 in an amount that produces $6 million  in net proceeds and interest earnings for
+Enrolled Senate Bill 5530 (SB 5530-A) Page 7
+the purposes described in subsection (2) of this section,  plus an additional amount estimated
+by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $6 million in net proceeds and interest earnings must be  transferred to the depart-
+ment for  deposit in the ODAS Economic Development Distributions Fund established under
+ORS 461.553 for distribution to the Eugene Civic Alliance to redevelop the site  of the former
+Civic Stadium into a community sports and recreation complex.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+improving access to sports and recreation services will enhance the economic viability of  the
+region, create jobs and improve the quality of life for the community.
+SECTION 15. (1) For the biennium beginning July 1, 2017, at  the request of the Oregon
+Department of Administrative Services, after the department  consults with the Family
+Nurturing Center Rogue Valley Children’s  Relief Nursery, the State Treasurer is authorized
+to issue lottery  bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $2
+million in net proceeds and interest earnings for  the purposes described in subsection (2) of
+this section, plus an additional amount estimated by the State Treasurer to  be necessary to
+pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $2 million in net proceeds and interest earnings must be  transferred to the depart-
+ment for  deposit in the ODAS Economic Development Distributions Fund established under
+ORS 461.553 for distribution to the Family  Nurturing Center Rogue Valley Children’s Relief
+Nursery to purchase  and rehabilitate affordable housing adjacent to the Family Nurturing
+Center Campus.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife,  and is authorized based on the following
+findings:
+(a) Having housing for at-risk populations is  essential to Oregon’s healthy economic
+growth.
+(b) A severe shortage of  affordable housing exists in Oregon, and market indicators
+demonstrate a growing gap between the supply of and demand for affordable housing.
+SECTION 16. (1) For the biennium  beginning July 1, 2017, at the request of the Oregon
+Department of Administrative Services, after the department consults with the Gresham
+Redevelopment Commission, the State Treasurer is authorized to issue  lottery bonds pursu-
+ant to ORS 286A.560 to 286A.585 in an amount that produces $2 million in net proceeds and
+interest earnings for the purposes described in subsection (2) of this section, plus an  addi-
+tional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $2 million in net proceeds and interest earnings must be  transferred to the depart-
+ment for  deposit in the ODAS Economic Development Distributions Fund established under
+ORS 461.553 for distribution to the Gresham Redevelopment Commission for the construction
+of an innovation and workforce training center to be  located in the Rockwood neighborhood
+in Gresham.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+training the state’s workforce is essential to Oregon’s healthy economic growth.
+SECTION 17.
+(1) For the biennium  beginning July 1, 2017, at the request of the Oregon
+Department of Administrative  Services, after the department consults with the City of In-
+dependence, the State Treasurer is authorized to issue lottery bonds pursuant  to ORS
+Enrolled Senate Bill 5530 (SB 5530-A) Page 8
+286A.560 to  286A.585 in an amount that produces $1 million in net proceeds and interest
+earnings for the purposes  described in subsection (2) of this section, plus an additional
+amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $1 million in net proceeds and interest earnings must be  transferred to the depart-
+ment for  deposit in the ODAS Economic Development Distributions Fund established under
+ORS 461.553 for distribution to  the City of Independence to continue development of the In-
+dependence Landing site in the City of Independence.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+developing the Independence Landing site will enhance the economic viability of  the region,
+create jobs and improve the quality of life for the community.
+SECTION 18. (1) For the biennium beginning July 1, 2017, at  the request of the Oregon
+Department of Administrative Services, after the department  consults with Klamath County,
+the State Treasurer is authorized to issue  lottery bonds pursuant to ORS 286A.560 to
+286A.585 in an amount that  produces $1 million in net proceeds and interest earnings for the
+purposes described in subsection (2) of this section, plus an additional  amount estimated by
+the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $1 million in net  proceeds and interest earnings must be transferred to the depart-
+ment for deposit in the ODAS Economic Development Distributions Fund established  under
+ORS 461.553 for distribution to Klamath County for construction of  the Klamath Youth In-
+spiration Program residential treatment center in Klamath Falls.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+expanding programs  and services for at-risk youth will facilitate and encourage economic
+development.
+SECTION 19. (1) For the biennium  beginning July 1, 2017, at the request of the Oregon
+Department of Administrative Services, after the department consults with The  Dalles Civic
+Auditorium Historic Preservation  Committee, the State Treasurer is authorized to issue
+lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that  produces $745,000 in
+net proceeds and interest earnings for the purposes described in  subsection (2) of this sec-
+tion, plus an additional amount estimated by the State Treasurer to be  necessary to pay
+bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $745,000 in net proceeds and interest  earnings must be transferred to the department
+for deposit in the ODAS Economic Development Distributions Fund established  under ORS
+461.553 for  distribution to The Dalles Civic Auditorium Historic Preservation Committee to
+continue reconstruction of The Dalles Civic Auditorium theatre.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+improving access to performing arts and cultural activities will enhance the  economic vi-
+ability of the region, create jobs and improve the quality of life for the community.
+SECTION 20. (1) For the biennium  beginning July 1, 2017, at the request of the Oregon
+Department of Administrative Services, after the department consults with  the City of
+Woodburn, the State Treasurer is authorized  to issue lottery bonds pursuant to ORS
+286A.560 to  286A.585 in an amount that produces $1 million in net proceeds and interest
+earnings for the purposes  described in subsection (2) of this section, plus an additional
+amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+Enrolled Senate Bill 5530 (SB 5530-A) Page 9
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $1 million in net proceeds and interest earnings must be  transferred to the depart-
+ment for  deposit in the ODAS Economic Development Distributions Fund established under
+ORS 461.553 for distribution to the  City of Woodburn to develop a community center in
+Woodburn.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+improving access to community services will enhance  the economic viability of the region,
+create jobs and improve the quality of life for the community.
+SECTION 21. (1) For the biennium beginning July 1, 2017, at  the request of the Oregon
+Department of Administrative Services, after the department consults  with the YMCA of
+Marion and Polk Counties,  the State Treasurer is authorized to issue lottery bonds pursuant
+to ORS 286A.560 to 286A.585 in an amount that produces $12  million in net proceeds and in-
+terest earnings for the purposes described in subsection (2) of  this section, plus an additional
+amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $12 million in net proceeds and interest earnings must be transferred to the depart-
+ment for deposit in the ODAS Economic Development Distributions Fund established  under
+ORS 461.553 for distribution to the YMCA of Marion and Polk Counties  to construct a new
+YMCA facility in Salem.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+improving access to sports, recreation and community services will enhance the  economic
+viability of the region, create jobs and improve the quality of life for the community.
+SECTION 22. (1) For the biennium  beginning July 1, 2017, at the request of the Oregon
+Department of Administrative Services, after the department consults with  the Oregon
+Business Development Department, the State Treasurer is authorized to issue lottery  bonds
+pursuant to ORS 286A.560 to 286A.585 in an amount that produces $2,450,000 in net proceeds
+and interest earnings for transfer to the Oregon Business Development Department for  de-
+posit in the Cultural Resources Economic Fund established  in section 6, chapter 786, Oregon
+Laws 2013, to provide grants described in subsection (2) of this section, plus an additional
+amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) The Oregon Business Development Department shall grant:
+(a) $1 million to the Portland Art Museum to finance the Connections Campaign  that will
+connect the Museum’s Main Building to the Mark Building  through the construction of a
+glass pavilion.
+(b) $750,000 to the Friends of the  Oregon Caves and Chateau to finance the Balcony
+Restoration Project that will rebuild the Chateau’s balconies.
+(c) $700,000 to the Eugene Ballet Company to finance the Midtown Arts  Center capital
+construction project.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife,  and is authorized based on the following
+findings:
+(a) The grants described in this section will leverage art and cultural resources to create
+vibrant public spaces that integrate art and cultural and natural amenities, sustain  Oregon’s
+rich arts and cultural experiences and enhance  a strong sense of place and community
+identity.
+Enrolled Senate Bill 5530 (SB 5530-A) Page 10
+(b) The factors described  in paragraph (a) of this subsection have the effect of creating
+jobs, expanding business and tax  revenues and enhancing the economic vitality of Oregon
+communities.
+SECTION 23. Section 6, chapter 786, Oregon Laws 2013, as  amended by section 27, chapter 812,
+Oregon Laws 2015, is amended to read:
+Sec. 6.  (1) The Cultural Resources Economic  Fund is established in the State Treasury, separate
+and distinct from the General Fund. Interest earned on the moneys  in the Cultural Resources Eco-
+nomic Fund shall be  credited to the fund. The Cultural Resources Economic Fund consists of moneys
+deposited in the fund under section 5, chapter 786, Oregon  Laws 2013, and section 26 , chapter 812,
+Oregon Laws 2015, and section 22 of this 2017 Act  [ of this 2015 Act ] and may include fees,  re-
+venues or other income deposited in the fund by the Legislative Assembly.
+(2) Moneys in the fund are continuously appropriated to the Oregon Business Development  for
+disbursement for the purposes set forth in section 5, chapter  786, Oregon Laws 2013, and section
+26, chapter 812, Oregon Laws 2015, and section 22 of this 2017 Act  [ of this 2015 Act ].
+SECTION 24. (1) For the biennium beginning July 1, 2017, at  the request of the Oregon
+Department of Administrative  Services, after the department consults with the Oregon
+Business Development Department, the State Treasurer is authorized to issue lottery bonds
+pursuant to ORS  286A.560 to 286A.585 in an amount that produces $600,000 in net proceeds
+and interest earnings for the  purpose described in subsection (2) of this section, plus an ad-
+ditional amount estimated by the State Treasurer to be  necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $600,000 in net proceeds and interest earnings must be  transferred to the Oregon
+Business Development Department for deposit  in the Brookings Harbor Dock Fund estab-
+lished under section 28a, chapter 812, Oregon Laws 2015, for distribution to the Port  of
+Brookings Harbor for the purpose of repairing and improving docks owned by the port.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife,  and is authorized based on the following
+findings:
+(a) Docks are an integral part of  the commercial and industrial infrastructure of this
+state.
+(b) Repair and improvement of  docks will promote economic development within this
+state.
+SECTION 25.  Section 28a, chapter 812, Oregon Laws 2015, is amended to read:
+Sec. 28a.  (1) The Brookings Harbor Dock Fund is established in the State Treasury, separate
+and distinct from the General Fund. Interest earned on the moneys in the Brookings Harbor Dock
+Fund shall be credited to the fund. The Brookings Harbor  Dock Fund consists of moneys deposited
+in the fund  under section 28 , chapter 812, Oregon Laws 2015, and section 24 of this 2017 Act
+[of this 2015 Act ] and may include fees, revenues or other income deposited in the fund by the Leg-
+islative Assembly.
+(2) Moneys  in the fund are continuously appropriated to the Oregon Business Development for
+disbursement for the purposes set forth in section 28 , chapter 812, Oregon Laws 2015, and section
+24 of this 2017 Act  [ of this 2015 Act ].
+SECTION 26.
+(1) For the biennium beginning July 1, 2017, at  the request of the Oregon
+Department of Administrative  Services, after the department consults with the Oregon
+Business Development Department, the State Treasurer is authorized to issue lottery bonds
+pursuant to ORS 286A.560 to 286A.585 in an amount that produces  $2 million in net proceeds
+and interest earnings for the purposes described in  subsection (2) of this section, plus an
+additional amount estimated by  the State Treasurer to be necessary to pay bond-related
+costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $2 million in  net proceeds and interest earnings must be transferred to the Oregon
+Enrolled Senate Bill 5530 (SB 5530-A) Page 11
+Business Development Department for deposit in the OBDD Economic Development  Distrib-
+utions Fund established under section 28 of  this 2017 Act for distribution to the City of Sweet
+Home to upgrade the Sweet Home Wastewater Treatment Plant.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and  is authorized based on the following
+findings:
+(a) Wastewater treatment systems are an integral part  of the commercial and industrial
+infrastructure of this state.
+(b) Improvement of a wastewater treatment plant will  promote economic development
+within this state.
+SECTION 27. (1) For the biennium  beginning July 1, 2017, at the request of the Oregon
+Department of Administrative Services, after the department consults with  the Oregon
+Business Development Department, the State Treasurer is authorized to issue lottery  bonds
+pursuant to ORS 286A.560 to 286A.585 in an amount that produces  $3 million in net proceeds
+and interest earnings for the purposes described in  subsection (2) of this section, plus an
+additional amount estimated by the State Treasurer to be necessary  to pay bond-related
+costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $3 million in net proceeds and interest earnings must be transferred  to the Oregon
+Business Development Department for deposit in the OBDD Economic Development Distrib-
+utions Fund established under section 28 of this 2017  Act for distribution to the Crescent
+Sanitary District to build a wastewater treatment facility.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and  is authorized based on the following
+findings:
+(a) Wastewater treatment systems are an integral part  of the commercial and industrial
+infrastructure of this state.
+(b) Addition of a wastewater treatment facility will  promote economic development
+within this state.
+SECTION 28. (1) The OBDD Economic Development Distributions Fund is established in
+the State Treasury, separate and distinct from the General Fund. Interest earned on  the
+moneys in the OBDD Economic Development  Distributions Fund consists of moneys depos-
+ited in the fund under sections  26 and 27 of this 2017 Act and may include fees, revenues or
+other income deposited into the fund by the Legislative Assembly.
+(2) Moneys in the fund are  continuously appropriated to the Oregon Business Develop-
+ment Department for purposes described in sections 26 and 27 of this 2017 Act.
+SECTION 29. (1) For the biennium beginning July 1, 2017, at  the request of the Oregon
+Department of Administrative  Services, after the department consults with the Oregon
+Business Development Department, the State Treasurer is authorized to issue lottery bonds
+pursuant to ORS 286A.560 to 286A.585 in an amount that produces $3,390,000 in net proceeds
+and interest earnings for the purposes described in  subsection (2) of this section, plus an
+additional amount estimated by  the State Treasurer to be necessary to pay bond-related
+costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $3,390,000 in net proceeds and interest earnings must be  transferred to the Oregon
+Business Development Department for deposit in the American Manufacturing Innovation
+District Fund established  in section 7a, chapter 66, Oregon Laws 2016, for construction of
+access roads to the Oregon Manufacturing Innovation Center Research and  Development
+Facility and Training Center.
+Enrolled Senate Bill 5530 (SB 5530-A) Page 12
+(3) The Legislative Assembly finds that the  use of lottery bonds proceeds with create jobs
+and further economic development, and is authorized based on  the finding that the Oregon
+Manufacturing Innovation Center will enable and encourage the development of  a robust
+manufacturing sector in the Oregon economy.
+SECTION 30. (1) For the biennium beginning July 1, 2017, at  the request of the Oregon
+Department of Administrative Services, after the department consults  with the Department
+of Transportation, the State Treasurer is authorized to issue lottery  bonds pursuant to ORS
+286A.560 to  286A.585 in an amount that produces $2 million in net proceeds and interest
+earnings for the purposes  described in subsection (2) of this section, plus an additional
+amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $2 million in net proceeds and interest earnings must be transferred to the Depart-
+ment of Transportation for deposit in the DOT Economic Development Distributions  Fund
+established in  ORS 461.557 for distribution to the City of Portland for infrastructure im-
+provements on SW Capitol Highway.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+roads are an integral part  of the commercial and industrial infrastructure of this state and
+improvement to roads will promote economic development in this state.
+SECTION 31. (1) For the biennium beginning July 1, 2017, at  the request of the Oregon
+Department of Administrative Services, after the department consults  with the Department
+of Transportation, the State Treasurer is authorized to issue lottery  bonds pursuant to ORS
+286A.560 to  286A.585 in an amount that produces $5 million in net proceeds and interest
+earnings for the purposes  described in subsection (2) of this section, plus an additional
+amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $5 million in net proceeds and interest earnings must be transferred to the Depart-
+ment of Transportation for deposit in the DOT Economic Development Distributions  Fund
+established in ORS 461.557 for distribution to  Lane Transit District for upgrades and im-
+provements to existing transit infrastructure.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+increasing capacity of mass transit systems promotes employment and  economic develop-
+ment by enabling a larger pool of workers to travel to available jobs.
+SECTION 32. (1) For the biennium beginning July 1, 2017, at the  request of the State
+Parks and Recreation Department, the State Treasurer may issue lottery  bonds pursuant to
+ORS 286A.560 to 286A.585 in an amount that  does not exceed $5 million in net proceeds for
+the purposes described in subsection (2) of this section,  plus an additional amount estimated
+by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under  this section in an amount sufficient to
+provide $5 million in net proceeds and interest earnings  must be transferred to the State
+Parks and Recreation Department for deposit into the  Oregon Main Street Revitalization
+Grant Program Fund established in ORS 390.264 to provide grants pursuant to ORS 390.262.
+(3) The Legislative Assembly finds that the use of proceeds of lottery bonds issued  pur-
+suant to this section will create jobs, further  economic development and enhance the eco-
+nomic vitality of Oregon downtowns  and local communities by supporting projects that
+revitalize historic downtown commercial districts,  redevelop and reuse existing buildings,
+facilitate small business relocation and expansion initiatives and  provide assistance, training
+and technical services.
+SECTION 33.  Section 18, chapter 786, Oregon Laws 2013, is amended to read:
+Enrolled Senate Bill 5530 (SB 5530-A) Page 13
+Sec. 18.  (1) For the biennium beginning July  1, 2013, at the request of the Oregon Department
+of Administrative Services, after the department consults with the Port of  Umatilla and the Con-
+federated Tribes of the Umatilla Indian Reservation,  the State Treasurer is authorized to issue lot-
+tery bonds pursuant to  ORS 286A.560 to 286A.585 in an amount that produces $3.5 million in net
+proceeds and interest earnings for the purpose described in subsection (2) of this section, plus an
+additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under this section in an amount sufficient to provide
+$3.5 million in net proceeds and interest earnings  must be transferred to the department for deposit
+in the ODAS Economic Development Distributions Fund established by section 23 of this 2013 Act
+for distribution to the Confederated Tribes  of the Umatilla Indian Reservation for the purpose of
+acquiring, developing and constructing a [ 1.5-mile] 1-mile  road extension connecting the Port of
+Umatilla to certain industrial lands of the Confederated Tribes of the Umatilla Indian Reservation.
+(3) The Legislative Assembly finds that the use of lottery bond  proceeds will create jobs, further
+economic development, finance public education or restore  and protect parks, beaches, watersheds
+and native fish and wildlife, and is authorized based on the finding that extension of the road will
+create jobs and facilitate access and development of industrial lands.
+SECTION 34.
+ Section 23, chapter 812, Oregon Laws 2015, is amended to read:
+Sec. 23.  (1) For the biennium beginning July  1, 2015, at the request of the Oregon Department
+of Administrative Services, after the  department consults with Wheeler County, the State Treasurer
+is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that
+produces $2 million in net proceeds and interest earnings for the purpose described  in subsection
+(2) of this section, plus an additional amount estimated by the  State Treasurer to be necessary to
+pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under this section in an amount sufficient to provide
+$2 million  in net proceeds and interest earnings must be transferred to the department for deposit
+in the ODAS Economic Development Distributions Fund established under ORS 461.553 for distrib-
+ution to Wheeler County for the purpose  of funding the construction of [ an underground fiber optic
+telecommunication line] a telecommunication system .
+(3) The Legislative Assembly finds that the use of lottery bond  proceeds will create jobs, further
+economic development, finance public education or restore  and protect parks, beaches, watersheds
+and native fish and wildlife, and is authorized based on the finding that construction  of a [ fiber optic
+telecommunication line ] telecommunication system  in Wheeler County will bring telecommuting
+jobs into the county and will expand future opportunities  for economic development in the John Day
+river basin.
+SECTION 35.
+This 2017 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2017 Act takes effect
+July 1, 2017.
+Enrolled Senate Bill 5530 (SB 5530-A) Page 14
+Passed by Senate July 6, 2017
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Peter Courtney, President of Senate
+Passed by House July 7, 2017
+..................................................................................
+Tina Kotek, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2017
+Approved:
+........................M.,........................................................., 2017
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2017
+..................................................................................
+Dennis Richardson, Secretary of State
+Enrolled Senate Bill 5530 (SB 5530-A) Page 15
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 285A.020, ORS 285A.188, ORS 285A.213, ORS 285A.227, ORS 285A.708, ORS 285B.092, ORS 285B.410, ORS 285B.455, ORS 285B.456, ORS 285B.551, ORS 285B.563, ORS 286A.560, ORS 286A.576, ORS 367.080, ORS 390.262, ORS 390.264, ORS 461.510, ORS 461.553, ORS 461.557, ORS 541.576, ORS 541.656, ORS 777.267
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `f5725505b2a62066602621e39803c4ad444377202aa1849d2fbcc9a4e95c431b` (snapshot `_meta/snapshots/measure-2017r1-sb5530-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB5530/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `caca9c4e3ec23970846c62aa62282d8d3f31fe435047fa25ff66fc5356c4538d` (snapshot `_meta/snapshots/measure-2017r1-sb5530-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB5530/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 5530` (part of the batched per-session fetch), sha256 `8a531c771f7c0531d1b6a422bf18d037d210e0e6cb92f247a009fd99e6400c68` of the shared session snapshot `_meta/snapshots/measures-2017r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

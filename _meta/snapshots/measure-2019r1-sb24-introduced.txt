@@ -1,0 +1,531 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Senate Bill 24
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Governor Kate Brown for Oregon Health Authority)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Modifies  procedures  related to criminal defendants lacking fitness to proceed. Provides that
+court-ordered consultation with community mental  health program director or director’s designee
+occur after examination and before court’s determination of defendant’s fitness to proceed.
+Provides that defendant committed to state mental hospital or other facility for examination on
+issue of fitness to proceed or  mental defense be transported to hospital or facility for examination,
+after which superintendent of hospital or director of facility  may order defendant transported back
+or kept for treatment. Extends time period of commitment for  mental defense examination from 30
+days to 60 days.
+Authorizes Oregon Health Authority to provide copy of evaluation or progress report  concern-
+ing defendant’s fitness to proceed to community mental health program director of county  in which
+defendant is charged.
+Restricts circumstances in which  court may commit defendant lacking fitness to proceed to state
+mental hospital or other facility.
+Provides that defendant committed for treatment to restore  fitness to proceed receive credit for
+time served in jail both before and after commitment.
+Directs authority to assign to each county maximum number  of beds in state mental hospital
+or other facility to which defendants from county may be  committed for purposes relating to fitness
+to proceed. Authorizes counties to enter into agreements with other counties for use  of unoccupied
+beds and payment to authority of per diem fee.
+A BILL FOR AN ACT
+Relating to forensic evaluations; creating  new provisions; and amending ORS 161.315, 161.365 and
+161.370.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 161.365 is amended to read:
+161.365. (1) When the court has reason to doubt the defendant’s fitness to proceed by  reason of
+incapacity as described in ORS  161.360, the court may call any witness to its assistance in reaching
+its decision [ and shall order that a community mental health program director or  the director’s
+designee consult with the  defendant to determine whether services and supervision necessary to safely
+restore the defendant’s fitness to proceed are available in the community.  After the consultation, the
+program director or the director’s designee shall provide to the court a copy of the findings resulting
+from the consultation ]. If the court determines the assistance  of a psychiatrist or psychologist would
+be helpful, the court may:
+(a) Order that  a psychiatric or psychological examination of the defendant be conducted by a
+certified evaluator as defined in ORS 161.309 and a report of the examination be prepared; or
+(b) Order the defendant to be committed for  the purpose of an examination  and treatment  for
+a period  not exceeding 30 days to a state mental hospital or other facility designated by the Oregon
+Health Authority  if the defendant is at least 18 years of age, or to a secure intensive community
+inpatient facility designated by the authority if the defendant is under 18 years of age.
+(2) A defendant committed under subsection (1)(b) of this section shall  be transported to
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 383
+SB 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the state mental hospital or other  facility for the examination. At the conclusion of the ex-
+amination, the superintendent of the state mental hospital  or the superintendent’s designee
+or the director of the facility may:
+(a) Order the  defendant returned to the facility from which the defendant was trans-
+ported; or
+(b) Order that the defendant remain at the hospital or facility for treatment.
+[(2)] (3)  The report of an examination described in this section  must include, but is not neces-
+sarily limited to, the following:
+(a) A description of the nature of the examination;
+(b) A statement of the mental condition of the defendant;
+(c) If the defendant suffers from a qualifying mental disorder, an opinion as  to whether the de-
+fendant is incapacitated within the description set out in ORS 161.360; and
+(d) If the defendant is incapacitated  within the description set out in ORS 161.360, a recom-
+mendation of treatment and services necessary to restore capacity.
+[(3)] (4)  Except when the  defendant and the court both request to the contrary, the report may
+not contain any findings or conclusions as to whether the defendant as a result  of a qualifying
+mental disorder was subject to the provisions of ORS 161.295 or 161.300 at the time of the criminal
+act charged.
+[(4)] (5)  If the examination by the psychiatrist or psychologist cannot be conducted by reason
+of the unwillingness of the defendant to participate in the examination, the report must so state  and
+must include,  if possible, an opinion as to whether the unwillingness of the defendant was the result
+of a qualifying mental disorder affecting capacity to proceed.
+[(5)] (6)  The report must be filed with the clerk of the court, who shall cause  copies to be de-
+livered to the district attorney and to counsel for defendant.
+[(6)(a)] (7)(a)  When upon motion of the  court or a financially eligible defendant, the court has
+ordered a psychiatric or psychological examination of the defendant, a  county or justice court shall
+order the county to pay, and a  circuit court shall order the public defense services executive di-
+rector to pay from funds available for the purpose:
+(A) A reasonable fee if the examination of the defendant  is conducted by a psychiatrist or psy-
+chologist in private practice; and
+(B) All costs including transportation of the defendant if the examination is conducted by  a
+psychiatrist or psychologist in the  employ of the Oregon Health Authority or a community mental
+health program established under ORS 430.610 to 430.670.
+(b) When an examination is ordered  at the request or with the acquiescence of a defendant who
+is determined not to be financially eligible, the examination shall be performed at the defendant’s
+expense. When an examination is ordered at the request of the prosecution, the county shall pay for
+the expense of the examination.
+[(7) The Oregon Health Authority shall establish by rule standards  for the consultation described
+in subsection (1) of this section. ]
+(8) The Oregon Health Authority may provide a copy of a report  resulting from an ex-
+amination of a defendant under this section to  the community mental health program di-
+rector in the county in which the defendant is charged.
+SECTION 2.
+ ORS 161.370 is amended to read:
+161.370. (1)(a) When the defendant’s fitness to proceed is drawn in question, the issue shall  be
+determined by the court. Prior to  the determination, the court shall order that a community
+[2]
+SB 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+mental health program director or the director’s designee consult  with the defendant to de-
+termine whether services and supervision necessary  to safely restore the defendant’s fitness
+to proceed are available in  the community. After the consultation, the program director or
+the director’s designee shall provide to the court a copy of the findings resulting from the
+consultation.
+(b) If neither the prosecuting attorney nor counsel for the defendant  contests the finding of the
+report filed under ORS 161.365, the court may make the determination on the basis of  the report.
+If the finding is contested, the court shall hold a hearing on the issue. If the report is  received in
+evidence  in  the hearing, the party who contests the finding has the right to summon and to cross-
+examine any psychiatrist or psychologist who submitted the report  and to offer evidence upon the
+issue. Other evidence regarding the  defendant’s fitness to proceed may be introduced by either
+party.
+(2) If the court determines  that the defendant lacks fitness to proceed, the criminal proceeding
+against the defendant shall be suspended and:
+(a) Except as provided in subsection (3) of this section,  if  the court finds that the defendant
+is dangerous to self or others as a result of a qualifying mental disorder, or  that, based on the
+findings resulting  from the consultation described in [ ORS 161.365 (1) ] subsection (1) of this sec-
+tion and from any  information provided by community-based mental health providers , the
+services and supervision necessary to restore the  defendant’s fitness to proceed are not available in
+the community, the  court shall commit the defendant to the custody of the superintendent of a state
+mental hospital or director of a facility[ ,] designated by the  Oregon Health Authority[ ,] if the de-
+fendant is at least 18 years of age, or to the custody of the  director of a secure intensive community
+inpatient facility designated by the authority if the defendant is under 18 years of age; or
+(b) If the court does not make a finding described in paragraph (a) of this subsection, if the
+circumstances in subsection (3) of this section apply or if  the court determines that care other
+than commitment for incapacity to stand trial would better serve  the defendant and the community,
+the court shall release the defendant on supervision for as long as the unfitness endures.
+(3)(a) If the most serious offense in the charging instrument  is a misdemeanor, the court
+may not commit the  defendant under subsection (2)(a) of this section without a determi-
+nation by a certified evaluator as defined in ORS 161.309 that the defendant requires a hos-
+pital level of care.
+(b) The court may not commit a defendant under  paragraph (a) of this subsection if the
+defendant is charged only with one or more violations of a municipal ordinance.
+[(3)] (4) When a defendant is released on supervision under subsection (2)(b) of this section,  the
+court may place conditions that the court deems appropriate on the release, including the require-
+ment that the defendant regularly report to the authority  or a community mental health program for
+examination to determine if the defendant has gained or regained capacity to stand trial.
+[(4)] (5) When the court, on its own motion  or upon the application of the superintendent of the
+hospital or director of the  facility in which the defendant is committed, a person examining the de-
+fendant as a condition of release on supervision, or either party, determines, after a hearing,  if a
+hearing is requested, that the  defendant has gained or regained fitness to proceed, the criminal
+proceeding shall be resumed. If, however, the court is of the view that so  much time has elapsed
+since the commitment or release of the  defendant on supervision that it would be unjust to resume
+the criminal proceeding, the court on motion of either party may dismiss the charge  and may order
+the defendant to be discharged or cause a proceeding to  be commenced forthwith under ORS 426.070
+[3]
+SB 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to 426.170 or 427.235 to 427.290.
+[(5)] (6)  The superintendent of a state hospital or director of a facility  to which the defendant
+is committed shall cause the defendant to  be evaluated within 60 days from the defendant’s delivery
+into the superintendent’s or director’s custody, for  the purpose of determining whether there is a
+substantial probability that, in the foreseeable future, the defendant will have the  capacity to stand
+trial. In addition, the superintendent or director shall:
+(a) Immediately notify the committing court if the defendant, at any time, gains or regains  the
+capacity to stand trial or will never have the capacity to stand trial.
+(b) Within 90 days of the defendant’s delivery into the superintendent’s or  director’s custody,
+notify the committing court that:
+(A) The defendant has the present capacity to stand trial;
+(B) There is no substantial probability that, in the foreseeable future,  the defendant will gain
+or regain the capacity to stand trial; or
+(C) There is a substantial probability that,  in the foreseeable future, the defendant will gain or
+regain the capacity to stand trial. If the  probability exists, the superintendent or director shall give
+the court an estimate  of the time in which the defendant, with appropriate treatment, is expected
+to gain or regain capacity.
+[(6)(a)] (7)(a)  If the superintendent or director determines  that there is a substantial probability
+that, in the foreseeable future, the defendant will gain or regain  the capacity to stand trial, unless
+the court otherwise orders, the defendant shall remain in the superintendent’s or director’s  custody
+where the defendant shall receive treatment designed for the purpose of enabling the  defendant to
+gain or  regain capacity. In keeping with the notice requirement under subsection [ (5)(b)] (6)(b)  of
+this section, the superintendent or director shall, for the duration of the  defendant’s period of com-
+mitment, submit a  progress report to the committing court, concerning the defendant’s capacity or
+incapacity, at least once every 180 days as measured from the date of  the defendant’s delivery into
+the superintendent’s or director’s custody.
+(b) Notwithstanding paragraph (a) of this subsection, if the superintendent or director deter-
+mines that a defendant committed under this section is no longer dangerous to self  or others as a
+result of a qualifying mental disorder, or that the services and supervision necessary to  restore the
+defendant’s fitness to proceed  are available in the community, the superintendent or director shall
+file notice of that determination with the court. Upon receipt of the  notice, the court shall order
+the person released on supervision as described in subsection [ (3)] (4) of this section.
+(c) A progress report described in paragraph (a) of this subsection may consist of an update to:
+(A) The original examination report conducted under ORS 161.365; or
+(B) An evaluation conducted under subsection [ (5)] (6)  of this section, if the defendant did not
+receive an examination under ORS 161.365.
+[(7)(a)] (8)(a)  A defendant who remains  committed under subsection [ (6)] (7) of this section shall
+be discharged  within a period of time that is reasonable for making a determination concerning
+whether or not, and when, the defendant may gain or regain  capacity. However, regardless of the
+number of charges with  which the defendant is accused, in no event shall the defendant be com-
+mitted for longer than whichever of the following, measured from  the defendant’s initial custody
+date, is shorter:
+(A) Three years; or
+(B) A period of time equal to the  maximum sentence the court could have imposed if the de-
+fendant had been convicted.
+[4]
+SB 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) For purposes of calculating the maximum period of  commitment described in paragraph (a)
+of this subsection:
+(A) The initial custody date is the  date on which the defendant is first committed under this
+section on any charge alleged in the accusatory instrument; and
+(B) The defendant shall be given credit against each  charge alleged in the accusatory instru-
+ment:
+(i) For  each day the defendant is committed under this section, whether the days are consecutive
+or are interrupted by a period of time during which the defendant has  gained or regained fitness to
+proceed;  and
+(ii) Unless the defendant is charged with aggravated murder or a crime listed in ORS  137.700
+(2), for each day the defendant is  held in jail  before and after the date the defendant is first
+committed, whether the days are consecutive or are interrupted by  a period of time during which
+the defendant lacks fitness to proceed.
+[(8)] (9) The superintendent or director shall notify  the committing court of the defendant’s im-
+pending discharge 30 days  before the date on which the superintendent or director is required to
+discharge the defendant under subsection [ (7)] (8) of this section.
+[(9)] (10) When the committing  court receives a notice from the superintendent or director under
+subsection [ (5)] (6)  or [ (8)] (9)  of this section concerning the defendant’s progress or lack  thereof,
+the committing court shall determine, after a  hearing, if a hearing is requested, whether the de-
+fendant presently has the capacity to stand trial.
+[(10)] (11)  If at any time the court  determines that the defendant lacks the capacity to stand
+trial, the court shall further determine whether there is a substantial probability  that the defendant,
+in the foreseeable future, will gain  or regain the capacity to stand trial and whether the defendant
+is entitled to discharge under subsection [ (7)] (8) of  this section. If the court determines that there
+is no substantial probability that the defendant, in  the foreseeable future, will gain or regain the
+capacity to stand trial or that the defendant is entitled  to discharge under subsection [ (7)] (8) of this
+section, the court shall dismiss, without prejudice, all charges against the defendant and:
+(a) Order that the defendant be discharged; or
+(b) Initiate commitment proceedings under ORS 426.070 or 427.235 to 427.290.
+[(11)] (12) All notices required under this  section shall be filed with the clerk of the court and
+delivered to both the district attorney and the counsel for the defendant.
+[(12)] (13) If the defendant gains or regains fitness to proceed,  the term of any sentence received
+by the defendant for conviction  of the crime charged shall be reduced by the amount of time the
+defendant was committed under this section to  the custody of a state mental hospital, or to the
+custody of a secure intensive community inpatient facility[ ,] designated by the Oregon Health  Au-
+thority.
+[(13)] (14) Notwithstanding the  suspension of the criminal proceeding under subsection (2) of this
+section,  the  fact that the defendant is unfit to proceed does not preclude any objection through
+counsel  and  without the personal participation of the defendant on the grounds that the indictment
+is insufficient, that the statute of limitations has run, that double jeopardy  principles apply or upon
+any other ground at the discretion of the court which the court deems  susceptible of fair determi-
+nation prior to trial.
+[(14)] (15)  At the time that the court determines that the  defendant lacks fitness to proceed
+under subsection (2) of this section, the court shall notify the  defendant that federal law prohibits
+the defendant from purchasing or possessing a firearm unless the person obtains relief from the
+[5]
+SB 24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+prohibition under federal law. The court shall again notify the defendant of the  prohibition if the
+court finds that the defendant has gained or regained fitness to proceed  under subsection [ (4)] (5)
+of this section.
+(16) The Oregon Health Authority may  provide a copy of a defendant’s progress report
+or evaluation described in this section to the community  mental health program director,
+or the director’s designee, in the county in which the defendant is charged.
+(17) The Oregon Health Authority shall establish  by rule standards for the consultation
+described in subsection (1) of this section.
+SECTION 3.  ORS 161.315 is amended to read:
+161.315. (1) Upon filing of notice or the  introduction of evidence by the defendant as provided
+in ORS 161.309,  the state shall have the right to have at least one psychiatrist or licensed psychol-
+ogist of its selection examine the defendant.  The state shall file notice with the court of its intention
+to have the defendant examined.
+(2)(a) Upon filing of the notice, the  court, in its discretion, may order the defendant committed
+to a state institution or any other suitable facility, if  the defendant is 18 years of age or older, for
+observation , [ and] examination  and treatment  as the  court may designate for a period not to ex-
+ceed [ 30] 60 days.
+(b) If the defendant is under 18 years of age, upon filing of the notice, the court, in its discretion,
+may order the defendant committed to a secure intensive community inpatient facility  designated
+by the Oregon Health Authority for observation , [ and] examination and treatment  as the court
+may designate for a period not to exceed [ 30] 60 days.
+(3) A defendant committed  under subsection (2) of this section shall be transported to the
+state institution or other facility for the examination. At the conclusion of  the examination,
+the superintendent of the state institution or  the superintendent’s designee or the director
+of the facility may:
+(a) Order the defendant returned to the facility from which the defendant  was trans-
+ported; or
+(b) Order that the defendant remain at the institution or facility for treatment.
+[(3)] (4)  If the defendant objects to the examiner chosen by the state, the  court for good cause
+shown may direct the state to select a different examiner.
+[(4)] (5)  An examiner performing an examination on the issue of  insanity of a defendant under
+this section is not obligated  to examine the defendant for fitness to proceed unless, during the ex-
+amination, the examiner determines that the defendant’s fitness to proceed is drawn in question.
+SECTION 4. (1) The Oregon Health Authority shall assign to each  county, based on cen-
+sus population figures, the maximum number of beds  in a state mental hospital and other
+facilities designated by the authority that may, at  any one time, be occupied by defendants
+committed from the county to the hospital or other facility under ORS 161.365 and 161.370.
+(2)(a) A county may enter into an  agreement with another county of this state under
+ORS 190.010 for the use of the  other county’s unoccupied beds in a state mental hospital or
+other facility under subsection (1) of this section.
+(b) An agreement entered into under this subsection shall  include a provision that the
+county using another county’s unoccupied beds reimburse the authority on a per diem  basis
+at a rate determined by the authority by rule.
+(3) The authority may adopt rules to carry out the provisions of this section.
+[6]

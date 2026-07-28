@@ -1,0 +1,179 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1589
+Sponsored by Senator  GOLDEN, Representative SOSA, Senator MANNING JR; Senators FREDERICK, PHAM K,
+Representatives ANDERSEN, CHAICHI, EVANS, GAMBA, MARSH, PHAM H (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that lobbyists must give certain  information to the OGEC. (Flesch Read-
+ability Score: 67.7).
+Requires lobbyists to provide a notice to the Oregon  Government Ethics Commission regarding
+certain  information  about the lobbyist’s representation of certain clients, the lobbyist’s compensation
+and the lobbyist’s new or different position on legislative action or administrative action. Provides
+for the contents of the notice.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to  lobbying; creating new provisions; amending ORS 171.756 and 171.772; and prescribing
+an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this  2026 Act is added to and made a part of ORS 171.740 to
+171.762.
+SECTION 2. (1) A lobbyist registered with the Oregon Government Ethics  Commission,
+or required to register with the commission, that represents more than one client  concur-
+rently shall file a notice with the commission within three business days after:
+(a) The lobbyist agrees to be a lobbyist with regard to new  legislative action or adminis-
+trative action for a new or existing client; or
+(b) The lobbyist takes a new or different position on new or existing  legislative action or
+administrative action for any new or existing client.
+(2) For any notice required under subsection (1) of  this section, the lobbyist shall specify
+the legislative action or administrative action and  include whether the new or existing client,
+at the time  the lobbyist agrees to be a lobbyist for the client or takes a new or different
+position:
+(a) Supports the legislative action or administrative action;
+(b) Supports the legislative action or administrative action if the action is amended;
+(c) Opposes the legislative action or administrative action;
+(d) Opposes the legislative action or administrative action unless the action is amended;
+(e) Is neutrally monitoring the legislative action or administrative action;
+(f) Is monitoring the legislative action or administrative  action while seeking an amend-
+ment to the action; or
+(g) Is monitoring the legislative action or administrative action with concerns.
+(3) A lobbyist who is an attorney:
+(a) Shall provide the notice required under subsection  (1) of this section in the same
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 140
+SB 1589
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+manner as a lobbyist who is not an attorney; and
+(b) May not invoke an attorney-client privilege or decline to  provide the notice as pro-
+tected from disclosure as confidential matters between an attorney and a client.
+(4) A lobbyist who is required to provide notice  under this section shall file with the
+commission, in accordance with the schedule described  in ORS 171.752, a statement that in-
+cludes the  total compensation received by the lobbyist from each client that is the subject
+of the notice during the applicable reporting period.
+(5) The commission may adopt rules to administer this section.
+(6) For purposes of this section:
+(a) “Client” means a person for whom a lobbyist provides personal services for money
+or any other consideration for the purpose of lobbying.
+(b) “Administrative action” includes any rule or  regulation being promulgated by an
+executive agency.
+SECTION 3.
+ ORS 171.756 is amended to read:
+171.756. (1) A lobbyist may not  instigate the introduction of any legislative action for the pur-
+pose of obtaining employment to lobby in opposition to the legislative action.
+(2) A lobbyist may not attempt to  influence the vote of any member of the Legislative Assembly
+by the promise of financial support of the candidacy of the member, or by threat of financing  oppo-
+sition to the candidacy of the member, at any future election.
+(3) A person may not lobby or offer to lobby for consideration any part of  which is contingent
+upon the success of any lobbying activity.
+(4) A legislative or executive  official may not receive consideration other than from the State
+of Oregon for acting as a lobbyist in Oregon.
+(5) A lobbyist may not knowingly  deceive or attempt to deceive a member of the Legis-
+lative Assembly regarding the facts related to any pending or proposed legislative action  or
+administrative action, as defined in section 2 of this 2026 Act.
+(6) A lobbyist  may not knowingly represent an interest adverse to a client of the lobbyist
+without full disclosure of the adverse interest to the client and without  obtaining the client’s
+written consent.
+SECTION 4.  ORS 171.772 is amended to read:
+171.772. In carrying out  the provisions of ORS 171.725 to 171.785, the Oregon Government Ethics
+Commission shall:
+(1) Prescribe by rule forms for registrations, statements [ and reports ], reports and notices  re-
+quired to be filed by ORS 171.725 to 171.785 and provide the forms to persons required to  register
+with the commission  and to file the statements [ and reports ], reports and notices .
+(2) Accept and file any information voluntarily  supplied to the commission  that exceeds the
+requirements of ORS 171.725 to 171.785.
+(3) Make [ registrations, statements and  reports ] any registration, statement, report and notice
+filed with the commission  available for public inspection and copying during  regular office hours,
+and make copying facilities available at a charge not to exceed actual cost.
+(4) Adopt by rule an electronic filing system under which [ statements] any statement  required
+to be filed under ORS 171.745 and 171.750 must be  filed with the commission in an electronic format.
+The commission may not charge a fee for filing a statement under this subsection.
+(5) Provide training on procedures for filing [ statements] any statement  under subsection  (4) of
+this section.
+[2]
+SB 1589
+1
+2
+3
+4
+5
+(6) Make [ statements] any statement filed under ORS 171.745 and 171.750 available  in a
+searchable format for review by the public using the Internet.
+SECTION 5.
+This 2026 Act takes effect on the 91st day after the date on  which the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

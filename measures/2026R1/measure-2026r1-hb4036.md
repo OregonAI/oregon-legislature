@@ -1,0 +1,318 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-hb4036
+title: 'HB 4036 (2026R1): Establishes the Housing Opportunity, Longevity and Durability Fund to deposit
+  Article XI-Q bonds to be used by the Housing and Community Services Department to preserve affordable
+  housing at risk of loss.'
+doc_type: dataset_doc
+citation: 2026 Regular Session House Bill 4036
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4036/Enrolled
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: f343eef9690242f706177994ea7185616daae5babfa1d7c711ef56a869328199
+snapshot_id: measure-2026r1-hb4036-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 192.245
+  - ORS 286A.035
+  - ORS 286A.816
+  - ORS 286A.824
+  - ORS 443.225
+  - ORS 456.548
+  - ORS 456.559
+  - ORS 456.625
+  - ORS 456.710
+  - ORS 456.766
+  - ORS 456.824
+  - ORS 458.480
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- hb
+session_key: 2026R1
+measure_prefix: HB
+measure_number: 4036
+prefix_meaning: House Bill
+catch_line: Establishes the Housing Opportunity, Longevity and Durability Fund to deposit Article XI-Q
+  bonds to be used by the Housing and Community Services Department to preserve affordable housing at
+  risk of loss.
+minority_catch_line: null
+measure_summary: "\tDigest: This Act sets up a bond fund to preserve low-cost housing and requires OHCS\
+  \ to report on low-cost housing barriers. (Flesch Readability Score: 63.8). \n\tEstablishes the Housing\
+  \ Opportunity, Longevity and Durability Fund to deposit Article XI-Q bonds to be used by the Housing\
+  \ and Community Services Department to preserve affordable housing at risk of loss. [<i>Authorizes the\
+  \ State Treasurer to issue $100 million in bonds for the fund for the 2025-2027 biennium.</i>] \n\t\
+  Requires the department to, with input from stakeholders, report to the interim committees of the Legislative\
+  \ Assembly relating to housing on or before December 1, 2026, on legal and policy barriers to affordable\
+  \ housing production. \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to affordable housing; and declaring an emergency.
+relating_to_full: Relating to affordable housing; and declaring an emergency.
+at_the_request_of: (at the request of House Interim Committee on Housing and Homelessness for Representative
+  Pam Marsh)
+lc_number: 209
+measure_created_date: '2026-01-15T09:47:17'
+measure_modified_date: '2026-04-13T08:35:02'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 13272
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 192.245
+  - ORS 286A.035
+  - ORS 286A.816
+  - ORS 286A.824
+  - ORS 443.225
+  - ORS 456.548
+  - ORS 456.559
+  - ORS 456.625
+  - ORS 456.710
+  - ORS 456.766
+  - ORS 456.824
+  - ORS 458.480
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4036`.
+
+# HB 4036 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** House Bill 4036, 2026 Regular Session (2026R1)
+- **At the request of:** (at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)
+- **LC number:** 209
+- **Created:** 2026-01-15T09:47:17
+- **Metadata last modified (upstream):** 2026-04-13T08:35:02
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 13272 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4036/Enrolled>.
+
+## Summary
+
+**Catchline:** Establishes the Housing Opportunity, Longevity and Durability Fund to deposit Article XI-Q bonds to be used by the Housing and Community Services Department to preserve affordable housing at risk of loss.
+
+**Relating to:** Relating to affordable housing; and declaring an emergency.
+
+Digest: This Act sets up a bond fund to preserve low-cost housing and requires OHCS to report on low-cost housing barriers. (Flesch Readability Score: 63.8). 
+ Establishes the Housing Opportunity, Longevity and Durability Fund to deposit Article XI-Q bonds to be used by the Housing and Community Services Department to preserve affordable housing at risk of loss. [<i>Authorizes the State Treasurer to issue $100 million in bonds for the fund for the 2025-2027 biennium.</i>] 
+ Requires the department to, with input from stakeholders, report to the interim committees of the Legislative Assembly relating to housing on or before December 1, 2026, on legal and policy barriers to affordable housing production. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to affordable housing; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+House Bill 4036
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House In-
+terim Committee on Housing and Homelessness for Representative Pam Marsh)
+CHAPTER .................................................
+AN ACT
+Relating to affordable housing; creating new provisions; amending ORS 456.559  and 456.824; and
+declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Section 2 of  this 2026 Act is added to and made a part of ORS 456.766 to
+456.828.
+SECTION 2. (1) The Housing Opportunity, Longevity and Durability Fund is established
+in the State Treasury, separate and distinct from  the General Fund. Interest earned on
+moneys in the Housing Opportunity, Longevity and Durability Fund shall be credited to the
+fund.
+(2) The fund  consists of moneys deposited into the fund from bonds issued by the State
+Treasurer pursuant to ORS 286A.035 for the Housing and Community Services Department
+to be used for affordable housing preservation.
+(3) Moneys in the fund are continuously appropriated to the department to:
+(a) Acquire, construct, remodel,  repair, equip or furnish affordable housing at risk of
+loss, as described in ORS 456.824 (2), that is or will be owned or operated, as those terms are
+defined in ORS 458.480, by the State of Oregon for the purpose  of providing affordable hous-
+ing;
+(b) Pay the costs incurred by the department to administer the fund; and
+(c) Pay bond-related costs, as defined in ORS 286A.816.
+SECTION 3.
+On or before December 1, 2026, the Housing and Community  Services De-
+partment shall submit a report in the manner provided by ORS 192.245 to the interim com-
+mittees of the Legislative Assembly related to housing that  incorporates feedback from key
+stakeholders, including affordable housing providers, finance entities and tenant advocates,
+and that:
+(1) Evaluates the  impact of and offers improvements to any state laws or practices, pol-
+icies or rules of the department that negatively impact the  efficiency, effectiveness and cost
+of operating affordable housing, including impacts to  leasing, screening applicants, filling
+vacancies, maintaining tenant  wait lists, recertifying tenants, conducting inspections, col-
+lecting rent, managing property and complying with regulations; and
+(2) Evaluates opportunities to streamline, reduce or eliminate reporting  requirements of
+affordable housing providers for state and federal programs and funding sources that  are
+administered by the department.
+SECTION 4.
+ ORS 456.824 is amended to read:
+Enrolled House Bill 4036 (HB 4036-B) Page 1
+456.824. The  Housing and Community Services Department shall establish and maintain an af-
+fordable housing preservation program to coordinate affordable housing preservation efforts  and
+incentivize the analysis and preservation of affordable housing, including publicly  supported housing
+and manufactured dwelling parks. Under the program, the department shall:
+(1) Collect and maintain data from local, state and  federal sources on affordable housing in this
+state, including the status  of existing affordability restrictions and rental assistance contracts at
+publicly supported housing.
+(2) Identify categories of affordable housing at risk of loss, including:
+(a) Properties with expiring federal rent assistance contracts;
+(b) Properties with expiring affordability restrictions;
+(c) Properties with  affordability restrictions in [ physical or financial distress ] financial or
+physical distress, including physical  distress that requires rehabilitation, repair or replace-
+ment of such building systems, components or materials that have exceeded,  or within a
+reasonable period will exceed, their effective useful lives ; and
+(d) Manufactured dwelling parks at risk of sale or closure.
+(3) Take actions to promote housing stability, for residents of:
+(a) Affordable housing that is at risk of loss or that has been recently lost; or
+(b) Residents of manufactured dwelling parks or marinas at risk of sale or closure.
+(4) Establish and periodically update evaluation criteria for affordable  housing preservation
+[investments].
+(5) Identify and aggregate available sources of funding, including moneys available from  federal
+and private grants or programs, appropriations by the Legislative Assembly, existing  funds of the
+department or financing available from Article XI-Q bond proceeds under ORS  286A.824 or 458.480
+to 458.490 or section 2 of this 2026 Act  or proceeds of other bonds issued by the State  Treasurer,
+and use such sources of funding to implement preservation [ investments for ] of  affordable housing
+in accordance with the established evaluation criteria.
+(6) Regularly analyze operating expenses  of the existing portfolio of publicly supported housing
+that is funded by the department to inform the department’s underwriting  standards for financing
+the construction of new and the  preservation of existing publicly supported housing and to inform
+forecasts of preservation funding needs.
+(7) Regularly update and  publish an affordable housing preservation strategy framework report
+that includes information identified in subsections (1) and (2) of this section and forecasts the  fi-
+nancial need to preserve affordable housing.
+(8) Execute the duties of the department under ORS 456.766 to 456.828.
+SECTION 5.
+Notwithstanding any other provision of law, in addition to the amounts ap-
+propriated by section 1 (3), chapter 584, Oregon Laws 2025, for the biennium ending  June 30,
+2027, as modified by legislative or Emergency Board action, the amount  appropriated to the
+Housing and Community Services Department,  for Multifamily Rental Housing Programs, is
+increased by $150,000 for the administration of the Housing Opportunity, Longevity  and Du-
+rability Fund established by section 2 of this 2026 Act.
+SECTION 6. Notwithstanding any other law limiting expenditures, the limitation on ex-
+penditures established by section 2 (3), chapter 584, Oregon Laws  2025, as the maximum limit
+for payment of expenses from fees, moneys or other revenues,  including Miscellaneous Re-
+ceipts and federal funds from the United States Department of  Housing and Urban Develop-
+ment for  contract services, but excluding lottery funds and federal funds not described in
+section 2, chapter 584, Oregon Laws 2025,  collected or received by the Housing and Commu-
+nity Services Department, for Multifamily Rental Housing Programs, is increased by $145,175
+for the administration of the Housing Opportunity, Longevity and Durability  Fund estab-
+lished by section 2 of this 2026 Act.
+SECTION 7.
+ ORS 456.559 is amended to read:
+456.559. (1) The Housing and Community Services Department shall:
+Enrolled House Bill 4036 (HB 4036-B) Page 2
+(a) Maintain current housing data and information concerning available programs, status  of
+funding, programs planned or undertaken which  might conflict with, overlap, duplicate or supersede
+other planned or existing programs and call these to the attention of appropriate state  agencies,
+governmental bodies and public or private housing sponsors.
+(b) Maintain current data on publicly supported housing as provided under ORS 456.824.
+(c) Provide to appropriate state agencies, governmental  bodies and public or private housing
+sponsors such advisory and educational services as will assist them in the development of  housing
+plans and projects.
+(d) Subject to  the approval of the Oregon Housing Stability Council, make noninterest bearing
+advances, in accordance with ORS 456.710 and the  policies of the department, to qualified nonprofit
+sponsors for development costs of housing projects until mortgage funds  are released to repay the
+advances as provided in ORS 456.710.
+(e) Advise and assist  appropriate state agencies, governmental bodies and public or private
+housing sponsors, cities and counties, in all  programs and activities which are designed or might
+tend to fulfill the purposes of ORS 456.548 to 456.828 and ORS chapter 458.
+(f) Encourage and assist in the planning, development, construction,  rehabilitation and conser-
+vation of dwelling units for persons and families of lower income.
+(g) Be  the central state department to apply for, receive and distribute, on behalf of appropriate
+state agencies, governmental bodies and public or private housing sponsors in  the state, grants,
+gifts, contributions, loans, credits or assistance from the federal government or any other source  for
+housing programs except when the donor, grantor, or lender of such funds specifically directs some
+other agency to administer them. Moneys received under this  section shall be deposited with the
+State Treasurer in an account separate and distinct from the General Fund.  Interest earned by the
+account shall be credited to the account.
+(h) For the purposes of acquiring moneys, credits  or other assistance from any agency or
+instrumentality of the United States or from any  public corporation chartered by the United States,
+comply with any applicable agreements or restrictions for the receipt  of such assistance and become
+a member of any such association or public corporation chartered by the United States.
+(i) Assist individuals, appropriate state agencies, governmental bodies  and public or private
+housing sponsors through a  program which provides housing information, planning, educational
+services and technical assistance.
+(j) Comply with the requirements of ORS  443.225 in assisting in the development of any housing
+for residential care, training or  treatment for persons with intellectual or developmental disabilities
+or mental or emotional disturbances.
+(2) Except as otherwise provided in  ORS 456.625 (7), 456.766 to 456.828, 458.315 (3) and 458.480
+to 458.490 and section 2 of this 2026 Act , the department may not  itself develop, construct, reha-
+bilitate or conserve housing  units; and neither the department nor any housing sponsor, including
+but not limited to any association, corporation, cooperative  housing authority or urban renewal
+agency organized to provide housing and other facilities  under ORS 456.548 to 456.828, may own,
+acquire, construct, purchase, lease, operate or maintain utility facilities,  including facilities for the
+generation of electricity, for the distribution of  gas and electricity, and for the conveyance of tele-
+phone and telegraph messages.
+(3) In accordance with the  provisions of this section and with the advice of the council, the
+department shall establish statewide priorities for housing programs.  State agencies shall coordinate
+their housing programs with the department. All state agencies intending to apply for  federal funds
+for use in planning, developing or  managing housing, or rendering assistance to governmental bodies
+or sponsors or individuals involved therein shall submit a description of the proposed  activity to the
+department for review not less than 30 days prior to the  intended date of submission of the appli-
+cation to the federal agency. The department  shall determine whether the proposal would result in
+a program that would overlap, duplicate or conflict with any other housing program in the  state. If
+the department finds overlapping or duplication or conflict, it shall recommend modifications  in the
+application. The Oregon  Department of Administrative Services shall consider these recommenda-
+Enrolled House Bill 4036 (HB 4036-B) Page 3
+tions in making its decision  to approve or disapprove the application. The department shall complete
+its review and forward its recommendations within 15 working days after receipt of the notification.
+Failure of the department to complete the review within that time shall constitute approval of  the
+application by the department.
+(4) The Director of  the Housing and Community Services Department may participate in dis-
+cussions and deliberations of the council. The director may  suggest policies to the council, including
+those necessary to  stimulate and increase the supply of housing for persons and families of lower
+income.
+SECTION 8.
+This 2026 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist, and  this 2026 Act takes effect
+on its passage.
+Passed by House March 4, 2026
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate March 6, 2026
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 4036 (HB 4036-B) Page 4
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 192.245, ORS 286A.035, ORS 286A.816, ORS 286A.824, ORS 443.225, ORS 456.548, ORS 456.559, ORS 456.625, ORS 456.710, ORS 456.766, ORS 456.824, ORS 458.480
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-28, sha256 `f343eef9690242f706177994ea7185616daae5babfa1d7c711ef56a869328199` (snapshot `_meta/snapshots/measure-2026r1-hb4036-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4036/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `e1fa538d2acf10d5899305ddfd4114e745e93c4ec4f19facc8e6a58d9e55fab5` (snapshot `_meta/snapshots/measure-2026r1-hb4036-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4036/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4036` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

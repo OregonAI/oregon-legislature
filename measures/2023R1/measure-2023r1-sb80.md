@@ -1,0 +1,883 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2023r1-sb80
+title: 'SB 80 (2023R1): Makes certain changes related to statewide wildfire hazard map.'
+doc_type: dataset_doc
+citation: 2023 Regular Session Senate Bill 80
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB80/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 8b26a3ac595dd67dfc90133245b323fe1d03d9c1272d2c1546f6ea3d23c2e6cf
+snapshot_id: measure-2023r1-sb80-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 105.550
+  - ORS 181A.410
+  - ORS 183.310
+  - ORS 192.245
+  - ORS 195.137
+  - ORS 215.495
+  - ORS 215.501
+  - ORS 30.271
+  - ORS 326.545
+  - ORS 403.400
+  - ORS 431A.410
+  - ORS 431A.412
+  - ORS 455.612
+  - ORS 455.614
+  - ORS 456.055
+  - ORS 476.390
+  - ORS 476.392
+  - ORS 476.396
+  - ORS 476.690
+  - ORS 477.015
+  - ORS 477.027
+  - ORS 477.068
+  - ORS 477.089
+  - ORS 477.120
+  - ORS 477.205
+  - ORS 477.315
+  - ORS 477.490
+  - ORS 477.503
+  - ORS 477.748
+  - ORS 526.005
+  - ORS 526.328
+  - ORS 526.360
+  - ORS 527.310
+  - ORS 537.545
+  - ORS 90.100
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2023r1
+- sb
+session_key: 2023R1
+measure_prefix: SB
+measure_number: 80
+prefix_meaning: Senate Bill
+catch_line: Makes certain changes related to statewide wildfire hazard map.
+minority_catch_line: null
+measure_summary: "\tMakes certain changes related to statewide wildfire hazard map. \n\t\t<i>Instructs\
+  \ State Board of Forestry to establish four classes of</i>]<b> Makes certain changes related to</b>\
+  \ wildland-urban interface. \n\tEstablishes certain requirements for financial assistance related to\
+  \ defensible space. \n\tEstablishes Landscape Resiliency Fund in State Treasury, separate and distinct\
+  \ from General Fund. Continuously appropriates moneys in fund to State Forestry Department for purposes\
+  \ related to landscape resiliency. \n\tSpecifies permissible sources of moneys in Community Risk Reduction\
+  \ Fund. \n\tMakes certain changes related to cleaner air spaces. \n\tMakes certain changes related to\
+  \ Wildfire Programs Advisory Council. \n\t\t<i>Directs Department of State Fire Marshal to establish\
+  \ and implement Wildfire Home Preparedness Program.</i>] \n\t<b>Instructs State Forestry Department\
+  \ to establish Prescribed Fire Liability Pilot Program. Sunsets program on January 2, 2028. \n\tEstablishes\
+  \ Prescribed Fire Claims Fund in State Treasury, separate and distinct from General Fund. Continuously\
+  \ appropriates moneys in fund to Department of Consumer and Business Services for reimbursing claims\
+  \ under program. \n\tInstructs State Forestry Department to report to Governor and committee or interim\
+  \ committee of Legislative Assembly related to natural resources on program on or before April 1, 2028.</b>\
+  \ \n\tAppropriates moneys to Department of State Fire Marshal for \t<i>purposes related to Wildfire\
+  \ Home Preparedness Program</i>]<b> deposit in Community Risk Reduction Fund</b>. <b>Establishes maximum\
+  \ limit for payment of expenses through fund. \n\tAppropriates moneys to State Forestry Department and\
+  \ Higher Education Coordinating Commission for purposes related to statewide wildfire hazard map or\
+  \ wildland-urban interface. \n\tEstablishes maximum limit for payment of expenses from Prescribed Fire\
+  \ Claims Fund. \n\tAppropriates moneys to State Forestry Department for administration of Prescribed\
+  \ Fire Liability Pilot Program.</b> \n\tDeclares emergency, effective July 1, 2023."
+relating_to: Relating to wildfire; and declaring an emergency.
+relating_to_full: Relating to wildfire; and declaring an emergency.
+at_the_request_of: (at the request of Senate Interim Committee on Natural Resources and Wildfire Recovery)
+lc_number: 2226
+measure_created_date: '2022-12-12T15:16:12'
+measure_modified_date: '2023-08-22T09:06:37'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 47489
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 105.550
+  - ORS 181A.410
+  - ORS 183.310
+  - ORS 192.245
+  - ORS 195.137
+  - ORS 215.495
+  - ORS 215.501
+  - ORS 30.271
+  - ORS 326.545
+  - ORS 403.400
+  - ORS 431A.410
+  - ORS 431A.412
+  - ORS 455.612
+  - ORS 455.614
+  - ORS 456.055
+  - ORS 476.390
+  - ORS 476.392
+  - ORS 476.396
+  - ORS 476.690
+  - ORS 477.015
+  - ORS 477.027
+  - ORS 477.068
+  - ORS 477.089
+  - ORS 477.120
+  - ORS 477.205
+  - ORS 477.315
+  - ORS 477.490
+  - ORS 477.503
+  - ORS 477.748
+  - ORS 526.005
+  - ORS 526.328
+  - ORS 526.360
+  - ORS 527.310
+  - ORS 537.545
+  - ORS 90.100
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 80`.
+
+# SB 80 — 2023 Regular Session (2023R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 80, 2023 Regular Session (2023R1)
+- **At the request of:** (at the request of Senate Interim Committee on Natural Resources and Wildfire Recovery)
+- **LC number:** 2226
+- **Created:** 2022-12-12T15:16:12
+- **Metadata last modified (upstream):** 2023-08-22T09:06:37
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 47489 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB80/Enrolled>.
+
+## Summary
+
+**Catchline:** Makes certain changes related to statewide wildfire hazard map.
+
+**Relating to:** Relating to wildfire; and declaring an emergency.
+
+Makes certain changes related to statewide wildfire hazard map. 
+  <i>Instructs State Board of Forestry to establish four classes of</i>]<b> Makes certain changes related to</b> wildland-urban interface. 
+ Establishes certain requirements for financial assistance related to defensible space. 
+ Establishes Landscape Resiliency Fund in State Treasury, separate and distinct from General Fund. Continuously appropriates moneys in fund to State Forestry Department for purposes related to landscape resiliency. 
+ Specifies permissible sources of moneys in Community Risk Reduction Fund. 
+ Makes certain changes related to cleaner air spaces. 
+ Makes certain changes related to Wildfire Programs Advisory Council. 
+  <i>Directs Department of State Fire Marshal to establish and implement Wildfire Home Preparedness Program.</i>] 
+ <b>Instructs State Forestry Department to establish Prescribed Fire Liability Pilot Program. Sunsets program on January 2, 2028. 
+ Establishes Prescribed Fire Claims Fund in State Treasury, separate and distinct from General Fund. Continuously appropriates moneys in fund to Department of Consumer and Business Services for reimbursing claims under program. 
+ Instructs State Forestry Department to report to Governor and committee or interim committee of Legislative Assembly related to natural resources on program on or before April 1, 2028.</b> 
+ Appropriates moneys to Department of State Fire Marshal for  <i>purposes related to Wildfire Home Preparedness Program</i>]<b> deposit in Community Risk Reduction Fund</b>. <b>Establishes maximum limit for payment of expenses through fund. 
+ Appropriates moneys to State Forestry Department and Higher Education Coordinating Commission for purposes related to statewide wildfire hazard map or wildland-urban interface. 
+ Establishes maximum limit for payment of expenses from Prescribed Fire Claims Fund. 
+ Appropriates moneys to State Forestry Department for administration of Prescribed Fire Liability Pilot Program.</b> 
+ Declares emergency, effective July 1, 2023.
+
+**RelatingToFull (verbatim upstream field):** Relating to wildfire; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Enrolled
+Senate Bill 80
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Senate Interim Committee on Natural Resources and Wildfire  Re-
+covery)
+CHAPTER .................................................
+AN ACT
+Relating to wildfire; creating new provisions; amending ORS 215.495, 431A.410, 431A.412,  455.612,
+476.392, 476.396, 476.690, 477.027, 477.490, 477.748 and 526.360 and sections 11  and 12d, chapter
+592, Oregon Laws 2021; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+STATEWIDE WILDFIRE HAZARD MAP
+SECTION 1.  ORS 477.490 is amended to read:
+477.490. (1) The  State Forestry Department shall oversee the development and maintenance of
+a comprehensive [ statewide map of wildfire  risk ] statewide wildfire hazard map  that displays the
+wildfire [ risk classes ] hazard zones described  in subsection [ (4)] (5) of this section and populates the
+Oregon Wildfire Risk Explorer.
+(2) The purposes of the map are to:
+(a) Educate Oregon residents and property  owners about the residents’ and property
+owners’ wildfire exposure by providing transparent and science-based information.
+(b) Assist in prioritizing fire adaptation and mitigation resources for the most  vulnerable
+locations.
+(c) Identify where defensible space standards and home hardening codes will apply.
+[(2)] (3)  The Oregon Wildfire Risk  Explorer must be the official wildfire planning and [ risk]
+hazard classification mapping tool for the State of Oregon.
+[(3)] (4) The State Board of Forestry shall establish  by rule criteria by which the map must be
+developed and maintained, including criteria concerning the use of the most current wildfire  as-
+sessments.
+[(4)] (5) In consultation with  Oregon State University, the department shall establish [ five] three
+statewide wildfire [ risk classes of ] hazard zones that are titled  [extreme,] high, moderate[ ,] and low
+[and no risk ] hazard zones . The [ classes] zones  must be:
+(a) Consistent with ORS 477.027.
+(b) Based on weather, climate, topography and vegetation.
+[(5)] (6) The department shall enter into an agreement with  the university that provides that the
+university will develop  and maintain the map and make the map publicly available in electronic form
+through the Oregon Wildfire Risk Explorer.
+Enrolled Senate Bill 80 (SB 80-B) Page 1
+[(6)] (7) The board shall adopt rules that:
+(a) Provide opportunities for public  input into the assignment of properties to the wildfire [ risk
+classes] hazard zones  described in subsection [ (4)] (5) of this section.
+(b) Require the department to provide notice and information  to a property  owner whose
+property is assigned to the high hazard zone within  the wildland-urban interface, as defined
+pursuant to ORS 477.027, about the fact that the property has been assigned  to the high
+hazard zone, the effects of the assignment and  [ about] how [ a] the  property owner may  appeal
+[an] the  assignment of the property owner’s property to the [ extreme or ] high [ wildfire risk class ]
+hazard zone.
+(c) Allow affected property owners  and local governments to appeal the assignment of properties
+to the wildfire [ risk classes ] hazard zones  after the map  is developed, after any updates to the map
+and within  a reasonable time after delivery of the notice and information described in paragraph (b)
+of this subsection.
+[(d) Establish a specific process for appeals through which  a requested change in assignment is
+assessed based on: ]
+[(A) Whether the  assignment is consistent with the criteria described in subsection (3) of this sec-
+tion;]
+[(B) Any pertinent facts that may justify a change in the assignment; and ]
+[(C) Any error in  the data the department used to determine the assignment, if the error justifies
+a change in the assignment. ]
+(d) Provide that assignments of properties to the high hazard zone may be appealed as
+a contested case as described in ORS chapter 183.
+(8) Before sending notices described in subsection  (7)(b) of this section, the department
+shall seek review of the notices  by the Wildfire Programs Advisory Council to receive council
+recommendations concerning tone, clarity of language and presentation of information.
+[(7)] (9) The map must:
+(a) Be based on the wildfire [ risk classes ] hazard zones .
+(b) Be sufficiently detailed to allow the assessment of wildfire  [ risk] hazard  at the property-
+ownership level.
+(c) Include the boundaries of the  wildland-urban interface, as defined in ORS 477.015, consistent
+with national standards.
+(d) Include a layer that geospatially displays the locations of  socially and economically vulner-
+able communities.
+(e) Be completed and released expeditiously,  following the collaboration described in
+subsection (10) of this section.
+[(8)] (10) To develop and maintain the map, the department and the university shall collaborate
+with [ the department,] the  State Fire Marshal, other state agencies, local governments, federally re-
+cognized Indian tribes in this state, other public bodies and any other  information sources that the
+university deems appropriate.
+(11) In implementing subsections (7)(a) and  (10) of this section, the department and the
+university shall provide for robust community engagement through a process that:
+(a) Ensures, through the use of clear language, graphics, visuals  and examples, that the
+underlying criteria for assigning  hazard zones are publicly available and comprehensible to
+a public audience.
+(b) Is interactive and does not consist solely of delivering  information in a top-down
+manner.
+(c) Is coordinated with local partners, including counties, relevant state agencies and  the
+Wildfire Programs Advisory Council.
+(12) In addition to the community engagement described in subsection (11) of this section,
+to ensure that local characteristics in each area of this state are considered in the mapping
+process and before the draft map is released, the department shall meet with county  com-
+Enrolled Senate Bill 80 (SB 80-B) Page 2
+missioners and the county commissioners’ staff in eight in-person meetings throughout  this
+state.
+(13) When the draft map is released but before final publication of the map occurs:
+(a) The department shall accept public comment on the map.
+(b) After the meetings described in subsection  (12) of this section, county commissioners,
+upon request by the county commissioners, must have  one additional opportunity, arranged
+and scheduled by the Association of Oregon Counties,  with either in-person attendance or a
+hybrid of in-person and remote attendance, to discuss concerns about  the map and potential
+changes to the map.
+[(9)] (14) In maintaining the map, the university shall make technical adjustments as  needed and
+update the map consistent with  the results of appeals described in subsection [ (6)(b)] (7)(b) of this
+section.
+[(10)] (15) The university shall  provide technical assistance to representatives of state and local
+government, and to landowners, that use the map.
+(16) Agencies of this state shall, as appropriate, use the map layer described in  sub-
+section (9)(d) of this section to:
+(a) Direct resources for wildfire hazard  reduction and wildfire resiliency to those most
+in need; and
+(b) Assist with  identifying communities for extensive, targeted engagement and outreach
+related to wildfire hazard reduction and wildfire resiliency.
+(17) Agencies that use  the map layer described in subsection (9)(d) of this section shall
+conduct outreach:
+(a) In partnership with community leaders and community-based organizations;
+(b) By using different media;
+(c) By disseminating information through local schools, stores, faith-based organizations
+and medical offices; and
+(d) By offering all  information in the languages spoken in the relevant community, as
+practicable.
+WILDLAND-URBAN INTERFACE CRITERIA
+SECTION 2.
+ ORS 477.027 is amended to read:
+477.027. (1) By rule, considering national best practices, the State  Board of Forestry shall es-
+tablish:
+(a) A definition of “wildland-urban interface.”
+(b) Criteria by which the wildland-urban interface must be identified and classified.
+(2) The criteria:
+(a) Must recognize  differences across the state in fire hazard, fire risk and structural charac-
+teristics within the wildland-urban interface.
+(b) May not exclude a category of land from inclusion in the wildland-urban interface.
+(3) Based on the criteria, the [ board shall establish five classes of ] wildland-urban interface[ .]
+[(4) The classes ] must  be integrated into the comprehensive statewide map described in ORS
+477.490.
+FINANCIAL ASSISTANCE RELATED TO DEFENSIBLE SPACE
+SECTION 3.
+ ORS 476.392 is amended to read:
+476.392. (1) The State Fire Marshal shall establish minimum defensible space  requirements for
+wildfire risk reduction on lands in areas identified on the [ statewide map of wildfire risk ] statewide
+wildfire hazard map described in ORS 477.490 as within the wildland-urban interface.
+(2) The State Fire Marshal:
+(a) Shall consult with the Oregon Fire Code Advisory Board to establish the requirements.
+Enrolled Senate Bill 80 (SB 80-B) Page 3
+(b) Shall establish requirements that are consistent with and  do not exceed the standards per-
+taining only to defensible space that are set forth in the International  Wildland-Urban Interface
+Code published by the International  Code Council, including the standards pertaining only to
+defensible space that are set forth in sections 603 and 604 of the code.
+(c) May consider best practices specific to Oregon in order to establish the requirements.
+(d) Shall periodically reexamine the standards set forth in the International  Wildland-Urban
+Interface Code and update the requirements  to reflect current best practices, in consultation with
+the Oregon Fire Code Advisory Board.
+(e) Shall enforce the requirements that are applicable to lands within the  jurisdiction of a local
+government.
+(f) Shall adopt rules governing administration of the requirements.
+(g) May develop and apply a  graduated fee structure for use in assessing penalties on property
+owners for noncompliance with the requirements.
+(h) Shall consult on implementation of the requirements.
+(i) May adopt rules concerning  reports by local governments described in subsection (4)(a) of
+this section.
+(3) Subject to additional  local requirements, the requirements shall apply statewide for all lands
+in the wildland-urban interface that are designated as  [ extreme or high risk ] being in the high
+wildfire hazard zone, as identified on the map.
+(4) Notwithstanding subsection (2) of this section, a local government may:
+(a) Administer, consult on and enforce the requirements  established by the State Fire Marshal,
+within the jurisdiction of the local government. A local government that administers or  enforces the
+requirements established by  the State Fire Marshal shall periodically report to the State Fire Mar-
+shal regarding compliance with the requirements, including the extent of compliance for each prop-
+erty within the  jurisdiction of the local government, any change in the degree of compliance since
+the last report and any other information required by the State Fire Marshal by rule.
+(b) Adopt and enforce local requirements for defensible space that are greater than  the re-
+quirements established by  the State Fire Marshal. Any local requirements that a local government
+adopts for defensible space  must be defensible space standards selected from the framework set forth
+in the International Wildland-Urban Interface Code or other best practices specific to Oregon.
+(c) Designate local fire districts, fire  departments or fire agencies to enforce the requirements
+established by the State Fire Marshal or the local government pursuant to paragraph  (b) of this
+subsection. A local government that designates enforcement must comply with  the reporting re-
+quirements in paragraph (a) of this subsection.
+(5) The State Fire Marshal shall administer a  community risk reduction program that empha-
+sizes education and methods of prevention with respect to wildfire risk, enforcement of defensible
+space requirements, response planning and community preparedness for wildfires.
+(6) The State  Fire Marshal may provide financial, administrative, technical or other assistance
+to a local government to facilitate the administration and enforcement of  requirements within the
+jurisdiction of the local government. A local government shall expend  financial assistance provided
+by the State Fire Marshal under this subsection to give  priority to the creation of defensible space:
+(a) On lands [ owned by ] on which members of socially and economically vulnerable communities,
+persons with limited proficiency in  English and persons of lower income , as defined in ORS
+456.055, reside.
+(b) For critical or emergency infrastructure.
+(c) For schools, hospitals and facilities that serve seniors.
+LANDSCAPE RESILIENCY FUND
+SECTION 4.
+The Landscape Resiliency Fund is established in the State Treasury,  sepa-
+rate and distinct from the General Fund. Interest earned by the Landscape Resiliency Fund
+shall be credited to the fund. The fund  shall consist of all moneys placed in the fund as
+Enrolled Senate Bill 80 (SB 80-B) Page 4
+provided by law and any gifts, grants, donations,  endowments or bequests from any public
+or private  source. Moneys in the fund are continuously appropriated to the State Forestry
+Department for landscape resilience projects and implementing ORS 477.503.
+COMMUNITY RISK REDUCTION FUND
+SECTION 5.  ORS 476.396 is amended to read:
+476.396. The  Community Risk Reduction Fund is established in the State Treasury, separate and
+distinct from the General Fund. Interest earned by the Community Risk  Reduction Fund shall be
+credited to the fund. The fund shall consist of all moneys placed  in the fund as provided by law
+and any gifts, grants, donations, endowments or bequests from  any public or private source,
+including individuals and private organizations.  Moneys in the fund are  continuously appropri-
+ated to the State Fire Marshal for the purpose of carrying out community risk reduction and the
+local government financial assistance described in ORS 476.392.
+CLEANER AIR SPACES
+SECTION 6.
+ ORS 431A.410, as amended by sections 30  and 30a, chapter 86, Oregon Laws 2022,
+is amended to read:
+431A.410. (1) As used in this section:
+(a) “Public education provider” has the meaning given that term in ORS 326.545.
+(b) “Smoke filtration  system” means an air filtration system capable of removing particulates
+and other harmful components of wildfire smoke in a public building.
+(2) In consultation and coordination with the Oregon Health Authority, the Department  of Hu-
+man Services shall establish and implement a grant program that allows local governments,  public
+education providers , [and] federally recognized Indian tribes  in Oregon , nonprofits and faith-based
+organizations to:
+(a) Establish emergency spaces that provide cleaner air, warming or cooling.
+(b) Equip [ public] buildings with:
+(A) Smoke filtration systems so the [ public] buildings may serve as cleaner air  spaces during
+wildfire smoke and other poor air quality events.
+(B) Warming or cooling  facilities so the [ public] buildings may serve as temperate spaces during
+dangerously hot or cold conditions.
+(3) The department shall require grantees to provide access to the spaces at no charge.
+(4) Warming or cooling spaces or facilities receiving grants under  this section shall notify the
+2-1-1 system provided for  in ORS 403.400 to 403.430, regarding the space’s location and capacity and
+shall keep the corporation updated with the space’s hours and dates of operation.
+SECTION 7.
+ ORS 431A.412, as amended by sections 31  and 31a, chapter 86, Oregon Laws 2022,
+is amended to read:
+431A.412. (1) As used in this section[ ,]:
+(a) “Public education provider” has the meaning given that term in ORS 326.545.
+(b) “Support” includes, but is not limited to, providing  technical expertise, equipment,
+staff assistance, training and general assistance.
+(2) The Department  of Human Services is the lead state agency for [ operating] supporting op-
+erations for  spaces that provide cleaner air, warming or cooling. The department shall:
+(a) Consult and collaborate with  the Oregon Health Authority to align practices for voluntary
+evacuations and emergency sheltering operations.
+(b) Coordinate  with the authority in setting priorities for awarding grants described in ORS
+431A.410.
+(c) Provide support to the local agencies, public education providers , [ and] federally recognized
+Indian tribes in Oregon , nonprofits and faith-based  organizations that take lead roles in operat-
+ing and planning spaces that provide cleaner air, warming or cooling.
+Enrolled Senate Bill 80 (SB 80-B) Page 5
+WILDFIRE PROGRAMS ADVISORY COUNCIL
+SECTION 8.  ORS 476.690 is amended to read:
+476.690. (1) As used in this section, “defensible space” has the meaning given that term in  ORS
+476.390.
+(2) There is  established a Wildfire Programs Advisory Council to advise and assist the State
+Wildfire Programs Director by:
+(a) Closely monitoring implementation  of activities related to wildfire prevention and response,
+including receiving and evaluating agency reports related to wildfire prevention and response.
+(b) Providing  advice on potential changes to the activities in order to fulfill the goal of dra-
+matically reducing wildfire risk in this state and ensuring that regional defensible space, building
+codes and land use applications are appropriate.
+(c) Strengthening intergovernmental and multiparty  collaboration and enhancing collaboration
+between governments and stakeholders on an ongoing basis.
+(d) Developing strategies to enhance  collaboration among governmental bodies and the general
+public.
+(e) Assessing ways the [ statewide map of wildfire risk ] statewide wildfire hazard map described
+in ORS 477.490 may inform development of  building codes and land use laws, rules and decisions, in
+a regionally appropriate manner.
+(f) Assessing the application of defensible space requirements to vineyards, crops and other
+cultivated vegetation.
+(g) Reviewing  Department of Land Conservation and Development findings and recommendations
+in the report required by section 11, chapter 592, Oregon Laws 2021, and  making additional recom-
+mendations related to  potential updates to the statewide land use planning program, local compre-
+hensive plans and zoning codes to incorporate  wildfire [ risk] hazard maps and minimize wildfire
+[risk] hazards to people,  public and private property, businesses, infrastructure and natural re-
+sources.
+(3) The council  is not a decision-making body but instead is established to provide advice, as-
+sistance, perspective, ideas and recommendations to the State Wildfire Programs Director.
+(4) The President  of the Senate and Speaker of the House of Representatives shall jointly ap-
+point 19 members to the council as follows:
+(a) One member who represents county government.
+(b) One member who is a  land use planning director of a county that is wholly or partially
+within the wildland-urban interface.
+(c) One member who represents city government.
+(d) One  member who is a land use planning director of a city that is wholly or partially within
+the wildland-urban interface.
+(e) One member who represents fire chiefs and has  experience with managing, fighting or pre-
+venting fire within the wildland-urban interface.
+(f) One member who represents fire marshals and has experience with  managing, fighting or
+preventing fire within the wildland-urban interface.
+(g) One member who represents firefighters and has experience  with managing, fighting or pre-
+venting fire within the wildland-urban interface.
+(h) One member who represents rural residential property owners whose property is wholly or
+partially within the wildland-urban interface.
+(i) One member who represents farming property owners whose property is wholly or partially
+within the wildland-urban interface.
+(j) One member who represents ranching property owners whose property  is wholly or partially
+within the wildland-urban interface.
+(k) One member who  represents forestland owners whose property is wholly or partially within
+the wildland-urban interface.
+Enrolled Senate Bill 80 (SB 80-B) Page 6
+(L) One member who represents federally recognized Indian  tribes with land wholly or partially
+within the wildland-urban interface.
+(m) One member who represents a utility company.
+(n) One member who represents environmental interests.
+(o) One member who represents forest resiliency interests.
+(p) One member who represents state or regional land use planning organizations.
+(q) One member who represents  land and housing development interests or real estate industry
+interests.
+(r) One member who represents public health professionals.
+(s) One member who represents the environmental justice community.
+(5) The presiding officers shall provide public notice of  an opportunity for interested parties to
+submit names of interest for appointment to the council.
+(6) At least [ 30] seven  days before appointing a member,  the presiding officers shall consult in
+good faith with the minority  leaders of the Senate and House of Representatives on the appointment.
+(7) The term of service for each member is four years.
+(8) The members are eligible for reappointment.
+(9) The council shall elect a chairperson and vice chairperson to serve for one-year terms.
+(10) The members shall serve  on the council as volunteers and are not entitled to reimbursement
+for expenses.
+(11) The Department of Consumer  and Business Services, Department of Land Conservation and
+Development, [ office] Department  of the State Fire Marshal and State Forestry Department  shall
+each provide 15 percent of the time of a full-time equivalent employee to:
+(a) Cooperatively staff the council.
+(b) Attend council meetings as informational resources.
+(c) Assist with drafting reports at the request of the council.
+(d) Support the work of the State Wildfire Programs Director.
+(12) The Oregon State University Extension Service shall designate a person to serve  as staff
+for the council.
+(13) Each October the council shall submit  a report to the Governor and appropriate committees
+or interim committees of the Legislative Assembly that describes progress on implementing program
+activities related to defensible space, building codes,  land use and community emergency
+preparedness and that recommends improvements.
+CONFORMING AMENDMENTS
+SECTION 9.
+ ORS 215.495, as amended by section 5,  chapter 85, Oregon Laws 2022, and section
+1, chapter 76, Oregon Laws 2023 (Enrolled Senate Bill 644), is amended to read:
+215.495. (1) As used in this section:
+(a) “Accessory dwelling unit” has the meaning given that term in ORS 215.501.
+(b) “Area zoned for rural residential use” has the meaning given that term in ORS 215.501.
+(c) “Single-family dwelling” has the meaning given that term in ORS 215.501.
+(2) Consistent with a county’s comprehensive plan, a county may allow an owner of a lot  or
+parcel within an area zoned for rural residential use to construct one accessory dwelling  unit on
+the lot or parcel, provided:
+(a) The lot or parcel is not located within an area  designated as an urban reserve as defined in
+ORS 195.137;
+(b) The lot or parcel is at least two acres in size;
+(c) One single-family dwelling is sited on the lot or parcel;
+(d) The existing single-family dwelling  property on the lot or parcel is not subject to an order
+declaring it a nuisance or subject to any pending action under ORS 105.550 to 105.600;
+(e) The accessory dwelling unit will comply with all applicable laws and regulations  relating to
+sanitation and wastewater disposal and treatment;
+Enrolled Senate Bill 80 (SB 80-B) Page 7
+(f) The accessory dwelling unit will not include more than 900 square feet of usable floor area;
+(g) The accessory dwelling unit will be located no farther than 100 feet from the existing
+single-family dwelling;
+(h) If the water supply source for the  accessory dwelling unit or associated lands or gardens
+will be a well using water under  ORS 537.545 (1)(b) or (d), no portion of the lot or parcel is within
+an area in which new or existing ground water uses under ORS 537.545 (1)(b) or (d) have been re-
+stricted by the Water Resources Commission;
+(i) No portion of the lot or parcel is within a designated area of critical state concern;
+(j) The lot or parcel is served by a fire protection  service provider with professionals who have
+received training or certification described in ORS 181A.410;
+(k) If  the lot or parcel is in an area identified on the [ statewide map of wildfire risk ] statewide
+wildfire hazard map described in ORS  477.490 as within the wildland-urban interface, the lot or
+parcel and accessory dwelling  unit comply with any applicable minimum defensible space require-
+ments for wildfire risk reduction established by the State Fire Marshal under ORS 476.392  and any
+applicable local requirements for defensible space established  by a local government pursuant to
+ORS 476.392;
+(L) The accessory dwelling unit complies with the construction provisions of  section R327 of the
+Oregon Residential Specialty Code, if:
+(A) The lot or parcel is in an area identified as [ extreme or high wildfire risk ] a high wildfire
+hazard zone on the [ statewide map of  wildfire risk ] statewide wildfire hazard map  described in
+ORS 477.490; or
+(B) No [ statewide map of wildfire risk ] statewide wildfire hazard map  has been adopted; and
+(m) The county has adopted land use regulations that ensure that:
+(A) The accessory dwelling unit has adequate setbacks from adjacent lands zoned for  resource
+use;
+(B) The accessory dwelling unit has adequate access for firefighting equipment,  safe evacuation
+and staged evacuation areas; and
+(C) If the accessory dwelling unit is not in an area identified on the [ statewide map of  wildfire
+risk] statewide wildfire hazard map  described in ORS 477.490 as within the wildland-urban inter-
+face, the accessory dwelling  unit complies with the provisions of this section and any applicable
+local requirements for defensible space established by a local government pursuant to ORS 476.392.
+(3) A county may not allow an accessory dwelling unit allowed under this section to be  used for
+vacation occupancy, as defined in ORS 90.100.
+(4) A county that allows construction of an accessory dwelling unit under  this section may not
+approve:
+(a) A subdivision, partition or other division of the  lot or parcel so that the existing single-
+family dwelling is situated on a different lot or parcel than the accessory dwelling unit.
+(b) Construction of an additional accessory dwelling unit on the same lot or parcel.
+(5) A county may require that an accessory dwelling unit constructed under this section  be
+served by the same water  supply source or water supply system as the existing single-family dwell-
+ing, provided such use is allowed for the accessory dwelling unit by an existing  water right or a
+use under ORS 537.545. If the accessory dwelling  unit is served by a well, the construction of the
+accessory dwelling unit shall maintain all  setbacks from the well required by the Water Resources
+Commission or Water Resources Department.
+(6) An existing single-family dwelling and an accessory dwelling  unit allowed under this section
+are considered a single unit for the purposes of calculating exemptions under ORS 537.545 (1).
+(7) Nothing in this section requires a county  to allow any accessory dwelling units in areas
+zoned for rural residential use or prohibits a county from imposing any  additional restrictions on
+accessory dwelling units in areas zoned for rural residential use,  including restrictions on the con-
+struction of garages and outbuildings that support an accessory dwelling unit.
+SECTION 10.
+ Section 12d, chapter 592, Oregon Laws 2021, is amended to read:
+Enrolled Senate Bill 80 (SB 80-B) Page 8
+Sec. 12d. (1) The Department of Consumer and Business Services shall develop the interactive
+mapping tool described in [ section 12c of this 2021 Act ] ORS 455.614 not more than 60  days after the
+[statewide map of wildfire risk ] statewide wildfire hazard map  described in [ section 7 of this 2021
+Act] ORS 477.490 is developed.
+(2) Any delay in developing the tool may not affect a deadline concerning the map.
+SECTION 11.
+ ORS 455.612 is amended to read:
+455.612. (1) For [ extreme and ] the high wildfire [ risk classes ] hazard zone in the wildland-urban
+interface that [ are] is identified pursuant to ORS 477.490, the Department of  Consumer and Business
+Services  shall  adopt wildfire hazard mitigation building code standards that apply to new dwellings
+and the  accessory structures of dwellings, as described in section R327 of the 2021 Oregon Resi-
+dential Specialty Code.
+(2) The department shall amend section R327 of the  Oregon Residential Specialty Code to in-
+clude standards for additions to existing dwellings and accessory structures and  for replacement of
+existing exterior elements covered in section R327 of the 2021 Oregon Residential Specialty Code.
+(3) The department shall incorporate the standards described in subsections  (1) and (2) of this
+section into any updates to the Oregon Residential Specialty Code.
+SECTION 12.  ORS 477.748 is amended to read:
+477.748. (1) As used in this section, “small forestland owner” means an individual,  group, feder-
+ally recognized Indian tribe in Oregon or association that owns:
+(a) Up to 160 acres of nonindustrial private forestland west of the crest of the Cascade Moun-
+tains; or
+(b) Up to 640 acres of nonindustrial private forestland east  of the crest of the Cascade Moun-
+tains.
+(2) The State Forestry  Department shall establish a small forestland grant program for the
+purpose of providing grants, on a competitive basis, to support small  forestland owners in reducing
+wildfire risk through the restoration of landscape resiliency and the  reduction of hazardous fuels
+on the owners’ property.
+(3) In consultation with partners and  stakeholders, the department shall set criteria for assess-
+ing grant applications and awarding grants. The criteria may include, but need not be limited to:
+(a) Prioritization of projects on forestland in [ extreme or ] the high wildfire [ risk classes ] hazard
+zone described in ORS 477.490.
+(b) Owner commitment to maintaining fuel reduction treatments.
+(c) Owner possession of a forest management plan.
+(d) Project proximity to current or past fuel  mitigation efforts, supported by any owner or
+funding source, that would contribute to cross-boundary, landscape-scale forest resiliency.
+(e) Whether the  project addresses additional resource concerns, such as insect and disease
+management.
+(f) Whether critical facilities and infrastructure  may receive enhanced protection due to project
+outcomes.
+SECTION 13.
+ Section 11, chapter 592, Oregon Laws 2021, as amended  by section 4, chapter 85,
+Oregon Laws 2022, is amended to read:
+Sec. 11.  (1) As used in this section, “defensible space”  has the meaning given that term in ORS
+476.390.
+(2) The  Department of Land Conservation and Development shall identify recommended changes
+to the statewide land  use planning program and local comprehensive plans and zoning codes that
+are needed in order to incorporate wildfire [ risk] hazard maps and minimize wildfire risk, including
+the appropriate levels of state and local resources necessary for effective implementation.
+(3) Recommended changes may include, but need not  be limited to, provisions regarding suffi-
+cient defensible space, building codes, safe evacuation and development considerations in areas  of
+[extreme and ] high wildfire risk, allowing for regional differences.
+(4) On or before October 1, 2022, the department shall report to a committee or  interim com-
+mittee of the Legislative Assembly related to  wildfire, in the manner provided in ORS 192.245, to the
+Enrolled Senate Bill 80 (SB 80-B) Page 9
+State Wildfire Programs Director and to the Wildfire Programs Advisory Council on  the changes
+recommended by the department.
+(5) As necessary  to identify recommended changes, the department may consult with the State
+Fire Marshal, the State Forestry Department, the Department of Consumer and Business Services
+and local governments.
+PRESCRIBED FIRES
+SECTION 14.
+(1) As used in this section:
+(a) “Cultural burn” means  the intentional application of fire to land by an Indian tribe
+or cultural fire practitioner to achieve cultural goals or  objectives identified by a tribal or-
+dinance, traditional tribal custom or law of an Indian tribe, such as subsistence, ceremonial
+activities, biodiversity or other benefits.
+(b) “Cultural fire practitioner” means a person associated with an  Indian tribe with ex-
+perience in burning to meet cultural goals or objectives, including  subsistence, ceremonial
+activities, biodiversity or other benefits.
+(c) “Indian tribe” means a federally recognized Indian tribe in Oregon.
+(2) The State Forestry Department  shall establish a Prescribed Fire Liability Pilot Pro-
+gram and administer the program.
+(3) Notwithstanding subsection (2) of this section, the  Department of Consumer and
+Business Services shall administer reimbursements for claims under the program.
+(4) The program must be administered to:
+(a) Increase the pace and scale of the use of prescribed fire and cultural burning.
+(b) Reduce barriers for conducting prescribed fires and cultural burning.
+(c) Support coverage for losses  from prescribed fires and cultural burning by nonpublic
+entities such as cultural fire practitioners, private  landowners, nongovernmental entities,
+Certified Burn Managers as defined in ORS 526.005, companies, contractors and operators.
+(d) Support nonpublic entities, such as cultural  fire practitioners, private landowners,
+nongovernmental entities, Certified Burn  Managers, companies, contractors and operators,
+that are alleged to have caused damages resulting from prescribed fires  or cultural burning.
+(5) Under the program, the Department of Consumer and Business Services  may reim-
+burse claims related to:
+(a) A prescribed fire conducted or supervised by  the State Forester, a forest protective
+association or a rangeland protection association, pursuant to ORS 477.315 to 477.325.
+(b) A prescribed fire in a forest protection  district, as described in ORS 477.205 to 477.281,
+that is conducted or supervised by a Certified Burn Manager pursuant to ORS 526.360.
+(c) A cultural burn conducted or supervised by a cultural fire practitioner.
+(6) The Department of Consumer and Business Services  may only reimburse a claim for
+recoverable damages, as described in ORS 477.089 (2), or for actual costs, as described in ORS
+477.068, subject to the provisions of ORS 477.120, if:
+(a) The State Forester,  a forest protective association, a rangeland protection association
+or a Certified Burn Manager  reviewed and approved a burn plan before the prescribed fire
+or cultural burning;
+(b) Any necessary permit was obtained before the prescribed fire or cultural burning  was
+conducted;
+(c) The prescribed fire or cultural burning complied  with any requirements under a burn
+plan or permit;
+(d) The claim was submitted  to the Department of Consumer and Business Services not
+more than 60 days after an incident report  was completed or as specified by rule by the State
+Forestry Department; and
+(e) The State Forestry Department has certified that the claim satisfies the requirements
+of paragraphs (a) to (d) of this subsection.
+Enrolled Senate Bill 80 (SB 80-B) Page 10
+(7) The  limitations imposed by ORS 30.271 apply to claims under this section for losses
+arising from a prescribed fire or cultural burn.
+(8) The State Forestry Department:
+(a) Shall consult with other relevant state  agencies, cultural fire practitioners, the State
+Forester,  forest  protective associations, rangeland protection associations and Certified Burn
+Managers to establish guidelines for the program.
+(b) Shall adopt the guidelines by rule.
+(c) Shall make the guidelines publicly available on a department website.
+(d) Notwithstanding subsection  (3) of this section, shall adopt rules to determine how
+claims under the program will be accepted and processed.
+(e) Shall adopt by rule a definition of the term “prescribed fire” for purposes of  imple-
+menting this section.
+(f) Shall adopt rules establishing requirements for incident reports for prescribed  fires
+and cultural burning.
+(g) May adopt rules imposing requirements for eligibility for  reimbursement of a claim
+under this section that  are in addition to eligibility requirements described in subsection (6)
+of this section.
+(9) A person who interacts with an Indian tribe or cultural  fire practitioner pursuant to
+this section shall respect tribal sovereignty, customs and culture.
+(10) Notwithstanding any other provision of law,  the state’s liability for all claims under
+this section and the guidelines developed  by the State Forestry Department pursuant to
+subsection (8) of this section, shall be limited as described  in this section and to the amount
+in the Prescribed Fire Claims Fund established by section 15 of this 2023 Act.
+(11) The provisions of ORS 183.310 to 183.497 do  not apply to rules adopted under this
+section.
+(12) This section does not undermine or diminish the exercise of tribal sovereignty.
+SECTION 15.
+(1) There is  established in the State Treasury, separate and distinct from
+the General Fund, the Prescribed Fire Claims Fund. Interest earned by the fund  shall be
+credited to the fund. All  moneys in the fund are continuously appropriated to the Depart-
+ment of Consumer and Business Services for the program described in section 14  of this 2023
+Act.
+(2) The fund shall consist of all moneys credited to the fund, including moneys appropri-
+ated or transferred to the fund by the Legislative Assembly.
+(3) If the department authorizes the Oregon Insurance  Guaranty Association to admin-
+ister the program, the department shall distribute moneys  in the fund to the association as
+necessary for the program.
+SECTION 16. (1) Sections 14 and 15 of this 2023 Act are repealed on January 2, 2028.
+(2) Forty-five days before the date specified in subsection (1) of this section, the Depart-
+ment of Consumer  and Business Services and the State Forestry Department shall determine
+the number of claims certified by the State Forestry Department pursuant  to section 14
+(6)(e) of this 2023 Act that have not been processed.
+(3) Any moneys in the Prescribed  Fire Claims Fund that are unexpended and unobligated
+on the date of the repeal of sections 14 and 15 of this 2023 Act by subsection  (1) of this sec-
+tion shall revert to the General Fund.
+(4) The Department  of Consumer and Business Services shall determine the amount of
+unexpended and unobligated moneys described in subsection (3) of this section, based on the
+amount remaining in the fund and the number of  claims described in subsection (2) of this
+section.
+SECTION 17.
+(1) On or before April 1, 2028, in consultation with the Department  of
+Consumer and Business Services, the State Forestry  Department shall report to the Gover-
+nor and to a committee or interim committee  of the Legislative Assembly related to natural
+Enrolled Senate Bill 80 (SB 80-B) Page 11
+resources, in the manner prescribed in  ORS 192.245, on the performance of the Prescribed
+Fire Liability Pilot Program described in section 14 of this 2023 Act.
+(2) The report must include:
+(a) The number of claims that were processed after the program was established and
+before the date of the report.
+(b) The total costs of claims paid.
+(c) A reference to an incident report for each claim processed or paid after  the program
+was established and before the date of the report.
+(d) Recommendations for revising the program and improving administration of the pro-
+gram if sections 14 and 15 of this 2023 Act  are not repealed on January 2, 2028, pursuant to
+section 16 of this 2023 Act.
+SECTION 18.
+ ORS 526.360 is amended to read:
+526.360. (1) The State Board of Forestry, the State Forester and forest  protective associations
+may assist to the extent  practical in developing, for forestry, grazing or agricultural uses, [ all
+forestland classified pursuant to ORS  526.328 or 526.340] lands within a forest protection district,
+as described in ORS 477.205  to 477.281,  for such uses, including the burning of brush or other
+flammable material for the purpose of:
+(a) Removing a fire hazard to any property;
+(b) Preparing seed beds;
+(c) Removing obstructions to or interference with the proper seeding or agricultural  or grazing
+development or use of that land;
+(d) Promoting the establishment of new forest crops on cutover,  denuded or underproductive
+lands;
+(e) Implementing pest prevention and suppression activities, as provided in ORS 527.310  to
+527.370; or
+(f) Promoting improvements to forest health, including improvements to fish  and wildlife habitat.
+(2) Upon request of the owner or the agent  of the owner of [ any forestland classified pursuant
+to ORS 526.328 or 526.340 ] lands within a forest protection district , the forester or a forest pro-
+tective association may perform  or supervise burning operations thereon for any of the purposes
+stated in subsection (1) of this section. The owner or the agent of the owner shall  supply such per-
+sonnel and equipment and shall perform such fire control actions and  activities as the forester or
+forest protective association may  require while there is danger of the fire spreading. The forester
+or forest protective association may refuse to perform or supervise burning or to  issue any burning
+permit when, in the judgment of  the forester or forest protective association, conditions so warrant.
+(3) To accomplish  the purposes set forth in subsection (1) of this section, the board shall estab-
+lish by rule a Certified Burn Manager program.
+(4) The rules shall include:
+(a) Certification standards, requirements and procedures;
+(b) Standards, requirements and procedures to revoke certification;
+(c) Actions and activities that a Certified Burn Manager must perform;
+(d) Actions and activities that a Certified Burn Manager may not allow or perform;
+(e) Limitations on the use of a Certified Burn Manager; and
+(f) Any other standard, requirement  or procedure that the board considers necessary for the safe
+and effective administration of the program.
+(5) The rules may establish and impose fees for participation in the program.
+(6) When  a burning for any of the purposes stated in subsection (1) of this section on [ forestland
+classified pursuant to ORS 526.328 or 526.340 ] lands within a forest protection  district  is started
+under the supervision of  and supervised by the forester, a forest protective association or a Certified
+Burn Manager, a person may not be held liable for property damage resulting  from that burning
+unless the damage is caused by the negligence of the person.
+APPROPRIATIONS
+Enrolled Senate Bill 80 (SB 80-B) Page 12
+SECTION 19. In addition to and  not in lieu of any other appropriation, there is appro-
+priated to the Department of the  State Fire Marshal, for the biennium beginning July 1, 2023,
+out of the General Fund, the amount  of $3,000,000, for deposit in the Community Risk Re-
+duction Fund established under ORS 476.396.
+SECTION 20. Notwithstanding any other law limiting expenditures,  the amount of
+$3,000,000 is established, for the biennium beginning July 1, 2023,  as the maximum limit for
+payment of expenses  by the Department of the State Fire Marshal for community risk re-
+duction activities funded through the Community Risk Reduction Fund established  under
+ORS 476.396.
+SECTION 21. Notwithstanding any other provision of law, the General Fund appropriation
+made to  the State Forestry Department by section 1 (3), chapter ___, Oregon Laws 2023
+(Enrolled House Bill 5020), for the biennium beginning  July 1, 2023, for the planning branch,
+is increased by $350,000, for implementing the amendments to ORS 477.490 and 477.027  by
+sections 1 and 2 of this 2023 Act.
+SECTION 22. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Higher Education Coordinating Commission by  section 1 (9), chapter ___, Oregon
+Laws 2023 (Enrolled House Bill 5025), for the biennium beginning July 1,  2023, for public
+university statewide programs, is increased by $846,173, for  implementing the amendments
+to ORS 477.490 by section 1 of this 2023 Act.
+SECTION 23. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Higher Education  Coordinating Commission by section 1 (10), chapter ___,
+Oregon Laws 2023 (Enrolled House Bill 5025), for the biennium beginning  July 1, 2023, for
+statewide public services, is increased by $30,000, for  implementing the amendments to ORS
+477.490 by section 1 of this 2023 Act.
+SECTION 24. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the  Department of Consumer and Business Services, for the biennium beginning
+July 1, 2023, out of the General Fund, the amount of $5,000,000,  for deposit in the Prescribed
+Fire Claims Fund established by section 15 of this 2023 Act.
+SECTION 25. Notwithstanding any other law limiting expenditures,  the amount of
+$5,000,000 is established for the biennium beginning July 1, 2023, as the maximum limit  for
+payment of expenses by the Department of Consumer and  Business Services from the Pre-
+scribed Fire Claims Fund established by section 15 of this 2023 Act.
+SECTION 26. Notwithstanding any other provision of law, the General Fund appropriation
+made to the State Forestry Department by section 1 (2), chapter ___, Oregon Laws  2023
+(Enrolled House  Bill 5020), for the biennium beginning July 1, 2023, for forest resources, is
+increased by $242,037, for the administration of the Prescribed Fire Liability Pilot Program
+described in section 14 of this 2023 Act.
+CAPTIONS
+SECTION 27. The unit captions used in this 2023  Act are provided for the convenience
+of the reader and do not become part of the statutory law of this state or express any  leg-
+islative intent in the enactment of this 2023 Act.
+EFFECTIVE DATE
+SECTION 28. This 2023 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2023 Act takes effect
+on July 1, 2023.
+Enrolled Senate Bill 80 (SB 80-B) Page 13
+Passed by Senate June 20, 2023
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 21, 2023
+..................................................................................
+Dan Rayfield, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2023
+Approved:
+........................M.,........................................................., 2023
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2023
+..................................................................................
+Secretary of State
+Enrolled Senate Bill 80 (SB 80-B) Page 14
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 105.550, ORS 181A.410, ORS 183.310, ORS 192.245, ORS 195.137, ORS 215.495, ORS 215.501, ORS 30.271, ORS 326.545, ORS 403.400, ORS 431A.410, ORS 431A.412, ORS 455.612, ORS 455.614, ORS 456.055, ORS 476.390, ORS 476.392, ORS 476.396, ORS 476.690, ORS 477.015, ORS 477.027, ORS 477.068, ORS 477.089, ORS 477.120, ORS 477.205, ORS 477.315, ORS 477.490, ORS 477.503, ORS 477.748, ORS 526.005, ORS 526.328, ORS 526.360, ORS 527.310, ORS 537.545, ORS 90.100
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `8b26a3ac595dd67dfc90133245b323fe1d03d9c1272d2c1546f6ea3d23c2e6cf` (snapshot `_meta/snapshots/measure-2023r1-sb80-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB80/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `384915207eda6768b3dc6a3f489a8b6ee30cd5a18351fe18537f3d0a70268030` (snapshot `_meta/snapshots/measure-2023r1-sb80-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB80/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 80` (part of the batched per-session fetch), sha256 `93fbdf58369388064230f7ba2c78bd17b78e15ffa1d19e5c25089297c647cbe1` of the shared session snapshot `_meta/snapshots/measures-2023r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,484 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2023r1-hb3317
+title: 'HB 3317 (2023R1): Establishes Wallowa Rural and Recreational Economic Development Board.'
+doc_type: dataset_doc
+citation: 2023 Regular Session House Bill 3317
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3317/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 56e70f397f9214637f2dfc006797f3ac75186cc956867451fa88ebc23223952f
+snapshot_id: measure-2023r1-hb3317-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.116
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.610
+  - ORS 285A.010
+  - ORS 285B.165
+  - ORS 285B.626
+  - ORS 285B.635
+  - ORS 292.495
+  - ORS 30.936
+  - ORS 308A.300
+  - ORS 308A.350
+  - ORS 308A.403
+  - ORS 308A.450
+  - ORS 348.582
+  - ORS 537.730
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2023r1
+- hb
+session_key: 2023R1
+measure_prefix: HB
+measure_number: 3317
+prefix_meaning: House Bill
+catch_line: Establishes Wallowa Rural and Recreational Economic Development Board.
+minority_catch_line: null
+measure_summary: "\tEstablishes Wallowa Rural and Recreational Economic Development Board. Directs board\
+  \ to, in collaboration with Oregon Business Development Department, formulate and implement strategies\
+  \ and practices for strategic investment in workforce housing, workforce development and economic development\
+  \ in Wallowa Rural and Recreational Economic Development Region and to make grants or loans to eligible\
+  \ applicants in region. Sets forth duties, functions and responsibilities of department and board. \n\
+  \tAllows county to partition and rezone up to 50 acres of lands within region from resource use to residential\
+  \ uses. Sunsets January 2, 2035. \n\tEstablishes Wallowa Rural and Recreational Economic Development\
+  \ Board Fund and continuously appropriates moneys to department for distribution to board for purposes\
+  \ set forth in Act. Appropriates moneys to department for deposit in fund. \n\tDeclares emergency, effective\
+  \ on passage."
+relating_to: Relating to Wallowa Rural and Recreational Economic Development Region; declaring an emergency.
+relating_to_full: Relating to Wallowa Rural and Recreational Economic Development Region; and declaring
+  an emergency.
+at_the_request_of: null
+lc_number: 3433
+measure_created_date: '2023-02-17T16:22:54'
+measure_modified_date: '2023-04-05T10:48:30'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 23891
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.116
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.610
+  - ORS 285A.010
+  - ORS 285B.165
+  - ORS 285B.626
+  - ORS 285B.635
+  - ORS 292.495
+  - ORS 30.936
+  - ORS 308A.300
+  - ORS 308A.350
+  - ORS 308A.403
+  - ORS 308A.450
+  - ORS 348.582
+  - ORS 537.730
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3317`.
+
+# HB 3317 — 2023 Regular Session (2023R1)
+
+## At a glance
+
+- **Measure:** House Bill 3317, 2023 Regular Session (2023R1)
+- **LC number:** 3433
+- **Created:** 2023-02-17T16:22:54
+- **Metadata last modified (upstream):** 2023-04-05T10:48:30
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 23891 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3317/Introduced>.
+
+## Summary
+
+**Catchline:** Establishes Wallowa Rural and Recreational Economic Development Board.
+
+**Relating to:** Relating to Wallowa Rural and Recreational Economic Development Region; declaring an emergency.
+
+Establishes Wallowa Rural and Recreational Economic Development Board. Directs board to, in collaboration with Oregon Business Development Department, formulate and implement strategies and practices for strategic investment in workforce housing, workforce development and economic development in Wallowa Rural and Recreational Economic Development Region and to make grants or loans to eligible applicants in region. Sets forth duties, functions and responsibilities of department and board. 
+ Allows county to partition and rezone up to 50 acres of lands within region from resource use to residential uses. Sunsets January 2, 2035. 
+ Establishes Wallowa Rural and Recreational Economic Development Board Fund and continuously appropriates moneys to department for distribution to board for purposes set forth in Act. Appropriates moneys to department for deposit in fund. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to Wallowa Rural and Recreational Economic Development Region; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 3317
+Sponsored by  Representatives LEVY B, BOICE, Senator HANSELL; Representatives EVANS, LIVELY, OSBORNE,
+OWENS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Establishes Wallowa Rural and Recreational  Economic Development Board. Directs board to, in
+collaboration with Oregon Business Development Department, formulate and implement  strategies
+and practices for strategic investment  in workforce housing, workforce development and economic
+development in Wallowa Rural and Recreational Economic  Development Region and to make grants
+or loans to eligible applicants in region. Sets forth  duties, functions and responsibilities of depart-
+ment and board.
+Allows county to partition  and rezone up to 50 acres of lands within region from resource use
+to residential uses. Sunsets January 2, 2035.
+Establishes Wallowa Rural and  Recreational Economic Development Board Fund and contin-
+uously appropriates moneys to department for distribution to board for purposes  set forth in Act.
+Appropriates moneys to department for deposit in fund.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to Wallowa Rural and Recreational Economic Development  Region; and declaring an
+emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 1 to 7 of this 2023 Act:
+(1) “Community land trust” means a form of permanently affordable  or workforce hous-
+ing in which a nonprofit organization retains ownership of the land and sells or rents  the
+housing on that land.
+(2) “Economic development” means activities that relate to and support:
+(a) The economic health or recovery of the region;
+(b) Business enterprise and activities in the region;
+(c) Development or certification of regionally significant industrial sites in the region;
+(d) Job creation or prevention of the loss of jobs; or
+(e) Business development or expansion or the prevention  of the decline of businesses lo-
+cated or to be located in the region.
+(3) “Local governing body” means either the county court or  board of county commis-
+sioners of the county.
+(4) “Local government” has the meaning given that term in ORS 174.116.
+(5) “Regionally significant industrial site” has the  meaning given that term in ORS
+285B.626.
+(6) “Traded sector” has the meaning given that term in ORS 285A.010.
+(7) “Wallowa Rural and Recreational  Economic Development Region” or “region,” as de-
+fined in rules adopted by the Wallowa Rural and Recreational Economic  Development Board
+in consultation with the Oregon Business Development Department,  means that part of
+Wallowa County that:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3433
+(a) Is 60 miles or more away from a major metropolitan area;
+(b) Has a recreation or tourism based economy; and
+(c) Includes, but is not limited to, the  Cities of Enterprise, Joseph, Lostine and Wallowa.
+(8) “Workforce  development” means activities or services that promote economic devel-
+opment by making skilled employees more readily available, including:
+(a) Education, training and apprenticeships;
+(b) Labor market analysis;
+(c) Employment and reemployment assistance;
+(d) Employee recruitment and retention;
+(e) Workforce training programs that have a primary mission  of assisting individuals to
+attain or retain employment, increase wages, progress along  career pathways or establish
+and maintain businesses;
+(f) Convening, coordinating,  oversight and evaluation activities and services for business
+and state workforce agencies; and
+(g) Ensuring adequate housing availability and affordability.
+SECTION 2.
+(1) The Wallowa Rural and Recreational Economic Development Board is
+established to formulate and implement  strategies and practices for strategic investment in
+workforce development, workforce housing and economic development in the Wallowa Rural
+and Recreational Economic Development  Region and to make grants or loans to eligible ap-
+plicants for the purpose of encouraging  workforce development, workforce housing and eco-
+nomic development in the region.
+(2) The board shall  consist of seven voting members and one nonvoting member as fol-
+lows:
+(a) The Governor shall appoint seven voting  members from a list of eligible appointees
+with expertise in traded sector business, education,  workforce development, housing or eco-
+nomic development provided by the local  governing bodies within the region, including at
+least one member representing a nonprofit organization that  operates a community land
+trust. The Governor shall request an updated list of eligible appointees from the  local gov-
+erning bodies within the region for the purpose of  making appointments when vacancies oc-
+cur.
+(b) The Director of  the Oregon Business Development Department, or the director’s
+designee, is an ex officio nonvoting member of the board.
+(3) The term of office of each voting member of  the board is four years, but a member
+serves at the pleasure  of the Governor. Before the expiration of the term of a voting
+member, the Governor shall  appoint a successor whose term begins on January 1 next fol-
+lowing. A member  is eligible for reappointment for a total of two consecutive terms. If there
+is a vacancy for any cause, the Governor shall  make an appointment to become immediately
+effective for the unexpired term.
+(4) The Governor shall appoint one voting member of the board as the chairperson.
+(5) A voting member of the board is entitled  to compensation and expenses as provided
+in ORS 292.495.
+(6) A majority of the voting  members of the board constitutes a quorum for the trans-
+action of business.
+(7) Board meetings are conducted as follows:
+(a) The board shall meet at least once every three months at a time and place determined
+by the chairperson. The  board also may meet at other times and places specified by the call
+of the chairperson or of a majority of the members of the board.
+(b) Meetings  of the board are subject to ORS 192.610 to 192.690 governing public meetings
+and ORS 192.311 to 192.431 governing public records.
+(8) The board may establish any advisory or technical committees the board  considers
+necessary to aid and advise the board in the performance of  its functions. The committees
+may be continuing or temporary committees. The  board shall determine the representation,
+membership, terms and organization of  the committees and shall appoint the members of the
+committees.
+(9) The Oregon Business Development Department  shall provide staff to the board as
+necessary to allow the board to  carry out the board’s responsibilities under sections 1 to 7
+of this 2023 Act. The department may contract with a third party to  provide staff to the
+board under this subsection, provided  that the third party remains subject to the direction
+and control of the department.
+SECTION 3.
+Notwithstanding the term of office specified by section  2 of this 2023 Act,
+of the voting members first appointed to the board:
+(1) Two shall serve for a term ending December 31, 2023.
+(2) Two shall serve for a term ending December 31, 2024.
+(3) Two shall serve for a term ending December 31, 2025.
+(4) One shall serve for a term ending December 31, 2026.
+SECTION 4.
+The Wallowa Rural and Recreational Economic  Development Board, in col-
+laboration with and with the assistance of the Oregon Business Development Department,
+has the following duties, functions and powers:
+(1) To identify policies and strategies that will:
+(a) Promote workforce and economic growth;
+(b) Facilitate development or prevent decline of regionally significant industrial sites;
+(c) Promote viable workforce housing solutions;
+(d) Create or maintain jobs in the Wallowa Rural and Recreational Economic Develop-
+ment Region; and
+(e) Improve access to career and technical education, workforce  training programs and
+higher education to enhance the availability  of a qualified workforce for employers in the
+region.
+(2) To make recommendations to the Legislative Assembly for policies and strategies that
+improve the availability of career  and technical education, workforce training programs and
+higher education for the purpose of improving the availability of a qualified  workforce for
+employers in the region.
+(3) To identify specific laws, rules and regulations that place  workforce development or
+economic development efforts in the region at a competitive disadvantage due to the business
+environment being located in a rural, recreational and frontier county.
+(4) Subject to the availability of funds in the Wallowa Rural and Recreational Economic
+Development Board Fund, to make  grants or loans to qualified applicants pursuant to section
+5 of this 2023 Act, not to exceed a total of 10 active grants at any one time.
+(5) To establish a means to evaluate grants or loans made by the board and  the depart-
+ment, including, but not limited  to, determining the number of businesses or regionally sig-
+nificant industrial sites  assisted, the types and amount of resources leveraged, return on
+investment criteria, performance and outcome measures  and methods to evaluate the impact
+on jobs and wages in the area of the region in which grant or loan moneys  were applied or
+in which they were utilized.
+(6) To facilitate collaboration among employers, local  governments, state agencies and
+stakeholders for the purpose of enhancing and  expanding workforce development and eco-
+nomic development in the region.
+(7) To consult with affected school districts, community colleges and universities and the
+Employment Department in identifying policies and strategies that will enhance  and promote
+workforce development to improve the availability of a qualified workforce for  employers in
+the region.
+(8) To report  annually on or before December 31 of each year to standing and interim
+committees of the Legislative Assembly related to business and economic development re-
+garding implementation and administration of the Wallowa Rural  and Recreational Economic
+Development Board and of grants or loans made to qualified applicants  pursuant to section
+5 of this 2023 Act. The report may include recommendations regarding  proposed legislation
+and strategies to improve workforce development and economic development in the region.
+SECTION 5.
+(1) Subject to  the availability of funds in the Wallowa Rural and Recreational
+Economic Development Board Fund, the Wallowa Rural and Recreational  Economic Devel-
+opment Board may award grants or issue loans to eligible applicants for the purpose of  en-
+hancing or expanding workforce housing, workforce development  or economic development
+in the Wallowa Rural and Recreational  Economic Development Region. Repayment of loans
+made under this section is subject to subsection (8) of this section. The board  shall make the
+decision whether to approve and award grants or issue  loans under this section, but the
+Oregon Business Development Department  shall be responsible for the disbursement of grant
+or loan moneys from  the Wallowa Rural and Recreational Economic Development Board
+Fund.
+(2) Eligible applicants include:
+(a) Local governments;
+(b) Institutions of higher education as defined in ORS 348.582;
+(c) Private  or nonprofit businesses whose principal place of business, or the majority of
+whose workforce, is located in the region;
+(d) Small business development centers established under ORS 285B.165 to 285B.171;
+(e) Economic development organizations;
+(f) Nonprofit organizations  that operate or will operate a community land trust within
+the region;
+(g) School districts; and
+(h) Other entities as defined by the board by rule.
+(3) An eligible applicant  may apply for a grant or loan by submitting an application and
+paying the required application fee, if any, in accordance with rules  adopted by the board in
+consultation with the department. The rules must, at a minimum:
+(a) Establish  criteria for the award of grants or issuance of loans under this section that
+provide that the applicant must demonstrate the grant or loan moneys will be used for:
+(A) Enhancement and expansion of workforce development or  workforce housing in the
+region that is responsive to the needs of the region’s businesses and industries;
+(B) Economic development that will lead to private investment,  job creation or retention
+and the establishment or expansion of viable businesses in the region;
+(C) Expansion of a transportation infrastructure sufficient to  facilitate moving traded
+sector goods or services in the region to market;
+(D) Certification of regionally significant industrial sites within the region;
+(E) Extension of private utilities, including but not limited to gas and electrical con-
+nections, to regionally significant industrial sites or to residential subdivisions  within the
+region;
+(F) A due diligence assessment pursuant  to the Oregon Industrial Site Readiness Pro-
+gram under ORS 285B.635 to 285B.640 or other assessments or evaluations that prepare a site
+for development;
+(G) Provision of support services and technical assistance to  entrepreneurs and business
+owners in the region, including but not  limited to small business development centers es-
+tablished under ORS 285B.165 to 285B.171; or
+(H) The development of community land trusts in the region; and
+(b) Establish criteria for repayment  of loans, collection of moneys owed and repayment
+of grant proceeds in the event of default.
+(4) Applications for loans must contain:
+(a) A plan for  repayment by the applicant to the Wallowa Rural and Recreational Eco-
+nomic Development Board Fund of moneys borrowed from the fund, plus interest; and
+(b) If required by the department and the board, evidence  of debt assurance of, or secu-
+rity for, repayment by the applicant.
+(5) Loans made under this section:
+(a) May  not be for a loan term that exceeds either the usable life of the work or project
+for which the  loan was awarded or a specified number of years after the work or project is
+completed, whichever is shorter; and
+(b) Are subject to subsection (8) of this section  regarding repayment of loans made by
+the department.
+(6) Grants or loans made under this  section are payable solely from the Wallowa Rural
+and Recreational Economic Development  Board Fund established in section 7 of this 2023
+Act. Amounts paid as grants or loans shall not constitute a  debt of the state or a lending
+of the credit of  the state within the meaning of any constitutional or statutory limitation.
+This subsection is not intended to impair the exercise of rights granted against the  security
+for a loan, if any.
+(7) The department shall assist the board in evaluating applications for  grants or loans
+under this section by:
+(a) Evaluating timelines for  completion of work and projects for which grant or loan
+moneys requested in the application will be used;
+(b) Investigating whether necessary permits for development, if needed,  have been or can
+be secured in a timely manner;
+(c) Making recommendations on maximizing the use of  grant or loan moneys to ensure
+successful completion of  the work or project for which the grant or loan moneys will be used;
+(d) Assessing the ability of the applicant to repay the grant or loan;
+(e) Documenting  the strengths, weaknesses and risks of the applicant and the project;
+and
+(f) Making recommendations regarding terms and conditions for approval of a grant or
+loan.
+(8) The department shall adopt rules governing repayment of loans made under this sec-
+tion and the collection of moneys owed the Wallowa Rural and  Recreational Economic De-
+velopment Board Fund. The department may seek appropriate  legal remedies to secure
+repayment of any loans made under this section that are due to the fund.
+(9) The department may assess and charge fees, including but not limited to application
+fees, for loans or grants made under this section.
+SECTION 6.
+The Wallowa Rural and  Recreational Economic Development Board, in con-
+sultation with the Oregon Business Development Department,  shall adopt rules to implement
+and administer the provisions of sections 1 to 7 of this 2023 Act.
+SECTION 7. (1) The Wallowa Rural and Recreational Economic Development Board Fund
+is established in the State Treasury, separate and distinct from  the General Fund. Interest
+earned by the  Wallowa Rural and Recreational Economic Development Board Fund shall be
+credited to the fund.
+(2) Moneys in the fund  are continuously appropriated to the Oregon Business Develop-
+ment Department for distribution  to the Wallowa Rural and Recreational Economic Devel-
+opment Board for the purposes set forth in sections 1 to 7 of this 2023 Act, including but not
+limited to administrative costs of the department  incurred in processing grant or loan ap-
+plications, investigating the eligibility of applicants and servicing outstanding grants  and
+loans, not to exceed an annual amount greater  than the total revenues received in that year
+from applicant fees assessed and charged by the department under section 5 of  this 2023 Act,
+plus four percent of the total asset value of the fund.
+(3) Moneys in the Wallowa  Rural and Recreational Economic Development Board Fund
+consist of:
+(a) Applicant fees  for grants or loans assessed, charged and paid pursuant to section 5
+of this 2023 Act;
+(b) Moneys received as repayment of principal and interest on loans made from  the fund
+under sections 1 to 7 of this 2023 Act;
+(c) Amounts appropriated or otherwise transferred to the fund by  the Legislative As-
+sembly;
+(d) Amounts donated to the fund;
+(e) Moneys transferred to the fund from  the federal government, state agencies or local
+governments;
+(f) Lottery bond proceeds approved by the Legislative Assembly for deposit in the fund;
+(g) Earnings received on moneys in the fund; and
+(h) Other amounts deposited in the fund from any source.
+(4) All repayments of grants or loans, interest and other receipts from  outstanding
+indebtedness or any other sources shall be retained and accumulated in the fund and  shall
+be used for the purposes set forth in sections 1 to 7 of this 2023 Act.
+SECTION 8.
+Sections 9 and  10 of this 2023 Act are added to and made a part of ORS
+chapter 215.
+SECTION 9. (1) Notwithstanding any land use planning goal related to urbanization or
+agricultural or forest  lands, if Wallowa County has established a review board described in
+section 10 of this 2023 Act, the  county may rezone, and if necessary partition, lands that are
+zoned for resource use and  within the Wallowa Rural and Recreational Economic Develop-
+ment Region, as defined in section 1 of this 2023 Act, for residential development, including
+single-family, middle housing or multifamily development, provided that:
+(a) The rezoned lands are within one-half mile of city limits;
+(b) If the water source for the rezoned lands is  a well, the lands are not within a critical
+ground water area as designated under ORS  537.730 to 537.740 or within an area where
+ground water withdrawals have been restricted by the Water Resources Commission;
+(c) The property owner agrees as a condition of approval of the  rezoning to sign and re-
+cord in the county deed records an irrevocable deed restriction in the form  prescribed by the
+county acknowledging the  protected rights of farm, forest and rangeland practices in the
+area and prohibiting the owner and the owner’s successors in interest  from pursuing a cause
+of action or claim of relief alleging an injury from any farming, forest or  rangeland practices
+if a claim or action is not allowed  under ORS 30.936 or 30.937 or is otherwise protected by law
+as a farming, forest or rangeland practice;
+(d) The rezoning complies with all other criteria adopted by the county;
+(e) The approval would not result in a cumulative  total of more than 50 acres rezoned
+by the county under this section;
+(f) The rezoning has received a public hearing  and a written opinion from a review board
+established under section 10 of this 2023 Act; and
+(g) In the prior 10 years, the rezoned lands have not been assessed for property  tax
+purposes as:
+(A) Open space land under ORS 308A.300 to 308A.330;
+(B) Riparian habitat under ORS 308A.350 to 308A.383;
+(C) Wildlife habitat under ORS 308A.403 to 308A.430; or
+(D) A conservation easement under ORS 308A.450 to 308A.465.
+(2) Upon rezoning lands under this section, the county shall file with the county assessor
+a statement  listing the tax lots to which the change in zoning applies and the applicable date
+of the change.
+SECTION 10.
+(1) Wallowa County  may establish a review board that consists of four
+members appointed by the governing body of the county.
+(2) The members of the review board shall serve terms of no more than four  years and
+may be reappointed by the governing body.
+(3) The review board must include:
+(a) One member who represents  the interests of the resource use community of the
+county;
+(b) One member who represents the Wallowa Rural and Recreational  Economic Devel-
+opment Board;
+(c) One member who is a member of the governing body of the county; and
+(d) One member who is a member of the planning body for the county.
+(4) The review board  shall review, and conduct at least one public hearing for, each per-
+mit application filed by a landowner for the  rezoning of their land under section 9 of this 2023
+Act to rezone, and if necessary partition, land and shall provide a written opinion to the
+county.
+(5) The opinion provided by the  review board is not a land use decision and is not subject
+to appeal.
+SECTION 11.
+Sections 9 and 10 of this 2023 Act are repealed on January 2, 2035.
+SECTION 12.
+The repeal of sections 9 and 10 of this 2023 Act by  section 11 of this 2023
+Act does not invalidate, or  provide any basis for challenging, the rezoning of lands under
+section 9 of this 2023 Act.
+SECTION 13. On or before September 15, 2026, the Oregon Business Development De-
+partment, in collaboration with the Wallowa Rural  and Recreational Economic Development
+Board, shall provide a report to an appropriate interim committee of  the Legislative As-
+sembly in the manner provided in ORS 192.245 on the activities of the board and Wallowa
+County under sections 1 to 7 and 9 and 10 of this 2023 Act.
+SECTION 14.
+In addition to and not in lieu of any other  appropriation, there is appro-
+priated to the Oregon Business Development  Department, for the biennium beginning July
+1, 2023, out of the General Fund, the amount  of $5,000,000, for deposit in the Wallowa Rural
+and Recreational Economic Board Development Fund established in section 7  of this 2023
+Act.
+SECTION 15. This 2023 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2023 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 174.116, ORS 192.245, ORS 192.311, ORS 192.610, ORS 285A.010, ORS 285B.165, ORS 285B.626, ORS 285B.635, ORS 292.495, ORS 30.936, ORS 308A.300, ORS 308A.350, ORS 308A.403, ORS 308A.450, ORS 348.582, ORS 537.730
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `56e70f397f9214637f2dfc006797f3ac75186cc956867451fa88ebc23223952f` (snapshot `_meta/snapshots/measure-2023r1-hb3317-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3317/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3317` (part of the batched per-session fetch), sha256 `93fbdf58369388064230f7ba2c78bd17b78e15ffa1d19e5c25089297c647cbe1` of the shared session snapshot `_meta/snapshots/measures-2023r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

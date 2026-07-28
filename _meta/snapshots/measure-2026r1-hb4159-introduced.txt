@@ -1,0 +1,236 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4159
+Sponsored by COMMITTEE ON RULES (at the request of Oregon Government and Ethics  Commission Workgroup)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  says that the Governor has to put a person with a certain background on the
+OGEC. The Act protects certain protected words during investigations by the OGEC. (Flesch Read-
+ability Score: 60.8).
+Provides that the Governor shall appoint one member of the Oregon  Government Ethics Com-
+mission who has local government experience.
+Provides that attorney-client privilege is not waived when a communication  is made to the
+commission for purposes of providing information regarding a complaint alleging a violation of gov-
+ernment ethics laws or public meetings laws.
+A BILL FOR AN ACT
+Relating to the Oregon Government Ethics Commission; amending ORS 40.225 and 244.250.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 244.250 is amended to read:
+244.250. (1) The Oregon Government Ethics Commission is established, consisting of nine mem-
+bers. The appointment of a  member of the commission is subject to confirmation by the Senate in
+the manner provided in ORS 171.562 and 171.565.  Members shall be appointed in the following
+manner:
+(a) The Governor shall appoint eight members from among persons recommended,  two each by
+the leadership of the Democratic and Republican parties in  each house of the Legislative Assembly.
+If a person recommended by the leadership of the Democratic or Republican party  is not approved
+by the Governor, the leadership shall recommend another person.
+(b) The Governor shall appoint one member , without leadership recommendation , who has ex-
+perience in local government .
+(2) A  person who holds any public office listed in ORS 244.050 (1) except as a member of the
+commission may not be appointed  to the commission. No more than three members may be members
+of the same political party.
+(3) The  term of office of a member is four years. A member is not eligible to be appointed to
+more than two full terms but may additionally  serve out an unexpired term. Vacancies shall be filled
+by the appointing authority for the unexpired term.
+(4) The  commission shall elect a chairperson and vice chairperson for such terms and duties as
+the commission may require.
+(5) A quorum  consists of five members but a final decision may not be made without an affir-
+mative vote of a majority of the members appointed to the commission.
+(6) Members shall be entitled to compensation and expenses as provided in ORS 292.495.
+(7) The commission may retain or appoint qualified legal counsel who must be a licensee of  the
+Oregon State Bar and who is responsible to the commission. The appointment  of legal counsel under
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 119
+HB 4159
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+this subsection may  be made only when the commission finds it is inappropriate and contrary to the
+public interest for the  office of the Attorney General to represent concurrently more than one public
+official or agency in any matter before the commission because the representation:
+(a) Would create or tend to create a conflict of interest; and
+(b) Is not subject to ORS 180.230 or 180.235.
+(8) The  Attorney General may not represent before the commission any state public official who
+is the subject of any complaint or action of the commission at the commission’s own instigation.
+SECTION 2.
+ ORS 40.225 is amended to read:
+40.225. (1) As used in this section, unless the context requires otherwise:
+(a) “Client” means:
+(A) A person, public officer, corporation,  association or other organization or entity, either
+public or private, who is rendered professional  legal services by a law practitioner, or who consults
+a law practitioner with a view to obtaining professional legal services from the law practitioner.
+(B) A person, public officer, corporation,  association or other organization or entity, either
+public or private, who consults  a legal referral service with a view to obtaining professional legal
+services from a law practitioner.
+(b) “Confidential communication” means  a communication not intended to be disclosed to third
+persons other than those to whom disclosure is in furtherance of the rendition of professional legal
+services to the client or those reasonably necessary for the transmission of the communication.
+(c) “Law practitioner” means a person authorized, or reasonably believed by the client  to be
+authorized, to practice law in any state or nation.
+(d) “Legal referral service” means an entity that, as a  regular part of its business, refers po-
+tential clients to law practitioners, including but not limited  to a public nonprofit entity sponsored
+or operated by the Oregon State Bar.
+(e) “Representative of the client” means:
+(A) A principal, an officer or a director of the client; or
+(B) A  person who has authority to obtain professional legal services, or to act on legal advice
+rendered, on behalf of the client,  or a person who, for the purpose of effectuating legal represen-
+tation for the client, makes or receives a confidential communication while acting in the person’s
+scope of employment for the client.
+(f) “Representative of the law practitioner” means  one employed to assist the law practitioner
+in the rendition of professional legal  services, but does not include a physician making a physical
+or mental examination under ORCP 44.
+(2) A client has a privilege to refuse to disclose and to prevent any  other person from disclosing
+confidential communications made for the purpose of facilitating the rendition of  professional legal
+services to the client:
+(a) Between the client or the client’s representative and the client’s law practitioner or  a rep-
+resentative of the law practitioner;
+(b) Between the client’s law practitioner and the law  practitioner’s representative or the client’s
+legal referral service;
+(c) By the client or the client’s law practitioner to a  law practitioner representing another in
+a matter of common interest;
+(d) Between representatives  of the client or between the client and a representative of the cli-
+ent;
+(e) Between law practitioners representing the client; or
+[2]
+HB 4159
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+(f) Between the client or a representative of the client and a legal referral service.
+(3) The privilege created by this section  may be claimed by the client, a guardian or conservator
+of the  client, the personal representative of a deceased client, or the successor, trustee, or similar
+representative of a corporation, association, or  other organization, whether or not in existence. The
+person who was the law practitioner or legal referral service  or the law practitioner’s represen-
+tative at the time of the communication  is presumed to have authority to claim the privilege but
+only on behalf of the client.
+(4) There is no privilege under this section:
+(a) If the services of  the law practitioner or legal referral service were sought or obtained to
+enable or  aid anyone to commit or plan to commit what the client knew or reasonably should have
+known to be a crime or fraud;
+(b) As to a communication  relevant to an issue between parties who claim through the same
+deceased client, regardless of whether the claims are by  testate or intestate succession or by inter
+vivos transaction;
+(c) As to a communication relevant to  an issue of breach of duty by the law practitioner or legal
+referral service to the client or by the client to the law practitioner or legal referral service;
+(d) As to a  communication relevant to an issue concerning an attested document to which the
+law practitioner or legal referral service is an attesting witness; or
+(e) As to a communication relevant to a matter of common interest between two or more  clients
+if the communication was made by any of them to a  law practitioner retained or consulted in com-
+mon, when offered in an action between any of the clients.
+(5) Notwithstanding ORS 40.280, a privilege is maintained under this section for a  communi-
+cation made to  the Oregon Public Defense Commission for the purpose of seeking preauthorization
+for or payment of fees or expenses under ORS 135.055.
+(6) Notwithstanding subsection (4)(c) of this section and ORS 40.280, a privilege is maintained
+under this section for a  communication that is made to the Oregon Public Defense Commission for
+the purpose of making, or providing information regarding, a complaint against  a law practitioner
+providing public defense services.
+(7) Notwithstanding  ORS 40.280, a privilege is maintained under this section for a communi-
+cation ordered to be disclosed under ORS 192.311 to 192.478.
+(8) Notwithstanding ORS 40.280, a privilege is maintained under this section for a  com-
+munication made to the Oregon Government Ethics Commission for the  purpose of providing
+information regarding a complaint being adjudicated under ORS 244.260.
+[3]

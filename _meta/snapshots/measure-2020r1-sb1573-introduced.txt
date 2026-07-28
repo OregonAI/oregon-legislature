@@ -1,0 +1,1379 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+80th OREGON LEGISLATIVE ASSEMBLY--2020 Regular Session
+Senate Bill 1573
+Sponsored by Senators  DEMBROW, MANNING JR, Representative BYNUM; Senators BEYER, BURDICK,
+FREDERICK, GELSER, GOLDEN, MONNES ANDERSON, PROZANSKI, STEINER HAYWARD, THATCHER,
+WAGNER, Representatives ALONSO  LEON, BARKER, CLEM, GREENLICK, HELM, HELT, HERNANDEZ,
+HOLVEY, KENY-GUYER, LIVELY, MEEK, MITCHELL, NOSSE, PILUSO, SALINAS, SANCHEZ,  SOLLMAN,
+STARK, WILDE, WILLIAMS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Modifies procedure for expunction of certain juvenile records. Directs juvenile department to
+initiate statutory expunction process for juvenile records relating to contact that did not  result in
+referral to juvenile court.  Directs juvenile department to apply for expunction of juvenile records
+if juvenile had contact with juvenile department but was never found to be under jurisdiction  of
+juvenile court.
+Modifies process for access to counsel for persons seeking to file application  for expunction of
+juvenile records.
+Directs Oregon Youth Authority, in collaboration with  county juvenile departments and Judicial
+Department, to submit report and  recommendations for legislation regarding juvenile expunction
+process to interim committees of Legislative Assembly relating to juveniles.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to juvenile records; creating new provisions; amending ORS 419A.250, 419A.260, 419A.262,
+419A.265, 419C.370, 659A.030 and 670.290; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+EXPUNCTION OF JUVENILE RECORDS
+SECTION 1.
+(1) Sections 2 to 4 of this 2020 Act are added to and made a part of ORS
+chapter 419A.
+(2) ORS 419A.260 and 419A.262 are added to and made a part of sections  2 to 4 of this 2020
+Act.
+SECTION 2. Notice of statutory expunction.  (1) A juvenile department shall issue a notice
+of statutory expunction of a subject person’s records if the subject person:
+(a) Has had contact with the juvenile department and the contact could have resulted in
+a juvenile court’s assumption of jurisdiction under ORS 419C.005;
+(b) Has never been the subject of a petition filed in the juvenile court; and
+(c) Has never been found to be within the jurisdiction of the juvenile court.
+(2) The juvenile department shall issue the notice described in subsection (1) of this sec-
+tion no later than 90 days following:
+(a) The date the subject person attains 18 years of age; or
+(b) If the subject person was 18 years of age or older on the effective date of  this 2020
+Act,  the  date the juvenile department receives a request for expunction from the subject
+person.
+(3) The juvenile department shall send the notice described  in subsection (1) of this sec-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 57
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tion to each agency that the  juvenile department determines, after a reasonable search of
+the juvenile department’s files,  may be in possession of records relating to the subject per-
+son. The notice must notify the recipient agency that  the agency has 60 days from the date
+of receipt to expunge the subject person’s records.
+(4)(a) Upon receipt of a notice of statutory expunction, an agency shall comply and,
+within 60 days of the date of receipt, return a copy of the  notice to the juvenile department
+with an indorsement indicating compliance.
+(b) The juvenile department may, upon an agency’s written request, provide an extension
+of time of no more than 30 days to comply with paragraph (a) of this subsection.
+(c) If an agency fails  to comply with the requirements of paragraph (a) of this subsection,
+the juvenile department shall petition the juvenile court  for an order compelling the agency
+to comply.
+(5) When all agencies subject to the notice of statutory expunction  have indicated their
+compliance or in any event no later than 90 days following the date the notice  was delivered
+as required by subsection  (3) of this section, the juvenile department shall provide the sub-
+ject person with a copy of the notice of statutory expunction, a list of complying and non-
+complying agencies, and a written notice of  rights and effects of expunction. The juvenile
+department then shall expunge forthwith all  records in its possession that are subject to the
+notice of statutory expunction, except that the original notice  of statutory expunction and
+the list of complying and noncomplying agencies which must be preserved under seal.
+(6) The Oregon Youth Authority, in consultation with county juvenile  departments, shall
+develop statewide model forms to implement the provisions of this section.
+SECTION 3.
+Effect of expunction; confidentiality;  penalties. (1) Upon issuance of a notice
+of statutory expunction under section 2 of this 2020 Act or entry of an expunction judgment
+under ORS  419A.262, the contact that is the subject of the expunged record shall not be dis-
+closed by any agency. An agency that is  subject to a notice of statutory expunction or an
+expunction judgment shall respond to  any inquiry about the contact by indicating that no
+record or reference concerning the contact exists.
+(2) A person who is the  subject of a record that has been expunged under ORS 419A.262
+or section 2 of this 2020 Act may assert that the record never existed and that the  contact
+that was the subject of  the record never occurred without incurring a penalty for perjury
+or false swearing under the laws of this state.
+(3) Juvenile courts, by court rule or by order related to a  particular matter, may direct
+that records concerning a subject person be destroyed. No records shall be destroyed until
+at least three years have elapsed after the date of the subject’s most recent  termination. In
+the event the record has been  expunged, the expunction judgment and list of complying and
+noncomplying agencies may not be destroyed,  but shall be preserved under seal. The de-
+struction of records under this subsection does not constitute expunction.
+(4) A notice of statutory  expunction or an expunction judgment and the list of complying
+and noncomplying agencies shall be released from confidentiality only on order  of the court
+that would have had jurisdiction to compel compliance with  the notice of statutory
+expunction or that originated the expunction  judgment, based on a finding that review of a
+particular case furthers compliance with the expunction provisions of sections 2 to  4 of this
+2020 Act.
+(5) A person who, in the person’s official  capacity with a juvenile department, discloses
+[2]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+information in a notice required under ORS 419A.262  or section 2 of this 2020 Act has im-
+munity from any liability, civil or criminal, that might otherwise be incurred or imposed  for
+making the disclosure.
+(6) A subject person has a right of  action against any person who intentionally violates
+the confidentiality provisions of this section. In the proceeding, punitive damages up  to an
+amount of $1,000 may be sought in addition to any actual  damages. The prevailing party shall
+be entitled to costs and reasonable attorney fees.
+(7) Intentional violation of the confidentiality provisions of this section by a public  em-
+ployee is cause for dismissal.
+(8) A person who intentionally releases all or  part of an expunged record commits a Class
+C misdemeanor.
+SECTION 4.
+Appointment of counsel.  (1) If a person who is the subject of a record  that
+is eligible for expunction under ORS 419A.262 (3) to (9) wishes to apply for expunction and  if
+the person is without funds to employ suitable counsel possessing  skills and experience
+commensurate with the nature and complexity of the expunction process, the person  may
+request the juvenile court having jurisdiction over the expunction process  under ORS
+419A.262 (1) to appoint counsel to represent the person in the expunction proceeding.
+(2) The juvenile court shall inform a person requesting court-appointed counsel  under
+this section of the  person’s right to be represented by suitable counsel possessing skills and
+experience commensurate with the nature  and complexity of the expunction process, to
+consult with counsel prior to the filing of  an application for expunction under ORS 419A.262
+(3) to (9) and prior  to a hearing on the matter and, if financially eligible, to have suitable
+counsel appointed at state expense. Upon request of the person, the  juvenile court shall ap-
+point counsel in accordance with the provisions of ORS 419B.195 and 419B.198 to aid the
+person in the expunction proceeding, including in the completion of an  application for
+expunction and representation in any hearings on the application for expunction.
+(3) When the juvenile court appoints counsel for a person under  this section and the
+person is determined to be entitled to, and financially eligible for, appointment of counsel  at
+state expense, the compensation for counsel  and reasonable fees and expenses of investi-
+gation, preparation and presentation paid or incurred shall be determined  and paid as pro-
+vided in ORS 135.055.
+SECTION 5.
+ ORS 419A.260 is amended to read:
+419A.260. (1) As used in [ this section and ORS 419A.262 ] sections 2 to 4 of this 2020 Act :
+(a) “Contact” means any instance  in which a person’s act or behavior, or alleged act or behav-
+ior, which could result in a referral to a juvenile department or  a juvenile court’s assumption  of
+jurisdiction under ORS  419B.100 (1)(a) to (c) and (f) or 419C.005 comes to the attention of an agency
+specified in paragraph (d) of this subsection.
+(b) “Expunction” means:
+[(A) The removal and  destruction or sealing of a judgment or order related to a contact and all
+records and references; and ]
+(A) The removal and destruction of all records and references associated with a  subject
+person;
+(B) The sealing of a judgment, order or other record associated with a subject person;
+(C) The redaction of a subject person’s  name and all references to the subject person
+within a record; or
+[3]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(B)] (D) [Where] If a record is kept by the Department of Human Services [ or the  Oregon Youth
+Authority,  either  the sealing of such record by the department or the Oregon Youth Authority or, in a
+multiperson file, ] the department’s affixing to the front of the file[ , by the department or the youth
+authority,] containing the record  a stamp or statement identifying the name  of the individual, the
+date of expunction and instruction that no further reference shall be made to  the [ material] record
+that is subject to the expunction order except upon an order of a court of competent jurisdiction.
+(c) “Person” includes a person under 18 years of age.
+(d) “Record” includes a fingerprint or photograph file, report, exhibit or other material which
+contains information relating  to a person’s contact with any law enforcement agency, juvenile court
+or juvenile department,  the Psychiatric Security Review Board, the Department of Human
+Services , the Oregon Youth Authority  or the Oregon Health Authority and  is kept manually,
+through the use of electronic data processing equipment, or by any other means by a  law enforce-
+ment or public investigative agency, a juvenile court or juvenile department or  an agency of the
+State of Oregon. “Record” does not include:
+(A) A transcript of a student’s Youth Corrections Education Program academic record;
+(B) Material on file with a public  agency which is necessary for obtaining federal financial
+participation regarding financial assistance or services on behalf of a person  who has had a contact;
+(C) Records kept or  disseminated by the Department of Transportation, State Marine Board and
+State Fish and Wildlife Commission pursuant to juvenile or adult order or recommendation;
+(D) Police and court records related to an order of  waiver where the matter is still pending in
+the adult court or on appeal therefrom, or to any disposition as an adult pursuant to such order;
+(E) Records related to a support obligation;
+(F) Medical records other than those related to a finding of responsible except for insanity under
+ORS 419C.411;
+(G) Records of a proposed or adjudicated termination of parental rights and adoptions;
+(H) Any law enforcement record of a person  who currently does not qualify for expunction or
+of current investigations or cases waived to the adult court;
+(I) Records and case reports of the Oregon Supreme Court and the Oregon Court of Appeals;
+(J) Any records in cases under  ORS 419C.005 in which a juvenile court found a person to be
+within the jurisdiction of the court based upon the  person’s commission of an act which if done by
+an adult would constitute one of the following offenses:
+(i) Aggravated murder under ORS 163.095;
+(ii) Murder in any degree under ORS 163.107 or 163.115;
+(iii) Attempt, solicitation or conspiracy to commit murder in any degree or aggravated murder;
+(iv) Manslaughter in the first degree under ORS 163.118;
+(v) Manslaughter in the second degree under ORS 163.125;
+(vi) Criminally negligent homicide under ORS 163.145;
+(vii) Assault in the first degree under ORS 163.185;
+(viii) Criminal mistreatment in the first degree under ORS 163.205;
+(ix) Kidnapping in the first degree under ORS 163.235;
+(x) Rape in the third degree under ORS 163.355;
+(xi) Rape in the second degree under ORS 163.365;
+(xii) Rape in the first degree under ORS 163.375;
+(xiii) Sodomy in the third degree under ORS 163.385;
+(xiv) Sodomy in the second degree under ORS 163.395;
+[4]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(xv) Sodomy in the first degree under ORS 163.405;
+(xvi) Unlawful sexual penetration in the second degree under ORS 163.408;
+(xvii) Unlawful sexual penetration in the first degree under ORS 163.411;
+(xviii) Sexual abuse in the third degree under ORS 163.415;
+(xix) Sexual abuse in the second degree under ORS 163.425;
+(xx) Sexual abuse in the first degree under ORS 163.427;
+(xxi) Promoting prostitution under ORS 167.012;
+(xxii) Compelling prostitution under ORS 167.017;
+(xxiii) Aggravated driving while suspended or revoked under ORS 163.196;
+(xxiv) Aggravated vehicular homicide under ORS 163.149; or
+(xxv) An attempt to commit a crime listed in this subparagraph other than manslaughter in  the
+second degree and criminally negligent homicide;
+(K) Blood  samples, buccal samples and other physical evidence and identification information
+obtained, stored or maintained by the Department  of State Police under authority of ORS 137.076,
+181A.155 or 419C.473; [ or]
+(L) Records maintained in the Law Enforcement Data System under ORS 163A.035[ .]; or
+(M) Records of a law enforcement agency or  public investigative agency concerning an
+open or otherwise unresolved investigation.
+(e) “Seal” means to make a record not accessible  and to categorize the record as only
+accessible upon order of a court of competent jurisdiction.
+[(e)] (f)  “Termination” means:
+(A) For a  person who is the subject of a record kept by a juvenile court or juvenile department,
+the final disposition of a case by informal means, by a decision not to place the person on probation
+or make  the person a ward of the court after the person has been found to be within the court’s
+jurisdiction or by a  discontinuance of probation, of the court’s wardship or of the jurisdiction of the
+Psychiatric Security Review Board, the Oregon Health Authority or the Department of Human Ser-
+vices.
+(B) For a person who is the subject of a record kept  by a law enforcement or public investi-
+gative agency, a juvenile court or juvenile department or an  agency of the State of Oregon, the final
+disposition of the person’s most recent contact with a law enforcement agency.
+(2) The juvenile court or juvenile department shall make reasonable  effort to provide written
+notice to a child who is within  the court’s jurisdiction under ORS 419B.100 (1)(a) to (c) and (f) or
+to a youth who is within the court’s jurisdiction under  ORS 419C.005, and to the child’s or youth’s
+parent, of the procedures for expunction of a  record, the right to and procedure to access  counsel
+under this chapter, the legal effect  of an expunction order and the procedures for seeking relief from
+the duty to report as a sex offender provided under ORS 163A.130, at the following times:
+(a) At any  dispositional hearing or at the time of entering into a formal accountability agree-
+ment;
+(b) At the time of termination;
+(c) Upon notice to the  subject of an expunction pending pursuant to application of a juvenile
+department or motion on a juvenile court; and
+(d) At the time of notice of execution of an expunction order.
+SECTION 6.
+ ORS 419A.262 is amended to read:
+419A.262. (1) (a) An expunction proceeding  under subsection (2) of this section shall be
+commenced in the county where the subject person resided at  the time of the most recent
+[5]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+contact.
+(b) An expunction proceeding under subsections (3) to (9) of this  section shall be commenced
+in the county where the subject person resided at the time of the most recent termination.
+(2)(a) A juvenile department shall file with the juvenile  court an application for
+expunction of the records of a person the  juvenile department determines meets the criteria
+under paragraph (b) of this subsection no later than 90 days following:
+(A) The date that the person attains 18 years of age; or
+(B) If the person was 18 years of age or older  on the effective date of this 2020 Act, the
+date that the juvenile department receives a request to file the application for expunction.
+(b) Upon receipt of  an application for expunction under this subsection, the juvenile court
+shall order expunction if it finds that:
+(A) The subject person had contact with  the juvenile department and the contact could
+have resulted in a juvenile court’s assumption of jurisdiction under ORS 419C.005;
+(B) The subject person has never been found to be within the jurisdiction of the juvenile
+court;
+(C) There is no petition pending alleging that the subject person is subject to  the juvenile
+court’s jurisdiction under ORS 419C.005; and
+(D) The subject person has not been waived to criminal court pursuant  a hearing under
+ORS 419C.349 or 419C.352.
+(c) If the juvenile court denies the application for expunction under this subsection:
+(A) The court must specify in the judgment denying the  application for expunction the
+reason for the denial.
+(B) The juvenile department shall make  reasonable efforts to send to the subject person
+the following:
+(i) Notice of the court’s decision  and a copy of the judgment denying the application for
+expunction; and
+(ii) Notice of the person’s right to an attorney, right to file a new application  for
+expunction under this subsection and right to request expunction by  application under sub-
+sections (3) to (9) of this section.
+(C) The juvenile department or the subject person may file a new  application for
+expunction under this subsection.
+[(2)] (3)  Upon  application of either a person who is the subject of a record or a juvenile de-
+partment, or upon  its own motion, the juvenile court shall order expunction if, after a hearing when
+the matter is contested, it finds that:
+(a) At least five years have elapsed since the date of the person’s most recent termination;
+(b) Since the date of the most recent  termination, the person has not been convicted of a felony
+or a Class A misdemeanor;
+(c) No proceedings seeking a criminal conviction  or an adjudication in a juvenile court are
+pending against the person;
+(d) The person is not within the jurisdiction of any juvenile  court on the basis of a petition al-
+leging an act or behavior as defined in ORS 419B.100 (1)(a) to (c) and (f) or 419C.005; and
+(e) The juvenile department is not aware of any pending investigation of  the conduct of the
+person by any law enforcement agency.
+[(3)(a)] (4)(a) Notwithstanding  subsection [ (2)] (3) of this section, upon application of a person
+who is the subject of a record kept  by a juvenile court or juvenile department, upon application of
+[6]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the juvenile department, or upon its own motion, the  juvenile court, after a hearing when the matter
+is contested under subsection [ (13)] (14) of this section, shall order expunction if it finds that:
+(A) The  application requests expunction of only that part of the person’s record that involves
+a charge, allegation or adjudication based on conduct that if done by an adult would  constitute the
+crime of prostitution under ORS 167.007; and
+(B) The person was under 18 years of age at the time of the conduct.
+(b) Except as provided in subsections  [(13) and] (14) and (15) of this section, there is no waiting
+period required before the juvenile court orders expunction under this subsection.
+[(4)] (5) In the case of an application by the juvenile  department or of the court acting upon its
+own motion, expunction shall not  be ordered under subsections (3) or (4) of this section  if actual
+notice of expunction has not been given  to the person in accordance with subsection [ (12)] (13) of
+this section unless the person has reached 21 years of age.
+[(5)] (6)  When a person who is the subject of a record kept by a juvenile court or juvenile de-
+partment reaches 18 years of age,  the juvenile court, after a hearing when the matter is contested,
+shall order expunction if:
+(a) The person never has been found to be within the jurisdiction of the court; or
+(b) The conditions of subsection [ (2) or ] (3) or (4) of this section have been met.
+[(6)] (7)  Expunction shall not be ordered under subsections (3) to (9) of  this section if  actual
+notice of expunction has not been given  to the person in accordance with subsection [ (12)] (13) of
+this section unless the person has reached 21 years of age.
+[(7)] (8)  Subsections [ (5) and] (6) and (7) of this section apply only to cases  resulting in termi-
+nation after September 13, 1975.
+[(8)] (9) Notwithstanding subsections [ (2),] (3) , (4) and [ (5) to (7)]  (6) to (8)  of this section,  upon
+application of a person who  is the subject of a record kept by a juvenile court or juvenile depart-
+ment, upon application of the juvenile department, or upon its own motion, the  juvenile court, after
+a hearing  when the matter is contested, may order expunction of all or any part of the person’s
+record if it finds that to do so would be in the  best interests of the person and the public. In the
+case of an application by the juvenile department or of the court acting  upon its own motion,
+expunction shall not be ordered if actual notice of expunction has not been given to the  person in
+accordance with subsection [ (12)] (13) of this  section unless the person has reached 21 years of age.
+[(9)] (10)  Notwithstanding  ORS 419A.260 (1)(d)(J)[ (x), (xiii), (xix) or (xviii) ], a person who has
+been found to be within the jurisdiction of the juvenile  court based on an act that if committed by
+an adult would constitute:
+(a) Rape in the third degree under ORS 163.355, sodomy in the third  degree under ORS 163.385
+or sexual abuse in the  third degree under ORS 163.415, or an attempt to commit those crimes, may
+apply for an order of expunction under subsections (3) to (9) of  this section. The court shall order
+expunction  of  the records in the case if, after a hearing when the matter is contested, the court finds
+that the person:
+(A) Meets the requirements of subsection [ (2)] (3) of this section;
+(B) [ Has been relieved of the obligation to report as a sex offender pursuant to a  court order en-
+tered under ORS 163A.145 or 163A.150 ] Is not required to report as a sex offender ; and
+(C) Has not been convicted of, found guilty except for insanity of  or found to be within the ju-
+risdiction of the juvenile court based on a crime listed in ORS 419A.260 (1)(d)(J), other  than the
+adjudication that is the subject of the motion.
+(b) A sex crime that  is a Class C felony may apply for an order of expunction under subsections
+[7]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) to (9) of  this section. The court shall order expunction of the records in the case if, after a
+hearing when the matter is contested, the court finds that:
+(A) The person meets the requirements of subsection [ (2)] (3) of this section;
+(B) The person was under 16 years of age at the time of the offense;
+(C) The person is:
+(i) Less than two years and 180 days older than the victim; or
+(ii) At least two years and  180 days older, but less than three years and 180 days older, than
+the victim and the expunction is  in the interests of justice and of benefit to the person and the
+community;
+(D) The victim’s lack of consent was due solely  to incapacity to consent by reason of being less
+than a specified age;
+(E) The victim was at least 12 years of age at the time of the offense;
+(F) Each finding described in this paragraph involved the same victim; and
+(G) The person has not been convicted of, found guilty except for insanity of or found to  be
+within the  jurisdiction of the juvenile court based on a crime listed in ORS 419A.260 (1)(d)(J) or an
+offense the court is prohibited from  setting aside under ORS 137.225, other than the adjudication
+that is the subject of the motion.
+[(10)] (11)  When an expunction proceeding under subsections (3) to  (9) of this section  is
+commenced by application of the person whose records are to be expunged, the person shall set forth
+as part of the application the names of the juvenile courts,  juvenile departments, institutions and
+law enforcement and other agencies that the person has reason to believe possess an expungible
+record of the person.  The juvenile department shall provide the names and addresses of the juvenile
+courts, juvenile departments, institutions and law  enforcement and other agencies that a reasonable
+search of department files indicates have expungible records.
+[(11)] (12)  When  an expunction proceeding is commenced by application of the juvenile depart-
+ment or upon the court’s own motion, the  application or motion shall set forth the names and ad-
+dresses of the juvenile courts, juvenile departments, institutions and  law enforcement and other
+agencies that a reasonable search of department files indicates  have expungible records and those
+provided by the subject person.
+[(12)(a)] (13)(a)  Notice and a copy of an application for expunction under subsections [ (2) to
+(8)] (3) to (9)  of this section shall be given to:
+(A) The district attorney of the county in  which the expunction proceeding is commenced and
+the district attorney of each county in which the record sought to be expunged is kept; and
+(B) The person who is the  subject of the record if the person has not initiated the expunction
+proceeding.
+(b) A district attorney who receives notice under this subsection shall notify the  victim of the
+acts that resulted in the  disposition that is the subject of the application for expunction and shall
+mail a copy of the application for expunction to the victim’s last known address.
+[(13)(a)] (14)(a) Within  30 days of receiving the notice of application for expunction under sub-
+section [ (12)] (13) of this section, a district attorney shall give written notice of any objection and
+the grounds therefor to the person whose records are to be expunged and to the juvenile court.
+(b) Except as provided in subsection [ (14)(c)] (15)(c)  of this  section, if no objection is filed the
+court may decide  the issue of expunction either without a hearing or after full hearing under sub-
+sections [ (14) to (17) ] (15) to (18)  of this section.
+[(14)] (15) When an expunction  is pending under subsections [ (2) to (8) ] (3) to (9)  of this section,
+[8]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the court may proceed with or without a hearing, except that:
+(a) The court may not enter an expunction judgment without  a hearing if a timely objection to
+expunction has been filed under subsection [ (13)] (14) of this section;
+(b) The court may not deny an expunction without  a hearing if the proceeding is based on an
+application of the subject; and
+(c) The court shall proceed without a hearing if:
+(A) No objection is filed under subsection [ (13)] (14) of this section;
+(B) The application requests expunction of only that part of the person’s record that  involves
+a charge, allegation or adjudication based on conduct that if done by an adult would  constitute the
+crime of prostitution under ORS 167.007; and
+(C) The person was under 18 years of age at the time of the conduct.
+[(15)(a)] (16)(a) Notice of a hearing on a pending expunction shall be served on the subject  and
+any district attorney filing a timely objection under subsection [ (13)] (14) of this section.
+(b) When  a district attorney receives notice of a hearing for expunction of a record concerning
+a youth or youth offender proceeding under  ORS chapter 419C, if the victim of the acts that resulted
+in the  disposition that is the subject of the application for expunction requests, the district attorney
+shall mail notice of the hearing to the victim’s last-known address.
+[(16)] (17) The court shall conduct a hearing on [ a pending expunction ] an expunction pending
+under subsections (3) to  (9) of this section  in accord with the provisions of ORS [ 419B.195,
+419B.198, 419B.201,] 419B.205, 419B.208, 419B.310, 419B.812 to 419B.839 and 419B.908.  Rules of evi-
+dence shall be  as in a hearing to establish juvenile court jurisdiction and as defined in ORS 419B.310
+(3) and 419C.400 (2). The burden of proof shall be with the party contesting expunction.
+[(17)] (18)(a) At the conclusion of a hearing on [ a pending expunction ] an expunction pending
+under subsections (3) to (9)  of this section , the court shall issue judgment granting or denying
+expunction.
+(b) The  court’s denial of an application for expunction under this section does not pre-
+clude the subject person from filing  an application for expunction under any other applicable
+subsection of this section.
+[(18)] (19)(a)  The juvenile court or juvenile department shall send a copy of  an expunction
+judgment to each agency subject to the judgment. Attached to the expunction  judgment must
+be information, to remain confidential, regarding  the record to be expunged and the date of
+the record.
+(b) Upon receipt of a copy of the  judgment granting an application for expunction under
+subsection (2) of this section, the agency shall comply and, within  60 days of the date of re-
+ceipt, return the copy to the  juvenile court or the juvenile department with an indorsement
+indicating compliance.
+(c) Upon receipt of a copy of  the judgment  granting an application for expunction under
+subsections (3) to (9) of this section , the agency shall comply and, within 21  days of the date of
+receipt, return the copy to the juvenile court or juvenile department with an indorsement indicating
+compliance.
+(d) The juvenile court may, upon an agency’s written request, grant an extension of time
+of no more than 30 days to comply with paragraph (b) or (c) of this subsection.
+[(19)] (20) When all agencies subject to an expunction judgment have indicated their compliance
+or in any event no later than [ six weeks ] 90 days  following the date the judgment was  delivered as
+required by subsection [ (18)] (19) of this section, the juvenile court shall provide the person who is
+[9]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the subject of the  record with a copy of the expunction judgment, a list of complying and noncom-
+plying agencies, and a written notice of rights and effects of expunction. The juvenile court and ju-
+venile department then shall expunge forthwith all records which they possess and which are subject
+to the judgment, except the  original expunction judgment and the list of complying and noncomply-
+ing agencies which must be preserved under seal.
+[(20)] (21)  In addition to those agencies identified in  ORS 419A.260 (1)(d), the juvenile, circuit,
+municipal and justice courts, and the district  and city attorneys of this state, are bound by an
+expunction judgment of any juvenile court of appropriate  jurisdiction in this state issuing an
+expunction judgment.
+(22)(a) Applications for expunction under this section shall be available from  the clerk
+of the court in a form prescribed by the State Court Administrator.
+(b) The State Court Administrator shall  prescribe the content and form of expunction
+judgments under this section. The judgment forms must include a place  for the court to
+specify the method of expunction under ORS 419A.260 (1)(b) that applies to  a given record
+and, if the record is kept by an agency in a multiperson  file, whether the agency must redact
+the subject person’s name from all records subject to the order or seal the entire file.
+[(21) Upon entry of an expunction judgment, the contact that is the subject of the expunged  record
+shall not be  disclosed by any agency. An agency that is subject to an expunction judgment shall re-
+spond to any  inquiry about the contact by indicating that no record or reference concerning the contact
+exists.]
+[(22) A person who is the subject of a record that has been expunged under this section may  assert
+that the record never existed and that the contact, which was the subject of the record, never occurred
+without incurring a penalty for perjury or false swearing under the laws of this state. ]
+[(23) Juvenile courts, by court rule or by order related to a particular matter, may direct that re-
+cords concerning a subject person be destroyed. No records shall be destroyed until at  least three years
+have elapsed after the date of the subject’s most recent termination.  In the event the record has been
+expunged, the expunction judgment and list of complying and noncomplying agencies may not be de-
+stroyed, but shall be preserved under seal. The destruction of records under  this subsection does not
+constitute expunction. ]
+[(24) An expunction judgment and list of complying and noncomplying  agencies shall be released
+from confidentiality only on  order of the court originating the expunction judgment, based on a finding
+that review of a particular case furthers compliance with the expunction provisions of this chapter. ]
+[(25) A subject has a right of action against any  person who intentionally violates the
+confidentiality provisions of this section.  In the proceeding, punitive damages up to an amount of $1,000
+may be sought in addition to any actual damages. The prevailing party shall be entitled to costs and
+reasonable attorney fees. ]
+[(26) Intentional violation of the confidentiality provisions of this section by  a public employee is
+cause for dismissal. ]
+[(27) A  person who intentionally releases all or part of an expunged record commits a Class C
+misdemeanor.]
+CONFORMING AMENDMENTS
+SECTION 7.
+ ORS 419A.250 is amended to read:
+419A.250. (1) A child, ward, youth or youth offender may be photographed or fingerprinted  by
+[10]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+a law enforcement agency:
+(a) Pursuant to a search warrant;
+(b) According to laws concerning adults if the youth has been transferred  to criminal court for
+prosecution;
+(c) Upon  consent of both the child or youth and the child or youth’s parent after advice that
+they are not required to give such consent;
+(d) Upon request or consent of the child’s parent alone if the child is less than 10  years of age,
+and if the law enforcement agency delivers the original photographs or fingerprints to the  parent
+and does not make or retain any copies thereof; or
+(e) By order of the juvenile court.
+(2) When  a youth is taken into custody under ORS 419C.080, the law enforcement agency taking
+the youth into custody shall photograph and fingerprint the  youth. When a youth is found within the
+jurisdiction of the juvenile court for the commission of an  act that would constitute a crime if
+committed by an adult, the court  shall ensure that the youth offender’s fingerprints have been taken.
+The law enforcement  agency attending upon the court is the agency responsible for obtaining the
+fingerprints. The law enforcement agency  attending upon the court may, by agreement, arrange for
+another law enforcement agency to obtain the fingerprints on the attending agency’s behalf.
+(3) Fingerprint and photograph files or records of children, wards, youths and  youth offenders
+must be kept separate from those of adults, and fingerprints and photographs  known to be those of
+a child may  be maintained on a local basis only and may not be sent to a central state or federal
+depository.
+(4) Fingerprint and photograph files or records of a child, ward, youth or youth offender are
+open to inspection only by, or the contents disclosed only to, the following:
+(a) Public agencies for use in investigation or prosecution of crimes  and of conduct by a child,
+ward, youth or youth offender  that if committed by an adult would be an offense, provided that a
+law enforcement agency  may provide information to another agency only when the information is
+pertinent to a specific investigation by that agency;
+(b) The juvenile department and  the juvenile court having the child, ward, youth or youth
+offender before it in any proceeding;
+(c) Caseworkers and counselors taking action or otherwise responsible for planning and  care of
+the child, ward, youth or youth offender;
+(d) The parties to the proceeding and their counsel; and
+(e) The victim or a witness of an  act or behavior described under ORS 419C.005 (1) or the
+victim’s parent,  guardian, personal representative or subrogee, when necessary to identify the youth
+or youth offender committing the act or behavior and identifying the apparent extent of  the youth
+or youth offender’s involvement in the act or behavior.
+(5)(a) Fingerprint and photograph files or records  of youths and youth offenders must be sent to
+a central state depository in the same manner as fingerprint and photograph files or records of
+adults. The fingerprint and photograph files  or records of a youth or youth offender sent to a central
+depository under this subsection are open to inspection in the same manner and under the  same
+circumstances as fingerprint and photograph files or records of adults.
+(b) A party filing a petition alleging  that a youth is within the jurisdiction of the court under
+ORS 419C.005 shall notify the central state depository of the following:
+(A) The filing of a petition alleging that a youth committed an act that if committed by an  adult
+would constitute a crime; or
+[11]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) The dismissal of  a petition alleging that a youth committed an act that if committed by an
+adult would constitute a crime.
+(c) The juvenile court shall notify the central state depository  of the disposition of a case in
+which jurisdiction is based on ORS 419C.005.
+(d) The Department of  State Police shall delete the fingerprint and photograph files or records
+of a youth or youth offender from the depository and destroy the files  or records relating to the
+conduct that caused the files or records to be sent to the depository:
+(A) One year after receiving the files, if the central state depository has not received  notice
+under paragraph (b) of this subsection;
+(B) No later than one year  following receipt of a notice of dismissal of a petition under para-
+graph (b)(B) of this subsection; or
+(C) In all other circumstances, no later than five years and  30 days after fingerprint and pho-
+tograph files or records are sent to the central state depository.
+(6) Fingerprint and photograph files and records of a child, ward, youth or youth  offender must
+be expunged when the juvenile court orders expunction of a child, ward, youth or  youth offender’s
+record pursuant to [ ORS 419A.260 and 419A.262 ] sections 2 to 4 of this 2020 Act .
+(7) The parent or guardian of a  missing child may submit a fingerprint card and photograph of
+the child to  a law enforcement agency at the time a missing person report is made. The law
+enforcement agency may submit  the fingerprint file to the Department of State Police. The infor-
+mation must be  entered into the Law Enforcement Data System and the Western Identification
+Network Automated Fingerprint Identification System.
+(8) When fingerprint files or records are submitted under  subsection (7) of this section, the De-
+partment of State Police shall  enter in a special index in the computerized criminal history files the
+name of the child and  the name of the county or agency that submitted the fingerprint file or record.
+(9) Fingerprints and other  information entered in any data system pursuant to subsection (7) of
+this section must be deleted when the child is located.
+SECTION 8.
+ ORS 419A.265 is amended to read:
+419A.265. Notwithstanding ORS 419A.262  [ (2)(a)] (3)(a) , a person is eligible for an order of
+expunction under ORS 419A.262  (3) to (9)  if the  person was adjudicated for committing an act that,
+if committed by an adult, would constitute  a criminal offense in which possession, delivery or man-
+ufacture of marijuana or a marijuana item as defined in ORS 475B.015 is an element and:
+(1) The court finds that at least  one year has elapsed since the date of the person’s most recent
+termination;
+(2) The applicant has not been adjudicated or convicted for  any other act or offense, excluding
+motor vehicle violations; and
+(3) The applicant has complied with and performed all conditions of the adjudication.
+SECTION 9.
+ ORS 419C.370 is amended to read:
+419C.370. (1) The juvenile court may enter an order directing that all cases involving:
+(a) Violation of a law  or ordinance relating to the use or operation of a motor vehicle, boating
+laws or game laws be waived to criminal or municipal court;
+(b) An offense classified as a violation under the laws of  this state or a political subdivision of
+this state be waived  to municipal court if the municipal court has agreed to accept jurisdiction; and
+(c) A misdemeanor  that entails theft, destruction, tampering with or vandalism of property be
+waived to municipal court if the municipal court has agreed to accept jurisdiction.
+(2) Cases waived under subsection (1) of this section are subject to the following:
+[12]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) That the criminal or municipal court prior to hearing a  case, other than a case involving a
+parking violation, in which the defendant is or appears to be under 18 years of age notify the juve-
+nile court of that fact; and
+(b) That the juvenile court may direct that any such case be waived to  the juvenile court for
+further proceedings.
+(3)(a) When a person  who has been waived under subsection (1)(c) of this section is convicted
+of a property offense, the municipal court may  impose any sanction authorized for the offense except
+for incarceration. The municipal court shall notify the juvenile court of the disposition of the case.
+(b) When a person has been waived under  subsection (1) of this section and fails to appear as
+summoned or is placed on probation and is alleged to have violated  a condition of the probation, the
+juvenile court may recall the case to the juvenile court for further  proceedings. When a person has
+been returned to juvenile court under this paragraph,  the juvenile court may proceed as though the
+person had failed to  appear as summoned to the juvenile court or had violated a juvenile court
+probation order under ORS 419C.446.
+(4) Records of cases waived under subsection (1)(c) of this  section are juvenile records for pur-
+poses of expunction under [ ORS 419A.260 ] sections 2 to 4 of this 2020 Act .
+SECTION 10.
+ ORS 659A.030 is amended to read:
+659A.030. (1) It is an unlawful employment practice:
+(a) For an employer, because of an individual’s race, color, religion, sex, sexual orientation,  na-
+tional origin, marital status or age if the individual is 18 years  of age or older, or because of the
+race, color, religion, sex,  sexual orientation, national origin, marital status or age of any other
+person with whom the individual associates,  or because of an individual’s juvenile record that has
+been expunged pursuant to [ ORS 419A.260 and 419A.262 ] sections 2 to 4 of this 2020 Act , to refuse
+to hire or employ the individual or to  bar or discharge the individual from employment. However,
+discrimination is not an unlawful employment  practice if the discrimination results from a bona fide
+occupational qualification reasonably necessary to the normal operation of the employer’s business.
+(b) For  an employer, because of an individual’s race, color, religion, sex, sexual orientation, na-
+tional origin, marital status or age if the individual  is 18 years of age or older, or because of the
+race, color, religion, sex, sexual orientation, national origin, marital status or age  of any other
+person with whom the individual associates, or because of an  individual’s juvenile record that has
+been expunged pursuant to [ ORS 419A.260 and 419A.262 ] sections 2 to 4 of  this 2020 Act , to dis-
+criminate against the  individual in compensation or in terms, conditions or privileges of employment.
+(c) For a labor  organization, because of an individual’s race, color, religion, sex, sexual orien-
+tation, national origin, marital status or  age if the individual is 18 years of age or older, or because
+of an individual’s juvenile  record that has been expunged pursuant to [ ORS 419A.260 and
+419A.262] sections 2 to 4 of this 2020 Act , to exclude or to expel from its  membership the indi-
+vidual or to discriminate in any way against the individual or any other person.
+(d) For any employer or employment  agency to print or circulate or cause to be printed or cir-
+culated any statement, advertisement or publication, or to use  any form of application for employ-
+ment or to make any inquiry in  connection with prospective employment that expresses directly or
+indirectly any limitation, specification or discrimination as to an individual’s  race, color, religion,
+sex, sexual orientation, national origin, marital  status or age if the individual is 18 years of age or
+older, or on the basis of an expunged juvenile record, or any intent to make  any such limitation,
+specification or discrimination, unless based upon a  bona fide occupational qualification. Identifica-
+tion of  prospective employees according to race, color, religion, sex, sexual orientation, national
+[13]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+origin, marital status or age does  not violate this section unless the Commissioner of the Bureau
+of Labor and Industries, after a hearing conducted pursuant to ORS 659A.805,  determines that the
+designation expresses an intent to limit, specify or discriminate  on the basis of race, color, religion,
+sex, sexual orientation, national origin, marital status or age.
+(e) For an employment agency, because of an individual’s race,  color, religion, sex, sexual ori-
+entation, national origin, marital status or age if the individual is  18 years of age or older, or be-
+cause of the race, color, religion, sex, sexual orientation, national origin, marital status or age  of
+any other person with whom the individual associates, or because of an individual’s  juvenile record
+that has been expunged pursuant to [ ORS 419A.260  and 419A.262 ] sections 2 to  4 of this 2020
+Act, to classify or refer for employment, or to fail or refuse to refer for employment, or  otherwise
+to discriminate against the individual. However, it is not an unlawful employment practice  for an
+employment agency to classify or refer for employment an individual when the  classification or re-
+ferral results from a bona fide occupational qualification reasonably necessary to the normal oper-
+ation of the employer’s business.
+(f) For any person to discharge, expel or  otherwise discriminate against any other person be-
+cause that other person has opposed any unlawful practice, or because that other person has  filed
+a complaint, testified or assisted in any proceeding under this chapter or has attempted to do so.
+(g) For any person, whether an employer or  an employee, to aid, abet, incite, compel or coerce
+the doing of any of the acts forbidden under this chapter or to attempt to do so.
+(2) The provisions of this section apply to  an apprentice under ORS 660.002 to 660.210, but the
+selection of an apprentice on the  basis of the ability to complete the required apprenticeship train-
+ing before attaining the age of 70 years is not an  unlawful employment practice. The commissioner
+shall administer  this section with respect to apprentices under ORS 660.002 to 660.210 equally with
+regard to all employees and labor organizations.
+(3) The compulsory retirement of employees required  by law at any age is not an unlawful em-
+ployment practice if lawful under federal law.
+(4)(a) It is not an  unlawful employment practice for an employer or labor organization to provide
+or make financial provision for child care  services of a custodial or other nature to its employees
+or members who are responsible for a minor child.
+(b) As used in this subsection, “responsible for a minor  child” means having custody or legal
+guardianship of a minor child or acting in loco parentis to the child.
+(5) This section does not prohibit an employer from enforcing  an otherwise valid dress code or
+policy, as long as the employer provides, on a case-by-case basis, for reasonable accommodation  of
+an individual based on the health and safety needs of the individual.
+SECTION 11.
+ ORS 670.290 is amended to read:
+670.290. It  shall be unlawful for any state agency or licensing board, including the Oregon State
+Bar, to:
+(1) Require that an applicant for employment, licensing or  admission answer any questions re-
+garding the existence or contents  of a juvenile record that has been expunged pursuant to [ ORS
+419A.260 and 419A.262 ] sections 2 to 4 of this 2020 Act ;
+(2) Bar or discharge from employment or refuse to hire or  employ such individual because of the
+existence or contents of a juvenile record that has been expunged pursuant to [ ORS 419A.260 and
+419A.262] sections 2 to 4 of this 2020 Act ; or
+(3) Deny, revoke or suspend a license because of the existence or contents  of a juvenile record
+that has been expunged pursuant  to [ ORS 419A.260  and 419A.262 ] sections 2 to 4 of this 2020
+[14]
+SB 1573
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Act.
+REPORT
+SECTION 12.
+Report to Legislative Assembly. No later than September 15, 2021, the
+Oregon Youth Authority, in collaboration with county juvenile departments  and the Judicial
+Department, shall submit a report to the  interim committees of the Legislative Assembly
+relating to juveniles describing the  process by which records of contacts are expunged under
+sections 2 to 4 of this 2020 Act, and include:
+(1) The number of applications  for expunction submitted by juvenile departments under
+section 2 of this 2020 Act and ORS 419A.262 (2).
+(2) The number of applications for expunction submitted by persons who  are subjects of
+records under section 2 of this 2020 Act and ORS 419A.262 (2).
+(3) The number of applications for expunction described in subsections (1) and (2)  of this
+section granted by the court, the number of applications denied by the  court and the number
+of applications still pending.
+(4) Recommendations for legislation to improve the expunction process.
+(5) Recommendations  for legislation extending the expunction process under ORS
+419A.262 (2) to  records of juveniles who have been found to be under the jurisdiction of the
+juvenile court for certain misdemeanors and  felonies and recommendations regarding which
+misdemeanor and felony records should be automatically expunged.
+(6) A description of the types of access to court data information and  law enforcement
+data information systems the Oregon Youth Authority and juvenile departments  have or
+would require to certify the accuracy  of both juvenile and adult criminal records checks to
+implement the legislation recommended under subsection (5) of this section.
+(7) The estimated cost of the  legislation recommended under subsections (4) and (5) of
+this section.
+MISCELLANEOUS
+SECTION 13.
+Sections 2 to 4 of this 2020 Act and the amendments to ORS 419A.250,
+419A.260, 419A.262, 419A.265, 419C.370, 659A.030 and 670.290 by sections 5 to  11 of this 2020
+Act apply to expunction of records related to  juvenile cases created before, on or after the
+effective date of this 2020 Act.
+SECTION 14. (1) Sections 2 to 4 of this 2020 Act, and the amendments to ORS 419A.250,
+419A.260, 419A.262, 419A.265, 419C.370, 659A.030  and 670.290 by sections 5 to 11 of this 2020
+Act become operative on January 1, 2021.
+(2) The State Court Administrator and the Oregon  Youth Authority may take any action
+before the operative date specified in subsection (1) of this  section that is necessary for the
+administrator or the authority to exercise, on and after the operative date  specified in sub-
+section (1) of this section, all  of the duties, functions and powers conferred on the adminis-
+trator or the authority by sections 2 to 4 of this 2020 Act and the amendments to  ORS
+419A.250, 419A.260, 419A.262, 419A.265, 419C.370, 659A.030 and 670.290 by sections 5  to 11 of
+this 2020 Act.
+SECTION 15. The unit and section captions used in this 2020 Act are provided only for
+[15]
+SB 1573
+1
+2
+3
+4
+5
+6
+the convenience of the reader and do not become part of the statutory  law of this state or
+express any legislative intent in the enactment of this 2020 Act.
+SECTION 16.
+This 2020 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2020 Act takes effect
+on its passage.
+[16]

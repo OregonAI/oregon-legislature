@@ -1,0 +1,165 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Senate Bill 443
+Sponsored by Senator FERRIOLI (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires that at least 25 percent of Oregon  Opportunity Grant moneys be awarded to students
+committed to majoring in science, technology, engineering or  mathematics fields. Requires that in-
+dividuals demonstrating financial need be prioritized for receiving grant moneys.
+A BILL FOR AN ACT
+Relating to Oregon Opportunity Grants; creating new provisions; and amending ORS 348.205.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 348.205 is amended to read:
+348.205. (1) The Oregon Opportunity Grant program is established within  the Higher Education
+Coordinating  Commission.
+(2) Under the  program, the cost of education of a qualified student shall be shared by the stu-
+dent, the family of the student, the federal government and the state.
+(3) The Executive Director of the Office  of Student Access and Completion shall determine the
+cost of education of a qualified student based on the type of eligible post-secondary institution  the
+student is attending. The cost of education equals:
+(a) For a student attending a community college,  the average cost of education of attending a
+community college in this state;
+(b) For a student attending a public university listed  in ORS 352.002, the average cost of edu-
+cation of attending a public university;
+(c) For a student attending a two-year Oregon-based,  generally accredited, not-for-profit institu-
+tion of higher education, the  average cost of education of attending a community college in this
+state; and
+(d) For a student attending [ the] Oregon Health and Science University or a four-year  Oregon-
+based, generally accredited, not-for-profit institution of higher education, the  average cost of edu-
+cation of attending a public university listed in ORS 352.002.
+(4)(a) The executive director shall determine the amount of the student  share. The student share
+shall be based on:
+(A) The type of eligible post-secondary institution the student is attending;
+(B) The number of hours of work that the executive director  determines may be reasonably ex-
+pected from the student; and
+(C) The amount of loans that the executive director determines  would constitute a manageable
+debt burden for the student.
+(b) The student shall determine how to cover  the student share through income from work,
+loans, savings and scholarships.
+(c) The student share  for a student who attends a community college may not exceed the amount
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2771
+SB 443
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+that the executive director determines a student may earn based on the number of  hours of work
+reasonably expected from the student under paragraph (a) of this subsection.
+(d) The student share for a student who attends an eligible post-secondary  institution that is not
+a community college may not exceed the sum of the amount that  the executive director determines
+a student may receive as loans plus the amount a student may earn based  on the number of hours
+of work reasonably expected from the student under paragraph (a) of this subsection.
+(5) The executive director  shall determine the amount of the family share. The family share shall
+be based on the resources of the family.
+(6) The executive director shall determine the amount of the federal  share based on how much
+the student or the student’s family is  expected to receive from the federal government as grants,
+loans, tax credits or other student assistance.
+(7)(a) The executive  director shall determine the amount of the state share. The state share shall
+be equal to the cost of education  reduced by the student share, family share and amount received
+by the student from the federal government.
+(b) The executive director shall establish a minimum amount that a student may receive  as a
+state share. If the executive director determines that the amount of the  state share of a student is
+below the minimum amount, the student may not receive the state share.
+(c) The executive director may not reduce the amount of  the state share of a student based on
+amounts available to the student by virtue of being the designated beneficiary  of a college savings
+network account established under ORS 178.300 to 178.355.
+(8) Subject to  subsection (9) of this section, if the executive director determines that there are
+insufficient moneys to award the state share to all qualified students, the executive director:
+(a) May establish  the maximum amount that a student may receive as a state share. This amount
+may vary based on whether the student is attending an eligible post-secondary institution  on a
+half-time or full-time basis.
+[(b) May establish procedures that prioritize awarding  Oregon Opportunity Grants to qualified
+students with the  greatest financial need or whose circumstances would enhance the promotion of equity
+guidelines published by the Higher Education Coordinating Commission. ]
+[(c)] (b)  May not  reduce the amount of the state share awarded to students in the low income
+range in a greater proportion  than the amount that the state share for students in other income
+ranges is reduced.
+(9)(a) The Higher Education Coordinating Commission shall adopt rules [ that prioritize current
+foster children and former foster children for receiving ] for distributing  Oregon  Opportunity Grants
+when the Oregon Opportunity Grant  program does not have sufficient funding to serve all eligible
+Oregon students.  These rules shall ensure that:
+(A) At least 25 percent of  all Oregon Opportunity Grant moneys are awarded to students
+who commit to major in science, technology, engineering or mathematics fields; and
+(B) Current foster children, former foster children and individuals demonstrating  finan-
+cial need are prioritized for receiving Oregon Opportunity Grants.
+(b) [For the purposes of ] As used in  this subsection, “former foster  child” has the meaning given
+that term in ORS 350.300.
+SECTION 2. The amendments to ORS 348.205 by section 1 of this 2017  Act first apply to
+Oregon Opportunity Grants awarded on or after the effective date of this 2017 Act.
+[2]

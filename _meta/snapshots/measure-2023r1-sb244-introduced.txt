@@ -1,0 +1,138 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 244
+Sponsored by Senator ROBINSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Limits interest rate to no more than prime rate plus  one percent for loans advanced under
+veterans’ home and farm loan program.
+Appropriates moneys from General Fund to  Department of Veterans’ Affairs for deposit in
+Oregon War Veterans’ Fund, for biennium beginning July 1, 2023, to be used to advance  loans to
+qualified veterans for acquisition of farms and homes.
+A BILL FOR AN ACT
+Relating to veterans’ loans for acquisition of real property; creating new provisions; and  amending
+ORS 407.315 and 407.325.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 407.315 is amended to read:
+407.315. (1) When a veteran assumes a previous loan under ORS 407.305, the interest  rate to be
+paid by the veteran  from the date of assumption shall be the rate per annum , not to exceed the
+prime rate plus one percent,  prescribed periodically  by the Department of Veterans’ Affairs, tak-
+ing into consideration the solvency of  the loan program and the interest rates currently prevailing
+in this state for loans secured by owner-occupied residential property.
+(2) The department shall make a cash flow projection to  determine if assumptions at the interest
+rate established under subsection (1) of this  section are among the causes of a negative cash flow
+projection for the loan program. The cash flow  projection required by this section shall be an esti-
+mate of  the revenue received from the repayment of loans, interest earnings, administrative expenses
+of the loan program, payment of interest and principal on outstanding debt and  other relevant fac-
+tors during the period in which current outstanding bonds are required to be retired.
+(3) If the  cash flow projection required under subsection (2) of this section indicates that as-
+sumptions of  loans at the interest rate established under subsection (1) of this section are a cause
+of a negative cash flow projection for the loan program, the department, by rule and notwithstanding
+ORS 407.325 (3), shall increase the interest rate to be paid for loans assumed under ORS 407.305  to
+the lowest rate per annum  that assures a positive cash flow projection, but not exceeding the rate
+then prescribed under ORS 407.325.
+SECTION 2.  ORS 407.325 is amended to read:
+407.325. (1) The Department of Veterans’ Affairs shall periodically prescribe the interest rate ,
+not to exceed the prime rate  plus one percent,  to be paid by an applicant for a home or farm
+acquisition loan with a fixed interest rate, taking into consideration the current value of  the money,
+the solvency of the loan program and the effect of the rate on veteran applicants.
+(2) The department shall periodically, during the term of  a home or farm loan with a variable
+interest rate, prescribe the interest rate , not to exceed the prime rate plus one percent,  to be
+paid by an applicant, taking into  consideration the current value of the money, the solvency of the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2939
+SB 244
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+loan program and the effect of the rate on veteran applicants.
+(3) Except as provided in subsection (4) of this section:
+(a) The rate of interest on a loan  granted on or after May 27, 1971, and originally set at five
+and nine-tenths percent per annum may not  be increased to more than seven and nine-tenths percent
+per annum.
+(b) The rate of  interest on a loan granted on or after January 1, 1981, and originally set at seven
+and two-tenths percent per annum may not be increased to more than nine and  two-tenths percent
+per annum.
+(4) The department may prescribe the interest rate to be paid by an applicant at  a rate greater
+than the rates described in subsection (3) of  this section, but only if the department determines, at
+the sole  discretion of the department, that such action is necessary to avoid invoking the provisions
+of Article XI-A, section 4, of the Oregon Constitution.
+(5) When, during  two consecutive fiscal years, the cash flow projection and the review of the
+projection performed under ORS 407.185  indicate that the Oregon War Veterans’ Bond Sinking Ac-
+count will maintain a balance throughout the term of the projections that  exceeds the succeeding
+years’ debt service and operating expenses for the loan program, the department shall  prepare a
+program for reducing the interest rates charged under  this section in such a manner as to ensure
+the future solvency and self-supporting nature of the loan program. However, no reduction in inter-
+est rates shall occur if the variable rate debt, if converted to a fixed rate, requires  retention of the
+amounts in order to meet projections.
+(6) Notwithstanding the rate prescribed for acquisition of a home as provided in subsections  (1)
+to (5) of this section, the department may periodically establish separate  and distinct interest rates
+for home improvement loans granted before January 1, 2020.
+SECTION 3.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Department of Veterans’ Affairs, for the biennium beginning July 1,  2023, out of
+the General Fund, the amount of $40,000,000, to be deposited into the Oregon  War Veterans’
+Fund created by ORS 407.495, and to be used by the department to advance loans to  any
+person qualified for loans under the provisions  of Article XI-A, section 3, Oregon Constitu-
+tion, for the acquisition of farms and homes, as provided in ORS chapter 407.
+[2]

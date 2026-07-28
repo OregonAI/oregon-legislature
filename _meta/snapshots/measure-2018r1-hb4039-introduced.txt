@@ -1,0 +1,291 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+79th OREGON LEGISLATIVE ASSEMBLY--2018 Regular Session
+House Bill 4039
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Veterans and Emergency Preparedness)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Requires state agency that grants or lends moneys for capital costs of research center to obtain
+right to receive portion  of revenue derived from patents obtained from work by research center.
+Provides that revenues derived from patents be used for grant programs  related to emergency
+preparedness, innovation-based economic development, energy-related  innovation, regionally deter-
+mined innovation priorities and capital costs related to emergency preparedness.
+Requires Office of Emergency Management to develop and administer grant program to pur-
+chase emergency  preparedness equipment throughout state. Establishes Critical Priority Resiliency
+Grant Fund to fund grant program.
+Requires Oregon  Business Development Department to develop and administer grant program
+to promote innovation-based economic development in this state. Establishes  Critical Priority Inno-
+vation Grant Fund to fund grant program.
+Requires Department  of Education to develop and administer grant program to promote research
+and development of energy-related technologies. Establishes Critical  Technology Capitalization Fund
+to fund grant program.
+A BILL FOR AN ACT
+Relating to use of patent revenues for critical investments.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) If a state agency lends or grants moneys to a  private entity to be used
+for capital costs of a research  center, the state agency shall, before lending or granting the
+moneys, enter into an agreement with the private entity that grants the  Oregon Department
+of Administrative Services a  right to receive some or all of the revenues derived from any
+patents obtained as a result of work performed at or enabled by the research center.
+(2) The agreement may use any commercially  reasonable method of allocating revenues.
+In negotiating the agreement, the state agency shall consider at least the following goals:
+(a) Maximization of the total revenue granted to the state under the agreement; and
+(b) Promotion of technological innovation.
+(3) The state agency shall consult with the Department of Justice when  negotiating the
+agreement. The state agency may not execute the agreement  unless the agreement is first
+approved by the Department of Justice.
+(4) As used in this section:
+(a) “Private entity” means any entity that  is not a public body as defined in ORS 174.109.
+(b) “Research center” means any facility designed, in whole or in part, for research  or
+development of technology or other innovations, but does not include a facility that is owned
+by a public university.
+(c) “State agency” has the meaning given that term in ORS 276A.230.
+SECTION 2.
+(1) When the Oregon Department of Administrative Services, pursuant to
+an agreement under section 1 of this 2018 Act, receives revenues derived from a  patent, the
+department shall deposit the revenues in the Patent Revenue  Account established under
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 74
+HB 4039
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+subsection (2) of this section and shall distribute the revenues as follows:
+(a) The department shall  deposit 10 percent of the revenues in the Critical Priority
+Resiliency Grant Fund established under section 4 of this 2018 Act.
+(b) The  department shall deposit 25 percent of the revenues in the Critical Priority In-
+novation Grant Fund established under section 6 of this 2018 Act.
+(c) The department shall deposit  25 percent of the revenues in the Critical Technology
+Capitalization Fund established under section 8 of this 2018 Act.
+(d) The department shall, in consultation with the  Regional Solutions Program estab-
+lished under ORS 284.754, distribute 25 percent of the revenues for purposes that  will further
+innovation in the geographic region or regions in which the patent originated.
+(e) The department may expend up to five percent of the  revenues for necessary costs
+of administration of this section and section 1 of this 2018 Act.
+(f) The department shall transfer the remaining  portion of the revenues to the General
+Fund to be used for general governmental purposes. It is  the intent of the Legislative As-
+sembly that moneys described  in this paragraph be expended for capital costs related to
+emergency preparedness.
+(2) The Patent Revenue Account is established in  the State Treasury, separate and dis-
+tinct from the General Fund. Interest earned by the Patent Revenue Account must be
+credited to  the account. The account consists of moneys deposited in the account under
+subsection (1) of this section and may include moneys appropriated, allocated, deposited or
+transferred to the fund by the Legislative Assembly or  otherwise and interest earned on
+moneys in the account. The moneys  in the account are continuously appropriated to the
+Oregon Department of Administrative Services for the purposes specified  in subsection (1)
+of this section.
+SECTION 3.
+(1) The Office of Emergency  Management shall, by rule, develop and ad-
+minister a grant program to distribute preparedness equipment,  or moneys to purchase
+preparedness equipment, to applicants throughout this state.
+(2) Pursuant to the grant program:
+(a) Any entity with responsibility for or  expertise in emergency preparedness, including
+local governments and private entities, may apply to receive a grant.  Applicants must dem-
+onstrate a need for the specific preparedness equipment requested.
+(b) In consultation with the Oregon Homeland Security Council, the  office shall deter-
+mine which requests from applicants, if fulfilled, will maximize the state’s ability to  respond
+in case of emergency, taking into account considerations including but not limited  to the
+following:
+(A) The level  of need for the requested preparedness equipment demonstrated by the
+applicant;
+(B) The types  of emergencies most likely to occur in the region where the applicant is
+located; and
+(C) Whether the applicant has alternative means  of acquiring the requested preparedness
+equipment.
+(c) The office  shall issue grants to the applicants identified under paragraph (b) of this
+subsection. The office may either  purchase the requested preparedness equipment for dis-
+tribution to the recipient or  issue cash to the recipient to purchase the requested
+preparedness equipment.
+[2]
+HB 4039
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) The office may impose  reasonable conditions on grant recipients, including conditions
+under which grants must be repaid.
+(3) The office may adopt rules to administer this section.
+(4) As used in this section:
+(a) “Emergency” has the meaning given that term in ORS 401.025.
+(b) “Preparedness equipment” means equipment, tools, vehicles,  fixtures or improve-
+ments upon real property, or other property that may be  used to decrease the risk to life
+and property resulting from an emergency.
+SECTION 4.
+The Critical Priority Resiliency Grant  Fund is established in the State
+Treasury, separate and  distinct from the General Fund. Interest earned by the Critical Pri-
+ority Resiliency Grant Fund must be  credited to the fund. The fund consists of moneys de-
+posited in the fund under section 2 of this 2018 Act and may include  moneys appropriated,
+allocated, deposited or transferred to the fund by the Legislative Assembly or  otherwise and
+interest earned on moneys in the account. The moneys in the account are continuously  ap-
+propriated to  the Office of Emergency Management for the purposes of making grants under
+section 3 of this 2018 Act and to pay the  administrative costs associated with the fund and
+with making grants from the fund.
+SECTION 5. (1) The Oregon Business Development Department shall, by rule, develop and
+administer a grant program to fund proposals that are intended to promote innovation-based
+economic development in this state.
+(2) Pursuant to the grant program:
+(a) Any individual or public or private entity may apply  to receive a grant. An applicant
+for a grant must submit a proposal to the department that describes the proposed use of the
+grant moneys and includes any additional information required by the department by rule.
+(b) The department may impose reasonable conditions on grant recipients,  including
+conditions under which grants must be repaid.
+(3) The department may adopt rules to administer this section.
+SECTION 6.
+The Critical Priority Innovation Grant Fund  is established in the State
+Treasury, separate and  distinct from the General Fund. Interest earned by the Critical Pri-
+ority Innovation Grant Fund must be credited to the fund.  The fund consists of moneys de-
+posited in the fund under section 2 of this 2018 Act and may include  moneys appropriated,
+allocated, deposited or transferred to the fund by the Legislative Assembly or  otherwise and
+interest earned on moneys in the account. The moneys in the account are continuously  ap-
+propriated to the Oregon  Business Development Department for the purposes of making
+grants under section 5 of this  2018 Act and to pay the administrative costs associated with
+the fund and with making grants from the fund.
+SECTION 7. (1) The Department of Education shall, by rule adopted by the State  Board
+of Education, develop and administer a grant  program to fund proposals that are intended
+to promote research and development of energy-related technologies.
+(2) Pursuant to the grant program:
+(a) Any individual or public or private  entity may apply to receive a grant. An applicant
+for a grant must submit a proposal to the department that describes the proposed use of the
+grant moneys and includes any additional information required by the department by rule.
+(b) The  department may impose reasonable conditions on grant recipients, including
+conditions under which grants must be repaid.
+[3]
+HB 4039
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+(3) The board may adopt rules to administer this section.
+SECTION 8.
+The Critical  Technology Capitalization Fund is established in the State
+Treasury, separate and distinct from the General Fund. Interest earned by the Critical
+Technology Capitalization Fund must be credited to the fund. The fund consists of  moneys
+deposited in the fund under section 2 of this 2018 Act and may  include moneys appropriated,
+allocated, deposited or transferred to the fund by the Legislative Assembly or  otherwise and
+interest earned on moneys in the account. The moneys in the account are continuously  ap-
+propriated to the Department of Education for the purposes of making grants under section
+7 of this 2018 Act and to pay the administrative costs associated with the fund  and with
+making grants from the fund.
+SECTION 9.
+Section 1 of this 2018 Act applies to grants or loans that are first  authorized
+on or after the effective date of this 2018 Act.
+[4]

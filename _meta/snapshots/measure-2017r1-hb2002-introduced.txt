@@ -1,0 +1,540 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2002
+Sponsored by Representative KOTEK (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Expands laws regarding preservation  of participating properties that are publicly supported
+housing. Requires two-year notices from property owner of intent to sell participating property  to
+Housing and Community Services Department, local governments and  affected tenants. Authorizes
+department to impose civil penalties for violations.
+Requires owner of participating property to provide department and  local governments with
+opportunity to purchase publicly supported housing.
+Authorizes civil action  by person who suffers ascertainable loss or damage as result of property
+owner’s failure to comply with laws.
+A BILL FOR AN ACT
+Relating to preservation of housing;  creating new provisions; and amending ORS 456.250, 456.255,
+456.260, 456.265 and 456.559.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 456.250 is amended to read:
+456.250. As used in this section and ORS 456.255 to 456.265:
+[(1) “Federal housing program” means a federal  project-based Section 8 subsidized housing pro-
+gram.]
+[(2)] (1) “Local government” means a city, county,  municipal organization, public corporation,
+metropolitan service district or other district , political subdivision or any board,  commission or
+agency thereof .
+[(3)] (2)  “Participating property” means property that is  the subject of a contract [ between the
+property owner and the United States Department of  Housing and Urban Development for participation
+in a federal housing program ] by which the property becomes publicly supported housing .
+(3) “Publicly supported housing” means a housing unit or development that receives or
+benefits from government assistance pursuant to any of the following:
+(a) Section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f);
+(b) The federal low-income housing tax credit under 26 U.S.C. 42;
+(c) A contract for rent assistance  from the United States Department of Housing and
+Urban Development or the United States Department of Agriculture;
+(d) A qualified loan that has been certified by the Housing and Community Services De-
+partment pursuant to a contract with a lending institution  that entitles the lending institu-
+tion to the tax credit under ORS 317.097; or
+(e) Any  other contract pursuant to which the property owner or the participating prop-
+erty receives a financial incentive  or other benefit from the federal, state or local govern-
+ment.
+SECTION 2.
+ ORS 456.255 is amended to read:
+456.255. (1) The Legislative Assembly finds and declares that:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2266
+HB 2002
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) The maintenance of a pool of  affordable housing for all citizens is a matter of statewide
+concern.
+(b) The contracts for many participating properties in this  state that [ participate in federal
+housing programs ] are publicly  supported housing  are about to expire. State and local govern-
+ments need an  effective process for assessing these expiring contracts and determining whether to
+assume ownership of the participating properties. The assessment and determination process  should
+ensure appropriate statewide uniformity while maintaining local flexibility. The process  should also
+ensure the rights of property owners and tenants to fair treatment as the contracts expire.
+(2) ORS [ 456.260 and] 456.255 to 456.265 are intended to provide a framework for addressing the
+withdrawal of participating property from [ federal housing programs ] publicly supported housing.
+SECTION 3.  ORS 456.260 is amended to read:
+456.260. (1) In establishing  a procedure to deal with expiring contracts for participating prop-
+erties, the Housing and Community Services Department shall, and  a local government may ,[:]
+[(a)] require the owner of a participating property to:
+[(A)] (a)  Provide notice of the pending contract  expiration to  the department,  each local gov-
+ernment that has requested notice and each affected tenant [ one year ] two years  prior to the date
+when the  contract for the property to participate in [ a federal housing program ] publicly supported
+housing will expire.
+[(B)] (b)  Provide notice that the owner intends to withdraw the property  from participation in
+[a federal housing program ] publicly supported housing to the department, each local government
+that has requested notice and each affected tenant up to:
+[(i)] (A)  210 days prior to the expiration of the contract; or
+[(ii)] (B)  150 days prior to the expiration of a one-year extension of the contract, if any.
+[(C)] (c)  Consent to reasonable inspection of the property  and inspection of the owner reports
+on file with the Housing and Community Services Department or the  United States Department of
+Housing and Urban Development , if applicable.
+[(D)] (d) Maintain the contract  for property participation in [ a federal housing program ] publicly
+supported housing in good  standing, if [ the United States Department of Housing and Urban Devel-
+opment allows that maintenance ] allowed under the terms of the contract or otherwise , during:
+[(i)] (A)  The notice periods referred to under this [ paragraph] section ; or
+[(ii)] (B)  Any condemnation proceeding commenced[ ; or ].
+[(iii) Any alternative procedure agreed to under paragraph (c) of this subsection. ]
+[(E) Refrain from taking any action,  other than notifying the United States Department of Housing
+and Urban Development of  the owner’s intention to not renew the contract, that would preclude the
+affected local government or its designee from succeeding  to the contract or negotiating with the owner
+for the purchase of the property. ]
+[(b) Establish and impose any fine, penalty, tax, fee,  charge or assessment upon the owner of par-
+ticipating property for failure to comply with local regulations adopted pursuant to paragraph  (a) of
+this subsection.]
+[(c) Establish an alternative procedure to condemnation,  including but not limited to arbitration,
+mediation or  facilitated negotiation. However, an alternative procedure may not be used unless mutually
+agreed to by the property owner and the local government. ]
+[(d) Require an owner to refrain from disturbing tenancies, other than  for cause as defined in the
+contract, for a  period of not more than 180 days after expiration of the contract if the local government
+pays, or arranges for payment, to the owner on the first day of each month,  the monthly subsidy that
+[2]
+HB 2002
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the owner was receiving under the contract. ]
+(e) Pay any  replacement fee or other fee for tenant relocation from a participating
+property.
+(2) Any notices  provided under subsection [ (1)(a)] (1)  of this section shall specify whether the
+owner:
+(a) Intends to withdraw the property from  [ a federal housing program ] publicly supported
+housing.
+(b) Intends to convert the participating property to a nonparticipating use.
+(c) Is involved in negotiations with the United States Department of Housing and Urban Devel-
+opment, [ or] the Housing and Community Services  Department  or any other individual or entity
+regarding an extension of an expiring [ participation] contract.
+(3) ORS 456.255 to 456.265 do  not require the Housing and Community Services Department
+or a local government to purchase, condemn or otherwise acquire participating property.
+(4) In addition to any other penalties provided by law and in addition to any  other powers
+of the Housing and  Community Services Department, the department may impose a civil
+penalty for violation of any of the provisions of this  section. A civil penalty may not exceed
+$10,000 per violation. Civil penalties shall be imposed as provided in  ORS 183.745. All penalties
+recovered shall be paid into the Housing and  Community Services Department Revolving
+Account created under ORS 456.574.
+(5) The department shall adopt rules to implement the provisions of this section  with
+respect to the duties, powers and functions of the department.
+SECTION 4.
+ ORS 456.265 is amended to read:
+456.265. (1) Except as expressly authorized in [ ORS 456.260 (1) ] section 6 of  this 2017 Act  or
+as may be provided by contract with the property owner, a local government may not:
+(a) Impose any fine, penalty, tax, fee, charge, assessment or other  restriction or sanction against
+a property owner for  withdrawing the participating property from [ a federal housing program ] pub-
+licly supported housing.
+(b) Except as an exercise of constitutional or statutory powers of condemnation:
+(A) Prevent or restrict a property owner from selling  or otherwise disposing of participating
+property.
+(B) Require conveyance of participating property to the local government or to another party.
+(C) Impose any fine, penalty, tax,  fee, charge, assessment or other restriction or sanction against
+a property owner for refusing an offer by the local government or  another party to purchase par-
+ticipating  property.
+[(c) Require a property owner to pay any replacement fee or other fee for tenant relocation  from
+participating property, except  as specified in an alternative procedure being used pursuant to ORS
+456.260 (1)(c).]
+(2) Subsection (1)  of this section does not prohibit a local government that is certified by a
+federal agency to carry  out an agency responsibility or to exercise agency authority from taking any
+action within the scope of that responsibility or authority.
+SECTION 5.
+Sections 6 and 7 of this 2017 Act are added to and made a part of ORS 456.255
+to 456.265.
+SECTION 6. (1) A property owner shall offer the Housing and Community Services De-
+partment or a local government  an opportunity to purchase publicly supported housing prior
+to entering into an agreement to sell the property to a third party. The property owner shall
+[3]
+HB 2002
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+give the department or local government written notice of  the property owner’s intention to
+sell within such time as is reasonable in order to  afford the opportunity to purchase required
+by this section within the time frames indicated. A property owner is under no  obligation to
+enter into an agreement to sell the property to the department or to the local government.
+(2) The department may appoint a  designee to act on the department’s behalf as pur-
+chaser of the  publicly supported housing and shall give the property owner notice of the ap-
+pointment of a designee. The department must consult with the  local government where the
+property is located  before appointing a designee under this subsection. The department must
+enter into a written agreement with the appointed designee providing that the  designee, and
+any of the designee’s successors or assigns, agrees to preserve the affordability of the pub-
+licly supported housing. At any time prior to a  sale of the property, the department may
+revoke its appointment of designee and assume the designee’s rights  and responsibilities or
+appoint a new designee.
+(3) The department or the  department’s designee, or a local government, may, within 90
+days after receiving notice pursuant to subsection  (1) of this section of the property owner’s
+intention to sell, submit an  offer to the property owner to purchase the publicly supported
+housing. Failure by the department or local government  to submit a timely offer constitutes
+an irrevocable waiver of the department’s or  local government’s rights under this section,
+and the property owner may sell the publicly supported housing to a third party.
+(4) If the department or the department’s designee, or  a local government, and the
+property owner have not entered into  an agreement whereby the department or the local
+government shall purchase the publicly supported housing within 90  days of submitting an
+offer, the offer shall expire, the  department’s or local government’s rights to purchase the
+publicly supported housing under this section  shall terminate and the property owner may
+sell the publicly supported housing to a third party.
+(5) At any time after the notice described in subsection  (1) of this section has been pro-
+vided, the department  or the department’s designee, or the local government, may request,
+in writing, that the property owner make available  documents that are relevant to the pub-
+licly supported housing at the property owner’s principal place of business or at  a commer-
+cial photocopying facility. Documents to be provided under this subsection include, but are
+not limited to:
+(a) Any existing architectural plans and specifications of the publicly supported housing;
+(b) Itemized  lists of monthly operating expenses and capital expenditures in each of the
+two preceding calendar years;
+(c) Any capital needs studies or market studies that  have been submitted to a federal,
+state or local agency in the preceding two years;
+(d) Utility consumption rates for the preceding year;
+(e) Copies of the  last two audited annual financial statements and physical inspection
+reports filed with federal, state or local agencies;
+(f) The most recent rent roll showing current vacancies and rent arrearages; and
+(g) A statement of the approximate annualized vacancy rate  for each of the two preced-
+ing calendar years.
+(6)(a) Notwithstanding the provisions of  ORS 192.410 to 192.505 relating to public records,
+the documents provided by the property owner to the department or  the department’s
+designee, or to a local  government, under subsection (5) of this section are confidential and
+[4]
+HB 2002
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+exempt from public  inspection except with the written consent of the property owner or as
+ordered by a court.
+(b) Notwithstanding paragraph (a) of this  subsection, disclosure may be made to potential
+funding sources, regulatory agencies or agents or consultants of  the department or the
+department’s designee, or  of the local government, in connection with a transaction between
+the property owner and the department or the  department’s designee, or a local government,
+under this section, subject to appropriate confidentiality agreements.
+SECTION 7. (1) Any person who suffers any ascertainable loss of  money or property, real
+or personal, as a result of the failure of  an owner of a participating property to provide no-
+tices or otherwise comply with the  provisions of ORS 456.260 or section 6 of this 2017 Act
+may bring an individual action  in an appropriate court to recover actual damages or statu-
+tory damages of $1,000, whichever is greater. The court or the  jury may award punitive
+damages, and the court may provide injunctive relief and any other equitable relief the  court
+considers necessary and proper.
+(2) The court may award reasonable attorney  fees and costs at trial and on appeal to a
+prevailing plaintiff in an action under this section.
+SECTION 8.  ORS 456.559, as amended by section 6, chapter 61, Oregon Laws 2016, is  amended
+to read:
+456.559. (1) The Housing and Community Services Department shall:
+(a) Maintain current housing data and information concerning available programs,  status of
+funding, programs planned or undertaken which might  conflict with, overlap, duplicate or supersede
+other planned or existing programs and call these to the attention of appropriate state agencies,
+governmental bodies and public or private housing sponsors.
+(b) Provide to appropriate state agencies, governmental  bodies and public or private housing
+sponsors such advisory  and educational services as will assist them in the development of housing
+plans and projects.
+(c) Subject to the approval of the Oregon Housing Stability  Council, make noninterest bearing
+advances, in accordance with ORS 456.710 and the policies  of the department, to qualified nonprofit
+sponsors for development costs of housing projects  until mortgage funds are released to repay the
+advances as provided in ORS 456.710.
+(d) Advise and assist appropriate state agencies, governmental bodies and  public or private
+housing sponsors, cities and counties, in all programs and activities  which are designed or might
+tend to fulfill the purposes of ORS 456.548 to 456.725 and ORS chapter 458.
+(e) Encourage and assist in the planning, development, construction,  rehabilitation and conser-
+vation of dwelling units for persons and families of lower income.
+(f) Be the central state department to apply for, receive  and distribute, on behalf of appropriate
+state agencies, governmental bodies and public or private housing sponsors in the state, grants, gifts,
+contributions, loans, credits or assistance from  the federal government or any other source for
+housing programs except when the donor, grantor, or lender of such funds specifically directs  some
+other agency to administer them. Moneys received under this section  shall be deposited with the
+State Treasurer in an account separate and distinct from the General  Fund. Interest earned by the
+account shall be credited to the account.
+(g) For the purposes of acquiring moneys, credits or other  assistance from any agency or
+instrumentality of the United States or from any public  corporation chartered by the United States,
+comply with any applicable agreements or restrictions for the receipt of  such assistance and become
+[5]
+HB 2002
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+a member of any such association or public corporation chartered by the United States.
+(h) Assist individuals, appropriate  state agencies, governmental bodies and public or private
+housing sponsors through a program  which provides housing information, planning, educational
+services and technical assistance.
+(i) Comply with the requirements of ORS 443.225  in assisting in the development of any housing
+for residential care, training or treatment for persons with mental retardation,  developmental disa-
+bilities or mental or emotional disturbances.
+(2) Except as otherwise provided in ORS 456.255 to 456.265 and  456.625 (7) and sections 1  to
+3, chapter 61, Oregon Laws 2016,  and section 6 of this 2017 Act,  the department may not itself
+develop, construct, rehabilitate or conserve housing units; and neither the department  nor any
+housing sponsor,  including but not limited to any association, corporation, cooperative housing au-
+thority or urban renewal agency organized to provide housing and other facilities  pursuant to ORS
+456.548 to 456.725, may own, acquire, construct, purchase, lease, operate or  maintain utility facili-
+ties, including  facilities for the generation of electricity, for the distribution of gas and electricity,
+and for the conveyance of telephone and telegraph messages.
+(3) In accordance with the provisions  of this section and with the advice of the council, the
+department shall establish statewide priorities for housing programs. State  agencies shall coordinate
+their housing programs with the department. All state agencies intending to apply for federal  funds
+for use in planning, developing or managing  housing, or rendering assistance to governmental bodies
+or sponsors or individuals involved therein shall submit a description of the proposed activity  to the
+department for review not less than 30 days prior to  the intended date of submission of the appli-
+cation to the federal agency. The department shall  determine whether the proposal would result in
+a program that would overlap, duplicate or conflict with any other housing program in the state.  If
+the department finds overlapping or duplication or conflict, it shall recommend modifications in  the
+application. The Oregon Department of Administrative Services shall  consider these recommen-
+dations in making its decision to approve  or disapprove the application. The department shall com-
+plete its review and forward its recommendations within  15 working days after receipt of the
+notification. Failure of the department to complete the review within that  time shall constitute ap-
+proval of the application by the department.
+(4) The Director of the Housing and Community Services Department  may participate in dis-
+cussions and deliberations of the council. The director may  suggest policies and rules to the council,
+including those necessary  to stimulate and increase the supply of housing for persons and families
+of lower income.
+SECTION 9. (1) Sections 6 and 7 of this  2017 Act and the amendments to ORS 456.250,
+456.255, 456.260, 456.265 and 456.559 by sections 1 to 4 and 8 of this 2017 Act apply to  partic-
+ipating properties that are or become publicly supported housing on  or after the effective
+date of this 2017 Act.
+(2) Sections 6  and 7 of this 2017 Act and the amendments to ORS 456.250, 456.255, 456.260,
+456.265 and 456.559 by sections 1 to 4 and 8 of this 2017  Act do not affect a contract regarding
+participating properties made before the effective date of  this 2017 Act. However, sections 6
+and 7 of this 2017 Act  and the amendments to ORS 456.250, 456.255, 456.260, 456.265 and
+456.559 by sections 1 to 4 and 8 of this 2017 Act apply to a  renewal or extension of an existing
+contract regarding participating properties on or after the  effective date of this 2017 Act as
+well as  to a new contract regarding participating properties made on or after the effective
+date of this 2017 Act.
+[6]
+HB 2002
+1
+[7]

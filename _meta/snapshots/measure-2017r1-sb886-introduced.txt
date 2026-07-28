@@ -1,0 +1,207 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Senate Bill 886
+Sponsored by Senator DEMBROW, Representative KENY-GUYER; Senators GELSER,  MONNES ANDERSON,
+PROZANSKI, RILEY, TAYLOR, Representatives  DOHERTY, GORSEK, GREENLICK, HERNANDEZ, HOLVEY,
+LININGER, MALSTROM, NOSSE, PILUSO, POWER, SANCHEZ
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Requires Department of Education, in consultation with  Oregon Health Authority, to dissem-
+inate information, processes and model plans regarding school testing for elevated levels of  toxics.
+Requires schools to adopt testing plan and schedule and provide test results.
+Establishes Healthy School  Facilities Fund. Appropriates fund moneys to department for purpose
+of providing schools with financial assistance related to testing for toxics.
+Requires initial testing for certain toxics on or before January 1, 2022.
+A BILL FOR AN ACT
+Relating to toxics in schools; creating new provisions; and amending ORS 332.166 and 332.167.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+The Healthy School Facilities Fund is established in the State Treasury,
+separate and distinct from the General Fund. Interest earned by  the Healthy School Facili-
+ties Fund shall be credited to the fund. Moneys in the fund  are continuously appropriated to
+the Department of Education for the purpose of providing financial assistance to schools  in
+carrying out testing and reporting as provided under ORS 332.166 and 332.167  and in under-
+taking mitigation action as warranted by the  results of testing carried out under ORS 332.166
+and 332.167.
+SECTION 2. As used in ORS 332.166 and 332.167, “toxics” means:
+(1) Asbestos;
+(2) Carbon monoxide;
+(3) Lead;
+(4) Mold;
+(5) Radon; and
+(6) Any  other substance that the Department of Education determines by rule is likely
+to be present in a school and,  if present at elevated levels, would present an undue danger
+to school occupants.
+SECTION 3.
+ ORS 332.166 is amended to read:
+332.166. (1)  The Department of Education, in cooperation with the Oregon Health
+Authority , shall disseminate information related to elevated  levels of [ radon] toxics  to each school
+district in this state. Information disseminated under this section must include:
+(a) Information about [ radon] toxics  and the dangers associated  with elevated levels of [ radon]
+toxics;
+(b) [ The level of radon ] Any level for a toxic  at which the United States Environmental Pro-
+tection Agency recommends schools take action to reduce the indoor  [radon] concentrations  of the
+toxic;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1654
+SB 886
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Processes by which schools may be tested for elevated levels of [ radon] toxics ; and
+(d) Model plans developed pursuant to ORS 332.167.
+(2) Dissemination of information under subsection (1)(c) of this  section must take into account
+any industry standards for testing buildings for elevated levels of [ radon] toxics .
+(3) [Upon request, the State Board of Education shall assist the authority in  disseminating the in-
+formation described in this section. ] Dissemination of information  may occur by any reasonable
+means, including posting the information on a  website maintained by the department or the  au-
+thority [ or the Department  of Education ] and providing each school district with instructions on how
+to access the information.
+SECTION 4.
+ ORS 332.167 is amended to read:
+332.167. (1) A school district  shall develop  a plan for testing  schools for elevated levels of
+[radon] toxics . At a minimum, plans developed under this subsection must:
+(a) Provide for [ the testing of radon ] all toxics to be tested for in any frequently occupied room
+[in contact  with the ground or located above a basement or a crawlspace ] in which the toxics are
+likely to be present ; and
+(b) Provide for [ the testing of radon ] all toxics to be tested for in a school at least  once every
+10 years.
+(2) The Department of  Education, in consultation with the  Oregon Health Authority , shall
+develop model plans for school districts to  follow in implementing the requirements of this section.
+The department and the  authority shall seek  the input of the Oregon School Boards Association
+in developing the model plans.  To the extent consistent with the protection of school occu-
+pants, the model plans must allow flexibility in  testing and reporting schedules sufficient for
+a school to conduct testing  and reporting on a schedule that minimizes disruption, allows
+more efficient use of resources or otherwise reduces the burden on the school.
+(3) Results of a test performed under this section must be:
+(a) Provided to the district school board;
+(b) Provided to the [ authority] department  in a manner prescribed by the [ authority] depart-
+ment; and
+(c) Made readily available to parents,  guardians, students, school employees, school volunteers,
+administrators and community representatives at the school’s office or school  district’s office or on
+a website for the school or school district.
+(4) Information provided and made available under subsection (3) of this section must [ include
+the level of radon ] identify the level, if any, of each  toxic detected and include any level for
+that toxic at which the United States Environmental Protection Agency recommends schools take
+action to reduce the indoor [ radon] concentrations of the toxic .
+SECTION 5.
+(1) The Department of Education, in cooperation with the Oregon Health
+Authority, shall disseminate information to  school districts concerning toxics described in
+section 2 (1) to (4) of this 2017 Act no later than January 1, 2019.
+(2) A school district  shall submit a plan developed under ORS 332.167 for the testing of
+toxics described in section  2 (1) to (4) of this 2017 Act to the department on or before Janu-
+ary 1, 2020.
+(3) Notwithstanding ORS 332.167 (1)(b), plans described  in subsection (2) of this section
+shall require initial testing of schools for toxics described in section 2 (1) to (4) of  this 2017
+Act on or before January 1, 2022.
+(4) Subsection  (3) of this section does not apply to a school with regard to a toxic for
+[2]
+SB 886
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+which the school conducted  testing in accordance with industry standards on or after Janu-
+ary 1, 2014, and before January 1, 2019. A school must submit the  results of testing described
+in this subsection to  the department and the district school board and make the results
+readily available to parents,  guardians, students, school employees, school volunteers, ad-
+ministrators and community representatives  at the school’s office or school district’s office
+or on a website for the school or school district.
+(5) No later than  January 1, 2019, the authority shall provide the department with a copy
+of any school plans, testing schedules and  reported test results for radon received by the
+authority prior to January 1, 2019.
+SECTION 6. The amendments to ORS 332.166 and 332.167 by sections 3 and 4 of this 2017
+Act do not invalidate any information, processes  or model plans for radon testing developed
+by the Oregon Health Authority prior to the effective date of this 2017 Act  or invalidate any
+school testing  plan or schedule developed in accordance with the information, processes or
+model plans. For purposes of ORS 332.166 and  332.167, the information, processes and model
+plans for radon testing  developed by the authority prior to the effective date of this 2017 Act
+shall be treated as information, processes and model  plans developed by the Department of
+Education until amended, superseded or repealed by the department.
+[3]

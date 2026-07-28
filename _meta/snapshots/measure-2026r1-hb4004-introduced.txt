@@ -1,0 +1,142 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4004
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Agriculture, Land Use, Natural Resources, and Water for Representatives Ken Helm, Mark Owens)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make it so that additional tax would not have to be paid  on land that is
+disqualified from a forest special assessment due  to pests or disease. (Flesch Readability Score: 60.7).
+Provides that additional taxes otherwise imposed upon disqualification of land  from certain
+forestland special assessment programs may not be  collected if the disqualification is due to the
+suspension of reforestation requirements as a result of insects or disease.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to natural resources; creating new provisions; amending ORS 308A.707; and  prescribing an
+effective  date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2026 Act is added to and made a part of ORS  308A.700 to
+308A.733.
+SECTION 2. (1) This section applies  to land that is qualified for special assessment under:
+(a) ORS 321.358, relating to classification as designated forestland in western Oregon;
+(b) ORS 321.839, relating to classification as designated forestland in eastern Oregon; and
+(c) ORS 321.709, relating to qualification as small tract forestland.
+(2) Notwithstanding ORS 308A.703 and 308A.707, additional taxes may  not be imposed or
+collected on land described in subsection (1)  of this section that is disqualified from special
+assessment solely because, due to insects or disease:
+(a) The State Forester has suspended the density and stocking requirements  for
+reforestation on the land; and
+(b) The land is  subject to an alternate plan approved by the State Forester under ORS
+527.745.
+(3) To obtain the benefit of  this section, the landowner must submit the approved alter-
+nate plan to the county assessor no later than July 1 of  the property tax year to which the
+benefit relates.
+SECTION 3.
+ ORS 308A.707 is amended to read:
+308A.707. (1) Notwithstanding ORS  308A.706, and except as provided in section 2 of this 2026
+Act,  additional taxes shall be imposed on land that  is disqualified from small tract forestland as-
+sessment under ORS 321.712  or 321.716. If after disqualification the land remains specially assessed
+under a special assessment program described in ORS  308A.706 (1)(d)(A) to (D), (F) or (G), the ad-
+ditional taxes shall be  computed under subsection (2) of this section. If after disqualification the land
+is not specially assessed under a program described in ORS 308A.706 (1)(d)(A)  to (D), (F) or (G), the
+additional taxes shall be computed under subsection (3) of this section.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 242
+HB 4004
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+(2)(a) The additional  taxes for disqualified small tract forestland that is qualified for special as-
+sessment under a program described  in ORS 308A.706 (1)(d)(A) to (D), (F) or (G) shall be equal to
+the difference between the taxes assessed against the land  under ORS 321.700 to 321.754 and the
+taxes that would have been assessed against the land:
+(A) Under ORS 321.257 to 321.390, if the land is located in western Oregon; or
+(B) Under ORS 321.805 to 321.855, if the land is located in eastern Oregon.
+(b) The number of years for which additional taxes shall be calculated shall  equal the lesser of
+10 years or the number of consecutive years the land has been assessed as small tract forestland.
+(3)(a) The additional taxes for disqualified small tract forestland  that is not qualified for special
+assessment under a program described in ORS 308A.706 (1)(d)(A) to (D), (F) or (G) shall be equal  to
+the sum of:
+(A) The amount determined under subsection (2) of this section; and
+(B) The difference between the taxes that would have been assessed against the  land under ORS
+321.257 to 321.390, if located in western Oregon, or ORS 321.805 to 321.855, if located  in eastern
+Oregon, and the taxes that would otherwise have been assessed against  the land, for the lesser of
+the number of consecutive years the land was forestland or five years.
+(b) Notwithstanding paragraph (a)(B) of this subsection, if any provision of ORS 308A.700  to
+308A.733 would cause the deferral or elimination of additional taxes that  are imposed under ORS
+308A.703 or 308A.712,  that provision shall also cause the deferral or elimination of the additional
+taxes imposed under paragraph  (a)(B) of this subsection, under the same terms, requirements and
+conditions that additional taxes under ORS 308A.700 to 308A.733 are deferred or eliminated.
+(4) The additional taxes described in this section shall be imposed and collected at the same time
+and in the same manner as additional taxes described in ORS 308A.703 are imposed and collected.
+(5) The additional taxes  described in this section shall be deemed assessed and imposed in the
+year to which the additional taxes relate.
+(6) The amount determined to  be due under this section may be paid to the tax collector prior
+to the time of the next general property tax roll, pursuant to the provisions of ORS 311.370.
+(7) As used in this section, “forestland,”  “western Oregon” and “eastern Oregon” have the
+meanings given those terms in ORS 321.700.
+SECTION 4.
+This 2026 Act takes effect on the 91st day after the date on which the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

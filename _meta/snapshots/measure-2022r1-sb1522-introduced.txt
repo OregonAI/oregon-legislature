@@ -1,0 +1,1754 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+81st OREGON LEGISLATIVE ASSEMBLY--2022 Regular Session
+Senate Bill 1522
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Education)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Authorizes high school teachers who are employed by education service districts to  serve as
+members of Transfer Council.
+Repeals provision  exempting distance learning from requirement that eligible veterans be pro-
+vided with in-state tuition.
+Expands eligibility for in-state tuition to include individuals who are  granted humanitarian
+parole, asylum, conditional permanent residency or temporary protected status by  any federal
+agency, provided that individual has  not previously established residence in any state or territory
+of United States or District of Columbia.
+Requires graduate student employees  at public university to sign form allowing university to
+release specified contact information.
+Adds public universities and community colleges to  list of educational employers required to
+provide materials and  assistance to eligible employees concerning public service loan forgiveness
+program.
+Requires school districts and public charter schools to accept  credits earned by students in
+specified educational programs and to apply those credits to high school graduation requirements.
+Allows for modifications to or exemptions  from requirements related to provision of menstrual
+products in student bathrooms for certain programs of public education providers.
+Allows high school equivalency student, homeschooled student or  student who attends public
+charter school to meet academic eligibility  requirements for participation in interscholastic activ-
+ities during school year in which student initially was determined  to be academically ineligible.
+Expands protections of right to participate in  interscholastic athletics to students of all high school
+equivalency  programs.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to education; creating new provisions; amending ORS 326.545, 329.451,  329.756, 339.450,
+339.460, 350.290, 350.426 and 352.287; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+TRANSFER COUNCIL MEMBERSHIP
+SECTION 1.
+ ORS 350.426 is amended to read:
+350.426. (1) The Transfer Council is established, consisting of 15 voting members, appointed  by
+the Higher Education Coordinating Commission, and one nonvoting, ex officio member.
+(2) Before appointing  the voting members, the commission shall request nominations from official
+student, faculty and administrator organizations at public  universities listed in ORS 352.002, com-
+munity colleges operated under ORS chapter 341 and high schools in this state.  The 15 voting
+members of the council shall consist of:
+(a) Five academic officers, two of whom are currently employed at a public  university, two of
+whom are currently employed at a  community college and one of whom is currently employed at a
+public high school in this state;
+(b) Four faculty members,  two of whom are currently employed at a public university and two
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 241
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of whom are currently employed at a community college;
+(c) One teacher who both teaches accelerated college credit programs as defined  in ORS 340.315
+and is currently employed  either by an education service district or  at a public high school in
+this state;
+(d) Two individuals who specialize  in assisting students who transfer between institutions, one
+of whom is currently employed at a public university and one of whom is currently  employed at a
+community college; and
+(e) Three  students, one of whom is currently enrolled at a public university, one of whom is
+currently enrolled at a community college and one of whom is currently  enrolled at a high school
+in this state.
+(3) The chairperson of the commission, or a designee of the chairperson of the commission,  shall
+serve as a nonvoting, ex officio member.
+(4)(a) The term of office  of each voting member of the council is two years. Before the expiration
+of the term of a  member, the commission shall appoint a successor. A member is eligible for reap-
+pointment.
+(b) In order to serve as a member of  the council, an individual must at all times meet the
+qualifications for the  appointment. If at any time a member fails to meet the qualifications for the
+member’s appointment, the position is vacant.
+(c) If there  is a vacancy for any cause, the commission shall make an appointment to become
+immediately effective for the unexpired term.
+(5)(a) The council:
+(A) Shall select one or more of its members as chairperson or as cochairpersons; and
+(B) May establish, in the manner set forth in this subsection, one or  more subcommittees for the
+purpose of advising the council on how to best fulfill its duties.
+(b) For a subcommittee established under this subsection that  will make recommendations to the
+council on a subject that will be submitted by the council to the commission under ORS 350.429
+(1)(d)(A) to (D), the council  may appoint any faculty member who is employed by a public university
+listed in ORS 352.002 or a community college operated under ORS chapter 341,  provided that the
+subcommittee consists of equal numbers of faculty from public universities and community colleges.
+(c) For a subcommittee established under this subsection that will not make recommendations
+to the council on a  subject that will be submitted by the council to the commission under ORS
+350.429 (1)(d)(A) to (D), the council may appoint any individual employed by a public university listed
+in ORS 352.002 or a community college operated under ORS  chapter 341, including faculty,
+registrars, academic advisors and academic administrators.
+(d) Appointment to a subcommittee established under this subsection  does not entitle an indi-
+vidual to vote as a member of the council.
+(6)(a) A majority of the voting members of the council constitutes a quorum for the transaction
+of business.
+(b)(A) Except as provided in subparagraph (B) of this  paragraph, official action by the council
+requires the approval of a majority of the voting members of the council.
+(B) Official action by the  council on recommendations to be made to the commission under ORS
+350.429 (1)(d)(A) to (D) requires the approval of three-fifths of the voting members of the council.
+(c) Two or more  voting members of the council who disagree with recommendations that are
+submitted to the commission under ORS 350.429 (1)(d)(A) to (D) may jointly submit a  minority report
+to the commission that contains  alternate recommendations. A minority report created under this
+[2]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+paragraph shall be submitted to the commission with the majority recommendations.
+(7)(a) A majority of the members of  a subcommittee established under subsection (5) of this
+section constitutes a quorum for the transaction of business of the subcommittee.
+(b)(A) Except as provided in subparagraph (B) of this paragraph, official action by a  subcom-
+mittee established under subsection (5) of this section requires approval of  a majority of the mem-
+bers of the subcommittee.
+(B) Official action by a subcommittee on recommendations to be made to  the council on a sub-
+ject that will be submitted  by the council to the commission under ORS 350.429 (1)(d)(A) to (D) re-
+quires the approval of three-fifths of the members of the subcommittee.
+(c) Two or more members of a subcommittee who disagree  with recommendations that are sub-
+mitted to the council on a subject that will be submitted by the council to the  commission under
+ORS 350.429 (1)(d)(A) to (D) may jointly submit  a minority report to the council that contains al-
+ternate recommendations. A minority report created under this paragraph shall be submitted  to the
+council with the majority recommendations.
+(8)(a) The council shall meet at least  every three months at a place, day and hour determined
+by the chairperson or cochairpersons.
+(b) In addition to the meetings required under  paragraph (a) of this subsection, the commission
+may call a meeting of the council  if the commission finds a meeting to be necessary and a meeting
+is not called by the chairperson or cochairpersons.
+IN-STATE TUITION PROVISIONS
+SECTION 2.
+ ORS 350.290 is amended to read:
+350.290. (1) A public university listed in ORS 352.002 or a community  college shall charge an
+enrolled student who  is not a resident of this state and who is attending classes as an undergraduate
+or graduate student on  a public university or community college campus in this state tuition and
+fees no greater than the resident rate if the student:
+(a)(A) Served in the Armed Forces of the United States;
+(B) Was relieved or discharged from that service with either an honorable discharge or a  gen-
+eral discharge under honorable conditions; and
+(C) Provides proof that the student has established a physical presence in  Oregon within 12
+months of being enrolled at the public university or community college;
+(b) Was, or is the dependent of, a resident of Oregon  who left the state within the previous five
+years in order to serve, and who subsequently served, in the Armed Forces of the  United States or
+in an international position with the state, the federal  government or a humanitarian aid organiza-
+tion; or
+(c)(A) Was, or is the dependent of, a resident of Oregon who left the  state more than five years
+ago in order to serve,  and who subsequently served, in the Armed Forces of the United States or
+in an international position with the state, the federal  government or a humanitarian aid organiza-
+tion; and
+(B) Since leaving the state in the manner provided in  subparagraph (A) of this paragraph, has
+never established residence in another state.
+(2) A person who served in the Armed Forces of the United States or in  an international posi-
+tion with the state,  the federal government or a humanitarian aid organization and who receives
+federal tuition benefits in excess of the tuition and fees the person  is charged under subsection (1)
+[3]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of this section at a public university listed in ORS 352.002 or a community college where the  person
+is enrolled shall pay tuition and fees equal to the federal tuition benefits received.
+[(3) Distance education and self-support courses as identified by each public university listed  in
+ORS 352.002 and community college are exempt from the tuition reduction provisions of this section. ]
+SECTION 3.
+ ORS 352.287 is amended to read:
+352.287. (1) The governing board of a public university listed  in ORS 352.002 shall exempt a
+student who is not a citizen or a lawful permanent resident of the United States from  paying non-
+resident tuition and fees for  enrollment as an undergraduate student and as a graduate student in
+a degree program at a public university listed in ORS 352.002 if the student:
+(a) During each of the three years immediately prior to receiving a  high school diploma or a
+modified diploma or leaving school before receiving a  high school diploma or a modified diploma,
+attended an elementary or a secondary school in this state;
+(b) During each of the  five years immediately prior to receiving a high school diploma or a
+modified diploma or leaving school before receiving a  high school diploma or a modified diploma,
+attended an elementary or a secondary  school in any state or territory of the United States, the
+District of Columbia or the Commonwealth of Puerto Rico;
+(c) Received a high school  diploma or a modified diploma from a secondary school in this state
+or received the equivalent of a high school diploma; and
+(d) Shows intention to become a citizen or a lawful permanent resident of the  United States by
+submitting to the public university the student attends or plans to attend an official copy of the
+student’s application to register with a federal immigration program or  federal deportation deferral
+program or a statement of intent that  the student will seek to obtain citizenship as permitted under
+federal law.
+(2) The governing  board shall exempt a student who is financially dependent upon a person who
+is not a citizen or a lawful permanent resident  of the United States from paying nonresident tuition
+and fees for  enrollment as an undergraduate student and as a graduate student in a degree program
+at a public university listed in ORS 352.002 if the student:
+(a) During each of the three  years immediately prior to receiving a high school diploma or a
+modified diploma or leaving school before receiving a  high school diploma or a modified diploma,
+attended an  elementary or a secondary school in this state and resided in this state with the person
+upon whom the student is dependent;
+(b) During each of the five years immediately prior to receiving a high  school diploma or a
+modified diploma or leaving school before receiving a  high school diploma or a modified diploma,
+attended an elementary or a secondary school in any state or territory  of the United States, the
+District of Columbia or the Commonwealth of Puerto Rico  and resided with the person upon whom
+the student is dependent;
+(c) Received a high school  diploma or a modified diploma from a secondary school in this state
+or received the equivalent of a high school diploma; and
+(d) For a student who is not already a citizen or lawful permanent  resident of the United States,
+shows intention to become a citizen or a lawful permanent resident of the United States by submit-
+ting to the public university the student attends or plans to attend an official copy of  the student’s
+application to register with a federal immigration program or federal deportation deferral  program
+or a statement of intent that  the student will seek to obtain citizenship as permitted under federal
+law.
+(3) A student who is a citizen or a lawful permanent resident of the United  States and who has
+[4]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+resided outside of Oregon for more than three years while serving in  the Armed Forces of the
+United States, but who otherwise meets the requirements of subsection (1) or (2) of this section, shall
+qualify for exemption from nonresident tuition and fees for enrollment as an undergraduate  student
+and a graduate student in a degree program at  a public university listed in ORS 352.002 without
+having to reestablish residency in Oregon.
+(4) A student who is a COFA islander and who has not previously  established residence in any
+state or territory of the United States or the District of Columbia other than Oregon shall qualify
+for exemption from nonresident tuition and fees for enrollment as an  undergraduate student and a
+graduate student in a degree program at a public university listed in ORS 352.002.
+(5) A  student who is a refugee or special immigrant visa holder and who has not previously es-
+tablished residence in any state or territory of the United  States or the District of Columbia other
+than Oregon shall qualify for exemption from nonresident tuition and fees  for enrollment as an
+undergraduate student  and a graduate student in a degree program at a public university listed in
+ORS 352.002.
+(6) The governing board shall adopt standards to implement the provisions of this section.
+(7) Not later than July 1  of each year, the Higher Education Coordinating Commission shall
+report to the Speaker of the House of Representatives, the President  of the Senate and the interim
+committees of the Legislative Assembly with subject matter authority over higher education, for the
+preceding academic year:
+(a) The number of students that applied and were accepted into  public universities under sub-
+sections (1) to (5) of this section; and
+(b) The financial impact of subsections (1) to (5) of this section on  public universities listed in
+ORS 352.002.
+(8) A student who is not a citizen or a lawful permanent  resident of the United States, or who
+is a refugee, special immigrant visa holder  or COFA islander, is eligible to receive scholarships and
+other financial aid from public universities listed in ORS 352.002.
+(9) As used in this section:
+(a) “COFA islander” means an  individual who legally entered the United States under a Com-
+pact of Free Association treaty between the United States and any of the following countries:
+(A) The Republic of Palau;
+(B) The Republic of the Marshall Islands; or
+(C) The Federated States of Micronesia.
+(b) “Refugee” means an individual who is granted refugee status for admission to the  United
+States by the United States Citizenship and Immigration Services.
+(c) “Special immigrant visa holder” means :
+(A) An individual from Iraq or Afghanistan who was provided with the status of  special immi-
+grant by the United States Department of Homeland Security under:
+[(A)] (i)  Section 1059(a) of the National Defense Authorization Act  for Fiscal Year 2006, P.L.
+109-163, 119 Stat. 3444;
+[(B)] (ii) Section  1244(b) of the Refugee Crisis in Iraq Act of 2007, P.L. 110-181, 122 Stat. 397;
+or
+[(C)] (iii) Section  602(b) of the Afghan Allies Protection Act of 2009, P.L. 111-8, 123 Stat. 807[ .];
+or
+(B) An  individual who is granted humanitarian parole, asylum, conditional permanent
+residency or temporary protected  status by the United States Department of Homeland Se-
+[5]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+curity or other federal agency.
+CONTACT-SHARING REQUIREMENT
+FOR GRADUATE STUDENT EMPLOYEES
+SECTION 4.
+(1) Each public university listed in ORS 352.002 shall develop a form  for
+graduate students enrolled at the public university  who wish to be employed by the public
+university that:
+(a) Requires the graduate  student to provide the contact information described in ORS
+243.804 (4)(a)(B); and
+(b) Waives any  privacy rights to, and authorizes the public university to disclose, the
+information described in paragraph (a) of this subsection.
+(2) As a condition of employment, any graduate student who is  employed by a public
+university must:
+(a) Provide the contact information described in subsection (1)(a) of this section; and
+(b) Sign the consent described in subsection (1)(b) of this section to  authorize the public
+university to release the contact information that is part of the employment record.
+APPLICABILITY OF REQUIREMENT TO PROVIDE INFORMATION
+ON PUBLIC SERVICE LOAN FORGIVENESS
+SECTION 5.
+ ORS 329.756 is amended to read:
+329.756. (1) As used in this section:
+(a) “Education employer” means  a public charter school, a school district, a community college
+operated under ORS chapter 341, a public university  listed in ORS 352.002,  a tribal college[ , a
+community college ] or university, as defined in 20 U.S.C. 1059c(b)(3), as in effect  on September 25,
+2021, and any other governmental agency within this  state that employs a teacher or a school nurse,
+as defined in ORS 336.204, in a full-time capacity which, for the purposes  of this paragraph, means
+including within the calculation of full-time equivalent work hours every hour in which  the teacher
+or school nurse engages in instruction and at least 3.35  additional hours for each hour of instruc-
+tion.
+(b) “Public service loan forgiveness program” means the program under  which the United States
+Secretary of Education cancels the balance of interest and principal  due on eligible federal direct
+loans in accordance with the criteria specified under 20 U.S.C. 1087e(m)  and 34 C.F.R. 685.219, both
+as in effect on September 25, 2021.
+(2)(a) An education employer shall provide all employees who qualify  for a public service loan
+forgiveness program with materials and assistance that:
+(A) Increases  awareness of the public service loan forgiveness program among eligible employ-
+ees of the education employer; and
+(B) Increases participation by employees in the public service loan forgiveness program.
+(b) Materials described in paragraph (a) of this subsection may include, but are not limited to:
+(A) Announcements and advertisements  in an education employer’s official publications and in
+any electronic mail or social media messages the education employer sends to employees;
+(B) Inserts or other messages in employee paychecks  or payment instruments, to the extent
+practicable; or
+[6]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(C) Other periodic reminders in communications to employees.
+(c) An education employer shall direct an employee, as part of the employee’s official duties,  to
+become familiar with eligibility requirements, application procedures and other information  about
+the public service loan forgiveness program and to provide assistance to other employees who  re-
+quest assistance with determining the employees’ eligibility for and applications to the public service
+loan forgiveness program.
+CREDIT TRANSFER REQUIREMENTS
+SECTION 6.
+ ORS 329.451 is amended to read:
+329.451. (1)(a) At or before grade 12, a school district or public charter school shall award a high
+school diploma to a student who completes the requirements established by  subsection (2) of this
+section.
+(b) A school  district or public charter school shall award a modified diploma to a student who
+satisfies the requirements established by subsection  (7) of this section, an extended diploma to a
+student who  satisfies the requirements established by subsection (8) of this section or an alternative
+certificate to a student who satisfies the requirements established by subsection (9) of this section.
+(c) A school district  or public charter school may not deny a student who has the documented
+history described in subsection (7)(b)  or (8)(b) of this section the opportunity to pursue a diploma
+with more stringent requirements than a modified diploma or an extended diploma  for the sole rea-
+son that the student has the documented history.
+(d) A school district or public charter  school may award a modified diploma or extended diploma
+to a student only upon receiving consent as provided by subsection (6) of this section.
+(2)(a) In order to receive a high  school diploma from a school district or public charter school,
+a student must satisfy the requirements established by the State Board  of Education and the school
+district or public charter school and, while in grades 9 through 12, must complete at least:
+(A) Twenty-four total credits;
+(B) Three credits of mathematics; and
+(C) Four credits of language arts.
+(b) If a school district  or public charter school requires a student to complete more than 24 total
+credits, as provided by paragraph (a)(A) of this subsection,  the school district or public charter
+school may only require the student to complete additional credits for:
+(A) Subjects for which the State Board of Education has established  academic content standards
+under ORS 329.045;
+(B) Courses provided as part of a career and technical education program; or
+(C) Courses  that provide, or qualify to provide, credit at post-secondary institutions of education.
+(c)(A) A school district or  public charter school that requires students to satisfy any require-
+ments not specified by paragraph (a) of this subsection or by rule of the State Board of Education
+must grant to a student a  waiver of the requirements established by the school district or public
+charter school if the student is or, at any time from grade 9 to 12, was:
+(i) A foster child, as defined in ORS 30.297;
+(ii) Homeless, as determined under rules adopted by the State  Board of Education based on
+standards adopted by the Department of Human Services;
+(iii) A runaway, as determined under rules adopted by the State Board  of Education based on
+standards adopted by the Department of Human Services;
+[7]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(iv) A child in a military family covered by the Interstate Compact on Educational Opportunity
+for Military Children, as determined under rules adopted by the State Board of Education;
+(v) A child of a migrant worker, as determined under rules adopted by  the State Board of Edu-
+cation;  or
+(vi) Enrolled in the Youth Corrections Education Program or the Juvenile Detention Education
+Program.
+(B)(i) For any student identified under subparagraph (A) of this paragraph,  a school district or
+public charter school must accept any credits earned by the  student in [ another school district or
+public charter school ] an educational program  in this state  and apply those credits toward re-
+quirements specified by paragraph (a) of this subsection or by rule of the State Board  of Education
+if the credits satisfied those requirements in  that [ other school district or public charter school. ] ed-
+ucational program in this state.
+(ii) As used in  this subparagraph, “educational program in this state” means an educa-
+tional program that is:
+(I) Provided by a school district, a public  charter school, the Youth Corrections Educa-
+tion Program or the Juvenile Detention Education Program; or
+(II) Funded as provided by ORS 343.243 for students in a long term care or treatment
+facility described in ORS 343.961 or a hospital identified in ORS 343.261.
+(3) A student  providing work samples to demonstrate proficiency in Essential Learning Skills
+as may be required  under subsection (2) of this section must be allowed to use accommodations de-
+scribed in the student’s individualized  education program or the student’s plan developed in ac-
+cordance with section 504 of the Rehabilitation  Act of 1973, 29 U.S.C. 794. As used in this
+subsection, the term “accommodations”:
+(a) Includes, but is not limited to:
+(A) Additional time to demonstrate proficiency.
+(B) The ability to demonstrate proficiency  in an alternative location that is secure and
+proctored.
+(C) The use of text-to-speech or speech-to-text technology or other assistive technology.
+(b) Does not include modifications that lower the proficiency standards or that are  used solely
+to earn modified credit.
+(4) A student may satisfy the requirements of subsection (2) of this section in  less than four
+years. If a student satisfies the requirements  of subsection (2) of this section and a school district
+or public charter school has received consent  as provided by subsection (6) of this section, the
+school district or public charter school shall award a high school diploma to the student.
+(5) If a school district or public charter school has received consent  as provided by subsection
+(6) of this section, the school district or public charter school may advance the student to  the next
+grade level if the student has satisfied the requirements for the student’s current grade level.
+(6)(a) For the purpose of receiving consent as provided by subsections (1)(d), (4) and (5) of  this
+section, consent shall be provided by:
+(A) The parent or guardian of the student, if the student:
+(i) Is under 18 years of age and is not emancipated pursuant to ORS 419B.550 to 419B.558; or
+(ii) Has been determined not to have  the ability to give informed consent regarding the student’s
+education pursuant to a protective proceeding under ORS chapter 125; or
+(B) The student, if the student is 18 years  of age or older or is emancipated pursuant to ORS
+419B.550 to 419B.558.
+[8]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) For the purpose of awarding a modified diploma or extended diploma as provided by sub-
+section (1)(d) of this section or of awarding a high school diploma as provided by subsection (4) of
+this section, consent must be received  during the school year for which the diploma will be awarded.
+(7) A school district or public charter school shall award a modified diploma only  to students
+who have demonstrated the inability to meet the full set of academic content standards for  a high
+school diploma with reasonable  modifications and accommodations. To be eligible for a modified di-
+ploma, a student must:
+(a) Satisfy the requirements  for a modified diploma established by the State Board of Education;
+and
+(b) Have a documented history of an inability to  maintain grade level achievement due to sig-
+nificant learning and  instructional barriers or have a documented history of a medical condition that
+creates a barrier to achievement.
+(8) A school district or public charter school shall award an extended diploma  only to students
+who have demonstrated  the inability to meet the full set of academic content standards for a high
+school diploma with reasonable modifications and accommodations. To be eligible for  an extended
+diploma, a student must:
+(a) While in grade nine through completion of high school, complete 12  credits, which may not
+include more than six credits earned in a self-contained special education  classroom and shall in-
+clude:
+(A) Two credits of mathematics;
+(B) Two credits of language arts;
+(C) Two credits of science;
+(D) Three credits of history, geography, economics or civics;
+(E) One credit of health;
+(F) One credit of physical education; and
+(G) One credit of the arts or a world language; and
+(b) Have a documented history of:
+(A) An inability to maintain  grade level achievement due to significant learning and instruc-
+tional barriers;
+(B) A medical condition that creates a barrier to achievement; or
+(C) A change in the student’s ability to participate in  grade level activities as a result of a se-
+rious illness or injury that occurred after grade eight.
+(9) A school district or public charter school shall award an alternative  certificate to a student
+who does not satisfy the requirements for a  high school diploma, a modified diploma or an extended
+diploma if the student meets requirements established by the board of the school district or  public
+charter school.
+(10) A student shall have the opportunity to satisfy  the requirements of subsection (7), (8) or (9)
+of this section by the later of:
+(a) Four years after starting grade nine; or
+(b) The student reaching the age  of 21 years, if the student is entitled to a public education until
+the age of 21 years under state or federal law.
+(11)(a) A student may satisfy the requirements described in subsection (7), (8) or  (9) of this sec-
+tion in less than four years if consent is  provided in the manner described in subsection (6)(a) of this
+section.
+(b) The consent provided  under this subsection must be written and must clearly state that the
+[9]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+parent, guardian or student  is waiving the time allowed under subsection (10) of this section. A
+consent may not be used to allow a student to satisfy the requirements of subsection (7),  (8) or (9)
+of this section in less than three years.
+(c) A copy of all consents provided under this subsection  for students in a school district must
+be forwarded to the district superintendent.
+(d) Each school district must provide to the Superintendent of Public  Instruction information
+about the number of consents provided during a school year.
+(12)(a) A student  who qualifies to receive or receives a modified diploma, an extended diploma
+or an alternative certificate shall:
+(A) Have the option of participating in a high  school graduation ceremony with the class of the
+student; and
+(B) Have access to instructional hours, hours of transition services and hours  of other services
+that are designed to:
+(i) Meet the unique needs of the student; and
+(ii) When added together, provide a  total number of hours of instruction and services to the
+student that equals at least the total number of  instructional hours that is required to be provided
+to students who are attending a public high school.
+(b)(A) The number of instructional hours, hours of transition  services and hours of other ser-
+vices that are appropriate for a student shall be determined by the student’s individualized education
+program team. Based on the  student’s needs and performance level, the student’s individualized ed-
+ucation program team may decide that the student will not access  the total number of hours of in-
+struction and services to which the student has access under paragraph (a)(B) of this subsection.
+(B) A school district may not unilaterally decrease the  total number of hours of instruction and
+services to which the student has access under paragraph (a)(B) of this subsection, regardless of the
+age of the student.
+(c) If a student’s  individualized education program team decides that the student will not access
+the total number of hours of instruction and services to which the  student has access under para-
+graph (a)(B) of this subsection, the school district shall annually:
+(A) Provide the following information in writing to the parent or guardian of the student:
+(i) The school district’s duty  to comply with the requirements of paragraph (a)(B) of this sub-
+section; and
+(ii) The prohibition against a school district’s unilaterally decreasing the total number of  hours
+of instruction and services to which the student has access.
+(B) Obtain a signed acknowledgment from the  parent or guardian of the student that the parent
+or guardian received the information described in subparagraph (A) of this paragraph.
+(C) Include in the individualized education program for the  student a written statement that
+explains the  reasons the student is not accessing the total number of hours of instruction and ser-
+vices to which the student has access under paragraph (a)(B) of this subsection.
+(d) For purposes of paragraph (a)(B) of this subsection, transition services  and other services
+designed to meet the unique needs of the student may be provided  to the student through an inter-
+agency agreement entered into  by the school district if the individualized education program devel-
+oped for the student indicates that the  services may be provided by another agency. A school
+district that enters into an  interagency agreement as allowed under this paragraph retains the re-
+sponsibility for ensuring that the student has access to  the number of service hours required to be
+provided to the student under this subsection. An agency  is not required to change any eligibility
+[10]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+criteria or enrollment standards prior to entering into an interagency agreement  as provided by this
+paragraph.
+(13) A school district or public charter school shall:
+(a) Ensure that students have on-site access to the  appropriate resources to achieve a high
+school  diploma,  a modified diploma, an extended diploma or an alternative certificate at each high
+school in the school district or at the public charter school.
+(b) Provide literacy instruction to all students until graduation.
+(c) Annually provide, to the parents or guardians of a  student who has the documented history
+described in subsection (8)(b) of this section, information about the availability of a modified di-
+ploma, an extended diploma and an alternative  certificate and the requirements for the diplomas and
+certificate:
+(A) Beginning in grade five; or
+(B) Beginning after a documented history described in subsection (8)(b) of this section has been
+established.
+(14) A school district or public charter school shall allow a  student to participate in the high
+school graduation ceremony with the class of the student and to wear:
+(a) Native American items of cultural significance as provided by ORS 332.112; or
+(b) A dress uniform issued to the student by  a branch of the Armed Forces of the United States
+if the student:
+(A) Qualifies to receive a high school diploma, a  modified diploma, an extended diploma or an
+alternative certificate under this section; and
+(B) Has completed basic  training for, and is an active member of, a branch of the Armed Forces
+of the United States.
+SECTION 7.
+ ORS 329.451, as amended by section 1, chapter 175, Oregon Laws 2021,  is amended
+to read:
+329.451. (1)(a) At or before grade 12, a school district or public charter school shall award a high
+school diploma to a student who completes the requirements established by  subsection (2) of this
+section.
+(b) A school  district or public charter school shall award a modified diploma to a student who
+satisfies the requirements established by subsection  (7) of this section, an extended diploma to a
+student who  satisfies the requirements established by subsection (8) of this section or an alternative
+certificate to a student who satisfies the requirements established by subsection (9) of this section.
+(c) A school district  or public charter school may not deny a student who has the documented
+history described in subsection (7)(b)  or (8)(b) of this section the opportunity to pursue a diploma
+with more stringent requirements than a modified diploma or an extended diploma  for the sole rea-
+son that the student has the documented history.
+(d) A school district or public charter  school may award a modified diploma or extended diploma
+to a student only upon receiving consent as provided by subsection (6) of this section.
+(2)(a) In order to receive a high  school diploma from a school district or public charter school,
+a student must satisfy the requirements established by the State Board  of Education and the school
+district or public charter school and, while in grades  9 through 12, must complete at least 24 total
+credits, which must include at least:
+(A) Three credits of mathematics;
+(B) Four credits of language arts; and
+(C) One half-credit of civics.
+[11]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) If a school district  or public charter school requires a student to complete more than 24 total
+credits,  as  provided by paragraph (a) of this subsection, the school district or public charter school
+may only require the student to complete additional credits for:
+(A) Subjects for which the State Board of Education has established  academic content standards
+under ORS 329.045;
+(B) Courses provided as part of a career and technical education program; or
+(C) Courses  that provide, or qualify to provide, credit at post-secondary institutions of education.
+(c)(A) A school district or public charter school that requires students  to satisfy any require-
+ments not specified by paragraph (a) of this subsection or by rule of the State Board of Education
+must grant to a student a waiver of the requirements established by  the school district or public
+charter school if the student is or, at any time from grade 9 to 12, was:
+(i) A foster child, as defined in ORS 30.297;
+(ii) Homeless, as determined under rules  adopted by the State Board of Education based on
+standards adopted by the Department of Human Services;
+(iii) A runaway, as determined under rules adopted by the State Board  of Education based on
+standards adopted by the Department of Human Services;
+(iv) A child in a military family covered by the Interstate Compact on Educational Opportunity
+for Military Children, as determined under rules adopted by the State Board of Education;
+(v) A child of a migrant worker, as determined under rules adopted by  the State Board of Edu-
+cation;  or
+(vi) Enrolled in the Youth Corrections Education Program or the Juvenile Detention Education
+Program.
+(B)(i) For any student identified under subparagraph (A) of this paragraph,  a school district or
+public charter school must accept any credits earned by the  student in [ another school district or
+public charter school ] an educational program  in this state  and apply those credits toward re-
+quirements specified by paragraph (a) of this subsection or by rule of the State Board  of Education
+if the credits satisfied those requirements in  that [ other school district or public charter school. ] ed-
+ucational program in this state.
+(ii) As used in  this subparagraph, “educational program in this state” means an educa-
+tional program that is:
+(I) Provided by a school district, a public  charter school, the Youth Corrections Educa-
+tion Program or the Juvenile Detention Education Program; or
+(II) Funded as provided by ORS 343.243 for students in a long term care or  treatment
+facility described in ORS 343.961 or a hospital identified in ORS 343.261.
+(3) A student providing work samples to demonstrate proficiency in Essential  Learning Skills
+as may be required under subsection (2) of this section must be allowed to  use accommodations de-
+scribed in the student’s individualized education program or the student’s  plan developed in ac-
+cordance with section 504 of the Rehabilitation Act of 1973, 29  U.S.C. 794. As used in this
+subsection, the term “accommodations”:
+(a) Includes, but is not limited to:
+(A) Additional time to demonstrate proficiency.
+(B) The ability to demonstrate proficiency in an alternative  location that is secure and
+proctored.
+(C) The use of text-to-speech or speech-to-text technology or other assistive technology.
+(b) Does not  include modifications that lower the proficiency standards or that are used solely
+[12]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to earn modified credit.
+(4) A student may  satisfy the requirements of subsection (2) of this section in less than four
+years. If a student satisfies the requirements of subsection (2) of  this section and a school district
+or public charter school has received consent as provided by  subsection (6) of this section, the
+school district or public charter school shall award a high school diploma to the student.
+(5) If a school district or public charter school has received consent  as provided by subsection
+(6) of this section, the school district or public charter school may advance the student to  the next
+grade level if the student has satisfied the requirements for the student’s current grade level.
+(6)(a) For the purpose of receiving consent as provided by subsections (1)(d), (4) and (5) of  this
+section, consent shall be provided by:
+(A) The parent or guardian of the student, if the student:
+(i) Is under 18 years of age and is not emancipated pursuant to ORS 419B.550 to 419B.558; or
+(ii) Has been determined not to have  the ability to give informed consent regarding the student’s
+education pursuant to a protective proceeding under ORS chapter 125; or
+(B) The student, if the student is 18 years  of age or older or is emancipated pursuant to ORS
+419B.550 to 419B.558.
+(b) For the purpose of awarding a modified diploma or extended diploma as provided by sub-
+section (1)(d) of this section or of awarding a high school diploma as provided by subsection (4) of
+this section, consent must be received  during the school year for which the diploma will be awarded.
+(7) A school district or public charter school shall award a modified diploma only  to students
+who have demonstrated the inability to meet the full set of academic content standards for  a high
+school diploma with reasonable  modifications and accommodations. To be eligible for a modified di-
+ploma, a student must:
+(a) Satisfy the requirements  for a modified diploma established by the State Board of Education;
+and
+(b) Have a documented history of an inability  to maintain grade level achievement due to sig-
+nificant learning and  instructional barriers or have a documented history of a medical condition that
+creates a barrier to achievement.
+(8) A school district  or public charter school shall award an extended diploma only to students
+who have demonstrated the inability to meet the full set of academic content standards for  a high
+school diploma with  reasonable modifications and accommodations. To be eligible for an extended
+diploma, a student must:
+(a) While in grade nine  through completion of high school, complete 12 credits, which may not
+include more than six credits  earned in a self-contained special education classroom and shall in-
+clude:
+(A) Two credits of mathematics;
+(B) Two credits of language arts;
+(C) Two credits of science;
+(D) Three credits of history, geography, economics or civics;
+(E) One credit of health;
+(F) One credit of physical education; and
+(G) One credit of the arts or a world language; and
+(b) Have a documented history of:
+(A) An inability to maintain grade level achievement due to  significant learning and instruc-
+tional barriers;
+[13]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) A medical condition that creates a barrier to achievement; or
+(C) A change in the student’s ability to participate in  grade level activities as a result of a se-
+rious illness or injury that occurred after grade eight.
+(9) A school district or public charter school shall award an alternative  certificate to a student
+who does not satisfy the requirements for a  high school diploma, a modified diploma or an extended
+diploma if  the student meets requirements established by the board of the school district or public
+charter  school.
+(10) A student shall have the opportunity to satisfy  the requirements of subsection (7), (8) or (9)
+of this section by the later of:
+(a) Four years after starting grade nine; or
+(b) The student reaching the age  of 21 years, if the student is entitled to a public education until
+the age of 21 years under state or federal law.
+(11)(a) A student may satisfy  the requirements described in subsection (7), (8) or (9) of this sec-
+tion in less than four years if consent is  provided in the manner described in subsection (6)(a) of this
+section.
+(b) The consent provided under this subsection must be written and must clearly  state that the
+parent, guardian or student is waiving the time allowed under subsection (10) of  this section. A
+consent may not be  used to allow a student to satisfy the requirements of subsection (7), (8) or (9)
+of this section in less than three years.
+(c) A copy of all consents provided under this subsection  for students in a school district must
+be forwarded to the district superintendent.
+(d) Each school district must provide to the Superintendent of Public  Instruction information
+about the number of consents provided during a school year.
+(12)(a) A student  who qualifies to receive or receives a modified diploma, an extended diploma
+or an alternative certificate shall:
+(A) Have the option of participating in a high  school graduation ceremony with the class of the
+student; and
+(B) Have access to instructional hours, hours of transition services and hours  of other services
+that are designed to:
+(i) Meet the unique needs of the student; and
+(ii) When added together, provide a  total number of hours of instruction and services to the
+student that equals at least the total number of  instructional hours that is required to be provided
+to students who are attending a public high school.
+(b)(A) The number of instructional hours, hours of transition  services and hours of other ser-
+vices that are appropriate for a student shall be determined by the student’s individualized education
+program team. Based on the  student’s needs and performance level, the student’s individualized ed-
+ucation program team may decide that the student will not access  the total number of hours of in-
+struction and services to which the student has access under paragraph (a)(B) of this subsection.
+(B) A school district may not unilaterally decrease the  total number of hours of instruction and
+services to which the student has access under paragraph (a)(B) of this subsection, regardless of the
+age of the student.
+(c) If a student’s  individualized education program team decides that the student will not access
+the total number of hours of instruction and services to which the  student has access under para-
+graph (a)(B) of this subsection, the school district shall annually:
+(A) Provide the following information in writing to the parent or guardian of the student:
+[14]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(i) The school district’s duty  to comply with the requirements of paragraph (a)(B) of this sub-
+section; and
+(ii) The prohibition against a school district’s unilaterally decreasing the total number of  hours
+of instruction and services to which the student has access.
+(B) Obtain a signed acknowledgment from the  parent or guardian of the student that the parent
+or guardian received the information described in subparagraph (A) of this paragraph.
+(C) Include in the individualized education program for the  student a written statement that
+explains the  reasons the student is not accessing the total number of hours of instruction and ser-
+vices to which the student has access under paragraph (a)(B) of this subsection.
+(d) For purposes of paragraph (a)(B) of this subsection, transition services  and other services
+designed to meet the unique needs of the student may be provided  to the student through an inter-
+agency agreement entered into  by the school district if the individualized education program devel-
+oped for the student indicates that the  services may be provided by another agency. A school
+district that enters into an  interagency agreement as allowed under this paragraph retains the re-
+sponsibility for ensuring that the student has access to  the number of service hours required to be
+provided to the student under this subsection. An agency  is not required to change any eligibility
+criteria or enrollment standards prior to entering into an interagency agreement  as provided by this
+paragraph.
+(13) A school district or public charter school shall:
+(a) Ensure that students have on-site access to the  appropriate resources to achieve a high
+school  diploma,  a modified diploma, an extended diploma or an alternative certificate at each high
+school in the school district or at the public charter school.
+(b) Provide literacy instruction to all students until graduation.
+(c) Annually provide, to the parents or guardians of a  student who has the documented history
+described in subsection (8)(b) of this section, information about the availability of a modified di-
+ploma, an extended diploma and an alternative  certificate and the requirements for the diplomas and
+certificate:
+(A) Beginning in grade five; or
+(B) Beginning after a documented history described in subsection (8)(b) of this section has been
+established.
+(14) A school district or public charter  school shall allow a student to participate in the high
+school graduation ceremony with the class of the student and to wear:
+(a) Native American items of cultural significance as provided by ORS 332.112; or
+(b) A dress uniform issued to the student by  a branch of the Armed Forces of the United States
+if the student:
+(A) Qualifies to receive a high school diploma,  a modified diploma, an extended diploma or an
+alternative certificate under this section; and
+(B) Has completed basic  training for, and is an active member of, a branch of the Armed Forces
+of the United States.
+PROVISION OF MENSTRUAL PRODUCTS TO STUDENTS
+SECTION 8.
+ ORS 326.545, as operative until July 1, 2022, is amended to read:
+326.545. (1) As used in this section:
+(a) “Public education provider” means:
+[15]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) A school district;
+(B) A public charter school;
+(C) An education service district;
+(D) A community college; or
+(E) A public university listed in ORS 352.002.
+(b) “Public  school building” means a building used by a public education provider to provide
+educational services to students.
+(c) “Student bathroom” means  a bathroom that is accessible by students, including a gender-
+neutral bathroom, a bathroom designated for females and a bathroom designated for males.
+(2)(a) Each public  education provider shall ensure that both tampons and sanitary pads are
+available at no cost  to students through dispensers located in at least two student bathrooms of
+every public school building.
+(b) Notwithstanding paragraph (a) of  this subsection, if a public school building has only one
+student bathroom, both tampons and sanitary pads must be  available at no cost to students through
+dispensers located in that bathroom.
+(3) A public education provider, and any employee of a public education provider, is not  liable
+in a criminal action or for civil damages as a result of a student’s use of a tampon  or sanitary pad
+made available under this section.
+(4) The State  Board of Education and the Higher Education Coordinating Commission shall
+adopt any rules necessary  for the administration of this section. Rules adopted by the board and
+commission shall provide for:
+(a) The number of dispensers required in each student bathroom;
+(b) The types of products available in each student bathroom; [ and]
+(c) Modifications to  or exemptions from the requirements of this section for the pro-
+grams of a public education provider that:
+(A) Provide early childhood care or learning to preschool children; or
+(B) Provide education or other services to students for whom the requirements  of this
+section may be a threat to the health or safety of the students; and
+[(c)] (d) Payments to public education providers for costs  incurred under this section, including:
+(A) For school districts, public charter schools and education service districts and  subject to
+subparagraph (B) of this paragraph, distributions from amounts available under ORS 327.008  (18) to
+be made based on the average daily membership, as defined in  ORS 327.006, of the district or school;
+(B) For education service districts, distributions to be made as provided  by subparagraph (A)
+of this paragraph may not exceed 7.5 percent of the  amounts available for distribution under ORS
+327.008 (18);
+(C) For community colleges, distributions from the Community College Support Fund to be  made
+based on the full-time equivalent student enrollment of the community college; and
+(D) For public universities, distributions  from a public university support fund established by the
+commission by rule.
+SECTION 9.
+ ORS 326.545 is amended to read:
+326.545. (1) As used in this section:
+(a) “Public education provider” means:
+(A) A school district;
+(B) A public charter school;
+(C) An education service district;
+[16]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(D) A community college; or
+(E) A public university listed in ORS 352.002.
+(b) “Public school building” means a building used by a public education provider to  provide
+educational services to students.
+(c) “Student bathroom” means a bathroom that is accessible by students,  including a gender-
+neutral bathroom, a bathroom designated for females and a bathroom designated for males.
+(2) Each public education provider shall ensure that both  tampons and sanitary pads are avail-
+able at no cost to students through dispensers located in  every student bathroom of every public
+school building.
+(3) A public education provider, and any employee of a public education provider, is not  liable
+in a criminal action or for civil damages as a result of a student’s use of a tampon  or sanitary pad
+made available under this section.
+(4) The State  Board of Education and the Higher Education Coordinating Commission shall
+adopt any rules necessary  for the administration of this section. Rules adopted by the board and
+commission shall provide for:
+(a) The number of dispensers required in each student bathroom;
+(b) The types of products available in each student bathroom; [ and]
+(c) Modifications to  or exemptions from the requirements of this section for the pro-
+grams of a public education provider that:
+(A) Provide early childhood care or learning to preschool children; or
+(B) Provide education or other services to students for whom the requirements  of this
+section may be a threat to the health or safety of the students; and
+[(c)] (d) Payments to public education providers for costs  incurred under this section, including:
+(A) For school districts, public charter schools and education service districts and  subject to
+subparagraph (B) of this paragraph, distributions from amounts available under ORS 327.008  (18) to
+be made based on the average daily membership, as defined in  ORS 327.006, of the district or school;
+(B) For education service districts, distributions to be made as provided  by subparagraph (A)
+of this paragraph may not exceed 7.5 percent of the  amounts available for distribution under ORS
+327.008 (18);
+(C) For community colleges, distributions from the Community College Support Fund to be  made
+based on the full-time equivalent student enrollment of the community college; and
+(D) For public universities, distributions  from a public university support fund established by the
+commission by rule.
+PARTICIPATION IN INTERSCHOLASTIC ACTIVITIES
+SECTION 10.
+ ORS 339.460 is amended to read:
+339.460. (1) As used in this section:
+(a) [ “GED program” ] “High school equivalency program”  means a program provided [ by a
+school district or an education service district ] to assist a student in earning a  certificate for  pass-
+ing an approved high  school equivalency test such as the  General Educational Development
+(GED) [ certificate] test .
+(b) [ “GED student” ] “High school equivalency student”  means a student who is eligible to  at-
+tend school under ORS  339.115 (1) and who is enrolled in a [ GED] high school equivalency  pro-
+gram.
+[17]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) “Homeschooled student” means a  child who is taught by a private teacher, a parent or a
+legal guardian, as described in ORS 339.030.
+(d) “Interscholastic activities” includes:
+(A) For students in any grade from kindergarten through grade 12, athletics, music, speech and
+other similar or related activities.
+(B) For students in any grade from kindergarten through  grade eight, activities that are offered
+only before or after regular school hours and that may, but are not required to,  involve interaction
+among other schools.
+(e) “Public charter school” has the meaning given that term in ORS 338.005.
+(2) A school  district may not deny a [ GED] high school equivalency student, a homeschooled
+student or a student who attends a public charter school  that does not provide interscholastic ac-
+tivities the opportunity to participate in all  interscholastic activities available in the school district
+within the  attendance boundaries in which the [ GED] high school equivalency  student,
+homeschooled student or public charter school student  resides if the student fulfills the following
+conditions, as applicable:
+(a)(A) For a [ GED] high school equivalency  student or a homeschooled student,  the student
+must meet all school district eligibility requirements except:
+(i) The school district’s school or class attendance requirements; and
+(ii) The class requirements of the voluntary  association that administers the interscholastic ac-
+tivity, if applicable.
+(B) For a student who attends a public charter school,  the student must meet all school district
+eligibility requirements except the school district’s school or class attendance requirements.
+(b) For a homeschooled student or a student who attends a public charter  school, the student
+must meet one of these requirements:
+(A) Achieve a minimum score that places the student at or above the 23rd percentile,  based on
+national norms, on an examination from the list the State Board of Education  adopts under ORS
+339.035. The student must take the examination  [ at the end of each school year ] prior to the be-
+ginning of the school year in which the student will participate  in an interscholastic activity
+and for which academic eligibility is being determined , and the student’s parent or legal guard-
+ian must submit  the results to the school district for use in determining the student’s academic
+eligibility for the [ following] subsequent school year.
+(B) Meet alternative requirements that a school district adopts, in consultation with  the
+student’s parent or legal guardian, to participate in  interscholastic activities, including but not
+limited to a requirement that a student submit a portfolio of  work samples to a school district
+committee for review to determine whether  the student is eligible to participate in interscholastic
+activities.
+(c) For a [ GED] high school equivalency student, the student must  demonstrate that, prior to
+beginning the interscholastic activity, the student has passed at least one practice test administered
+through the [ GED] high school equivalency program.
+(3)(a) In addition to the requirements set forth in subsection  (2) of this section, a public charter
+school that enrolls a student who intends to  participate in an interscholastic activity must pay to
+the school district or school that offers  the interscholastic activity, as appropriate and if the school
+district or school requires payment as provided by this subsection:
+(A) An annual fee that is equivalent  to not more than five percent of the amount of the school
+district’s General Purpose Grant per ADMw, as calculated under ORS 327.013; and
+[18]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) An additional annual  fee that is equivalent to not more than five percent of the amount of
+the school district’s General Purpose Grant per ADMw,  as calculated under ORS 327.013, if partic-
+ipating in the interscholastic activity requires the student to enroll in a course for credit.
+(b) The school district and the public charter  school shall enter into an agreement to specify the
+amount of the fees described in paragraph (a) of this subsection.
+(c) A  public charter school is required to pay a fee described in paragraph (a) of this subsection
+only once per year per student participating in an interscholastic activity at a school in the  school
+district, regardless of the number of interscholastic activities in which the student participates.
+(4) A [ GED] high school equivalency student, a homeschooled student or a student who attends
+a public charter school may  participate in interscholastic activities while awaiting examination or
+practice test results.
+(5)(a) Except as provided  by paragraph (b) of this subsection,  a [ GED] high school equiv-
+alency student, a homeschooled student or a student who attends a public charter school  who does
+not maintain academic eligibility is ineligible to  participate in interscholastic activities for [ the du-
+ration of ] the school year in  which the student  is determined to be academically ineligible.  [ be-
+comes academically ineligible and for the following year. The student  must take the required
+examinations or practice tests at  the end of the second year and meet the standards described in sub-
+section (2)(b) or (c) of this section to become eligible for the third year. ]
+(b) A student is no longer determined to  be academically ineligible to participate in
+interscholastic activities during a school year if, at any time during  the school year, the
+student takes the required examinations or practice tests and meets the standards described
+in subsection (2)(b) or (c) of this section.
+(6)(a) A [ GED] high school equivalency student, a homeschooled student  or a student who at-
+tends a public charter school must fulfill  the same responsibilities and standards of behavior and
+performance, including related class or practice requirements, as other  students who participate in
+the interscholastic activity.  The student must also comply with all public school requirements during
+the time of participation.
+(b) A student who attends a public charter school must be allowed to participate in  an inter-
+scholastic activity in the same manner that a resident of  the school district may participate in the
+interscholastic activity. A school district may not give priority to residents  of the school district to
+participate in interscholastic activities, but may require a student  who attends a public charter
+school to satisfy any standards for acceptance for participation.
+(7) A [ GED] high school equivalency student, a homeschooled student or a student who attends
+a public charter school who participates in  interscholastic activities must reside within the attend-
+ance boundaries of the school  at which the student participates unless the school district has a
+policy that allows any student attending a school of the school district to participate in  interscho-
+lastic activities at any school of the school district.
+SECTION 11.
+ ORS 339.450 is amended to read:
+339.450. A school, school district or association, whether public or private, may not  deny any
+grade or high school student  the right to participate in interscholastic athletics solely on the ground
+that the student:
+(1) Transferred between schools;
+(2) Attends a public charter school, as defined in ORS 338.005;
+(3) Participated in athletics at another school; or
+(4) Is eligible to attend school  under ORS 339.115 (1) and is enrolled in a program [ provided by
+[19]
+SB 1522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+a school district  or an education service district to earn a General Educational Development (GED)
+certificate] to earn a certificate for passing an approved high school equivalency test, such  as
+the General Educational Development (GED) test .
+CAPTIONS
+SECTION 12.
+The unit captions used in this 2022 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2022 Act.
+EMERGENCY CLAUSE
+SECTION 13. This 2022 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2022 Act takes effect
+on its passage.
+[20]

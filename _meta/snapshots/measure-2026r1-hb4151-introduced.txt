@@ -1,0 +1,89 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4151
+Sponsored by Representatives EDWARDS, WRIGHT, LEVY B,  BOICE; Representatives BUNCH, HELFRICH,
+LEWIS, MANNIX, MCINTIRE, NATHANSON, OSBORNE,  OWENS, RIEKE SMITH, SCHARF, SKARLATOS,
+Senators DRAZAN, PROZANSKI, SMITH DB, THATCHER (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the crime of initiating a false report. (Flesch Readability Score: 69.7).
+Increases the penalties for the  crime of initiating a false report when the report causes an en-
+hanced law  enforcement response that results in physical injury or death. Punishes by a maximum
+of five years’ imprisonment, $125,000 fine, or both.
+A BILL FOR AN ACT
+Relating to initiating a false report; amending ORS 162.375.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 162.375 is amended to read:
+162.375. (1) A person commits the crime of initiating a false  report if the person knowingly ini-
+tiates a false alarm or report that is transmitted  to a fire department, law enforcement agency or
+other organization that deals with emergencies involving danger to life or property.
+(2)(a) Initiating a false report is a Class A misdemeanor.
+(b) Notwithstanding paragraph (a) of this  subsection, initiating a false report is a Class
+C felony  if the false report is of such nature that the person initiating the report, with
+criminal negligence, causes the deployment of an  enhanced law enforcement response that
+results in physical injury to or the death of another person.
+(3) The Oregon Criminal Justice Commission shall  classify initiating a false report as
+described in subsection (2)(b) of this section as a person felony under the rules of the com-
+mission.
+[(3)(a)] (4)  The  court shall include in the sentence of any person convicted under this section a
+requirement that the person repay the costs incurred in responding to and investigating  the false
+report.
+[(b) If the response to the  false report involved the deployment of a law enforcement special weap-
+ons and tactics (SWAT) team or a  similar law enforcement group, the court shall impose, and may not
+suspend, a term of incarceration of: ]
+[(A) At least 10 days. ]
+[(B) At least 30 days if  the deployment resulted in death or serious physical injury to another
+person.]
+(5) As used in this section, “enhanced law enforcement response” means a  response by
+a law enforcement agency that, based on the information received, involves one or  more of
+the following:
+(a) The dispatch of two or more officers or units,  including specialized or tactical teams;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 37
+HB 4151
+1
+2
+3
+4
+5
+6
+7
+(b) The establishment of a  perimeter, the evacuation of bystanders or restriction of
+public access;
+(c) The use or deployment of specialized equipment, including armored vehicles, breach-
+ing tools or aircraft; or
+(d) The initiation of emergency procedures such as  a shelter-in-place directive or the
+activation of rapid response protocols.
+[2]

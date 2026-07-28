@@ -1,0 +1,953 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+81st OREGON LEGISLATIVE ASSEMBLY--2022 Regular Session
+Senate Bill 1545
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Governor Kate Brown for Office of the Governor)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes grant programs in Higher Education Coordinating Commission to provide funding for
+workforce development activities that  aim to increase access for priority populations to training
+opportunities in construction, health care and manufacturing and to  workforce development services
+and benefits.
+Appropriates moneys from General Fund  to Higher Education Coordinating Commission to sup-
+port grant programs.
+Requires Youth Development Division to develop grant program to award  grants to entities that
+provide youth and young adults from priority populations with increased access to  youth workforce
+programs that offer workforce readiness training and job placement services.
+Appropriates moneys from General Fund to Youth Development Division  to support grant pro-
+gram.
+Requires Higher Education Coordinating Commission to establish program to convene industry
+consortia throughout state to increase training and career opportunities for priority populations.
+Appropriates moneys from General Fund to Higher Education  Coordinating Commission to sup-
+port program activities.
+Requires Higher  Education Coordinating Commission to establish grant program to award
+grants to pilot  projects brought by local workforce development boards that partner with compre-
+hensive one-stop centers that hire workforce benefits navigator.
+Appropriates moneys from General Fund to  Higher Education Coordinating Commission to carry
+out program.
+Requires Higher Education Coordinating Commission,  in collaboration with State Workforce and
+Talent Development Board and Youth  Development Council, to review programs established under
+Act and submit joint report to Governor and interim committees of Legislative Assembly related to
+workforce development on performance and expenditure outcomes of programs.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to workforce development; creating new provisions;  amending ORS 660.300; and declaring
+an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 660.300 is amended to read:
+660.300. As used in ORS 660.300 to 660.364:
+(1) “Chief elected official” means a county  commissioner, a county judge or the mayor of the
+City of Portland.
+(2) “Federal  Act” or “federal Workforce Innovation and Opportunity Act” means the federal
+Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.).
+(3) “Local workforce development area” means the City of Portland or a county when  the city
+or county has been designated as a local workforce  development area under ORS 660.324. “Local
+workforce development area” may include  two or more counties that have joined together to form
+a local workforce development  area and that have been designated as a local workforce development
+area under ORS 660.324.
+(4) “Local workforce development board”  means a board established pursuant to section 3122
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 221
+SB 1545
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of the federal Workforce Innovation and Opportunity Act.
+(5) “Maritime sector” includes but is not limited to:
+(a) Enterprises  engaged in the design, construction, manufacture, acquisition, operation, supply,
+repair or maintenance of marine vessels or component parts of marine vessels;
+(b) Enterprises engaged in managing or operating shipping lines;
+(c) Customs brokerage services, shipyards, shipping and freight forwarding services, dry docks,
+marine railways and marine repair shops;
+(d) Enterprises engaged in commercial or recreational fishing;
+(e) Enterprises and academic institutions engaged in scientific research of ocean processes, ma-
+rine life or other ocean resources; and
+(f) Enterprises engaged in marine  tours or travel, water sports or other marine leisure activities.
+(6) “Participant” means  a person receiving services under the federal Workforce Innovation and
+Opportunity Act (29 U.S.C. 3101 et seq.).
+(7) “Participant records” means records relating  to matters such as grades, conduct, personal
+and academic evaluations, results of  psychometric testing, counseling, disciplinary actions, if any,
+and other personal matters.
+(8) “Priority populations” means:
+(a) Communities of color;
+(b) Women;
+(c) Low-income communities;
+(d) Rural and frontier communities;
+(e) Veterans; and
+(f) Participants in offender reentry programs.
+[(8)] (9) “State workforce agencies” means state agencies that administer workforce programs.
+[(9)] (10) “Workforce  development” means services designed to help individuals attain employ-
+ment and progress along career  pathways and to help businesses better achieve business goals by
+more easily finding skilled employees. “Workforce development” includes:
+(a) Education, training and apprenticeship services;
+(b) Labor market analysis;
+(c) Employment and reemployment services;
+(d) Employee recruitment and retention services; and
+(e) Convening, coordinating,  oversight and evaluation services for business and state workforce
+agencies.
+[(10)] (11) “Workforce programs” means programs that have a primary  mission of helping indi-
+viduals become employed,  retain employment, increase wages and progress along career pathways
+and that are responsible for outcomes related to the primary mission.
+SECTION 2.
+Sections 3, 13, 15 and 17 of this 2022 Act are added to and made a  part of
+ORS 660.300 to 660.364.
+SECTION 3. Local workforce development boards.  (1) There is created in the Higher Ed-
+ucation Coordinating Commission a program to make grants  to local workforce development
+boards to provide increased access for priority populations to services and benefits  available
+through workforce programs and to provide priority populations with  training opportunities
+in construction, health care and manufacturing.
+(2) A  recipient of grant moneys under this section may use the funds for the following
+purposes:
+[2]
+SB 1545
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) To provide career coaching, occupational training and job placement services;
+(b) To provide wraparound support services that are necessary to facilitate reengagement
+in the workforce, including, but  not limited to, transportation, child care and rental assist-
+ance;
+(c) To provide paid  work experiences, including stipends and wages and other income
+supports for individuals from priority populations; and
+(d) To support targeted recruitment and engagement efforts.
+(3) The commission may award grants to local workforce development  boards that dem-
+onstrate experience in effectively engaging with and responding to  the needs of priority
+populations.
+(4) The  commission shall disburse grant moneys to local workforce development board
+grant recipients using the same formula as required under the federal Workforce Innovation
+and Opportunity Act for the allocation of funds to local workforce development boards.
+SECTION 4.
+Appropriation. In addition to and not in lieu of any other  appropriation,
+there is appropriated to the Higher Education Coordinating Commission,  for the biennium
+ending June 30, 2023, out of the General Fund, the amount of $35,000,000 for the purpose of
+making grants under section 3 of this 2022 Act.
+SECTION 5. Career pathway training programs.  (1) As used in this section:
+(a) “Community-based organization” includes:
+(A) Nonprofit organizations that are representative of a particular community  or specific
+segments of a community and  that are located within or in close proximity to the community
+served by the organization; and
+(B) Culturally specific organizations.
+(b) “Community college” has the meaning given that term in ORS 341.005.
+(c) “Culturally specific  organization” means an organization that serves a particular
+cultural community, that is primarily staffed  and led by members of that community and
+that demonstrates intimate knowledge of the lived experience  of that community, including,
+but not limited to:
+(A) The impact of racism or discrimination in the community;
+(B) Specific disparities in access to services and resources experienced by  the commu-
+nity; and
+(C) Community strengths, cultural practices, beliefs and traditions.
+(d) “Local workforce development board” has the meaning given that term in ORS
+660.300.
+(e) “Priority populations” has the meaning given the term in ORS 660.300.
+(f) “Self-sufficiency  standard” is a measure of income adequacy, calculated for each
+county in this state, that is based on the costs of basic needs of working families of  various
+sizes and compositions, including, but not limited to, food, housing, child care, transportation
+and health care, plus taxes and tax credits, and that describes the amount  of income that is
+needed for a family to cover such costs without public or private assistance.
+(2) There is created a program  in the Office of Community Colleges and Workforce De-
+velopment within the Higher Education Coordinating Commission for the purpose  of making
+grants to community colleges for  the development of career pathway training programs that
+provide individuals in priority populations opportunities to obtain necessary skills for secur-
+ing a job or  career advancement in the construction, health care or manufacturing indus-
+[3]
+SB 1545
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tries.
+(3) At a minimum, a career pathway  training program developed under this section must:
+(a) Ensure that at least 80 percent of program participants:
+(A) Successfully complete the program;
+(B) Earn a targeted industry-recognized occupational credential; and
+(C) Successfully obtain employment and  receive income that meets the self-sufficiency
+standard for the particular region within which the program participant is employed; and
+(b) Reduce disparities experienced by priority populations in securing gainful employment
+or obtaining career advancement.
+(4) A recipient of grant moneys under this section may use the funds to:
+(a) Connect with priority populations to provide meaningful access to the career  pathway
+training programs developed under this section;
+(b) Collaborate with community-based organizations, kindergarten through grade  12
+schools, local workforce development boards and  other workforce development organizations
+to achieve the fullest possible participation in the career pathway training programs;
+(c) Employ a rigorous assessment strategy to determine the efficacy of the programs;
+(d) Procure up-to-date training equipment, technology and other supplies  to provide a
+modernized training experience for program participants; and
+(e) Identify opportunities to leverage the use  of other funding sources, including oppor-
+tunities to leverage matching federal funds.
+(5) The commission shall determine the process for applying for grants under  this sec-
+tion, the standards and criteria for awarding grants and the general  terms and conditions
+of the grants.
+(6) To be eligible to receive a grant award under this section, a community  college must
+demonstrate, in an application to the commission, that the  community college has the ability
+to effectively engage with and respond to the needs of individuals from priority populations.
+(7) The Higher Education Coordinating Commission shall  compile information from each
+recipient of a grant under this section regarding the status of each career  pathway training
+program established under this section and the use of  grant funds. The commission shall
+submit a report summarizing the information to the interim committees of the Legislative
+Assembly related to workforce  development no later than December 31, 2022, in the manner
+provided in ORS 192.245.
+(8) The commission may adopt rules necessary  to implement the provisions of this sec-
+tion.
+SECTION 6.
+Appropriation. In addition to and not in lieu of any other  appropriation,
+there is appropriated to the Higher Education Coordinating Commission,  for the biennium
+ending June 30, 2023, out of the General Fund, the amount of $17,000,000, which may be ex-
+pended to carry out the provisions of section 5 of this 2022 Act.
+SECTION 7. Registered apprenticeships. (1) As used in this section:
+(a) “Community-based organization” has the meaning given that term in section 5 of  this
+2022 Act.
+(b) “Local workforce development board” has the meaning given that term in ORS
+660.300.
+(c) “Priority populations” has the meaning given that term in ORS 660.300.
+(2) The Higher Education Coordinating Commission, in coordination with  the Bureau of
+[4]
+SB 1545
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Labor and  Industries, shall establish and administer a grant program to provide financial
+support for the development and implementation of new registered apprenticeship and pre-
+apprenticeship training programs in construction, health care and manufacturing.
+(3) The commission may award grants to community-based organizations, labor  organ-
+izations, local workforce development boards and other workforce development education and
+training providers that develop  apprenticeship and preapprenticeship programs described
+under subsection (2) of this section  and that prioritize program participation by individuals
+from priority populations.
+(4) The commission shall establish criteria and standards  by which the entities described
+under subsection (3) of  this section may submit proposals to receive a grant under this sec-
+tion. The commission shall administer grant awards under this section on a competitive basis
+and may give priority to grant proposals that demonstrate effective strategies  for engaging
+with priority populations.
+(5) A recipient  of a grant under this section may use the moneys for the following pur-
+poses:
+(a) To pay for costs of convening employers in construction,  health care and manufac-
+turing;
+(b) To provide recruitment and outreach;
+(c) To provide tuition and fee assistance to program participants;
+(d) To pay the costs of tools, supplies and equipment and other training-related costs;
+(e) To pay for technology supports, including broadband services;
+(f) To provide wraparound supports and services;
+(g) To provide  paid work experiences, including stipends and wages, for program partic-
+ipants;
+(h) To develop uniform standards for new registered apprenticeship and preapprentice-
+ship programs; and
+(i) To develop a curriculum and standard courses of study for the instruction of program
+participants.
+(6) The Bureau  of Labor and Industries shall provide technical support staff to assist the
+commission in administering the grant program established under this section.
+SECTION 8.
+Appropriation. In addition to and not in lieu of any other  appropriation,
+there is appropriated to the Higher Education Coordinating Commission,  for the biennium
+ending June 30, 2023, out of the General  Fund, the amount of $20,000,000, for carrying out the
+purposes of section 7 of this 2022 Act.
+SECTION 9. Youth programs.  (1) As used in this section:
+(a) “Priority populations” has the meaning given that term in ORS 660.300.
+(b) “Youth workforce program” includes:
+(A) A youth reengagement program described under ORS 417.859.
+(B) A program administered or funded by the Youth Development Division that delivers
+workforce readiness services to out-of-school  or unemployed youth and young adults between
+the ages of 14 and 24 who are from priority populations.
+(2) The Youth Development Division shall develop and  administer a grant program to
+make grants to entities that provide youth and young adults from priority populations  with
+increased access to youth workforce programs.
+(3) The division may award grants, in addition to  and not in lieu of any other grants, to
+[5]
+SB 1545
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+entities to provide:
+(a) Paid work experiences for program participants.
+(b) Workforce readiness training.
+(c) Job placement services.
+(4) The division shall establish criteria and standards by which an entity may submit  a
+proposal to receive a grant under this section. The division shall administer grant awards
+under this section on a competitive basis, and may give priority to proposals that demon-
+strate effective strategies for outreach and  increased participation in youth workforce pro-
+grams by youth and young adults from priority populations.
+(5) The  division shall compile information from each recipient of grant moneys awarded
+under this section about program outcomes and the use  of grant funds and submit a report
+that includes a summary of the performance and expenditure information  to the interim
+committees of  the Legislative Assembly related to workforce development, in the manner
+provided under ORS 192.245, no later than December 31, 2022.
+SECTION 10.
+Appropriation. In addition to and not in lieu  of any other appropriation,
+there is appropriated to the Youth Development  Division, for the biennium ending June 30,
+2023, out of the General Fund, the amount of $6,500,000, for  carrying out the purposes of
+section 9 of this 2022 Act.
+SECTION 11. Prior learning credit.  (1) As used in this section:
+(a) “Community college” has the meaning given that term in ORS 341.005.
+(b) “Priority populations” has the meaning given that term in ORS 660.300.
+(c) “Public university” means a public university listed in ORS 352.002.
+(2) The Higher Education Coordinating Commission shall establish  a grant program
+within the Office  of Community Colleges and Workforce Development to make grants to
+community colleges and public universities  that work toward increasing opportunities for
+students from  priority populations to receive academic credit for prior experience or skills
+gained outside  of traditional higher education institutions that counts toward a certificate
+or credential that provides a pathway  to employment or career advancement in construction,
+health care or manufacturing.
+(3) In administering the grant  program under this section, the commission shall consult
+with employers and targeted  industry consortia to develop uniform standards that may be
+used to certify whether a student’s technical competency, qualifications, knowledge or  skills
+are sufficient to earn a certificate or credential in a targeted industry.
+(4) A recipient of grant moneys under this section may use the funds for the  following
+purposes:
+(a) Development of assessment criteria and practices that  may be used to evaluate
+whether the experience and skills may count toward earning an industry-recognized certif-
+icate or credential;
+(b) Training staff on how to  apply the assessment criteria in awarding credit for prior
+skills and experience; and
+(c) Recruitment and outreach to priority populations.
+(5) The commission shall establish criteria and standards by which  a community college
+or public university may submit a proposal to receive a grant under this  section. The com-
+mission shall administer grant awards under this section on a competitive basis, and may
+give priority to proposals that demonstrate effective strategies for engaging  with individuals
+[6]
+SB 1545
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+from priority populations.
+(6) The commission  may adopt any rules necessary for the implementation of the pro-
+visions of this section.
+SECTION 12.
+Appropriation. In addition to and not in lieu  of any other appropriation,
+there is appropriated to the Higher Education Coordinating Commission,  for the biennium
+ending June 30, 2023, out of the General Fund, the amount  of $10,000,000, for purposes of
+providing grants as described in section 11 of this 2022 Act.
+SECTION 13. Workforce ready grants.  (1) As used in this section:
+(a) “Community-based organization” has the meaning given that term in section 5 of  this
+2022 Act.
+(b) “Workforce service provider” includes  community-based organizations and nonprofit
+workforce education and training providers.
+(2) There is created in the Higher Education  Coordinating Commission a program to
+award grants, in consultation with the State Workforce and Talent Development Board, to
+workforce service providers that administer workforce  programs, including apprenticeship-
+related training,  in the construction, health care and manufacturing industries and that
+prioritize equitable program participation by individuals from priority populations.
+(3) The commission shall establish criteria and standards by which a workforce  service
+provider may submit a proposal to receive a grant under this  section. The commission shall
+award grants on a competitive basis, taking into consideration proposals that:
+(a) Describe how the workforce service provider  intends to engage with employers in the
+targeted industries to provide workforce development opportunities to  individuals from pri-
+ority populations;
+(b) Demonstrate experience in providing workforce program services and benefits  to in-
+dividuals from priority populations; and
+(c) Describe how the workforce service provider intends to collaborate with other
+workforce service providers to increase accessibility for priority populations  to workforce
+programs and opportunities.
+(4) Grant  moneys awarded under this section shall be expended for one or more of the
+following purposes:
+(a) To provide paid work experience, including stipends and wages;
+(b) To offer tuition and fee assistance for workforce programs;
+(c) To provide wraparound workforce development services;
+(d) To develop culturally and linguistically  specific career pathways for obtaining
+industry-recognized credentials in targeted sector industries; and
+(e) To fund organizational investments, including, but not limited to:
+(A) Hiring staff;
+(B) Developing organizational development strategies;
+(C) Purchasing equipment, technology or other training-related supplies;
+(D) Covering administrative costs; and
+(E) Any other  activities identified in a grant proposal as necessary to administer
+workforce programs described under this section.
+(5) The commission shall compile information from each recipient of a grant  under this
+section regarding the status  and use of grant funds to ensure funding is expended on the
+permissible purposes. At a minimum, the information must include:
+[7]
+SB 1545
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) The number of participants  who have registered for or completed a workforce pro-
+gram in construction, health care or manufacturing;
+(b) The number of  workforce programs, including apprenticeship-related training pro-
+grams, administered by a workforce service provider;
+(c) The job placement rate and income earnings by program participants; and
+(d) The number of individuals from priority populations  that receive services or benefits
+from workforce programs administered by a workforce service provider.
+(6) The Higher Education Coordinating Commission and  the State Workforce and Talent
+Development Board shall  jointly prepare a report on the program outcomes and the use of
+grant funds awarded  under this section. The report shall include a summary of the infor-
+mation provided under subsection (5) of this section and  shall be submitted to the interim
+committees of the Legislative Assembly related to workforce development, in the  manner
+provided under ORS 192.245, no later than December 31, 2022.
+(7) The commission may adopt any rules necessary for  carrying out the provisions of this
+section.
+SECTION 14.
+Appropriation. In addition to and not in lieu  of any other appropriation,
+there is appropriated to the Higher Education Coordinating Commission, to  be distributed in
+consultation with the  State Workforce and Talent Development Board, for the biennium
+ending June 30, 2023, out of the General Fund, the amount  of $25,000,000, for purposes of
+providing grants as described in section 13 of this 2022 Act.
+SECTION 15. Industry consortia.  (1) As used in this section, “community-based organ-
+ization” has the meaning given that term in section 5 of this 2022 Act.
+(2)(a) The Higher Education Coordinating  Commission, in consultation with the State
+Workforce and Talent Development Board, shall establish a  program to convene industry
+consortia throughout  the state that represent the construction, health care and manufac-
+turing industry sectors. Each individual consortium that is established under this section
+shall represent a single targeted industry sector.
+(b) The purpose of the program is to:
+(A) Establish strategic partnerships to  align workforce development activities that aim
+to increase participation in workforce programs by individuals from priority populations;
+(B) Develop structured processes to address mutual goals and promote consensus  in
+decision-making;
+(C) Identify industry-specific workforce needs  in this state, including the need for high-
+value credentials, to inform the development  and implementation of culturally and linguis-
+tically diverse workforce education and training curricula;
+(D) Develop targeted recruitment strategies to increase equitable  participation by indi-
+viduals from priority populations in statewide workforce programs; and
+(E) Promote workforce development programs  and activities in the targeted industry
+sectors.
+(3) Each industry consortium that is established under this section shall  operate under
+the direction of  a leadership team composed of the following representatives from each of
+the respective targeted industries:
+(a) A representative who is a business leader.
+(b) A representative of a community-based organization that administers  one or more
+workforce programs.
+[8]
+SB 1545
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) A representative of a workforce education and training provider.
+(4) The State Workforce and Talent Development  Board, or any other neutral entity
+designated by the board, shall serve as the intermediary  between the industry consortia
+members.
+(5) Not later than December 30, 2022, each industry consortium  established under this
+section shall conduct a  needs assessment to identify workforce needs and gaps in each re-
+spective targeted industry  sector and submit a report to the State Workforce and Talent
+Development Board that includes recommendations  for investing in and implementing
+industry-specific workforce programs to address those needs.
+(6) Not later than  December 30, 2022, the State Workforce and Talent Development Board
+shall submit a report to the  interim committees of the Legislative Assembly related to
+workforce development on the status  of the industry consortia program, including recom-
+mendations for any changes to the program.
+(7) The commission may adopt any rules necessary to carry out the provisions of this
+section.
+SECTION 16.
+Appropriation. In addition  to and not in lieu of any other appropriation,
+there is appropriated to  the Higher Education Coordinating Commission, for the biennium
+ending June 30, 2023, out  of the General Fund, the amount of $1,000,000, for purposes of
+carrying out the provisions of section 15 of this 2022 Act.
+SECTION 17. Benefits navigators.  (1) As used in this section:
+(a) “Community-based organization” has the meaning given that term in section 5 of  this
+2022 Act.
+(b) “Comprehensive one-stop center” has the meaning given  that term in 34 C.F.R.
+361.305.
+(c) “Workforce benefits navigator” means an individual who:
+(A) Is employed by a comprehensive one-stop center to advise and assist  individuals from
+priority populations in accessing workforce programs and applying for benefits and services
+that are available under the programs;
+(B) Has comprehensive knowledge and understanding of workforce programs and  the
+benefits and services that are available under those programs; and
+(C) Is aware of cultural and linguistic  differences of individuals from priority populations,
+including knowledge of lived experiences of such individuals.
+(2) The Higher Education Coordinating  Commission, in consultation with the State
+Workforce and Talent Development Board, shall  establish a program to make grants to pilot
+projects brought by local  workforce development boards that partner with comprehensive
+one-stop centers to employ a workforce  benefits navigator to connect individuals to
+workforce programs that provide training and career opportunities in construction,  health
+care and manufacturing and to increase  access for such individuals to services and benefits
+made available under those programs.
+(3) The commission shall establish criteria and standards by  which local workforce de-
+velopment boards may submit  proposals to receive a grant under this section. The commis-
+sion shall administer grant awards under  this section on a competitive basis to local
+workforce development boards that:
+(a) Have identified a comprehensive one-stop center with which the board  will partner
+to employ a workforce benefits navigator;
+[9]
+SB 1545
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Describe a plan for  how the workforce benefits navigator intends to assist individuals
+from priority populations in applying for and accessing wraparound benefits and services; and
+(c) Specify how the workforce benefits navigator  will collaborate with community-based
+organizations to provide increased access to workforce training  opportunities in targeted
+industry sectors and wraparound benefits and services.
+(4) A recipient of grant moneys under this section may use the funds for the  following
+purposes:
+(a) To connect individuals from priority populations with  workforce training opportu-
+nities in construction, health care and manufacturing;
+(b) To  provide funding to comprehensive one-stop centers to hire a workforce benefits
+navigator;
+(c) To expand wraparound workforce development benefits and services; and
+(d) To coordinate  with comprehensive one-stop centers to identify and respond to the
+specific needs of individuals from priority populations.
+(5) Not later than December 31, 2022, the Higher Education Coordinating Commission,  in
+consultation with the State Workforce and Talent  Development Board, shall evaluate the
+pilot projects  established under this section and submit a report to the interim committees
+of the Legislative Assembly related to workforce  development in the manner prescribed in
+ORS 192.245. The report shall include the status of the projects, expenditure information re-
+garding the use  of grant funds and any recommendations for program changes or future in-
+vestments.
+(6) The commission may adopt any rules necessary for  carrying out the provisions of this
+section.
+SECTION 18.
+Appropriation. In addition  to and not in lieu of any other appropriation,
+there is appropriated to  the Higher Education Coordinating Commission, for the biennium
+ending June 30, 2023, out  of the General Fund, the amount of $1,000,000, for purposes of
+carrying out the provisions of section 17 of this 2022 Act.
+SECTION 19. Assessment and accountability.  (1)  The Higher Education Coordinating
+Commission, in collaboration  with the State Workforce and Talent Development Board and
+the Youth Development Council, shall  review each of the programs established under
+sections 3, 5, 7, 9, 11, 13, 15  and 17 of this 2022 Act to assess performance and expenditure
+outcomes of the programs. In evaluating the programs, the  commission shall compile the
+following information:
+(a) For the programs established under sections 3, 5, 7, 11,  13, 15 and 17 of this 2022 Act:
+(A) The number of diverse participants who  have registered for or completed a workforce
+program, including apprenticeship-related programs;
+(B) Data on job placement rates for program participants;
+(C) A description of any new workforce programs, including training  programs, career
+pathway programs and apprenticeship-related  programs, established as a result of the pro-
+grams described under sections 3, 5, 7, 11, 13, 15 and 17 of this 2022 Act; and
+(D) The types and  amounts of any wraparound benefits or services provided to individuals
+in priority populations.
+(b) For the program established under section 9 of this 2022 Act:
+(A) The number of youth or young  adults from priority populations who have registered
+for or completed a youth workforce program;
+[10]
+SB 1545
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+(B) Data on job placement rates  for participants who have completed a youth workforce
+program; and
+(C) A description of any  new paid work experiences, workforce readiness training or job
+placement services created as a result of grants awarded under section 9 of this 2022 Act.
+(2) By December 31 of each year, the  Higher Education Coordinating Commission, the
+State Workforce and Talent Development Board and the Youth Development Council shall
+prepare and submit a joint report that includes the information described in  subsection (1)
+of this section,  disaggregated by race, gender and geographical area, including any recom-
+mendations for future investments, to the Governor  and to the interim committees of the
+Legislative Assembly related  to workforce development, in the manner provided in ORS
+192.245.
+SECTION 20.
+In addition to and not in lieu of any other  appropriation, there is appro-
+priated to the Higher Education Coordinating Commission, for the biennium ending June  30,
+2023, out of the General Fund, the amount of $1,500,000, for  purposes of carrying out the
+provisions of section 19 of this 2022 Act.
+SECTION 21. The section captions used in this 2022 Act are provided  only for the con-
+venience of the reader and do not become part of the  statutory law of this state or express
+any legislative intent in the enactment of this 2022 Act.
+SECTION 22. This 2022 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2022 Act takes effect
+on its passage.
+[11]

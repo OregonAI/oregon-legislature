@@ -1,0 +1,311 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2977
+Sponsored by  Representatives PHAM H, BYNUM; Representatives DEXTER, DIEHL, REYNOLDS, Senator
+CAMPOS (at the request of Washington County) (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Requires Higher Education Coordinating Commission, in collaboration with Oregon Health  Au-
+thority, to establish grant program for purpose of distributing moneys to  institutions of higher edu-
+cation to develop programs that prepare students to enter into behavioral health workforce.
+Requires Higher Education Coordinating Commission,  in collaboration with State Workforce and
+Talent Development Board and  Oregon Health Authority, to establish grant program to award
+grants to local workforce development boards  that promote workforce development in field of be-
+havioral health.
+Appropriates moneys from General Fund to  Higher Education Coordinating Commission to carry
+out provisions related to grant programs.
+Requires Oregon Health Authority to  collect and report data regarding recipient use of incen-
+tives provided for recruitment  and retention of behavioral health workforce and to collect data re-
+garding grants awarded by authority to  provide supervised clinical experience for certain behavioral
+health care providers.
+Establishes oversight council to advise Oregon Health Authority in identifying  and eliminating
+systemic barriers that influence funding, allocation of funding and policy choices with  respect to
+behavioral health workforce.
+A BILL FOR AN ACT
+Relating to behavioral health workforce development.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 and 3 of this 2023 Act are added to and made a part of ORS 660.300
+to 660.364.
+SECTION 2. (1) As used in this section:
+(a) “Community college” has the meaning given that term in ORS 341.005.
+(b) “Institution of higher education” means a public  college or community college or a
+university.
+(c) “University” means:
+(A) A public university listed in ORS 352.002.
+(B) Oregon Health and Science University.
+(2) The Higher Education Coordinating Commission shall, in  coordination with the
+Oregon Health Authority, establish a grant program for the purpose of distributing  moneys
+to institutions of higher education to develop training and instructional  programs that pre-
+pare students to enter into the behavioral health workforce.
+(3) Moneys awarded to a recipient under subsection (2) of this section may be used for:
+(a) Scholarships or other tuition assistance for students going into the field  of behavioral
+health.
+(b) Developing pathways to employment opportunities in the field of behavioral health.
+(c) Recruitment and outreach efforts to increase the number  of students training for and
+entering into the behavioral health workforce.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3517
+HB 2977
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) Job training and instruction for behavioral health occupations.
+(4)(a) The commission shall establish criteria and standards by which an institution  of
+higher education may apply for and receive a grant award.
+(b) The commission shall award grants based on the ability of the  applicant to use the
+grant as required under subsection (3) of this section.
+(5) The commission may adopt any  rules necessary for the implementation and adminis-
+tration of this section.
+SECTION 3.
+(1) As  used in this section, “institution of higher education” has the meaning
+given that term in section 2 of this 2023 Act.
+(2) The Higher Education Coordinating Commission shall, in consultation with  the State
+Workforce and Talent Development Board  and the Oregon Health Authority, establish and
+administer a program for the purpose of awarding grants to local workforce  development
+boards that  provide workforce programs and promote workforce development activities in
+the field of behavioral health.
+(3) Moneys awarded to a recipient under subsection (2) of this section may be used to:
+(a) Develop programs that provide individuals with  training to attain employment in the
+behavioral health workforce.
+(b) Collaborate with high schools, employers and institutions of higher education to  con-
+nect individuals with employment opportunities in the field of behavioral health.
+(4)(a) The commission shall establish criteria and standards  by which a local workforce
+development board may apply for and receive a grant award.
+(b) The commission shall award grants based on the ability of the  applicant to use the
+grant as required under subsection (3) of this section.
+(5) The commission may adopt any  rules necessary for the implementation and adminis-
+tration of this section.
+SECTION 4.
+(1) In addition to and not in lieu of any other  appropriation, there is appro-
+priated to the Higher Education Coordinating Commission,  for the biennium beginning July
+1, 2023, out of the General Fund, the  amount of $1,000,000, for carrying out the provisions
+of section 2 of this 2023 Act.
+(2) In addition to and not in lieu of any other appropriation, there is appropriated to the
+Higher Education Coordinating Commission, for  the biennium beginning July 1, 2023, out of
+the General Fund, the amount of $5,000,000, for carrying out the provisions of section  3 of
+this 2023 Act.
+SECTION 5. (1) The Oregon Health Authority shall collect and report geographic data and
+data described in ORS 413.164 and on the recipients of incentives under ORS 675.655.
+(2) Any entity that contracts  with the authority to administer incentives under ORS
+675.655 shall collect and biannually report  to the authority data described in ORS 413.164 on
+the recipients of the incentives.
+(3) Each recipient of a grant  under ORS 675.658 shall collect and biannually report to the
+Oregon Health Authority data described in ORS 413.164 on  the associates or other individuals
+receiving clinical supervision from the grantee.
+(4) The  authority shall prescribe by rule the form and manner for reporting the data
+collected under this section. The authority shall enter data received under this section into
+the data system described in ORS 413.163.
+(5) Data collected and reported  under this section may be disclosed only in the aggregate
+[2]
+HB 2977
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+and in a form that does not allow for the personal identification of individuals whose  data is
+disclosed.
+SECTION 6.
+(1) An oversight council is established to advise the Oregon Health Authority
+in carrying out ORS 675.650, 675.655 and 675.658. The council shall assist the authority in
+identifying and eliminating systemic barriers that  influence the funding, allocation of funding
+and policy choices with respect to the behavioral  health workforce. The authority shall pro-
+vide the council with regular, ongoing  updates on the implementation of ORS 675.650, 675.655
+and 675.658 and other programs designed to expand access to behavioral health  providers in
+this state, including information about deadlines for program applicants, outreach plans and
+strategies to increase participation  in the programs, application processes and the demo-
+graphics of individuals receiving incentives or benefits.
+(2) The council consists of 21 members appointed as follows:
+(a) The Speaker  of the House of Representatives shall appoint two members of the
+council from among the members of the House of Representatives;
+(b) The President of the Senate shall  appoint two members of the council from among
+the members of the Senate;
+(c) The Speaker of the House of Representatives  and the President of the Senate shall
+jointly appoint one member from the staff of the Speaker or the President;
+(d) The Governor shall appoint:
+(A) Two representatives of county governments;
+(B) One representative of community mental health programs;
+(C) Two representatives of the federally recognized Indian tribes in this state;
+(D) Two academic professionals with expertise in equity, behavioral health  or workforce
+development;
+(E) Three individuals with practical experience in one or more of the following fields:
+(i) Treatment for substance use disorder, gambling addiction or other addictive  behav-
+iors;
+(ii) Mental health treatment;
+(iii) Post-secondary or adult education;
+(iv) Primary and secondary education; or
+(v) Child care or early learning;
+(F) Five individuals who are one or more of the following:
+(i) An individual who experiences racism or racial injustice;
+(ii) A resident of an area that  is underserved in access to behavioral health treatment
+or a resident of a rural area of this state;
+(iii) An advocate for equity or an equity professional;
+(iv) A bilingual or non-English speaker;
+(v) An individual with life experience in seeking or receiving mental health care;
+(vi) An individual with life experience with substance use, problem gambling  or addiction;
+(vii) A culturally specific peer support worker or traditional health worker;
+(viii) An individual who has experienced challenges in  joining or advancing in the behav-
+ioral health workforce;
+(ix) A student who is Black, Indigenous or a Person of Color; or
+(x) An individual with a disability; and
+(G) One individual from the Governor’s staff.
+[3]
+HB 2977
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+(3) A  majority of the voting members of the council constitutes a quorum for the trans-
+action of business.
+(4) Official action by the council  requires the approval of a majority of the voting mem-
+bers of the council.
+(5) The council shall elect one of its members to serve as chairperson.
+(6) If there  is a vacancy for any cause, the appointing authority shall make an appoint-
+ment to become immediately effective.
+(7) The council shall meet at times and places specified by the call of the chairperson or
+of a majority of the voting members of the council.
+(8) The council may adopt rules necessary for the operation of the council.
+(9) The authority shall provide staff support to the council and  shall make and publish
+recordings of each meeting.
+(10) Members of the Legislative Assembly appointed to the council  are nonvoting mem-
+bers of the council and may act in an advisory capacity only.
+(11) Members of the council  who are not members of the Legislative Assembly are enti-
+tled to stipends in amounts sufficient  to compensate them for their time and for ancillary
+costs, such as child care,  necessary for them to attend the meetings and to reimbursement
+for travel and other expenses reasonably incurred by them in carrying  out their official du-
+ties as provided in ORS 292.495.
+(12) All agencies of state government, as  defined in ORS 174.111, are directed to assist
+the council in the performance of  the duties of the council and, to the extent permitted by
+laws relating to confidentiality,  to furnish information and advice the members of the council
+consider necessary to perform their duties.
+SECTION 7.
+Section 6 of this 2023 Act is repealed on July 1, 2025.
+[4]

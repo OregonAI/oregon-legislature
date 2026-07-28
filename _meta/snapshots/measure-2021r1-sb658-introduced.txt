@@ -1,0 +1,869 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Senate Bill 658
+Sponsored by Senator LINTHICUM (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes education savings account program.  Allows participating students to obtain grants
+from education savings accounts to fund attendance at specified types of schools or education  pro-
+grams.
+Establishes Education Savings Program Fund and transfers  moneys from State School Fund
+distributions for use in education savings accounts.
+First applies to 2022-2023 school year.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to education savings accounts; creating new provisions; amending ORS 327.008; and de-
+claring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 1 to 7 of this 2021 Act:
+(1) “Curriculum” means a complete course of study for a particular content area or grade
+level, including any required supplemental materials or associated online instruction.
+(2) “Education savings account”  or “ESA” means an account to which funds are allocated
+by the State Treasurer to the parent of an eligible student in order to pay for qualified  edu-
+cation expenses pursuant to the requirements  and conditions of sections 1 to 7 of this 2021
+Act.
+(3) “Education service provider” means a person or organization  that receives payments
+from an  education savings account in exchange for authorized expenditures. Education ser-
+vice providers include:
+(a) Private schools;
+(b) Nonpublic online learning programs or courses;
+(c) State institutions of higher education, including:
+(A) Public universities listed in ORS 352.002;
+(B) Community colleges established under ORS chapter 341; or
+(C) Any other post-secondary institutions of education that  were originally established
+in this state, are tax exempt under section 501(c)(3) of  the Internal Revenue Code, and are
+accredited by a regional or national accrediting agency recognized by the United  State De-
+partment of Education.
+(d) Public schools, including public charter schools;
+(e) Private tutors and tutoring facilities;
+(f) Companies that provide educational materials or curriculum;
+(g) Individuals or businesses that provide education-related therapies or services; or
+(h) Any other providers of educational services approved by the State Treasurer.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1396
+SB 658
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4) “Eligible student” means a resident of this  state who is eligible to enroll in a public
+elementary or secondary school or with any other education service provider.
+(5) “Parent” means the parent, legal guardian or other person who has the legal duty  to
+ensure a child receives an education as provided by ORS 339.020.
+(6) “Private tutoring” means:
+(a) Tutoring services provided by a tutor or tutoring  facility that is accredited by a re-
+gional or national accrediting agency recognized by the United States Department of Educa-
+tion; or
+(b) A person who:
+(A) Is eligible to work as a teacher in this state;
+(B) Has taught at an institution of higher education;
+(C) Is a subject matter expert; or
+(D) Is otherwise approved by the State Treasurer.
+(7) “Student” means an eligible student  who is participating in the ESA program under
+sections 1 to 7 of this 2021 Act.
+SECTION 2.
+(1) A parent may establish an ESA for  an eligible student by entering into
+a written agreement as  provided in this section. A written agreement is valid for one year
+and must  be renewed for each subsequent school year. Renewals of written agreements shall
+be as provided by section 3 (5) of this 2021 Act.
+(2)(a) The State  Treasurer shall create a standard written agreement that a parent can
+submit to establish an ESA for an eligible student of the parent. The  State Treasurer shall
+ensure that written agreement forms are available online and may be submitted online.
+(b) The State Treasurer must approve the establishment of an ESA for an eligible student
+if a written agreement is entered into pursuant to this section.
+(c) A parent must  enter into a separate written agreement for each eligible student of
+the parent. No more than one ESA may be established for each eligible student.
+(3) A  written agreement entered into by the parent of an eligible student must provide
+that:
+(a) The student will receive instruction for the school  year for which the written agree-
+ment applies in at least the subjects of reading, language, mathematics, science  and social
+studies;
+(b) The student will not  enroll as a full-time student in a public school for the school year
+for which the written agreement applies;
+(c) The parent will use the funds in the ESA only for qualifying expenses as  described in
+section 4 of this 2021 Act;
+(d) The parent and the  student will comply with the rules and requirements of sections
+1 to 7 of this 2021 Act and any related rules or policies adopted by the State Treasurer;
+(e) The student  will receive a grant, in the form of moneys deposited pursuant to section
+3 of this 2021 Act, in the ESA established for the student; and
+(f) If the student qualifies as a child with a  disability, as defined in ORS 343.035, the State
+Treasurer shall  ensure that the parent who signs the agreement receives notice that par-
+ticipation in the ESA program is a parental placement of the eligible student under 20 U.S.C.
+1412 along with an explanation of the rights that  parentally placed students possess under
+the federal Individuals with Disabilities Act and any applicable state laws.
+(4) Upon entering into or renewing a written agreement,  the State Treasurer shall pro-
+[2]
+SB 658
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+vide a parent with a  written explanation of the allowable uses of ESA funds, the responsi-
+bilities of the parent, the duties of the State Treasurer and the  role of any private financial
+management firms or other private organizations that the  State Treasurer may contract
+with to administer sections 1 to 7 of this 2021 Act pursuant to section 5 of this 2021 Act.
+(5) Compliance with the written agreement shall satisfy the compulsory school attend-
+ance requirements  of ORS 339.010. Students participating in the ESA program described in
+sections 1 to 7 of this 2021 Act who are not enrolled as a  full-time student in a private school
+shall be exempt from the requirements of ORS 339.035.
+(6) The State Treasurer shall annually  renew an eligible student’s ESA unless notified
+by a parent that the parent wishes to terminate the ESA. An eligible student with a disability
+shall remain eligible for renewal of an ESA as long as the student remains eligible to be  en-
+rolled in a public school.
+(7)(a) Upon notice to the State  Treasurer, a student may enroll full-time in a public
+school. When the student enrolls full-time in a public school:
+(A) The written agreement between the parent and the  State Treasurer shall be sus-
+pended, and no further  funds shall be deposited into the student’s ESA until the student
+again qualifies for education expenses pursuant to the requirements  and conditions of
+sections 1 to 7 of this 2021 Act.
+(B) The written  agreement between the parent and the State Treasurer shall terminate
+upon the request of  the parent or upon the student turning 25 years of age, whichever occurs
+first. Any remaining ESA  funds in the student’s account upon termination shall revert to the
+General Fund.
+(b) The State Treasurer shall adopt rules and policies to allow ESA  students to enroll
+full-time in a public school at any time in order to provide the least disruptive process.
+(8) Nothing in sections 1 to 7 of this 2021 Act shall  be construed to require that a student
+with an ESA be enrolled, full-time or part-time, in a private school.
+(9) The written agreement terminates automatically if a student no longer resides in  this
+state. Upon termination, any moneys remaining in the  ESA shall revert to the General Fund.
+SECTION 3.
+(1) If the parent of an eligible student enters into a written agreement pur-
+suant to section 2 of this 2021 Act, a grant of  moneys must be transferred from the Educa-
+tion Savings Program Fund  established in section 12 of this 2021 Act into the ESA of the
+eligible student.
+(2)(a) Except as otherwise provided in subsections (3) and (4) of this  section, the grant
+required by subsection (1) of this section must, for  the school year for which the grant is
+made, be in an amount equal to one of the following:
+(A) For an eligible student who is  a child with a disability, as defined in ORS 343.035,
+$6,500.
+(B) For an eligible student with a household income that is less than 185 percent  of the
+federal poverty level, $6,500.
+(C) For an eligible student not described in  subparagraph (A) or (B) of this paragraph,
+$4,900.
+(b) For each biennium, the amounts  identified in paragraph (a) of this subsection shall
+be adjusted by the  same percentage by which the amount appropriated to the State School
+Fund for  the biennium is increased or decreased compared with the preceding biennium, as
+determined by the Department of  Education after consultation with the Legislative Fiscal
+[3]
+SB 658
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Officer.
+(3) The State Treasurer may deduct  no more than three percent from each grant for the
+administrative costs incurred by  the State Treasurer in implementing the provisions of
+sections 1 to 7 of this 2021 Act.
+(4) Any moneys remaining in an ESA at the end of a school year shall roll over  to the
+next school year.
+(5) A written agreement is automatically renewed for each school year until:
+(a) The student is no longer a resident of this state;
+(b) The student graduates from college with a bachelor’s degree;
+(c) The student turns 25 years of age; or
+(d) The ESA is revoked by the State Treasurer for substantial misuse of funds.
+(6) After four consecutive years after high  school graduation, if the student has not en-
+rolled in a  post-secondary institution of education, or if the student turns 25 years of age,
+whichever occurs first, the ESA shall be  closed and any unused funds shall revert to the
+General Fund.
+(7) If a written agreement is terminated for any reason, any moneys  remaining in the
+ESA shall revert to the General Fund.
+SECTION 4.
+(1) Moneys deposited in an ESA pursuant to section 3 of this 2021 Act may
+be expended only for:
+(a) Tuition and fees at a private school;
+(b) Tuition and fees for nonpublic online learning programs;
+(c) Private tutoring;
+(d) Services contracted for and provided  by a public school or public charter school, in-
+cluding individual classes, extracurricular activities and programs in these schools;
+(e) Textbooks, curriculum or other instructional materials, including any supplemental
+materials required by a curriculum, private  school, private online learning program, state
+institution of higher education or public school;
+(f) Computer hardware or other technological  devices that are primarily used to help
+meet a student’s educational needs;
+(g) Educational software and applications;
+(h) Uniforms purchased from or through a private school;
+(i) Fees for nationally standardized assessments, advanced placement  examinations,
+state-recognized industry certification exams and examinations related to  a post-secondary
+institution of education admission, and any tuition and fees for related preparatory courses;
+(j) Fees for summer education  programs and specialized after-school education programs,
+but not for after-school child care;
+(k) Educational services and therapies, including  occupational, behavioral, physical,
+speech-language and audiology therapies;
+(L) Tuition and fees at a state institution of higher education;
+(m) Fees for transportation paid to a fee-for-service transportation provider for the  stu-
+dent to travel to and from a participating education service provider;
+(n) Fees for the management of the ESA; and
+(o) Any other educational expense approved by the State Treasurer.
+(2) ESA funds may not be refunded, rebated or shared with a parent or student  in any
+manner.
+[4]
+SB 658
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) Any refund or rebate for goods or services purchased with ESA funds shall be credited
+directly to the ESA of the student.
+(4) Parents may make  payments for the costs of educational goods and services not
+covered by the funds in the ESA of the student.
+(5) Personal deposits into an ESA are not permitted.
+(6) Funds deposited in the student’s ESA do not constitute taxable income to the parent
+or the student.
+SECTION 5.
+(1) The State Treasurer may contract with private organizations to carry
+out sections 1 to 7 of this 2021 Act as  long as the private organizations charge only reason-
+able fees, based on market rates, for  services. The authority of this subsection includes
+contracting with private financial management firms to manage ESAs.
+(2) The State Treasurer shall implement a system for payment for services from  ESAs
+to education service providers by electronic funds transfer,  including debit cards, electronic
+payment systems or any other means of electronic payment that the State Treasurer deter-
+mines to be  commercially viable, cost-effective and user-friendly. The State Treasurer may
+not adopt a system that relies exclusively on requiring parents  to be reimbursed for out-of-
+pocket expenses. The State Treasurer shall provide maximum flexibility to  parents by facili-
+tating direct payments to education service providers as  well as requests for preapproval and
+reimbursement for qualifying expenses.
+(3) The State Treasurer shall implement a commercially viable,  cost-effective and user-
+friendly system for  publicly rating, reviewing and sharing information about education ser-
+vice providers.
+(4) If  an education service provider requires partial payment of tuition or fees prior to
+the start of the school year to reserve  space for a student admitted to the education service
+provider, the partial payment may  be paid by the State Treasurer prior to the start of the
+school year in which the ESA is awarded. The partial payment may not exceed  $3,500 and
+must be deducted in an equitable manner  from subsequent account deposits to ensure ade-
+quate funds remain available throughout the school year. If a  student decides not to attend
+the education service provider, the amount of the partial payment must be returned  to the
+State Treasurer by  the education service provider. Only one partial payment per student may
+be made per year as allowed by this subsection.
+(5) The State Treasurer  shall have the authority to conduct or contract for the auditing
+of individual ESAs and shall, at a minimum, conduct random audits of ESAs on an  annual
+basis.
+(6)(a) The State Treasurer shall  have the authority to terminate a written agreement and
+to make any parent of an eligible student ineligible to enter into a new a written agreement
+in the event of substantial misuse of ESA funds.
+(b) The State Treasurer  shall create procedures to ensure that a fair process exists to
+determine whether a substantial misuse of ESA funds has occurred.
+(c) The State Treasurer shall have the authority to refer suspected cases of substantial
+misuse of  ESA funds to the Attorney General or the district attorney of the county in which
+the parent resides for investigation if evidence of fraudulent use of ESA funds is obtained.
+(d) A parent  may appeal the State Treasurer’s decision to make the parent ineligible for
+the program as a contested case under ORS chapter 183.
+(7) The State Treasurer may bar an education service provider from the program if the
+[5]
+SB 658
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+State Treasurer determines that the education service provider has:
+(a) Intentionally and substantially misrepresented information or failed to refund  any
+overpayments in a timely manner;
+(b) Routinely failed to provide students with promised educational services; or
+(c) Regularly failed to comply with the provisions of sections 1 to 7 of this 2021 Act  or
+any rules adopted by the State Treasurer.
+(8)(a) The State Treasurer shall by rule create procedures to ensure that a fair  process
+exists to determine whether an education service provider may be barred from participating
+in the program.
+(b) If an education service provider is barred from the program, the State Treasurer shall
+immediately notify parents who have made payments from their student’s ESA to  the barred
+education service provider of the decision.
+(c) An  education service provider may appeal the State Treasurer’s decision to bar the
+provider from the program as a contested case under ORS chapter 183.
+(9) The State Treasurer may accept gifts and grants from any source to cover  adminis-
+trative costs, to inform the public about ESAs or to fund additional ESAs.
+(10) The  State Treasurer may adopt rules that are not inconsistent with sections 1 to 7
+of this 2021 Act and that are necessary for the administration of sections 1 to 7  of this 2021
+Act, including establishing:
+(a) An online anonymous fraud reporting service, or contracting for the provision of  that
+service.
+(b) An anonymous telephone hotline for fraud reporting.
+(c) Policies  that require either a surety bond for education service providers receiving
+more than $100,000 in program funds or insurance for account holders.
+(d) Procedures for refunding payments from a  participating education service provider
+back to an ESA.
+(e) Procedures for entering into reciprocal agreements with other state  ESA agencies or
+entities to recognize and allow education service providers approved in other states  to re-
+ceive payments from ESAs under sections 1 to 7 of this 2021 Act.
+(11) Rules or policies adopted by the State Treasurer shall focus on easing parental  in-
+volvement and encouraging educational service  providers to provide parents with a broad
+array of educational options.
+(12) The State Treasurer shall maintain an updated list of participating education service
+providers and shall ensure that the list is available online.
+(13) The State Treasurer shall administer an annual survey of parents who enter  into or
+renew written agreements pursuant to section 2 of this 2021 Act. The survey must ask  each
+parent to indicate:
+(a) The number of years the parent has entered into or renewed a written agreement;
+(b) The relative satisfaction of the parent with the program established  pursuant to
+sections 1 to 7 of this 2021 Act; and
+(c) The opinions of the parent regarding any topics, items or issues that the State
+Treasurer determines may aid the State Treasurer  in evaluating and improving the effec-
+tiveness of the program established pursuant to sections 1 to 7 of this 2021 Act.
+SECTION 6.
+(1) To be eligible to accept payments from an ESA, an education service
+provider shall:
+[6]
+SB 658
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Submit notice to the State Treasurer of the intent to participate.
+(b) Provide parents with a receipt for all qualifying educational expenses.
+(c) Agree not to refund, rebate or share ESA funds with parents or students in any
+manner, except that ESA funds may be remitted or refunded  to an ESA in accordance with
+procedures established by the State Treasurer.
+(d) Certify that the education service provider will  not discriminate based on race, color,
+ethnicity or national origin.
+(e) Agree  to submit any employee who will have contact with students to a criminal
+background check.
+(f) Provide the State Treasurer with any additional information  that may be requested
+to ensure the services provided to parents  are qualifying educational expenses. If the edu-
+cation service provider is unable  to provide the additional information, the State Treasurer
+may bar the education service provider from participating in the program.
+(2) If it is reasonably expected that an education service provider will receive  payments
+from ESAs in an amount that exceeds $100,000 during any school year, the State  Treasurer
+may require the education service provider to:
+(a) Post a surety bond in an amount equal to the amount reasonably expected  to be paid
+to the education service provider from ESAs during the school year; or
+(b) Provide evidence satisfactory to the State Treasurer that the education service pro-
+vider otherwise has sufficient assets to  pay the State Treasurer an amount equal to the
+amount described in this section.
+(3) Nothing in sections 1 to 7 of this 2021 Act  shall be deemed to limit the independence
+or autonomy of  an education service provider or to make the actions of an education service
+provider the actions of this state.
+(4) The State Treasurer or any other state agency  may not regulate the educational
+program of an education service provider that accepts funds from an ESA.
+(5) An education  service provider shall be given the maximum freedom to provide for the
+educational needs of ESA students without governmental control.
+(6) Nothing in sections 1 to 7 of this 2021 Act shall be construed to  expand the regulatory
+authority of the state, its officers or  any school district to impose any additional regulation
+of education service providers  beyond those necessary to enforce the requirements of
+sections 1 to 7 of this 2021 Act.
+SECTION 7.
+(1) At a parent’s request, an eligible student’s local school district shall
+permit a student who is being educated pursuant to an ESA to  participate in the statewide
+assessment system described in ORS 329.485. The school district may not  charge a fee to
+parents who elect to have their eligible student participate in the statewide assessment.
+(2) The results of the statewide assessments for students being educated pursuant  to an
+ESA shall be reported to  the Department of Education separate from the results of students
+enrolled in the schools of a school district.
+(3) A school district that previously enrolled an eligible student shall  provide an educa-
+tion service provider that has enrolled an eligible student with a complete  copy of the
+student’s school records, while complying with 20 U.S.C. 1232g.
+SECTION 8. (1) In any legal proceeding challenging the  application of sections 1 to 7 of
+this 2021 Act to an education service provider,  the respondent bears the burden of estab-
+lishing that the law is necessary and does not impose any undue  burden on an education
+[7]
+SB 658
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+service provider.
+(2) No liability shall arise on the part of the State Treasurer or this state or of any school
+district based on the award or use of an ESA pursuant to sections 1 to 7 of this 2021 Act.
+(3) If any part of sections 1 to 7 of this 2021 Act  is challenged as violating either the
+United States  Constitution or the Oregon Constitution, parents of eligible students may be
+permitted to intervene to defend the constitutionality of sections 1  to 7 of this 2021 Act. For
+the purposes of judicial administration, a court may limit  the number of parents permitted
+to intervene or require that all parents file a joint brief, so long as parents  are not required
+to join any brief filed on behalf of any respondent.
+(4) If any provision  of sections 1 to 7 of this 2021 Act, or the application of sections 1 to
+7 of this 2021 Act to any person or circumstances, is held invalid, the invalidity  does not af-
+fect other provisions or applications of sections 1 to  7 of this 2021 Act that can be given ef-
+fect without the invalid provision or application and any provisions of sections  1 to 7 and 12
+of this 2021 Act are severable.
+SECTION 9.
+(1) Sections 1 to 7 and 12 of this 2021 Act become  operative January 1, 2022.
+(2) The State  Board of Education, Department of Education, and State Treasurer may
+take any action before the operative  date specified in subsection (1) of this section to ensure
+that students first be allowed to participate in the program  established by sections 1 to 7 and
+12 of this 2021 Act during the 2022-2023 school year.
+SECTION 10. Notwithstanding section 3 (2)(b) of this 2021 Act,  the amounts identified in
+section 3 (2)(a) of this 2021 Act shall first be adjusted beginning in the 2023-2025 biennium.
+SECTION 11. Section 12 of this  2021 Act is added to and made a part of ORS chapter 327.
+SECTION 12. (1) The Education Savings  Program Fund is established within the State
+School Fund.
+(2) The Education Savings Program Fund shall consist of moneys transferred as  provided
+by ORS 327.008 and any other state or federal moneys available  for the purposes of the pro-
+gram established by sections 1 to 7 of this 2021 Act.
+(3) Moneys in the fund  are continuously appropriated to the State Treasurer for the
+purpose of making deposits under section 3 of this 2021 Act.
+SECTION 13.  ORS 327.008 is amended to read:
+327.008. (1)(a) There is established a State School Fund in the General Fund.
+(b) The Department of Education, on behalf  of the State of Oregon, may solicit and accept gifts,
+grants, donations and other moneys from  public and private sources for the State School Fund.
+Moneys received as provided in this paragraph shall be deposited into the State School Fund.
+(c) The State School  Fund shall consist of moneys appropriated by the Legislative Assembly,
+moneys transferred from the Fund for Student Success, moneys transferred from the  Education Sta-
+bility Fund and the Oregon Marijuana Account and moneys received  as provided in paragraph (b)
+of this subsection.
+(d) The State School Fund is continuously appropriated to the Department of Education for  the
+purposes of ORS 327.006 to 327.077,  327.095, 327.099, 327.101, 327.125, 327.137, 327.348, 336.575,
+336.580, 336.635, 343.243, 343.533, 343.941 and 343.961 and sections 1 to 7 of this 2021 Act .
+(2) There shall be apportioned from the State School Fund to each school  district a State School
+Fund grant, consisting of the positive amount equal to a general purpose grant and a  facility grant
+and a transportation grant and a high cost disabilities grant minus local revenue, computed as pro-
+vided in ORS 327.011 and 327.013.
+[8]
+SB 658
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) For the first school year after a public charter school ceases to  operate because of dissol-
+ution or closure or because of  termination or nonrenewal of a charter, there shall be apportioned
+from the State School Fund to  each school district that had sponsored a public charter school that
+ceased to operate an amount equal to the school district’s  general purpose grant per extended
+ADMw multiplied by five percent of the ADM of the public charter school for the previous school
+year.
+(4) There shall be  apportioned from the State School Fund to each education service district a
+State School Fund grant as calculated under ORS 327.019.
+(5) All figures used in the determination of the distribution of the State School Fund shall  be
+estimates for the same year as the distribution occurs, unless otherwise specified.
+(6) Numbers of students in average daily membership used in  the distribution formula shall be
+the numbers as of June of the year of distribution.
+(7) A school district may  not use the portion of the State School Fund grant that is attributable
+to the facility grant for capital construction costs.
+(8) The total amount of  the State School Fund that is distributed as facility grants may not ex-
+ceed $7 million in any biennium. If  the total amount to be distributed as facility grants exceeds this
+limitation, the  Department of Education shall prorate the amount of funds available for facility
+grants among  those school districts that qualified for a facility grant. If the total amount to be dis-
+tributed as facility grants does not  exceed this limitation, any remaining amounts shall be expended
+for expenses incurred by the Office of School Facilities as provided in ORS 326.125 (1).
+(9) Each biennium, the Department of  Education may expend from the State School Fund no
+more than $6 million for expenses incurred by the Office of School Facilities under ORS 326.125 (2)
+to (6).
+(10) Each fiscal year, the Department of Education  shall transfer to the Pediatric Nursing Fa-
+cility Account established in ORS 327.022 the amount necessary to pay the costs of educational
+services provided to students admitted to pediatric nursing facilities as provided in ORS 343.941.
+(11) Each fiscal year, the Department of Education shall transfer the amount of  $55 million from
+the State School Fund to the High Cost Disabilities Account established in ORS 327.348.
+(12)(a) Each biennium, the Department of Education shall transfer $39.5 million from  the State
+School Fund to the Educator Advancement Fund established under ORS 342.953.
+(b) For the purpose of making the transfer under this subsection:
+(A) The total  amount available for all distributions from the State School Fund shall be reduced
+by $6 million;
+(B) The amount distributed to school districts  from the State School Fund under this section and
+ORS 327.013 shall be reduced by $16.75 million; and
+(C) The amount distributed to education service  districts from the State School Fund under this
+section and ORS 327.019 shall be reduced by $16.75 million.
+(c) For each biennium, the  amounts identified in this subsection shall be adjusted by the same
+percentage  by  which the instructions furnished to state agencies by the Governor under ORS 291.204
+direct the state agencies to adjust their agency budget requests for special payments under ORS
+291.216 (6)(a)(C).
+(13) Each biennium, the Department of Education shall transfer $12.5 million from the State
+School Fund to the Statewide English  Language Learner Program Account established under ORS
+327.344.
+(14) Each fiscal year, the Department of Education may expend up to $550,000 from the  State
+[9]
+SB 658
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+School  Fund for the contract described in ORS 329.488. The amount distributed to education service
+districts from the State School Fund under this  section and ORS 327.019 shall be reduced by the
+amount expended by the department under this subsection.
+(15) Each biennium, the Department of Education may expend up  to $350,000 from the State
+School Fund to provide administration of and support for the development  of talented and gifted
+education under ORS 343.404.
+(16) Each biennium, the Department of Education may expend up  to $150,000 from the State
+School Fund for the administration  of a program to increase the number of speech-language
+pathologists and speech-language pathology assistants under ORS 348.394 to 348.406.
+(17) Each biennium, the Department of Education shall transfer $2 million from  the State School
+Fund for  deposit to the Healthy School Facilities Fund established under ORS 332.337.
+Notwithstanding  ORS  332.337, the department may expend moneys received in the Healthy School
+Facilities Fund under this subsection only as grants for costs associated with testing for  elevated
+levels of lead in water used for drinking or food preparation.
+(18) Each fiscal year, the Department of Education shall transfer  to the Education
+Savings Program Fund established by  section 12 of this 2021 Act the amount necessary to
+make the deposits required by section 3 of this 2021 Act.
+SECTION 14.
+(1) The  amendments to ORS 327.008 by section 13 of this 2021 Act become
+operative July 1, 2022.
+(2) The amendments to ORS 327.008 by section 13 of this 2021 Act apply to State School
+Fund distributions commencing with the 2022-2023 school year distributions.
+SECTION 15. This 2021 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2021 Act takes effect
+on its passage.
+[10]

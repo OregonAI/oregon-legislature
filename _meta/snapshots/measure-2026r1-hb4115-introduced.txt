@@ -1,0 +1,941 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4115
+Sponsored by Representatives NATHANSON, SCHARF, PHAM  H; Representatives GAMBA, JAVADI, WALTERS,
+WISE, Senator GELSER BLOUIN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  makes changes to how often DHS and OHA may require caregivers to get a new
+background check. The  Act requires a CCO to pay certain providers back to the date that the pro-
+vider enrolled in the state  Medicaid program. The Act makes other changes related to the process
+for vetting certain health care providers. (Flesch Readability Score: 62.4).
+Provides that a criminal records check on certain caregivers  shall last for three years, subject
+to exceptions. Requires certain valid criminal records checks to be portable to other care settings.
+Requires the authority to publish information about when a credentialed behavioral  health pro-
+vider must undergo a new background check.
+Requires a coordinated care organization to  reimburse a behavioral health provider
+retroactively to the date the provider submitted a successful application for enrollment in  the state
+medical assistance program. Prohibits a coordinated care organization from requiring a credentialed
+behavioral health provider  to submit a new credentialing application when the provider changes
+employer.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to health care  providers; creating new provisions; amending ORS 181A.195, 181A.200,
+443.004 and 443.008; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 443.004 is amended to read:
+443.004. (1) As used in this section:
+(a) “Adult foster home” has the meaning given that term in ORS 443.705.
+(b) “Home care worker” has the meaning given that term in ORS 410.600.
+(c) “Home health agency” has the meaning given that term in ORS 443.014.
+(d) “In-home care agency” has the meaning given that term in ORS 443.305.
+(e) “Mental health or substance abuse treatment provider” means:
+(A) A peer support specialist;
+(B) An employee of a residential treatment facility or a residential treatment home  that
+is licensed under ORS 443.415 to provide treatment for individuals with alcohol or drug  de-
+pendence;
+(C) An individual who provides treatment or services for persons with substance  use
+disorders; or
+(D) An individual who provides mental health treatment or services.
+(f) “Peer support specialist” has the meaning given that term in ORS 414.025.
+(g) “Personal support worker” has the meaning given that term in ORS 410.600.
+(h) “Residential facility” has the meaning given that term in ORS 443.400.
+(i) “Valid criminal records  check” means a current, approved criminal records check that
+was completed by the background check unit of the  Department of Human Services pursuant
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 112
+HB 4115
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to this section.
+[(1)(a)] (2)(a) The department [ of Human Services ] or the  Oregon Health Authority shall com-
+plete a criminal records check under ORS 181A.195 on:
+(A) An employee of a residential facility or an adult foster home;
+(B) Any individual who is paid directly or indirectly with public funds who has or  will have
+contact with a recipient of support services or a resident  of an adult foster home or a residential
+facility;  and
+(C) A home care worker or personal support worker registering with the Home Care Commission
+or renewing a registration with the Home Care Commission.
+(b) [The department or the authority shall complete the criminal records  check under paragraph (a)
+of this subsection not  more than once during an 18-month period ] A criminal records check under
+this subsection shall last for three years  unless the department or the authority:
+(A) Receives credible evidence of a new criminal conviction;
+(B) Receives credible evidence to substantiate a complaint of abuse or neglect;
+(C) Is required by federal law to conduct more frequent criminal records checks;
+(D) Is notified that a subject individual has changed positions or duties for  which there are
+different criminal records check requirements; or
+(E) Determines,  under criteria set forth in rules adopted by the department or the authority,
+that it would be burdensome for a subject individual to wait for a new criminal records check.
+[(2)(a)] (3)(a) A home health agency shall conduct a  criminal background check before hiring
+or contracting with an individual and before  allowing an individual to volunteer to provide services
+on behalf of the home health agency, if the individual will have  direct contact with a patient of the
+home health agency.
+(b) An in-home care agency shall conduct a criminal background check before hiring or  con-
+tracting with an individual and before allowing an individual to volunteer to  provide services on
+behalf of the in-home care agency, if the individual will have direct contact with a  client of the in-
+home care agency.
+(c) The authority shall prescribe by  rule the process for conducting a criminal background
+check.  Except  as provided by the authority by rule, a criminal background check under this
+subsection shall last for three years.
+(4)(a) If an individual has a valid criminal records check and is seeking to work in  any
+of the care settings described in subsections (2) and  (3) of this section, the department or
+the authority may not require a new criminal records check to be completed solely on the
+basis that the individual is seeking to change employer or care setting.
+(b) The department and the authority shall  publish on their websites the requirements
+and process for  a valid criminal records check to be portable to a new employer or care
+setting.
+[(3)] (5) Public funds  may not be used to support, in whole or in part, the employment in any
+capacity having contact with a recipient of support services or a resident of a residential facility
+or an adult foster home, of an individual, other than a  mental health or substance abuse treatment
+provider, who has been convicted:
+(a) Of a crime described  in ORS 163.095, 163.107, 163.115, 163.118, 163.125, 163.145, 163.149,
+163.165, 163.175, 163.185, 163.187, 163.200, 163.205, 163.225, 163.235, 163.263, 163.264, 163.266, 163.275,
+163.465, 163.467, 163.535, 163.537, 163.547, 163.689, 163.700, 163.701, 164.055, 164.057, 164.098, 164.125
+(5)(c) or (d), 164.215, 164.225, 164.325, 164.377 (2) or (3), 164.405, 164.415,  165.013, 165.022, 165.032,
+[2]
+HB 4115
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+165.800, 165.803, 167.012, 167.017, 167.057, 167.320 or 167.322;
+(b) Notwithstanding paragraph (a) of this subsection, of a crime described  in ORS 163.465,
+163.467, 163.700, 163.701, 164.055, 164.125 or 164.377, the date of conviction for which was within  the
+five years immediately preceding employment in  any capacity of an individual, other than a mental
+health or substance abuse treatment provider, having contact with a  recipient of support services,
+a resident of a residential facility or a resident of an adult foster home, when the recipient or resi-
+dent is 65 years of age or older;
+(c) Of a crime listed in ORS 163A.005;
+(d) In the last 10 years, of a crime involving the delivery or manufacture of a controlled  sub-
+stance;
+(e) Of an attempt, conspiracy  or solicitation to commit a crime described in paragraphs (a) to
+(d) of this subsection; or
+(f) Of a crime  in another jurisdiction that is substantially equivalent, as defined by rule, to a
+crime described in paragraphs (a) to (e) of this subsection.
+[(4)] (6) If the criminal background check conducted by a home health agency or in-home  care
+agency under subsection [ (2)] (3)  of this section reveals that the  individual who is subject to the
+criminal background check has been convicted of any of the crimes described in  subsection [ (3)] (5)
+of this section, the home health agency or in-home care agency may not employ the individual.
+[(5)] (7) Public funds may not be used to support, in whole  or in part, the employment, in any
+capacity having contact with a recipient of support services or a resident of a residential facility
+or an adult foster home, of a mental health or substance  abuse treatment provider who has been
+convicted of committing, or convicted of an attempt,  conspiracy or solicitation to commit, a crime
+described in ORS 163.095, 163.107, 163.115, 163.375, 163.405, 163.411 or 163.427.
+[(6)] (8) Upon the request of a mental health  or substance abuse treatment provider, the de-
+partment or authority shall maintain a record of  the results of any fitness determination made under
+ORS 181A.195 (10). The department or authority may disclose the record only to a person the pro-
+vider specifically authorizes, by a written release, to receive the information.
+[(7)] (9) If the department or authority has a record of substantiated  abuse committed by an
+employee or potential employee of a  home health agency, in-home care agency, adult foster home
+or residential facility, regardless of whether criminal charges were filed,  the department or author-
+ity shall notify, in writing, the employer and the employee or potential employee and may conduct
+a fitness determination in accordance with this section and ORS 181A.195.
+[(8) As used in this section: ]
+[(a) “Adult foster home” has the meaning given that term in ORS 443.705. ]
+[(b) “Home care worker” has the meaning given that term in ORS 410.600. ]
+[(c) “Home health agency” has the meaning given that term in ORS 443.014. ]
+[(d) “In-home care agency” has the meaning given that term in ORS 443.305. ]
+[(e) “Mental health or substance abuse treatment provider” means: ]
+[(A) A peer support specialist; ]
+[(B) An employee of a  residential treatment facility or a residential treatment home that is licensed
+under ORS 443.415 to provide treatment for individuals with alcohol or drug dependence; ]
+[(C) An individual who provides treatment or services for persons with  substance use disorders;
+or]
+[(D) An individual who provides mental health treatment or services. ]
+[(f) “Peer support specialist” has the meaning given that term in ORS 414.025. ]
+[3]
+HB 4115
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(g) “Personal support worker” has the meaning given that term in ORS 410.600. ]
+[(h) “Residential facility” has the meaning given that term in ORS 443.400. ]
+SECTION 2.
+No later than 90 days  after the effective date of this 2026 Act, the Depart-
+ment of Human Services and the Oregon Health Authority shall notify facilities or  organ-
+izations that employ individuals subject to a criminal records check under  ORS 443.004 that
+the cycle for conducting a new criminal  records check on a subject individual has been ex-
+tended to three years.
+SECTION 3. The amendments  to ORS 443.004 by section 1 of this 2026 Act apply to
+criminal records checks completed on or after the effective date of this 2026 Act.
+SECTION 4. (1) As used in this section:
+(a) “Agency” means an organization that has received a certificate  of approval from the
+Oregon Health Authority to provide behavioral health services.
+(b) “Behavioral health provider” means an individual who is licensed, certified or other-
+wise authorized to provide behavioral health services in this state.
+(2) The Oregon Health Authority shall communicate to behavioral health providers  and
+agencies and publish on the authority’s website clear information about:
+(a) The process by which a credentialed behavioral health  provider may update the
+provider’s contact information or employer with the authority; and
+(b) When a credentialed behavioral health provider  is required to undergo a new back-
+ground check.
+SECTION 5. (1) As used in this section:
+(a) “Agency” has the meaning given that term in section 4 of this 2026 Act.
+(b) “Behavioral health provider” has  the meaning given that term in section 4 of this 2026
+Act.
+(c) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(d) “Medical assistance” has the meaning given that term in ORS 414.025.
+(2) A coordinated care organization shall provide reimbursement  for services provided to
+a medical assistance recipient by a behavioral  health provider retroactively to the date that
+the provider submitted to the Oregon  Health Authority an application for enrollment in the
+medical assistance program that  resulted in the assignment of a provider identification
+number.
+(3) If a credentialed behavioral health provider begins working for a new agency, a coor-
+dinated care organization may not require the  provider to submit a new credentialing appli-
+cation based solely on the provider’s change in employer.
+SECTION 6.
+ ORS 181A.195 is amended to read:
+181A.195. (1) As used in this section:
+(a) “Authorized agency” means state government as defined in ORS 174.111, the  Oregon State
+Bar or a municipal tax collection agency in a city with a population of 250,000 or more. “Authorized
+agency” does not include:
+(A) The Oregon State Lottery Commission or the Oregon State Lottery; or
+(B) A criminal justice agency, as defined in ORS  181A.010, that is authorized by federal law to
+receive fingerprint-based criminal records checks from the Federal Bureau of Investigation.
+(b) “Subject individual” means a person from  whom an authorized agency may require finger-
+prints pursuant to statute for the purpose of enabling  the authorized agency to request a state or
+nationwide criminal records check.
+[4]
+HB 4115
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2)(a) An authorized agency may request that the Department of State Police conduct a  criminal
+records check on a subject individual for noncriminal justice purposes.
+(b) An authorized agency may request that  the department conduct a criminal records check on
+a subject individual who is a contractor or vendor and who provides services to the authorized
+agency when access to criminal offender information  is required to perform noncriminal justice ad-
+ministrative functions on behalf of the authorized agency. Criminal records  checks performed under
+this paragraph are subject to state and federal criminal offender  information access policies. An
+authorized agency shall conduct fitness determinations  for contractors and vendors in coordination
+with the department.
+(c) If a nationwide criminal records check of a subject individual is necessary, the authorized
+agency may request that the department conduct the check,  including fingerprint identification,
+through the Federal Bureau of Investigation.
+(3) The Department of State Police shall  provide the results of a criminal records check con-
+ducted pursuant to subsection (2) of this section to the authorized agency requesting the check.
+(4) The Federal Bureau of Investigation shall return or destroy the fingerprint cards used to
+conduct the criminal records check and may not keep any record of  the fingerprints, except that the
+Federal Bureau of Investigation may retain the fingerprint cards and records  of the fingerprints for
+purposes described in ORS 181A.205. If the federal bureau policy authorizing return or  destruction
+of the fingerprint cards is changed, the Department of State Police shall cease to send the  cards to
+the federal bureau but shall continue to process the information through other available resources.
+(5) If the Federal Bureau of Investigation returns the fingerprint cards to the Department  of
+State Police, the Department of  State Police shall destroy the fingerprint cards and may not retain
+facsimiles or other material from which a  fingerprint can be reproduced, except that the Department
+of State Police may retain the  fingerprint cards or create facsimiles for the purpose of providing
+information under ORS 181A.205 and  for purposes of data security under subsection (12) of this
+section.
+(6) If only a state criminal records check is conducted, after the criminal records check is
+completed, the Department of State Police shall destroy the fingerprint cards and the results  of the
+criminal records check provided to the authorized agency and may  not retain facsimiles or other
+material from which a fingerprint can  be reproduced, except that the Department of State Police
+may retain the fingerprint cards  and results or create facsimiles for the purpose of providing infor-
+mation under ORS 181A.205.
+(7) An  authorized agency may conduct criminal records checks on subject individuals through
+the Law Enforcement Data System  maintained by the Department of State Police in accordance with
+rules adopted, and procedures established, by the Department of State Police.
+(8) An authorized agency and the  Department of State Police shall permit a subject individual
+for whom a fingerprint-based criminal records check  was conducted to inspect the individual’s own
+state and  national criminal offender records and, if requested by the subject individual, provide the
+individual with a copy of the individual’s own state and national criminal offender records.
+(9) Each authorized agency, in consultation with the Department of State Police,  may adopt
+rules to implement this section and other statutes relating to criminal offender information obtained
+through fingerprint-based criminal records checks. The rules may include but need not  be limited to:
+(a) Identifying applicable categories of subject individuals as specified by the Oregon  Depart-
+ment of Administrative  Services under ORS 181A.215 who are subject to criminal records checks
+by the authorized agency.
+[5]
+HB 4115
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Identifying applicable information  that may be required from a subject individual to permit
+a criminal records check as specified  by the Oregon Department of Administrative Services under
+ORS 181A.215.
+(c) Specifying which programs or services are subject to this section.
+(d) If the authorized agency uses criminal records checks for agency employment purposes:
+(A) Determining when  and under what conditions a subject individual may be hired on a pre-
+liminary basis pending a criminal records check; and
+(B) Defining the conditions under which a subject  individual may participate in training, orien-
+tation and work activities pending completion of a criminal records check.
+(e) Establishing fees in an amount not to  exceed the actual cost of acquiring and furnishing
+criminal offender information.
+(10)(a) Except as otherwise provided in ORS 181A.400, 181A.875,  342.143, 342.223, 443.735,
+475C.770 to 475C.919 and 703.090 and paragraph (d) of this  subsection, an authorized agency, using
+the rules adopted by the Oregon Department  of Administrative Services under ORS 181A.215, shall
+determine whether a subject individual is fit to hold a position,  provide services, be employed or be
+granted a license, certification, registration or permit. If a subject individual is  determined to be
+unfit, then the individual may  not hold the position, provide services, be employed or be granted a
+license, certification, registration or permit.
+(b)(A) Subject  to subparagraph (B) of this paragraph, an authorized agency making a fitness
+determination of an  individual under this subsection may request results of a previously made fitness
+determination from an authorized agency that has already made a fitness determination for the in-
+dividual. An authorized  agency that receives a request under this paragraph shall provide the re-
+quested information.
+(B) An authorized agency may make a request under this paragraph only for individuals:
+(i) Who  are applying to hold a position, provide services, be employed or be granted a license,
+certification, registration or permit;
+(ii) Who are in a category of individuals  as specified by the Oregon Department of Administra-
+tive Services by rule under ORS 181A.215; and
+(iii) For whom a fitness determination has already been made.
+(c) Except as otherwise provided in ORS 181A.400,  in making the fitness determination under
+this subsection, the authorized agency shall consider:
+(A) The nature of the crime;
+(B) The facts that support the conviction or pending indictment or that indicate  the making of
+a false statement;
+(C) The relevancy, if  any, of the crime or the false statement to the specific requirements of the
+subject individual’s present or proposed position, services, employment, license, certification or reg-
+istration; and
+(D) Intervening circumstances  relevant to the responsibilities and circumstances of the position,
+services, employment, license, certification, registration or permit, such as:
+(i) The passage of time since the commission of the crime;
+(ii) The age of the subject individual at the time of the crime;
+(iii) The likelihood of a repetition of offenses or of the commission of another crime;
+(iv) The subsequent commission of another relevant crime;
+(v) Whether the conviction was set aside and the legal effect  of setting aside the conviction; and
+(vi) The recommendation of an employer.
+[6]
+HB 4115
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) A subject individual is not entitled to  a fitness determination under this subsection if the
+subject individual:
+(A) Is  or seeks to be employed in any capacity having contact with a recipient of support ser-
+vices or a resident of a residential  facility or adult foster home, as provided in ORS 443.004  [ (3)]
+(5), and has been convicted of any crime listed in ORS 443.004 [ (3)] (5) or [ (5)] (7).
+(B) Is prohibited by federal  law from holding a position, providing services, being employed or
+being granted a license, certification,  registration or permit for which the fitness determination is
+requested by an authorized agency.
+(11)(a) In conducting a  fitness determination regarding a subject individual other than an indi-
+vidual described in paragraph (b) of this subsection, the Department of Human  Services or the
+Oregon Health Authority may not consider:
+(A) A conviction that is more than 10 years old unless the conviction is for a crime listed in
+ORS 443.004 [ (3)] (5) or [ (5)] (7);
+(B) A charge or arrest for which there was no conviction  unless the charge or arrest is for a
+crime listed in ORS 443.004 [ (3)] (5) or [ (5)] (7);
+(C) A conviction on a charge relating to marijuana if the charge is no longer a criminal  offense;
+(D) A conviction under ORS 813.010 or 830.325, or a misdemeanor conviction under a law in
+another jurisdiction that imposes criminal penalties for operating a vehicle or boat while  under the
+influence of intoxicants, if the subject individual had no more than one conviction described in  this
+subparagraph in the five-year period prior to the date of the criminal records check;
+(E) A deferred sentence, conditional discharge or  participation in a diversion program for any
+crime unless the crime is listed in ORS 443.004 [ (3)] (5) and [ (5)] (7); and
+(F) A pending indictment for a crime unless the crime is listed in ORS 443.004 [ (3)] (5) or  [ (5)]
+(7).
+(b) The department or  the authority may consider a charge, arrest, conviction, deferred sen-
+tence, conditional discharge, participation  in a diversion program or pending indictment that may
+not be considered under paragraph (a) of this subsection in making a fitness determination for a
+subject individual who is:
+(A) Described in ORS 418.016;
+(B) An employee, volunteer,  contractor or provider in, or an agent of, a proctor foster home as
+defined in ORS 418.205 or a child-caring agency as defined in ORS 418.205;
+(C) An exempt family child care provider, as defined in ORS 329A.430, the provider’s household
+members who are 16 years of age  or older or a frequent visitor of a provider who is subject to a
+criminal records check;
+(D) An employee or volunteer in a facility that:
+(i) Provides care  to children and is operated by a school district, as defined in ORS 332.002, a
+political subdivision of this state, a preschool recorded program, as  defined in ORS 329A.250, or a
+government agency; and
+(ii) Is not required to be certified under ORS 329A.280; or
+(E) An emergency medical services provider, as  defined in ORS 682.025, for the purpose of de-
+termining the fitness of the emergency medical services provider to receive or hold a license under
+ORS 670.280.
+(12)(a) Criminal offender  information is confidential. Authorized agencies and the Department
+of State Police shall adopt rules to restrict dissemination  of information received under this section
+to persons with a demonstrated and legitimate need to know the information.
+[7]
+HB 4115
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) For each employee, contractor or vendor of an authorized agency who is  required to have
+access to or review criminal offender information for noncriminal justice purposes, the authorized
+agency shall:
+(A) Conduct a state and nationwide fingerprint-based criminal records check;
+(B) Ensure  that the employee, contractor or vendor meets the security background check re-
+quirements of the  Federal Bureau of Investigation Criminal Justice Information Services Security
+Policy for having unescorted access to criminal offender information; and
+(C) Pay fees as required under subsection (9) of this section.
+(13) If a  subject individual refuses to consent to the criminal records check or refuses to be
+fingerprinted, the authorized agency shall deny the  employment of the individual, or revoke or deny
+any applicable position, authority to provide services, license, certification, registration or permit.
+(14) If an authorized agency requires a criminal records check of  employees, prospective em-
+ployees, contractors, vendors or volunteers or  applicants for a license, certification, registration or
+permit, the application forms of the authorized agency must contain a notice that the person  is
+subject to fingerprinting and a criminal records check.
+SECTION 7.
+ ORS 181A.200 is amended to read:
+181A.200. (1) As used in this section:
+(a) “Care” means the provision of care, treatment, education,  training, instruction, supervision,
+placement services, recreation or support to children, the elderly or persons with disabilities.
+(b) “Native American tribe” has the meaning given that term in ORS 181A.210 (4).
+(c) “Qualified entity” means a community mental health  program, a community developmental
+disabilities program, a  local health department, the government of a Native American tribe or an
+agency of a Native American tribe responsible for child welfare  or an individual or business or or-
+ganization, whether public, private, for-profit, nonprofit or voluntary, that  provides care, including
+a business or organization that licenses, certifies or registers others to provide care.
+(2) For the purpose of requesting a state or  nationwide criminal records check under ORS
+181A.195, the Department of Human Services, the Oregon  Health Authority and the Employment
+Department may require the fingerprints of a person:
+(a) Who is employed by or is applying for employment with either department or the authority;
+(b) Who provides or seeks to  provide services to either department or the authority as a con-
+tractor, subcontractor, vendor or volunteer who:
+(A) May have contact with recipients of care;
+(B) Has  access to personal information about employees of either department or the authority,
+recipients of care from either department  or the authority or members of the public, including Social
+Security numbers, dates of birth, driver license numbers, medical information, personal financial  in-
+formation or criminal background information;
+(C) Has access to information the disclosure  of which is prohibited by state or federal laws,
+rules or regulations, or information that is defined as  confidential under state or federal laws, rules
+or regulations;
+(D) Has access to property held in trust or to private property in the temporary custody of the
+state;
+(E) Has payroll or fiscal functions or responsibility for:
+(i) Receiving, receipting or depositing money or negotiable instruments;
+(ii) Billing, collections, setting up financial accounts or other financial transactions; or
+(iii) Purchasing or selling property;
+[8]
+HB 4115
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(F) Provides security, design  or construction services for government buildings, grounds or fa-
+cilities;
+(G) Has access to critical infrastructure or secure facilities information; or
+(H) Is providing information technology services and has control over or  access to information
+technology systems;
+(c) For the purposes of licensing, certifying, registering or  otherwise regulating or administering
+programs, persons or qualified entities that provide care;
+(d) For the purposes of  employment decisions by or for qualified entities that are regulated or
+otherwise subject to oversight by the Department of Human Services or the Oregon Health  Au-
+thority and that provide care;
+(e) For the purposes of employment decisions made by  a mass transit district or transportation
+district  for  qualified entities that, under contracts with the district or the Oregon Health Authority,
+employ persons  to operate motor vehicles for the transportation of medical assistance program cli-
+ents; or
+(f) For  the purposes of licensure, certification or registration of foster homes by the government
+of a Native American tribe or an agency of a Native American tribe responsible for child welfare.
+(3) The  Department of Human Services and the Oregon Health Authority may conduct criminal
+records checks on a person through the Law Enforcement Data System  maintained by the Depart-
+ment of  State Police, if deemed necessary by the Department of Human Services or the Oregon
+Health Authority to protect children, elderly persons, persons with disabilities or  other vulnerable
+persons.
+(4) The Department of Human Services and the Oregon Health Authority may  furnish to quali-
+fied entities, in accordance with the rules of the Department of Human  Services or the Oregon
+Health Authority  and the rules of the Department of State Police, information received from the
+Law Enforcement Data System. However,  any criminal offender records and information furnished
+to the Department of Human Services or the Oregon Health Authority by the Federal  Bureau of
+Investigation through the Department of State Police may not be disseminated to qualified entities.
+(5)(a) Except as otherwise provided in ORS 443.735 and 475C.770 to  475C.919, a qualified entity,
+subject to rules adopted  by the Oregon Department of Administrative Services under ORS 181A.215,
+shall determine under this section whether a person is fit to hold a position,  provide services, be
+employed or, if the qualified  entity has authority to make such a determination, be licensed, certified
+or registered. If a person is determined to be unfit,  then that person may not hold the position,
+provide services or be employed, licensed, certified or registered.
+(b) A person prohibited from receiving public funds  for employment under ORS 443.004 [ (3)] (5)
+is not entitled to a determination of fitness under this subsection.
+(c) In making the fitness determination under this subsection, the qualified entity shall  consider:
+(A) The nature of the crime;
+(B) The facts that support the conviction  or pending indictment or indicate the making of a false
+statement;
+(C) The relevancy, if  any, of the crime or the false statement to the specific requirements of the
+person’s present or proposed position, services, employment, license, certification or registration;
+and
+(D) Intervening circumstances  relevant to the responsibilities and circumstances of the position,
+services, employment, license, certification or registration, such as:
+(i) The passage of time since the commission of the crime;
+[9]
+HB 4115
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(ii) The age of the person at the time of the crime;
+(iii) The likelihood of a repetition of offenses;
+(iv) The subsequent commission of another relevant crime; and
+(v) The recommendation of an employer.
+(6) The Department of Human Services and the Oregon Health  Authority, subject to rules
+adopted by the Oregon Department  of Administrative Services under ORS 181A.215, shall develop
+systems that maintain information regarding criminal records checks in order to minimize  the ad-
+ministrative burden imposed by this section and ORS  181A.195. Records maintained under this sub-
+section are confidential and may not be disseminated except for the purposes of this section  and in
+accordance with the rules of the  Department of Human Services, the Oregon Health Authority and
+the Department of State Police. Nothing in this subsection  permits the Department of Human Ser-
+vices to retain fingerprint cards obtained pursuant to this section.
+(7) In addition to  the rules required by ORS 181A.195, the Department of Human Services and
+the Oregon Health Authority, in consultation with the Department of State  Police, shall adopt rules:
+(a) Specifying which qualified entities are subject to this section;
+(b) Specifying which qualified entities may request criminal offender information;
+(c) Specifying which qualified  entities are responsible for deciding, subject to rules adopted by
+the Oregon Department of  Administrative Services under ORS 181A.215, whether a subject individ-
+ual is not fit for a position, service, license, certification, registration or employment; and
+(d) Specifying when a qualified entity, in lieu of conducting a completely new criminal records
+check, may proceed to make a  fitness determination under subsection (5) of this section using the
+information maintained by  the Department of Human Services and the Oregon Health Authority
+pursuant to subsection (6) of this section.
+(8) If a person refuses to consent to the criminal records check or  refuses to be fingerprinted,
+the qualified entity shall deny or terminate the employment of the person, or revoke or deny any
+applicable position, authority to provide services, employment, license, certification or registration.
+(9) If the qualified entity requires a criminal records check of employees or other persons,  the
+application forms of the qualified entity must contain a notice that employment is subject to  fin-
+gerprinting and a criminal records check.
+SECTION 8.
+ ORS 443.008 is amended to read:
+443.008. (1) As used in this section:
+(a) “Direct care services” means  services provided to clients of the Department of Human Ser-
+vices or the Oregon Health Authority by:
+(A) An adult foster home, as defined in ORS 443.705;
+(B) A home care worker, as defined in ORS 410.600;
+(C) A residential facility, as defined in ORS 443.400; or
+(D) A service provider as defined in ORS 427.101.
+(b) “Fitness determination” means the evaluation of whether a  subject individual or other indi-
+vidual providing direct care services is fit to  hold a position, provide direct care services or be
+granted a license, certification, registration or permit to provide direct care services.
+(c) “Qualified entity” has the meaning given that term in ORS 181A.190.
+(d) “Subject individual” means a person who is:
+(A) Employed by or who seeks to be employed by the authority or the department;
+(B) A volunteer or who seeks to be a volunteer to provide care on behalf  of the authority or the
+department; or
+[10]
+HB 4115
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+(C) Providing care or who seeks to provide care on behalf of the authority or the department.
+(2) The department and the authority shall prescribe by rule the criteria to  be considered in
+making fitness determination findings of abuse that are substantiated.  The criteria must include the
+types of substantiated abuse for which a subject  individual may be found to be unfit and conditions,
+if any, for the reinstatement of a subject individual who is found to be unfit.
+(3) A subject individual who is found to be unfit is entitled to challenge the fitness determination
+in a contested case hearing conducted in accordance  with ORS chapter 183. The subject individual
+may not challenge a  finding of substantiated abuse or criminal conviction that was the basis for the
+fitness determination but may contest the weight accorded the  evidence, mitigating factors or other
+aspects of the evaluation. The individual may be represented by an attorney or other person or,  if
+the individual is a member of a bargaining  unit, by the certified or recognized exclusive represen-
+tative for the bargaining unit.
+(4) This section applies to fitness determinations  for providers of direct care services conducted
+under ORS 181A.195 (10) or 443.004 [ (7)] (9).
+SECTION 9.
+This 2026 Act takes effect on the 91st day after the date on which the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[11]

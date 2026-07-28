@@ -1,0 +1,740 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2007
+Sponsored by Representatives KOTEK, POWER, NOSSE, Senators DEMBROW, FREDERICK,  TAYLOR; Represen-
+tatives HERNANDEZ, KENY-GUYER, NERON, PRUSAK, SALINAS, SANCHEZ, SCHOUTEN,  SMITH
+WARNER
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs Environmental Quality Commission to  adopt by rule diesel engine emission standards for
+medium-duty trucks and heavy-duty trucks. Requires commission  to phase in implementation of
+standards.
+Requires owner or operator of truck that enters Oregon for purpose of operating  in Oregon to
+maintain evidence demonstrating that engine of truck meets federal emission standards at time of
+manufacture. Directs commission  to adopt by rule inspection and emission control label program for
+determining whether trucks meet federal emission standards.
+Extends authorized uses of moneys received by  state pursuant to Volkswagen Environmental
+Mitigation Trust Agreement and deposited in Clean Diesel Engine Fund.
+Repeals state  preemption of local regulating of idling by primary engines in commercial vehicles.
+Beginning January 1, 2020, requires certain public improvement contracts to require  use of
+motor vehicles and equipment with 2010 model year or newer diesel engines in performance of con-
+tract.
+Establishes Supporting Businesses  in Reducing Diesel Emissions Task Force. Directs task force
+to consider public funding strategies for supporting businesses in reducing emissions from diesel
+engines used in conducting business activities.
+Becomes operative January 1, 2020.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to engine emissions; creating new  provisions; amending ORS 468A.795, 468A.803 and
+468A.805; repealing ORS 825.615; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+DIESEL ENGINE EMISSION STANDARDS; INSPECTION PROGRAM
+SECTION 1.
+ ORS 468A.795 is amended to read:
+468A.795. As used in ORS 468A.795 to 468A.807:
+(1) “Alternative fuel” means biofuels, biogas,  natural gas, liquefied petroleum gas, hydrogen and
+electricity.
+(2) “Best available exhaust control technology” means the  most effective exhaust controls to
+reduce diesel particulate that rely on  passively regenerated diesel particulate control technology
+supported in a vehicle’s normal duty cycle.
+[(3) “Combined weight” has the meaning given that term in ORS 825.005. ]
+[(4)] (3)  “Cost-effectiveness threshold” means the cost, in dollars, per ton of  diesel particulate
+matter reduced, as established by rule of the Environmental Quality Commission.
+[(5)] (4) “Diesel engine” means a compression ignition engine.
+[(6)] (5) “Environmental Mitigation Trust Agreement” means the fully executed Environmental
+Mitigation Trust Agreement  for State Beneficiaries effective October 2, 2017, and issued  pur-
+suant to Paragraph 17 of  [ required by ] the Volkswagen “Clean Diesel”  Marketing, Sales Practices
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3090
+HB 2007
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+and Products Liability Litigation partial consent decree dated October 25, 2016.
+[(7)] (6)  “Equivalent equipment”  means a piece of equipment that performs the same function
+and has the equivalent horsepower to a piece of equipment subject to a replacement.
+[(8)] (7) “Equivalent motor vehicle” means a motor vehicle that  performs the same function and
+is in the same weight class as a motor vehicle subject to a replacement.
+(8) “Gross vehicle weight rating”  means the value specified by the manufacturer as the
+maximum loaded weight of a single or a combination vehicle.
+(9) “Heavy-duty truck” means a motor vehicle or  combination of vehicles operated as a unit that
+has a [ combined weight ] gross vehicle weight rating  that is greater than 26,000 pounds.
+(10) “Incremental cost” means the cost of a  qualifying repower or retrofit less a baseline cost
+that would otherwise be incurred in the normal course of business.
+(11) “Medium-duty truck” means a motor vehicle or combination of  vehicles operated as a unit
+that has a [ combined weight ] gross vehicle weight rating  that is greater than 14,000  pounds but
+less than or equal to 26,000 pounds.
+(12) “Motor vehicle” has the meaning given that term in ORS 825.005.
+(13) “Nonroad diesel engine” means a diesel engine of  25 horsepower or more that is not de-
+signed primarily to propel a motor vehicle on public highways.
+[(14) “Oregon diesel engine” means an engine at least 50 percent of the use of  which, as measured
+by miles driven or hours operated, will occur in Oregon for the three years  following the repowering
+or retrofitting of the engine. ]
+[(15)] (14) “Oregon diesel  truck engine” means a diesel engine in a truck at least 50 percent of
+the use of which,  as measured by miles driven or hours operated, has occurred in Oregon for the
+two years preceding the scrapping of the engine.
+[(16)] (15) “Public highway” has the meaning given that term in ORS 825.005.
+[(17)(a)] (16)(a) “Replacement” means:
+(A) To scrap a motor vehicle powered by a diesel engine  and replace the motor vehicle with an
+equivalent motor vehicle; or
+(B) To scrap a piece of equipment powered by a nonroad diesel engine  and replace the equip-
+ment with equivalent equipment.
+(b) “Replacement” does not mean ordinary maintenance, repair or replacement  of a diesel en-
+gine.
+[(18)] (17) “Repower” means to scrap an old diesel engine and substitute it with  a new engine,
+a used engine or a remanufactured engine, or with electric motors, drives or fuel cells, with  a min-
+imum useful life of seven years.
+[(19)] (18) “Retrofit” means to  equip a diesel engine with new emissions-reducing parts or tech-
+nology after the manufacture of  the original engine. A retrofit must use the greatest degree of
+emissions reduction available for the particular application of the equipment retrofitted  that meets
+the cost-effectiveness threshold.
+[(20)] (19) “Scrap” means to destroy, render inoperable and recycle.
+[(21)] (20) “Truck” means a motor vehicle or combination of vehicles  operated as a unit that has
+a [ combined weight ] gross vehicle weight rating  that is greater than 14,000 pounds.
+SECTION 2.
+Sections 3 and 4 of  this 2019 Act are added to and made a part of ORS
+468A.795 to 468A.807.
+SECTION 3. (1) The Environmental Quality  Commission by rule shall establish diesel
+engine emission standards for medium-duty trucks and heavy-duty trucks.
+[2]
+HB 2007
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) The standards adopted by the commission under this section must  include a schedule
+to phase in implementation of a  requirement that, by January 1, 2029, all medium-duty
+trucks and heavy-duty trucks registered in Oregon  must have a 2010 model year or newer
+engine.
+(3) Rules adopted under this section must allow for owners and operators of medium-duty
+trucks and heavy-duty  trucks to meet the diesel engine emission standards through alter-
+native compliance options that may include, but need not be limited to:
+(a) A fleet averaging option.
+(b) Options that provide flexibility for small fleets.
+(c) Compliance extensions for individual trucks that meet eligibility requirements adopted
+by the commission by rule.
+(d) Compliance through retrofitting with exhaust controls that reduce diesel particulate
+emissions by at least 85 percent  when compared with the baseline emissions for the relevant
+engine year and application.
+(4) Rules adopted under this section must  include standards restricting the addition to
+fleets, after dates to be established by rule,  of medium-duty trucks and heavy-duty trucks
+that are powered by diesel engines of certain model years.
+(5) Before adopting rules under this section,  the commission shall consider regulations
+adopted by the State of California for reducing diesel engine emissions  from in-use medium-
+duty trucks and heavy-duty trucks.
+(6) The following classes of vehicles are exempt from rules adopted under this section:
+(a) Motor vehicles registered as farm vehicles under the provisions of ORS 805.300.
+(b) Farm tractors, as defined in ORS 801.265.
+(c) Implements of husbandry, as defined in ORS 801.310.
+(d) Motor vehicles used exclusively as  training vehicles, as determined by the commission
+by rule.
+(e) Any  other medium-duty trucks or heavy-duty trucks exempted from the diesel engine
+emission standards by the commission by rule.
+SECTION 4.
+(1) To the extent permissible under federal law, the owner or  operator of a
+truck that enters the State of Oregon for  the purpose of operating in this state shall main-
+tain, and provide upon demand to an enforcement authority, evidence demonstrating that the
+engine of the  truck meets the federal emission standards applicable to commercial heavy-
+duty engines for that engine’s model year at the time the engine was manufactured.
+(2) The Environmental Quality Commission  shall adopt by rule a program for inspecting
+trucks to determine whether the engine of a truck subject to the requirements of  subsection
+(1) of this section meets the federal emission standards  applicable to commercial heavy-duty
+engines for that engine’s  model year at the time the engine was manufactured. The program
+shall include provisions for issuing  and requiring an owner or operator of a truck to display
+an emission control label.
+(3) Before adopting rules under this  section, the commission shall consider regulations
+adopted by the State of California  for establishing inspection protocol for determining
+whether the engine of a heavy-duty vehicle meets the federal emission  standards applicable
+to commercial heavy-duty engines for that engine’s model year at the  time the engine was
+manufactured.
+[3]
+HB 2007
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+USES OF ENVIRONMENTAL MITIGATION TRUST AGREEMENT MONEYS
+SECTION 5.  ORS 468A.805 is amended to read:
+468A.805. (1) Subject to and consistent with ORS 468A.803 (8) and  with the terms of the Envi-
+ronmental Mitigation Trust Agreement, any moneys received by the State  of Oregon pursuant to the
+agreement that are deposited in the Clean Diesel  Engine Fund under ORS 468A.801 must [ be used
+by the Department of Environmental Quality to award grants for the purpose of reducing nitrogen
+oxides emissions from diesel engines. ]
+[(2)(a) To  the extent authorized by the agreement, the department shall allocate moneys awarded
+pursuant to subsection (1) of this section first to ] be expended by the Department  of Environ-
+mental Quality as follows:
+(a) The department shall  award grants to owners and operators of school buses  to reduce
+emissions from at least 450 school buses powered by diesel engines operating in this state.
+(b) Moneys not expended under paragraph (a) of this subsection must  be expended, to the
+extent authorized by  the Environmental Mitigation Trust Agreement, to award grants to
+owners and operators of motor vehicles powered by diesel engines and  equipment powered
+by nonroad diesel engines for:
+(A) Qualifying replacements of motor  vehicles and nonroad diesel engines powered by
+2009 model year or older diesel engines; and
+(B) Qualifying retrofits and repowers of 2009 model year or older diesel engines.
+[(b)] (2)(a)  In awarding grants under [ this subsection ] subsection (1)(a) of this section , the
+department shall begin by awarding  grants to owners and operators of school buses powered by
+diesel engines that are  of the median model year of school buses powered by diesel engines operat-
+ing in  this state, and shall proceed to award grants for school buses powered by diesel engines
+through the adjoining  model years until the requirements of [ paragraph (a) of this subsection ] sub-
+section (1)(a) of this section  are met. A grant may be awarded under [ this subsection ] subsection
+(1)(a) of this section  for any school bus powered by a diesel engine within the control of an owner
+or operator that meets the following conditions:
+(A) The school bus has at least three years of remaining useful life;
+(B) Use of the school bus has occurred in Oregon during the year preceding the date of the
+grant; and
+(C) For the three years following receipt of a grant award, use of the school bus to which  the
+owner or operator applies the grant will occur in Oregon.
+[(c)] (b) The grant  amount per school bus awarded under [ this paragraph ] subsection (1)(a) of
+this section  shall be for:
+(A) $50,000 or 30 percent of the cost to purchase a school bus that meets  minimum standards
+adopted by the State Board of Education under ORS 820.100 for the applicable class  or type of
+school bus, whichever is less; or
+(B) Up to 100 percent of the cost to retrofit a school bus with  emissions-reducing parts or
+technology that results in a  reduction of diesel particulate matter emissions by at least 85 percent
+when compared with the baseline emissions for the relevant engine year and application.
+[(3) Except for awarding grants  pursuant to subsection (2) of this section, the department may not
+award grants from the moneys described  under subsection (1) of this section without prior approval
+by the Legislative Assembly by law. ]
+(3) In awarding grants pursuant  to subsection (1)(b) of this section, the department shall
+[4]
+HB 2007
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+give preferences for projects that will:
+(a) Benefit sensitive populations or areas with  elevated concentrations of diesel
+particulate matter;
+(b) Be carried out  by a grant applicant that is a disadvantaged business enterprise, as
+defined in ORS 200.005;
+(c) Be designed and performed in  a manner that reflects engagement with and the sup-
+port of the community where the project is located;
+(d) Involve the replacement, repower or retrofit of one or more motor vehicles  or pieces
+of equipment that have at least  three years of remaining useful life at the time that the
+grant agreement is executed;
+(e) Support the utilization of fuels for which regulated parties may generate credits  un-
+der the clean fuels program adopted by  rule by the Environmental Quality Commission under
+ORS 468A.266 (1)(b);
+(f) Involve small fleets;
+(g) Maximize the cost effectiveness of emissions reductions in Oregon; or
+(h) Meet the criteria of any  other preferences that the commission may establish by rule,
+if the department determines that the additional  preferences are necessary to ensure that
+grant awards result in the reduction of nitrogen oxides emissions from diesel engines.
+(4) The commission may adopt rules necessary  to implement the provisions of this sec-
+tion.
+REPEAL OF STATE PREEMPTION OF LOCAL REGULATION
+OF IDLING BY PRIMARY ENGINES IN COMMERCIAL VEHICLES
+SECTION 6.
+ORS 825.615 is repealed.
+CLEAN DIESEL IN PUBLIC CONTRACTS
+SECTION 7. Section 8 of this 2019 Act is added to  and made a part of the Public Con-
+tracting Code.
+SECTION 8. (1) As  used in this section, “diesel engine” and “motor vehicle” have the
+meaning given those terms in ORS 468A.795.
+(2) Except as provided in subsection (4) of this section,  a public improvement contract
+must require at least 80 percent of the total fleet of  motor vehicles that are motor vehicles
+powered by diesel engines and  equipment powered by nonroad diesel engines used in the
+course of performing the contract to be:
+(a) Motor vehicles powered by model year 2010 or newer diesel engines; and
+(b) Equipment powered by nonroad diesel engines, whether or not capable of being pow-
+ered by alternative fuel, that meet or exceed United States Environmental Protection Agency
+Tier 4 exhaust emission standards for nonroad compression ignition engines.
+(3) Subsection (2) of this section applies only to a public improvement contract for:
+(a) A public improvement for which the contracting  agency is a state contracting agency;
+or
+(b) A public improvement with a value of $20 million or  more and for which the issuance
+of general obligation bonds for the cost of the public improvement is a source of funding.
+[5]
+HB 2007
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4)(a) The Environmental Quality Commission may adopt  by rule minimum standards for
+contract specifications relating to the use of  diesel engines in the course of performing a
+public improvement contract  by a state contracting agency. In adopting rules under this
+subsection, the commission shall take into consideration methods for assisting contractors
+certified as  disadvantaged business enterprises, minority-owned businesses, women-owned
+businesses or businesses owned by service-disabled veterans under ORS 200.055  in complying
+with the minimum standards for contract specifications.
+(b) As an alternative  to meeting the requirements of subsection (2) of this section, a
+public improvement contract subject to subsection (2) of this section may include  contract
+specifications that meet the minimum standards  adopted by the commission by rule under
+this subsection.
+SUPPORTING BUSINESSES IN REDUCING DIESEL EMISSIONS TASK FORCE
+SECTION 9.
+(1) The Supporting Businesses in Reducing Diesel Emissions Task Force is
+established.
+(2) The task force consists of 10 members appointed as follows:
+(a) The President of  the Senate shall appoint one member from the majority party of the
+Senate and one member from the minority party of the Senate.
+(b) The Speaker of the House of Representatives shall appoint one member from the
+majority party of the House of Representatives and one member  from the minority party of
+the House of Representatives.
+(c) The President and the Speaker shall  coordinate to jointly appoint six members as
+follows:
+(A) One member of the public who is an elected official of a regional government entity;
+(B) Two members of the public who represent organizations  concerned with the impacts
+of diesel emissions on health and communities;
+(C) One member of the public who represents the trucking or freight industry;
+(D) One  member of the public who represents a business that operates equipment that
+is likely to be powered by diesel engines; and
+(E) One member of the public who represents contractors or businesses that retain the
+services of subcontractors that operate motor vehicles or equipment powered by diesel en-
+gines.
+(3) The task  force shall consider public funding strategies for supporting businesses in
+reducing emissions from diesel engines used in the course  of conducting business activities.
+The task force  shall evaluate and develop recommendations related to funding strategies that
+shall include, but need not be limited to:
+(a) Taxes;
+(b) Fees;
+(c) Contract requirements or funding set-asides; and
+(d) Strategies employed by other  states to accrue funds for diesel emission reduction
+programs.
+(4) The  task force shall also consider and provide recommendations on the development
+of a state program for an owner or operator of equipment powered by  a nonroad diesel en-
+gine operated in Oregon to voluntarily demonstrate that the nonroad diesel engine powering
+[6]
+HB 2007
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the equipment meets  or exceeds United States Environmental Protection Agency Tier 4 ex-
+haust emission standards for nonroad compression ignition engines, and to  receive and dis-
+play an emission control label on the equipment. Recommendations developed under  this
+subsection may include recommendations for  administration of the voluntary program and
+appropriate fees.
+(5) A  majority of the voting members of the task force constitutes a quorum for the
+transaction of business.
+(6) Official action by the task force requires the approval of a majority  of the voting
+members of the task force, except that in the event of a tie vote, the  vote of the chairperson
+shall decide the action.
+(7) The task force shall elect one of its members to serve as chairperson.
+(8) If there  is a vacancy for any cause, the appointing authority shall make an appoint-
+ment to become immediately effective.
+(9) The task force shall meet at times and places specified by the call of  the chairperson
+or of a majority of the voting members of the task force.
+(10) The task force may adopt rules necessary for the operation of the task force.
+(11) The task force shall submit a report in the  manner provided by ORS 192.245, and
+may include recommendations for legislation, to the interim  committees of the Legislative
+Assembly related to environment and natural resources no later than September 15, 2020.
+(12) The Legislative Policy and Research Director shall provide  staff support to the task
+force.
+(13) Members of  the Legislative Assembly appointed to the task force are nonvoting
+members of the task force and may act in an advisory capacity only.
+(14) Members of the task force who are not members of the Legislative  Assembly are not
+entitled to compensation or reimbursement for expenses and serve as volunteers on the  task
+force.
+(15) All agencies of state government, as  defined in ORS 174.111, are directed to assist
+the task force in the performance of  the duties of the task force and, to the extent permitted
+by laws relating to confidentiality, to furnish information and advice the members of the task
+force consider necessary to perform their duties.
+SECTION 10.
+Section 9 of this 2019 Act is repealed on December 31, 2020.
+MISCELLANEOUS
+SECTION 11.  ORS 468A.803 is amended to read:
+468A.803. (1) The  Department of Environmental Quality shall use the moneys in the Clean Diesel
+Engine Fund to award:
+(a) Grants and loans to the owners and operators of  motor vehicles powered by diesel engines,
+and equipment powered by nonroad diesel engines,  for up to 25 percent of the certified costs of
+qualifying replacements as described in ORS 468A.797 and 468A.799;
+(b) Grants and loans to the owners and operators of diesel engines for up to 100 percent of the
+certified costs of qualifying retrofits as described in ORS 468A.797 and 468A.799;
+(c) Grants and  loans to the owners and operators of nonroad diesel engines for up to 25 percent
+of the certified costs of qualifying repowers as described in ORS 468A.797 and 468A.799; and
+(d) Grants to the owners of Oregon diesel truck engines to scrap those engines.
+[7]
+HB 2007
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) The Environmental Quality Commission by rule may set grant or loan award rates at a per-
+centage that is greater than a percentage allowed under subsection (1) of this section, provided that
+the grant or  loan assistance will not exceed the cost-effectiveness threshold, if the higher percentage
+award rate would:
+(a) Benefit sensitive populations or areas with elevated concentrations of  diesel particulate
+matter; or
+(b) Otherwise increase participation by those categories of owners or operators.
+(3) In determining the amount of a grant or loan under this section, the  department must reduce
+the incremental cost of a qualifying replacement, repower or retrofit by the value of any existing
+financial incentive that directly reduces the cost of the qualifying replacement, repower or  retrofit,
+including tax credits, other grants or loans, or any other public financial assistance.
+(4) The department may  certify third parties to perform qualifying replacements, repowers and
+retrofits and may contract with third parties to perform such services  for the certified costs of
+qualifying replacements, repowers and retrofits. The department may  also contract with institutions
+of higher education or other public bodies as defined by ORS 174.109 to train and certify third par-
+ties to perform qualifying replacements, repowers and retrofits.
+(5) The department may not award a grant or loan for  a replacement, repower or retrofit under
+subsection (1) of this section  unless the grant or loan applicant demonstrates to the department’s
+satisfaction that the resulting equivalent motor  vehicle, equivalent equipment, repowered nonroad
+diesel engine or retrofitted diesel engine will undergo at least 50 percent  of its use in Oregon, as
+measured by miles driven or hours  operated, for the three years following the replacement, repower
+or retrofit.
+(6) The department may not award a grant to scrap  an Oregon diesel truck engine under sub-
+section (1) (d) of this section unless the engine was manufactured prior to 1994 and the engine is in
+operating condition at the time of the grant application or, if repairs are needed, the owner dem-
+onstrates to the department’s satisfaction that the engine can  be repaired to an operating condition
+for less  than its commercial scrap value. The commission shall adopt rules for a maximum grant
+awarded under subsection (1) (d) of this section for an engine in a heavy-duty truck and for an engine
+in a medium-duty truck. A grant awarded under subsection (1) (d) of this section may not be com-
+bined with any other tax credits, grants or loans, or any other public  financial assistance, to scrap
+an Oregon diesel truck engine.
+(7) Subject to and consistent with federal law, any moneys  received from the federal government
+that are deposited in the  Clean Diesel Engine Fund under ORS 468A.801 (2)(b) must be used for in-
+itiatives to reduce emissions from diesel engines. Subsections (1) to (6) of  this section and ORS
+468A.797 and 468A.799 do  not apply to use of moneys in the fund received from the federal govern-
+ment.
+(8) Any moneys received by  the State of Oregon pursuant to a voluntary written agreement or
+a settlement approved  in an administrative or judicial proceeding that are deposited in the Clean
+Diesel Engine Fund must be used by the department for activities consistent with the terms and
+conditions of the agreement or settlement. Subsections (1) to  (6) of this section and ORS 468A.797
+and 468A.799 do not apply to the use of moneys in the fund received pursuant to this subsection.
+(9) Except as  provided in subsection (8) of this section, the department may use the moneys in
+the Clean Diesel Engine Fund to pay expenses of the department in administering the  program de-
+scribed in ORS 468A.795 to 468A.807.
+SECTION 12.
+(1) Sections 2 to 4, 7 and 8 of this 2019 Act and the amendments  to statutes
+[8]
+HB 2007
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+by sections 1, 5 and 11 of this 2019 Act become operative on January 1, 2020.
+(2) The Environmental Quality Commission and  the Department of Environmental Qual-
+ity may take any action before  the operative date specified in subsection (1) of this section
+that is necessary for  the commission and the department to exercise, on and after the op-
+erative date specified in  subsection (1) of this section, all of the duties, functions and powers
+conferred on the commission and the department by sections 2 to 4, 7 and 8  of this 2019 Act
+and the amendments to statutes by sections 1, 5 and 11 of this 2019 Act.
+SECTION 13. The unit captions used in this 2019 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2019 Act.
+SECTION 14. This 2019 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2019 Act takes effect
+on its passage.
+[9]

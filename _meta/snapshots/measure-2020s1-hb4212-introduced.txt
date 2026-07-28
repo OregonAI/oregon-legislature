@@ -1,0 +1,2027 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+80th OREGON LEGISLATIVE ASSEMBLY--2020 Special Session
+House Bill 4212
+Sponsored by Representative KOTEK (at the request of Joint Committee on the First Special Session of 2020)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Authorizes governing bodies of public bodies, other than State  of Oregon, to conduct all public
+meetings using telephone or video conferencing technology or  through other electronic or virtual
+means. Requires public body, in cases  in which governing body elects to conduct virtual public
+meeting, to supply means by which public can listen to or observe meeting. Provides exceptions.
+Modifies quorum requirements of local governing bodies to exclude members who are unable  to
+attend because of illness due to COVID-19.
+Provides that recovery rebate  payments made under Coronavirus Aid, Relief, and Economic Se-
+curity Act (CARES Act) and deposited in debtor’s account in financial  institution are not subject
+to garnishment. Applies to garnishments issued  on or before date 90 days after expiration of state
+of emergency declared March 8, 2020, and any extension of declaration.
+Authorizes Chief Justice of  Supreme Court, during emergency period and for 60 days thereafter,
+and upon finding of good cause, to extend or suspend  time period or time requirement in rule or
+statute in specified court proceedings. Authorizes presiding judge of  circuit court to extend custody
+and postpone trials upon finding of good  cause, and within specified limits. Authorizes Chief Justice
+to direct or permit electronic court  appearances. Extends time to commence civil action or give
+notice of civil claim if expiration of time falls within emergency period or  within 90 days after end
+of emergency period. Sunsets authority of judicial  officers to modify time periods and other proce-
+dures on December 31, 2021.
+Requires local governments to allow siting of qualifying emergency shelters by qualifying  enti-
+ties notwithstanding land use laws. Removes certain limits on motor vehicle camping. Sunsets  90
+days after taking effect.
+Directs Housing and Community Services Department to  distribute fund moneys so as to provide
+energy bill  payment assistance to low-income households, prioritizing low-income households affected
+by pandemic.
+Temporarily allows notary public to perform notarial  act using communication technology for
+remotely located individual under certain circumstances.
+Immunizes owner, officer, operator, employee or agent of isolation shelter, or public entity,  from
+civil liability that is predicated on claim of illness, injury or death from COVID-19. Exempts from
+immunity conduct  that constitutes gross negligence, malice or fraud, that is willful, intentional or
+reckless, that is criminal or that is unrelated to COVID-19.
+Delays termination of enterprise zone that would otherwise terminate on June 30, 2020, to  De-
+cember 31, 2020. Authorizes redesignation of enterprise zone that terminates on December 31,  2020,
+on any date before January 1, 2021.
+Allows individual development accounts to be established for emergency savings.
+Requires Director of Department of Consumer and Business Services to adopt temporary and
+permanent rules establishing  emergency temporary infectious disease standards. Directs Oregon
+Health Authority to adopt rules regarding race and ethnicity data collection by health care provid-
+ers.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to strategies to protect Oregonians from the effects  of the COVID-19 pandemic; creating
+new provisions; amending ORS 18.784, 93.810, 194.225, 194.290, 194.305, 194.400 and 458.685; and
+declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+LOCAL GOVERNMENT AND SPECIAL GOVERNMENT BODY
+PUBLIC MEETINGS AND OPERATIONS
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 45
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 1.
+(1) Notwithstanding ORS 192.610  to 192.690, the governing body of a public
+body may  hold all meetings by telephone or video conferencing technology or through some
+other electronic or virtual means. When a governing body meets using telephone or video
+conferencing technology, or through other electronic or virtual means, the public body shall
+make available a method by which the public can listen to or observe  the meeting. If a gov-
+erning body meets using telephone or video conferencing  technology, or through other elec-
+tronic or virtual means:
+(a) The public body does  not have to provide a physical space for the public to attend the
+meeting; and
+(b) If the telephone or video conferencing technology  allows the public body to do so, the
+public body shall record the meeting and make the recording  available to the public. This
+paragraph does not apply to executive sessions.
+(2) If the governing body of the public body elects not to use telephone or video confer-
+encing technology or other electronic or virtual means to conduct meetings, all persons at-
+tending meetings held in person must maintain social distancing, including maintaining
+intervals of six feet or more between individuals, wherever possible.
+(3) For  any executive session at which the media are permitted to attend, whether con-
+ducted in person or using electronic or virtual  means, the governing body shall provide a
+means for media to attend the executive session through telephone or other electronic  or
+virtual means.
+(4) If a public body posts notices of governing body public  meetings on the public body’s
+website, the  public body shall also send notices of these public meetings by electronic mail
+to persons who have requested the notice. This subsection does not apply to  public bodies
+that do not have personnel available to send electronic mail notices.
+(5) Notwithstanding ORS 192.610 to 192.690 or any other applicable law or policy, any
+public testimony or comment taken  during a meeting need not be taken in person if the
+public body provides an opportunity to submit testimony or comment by telephone or  video
+conferencing technology, or through other electronic or  virtual means, or provides a means
+of submitting written testimony, including by electronic mail or other electronic methods,
+and the governing body is able to consider the submitted testimony in a timely manner.
+(6) Notwithstanding any requirement that establishes a quorum required  for a governing
+body to act, the minimum number  of members of a governing body required for the body to
+act shall exclude any member unable to attend because of illness due to COVID-19.
+(7) If the  public health threat underlying the declaration of a state of emergency issued
+by the Governor on March 8,  2020, or compliance with an executive order issued under ORS
+401.165 to 401.236 in connection with that emergency, causes a municipal corporation or
+council of governments to fail to comply with ORS 294.305 to 294.565 or  294.900 to 294.930, the
+municipal corporation or council of governments may make reasonable  expenditures for
+continued operations within the existing or most recently adopted budget, provided that any
+failure to comply with ORS 294.305 to 294.565 or 294.900 to 294.930 is  cured as soon as is
+reasonably practicable.
+(8) Notwithstanding ORS  221.770, a city may satisfy the requirements of holding a public
+hearing under ORS 221.770 (1)(b) and (c) by holding the hearing in  accordance with this sec-
+tion and by making certification to the Oregon Department  of Administrative Services as
+soon as is reasonably practicable after the city adopts its budget.
+[2]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(9) As used in this section:
+(a) Terms used  in this section have the meanings given those terms in ORS 192.610, ex-
+cept that “public body” excludes the state or any board,  department, commission, council,
+bureau, committee, subcommittee, advisory group or other agency of the state.
+(b) “Budget” and “municipal corporation” have the  meanings given those terms in ORS
+294.311.
+(c) “Council of governments” has the meaning given that term in ORS 294.900.
+SECTION 2.
+Section 1  of this 2020 special session Act is repealed 30 days after the date
+on which the declaration of a state of emergency issued by the Governor on March 8,  2020,
+and any extension of the declaration, is no longer in effect.
+GARNISHMENT MODIFICATIONS
+SECTION 3.  ORS 18.784 is amended to read:
+18.784. (1) Except as provided in subsection [ (6)] (7) of this section, if a writ of garnishment  is
+delivered to a financial institution that has an account of  the debtor, the financial institution shall
+conduct a garnishment account review of all accounts in the  name of the debtor before taking any
+other action  that may affect funds in those accounts. If the financial institution determines from the
+garnishment account review that one or more  payments described in subsection (3) of this section
+were deposited  in an account of the debtor by direct deposit or electronic payment during the
+lookback  period  described in subsection (2) of this section, an amount equal to the lesser of the sum
+of those payments or the total balance in the debtor’s account is not subject to garnishment.
+(2) The provisions of this section apply only to payments described in subsection  (3) of this
+section that are deposited during the lookback  period that ends on the day before the day on which
+the garnishment account review is conducted and begins on:
+(a) The day in the second calendar month preceding  the month in which the garnishment ac-
+count review is conducted, that has the same number as the day on which the period ends; or
+(b) If there is no  day as described in paragraph (a) of this subsection, the last day of the second
+calendar month preceding the month in which the garnishment account review is conducted.
+(3) The provisions of this section apply only to:
+(a) Federal benefit payments;
+(b) Payments from a public or private retirement plan as defined in ORS 18.358;
+(c) Public assistance or medical assistance, as defined in ORS 414.025, payments  from the State
+of Oregon or an agency of the State of Oregon;
+(d) Unemployment compensation payments  from the State of Oregon or an agency of the State
+of Oregon;
+(e) Black lung benefits payments from the United States Department of Labor; and
+(f) Workers’ compensation payments from a workers’ compensation carrier.
+(4) The provisions of this section apply only to  a payment that a financial institution can iden-
+tify as being one of the types of payments described in subsection (3) of this section from information
+transmitted to the financial institution by the payor.
+(5)(a) Except as provided  in paragraph (b) of this subsection, if a financial institution
+determines from a garnishment account review conducted under this section that  a recovery
+rebate payment made under section 2201(a) of the Coronavirus Aid,  Relief, and Economic
+Security Act (P.L. 116-136) was deposited in an account of the debtor at any time,  an amount
+[3]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+equal to the lesser of the sum of those payments or the total balance  in the debtor’s account
+is not subject to garnishment.
+(b) A recovery rebate payment made under section 2201(a) of the  Coronavirus Aid, Relief,
+and Economic Security Act (P.L. 116-136) is subject to garnishment if:
+(A) The garnishment is issued to collect:
+(i) A judgment in a criminal action that requires the defendant to pay restitution; or
+(ii) A civil judgment against a person who has been convicted of a crime if the civil
+judgment is based on the same underlying facts as the conviction; and
+(B) The garnishment contains the following  statement: “This Garnishment Has Been Is-
+sued to Collect a Criminal Money Judgment that Awards Restitution or a  Civil Judgment
+Based on a Criminal Offense”.
+[(5)] (6) A financial institution shall perform a garnishment account review  only one time for a
+specific garnishment. If the same garnishment is served on a financial  institution more than once,
+the financial institution may not perform a  garnishment account review or take any other action
+relating to the garnishment based on the second and subsequent service of the garnishment.
+[(6)] (7) A  financial institution may not conduct a garnishment account review under this section
+if a Notice of Right  to Garnish Federal Benefits from the United States Government or from a state
+child support enforcement agency is attached to or included in the garnishment  as provided in 31
+C.F.R. part 212. If a Notice of Right to Garnish Federal Benefits is  attached to or included in the
+garnishment, the financial institution shall proceed on the garnishment as otherwise provided  in
+ORS 18.600 to 18.850.
+[(7)] (8) The provisions of this section do not affect the ability  of a debtor to claim any ex-
+emption that otherwise may be available to the debtor under law for any amounts in an account in
+a financial institution.
+SECTION 4.
+ ORS 18.784, as amended by section 3 of this  2020 special section Act, is amended
+to read:
+18.784. (1) Except as provided in subsection [ (7)] (6) of this section, if a writ of garnishment  is
+delivered to a financial institution that has an account of  the debtor, the financial institution shall
+conduct a garnishment account review of all accounts in the  name of the debtor before taking any
+other action  that may affect funds in those accounts. If the financial institution determines from the
+garnishment account review that one or more  payments described in subsection (3) of this section
+were deposited  in an account of the debtor by direct deposit or electronic payment during the
+lookback  period  described in subsection (2) of this section, an amount equal to the lesser of the sum
+of those payments or the total balance in the debtor’s account is not subject to garnishment.
+(2) The provisions of this section apply only to payments described in subsection  (3) of this
+section that are deposited during the lookback  period that ends on the day before the day on which
+the garnishment account review is conducted and begins on:
+(a) The day in the second calendar month preceding  the month in which the garnishment ac-
+count review is conducted, that has the same number as the day on which the period ends; or
+(b) If there is no  day as described in paragraph (a) of this subsection, the last day of the second
+calendar month preceding the month in which the garnishment account review is conducted.
+(3) The provisions of this section apply only to:
+(a) Federal benefit payments;
+(b) Payments from a public or private retirement plan as defined in ORS 18.358;
+(c) Public assistance or medical assistance, as defined in ORS 414.025, payments  from the State
+[4]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of Oregon or an agency of the State of Oregon;
+(d) Unemployment compensation payments  from the State of Oregon or an agency of the State
+of Oregon;
+(e) Black lung benefits payments from the United States Department of Labor; and
+(f) Workers’ compensation payments from a workers’ compensation carrier.
+(4) The provisions of this section apply only to  a payment that a financial institution can iden-
+tify as being one of the types of payments described in subsection (3) of this section from information
+transmitted to the financial institution by the payor.
+[(5)(a) Except as provided in paragraph (b) of  this subsection, if a financial institution determines
+from a garnishment account review conducted under this section that  a recovery rebate payment made
+under section 2201(a) of the Coronavirus Aid, Relief,  and Economic Security Act (P.L. 116-136) was
+deposited in an account of the debtor at any time,  an amount equal to the lesser of the sum of those
+payments or the total balance in the debtor’s account is not subject to garnishment. ]
+[(b) A recovery rebate  payment made under section 2201(a) of the Coronavirus Aid, Relief, and
+Economic Security Act (P.L. 116-136) is subject to garnishment if: ]
+[(A) The garnishment is issued to collect: ]
+[(i) A judgment in a criminal action that requires the defendant to pay restitution; or ]
+[(ii) A civil judgment against a person  who has been convicted of a crime if the civil judgment is
+based on the same underlying facts as the conviction; and ]
+[(B) The garnishment contains the following statement: “This Garnishment  Has Been Issued to
+Collect a Criminal Money Judgment that Awards  Restitution or a Civil Judgment Based on a Criminal
+Offense”. ]
+[(6)] (5) A financial institution shall perform a garnishment account review  only one time for a
+specific garnishment. If the same garnishment is served on a financial  institution more than once,
+the financial institution may not perform a  garnishment account review or take any other action
+relating to the garnishment based on the second and subsequent service of the garnishment.
+[(7)] (6) A  financial institution may not conduct a garnishment account review under this section
+if a Notice of Right  to Garnish Federal Benefits from the United States Government or from a state
+child support enforcement agency is attached to or included in the garnishment  as provided in 31
+C.F.R. part 212. If a Notice of Right to Garnish Federal Benefits is  attached to or included in the
+garnishment, the financial institution shall proceed on the garnishment as otherwise provided  in
+ORS 18.600 to 18.850.
+[(8)] (7) The provisions of this section do  not affect the ability of a debtor to claim any ex-
+emption that otherwise may be available to the debtor under law for any amounts in an account in
+a financial institution.
+SECTION 5.
+(1) The amendments to  ORS 18.784 by section 4 of this 2020 special session
+Act become operative 90 days  after the date on which the declaration of a state of emergency
+issued by the Governor on March 8, 2020,  and any extension of the declaration, is no longer
+in effect.
+(2) The amendments to ORS 18.784 by section 3 of this 2020 special session Act apply  to
+garnishments issued before the operative date specified in subsection (1) of this section.
+JUDICIAL PROCEEDING EXTENSIONS
+AND ELECTRONIC APPEARANCES
+[5]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 6.
+(1)(a) Notwithstanding any other statute or rule to the  contrary, during the
+time in  which any declaration of a state of emergency issued by the Governor related to
+COVID-19, and any extension  of the declaration, is in effect, and continuing for 60 days after
+the declaration and any extension is no longer in effect, and upon a finding of good cause,
+the Chief Justice of the Supreme Court may extend or suspend any time period or time re-
+quirement established by statute or rule that:
+(A) Applies in any case, action or proceeding after the case, action or proceeding is  ini-
+tiated in any circuit court, the  Oregon Tax Court, the Court of Appeals or the Supreme
+Court;
+(B) Applies to the initiation of an appeal to the magistrate division of  the Oregon Tax
+Court or an appeal from the magistrate division to the regular division;
+(C) Applies to the initiation of an appeal or judicial  review proceeding in the Court of
+Appeals; or
+(D) Applies to the initiation of any type of case or proceeding in the Supreme Court.
+(b) The Chief Justice may extend or suspend a time period  or time requirement under
+this subsection notwithstanding the fact that the date of the time period or time requirement
+has already passed as of the effective date of this 2020 special session Act.
+(2)(a) Notwithstanding ORS 133.060 (1), during the time  in which any declaration of a
+state of emergency issued by the Governor related to COVID-19,  and any extension of the
+declaration, is in effect, and continuing for 90 days  after the declaration and any extension
+is no longer in effect, the date specified  in a criminal citation on which a person served with
+the citation shall appear may be more than 30 days after the date the citation was issued.
+(b) During the time in which any declaration of a state of emergency issued by the Gov-
+ernor related to COVID-19, and any extension of the declaration, is in  effect, and continuing
+for 60 days after the declaration  and any extension is no longer in effect, the presiding judge
+of a  circuit court may, upon the motion of a party or the court’s own motion, and upon a
+finding of  good cause, postpone the date of appearance described in paragraph (a) of this
+subsection for all proceedings within the jurisdiction of the court.
+(3)(a) Notwithstanding ORS 136.290 and 136.295, and subject to paragraph  (b) of this sub-
+section, during the time in which any declaration of a state of emergency issued by  the
+Governor related to COVID-19, and any extension  of the declaration, is in effect, and con-
+tinuing for 60 days after the declaration and any  extension is no longer in effect, the pre-
+siding judge of a circuit court may, upon the motion of a party or its own motion, and upon
+a finding of good cause, order an extension of custody and postponement of the date of  the
+trial beyond the time limits described in ORS 136.290 and 136.295.
+(b) Notwithstanding paragraph (a) of this subsection, for a defendant to  whom ORS
+136.290 and 136.295 applies, the presiding  judge may not extend custody and postpone the
+defendant’s trial date if, as a result, the defendant will be held in custody before trial  for
+more than a total of 180 days, unless the court holds a hearing and proceeds as follows:
+(A) If the defendant is charged with a violent felony, the court  may deny release upon
+making the findings described in ORS 135.240 (4), notwithstanding the  fact that a court did
+not previously make such findings;
+(B) If the defendant is charged with a violent felony but the court does not deny  release
+under ORS 135.240 (4), the court may set a trial date that results in the defendant being held
+in custody before trial for more than a total of 180 days if the court:
+[6]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(i) Determines the extension of custody is  based upon good cause due to circumstances
+caused by the COVID-19 pandemic, public health measures resulting from the COVID-19
+pandemic or a situation described in ORS 136.295 (4)(b) caused by or related to  COVID-19;
+and
+(ii) Finds, by clear and convincing evidence, that there is an articulable risk of  physical
+injury or sexual victimization to the victim or members  of the public by the defendant if the
+defendant is released; or
+(C) If the defendant  is charged with a crime other than a violent felony, the court may
+set a trial  date that results in the defendant being held in custody before trial for more than
+a total of 180 days if the court:
+(i) Determines the extension of custody is based  upon good cause due to circumstances
+caused by the COVID-19 pandemic, public health measures resulting from the COVID-19
+pandemic or  a situation described in ORS 136.295 (4)(b) caused by or related to COVID-19;
+and
+(ii) Finds, by clear and convincing evidence, that  there is a substantial and specific dan-
+ger of physical injury or sexual  victimization to the victim or members of the public by the
+defendant if the defendant is released, and that no release condition,  or combination of re-
+lease conditions, is available that would sufficiently mitigate the danger.
+(c) The result of a hearing  held pursuant this subsection does not affect the ability of a
+party to request a modification of the release decision under ORS 135.285.
+(d) This subsection does not authorize a defendant to be held in custody  before trial for
+a period longer than the maximum term of imprisonment the defendant could receive as a
+sentence under ORS 161.605 and 161.615.
+(e) If the court proceeds under paragraph (b)(B) of this subsection, the defendant  shall
+continue to be eligible for security release and the court may maintain, lower or raise  the
+security amount at the hearing.
+(f) As used in this subsection:
+(A) “Good cause” means  situations described in ORS 136.295 (4)(b), circumstances caused
+by the COVID-19 pandemic or public health measures resulting from the COVID-19 pandemic.
+(B) “Release decision” has the meaning given that term in ORS 135.230.
+(C) “Violent felony” has the meaning given that term in ORS 135.240.
+(4)(a) Notwithstanding any other statute or rule to the contrary,  during the time in
+which any declaration of a state of  emergency issued by the Governor related to COVID-19,
+and any extension of the declaration, is in effect, and  continuing for 90 days after the dec-
+laration and any extension is no longer in effect, the Chief Justice may direct  or permit any
+appearance before a court or magistrate to be by telephone, other  two-way electronic com-
+munication device or simultaneous electronic transmission.
+(b) If an appearance is set to occur by electronic means as described in paragraph (a) of
+this subsection, a  presiding judge may instead order that the appearance be in person if,
+upon the request of a party, the presiding  judge determines that there is a particular need
+for an in-person hearing or that a party has a constitutional right to an in-person hearing.
+(5) The Chief Justice may delegate the exercise of any of the powers described in this
+section to the presiding judge of a court.
+(6) Nothing in this section  affects the rights of a defendant under the Oregon and United
+States Constitutions.
+[7]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 7.
+(1) If the expiration of the time to commence an action or give notice  of a
+claim falls within the  time in which any declaration of a state of emergency issued by the
+Governor related to  COVID-19, and any extension of the declaration, is in effect, or within
+90 days after the declaration and  any extension is no longer in effect, the expiration of the
+time to commence the action or give notice of the  claim is extended to a date 90 days after
+the declaration and any extension is no longer in effect.
+(2) Subsection (1) of this section applies to:
+(a) Time periods for commencing an action established in ORS chapter 12;
+(b) The time period for commencing an action  for wrongful death established in ORS
+30.020;
+(c) The time period for commencing an action or giving a notice of claim  under ORS
+30.275; and
+(d) Any other time limitation for the commencement of  a civil cause of action or the
+giving of notice of a civil claim established by statute.
+(3) Subsection (1) of this section does not apply to:
+(a) Time limitations for the commencement of criminal actions;
+(b) The initiation of an appeal  to the magistrate division of the Oregon Tax Court or an
+appeal from the magistrate division to the regular division;
+(c) The initiation of an appeal or judicial review proceeding in the Court of Appeals; or
+(d) The initiation of any type of case or proceeding in the Supreme Court.
+SECTION 8.
+(1) Sections 6 and 7 of this 2020 special session Act are repealed on December
+31, 2021.
+(2) The repeal of section 6 of this  2020 special session Act by subsection (1) of this section
+does not affect the release status of a defendant determined  under section 6 (3) of this 2020
+special session Act.
+EMERGENCY SHELTER
+SECTION 9. ORS 446.265 and sections 10 and 11 of this 2020 special session Act are added
+to and made a part of ORS chapter 197.
+SECTION 10. (1) As used in this section  and section 11 of this 2020 special session Act,
+“emergency shelter” means a building that provides  shelter on a temporary basis for indi-
+viduals and families who lack permanent housing.
+(2) A building used as an emergency shelter  under an approval granted under section 11
+of this 2020 special session Act:
+(a) May resume its  use as an emergency shelter after an interruption or abandonment
+of that use for two years or less, notwithstanding ORS 215.130 (7).
+(b) May not be used for any purpose other than as an emergency  shelter except upon
+application for a permit demonstrating that the construction of the building and its use could
+be approved under current land use laws and local land use regulations.
+SECTION 11. (1) A local government shall approve an application for  the development or
+use of land for an emergency shelter on any property, notwithstanding ORS chapter 195, 197,
+215 or 227 or ORS 197A.300 to 197A.325,  197A.405 to 197A.409 or 197A.500 to 197A.521 or any
+statewide land use planning  goal, rule of the Land Conservation and Development Commis-
+sion, local  land use regulation, zoning ordinance, regional framework plan, functional plan
+[8]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or comprehensive plan, if the emergency shelter:
+(a) Includes sleeping and restroom facilities for clients;
+(b) Will comply with applicable building codes;
+(c) Is located inside  an urban growth boundary or in an area zoned for rural residential
+use as defined in ORS 215.501;
+(d) Will not result in the development of a new building that is sited within an area des-
+ignated under a statewide land use planning goal relating  to natural disasters and hazards,
+including floodplains or mapped environmental health hazards, unless  the development com-
+plies with regulations directly related to the hazard;
+(e) Has adequate transportation access to commercial and medical services; and
+(f) Will not pose any unreasonable risk to public health or safety.
+(2) An emergency shelter allowed under this section must be operated by:
+(a) A local government as defined in ORS 174.116;
+(b) An organization with at least two years’  experience operating an emergency shelter
+using best practices that is:
+(A) A local housing authority as defined in ORS 456.375;
+(B) A religious corporation as defined in ORS 65.001; or
+(C) A public benefit corporation,  as defined in ORS 65.001, whose charitable purpose in-
+cludes the support of homeless individuals and  that has been recognized as exempt from in-
+come tax under section 501(a) of the Internal Revenue Code on or before January  1, 2017; or
+(c) A nonprofit corporation partnering with any other entity described in  this subsection.
+(3) An emergency shelter approved under this section:
+(a) May provide on-site for its clients and at no cost to the clients:
+(A) Showering or bathing;
+(B) Storage for personal property;
+(C) Laundry facilities;
+(D) Service of food prepared on-site or off-site;
+(E) Recreation areas for children and pets;
+(F) Case management services  for housing, financial, vocational, educational or physical
+or behavioral health care services; or
+(G) Any other services incidental to shelter.
+(b) May include youth shelters, winter or warming shelters, day  shelters and family vi-
+olence shelter homes as defined in ORS 409.290.
+(4) The approval of an emergency  shelter under this section is not a land use decision
+and is subject to review only under ORS 34.010 to 34.100.
+SECTION 12.
+Sections 10 and 11 of this 2020  special session Act are repealed 90 days after
+the effective date of this 2020 special session Act.
+SECTION 13. (1) Notwithstanding ORS 203.082 (2), a political subdivision may allow any
+person to offer any number of overnight camping spaces on  the person’s property to
+homeless individuals who are living in vehicles,  without regard to whether the motor vehicle
+was designed for use as temporary living quarters. A religious institution  offering camping
+space under this section shall  also provide campers with access to sanitary facilities, in-
+cluding toilet, handwashing and trash disposal facilities.
+(2) A local government may regulate vehicle camping spaces under this  section as tran-
+sitional housing accommodations under ORS 446.265.
+[9]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 14.
+Section 13 of this 2020 special session Act is repealed 90 days after the ef-
+fective date of this 2020 special session Act.
+SECTION 15. Section 16 of this 2020 special session Act is added  to and made a part of
+ORS 458.600 to 458.665.
+SECTION 16. (1) As used in this section:
+(a) “Low-barrier emergency shelter” means an  emergency shelter, as defined in section
+10 of this 2020 special session Act,  that follows established best practices to deliver shelter
+services that minimize barriers and increase access to individuals and  families experiencing
+homelessness.
+(b) “Navigation center” means a  low-barrier emergency shelter that is open seven days
+per week and connects individuals and families with health services, permanent housing  and
+public benefits.
+(2) The Oregon Department of Administrative Services shall award grants to local  gov-
+ernments to:
+(a) Plan the location, development or operations of a navigation center;
+(b) Construct, purchase or lease a building for use as a navigation center;
+(c) Operate a navigation  center that has been constructed, purchased or leased under
+paragraph (b) of this subsection; or
+(d) Contract for the performance of activities described in this subsection.
+SECTION 17.
+Section 16 of this 2020 special session Act is repealed on January 2, 2022.
+LOW INCOME UTILITY BILL ASSISTANCE
+SECTION 18. (1) The Low-Income Utility Payment Fund is established in  the State
+Treasury, separate  and distinct from the General Fund. The Low-Income Utility Payment
+Fund shall consist of all moneys credited  to the fund, including but not limited to moneys
+received from the federal government  for the purpose of providing low-income energy bill
+payment assistance. Interest earned by the Low-Income Utility Payment Fund shall  be
+credited to the fund. The moneys in the fund are continuously  appropriated to the Housing
+and Community  Services Department for the purpose of funding low-income energy bill pay-
+ment assistance.
+(2) The department shall distribute the moneys deposited in the fund to persons that, as
+of the effective date of this 2020 special session  Act, have a contract with the department
+to serve as subgrantees to provide eligible program services under the federal  Low-Income
+Home Energy Assistance Act of 1981,  as amended. The department shall allocate the moneys
+to the  subgrantees through the formula established by the department for distribution of
+moneys to subgrantees under the federal Low-Income Home Energy  Assistance Act of 1981,
+as amended.
+(3) Subgrantees that  receive moneys distributed by the department from the fund shall
+use the moneys to provide low-income  households with energy bill payment assistance, with
+priority given to low-income households affected by the coronavirus disease  2019 (COVID-19)
+pandemic through impacts that include but are not limited  to reduced work hours, medical
+conditions, loss of work or dependents in the home.  A subgrantee may determine standards
+for low-income households to be eligible for assistance.  Eligibility may, but need not, be
+based on categorical eligibility.
+[10]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4) Subgrantees shall report to the  department on the use of moneys distributed from the
+fund in a manner prescribed by the department.
+NOTARIAL ACTS
+SECTION 19.
+Section 20 of this 2020 special session Act is added  to and made a part of
+ORS chapter 194.
+SECTION 20. (1) As used in this section:
+(a) “Communication technology” means an electronic device or process that:
+(A) Allows a notary public and  a remotely located individual to communicate with each
+other simultaneously by sight and sound; and
+(B) When necessary and consistent with other applicable law, facilitates  communication
+with a remotely located individual who has a visual, hearing or speech impairment.
+(b) “Foreign state” means a  jurisdiction other than the United States, a state or a
+federally recognized Indian tribe.
+(c) “Identity proofing” means a process or  service by which a third person provides a
+notary public with a means to verify the identity of a remotely located individual by a  review
+of personal information from public or private data sources.
+(d) “Outside  the United States” means a location outside the geographic boundaries of
+the United States, Puerto Rico, the United States Virgin Islands and any territory,  insular
+possession or other location subject to the jurisdiction of the United States.
+(e) “Remotely located individual” means an individual who is not in the physical  presence
+of the notary public who performs a notarial act under subsection (3) of this section.
+(2) A remotely located individual may comply with ORS 194.235 by using communication
+technology to appear before a notary public.
+(3) A notary public located in this state may perform a notarial act using  communication
+technology for a remotely located individual if:
+(a) The notary public:
+(A) Has personal knowledge under ORS 194.240 (1)  of the identity of the remotely located
+individual;
+(B) Has satisfactory evidence of the identity  of the remotely located individual by a ver-
+ification on  oath or affirmation from a credible witness appearing before and identified by
+the notary public as a remotely  located individual under this section or in the physical
+presence of the notary public under ORS 194.240 (2); or
+(C) Has obtained satisfactory evidence of the  identity of the remotely located individual
+by using at least two different types of identity proofing;
+(b) The notary public is reasonably able to confirm that a record before  the notary public
+is the same record in which the remotely located  individual made a statement or on which
+the individual executed a signature;
+(c) The notary public, or a  person acting on behalf of the notary public, creates an au-
+diovisual recording of the performance of the notarial act; and
+(d) For a remotely located individual who is located outside the United States:
+(A) The record:
+(i) Is to be filed  with or relates to a matter before a public official or court, governmental
+entity or other entity subject to the jurisdiction of the United States; or
+[11]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(ii) Involves property located in the territorial jurisdiction of the United States  or in-
+volves a transaction substantially connected with the United States; and
+(B) The act of making the statement or signing the record is not prohibited by  the for-
+eign state in which the remotely located individual is located.
+(4) If  a notarial act is performed under this section, the certificate of notarial act re-
+quired by ORS 194.280 and the short form certificate provided in ORS  194.285 must indicate
+that the notarial act was performed using communication technology.
+(5) A short form certificate provided in ORS 194.285 for a notarial act subject to  this
+section is sufficient if it:
+(a) Complies with rules adopted under subsection (8)(a) of this section; or
+(b) Is in the form provided in ORS 194.285 and contains a statement  substantially as fol-
+lows: “This notarial act involved the use of communication technology.”
+(6) A notary  public, a guardian, conservator, trustee or agent of a notary public, or a
+personal representative of a deceased notary public shall retain  the audiovisual recording
+created under subsection (3)(c) of this section or cause the  recording to be retained by a
+repository designated by or on behalf of  the person required to retain the recording. Unless
+a different period is required by rule adopted under subsection  (8)(d) of this section, the re-
+cording must be maintained for a period of at least 10 years after the recording is made.
+(7) Before a notary public performs the notary  public’s initial notarial act under this
+section, the notary  public shall notify the Secretary of State that the notary public will be
+performing notarial acts with respect to remotely  located individuals and identify the tech-
+nologies the notary  public intends to use. If the Secretary of State has established standards
+under subsection (8) of this section or ORS  194.360 for approval of communication technology
+or identity proofing, the communication technology and identity proofing used  by the notary
+public must conform to those standards.
+(8) In addition to adopting rules under ORS 194.360,  the Secretary of State may adopt
+rules under this section regarding the performance of a notarial act. The rules may:
+(a) Prescribe the means of  performing a notarial act involving a remotely located indi-
+vidual using communication technology;
+(b) Establish standards for communication technology and identity proofing;
+(c) Establish requirements or procedures to approve providers of communication  tech-
+nology and the process of identity proofing; and
+(d) Establish standards and a period for the retention of an  audiovisual recording created
+under subsection (3)(c) of this section.
+(9) Before adopting, amending or repealing a rule governing the performance of a notarial
+act with respect to a remotely located individual, the Secretary of State shall consider:
+(a) The most recent standards regarding the performance of a notarial act  with respect
+to a remotely  located individual promulgated by national standard-setting organizations and
+the recommendations of the National Association of Secretaries of State;
+(b) Standards, practices and customs of other  jurisdictions that have laws substantially
+similar to this section; and
+(c) The views of governmental officials and entities and other interested persons.
+SECTION 21.
+ ORS 194.225 is amended to read:
+194.225. (1) A notarial officer may perform a notarial act authorized by this chapter or by law
+of this state other than this chapter.
+[12]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) A notarial officer may not perform a notarial act with respect to a record to which the  of-
+ficer or the officer’s spouse is a party, or in  which either the officer or the officer’s spouse has a
+direct beneficial interest. A notarial act performed in violation of this subsection is voidable.
+(3) A notarial  officer may certify that a tangible copy of an electronic record is an ac-
+curate copy of the electronic record.
+SECTION 22.
+ ORS 194.225, as amended by section  21 of this 2020 special session Act, is
+amended to read:
+194.225. (1) A notarial officer may perform a notarial act authorized by this chapter or by law
+of this state other than this chapter.
+(2) A notarial officer may not perform a notarial act with respect to a record to which the  of-
+ficer or the officer’s spouse is a party, or in  which either the officer or the officer’s spouse has a
+direct beneficial interest. A notarial act performed in violation of this subsection is voidable.
+[(3) A notarial officer may certify that a tangible copy  of an electronic record is an accurate copy
+of the electronic record. ]
+SECTION 23.  ORS 194.290 is amended to read:
+194.290. (1) The official stamp of a notary public must:
+[(1)] (a) Include the  notary public’s name, jurisdiction, commission expiration date and other
+information required by the Secretary of State by rule; and
+[(2)] (b) Be a legible imprint capable of being copied together with the record to which it is af-
+fixed or attached or with which it is logically associated.
+(2) The official stamp of a notary public is an official notarial  seal for all purposes under
+the laws of this state.
+SECTION 24.  ORS 194.290, as amended by section 23  of this 2020 special session Act, is
+amended to read:
+194.290. [(1)] The official stamp of a notary public must:
+[(a)] (1) Include the notary public’s name, jurisdiction, commission expiration date  and other
+information required by the Secretary of State by rule; and
+[(b)] (2) Be a legible imprint capable of being copied together with the record to which it  is af-
+fixed or attached or with which it is logically associated.
+[(2) The official stamp of a notary public is an  official notarial seal for all purposes under the laws
+of this state. ]
+SECTION 25.  ORS 194.305 is amended to read:
+194.305. (1) A notary public may select one or more  tamper-evident technologies to perform
+notarial acts with respect to electronic records. A person  may not require a notary public to per-
+form a notarial act with respect to an electronic record with a technology that the  notary public
+has not selected.
+(2) Before a notary public performs the notary public’s initial  notarial act with respect to an
+electronic record, a notary public shall notify the Secretary of  State that the notary public will be
+performing notarial acts with respect to  electronic records and identify the technology the notary
+public intends to use. If the  Secretary of State, by rule, has established standards pursuant to ORS
+194.360 for approval of technology, the technology must conform to  the standards. If the technology
+conforms to the standards, the Secretary of State shall approve the use of the technology.
+(3) A county clerk may accept for recording a tangible copy of an  electronic record con-
+taining a notarial certificate as satisfying any requirement that  a record accepted for re-
+cording be an original, if  the notarial officer executing the notarial certificate certifies that
+[13]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the tangible copy is an accurate copy of the electronic record.
+SECTION 26.
+ ORS 194.305, as amended by section  25 of this 2020 special session Act, is
+amended to read:
+194.305. (1) A notary public  may select one or more tamper-evident technologies to perform
+notarial acts with respect to electronic records. A person  may not require a notary public to per-
+form a notarial  act with respect to an electronic record with a technology that the notary public
+has not selected.
+(2) Before a notary public performs the  notary public’s initial notarial act with respect to an
+electronic record, a notary public shall notify the  Secretary of State that the notary public will be
+performing notarial acts with respect to electronic records and  identify the technology the notary
+public intends to use. If the Secretary of State, by rule, has  established standards pursuant to ORS
+194.360 for approval of technology, the technology must conform to  the standards. If the technology
+conforms to the standards, the Secretary of State shall approve the use of the technology.
+[(3) A county  clerk may accept for recording a tangible copy of an electronic record containing a
+notarial certificate as satisfying any requirement that  a record accepted for recording be an original,
+if the notarial officer executing the notarial certificate certifies that the  tangible copy is an accurate
+copy of the electronic record. ]
+SECTION 27. A tangible copy of an electronic record containing a notarial certificate that
+is accepted for  recording by a county clerk before the effective date of this 2020 special ses-
+sion Act satisfies any requirement that the record be an original, if the notarial officer exe-
+cuting the notarial certificate  certifies that the tangible copy is an accurate copy of the
+electronic record.
+SECTION 28.
+ ORS 93.810 is amended to read:
+93.810. The following are subjects of validating or curative Acts applicable to this chapter:
+(1) Evidentiary effect and recordation of conveyances before 1854.
+(2) Evidentiary effect and recordation of certified copies of deeds issued by the State Land Board
+before 1885 where the original deed was lost.
+(3) Defective acknowledgments of married women to conveyances before 1891.
+(4) Foreign instruments executed before 1903.
+(5) Deeds of married women before 1907, validity; executed under power of attorney and record
+as evidence.
+(6) Conveyances by reversioners and remainderpersons to life tenant.
+(7) Decrees or judgments affecting lands in more than one county.
+(8) Irregular deeds and conveyances; defective acknowledgments; irregularities in judicial sales;
+sales and  deeds of executors, personal representatives, administrators, conservators and guardians;
+vested rights arising by adverse title; recordation.
+(9) Defective acknowledgments.
+(10) Title to lands from or through aliens.
+(11) An instrument that is presented  for recording as an electronic image or by electronic means
+and that is recorded before June 16, 2011.
+(12) A  tangible copy of an electronic record containing a notarial certificate that is ac-
+cepted for recording by a county clerk before the effective  date of this 2020 special session
+Act.
+SECTION 29.
+ ORS 93.810, as amended by  section 28 of this 2020 special session Act, is amended
+to read:
+[14]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+93.810. The following are subjects of validating or curative Acts applicable to this chapter:
+(1) Evidentiary effect and recordation of conveyances before 1854.
+(2) Evidentiary effect and recordation of certified copies of deeds issued by the State Land Board
+before 1885 where the original deed was lost.
+(3) Defective acknowledgments of married women to conveyances before 1891.
+(4) Foreign instruments executed before 1903.
+(5) Deeds of married women before 1907, validity; executed under power of attorney and record
+as evidence.
+(6) Conveyances by reversioners and remainderpersons to life tenant.
+(7) Decrees or judgments affecting lands in more than one county.
+(8) Irregular deeds and conveyances; defective acknowledgments; irregularities in judicial sales;
+sales and deeds of executors, personal representatives, administrators, conservators and  guardians;
+vested rights arising by adverse title; recordation.
+(9) Defective acknowledgments.
+(10) Title to lands from or through aliens.
+(11) An instrument that is presented  for recording as an electronic image or by electronic means
+and that is recorded before June 16, 2011.
+[(12) A tangible copy of an electronic record containing a notarial certificate  that is accepted for
+recording by a county clerk before the effective date of this 2020 special session Act. ]
+SECTION 30.
+ ORS 194.400 is amended to read:
+194.400. (1) The  fee that a notary public may charge for performing a notarial act may not ex-
+ceed $10 per notarial act , except that a notary public may charge  a fee not to exceed $25 per
+notarial act for a notarial act performed under section 20 of this 2020 special session Act .
+(2) A notary public may charge an additional fee for traveling to perform a notarial act if:
+(a) The notary public explains to the person requesting the  notarial act that the fee is in addi-
+tion to a fee specified in subsection (1) of this section and is in an amount  not determined by law;
+and
+(b) The person requesting the notarial act agrees in advance upon the amount of  the additional
+fee.
+(3) If a notary public charges fees under this  section for performing notarial acts, the notary
+public shall display, in English, a list of the fees the notary public will charge.
+(4) A notary public who is employed by a private entity may  enter into an agreement with the
+entity under  which fees collected by the notary public under this section are collected by and accrue
+to the entity.
+(5) A public body  as defined in ORS 174.109 may collect the fees described in this section for
+notarial acts performed in the course  of employment by notaries public who are employed by the
+public body.
+SECTION 31.
+ ORS 194.400, as amended by section 30  of this 2020 special session Act, is
+amended to read:
+194.400. (1) The fee that a notary public may charge for performing a notarial act may  not ex-
+ceed $10 per notarial act[ , except that  a notary public may charge a fee not to exceed $25 per notarial
+act for a notarial act performed under section 20 of this 2020 special session Act ].
+(2) A notary public may charge an additional fee for traveling to perform a notarial act if:
+(a) The notary public explains to the person requesting the  notarial act that the fee is in addi-
+tion to a fee specified in subsection (1) of this section and is in an amount  not determined by law;
+[15]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+and
+(b) The person requesting the notarial act agrees in advance upon the amount of  the additional
+fee.
+(3) If a notary public charges fees under this  section for performing notarial acts, the notary
+public shall display, in English, a list of the fees the notary public will charge.
+(4) A notary public who is employed by a private entity may  enter into an agreement with the
+entity under  which fees collected by the notary public under this section are collected by and accrue
+to the entity.
+(5) A public body  as defined in ORS 174.109 may collect the fees described in this section for
+notarial acts performed in the course  of employment by notaries public who are employed by the
+public body.
+SECTION 32.
+(1) Sections  19, 20 and 27 of this 2020 special session Act are repealed on
+June 30, 2021.
+(2) The amendments to ORS  93.810, 194.225, 194.290, 194.305 and 194.400 by sections 22, 24,
+26, 29 and 31 of this 2020 special session Act become operative on June 30, 2021.
+ISOLATION SHELTER LIABILITY LIMITS
+SECTION 33. (1) As used in this section:
+(a) “Covered condition” means an occupational  disease, as defined in ORS 656.802, that
+for the purposes of this section includes infection  by severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) or diagnosis with coronavirus disease 2019 (COVID-19).
+(b) “Isolation shelter” means a privately owned and  operated hotel, motel or other lodg-
+ing for transient occupancy that has entered into a sheltering agreement.
+(c) “Public entity” means  the state government, as defined in ORS 174.111, an agency or
+instrumentality of the state government, a local government, as  defined in ORS 174.116, an
+agency or instrumentality of a local government,  or a public official acting in an official ca-
+pacity.
+(d) “Sheltering agreement” means an  agreement between a public entity and the owner,
+officer, operator or agent of an isolation shelter under which the owner,  officer, operator or
+agent agrees to:
+(A) House and provide goods and services to individuals who choose to or are obeying a
+directive to remain isolated because of exposure  to or infection by SARS-CoV-2 or who are
+recovering from COVID-19; and
+(B) Adhere to federal and state public health guidance with respect to cleaning and dis-
+infecting areas of public accommodation  for the purpose of reducing exposure to and trans-
+mission of SARS-CoV-2.
+(2) Except as provided in subsection (3) of this section:
+(a) An owner, officer, operator, employee or agent of an isolation shelter is immune  in
+any action or proceeding from civil liability that is predicated upon a claim  of illness, injury
+or death from COVID-19 or exposure to or infection by SARS-CoV-2.
+(b) An  owner, officer, operator or agent of an isolation shelter is immune in any action
+or proceeding by an employee of  the isolation shelter from civil liability that is predicated
+upon a claim  of illness, injury or death from COVID-19 or exposure to or infection by
+SARS-CoV-2.
+[16]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) A public entity is immune in any  action or proceeding from civil liability that is
+predicated upon a claim of illness, injury or death from COVID-19  or exposure to or infection
+by SARS-CoV-2 as a direct or foreseeable result of the public entity’s entering into  a shel-
+tering agreement with an owner, officer, operator or agent of an isolation shelter.
+(3)(a) Subsection (2) of this section does not  apply to an owner, officer, operator, em-
+ployee or agent of an isolation shelter that engages in conduct that  results in another
+person’s illness, injury, death or other loss and that:
+(A) Constitutes gross negligence, malice or fraud;
+(B) Is willful, intentional or reckless;
+(C) Is criminal; or
+(D) Is unrelated to a claim for illness, injury or  death from COVID-19 or exposure to or
+infection by SARS-CoV-2.
+(b) An employee of an isolation shelter  may bring a claim under ORS 656.802 for a cov-
+ered condition that arises out of or occurs in the course of employment by, at or in the
+isolation shelter. The procedures, presumptions, evidence and other requirements  set forth
+for occupational disease claims in ORS  656.802, 656.804 and 656.807 apply to any claim an
+employee makes under this paragraph.
+ENTERPRISE ZONE TERMINATION EXTENSIONS
+SECTION 34.
+Section 35 of this 2020 special session Act is added  to and made a part of
+ORS 285C.050 to 285C.250.
+SECTION 35. (1) Notwithstanding ORS 285C.245 (2):
+(a) An enterprise zone that would otherwise  terminate on June 30, 2020, shall terminate
+on December 31, 2020.
+(b) If this section takes effect after June  30, 2020, the sponsor of an enterprise zone that
+terminated on June 30, 2020, may  rescind the termination and the enterprise zone shall ter-
+minate on December 31, 2020.
+(2) Notwithstanding ORS 285C.250 (1)(a), the sponsor of an enterprise zone described  in
+subsection (1) of this section may redesignate  the enterprise zone under ORS 285C.250 on any
+date before January 1, 2021. The redesignation may not take effect before December 31, 2020.
+(3) All other  deadlines that relate to the termination date and redesignation of an en-
+terprise zone described in subsection (1) of this section shall be interpreted as relating  to
+December 31, 2020.
+INDIVIDUAL DEVELOPMENT ACCOUNT
+MODIFICATIONS
+SECTION 36.  ORS 458.685 is amended to read:
+458.685. (1) A person may establish an  individual development account only for a purpose ap-
+proved by a fiduciary organization. Purposes that the fiduciary organization may approve are:
+(a) The acquisition of post-secondary education or job training.
+(b) If the account holder has established the account for the benefit of a household member who
+is under the age of 18 years,  the payment of extracurricular nontuition expenses designed to prepare
+the member for post-secondary education or job training.
+[17]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) If the account holder has established a savings network account for  higher education under
+ORS 178.300 to 178.360  on behalf of a designated beneficiary, the funding of qualified higher educa-
+tion expenses as defined in ORS 178.300 by one or more deposits into a savings network account for
+higher education on behalf of the same designated beneficiary.
+(d) The  purchase of a primary residence. In addition to payment on the purchase price of the
+residence, account moneys may be used to pay any usual or reasonable settlement, financing  or
+other closing costs. The account holder must not have owned or held  any interest in a residence
+during the three years prior to making the  purchase. However, this three-year period shall not apply
+to displaced homemakers,  individuals who have lost home ownership as a result of divorce or owners
+of manufactured homes.
+(e) The rental of a primary residence when housing stability is essential to  achieve state policy
+goals. Account moneys  may be used for security deposits, first and last months’ rent, application fees
+and other expenses necessary to  move into the primary residence, as specified in the account
+holder’s personal development plan for increasing the independence of the person.
+(f) The capitalization of a small business.  Account moneys may be used for capital, plant,
+equipment and inventory expenses and to hire employees upon capitalization of the  small business,
+or for working capital pursuant to a business plan. The business plan must have been developed  by
+a financial institution, nonprofit microenterprise program  or other qualified agent demonstrating
+business expertise and have been approved by the fiduciary  organization. The business plan must
+include a description of the services or goods to be sold, a marketing plan  and projected financial
+statements.
+(g) Improvements, repairs or modifications necessary to make or keep  the account holder’s pri-
+mary dwelling habitable, accessible or visitable  for the account holder or a household member. This
+paragraph does not apply to improvements, repairs or modifications made  to a rented primary
+dwelling to achieve or maintain a habitable  condition for which ORS 90.320 (1) places responsibility
+on the landlord. As used in this paragraph, “accessible”  and “visitable” have the meanings given
+those terms in ORS 456.508.
+(h) The purchase of equipment, technology or specialized training required to  become compet-
+itive in obtaining or  maintaining employment or to start or maintain a business, as specified in the
+account holder’s personal development plan for increasing the independence of the person.
+(i) The purchase or  repair of a vehicle, as specified in the account holder’s personal development
+plan for increasing the independence of the person.
+(j) The saving of funds for  retirement, as specified in the account holder’s personal development
+plan for increasing the independence of the person.
+(k) The payment of debts owed for educational or medical purposes when the  account holder is
+saving for another allowable purpose, as specified in  the account holder’s personal development plan
+for increasing the independence of the person.
+(L) The creation or improvement of a  credit score by obtaining a secured loan or a financial
+product that is designed to improve credit,  as specified in the account holder’s personal development
+plan for increasing the independence of the person.
+(m) The replacement of a  primary residence when replacement offers significant opportunity to
+improve habitability or energy efficiency.
+(n) The establishment of savings for  emergency expenses to promote financial stability
+and to protect existing assets. As used in this paragraph, “emergency expenses”  includes
+expenses for extraordinary  medical costs, during periods of unanticipated unemployment or
+[18]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+other unexpected and substantial  personal expenses that would significantly impact the ac-
+count holder’s noncash assets, health, housing or standard of living if not promptly ad-
+dressed.
+(2)(a) [ If an emergency occurs, ] An account holder may withdraw all or  part of the account
+holder’s deposits to an individual development account for [ a purpose not described in subsection (1)
+of this section. As used  in this paragraph, “emergency” includes making payments for necessary med-
+ical expenses, to avoid eviction of the account holder from the account  holder’s residence and for nec-
+essary living expenses following a loss of employment. ] emergency expenses as defined in
+subsection (1)(n) of this section, without regard to whether the account  was established for
+emergency savings.
+(b) The account holder must  reimburse [ the account ] an account established for a purpose
+listed under  subsection (1)(a) to (m) of this section  for the amount withdrawn under this sub-
+section [ within 12 months after the date of the withdrawal. Failure of an account holder to make a
+timely reimbursement to the  account is grounds for removing the account holder from the individual
+development account program ]. Until the reimbursement has been made in full,  an account holder
+may not withdraw any matching deposits or accrued interest on matching deposits from the account
+except under this subsection .
+(3) If an account holder withdraws moneys from an individual development account  for other
+than an approved purpose, the fiduciary organization may remove the  account holder from the pro-
+gram.
+(4)(a) If the account  holder of an account established for the purpose set forth in subsection
+(1)(c) or (j) of this section has achieved the account’s approved purpose in  accordance with the
+personal development plan developed by the  account holder under ORS 458.680, the account holder
+may withdraw, or  authorize the withdrawal of, the remaining amount of all deposits, including
+matching deposits, and interest in the account as follows:
+(A) For an account established for the purpose set forth in subsection (1)(c) of this section, by
+rolling over the entire withdrawal amount, not to exceed the limit established  pursuant to ORS
+178.335, into one or more of the savings network accounts  for higher education under ORS 178.300
+to 178.360, the establishment of which is the purpose of the individual development account; or
+(B) For an account established for the purpose set  forth in subsection (1)(j) of this section, by
+rolling over the entire withdrawal amount into  an individual retirement account, a retirement plan
+or a similar account or plan established under the Internal Revenue Code.
+(b) Upon withdrawal of all moneys in the individual  development account as provided in para-
+graph (a) of this subsection, the account relationship shall terminate.
+(c) The rollover  of moneys into a savings network account for higher education under this sub-
+section may not cause the  amount in the savings network account for higher education to exceed
+the limit on total contributions established pursuant to ORS 178.335.
+(d) Any amount of the rollover that has been subtracted on the taxpayer’s  federal return pur-
+suant to section 219 of the Internal Revenue Code shall be added back in  the determination of tax-
+able income.
+(5) If an account holder moves from the area where the  program is conducted or is otherwise
+unable to continue in the program, the fiduciary  organization may remove the account holder from
+the program.
+(6) If an account holder  is removed from the program under subsection [ (2),] (3) or (5) of this
+section, all matching deposits in the account and  all interest earned on matching deposits shall re-
+[19]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+vert to  the fiduciary organization. The fiduciary organization shall use the reverted funds as a
+source of matching deposits for other accounts.
+OREGON OSHA
+INFECTIOUS DISEASE STANDARDS
+SECTION 37.
+Sections 38 and 39 of this 2020 special session  Act are added to and made
+a part of ORS chapter 654.
+SECTION 38. (1) As used in this section and section 39 of this 2020 special session Act:
+(a) “Administrative controls” means managerial measures taken  by an employer, in-
+cluding but not limited to changes in workplace  policies or standard operating procedures,
+to reduce the risk of occupational exposure.
+(b) “Agricultural worker” has the meaning given that term in ORS 315.163.
+(c) “Clinical laboratory” has the meaning given that term in ORS 438.010.
+(d) “Emergency medical  services provider” has the meaning given that term in ORS
+682.025.
+(e) “Engineering controls” means protective control measures, including  but not limited
+to the installation of physical barriers or  high-efficiency ventilation systems, to reduce, iso-
+late or remove the risk of occupational exposure.
+(f) “Food processor” has the meaning given that term in ORS 307.455.
+(g) “Grocery store or food market” has the meaning given that term in ORS 616.850.
+(h) “Health care facility” has the meaning given that term in ORS 442.015.
+(i) “Health care worker” means a person who is licensed  or certified to provide health
+care under ORS chapter  677, 678, 679, 680, 684 or 685 or an employee of a health care facility,
+of a licensed health care provider or of a clinical laboratory.
+(j) “Occupational exposure” means  the reasonably anticipated exposure to agents of
+transmissible infectious diseases resulting from a worker’s performance of job duties.
+(k) “Personal protective equipment” means specialized clothing, equipment  or products
+designed to create a barrier to penetration of substances or solid, liquid or airborne particles,
+or to minimize exposure to hazards that may cause serious illness, including  but not limited
+to:
+(A) Surgical face masks;
+(B) Disposable gloves; or
+(C) Eye protection, including goggles or face shields.
+(2) No later than August 1, 2020, the Director of the Department of Consumer and  Busi-
+ness Services shall  adopt temporary rules establishing an emergency temporary infectious
+disease standard to address the immediate health risks posed by occupational  exposure and
+impose control measures designed to protect workers against such exposure.
+(3) Temporary  rules adopted under this section shall be adopted in accordance with ORS
+183.335 (5) and shall be effective until the director adopts rules pursuant to section 39 of this
+2020 special session Act.
+(4) At a minimum, the emergency temporary infectious  disease standard established un-
+der this section must:
+(a) Categorize workers who may be susceptible to elevated levels  of risk of occupational
+exposure while working, including but not limited to:
+[20]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Health care workers;
+(B) Emergency medical service providers;
+(C) Grocery store or food market personnel;
+(D) Clinical laboratory personnel;
+(E) Food processors;
+(F) Agricultural workers; or
+(G) Public transit operators.
+(b) Establish requirements for the selection,  use, cleaning and disposal of personal pro-
+tective equipment based on  the level of risk of occupational exposure in a specific workspace
+and the availability of equipment.
+(c) Incorporate a framework for  implementing the following control measures to mitigate
+or eliminate the risk of occupational exposure, prioritized in the following order:
+(A) Engineering controls;
+(B) Administrative controls;
+(C) Safe work practices; and
+(D) Personal protective equipment.
+(d) Establish a risk-based model to help employers  assess the level of risk of occupational
+exposure in a particular workplace setting, identify sources of potential exposure and  adopt
+specific measures to address the exposure risks identified in that setting.
+SECTION 39.
+(1) The Director of  the Department of Consumer and Business Services
+shall, no later than July 31,  2021, adopt by rule a permanent infectious disease standard to
+address occupational exposure and to impose  required protective measures to protect work-
+ers against the risks of such exposure.
+(2) The permanent infectious disease standard  adopted under this section may be based
+in part on the emergency temporary infectious disease standard described in  section 38 of
+this 2020 special session Act.
+RACE AND ETHNICITY DATA COLLECTION
+AND REPORTING DURING COVID-19 PANDEMIC
+SECTION 40. (1) As used in this section:
+(a) “COVID-19” means a disease caused  by the severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2).
+(b) “Encounter” means an  interaction between a patient, or the patient’s legal repre-
+sentative, and a health care provider, whether that interaction is in person or  through tele-
+health, including messaging through  an online platform, for the purpose of the provision of
+health care services related to COVID-19, including but not limited to  ordering a COVID-19
+test.
+(c) “Health care provider” means any of the following:
+(A) An individual licensed by any of the following health professional regulatory boards:
+(i) State Board of Examiners for Speech-Language Pathology and Audiology;
+(ii) State Board of Chiropractic Examiners;
+(iii) State Board of Licensed Social Workers;
+(iv) Oregon Board of Licensed Professional Counselors and Therapists;
+(v) Oregon Board of Dentistry;
+[21]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(vi) State Board of Massage Therapists;
+(vii) Oregon Board of Naturopathic Medicine;
+(viii) Oregon State Board of Nursing;
+(ix) Oregon Board of Optometry;
+(x) State Board of Pharmacy;
+(xi) Oregon Medical Board;
+(xii) Occupational Therapy Licensing Board;
+(xiii) Oregon Board of Physical Therapy;
+(xiv) Oregon Board of Psychology; and
+(xv) Board of Medical Imaging.
+(B) The Oregon Health Authority, to the extent that the  authority licenses emergency
+medical services providers.
+(C) A clinical laboratory licensed under ORS 438.110.
+(D) A health care facility as defined in ORS 442.015.
+(2) A health care provider must:
+(a) During an encounter, collect data on race,  ethnicity, preferred spoken and written
+languages, English proficiency, interpreter needs and disability status  pursuant to the stan-
+dards adopted by the authority under ORS 413.161.
+(b) Report data collected under paragraph (a) of this subsection to:
+(A) A laboratory if ordering a COVID-19 test; and
+(B) The authority and the Department of Human Services if the reporting is  otherwise
+required by law.
+(3) The authority shall adopt rules that include but are not limited to:
+(a) Establishing  the deadline by which a health care provider must begin collecting the
+data required under subsection (2) of this section, that is no later than August 1, 2020;
+(b) Providing guidance on the frequency of reporting for COVID-19  reporting required
+under ORS 433.004 and rules  adopted thereunder, that is applicable to reporting occurring
+on or after August 1, 2020, and that may apply to other reporting periods; and
+(c) Establishing the manner of reporting.
+(5) The authority or department may provide incentives to  health care providers to help
+defer the costs of making changes to electronic health records or similar systems.
+(6) This section may be enforced by any means permitted under the law by:
+(a) A health professional regulatory  board with jurisdiction over the health care provider.
+(b) The authority  or the department with regard to health care facilities under each
+agency’s respective jurisdiction.
+(c) The authority with regard to licensed laboratories.
+SECTION 41.
+Section 42 of this 2020  special session Act is added to and made a part of
+the Insurance Code.
+SECTION 42. A person may not use the information required to be collected under sec-
+tion 40 of this 2020 special session  Act to reject, deny, limit, cancel, refuse to renew, increase
+the rates of, affect the terms and conditions of or otherwise affect:
+(1) Any policy for hospital or medical expenses.
+(2) Any policy of insurance.
+SECTION 43.
+Sections 40 to 42 of this 2020 special  session Act are repealed on the date
+that is 270 days  after the date on which the declaration of a state of emergency issued by
+[22]
+HB 4212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+the Governor on March 8, 2020, and any extension of the declaration, is no longer in effect.
+CAPTIONS
+SECTION 44.
+The unit captions used in this 2020 special session Act  are provided only for
+the convenience of the reader and  do not become part of the statutory law of this state or
+express any legislative intent in the enactment of this 2020 special session Act.
+EMERGENCY CLAUSE
+SECTION 45. This 2020 special session Act being necessary  for the immediate preserva-
+tion of  the public peace, health and safety, an emergency is declared to exist, and this 2020
+special session Act takes effect on its passage.
+[23]

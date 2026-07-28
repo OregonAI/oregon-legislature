@@ -1,0 +1,176 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 850
+Sponsored by Senators TAYLOR, LIEBER, Representative GRAYBER; Representatives  GAMBA, HOLVEY (at the
+request of Ironworkers Local 29, IBEW  Local 48, SMART Local 16, Operating Engineers Local 701, Interna-
+tional Union of Painters and Allied Trades District Council 5)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires public body that procures construction services for  certain qualified projects that use
+$750,000 or more in funds  of public agency or moneys made available to state under federal Ameri-
+can Rescue Plan Act of 2021 to enter into project  labor agreement that, at minimum, provides for
+payment of wages at or above prevailing rate of wage, to use apprentices to perform  at least 15
+percent of work hours that workers in apprenticeable occupations perform on  project and to estab-
+lish and execute plan for outreach, recruitment and  retention of women, minority individuals and
+veterans to perform work on project. Specifies exceptions.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to public procurement in connection with  certain qualified projects; creating new pro-
+visions; amending ORS 279A.803; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 279A.803 is amended to read:
+279A.803. (1) As used in this section:
+(a) “Apprentice” has the meaning given that term in ORS 660.010.
+(b) “Apprenticeable occupation” has the meaning given that term in ORS 660.010.
+(c) “Apprenticeship training program” means  the total system of apprenticeship that a
+particular local joint committee, as defined in ORS 660.010, operates, including the local joint
+committee’s  registered standards and all other terms and conditions for qualifying, recruit-
+ing, selecting, employing and training apprentices in an apprenticeable occupation.
+(d) “Minority individual” has the meaning given that term in ORS 200.005.
+(e) “Prevailing rate of wage” has the meaning given that term in ORS 279C.800.
+(f) “Qualified project” means a public improvement project that:
+(A) Has an estimated project cost of at least $1 million; and
+(B) Uses at least $750,000 of  funds of a public agency, as defined in ORS 279C.810, or
+moneys made available to the state under the American Rescue Plan Act of 2021 (P.L.  117-2).
+(g) “Veteran” has the meaning given that term in ORS 408.225.
+(h) “Woman” has the meaning given that term in ORS 200.005.
+[(1)] (2)  A public body that is carrying out a qualified project shall require each contractor  in
+a contract with an estimated cost of $200,000 or greater to:
+(a) Enter into a project labor agreement that, at a minimum,  provides for payment of wages at
+or above the prevailing rate of wage;
+(b) Employ apprentices to perform at least  15 percent of the work hours that  workers in
+apprenticeable occupations perform under the contract, in  a manner consistent with the apprentices’
+respective apprenticeship training programs;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2034
+SB 850
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Establish and execute a plan for outreach, recruitment and  retention of women, minority
+individuals and veterans to perform work under the contract, with  the aspirational target of having
+at least 15 percent of total work hours performed by individuals in one or  more of those groups; and
+(d) Require any subcontractor engaged by the contractor to  abide by the requirements set forth
+in paragraphs (a), (b) and (c) of  this subsection, if the work to be performed under the subcontract
+has an estimated cost of $200,000 or greater.
+[(2)] (3)  The requirements of subsection [ (1)] (2) of this section do not apply to a contract for a
+qualified project if the public body carrying out the qualified  project demonstrates to the Oregon
+Department of Administrative Services that[ :]
+[(a) The qualified project is primarily located in a county that  is characterized as nonmetropolitan
+by the United States Office of Management and Budget; and ]
+[(b)] compliance with the requirements would, with respect to the contract:
+[(A)] (a)  Cause significant expense or delay; or
+[(B)] (b) Limit the pool of bidders to fewer than three.
+[(3) As used in this section: ]
+[(a) “Apprentice” has the meaning given that term in ORS 660.010. ]
+[(b) “Apprenticeable occupation” has the meaning given that term in ORS 660.010. ]
+[(c) “Apprenticeship training program”  means the total system of apprenticeship that a particular
+local joint committee,  as defined in ORS 660.010, operates, including the local joint committee’s regis-
+tered standards and  all other terms and conditions for qualifying, recruiting, selecting, employing and
+training apprentices in an apprenticeable occupation. ]
+[(d) “Minority individual” has the meaning given that term in ORS 200.005. ]
+[(e) “Prevailing rate of wage” has the meaning given that term in ORS 279C.800. ]
+[(f) “Public body” has the meaning given that term in ORS 174.109. ]
+[(g) “Qualified project” means a project: ]
+[(A) For capital improvements to water, sewer, broadband or transportation infrastructure; ]
+[(B) That has an estimated project cost of at least $10 million; and ]
+[(C) That utilizes at least $750,000 of moneys made  available to the state under the American
+Rescue Plan Act of 2021 (P.L. 117-2).]
+[(h) “Veteran” has the meaning given that term in ORS 408.225. ]
+[(i) “Woman” has the meaning given that term in ORS 200.005. ]
+SECTION 2.
+The amendments to ORS 279A.803 by section  1 of this 2023 Act apply to
+procurements that a public body advertises or otherwise  solicits or, if the public body does
+not advertise or solicit the public contract, to a public contract  into which the public body
+enters, on or after the operative date specified in section 3 of this 2023 Act.
+SECTION 3. (1) The amendments to  ORS 279A.803 by section 1 of this 2023 Act become
+operative on January 1, 2024.
+(2) The Attorney General,  the Director of the Oregon Department of Administrative
+Services, the Director of Transportation and a contracting  agency that adopts rules under
+ORS 279A.065 or  279A.070 may adopt rules and take any other action before the operative
+date specified in subsection (1) of this section that is necessary to enable  the Attorney
+General, the directors or  the contracting agency to undertake and exercise, on and after the
+operative date specified in subsection (1)  of this section, all of the duties, functions and
+powers conferred on the Attorney General, the directors or  the contracting agency by the
+amendments to ORS 279A.803 by section 1 of this 2023 Act.
+[2]
+SB 850
+1
+2
+3
+SECTION 4.
+This 2023 Act takes effect on the 91st day after the date on  which the 2023
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[3]

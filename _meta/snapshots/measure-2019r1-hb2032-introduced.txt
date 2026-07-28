@@ -1,0 +1,662 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2032
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of  Governor Kate Brown for
+Department of Human Services)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Specifies benefits that may  be provided by Department of Human Services to low-income families
+after families, because of earnings or increases in  hours of work, lose eligibility for temporary as-
+sistance for needy families (TANF). Delays, for  two years, increase in number of months that family
+may receive specified benefits.
+Eliminates certain requirements for job opportunity and basic skills program.
+Extends suspension of provisions regarding TANF program.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to temporary assistance for needy families program;  creating new provisions; amending
+ORS 411.070, 411.877, 412.006, 412.009, 412.014, 412.084 and 412.124 and sections 1, 7 and 8,
+chapter 604, Oregon  Laws 2011, and section 29, chapter 765, Oregon Laws 2015; and declaring
+an emergency.
+Be It Enacted by the People of the State of Oregon:
+REVISIONS TO TANF AND JOBS PROGRAMS
+SECTION 1.
+ ORS 412.006 is amended to read:
+412.006. [ (1)] Aid pursuant to the temporary  assistance for needy families program shall be
+granted under  this section to families with dependent children residing in this state  in accordance
+with rules adopted by the Department of Human Services .
+[(2) Except as provided in subsections (6) and (7) of this section, a needy caretaker relative  may
+be required to participate in the job  opportunity and basic skills program that is described in sub-
+sections (3) to (5) of this section. ]
+[(3) The department shall  use a basic assessment tool to determine if a needy caretaker relative
+applying for or receiving aid under this section has or may have a barrier to employment or  to family
+stability. If the basic assessment tool  indicates that there is or may be a barrier, the needy caretaker
+relative shall be referred for an in-depth assessment by a person with relevant expertise or specialized
+training.]
+[(4) Based upon the assessment described in subsection (3) of this section, the department, in co-
+operation with  appropriate partner agencies or professionals, may work with the participant to create
+an effective individualized  case plan that establishes goals and identifies suitable activities that promote
+family stability and financial independence. ]
+[(5) For  individuals with disabilities, the goal of the individualized case plan must be to promote
+greater independence. ]
+[(6) A needy caretaker relative receiving aid under ORS 412.001  to 412.069 may volunteer for but
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 359
+HB 2032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+may not be required to participate in the job opportunity and basic skills program: ]
+[(a) More than 10 hours  per week during the first two months of the third trimester of the parent’s
+pregnancy; ]
+[(b) During the last month of the parent’s pregnancy; ]
+[(c) If the needy  caretaker relative is experiencing medical complications due to pregnancy that
+prohibit participation in activities in the program; ]
+[(d) For one parent per family, during  the first six months after the birth of a child, up to a total
+of 12 months per family except that: ]
+[(A) The department may require a parent to participate in suitable activities, with a preference  for
+educational activities, 16 weeks after the birth of a child if the parent is under 20 years of age; and ]
+[(B) The department may require a parent  of a child under 12 months of age to participate in
+evidence-based parenting classes or family stability activities; ]
+[(e) If participation is likely to cause  undue hardship or is contrary to the best interests of the child
+or needy caretaker relative; or ]
+[(f) If the department determines that a  needy caretaker relative is exempt according to criteria
+adopted by rule. ]
+[(7) The department shall adopt rules to carry out the provisions of this section. ]
+SECTION 2.  ORS 412.014, as amended by section 4, chapter 604, Oregon Laws 2011,  is amended
+to read:
+412.014. (1)  There is created in the Department of Human Services the State Family
+Pre-SSI/SSDI program. The department shall  provide aid under this section to families that are eli-
+gible for temporary assistance for needy families under ORS  412.001 to 412.069 and that include a
+needy caretaker relative  who is unable to maintain substantial gainful activity due to a disability
+or combination of disabilities that meet the criteria of section 216 of the Social Security Act.
+(2) The department shall assist  families receiving aid under this section in qualifying for federal
+Supplemental Security Income and  Social Security disability benefits, including obtaining necessary
+medical records and evaluations. The department shall maintain  a list of lawyers admitted to the
+bar of any state and approved by the Social Security  Administration and nonprofit legal services
+organizations that represent Oregon residents in administrative hearings before  the Social Security
+Administration Office of Disability Adjudication and Review.
+(3) The department shall adopt rules for determining the amount  of aid granted under this sec-
+tion that is not less than the [ combined total of 43 percent of the Supplemental Security Income pay-
+ment in effect at that time and the  amount of aid the child would receive under ORS 412.006 if the
+caretaker relative did not receive aid ] amount of aid granted under ORS 412.006 .
+(4) Participation in the State Family Pre-SSI/SSDI program shall be voluntary. The department
+shall provide information to potential participants in the State Family  Pre-SSI/SSDI program about
+the opportunities for employment while receiving Supplemental Security Income and about employ-
+ment resources available to State Family Pre-SSI/SSDI program participants. The information  must
+be in a format accessible to the potential participant.
+(5) Participants in the  State Family Pre-SSI/SSDI program must cooperate with the department
+in establishing eligibility for Supplemental Security Income including, but not limited to, signing  an
+interim assistance reimbursement agreement. The department by  rule may establish policies for
+monitoring and encouraging full  engagement in the State Family Pre-SSI/SSDI program, including
+activities that promote family stability. The department shall offer participants the opportunity to
+participate in any suitable activity in the  job opportunity and basic skills program under ORS
+[2]
+HB 2032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+412.009.
+SECTION 3.  ORS 412.014, as amended by section 4,  chapter 604, Oregon Laws 2011, and section
+2 of this 2019 Act, is amended to read:
+412.014. (1)  There is created in the Department of Human Services the State Family
+Pre-SSI/SSDI program. The department shall  provide aid under this section to families that are eli-
+gible for temporary assistance for needy families under ORS  412.001 to 412.069 and that include a
+needy caretaker relative  who is unable to maintain substantial gainful activity due to a disability
+or combination of disabilities that meet the criteria of section 216 of the Social Security Act.
+(2) The department shall assist  families receiving aid under this section in qualifying for federal
+Supplemental Security Income and  Social Security disability benefits, including obtaining necessary
+medical records and evaluations. The department shall maintain  a list of lawyers admitted to the
+bar of any state and approved by the Social Security  Administration and nonprofit legal services
+organizations that represent Oregon residents in administrative hearings before  the Social Security
+Administration Office of Disability Adjudication and Review.
+(3) The department shall adopt rules for determining the amount  of aid granted under this sec-
+tion that  is not less than the [ amount of aid granted under ORS 412.006 (1) ] combined total of 43
+percent of the  Supplemental Security Income payment in effect at that time and the amount
+of aid the child would receive under ORS 412.006 if the caretaker relative did  not receive
+aid.
+(4) Participation in the State Family Pre-SSI/SSDI program shall be voluntary. The department
+shall provide information to  potential participants in the State Family Pre-SSI/SSDI program about
+the opportunities for employment while receiving Supplemental Security Income and about employ-
+ment resources  available to State Family Pre-SSI/SSDI program participants. The information must
+be in a format accessible to the potential participant.
+(5) Participants in the State Family Pre-SSI/SSDI program must cooperate  with the department
+in establishing eligibility for Supplemental Security Income including, but not limited to, signing  an
+interim assistance reimbursement agreement. The department  by rule may establish policies for
+monitoring and encouraging full engagement in the State Family  Pre-SSI/SSDI program, including
+activities that promote family stability. The department shall offer participants the opportunity to
+participate in any suitable activity in the job opportunity  and basic skills program under ORS
+412.009.
+SECTION 4.
+ ORS 412.124, as amended by section 7, chapter 765, Oregon Laws 2015,  is amended
+to read:
+412.124. [(1) The Department of Human Services shall continue to provide aid  to families residing
+in Oregon that become ineligible for temporary assistance for needy  families under ORS 412.006 due
+to employment or increased hours of work. ]
+[(2) Families may receive aid under this section for 12 consecutive months or until  the household
+income exceeds 250 percent of the federal poverty  guidelines, whichever occurs first, as long as the
+caretaker relatives participate in combined employment and work activities for  the number of hours
+required each month to satisfy federally required participation rates. ]
+[(3) If the needy caretaker  relatives cease to participate in employment or suitable activities for a
+sufficient number of hours each month to satisfy  federally required participation rates, the department
+shall determine eligibility under ORS 412.006 based  upon information available to the department. If
+the department does not have  sufficient information available to determine eligibility for aid under ORS
+412.006, the department shall provide notice and an opportunity  for hearing prior to terminating aid.
+[3]
+HB 2032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+The notice must state  the information that the department lacks and that the caretaker relatives must
+provide to complete the determination for aid. ]
+[(4) The department by rule shall establish standards for aid  provided under this section. The de-
+partment must disregard such aid for purposes of publicly subsidized child care assistance. ]
+[(5) In addition to money payments, aid includes necessary support service  payments and services
+as part of the job opportunity and basic  skills program to directly or indirectly assist the family in
+achieving long term financial stability. ]
+(1) As used in this section, “aid” means:
+(a) Money payments to a family for basic living expenses;
+(b) Necessary support service payments; and
+(c) Services provided  through the job opportunity and basic skills program to directly or
+indirectly assist a family to achieve long term family and financial stability.
+(2) The  Department of Human Services shall provide aid to a family residing in this state
+if:
+(a) The family becomes ineligible for aid under the temporary assistance for needy fami-
+lies program due to employment or increased hours of work; and
+(b) The caretaker relative is employed.
+(3) Aid provided under this section may not be provided for  more than three consecutive
+months at a time.
+(4) The department shall adopt by rule standards for the  aid provided under this section.
+SECTION 5.
+ ORS 412.124, as amended by section 7,  chapter 765, Oregon Laws 2015, and section
+4 of this 2019 Act, is amended to read:
+412.124. [(1) As used in this section, “aid” means: ]
+[(a) Money payments to a family for basic living expenses; ]
+[(b) Necessary support service payments; and ]
+[(c) Services provided through the job opportunity and basic skills  program to directly or indirectly
+assist a family to achieve long term family and financial stability. ]
+[(2) The Department of Human Services shall provide aid to a family residing in this state if: ]
+[(a) The family  becomes ineligible for aid under the temporary assistance for needy families pro-
+gram due to employment or increased hours of work; and ]
+[(b) The caretaker relative is employed. ]
+[(3) Aid  provided under this section may not be provided for more than three consecutive months
+at a time. ]
+[(4) The department shall adopt by rule standards for the aid provided under this section. ]
+(1) The Department of Human Services shall continue  to provide aid to families residing
+in Oregon that become ineligible for  temporary assistance for needy families under ORS
+412.006 due to employment or increased hours of work.
+(2) Families may receive  aid under this section for 12 consecutive months or until the
+household income exceeds 250 percent of the federal poverty guidelines, whichever  occurs
+first, as long  as the caretaker relatives participate in combined employment and work ac-
+tivities for the number of hours required each month to satisfy  federally required partic-
+ipation rates.
+(3) If the needy caretaker relatives cease to participate in employment or suitable activ-
+ities for  a sufficient number of hours each month to satisfy federally required participation
+rates, the department shall determine eligibility under ORS 412.006 based  upon information
+[4]
+HB 2032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+available to the department. If the department does not have sufficient information available
+to determine eligibility for aid under ORS  412.006, the department shall provide notice and
+an opportunity for hearing prior to terminating aid.  The notice must state the information
+that the department  lacks and that the caretaker relatives must provide to complete the
+determination for aid.
+(4) The department by rule shall establish  standards for aid provided under this section.
+The department must disregard such aid for purposes of publicly subsidized child care  as-
+sistance.
+(5) In  addition to money payments, aid includes necessary support service payments and
+services as part of the job opportunity and basic skills program to directly or indirectly assist
+the family in achieving long term financial stability.
+SECTION 6.
+ Section 1, chapter 604, Oregon Laws 2011, as amended by  section 82, chapter 107,
+Oregon  Laws  2012, section 23, chapter 722, Oregon Laws 2013, and section 22, chapter 765, Oregon
+Laws 2015, is amended to read:
+Sec. 1.  Notwithstanding ORS 411.070, 412.006, 412.009  and 412.016, the Department of Human
+Services may:
+(1) Prescribe by rule an employability assessment and  orientation process that the department
+shall use to determine  the level of participation by individuals applying for or receiving aid pursuant
+to the temporary assistance for needy families program and required to participate  in the job op-
+portunity and basic skills  program described in ORS [ 412.006. This process must occur prior to any
+assessment described in ORS 412.006 (3) that is conducted by the department ] 412.009.
+(2) Require all families to participate in the  employability assessment and orientation process
+as a condition for the family’s receipt of aid.
+(3) Limit in the job opportunity and basic skills program, for existing and future  applicants and
+recipients of aid, based on the results of the employability assessment or other criteria:
+(a) The number of participants;
+(b) The activities; or
+(c) The level of participation.
+(4) Require an individual in a one-parent family to participate in  the job opportunity and basic
+skills program while caring for a dependent child who is under two years of age.
+(5) Not approve enrollment in and attendance  at an educational institution as an allowable work
+activity for purposes of ORS 412.001 to  412.069, except for recipients who have a case plan in effect
+on June 30, 2011, that approves enrollment in and  attendance at an educational institution as an
+allowable work activity under ORS 412.016.
+(6) Deny or terminate aid to a family in which a caretaker relative  is separated from employ-
+ment without good cause, subject to exceptions prescribed  by the department by rule. The family
+shall be ineligible to receive aid for a period  of 120 days beginning on the date the caretaker rela-
+tive is separated from employment without good cause.
+(7) Establish an income eligibility limit equal to 185  percent of the federal poverty guidelines for
+aid to a dependent child residing with a caretaker relative who is not the child’s parent.
+SECTION 7.
+ Section 8, chapter 604, Oregon Laws 2011, as amended by  section 25, chapter 722,
+Oregon Laws 2013, section 24, chapter 765, Oregon Laws 2015, and section 7, chapter  725, Oregon
+Laws 2017, is amended to read:
+Sec. 8.  Section 1, chapter 604, Oregon Laws 2011, as  amended by section 82, chapter 107,
+Oregon Laws 2012, section 23, chapter 722, Oregon Laws 2013, [ and] section 22, chapter 765, Oregon
+[5]
+HB 2032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Laws 2015, and section 6 of this 2019 Act,  is repealed on July 1, [ 2019] 2021.
+SECTION 8.  Section 29, chapter 765, Oregon Laws 2015, as amended by  section 8, chapter 725,
+Oregon Laws 2017, is amended to read:
+Sec. 29. [(1)] ORS 412.007 and the amendments to ORS  411.635, 412.001, 412.009, 412.079 and
+412.124 by sections 6,  10, 12, 19 and 26, chapter 765, Oregon Laws 2015, become operative on April
+1, 2016.
+[(2) The amendments to ORS 412.124 by section 7, chapter 765,  Oregon Laws 2015, become opera-
+tive on July 1, 2019. ]
+SECTION 9. The amendments to ORS 412.124 by section 5  of this 2019 Act become oper-
+ative on July 1, 2021.
+CONFORMING AMENDMENTS
+SECTION 10.  ORS 411.877 is amended to read:
+411.877. As used in ORS 411.877 to 411.896:
+(1) “Board” means the JOBS Plus Advisory Board established in ORS 411.886.
+(2) “Job opportunities and basic skills program”  means the program described in ORS [ 412.006]
+412.009.
+(3) “JOBS Plus” or “program” means the JOBS Plus Program established in ORS 411.878.
+(4) “Supplemental Nutrition Assistance  Program” has the meaning given that term in ORS
+411.806.
+SECTION 11.
+ ORS 411.070 is amended to read:
+411.070. (1) The Department of Human Services shall adopt  by rule statewide uniform standards
+for all public assistance programs and shall  effect uniform observance of the rules throughout the
+state.
+(2) In establishing uniform statewide standards for  public assistance, the department, within the
+limits of available funds, shall:
+(a) Take into consideration all basic requirements  for a standard of living compatible with de-
+cency and health, including food, shelter, clothing, fuel, public utilities,  telecommunications service,
+medical care and other  essential items and, upon the basis of investigations of the facts, shall pro-
+vide budgetary guides for determining minimum costs of meeting such requirements.
+(b) Develop standards for making payments and providing support services  in the job opportu-
+nity and basic skills program described in ORS [ 412.006] 412.009.
+SECTION 12.  ORS 412.009 is amended to read:
+412.009. (1) The Legislative Assembly finds that:
+(a) There is evidence that families who experience the most disqualifications from  the job op-
+portunity and basic skills program are often those with the most barriers to employment; and
+(b) The loss of income from a program disqualification adds strain and  creates instability in
+families already experiencing extreme poverty, and this affects the health and  food security of the
+dependent children in the family.
+(2) The Department of Human Services by rule shall adopt  proven methods of encouraging
+participants’ full engagement in the job opportunity and basic skills program, including the  devel-
+opment of  an individualized case plan [ in accordance with ORS 412.006 ] and an ongoing process to
+ensure that the case plan is appropriate.
+(3)(a) The department shall facilitate the  participation of needy caretaker relatives and may not
+[6]
+HB 2032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+reduce the family’s aid payment as a method of encouraging full engagement in the job opportunity
+and basic skills program pursuant  to subsection (2) of this section until the department determines
+that the needy caretaker relative that is not fully engaged:
+(A) Has no identified barriers or refuses to take appropriate  steps to address identified barriers
+to participation in the program; and
+(B) Refuses without good cause, as defined by  the department by rule, to meet the requirements
+of an individualized and appropriate case plan.
+(b) The department may not reduce aid payments under this subsection to families:
+(A) Receiving aid pursuant to ORS 412.014 or 412.124;
+(B) In which the  caretaker relative participates in suitable activities for the number of hours
+required each month to satisfy federally required participation rates; or
+(C) Until the  department has screened for and, if appropriate, assessed barriers to participation,
+including but not limited to physical or mental health needs, substance abuse,  domestic violence or
+learning needs.
+(c) The department may not reduce aid payments under this subsection before assessing the  risk
+of harm posed to the  children in the household by the reduction in aid payments and taking steps
+to ameliorate the risk.
+(4) Following  notice and an opportunity for a hearing under ORS chapter 183 and subject to
+subsection (2) of this section, the department may reduce the aid payment to  the family of an indi-
+vidual who refuses to participate  in suitable activities required by the individual’s case plan or may
+terminate the aid payment to the family of a noncompliant individual in accordance  with procedures
+adopted by the department by rule.
+(5) A caretaker relative may request a hearing to contest the basis for a reduction in  or termi-
+nation of an aid payment under this section within 90 days of a reduction in or termination of aid.
+(6) Every six months, the department shall report to the  Family Services Review Commission
+established under ORS 411.075 the status of and outcomes for families for  whom aid has been re-
+duced or terminated under subsection (4) of this section. The department shall work with  the com-
+mission to establish the details to be provided in the report.
+SECTION 13.
+ ORS 412.084 is amended to read:
+412.084. (1) A person who is a minor parent of a child and is  receiving or applying for aid shall
+reside with the person’s  parent, parents or legal guardian. The person may substitute an alternative
+supervised living arrangement if the Department of Human Services determines that  it is unsafe or
+impractical for the person to reside with the person’s parent, parents or legal guardian. Failure of
+a minor parent applying for or receiving temporary assistance for needy families to reside with  the
+person’s parent, parents or legal guardian or in an alternative supervised living arrangement shall
+result in the termination of aid.
+(2) The provisions  of subsection (1) of this section shall not apply to an applicant for or recipient
+of temporary assistance for needy families when circumstances or conditions exist that the depart-
+ment by rule establishes are not in the best interest of the child.
+(3) If a person who is a minor parent receiving aid and who is  not living with the person’s
+parent, parents or legal guardian subsequently returns  to reside with the parent, parents or guard-
+ian and is determined ineligible to receive  aid by reason of the parent’s or guardian’s income, the
+minor parent shall be eligible to receive such services, including medical care, as  the department
+determines are necessary to allow the minor parent to attain a high school diploma or the  equiv-
+alent, or to participate  in the job opportunity and basic skills program as described in ORS
+[7]
+HB 2032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+[412.006] 412.009.
+SECTION 14. Section 7, chapter 604, Oregon Laws 2011, as amended  by section 24, chapter 722,
+Oregon Laws 2013, and section 23, chapter 765, Oregon Laws 2015, is amended to read:
+Sec. 7.  [(1)] The amendments to ORS 412.009, 412.014 and 412.024 by sections  2, 3 and 5, chapter
+604, Oregon Laws 2011, become operative on October 11, 2011.
+[(2) The amendments to ORS 412.014  by section 4, chapter 604, Oregon Laws 2011, become opera-
+tive on July 1, 2019. ]
+SECTION 15. The amendments to ORS 412.014 by section 3 of this  2019 Act become op-
+erative on July 1, 2019.
+SECTION 16. The unit  captions used in this 2019 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2019 Act.
+SECTION 17. This 2019 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2019 Act takes effect
+on its passage.
+[8]

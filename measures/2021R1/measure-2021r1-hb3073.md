@@ -1,0 +1,3561 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2021r1-hb3073
+title: 'HB 3073 (2021R1): Changes name of Early Learning Division to Department of Early Learning and
+  Care.'
+doc_type: dataset_doc
+citation: 2021 Regular Session House Bill 3073
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3073/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 97d46d03c5376e3b4fb458c4b9aeecdf24519ab2f7fbcfb7042ce7907696a846
+snapshot_id: measure-2021r1-hb3073-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 109.056
+  - ORS 131A.005
+  - ORS 131A.355
+  - ORS 131A.360
+  - ORS 131A.365
+  - ORS 137.662
+  - ORS 137.680
+  - ORS 163.266
+  - ORS 163.413
+  - ORS 163.537
+  - ORS 163.665
+  - ORS 163.670
+  - ORS 167.002
+  - ORS 167.007
+  - ORS 167.008
+  - ORS 167.310
+  - ORS 167.322
+  - ORS 167.335
+  - ORS 179.040
+  - ORS 181A.200
+  - ORS 181A.340
+  - ORS 183.333
+  - ORS 183.459
+  - ORS 184.489
+  - ORS 184.689
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.610
+  - ORS 279A.025
+  - ORS 279A.050
+  - ORS 279A.120
+  - ORS 279A.125
+  - ORS 279A.140
+  - ORS 279A.145
+  - ORS 279C.320
+  - ORS 283.110
+  - ORS 292.495
+  - ORS 305.690
+  - ORS 314.085
+  - ORS 314.440
+  - ORS 315.264
+  - ORS 316.117
+  - ORS 316.187
+  - ORS 316.502
+  - ORS 326.425
+  - ORS 326.430
+  - ORS 326.435
+  - ORS 327.001
+  - ORS 327.269
+  - ORS 327.274
+  - ORS 329.025
+  - ORS 329.075
+  - ORS 329.085
+  - ORS 329.145
+  - ORS 329.150
+  - ORS 329.155
+  - ORS 329.156
+  - ORS 329.165
+  - ORS 329.170
+  - ORS 329.172
+  - ORS 329.175
+  - ORS 329.181
+  - ORS 329.183
+  - ORS 329.185
+  - ORS 329.190
+  - ORS 329.195
+  - ORS 329.200
+  - ORS 329.219
+  - ORS 329.485
+  - ORS 329.841
+  - ORS 329.843
+  - ORS 329.845
+  - ORS 329A.010
+  - ORS 329A.030
+  - ORS 329A.100
+  - ORS 329A.120
+  - ORS 329A.135
+  - ORS 329A.250
+  - ORS 329A.255
+  - ORS 329A.257
+  - ORS 329A.260
+  - ORS 329A.261
+  - ORS 329A.280
+  - ORS 329A.310
+  - ORS 329A.330
+  - ORS 329A.430
+  - ORS 329A.440
+  - ORS 329A.490
+  - ORS 329A.493
+  - ORS 329A.500
+  - ORS 329A.505
+  - ORS 329A.700
+  - ORS 329A.706
+  - ORS 329A.712
+  - ORS 332.002
+  - ORS 336.101
+  - ORS 336.104
+  - ORS 341.005
+  - ORS 342.940
+  - ORS 343.287
+  - ORS 343.465
+  - ORS 343.475
+  - ORS 343.499
+  - ORS 343.511
+  - ORS 348.270
+  - ORS 352.002
+  - ORS 352.121
+  - ORS 406.072
+  - ORS 410.600
+  - ORS 411.806
+  - ORS 411.882
+  - ORS 412.001
+  - ORS 412.006
+  - ORS 417.305
+  - ORS 417.708
+  - ORS 417.723
+  - ORS 417.727
+  - ORS 417.728
+  - ORS 417.781
+  - ORS 417.782
+  - ORS 417.784
+  - ORS 417.786
+  - ORS 417.788
+  - ORS 417.790
+  - ORS 417.793
+  - ORS 417.795
+  - ORS 417.796
+  - ORS 417.827
+  - ORS 417.829
+  - ORS 418.205
+  - ORS 419A.004
+  - ORS 419B.005
+  - ORS 419B.020
+  - ORS 426.504
+  - ORS 427.335
+  - ORS 430.215
+  - ORS 430.357
+  - ORS 433.301
+  - ORS 443.400
+  - ORS 475.005
+  - ORS 475.495
+  - ORS 475B.015
+  - ORS 609.500
+  - ORS 609.652
+  - ORS 609.654
+  - ORS 743A.078
+  - ORS 802.100
+  - ORS 803.420
+  - ORS 803.535
+  - ORS 805.205
+  - ORS 805.207
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2021r1
+- hb
+session_key: 2021R1
+measure_prefix: HB
+measure_number: 3073
+prefix_meaning: House Bill
+catch_line: Changes name of Early Learning Division to Department of Early Learning and Care.
+minority_catch_line: null
+measure_summary: "\tChanges name of Early Learning Division to Department of Early Learning and Care.\
+  \ Establishes Department of Early Learning and Care as state agency that is separate from Department\
+  \ of Education and that functions under, and is coordinated by, Early Learning Council. \n\tPrescribes\
+  \ expanded duties, functions and powers of Department of Early Learning and Care, including administration\
+  \ of Employment Related Day Care. Modifies requirements of Employment Related Day Care. \n\tDirects\
+  \ Early Learning Division, Department of Education and Department of Human Services to develop and implement\
+  \ plans for seamless transfer of relevant duties, functions and powers, and to report on plans to appropriate\
+  \ interim committees of Legislative Assembly. \n\tRevises goals of statewide early learning system.\
+  \ \n\tModifies membership and duties of State Interagency Coordinating Council. \n\tDeclares emergency,\
+  \ effective on passage."
+relating_to: Relating to early childhood governance; and declaring an emergency.
+relating_to_full: Relating to early childhood governance; and declaring an emergency.
+at_the_request_of: null
+lc_number: 1898
+measure_created_date: '2021-01-25T14:56:43'
+measure_modified_date: '2022-09-14T14:47:15'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 230061
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 109.056
+  - ORS 131A.005
+  - ORS 131A.355
+  - ORS 131A.360
+  - ORS 131A.365
+  - ORS 137.662
+  - ORS 137.680
+  - ORS 163.266
+  - ORS 163.413
+  - ORS 163.537
+  - ORS 163.665
+  - ORS 163.670
+  - ORS 167.002
+  - ORS 167.007
+  - ORS 167.008
+  - ORS 167.310
+  - ORS 167.322
+  - ORS 167.335
+  - ORS 179.040
+  - ORS 181A.200
+  - ORS 181A.340
+  - ORS 183.333
+  - ORS 183.459
+  - ORS 184.489
+  - ORS 184.689
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.610
+  - ORS 279A.025
+  - ORS 279A.050
+  - ORS 279A.120
+  - ORS 279A.125
+  - ORS 279A.140
+  - ORS 279A.145
+  - ORS 279C.320
+  - ORS 283.110
+  - ORS 292.495
+  - ORS 305.690
+  - ORS 314.085
+  - ORS 314.440
+  - ORS 315.264
+  - ORS 316.117
+  - ORS 316.187
+  - ORS 316.502
+  - ORS 326.425
+  - ORS 326.430
+  - ORS 326.435
+  - ORS 327.001
+  - ORS 327.269
+  - ORS 327.274
+  - ORS 329.025
+  - ORS 329.075
+  - ORS 329.085
+  - ORS 329.145
+  - ORS 329.150
+  - ORS 329.155
+  - ORS 329.156
+  - ORS 329.165
+  - ORS 329.170
+  - ORS 329.172
+  - ORS 329.175
+  - ORS 329.181
+  - ORS 329.183
+  - ORS 329.185
+  - ORS 329.190
+  - ORS 329.195
+  - ORS 329.200
+  - ORS 329.219
+  - ORS 329.485
+  - ORS 329.841
+  - ORS 329.843
+  - ORS 329.845
+  - ORS 329A.010
+  - ORS 329A.030
+  - ORS 329A.100
+  - ORS 329A.120
+  - ORS 329A.135
+  - ORS 329A.250
+  - ORS 329A.255
+  - ORS 329A.257
+  - ORS 329A.260
+  - ORS 329A.261
+  - ORS 329A.280
+  - ORS 329A.310
+  - ORS 329A.330
+  - ORS 329A.430
+  - ORS 329A.440
+  - ORS 329A.490
+  - ORS 329A.493
+  - ORS 329A.500
+  - ORS 329A.505
+  - ORS 329A.700
+  - ORS 329A.706
+  - ORS 329A.712
+  - ORS 332.002
+  - ORS 336.101
+  - ORS 336.104
+  - ORS 341.005
+  - ORS 342.940
+  - ORS 343.287
+  - ORS 343.465
+  - ORS 343.475
+  - ORS 343.499
+  - ORS 343.511
+  - ORS 348.270
+  - ORS 352.002
+  - ORS 352.121
+  - ORS 406.072
+  - ORS 410.600
+  - ORS 411.806
+  - ORS 411.882
+  - ORS 412.001
+  - ORS 412.006
+  - ORS 417.305
+  - ORS 417.708
+  - ORS 417.723
+  - ORS 417.727
+  - ORS 417.728
+  - ORS 417.781
+  - ORS 417.782
+  - ORS 417.784
+  - ORS 417.786
+  - ORS 417.788
+  - ORS 417.790
+  - ORS 417.793
+  - ORS 417.795
+  - ORS 417.796
+  - ORS 417.827
+  - ORS 417.829
+  - ORS 418.205
+  - ORS 419A.004
+  - ORS 419B.005
+  - ORS 419B.020
+  - ORS 426.504
+  - ORS 427.335
+  - ORS 430.215
+  - ORS 430.357
+  - ORS 433.301
+  - ORS 443.400
+  - ORS 475.005
+  - ORS 475.495
+  - ORS 475B.015
+  - ORS 609.500
+  - ORS 609.652
+  - ORS 609.654
+  - ORS 743A.078
+  - ORS 802.100
+  - ORS 803.420
+  - ORS 803.535
+  - ORS 805.205
+  - ORS 805.207
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3073`.
+
+# HB 3073 — 2021 Regular Session (2021R1)
+
+## At a glance
+
+- **Measure:** House Bill 3073, 2021 Regular Session (2021R1)
+- **LC number:** 1898
+- **Created:** 2021-01-25T14:56:43
+- **Metadata last modified (upstream):** 2022-09-14T14:47:15
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 230061 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3073/Enrolled>.
+
+## Summary
+
+**Catchline:** Changes name of Early Learning Division to Department of Early Learning and Care.
+
+**Relating to:** Relating to early childhood governance; and declaring an emergency.
+
+Changes name of Early Learning Division to Department of Early Learning and Care. Establishes Department of Early Learning and Care as state agency that is separate from Department of Education and that functions under, and is coordinated by, Early Learning Council. 
+ Prescribes expanded duties, functions and powers of Department of Early Learning and Care, including administration of Employment Related Day Care. Modifies requirements of Employment Related Day Care. 
+ Directs Early Learning Division, Department of Education and Department of Human Services to develop and implement plans for seamless transfer of relevant duties, functions and powers, and to report on plans to appropriate interim committees of Legislative Assembly. 
+ Revises goals of statewide early learning system. 
+ Modifies membership and duties of State Interagency Coordinating Council. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to early childhood governance; and declaring an emergency.
+
+## Full text
+
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Enrolled
+House Bill 3073
+Sponsored by Representatives POWER, ZIKA,  Senator TAYLOR, Representatives ALONSO LEON,
+HAYDEN, LEVY, NERON, SMITH G,  Senators JAMA, KNOPP; Representatives CAMPOS,
+DEXTER, FAHEY, GRAYBER, HELM, HOLVEY, HUDSON, KROPF,  LEIF, LIVELY, MARSH,
+NOBLE, OWENS, PHAM, PRUSAK, REYNOLDS, RUIZ, SANCHEZ, SCHOUTEN, SMITH  DB,
+SOLLMAN, VALDERRAMA, WILDE, WILLIAMS, WRIGHT, Senators GELSER, PATTERSON
+CHAPTER .................................................
+AN ACT
+Relating to early childhood governance; creating new provisions; amending ORS 131A.360, 131A.365,
+183.459, 279A.050, 315.264, 326.425,  326.430, 326.435, 327.269, 327.274, 329.155, 329.156, 329.165,
+329.170, 329.172, 329.175, 329.181,  329.183, 329.185, 329.195, 329.200, 329.219, 329.841, 329.843,
+329.845, 329A.010, 329A.120, 329A.135, 329A.250, 329A.261, 329A.500, 329A.505, 329A.712,  336.101,
+336.104, 343.465, 343.475, 343.499, 406.072, 411.882, 417.723, 417.727,  417.728, 417.781, 417.782,
+417.784, 417.788, 417.790, 417.793, 417.795, 417.796,  417.827, 417.829, 419B.005, 433.301, 609.652,
+805.205 and 805.207; repealing ORS 329.145, 329.150, 329.190, 329A.490 and  329A.493 and section
+2, chapter 89, Oregon Laws 2021 (Enrolled House Bill 2059); and declaring an emergency.
+Whereas a child’s brain makes one million new neural connections every second before  the age
+of five years, with early experiences shaping brain architecture; and
+Whereas complex neural, social and emotional development occurs before the age of five years,
+making early childhood a critical window in which to eliminate disparities; and
+Whereas access to continuous, high-quality  child care, early care and education and out-of-
+school programs is critical to a child’s success in school and life; and
+Whereas both early care  and education and out-of-school programs during elementary school
+predict higher academic achievement at 15 years of age; and
+Whereas all children are born full of potential, yet their family’s zip  code, income and race and
+ethnicity are powerful predictors of a child’s and family’s  access to high quality child care and early
+education; and
+Whereas child  caring disproportionately impacts women, particularly women of color, through
+child care  shortages, lower wages as child care providers and staff and systemic discrimination; and
+Whereas an affordable, accessible  system of high quality child care is necessary for the health
+of Oregon’s  economy because employers benefit when parents have safe, stable, culturally responsive
+and developmentally appropriate care for their children that meets their needs; and
+Whereas the Oregon Early Learning  System should provide developmentally appropriate, cul-
+turally responsive, relevant and inclusive child  care and early care and education for children and
+families across race, ethnicity,  language, geography, ability and income levels, as recommended by
+Raise Up Oregon; and
+Whereas the  health and stability of Oregon’s child care and early care and education workforce
+is pivotal to any expansion of child care  in Oregon and this workforce, predominately composed of
+women of color, is structurally afflicted by low wages, limited or no  health care and a severe lack
+of retirement benefits; and
+Enrolled House Bill 3073 (HB 3073-D) Page 1
+Whereas Oregon must value the work of caregivers, especially Black  and indigenous women,
+women of color and immigrant women,  and ensure that they receive the equitable pay and benefits
+they deserve for their  work, training and services that support workforce development and supports
+offered to all provider types; and
+Whereas Oregon’s child care sector supports all providers, which are essential to offering a
+mixed-delivery child  care system and that include family, friend and neighbor child care, regulated
+subsidy child care, registered family child care,  certified family child care, certified child care cen-
+ters, out-of-school programs, Oregon Prekindergarten, Head Start, Early Head  Start, relief nurseries,
+Healthy Families Oregon programs,  privately subsidized child care programs and publicly funded
+child care programs; and
+Whereas the Oregon Early  Learning System must be informed by and accountable to the parents
+and providers who most need it and who know the most about the system; and
+Whereas the  partnership and collaboration between the Oregon Early Learning System, the
+kindergarten through grade 12 system, the health system, the human services  system and the hous-
+ing system are critical to the success of every child; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+STATEWIDE EARLY LEARNING SYSTEM
+SECTION 1.
+ ORS 417.728 is amended to read:
+417.728. (1) The Early  Learning Council [ shall lead a joint effort with other state and local early
+childhood partners to establish the  policies necessary for a voluntary ] is responsible for leading
+cross-sector  strategic  planning that establishes the goals, objectives and strategies necessary
+for a statewide early learning system.
+[(2) The voluntary statewide early learning system shall be designed to achieve: ]
+[(a) The  appropriate outcomes identified by the Early Learning Council with input from early
+childhood partners; and ]
+[(b) Any other early childhood benchmark or outcome that demonstrates progress toward  meeting
+a target and  that is identified by the Early Learning Council with input from early childhood
+partners.]
+(2) The purpose of the statewide early learning system is to make progress  toward en-
+suring that:
+(a) Children enter school ready to learn;
+(b) Children are raised in families that are healthy, stable and attached; and
+(c) Early learning is available and provided in  a manner that is aligned, coordinated and
+family centered.
+(3) The [ voluntary] statewide early learning system shall include the following components:
+(a) A  process to identify as early as possible children and families who would benefit from early
+learning services, including the required  use of standardized screening and referral procedures used
+throughout the [ voluntary] statewide early learning system;
+(b) A plan to support  the identified needs of the child and family that coordinates case man-
+agement personnel and the delivery of services to the child and family; and
+(c) Services to support children who are zero through six years of  age and their families who
+give their express written consent, including:
+(A) Screening, assessment and home visiting services pursuant to ORS 417.795;
+(B) Specialized or targeted home visiting services;
+(C) Community-based services such as relief nurseries, family support  programs and parent ed-
+ucation programs;
+(D) Affordable, quality child care, as defined by the Early Learning Council;
+(E) Preschool and other early education services;
+Enrolled House Bill 3073 (HB 3073-D) Page 2
+(F) Health services for children and pregnant women;
+(G) Mental health services;
+(H) Alcohol and drug treatment programs  that meet the standards promulgated by the Oregon
+Health Authority pursuant to ORS 430.357;
+(I) Developmental disability services; and
+(J) Other state and local services.
+(4) In establishing the definition of  affordable, quality child care under subsection (3)(c)(D) of
+this section, the Early Learning  Council shall consult with child care providers and early childhood
+educators. The definition established by the council shall support parental choice of child care pro-
+vider and  shall consider differences in settings and services, including but not limited to child care
+for school-aged children, part-time care, odd-hour  and respite care and factors of cultural appropri-
+ateness and competence.
+[(5) No later than July 1, 2016, for the purpose of ensuring that affordable, quality home-based
+child care  is available through a subsidy program administered by the Department of Human Services,
+the Early  Learning Division, in consultation with the department, shall develop and implement a system
+of quality supports for exempt family  child care providers as defined in ORS 329A.430. The system
+may use evidence-based practices or  best practices that are consistent with state policies for child
+well-being and development and that are  subject to collective bargaining. The system must include
+professional development opportunities for exempt family child  care providers that are available for
+attendance in person and through the Internet. ]
+[(6)] (5) The Early Learning Council shall:
+(a) Consolidate administrative functions relating to the  [ voluntary] statewide early learning
+system, to the  extent practicable, including but not limited to training and technical assistance,
+planning and budgeting.
+(b) Adopt policies to  establish training and technical assistance programs to ensure that per-
+sonnel have skills in  appropriate areas, including screening, family assessment, competency-based
+home visiting skills, cultural and gender differences and other areas as needed.
+(c) Identify research-based age-appropriate and culturally and gender appropriate  screening and
+assessment tools that would be used  as appropriate in programs and services of the [ voluntary]
+statewide early learning system.
+(d) Develop a plan for the implementation of a common  data system for voluntary early child-
+hood programs.
+(e) Coordinate existing and new early childhood programs to provide a range of community-
+based supports.
+(f) Establish a common set of quality  assurance standards to guide local implementation of all
+elements of the [ voluntary] statewide early learning system,  including voluntary universal screening
+and assessment, home visiting, staffing, evaluation and community-based services.
+(g) Ensure that all  plans for voluntary early childhood services are coordinated and consistent
+with federal and state law, including but not limited  to plans for Oregon prekindergarten programs,
+federal Head Start programs, early childhood special education  services, early intervention services
+and public health services.
+(h) Identify how the [ voluntary] statewide  early learning system for children who are zero
+through six years of age will link with systems of support for older children and their families.
+(i) During January of each odd-numbered year, report to the Governor and the  Legislative As-
+sembly on the [ voluntary] statewide early learning system.
+[(7)] (6) The State Board  of Education, the Employment Department, the Department of Human
+Services and the Oregon Health Authority when adopting  rules to administer voluntary early
+childhood programs under their individual authority shall adopt rules:
+(a) That are consistent with the requirements  of the [ voluntary] statewide early learning system
+created under this section; and
+(b) With the direction of the Early Learning Council.
+Enrolled House Bill 3073 (HB 3073-D) Page 3
+[(8)] (7) Information gathered in conjunction with the voluntary  comprehensive screening and
+assessment of children and their families may be used only for the following purposes:
+(a) Providing services to children and families who give their express written consent;
+(b) Providing statistical data that are not personally identifiable;
+(c) Accomplishing other purposes for which the family has given express written consent; and
+(d) Meeting the requirements of mandatory state and federal disclosure laws.
+SECTION 2.
+ ORS 417.723 is amended to read:
+417.723. The Oregon Health Authority and the Early Learning Council shall establish a  grant
+program to provide funding to support effective  and scalable strategies that align [ voluntary] state-
+wide early learning systems and  health systems for the purpose of improving the developmental
+outcomes for children from zero through three years of age.
+SECTION 3.  ORS 417.727 is amended to read:
+417.727. Based on the findings expressed in ORS 417.708, there is created  the Oregon Early
+Learning System. The goals of the system are to:
+(1) Prevent child abuse and neglect;
+(2) Improve the health and development of young children;
+(3) Promote bonding and attachment in the early years of a child’s life;
+(4) Support parents in providing the optimum environment for their young children;
+(5) Link and integrate services and supports in the [ voluntary] statewide early learning  system
+pursuant to ORS 417.728;
+(6) Ensure that children are entering school ready to learn; and
+(7) Ensure that parents have access to affordable, quality child care.
+SECTION 4.
+ ORS 417.795 is amended to read:
+417.795. (1) The Early Learning Division shall establish Healthy Families Oregon  programs in
+all counties of this state as funding becomes available.
+(2) These programs shall be nonstigmatizing, voluntary and designed to achieve  the appropriate
+early childhood benchmarks and shall:
+(a) Ensure that express written  consent is obtained from the family prior to any release of in-
+formation that is protected by federal or state law and before the family receives any services;
+(b) Ensure that services are voluntary and that, if a family chooses not to accept  services or
+ends services, there are no adverse consequences for those decisions;
+(c) Offer a voluntary comprehensive risk assessment  of all children, from zero through three
+years of age, and their families in coordination with [ voluntary] statewide early learning  system
+screening and referral efforts;
+(d) Ensure that the disclosure of information gathered in conjunction with the  voluntary com-
+prehensive risk assessment  of children and their families is limited pursuant to ORS 417.728 [ (8)] (7)
+to the following purposes:
+(A) Providing services  under the programs to children and families who give their express
+written consent;
+(B) Providing statistical data that are not personally identifiable;
+(C) Accomplishing other purposes for which the family has given express written consent; and
+(D) Meeting the requirements of mandatory state and federal disclosure laws;
+(e) Ensure that risk  factors used in the risk screen are limited to those risk factors that have
+been shown by research to be associated with poor outcomes for children and families;
+(f) Identify, as early as possible, families that would benefit most from the programs;
+(g) Provide parenting education and support services, including but not limited  to community-
+based home visiting services;
+(h) Provide other supports, including but not limited to referral to  and linking of community and
+public services for children and families such  as mental health services, alcohol and drug treatment
+programs that meet the standards promulgated by the Oregon Health  Authority under ORS 430.357,
+child care, food, housing and transportation;
+Enrolled House Bill 3073 (HB 3073-D) Page 4
+(i) Coordinate services for children consistent with other services provided through the Oregon
+Early Learning System;
+(j) Integrate data with any common data system for early childhood programs;
+(k) Be included in a statewide independent evaluation to document:
+(A) Level of screening and assessment;
+(B) Incidence of child abuse and neglect;
+(C) Change in parenting skills; and
+(D) Rate of child development;
+(L) Be included in a statewide training program in the dynamics of the  skills needed to provide
+early childhood services, such as assessment and home visiting; and
+(m) Meet statewide quality assurance and quality improvement standards.
+(3) The Healthy Families Oregon programs, in coordination with statewide  home visiting part-
+ners, shall:
+(a) Identify existing services and describe and prioritize additional services  necessary for a
+voluntary home visit system;
+(b) Build on existing programs;
+(c) Maximize the use of volunteers and other community resources that support all families;
+(d) Target, at a minimum, all prenatal families and families with children  less than three months
+of age and provide services through at least the child’s third birthday; and
+(e) Ensure that home visiting services provided  by local home visiting partners for children and
+pregnant women support and are coordinated with local Healthy Families Oregon programs.
+(4) Through a  Healthy Families Oregon program, a trained home visitor shall be assigned to
+each family assessed  as at risk that consents to receive services through the trained home visitor.
+The trained home visitor shall conduct home visits and assist the family in gaining  access to needed
+services.
+(5) The services required by this  section shall be provided by hospitals, public or private entities
+or organizations, or any combination thereof, capable of  providing all or part of the family risk as-
+sessment and the follow-up  services. In granting a contract, collaborative contracting or requests for
+proposals may be used and must include the most effective and consistent service delivery system.
+(6) The  family risk assessment and follow-up services for families at risk shall be provided by
+trained home visitors organized in teams supervised by a manager.
+(7) Each Healthy Families  Oregon program shall adopt disciplinary procedures for trained home
+visitors and other employees of the program. The  procedures shall provide appropriate disciplinary
+actions for trained home visitors and  other employees who violate federal or state law or the poli-
+cies of the program.
+SECTION 5.
+ ORS 417.788 is amended to read:
+417.788. (1) The Early Learning Division shall support Relief Nursery  programs statewide as
+funding becomes available. Funding to support Relief  Nursery programs may include, but is not
+limited to:
+(a) Administrative costs;
+(b) Costs for direct service personnel, equipment, supplies and operating expenses;
+(c) Start-up costs;
+(d) Classroom furniture and materials;
+(e) Playground equipment;
+(f) Computers; and
+(g) Transportation vehicles.
+(2) The division may encourage communities to establish Relief Nursery programs for young
+children  who  are at risk and their families. Communities may choose to establish regional Relief
+Nursery programs. The Relief Nursery programs shall be  consistent with the [ voluntary] statewide
+early learning system coordinated by the Early Learning Council.
+(3) Relief Nursery programs  shall participate in a statewide independent evaluation conducted
+by the Oregon Association  of Relief Nurseries to document improved child safety, reduction in foster
+Enrolled House Bill 3073 (HB 3073-D) Page 5
+care placements, progress in healthy child development and improvement  in family functioning and
+support.
+(4) Each Relief Nursery program that receives state funding shall have  financial support from
+the community that, excluding any amounts distributed to the Relief Nursery program  pursuant to
+ORS 131A.360 (4)(d) and 131A.365 (3)(d), is at least equal to 25 percent of any state allocation.
+(5) The division  shall adopt rules necessary for the administration of this section, including rules
+requiring that any public funds received by Relief Nursery programs be used to achieve  the out-
+comes identified in subsection (3) of this section.
+SECTION 6.  ORS 417.793 is amended to read:
+417.793. The Early Learning Division shall support parents-as-teachers programs statewide  as
+funding becomes available. If a program is offered, the program shall be part of a  comprehensive,
+research-based approach to parent education and support. The program  shall be consistent with the
+[voluntary] statewide early learning system plan coordinated by the Early Learning Council.
+STATE INTERAGENCY COORDINATING COUNCIL
+SECTION 7.  ORS 343.499 is amended to read:
+343.499. (1)(a) There is created the State Interagency Coordinating Council.
+(b) The Governor shall appoint members of the council from  a list of eligible appointees from
+this state  that is  provided by the council and agencies described in subsection (2) of this section
+and shall ensure  that the membership of the council reasonably represents the racial, ethnic, lin-
+guistic and geographic population of this state.
+(c) The Governor shall designate one member  of the council to serve as the chairperson, or if
+the Governor chooses not to name  a chairperson, the council may elect one of its members to serve
+as chairperson.
+(d) [ However ] Notwithstanding paragraph (c) of this subsection , any member of the council
+who represents the Department of Education may not serve as the chairperson of the council.
+[(2) The membership of the council shall be composed as follows: ]
+[(a) At least 20 percent of the  council members shall be parents, including minority parents, of
+preschool children with disabilities or of children with  disabilities who are 12 years of age or younger
+who have knowledge  of or experience with programs for infants and toddlers with disabilities. At least
+one council member shall be a parent of an infant or toddler with  a disability or of a child with a
+disability who is six years of age or younger. ]
+[(b) At least 20 percent of the council members shall  be public or private providers of early inter-
+vention and early childhood special education services. ]
+[(c) At least one council member shall be a member of the Legislative Assembly. ]
+[(d) At least one council member shall be involved in personnel preparation. ]
+[(e) At least one council member shall represent the Department of Human Services. ]
+[(f) At least one council member shall represent the federal Head Start program. ]
+[(g) At least one council member shall represent the Office of Child Care. ]
+[(h) At least one council member shall represent the Department of Education. ]
+[(i) At least one council member shall represent the  Department of Consumer and Business Ser-
+vices.]
+[(j) At least one council member shall represent the Early Learning Division. ]
+[(k) At least one  council member shall represent the Child Development and Rehabilitation Center
+of the Oregon Health and Science University. ]
+[(L) At least one council  member shall be a member of the State Advisory Council for Special
+Education created under ORS 343.287. ]
+[(m) At least one council member shall  be a representative designated by the state coordinator for
+homeless education. ]
+[(n) At least one council member shall represent the state child  welfare agency responsible for
+foster care.]
+Enrolled House Bill 3073 (HB 3073-D) Page 6
+[(o) At least  one council member shall represent the state agency responsible for children’s mental
+health.]
+[(p) At least one council member shall be from the Oregon Health Authority. ]
+[(q) The council may include other members appointed by the Governor,  including but not limited
+to one representative from the United States Bureau of Indian Affairs or, where there is  no school
+operated or funded by the bureau, from the Indian Health Service or the tribe or tribal council. ]
+(2) The membership of the council shall be composed as follows:
+(a) At least 20 percent  of the council members shall be parents of children with a disa-
+bility who are 12 years of age or younger at the time the council member  is appointed. When
+appointing council members under this paragraph, the Governor shall ensure that:
+(A) At least 50 percent of the council members are parents  of a child with a disability
+who is five years of age or younger at the time the council member is appointed;
+(B) At least 20 percent of the council members:
+(i) Are  parents of a child with a disability who is three years of age or younger at the
+time the council member is appointed; and
+(ii) Have knowledge of, or experience with, programs or services  for infants or toddlers
+with a disability; and
+(C) The council members represent the racial, ethnic  and linguistic diversity of children
+in this state who are five years of age or younger.
+(b) At least 20 percent  of the council members shall be public or private providers of
+early intervention and early childhood special education services.
+(c) At least one council member shall be from a program responsible for  preparing early
+intervention and early childhood special education educators.
+(d) At least one council member  shall be from a Head Start or Early Head Start program.
+(e) At least one council member shall be from a home-based child care program.
+(f) At least one council member shall be from a center-based child care program.
+(g) At least one council member shall be from the committee  that serves as the state
+advisory council, as described in ORS 326.425 (3).
+(h) At least one council member shall be a member of  the State Advisory Council for
+Special Education created under ORS 343.287.
+(i) At least one council member shall be from each state agency involved in  the provision
+of, or payment for,  early intervention and early childhood special education services to in-
+fants and toddlers with a disability and their families.
+(j) At least one council member shall be from each state  agency responsible for providing
+preschool services to children with a disability.
+(k) At least one council member shall be from each state agency responsible  for
+children’s mental health.
+(L) At least two council members shall be from the Department  of Human Services with
+expertise in foster care or self-sufficiency programs.
+(m) At least one council member shall be from the Office  of Child Care with expertise in
+the Child Care and Development Fund.
+(n) At least one council member shall  be a representative of the Department of Educa-
+tion with expertise in the coordination of education of homeless children and youth.
+(o) At least one council member  shall be from the Department of Consumer and Business
+Services with expertise in state regulation of private health insurance.
+(p) At least one council  member shall be from the Oregon Health Authority with exper-
+tise in Medicaid and the Children’s Health Insurance Program.
+(q) At least one council member shall be a representative from a tribal agency responsi-
+ble for supporting  young children with developmental delays and disabilities, from a tribal
+council or otherwise representing one or more tribes.
+(3) An individual appointed  to represent a state agency [ that is involved in the provision of or
+payment for services  for preschool children with disabilities under subsection (2)(e) and (h) to (k) of this
+Enrolled House Bill 3073 (HB 3073-D) Page 7
+section shall ] under subsection (2) of this  section must  have sufficient authority to engage in
+making and implementing policy on behalf of the  agency.  The Governor may appoint a council
+member to represent more than one  program or specialty listed in subsection (2) of this
+section.
+(4) In addition to the council members appointed under subsection (2) of this section:
+(a) The Governor may appoint any other  council members not listed in subsection (2) of
+this section.
+(b) The President of the Senate shall appoint  one member from among members of the
+Senate to serve as a nonvoting council member.
+(c) The Speaker of the House of Representatives shall appoint one member from  among
+members of the House of Representatives to serve as a nonvoting council member.
+[(4)] (5) The State Interagency Coordinating Council shall:
+(a) Advise the Superintendent of Public Instruction,  the State Board of Education , the Early
+Learning System Director  and the Early Learning Council on unmet  needs in the early childhood
+special education and early intervention programs for [ preschool ] children with [ disabilities] a disa-
+bility, review and comment publicly  on any rules proposed by the State Board of Education and the
+distribution of funds for the programs and  assist the state in developing and reporting data on and
+evaluations of the programs and services.
+(b) Advise and assist the represented public agencies regarding the services and programs  they
+provide to [ preschool ] children with  [ disabilities] a disability and their families, including public
+comments on  any proposed rules affecting the target population and the distribution of funds for
+such services, and assist each agency in developing services that reflect the overall goals for the
+target population as adopted by the council.
+(c) Advise [ and assist ] the Department of Education , the Early Learning  Division and other
+state agencies [ in] on the development and implementation of the policies that constitute the state-
+wide system.
+(d) [ Assist ] Advise all appropriate public agencies [ in] on achieving  the full participation, co-
+ordination and cooperation for implementation of a statewide system that includes but is  not limited
+to:
+(A) Seeking  information from service providers, service coordinators, parents and others about
+any federal, state or local policies that impede timely service delivery; and
+(B) Taking  steps to ensure that any policy problems identified under subparagraph (A) of this
+paragraph are resolved.
+(e) Advise [ and assist the Department of Education in ] the Superintendent of Public Instruc-
+tion and the Early Learning System Director on  identifying the sources of fiscal and  other sup-
+port for [ preschool ] early intervention and early childhood  special education services, assigning
+financial responsibility to the appropriate agencies and  ensuring that the provisions of interagency
+agreements under ORS 343.511 are carried out.
+(f) Review and comment on each agency’s services and policies regarding services for infants,
+toddlers and preschool children with [ disabilities, or ] a disability, or infants, toddlers and  pre-
+school children who are at risk of developing disabling conditions, and their families  to the maxi-
+mum extent possible to assure cost-effective and efficient use of resources.
+[(g) To the extent appropriate, assist the Department of Education in the resolution of disputes. ]
+[(h)] (g) Advise [ and assist ] the Department of Education and the Early  Learning Division on
+[in] the preparation of applications and amendments thereto.
+[(i)] (h) Advise [ and assist the Department of Education regarding the transition of preschool
+children with disabilities ] the Superintendent of Public Instruction  and the Early Learning
+System Director  regarding transitions of children with a disability, including transitions to
+kindergarten.
+[(j)] (i) Prepare and submit an annual report to the Governor, the Deputy Superintendent of
+Public Instruction,  the Early Learning System Director, the Early Learning Council, the State
+Board of Education,  the Legislative Assembly and the United States  Secretary of Education on the
+Enrolled House Bill 3073 (HB 3073-D) Page 8
+status of early intervention [ programs operated ] and early childhood special education services
+provided within this state.
+[(5)] (6) The council may advise appropriate agencies about integration of services for  preschool
+children with [ disabilities] a disability and at-risk preschool children.
+[(6)] (7) Terms of office for council members shall be three years, except that:
+(a) The  representative from the State Advisory Council for Special Education shall serve a
+one-year term; and
+(b) The representatives from other state agencies and the [ representative] representatives from
+the Legislative Assembly shall serve indefinite terms.
+[(7)] (8) Subject to approval by the Governor, the council may  use federal funds appropriated for
+this purpose and available to the council to:
+(a) Conduct hearings and forums;
+(b) Reimburse  nonagency council members under ORS 292.495 for attending council meetings, for
+performing council duties, and for necessary expenses, including child care for parent members;
+(c) Pay compensation to a council member if the member is not employed or if the member must
+forfeit wages from other employment when performing official council business;
+(d) Hire staff; and
+(e) Obtain the services of such professional, technical and  clerical personnel as may be neces-
+sary to carry out its functions.
+[(8)] (9) Except as provided in subsection [ (7)] (8) of this section,  council members shall serve
+without compensation.
+[(9)] (10) The Department of Education shall provide clerical and  administrative support, in-
+cluding staff, to the  council to carry out the performance of the council’s function as described in
+this section.
+[(10)] (11) The council shall meet at least quarterly. The meetings shall be announced  publicly
+and, to the extent appropriate, be open and accessible to the general public.
+[(11)] (12) No member of the council shall cast a  vote on any matter that would provide direct
+financial benefit to that member or  otherwise give the appearance of a conflict of interest under
+state law.
+EMPLOYMENT RELATED DAY CARE
+SECTION 8.
+ ORS 329A.500 is amended to read:
+329A.500. [ (1) The Department of Human  Services, in consultation with the Early Learning Divi-
+sion and the Office of Child Care, shall adopt rules  for the operation of subsidy programs for
+employment-related child care administered by the department. At a  minimum, and taking into account
+the availability of funds, the rules must provide the following: ]
+[(a) Subsidy recipients may be entitled to receive the subsidy for at least one year, regardless  of
+changes in employment. Rules adopted by the department may provide for  termination of subsidy el-
+igibility for reasons other  than changes in employment during the one-year period. Exit eligibility and
+copays must be structured to mitigate the financial  impact of reduced subsidy support due to increased
+income.]
+[(b) Subsidy recipients who are enrolled in coursework, as defined by  the department by rule, may
+be entitled to receive  the subsidy to enable the subsidy recipient to attend and participate in the
+coursework provided all other eligibility requirements are met. ]
+[(c) Persons who  are self-employed may qualify for subsidy programs provided all other eligibility
+requirements are met. ]
+[(d) Subsidy  recipients who voluntarily choose child care providers that meet minimum standards
+established under the tiered quality rating and improvement system implemented under ORS 329A.261
+may qualify for lower copayments. A fair representation of the subsidy recipients  who qualify for lower
+copayments must be persons with children who are from underserved racial, ethnic or minority popu-
+lations. In addition, child care providers that meet specified minimum standards established  under the
+Enrolled House Bill 3073 (HB 3073-D) Page 9
+tiered quality rating and improvement system may receive an enhanced reimbursement under the sub-
+sidy programs. ]
+[(e) Subsidy recipients must report a change of child care provider to the department during  the
+period a subsidy is being received. ]
+(1) As used in this section, “family” means any individual  who is responsible for the care,
+control and supervision of a child.
+(2) The Department of Human Services and the Early Learning Council shall  adopt rules
+for the operation of the  Employment Related Day Care subsidy program administered by the
+department.
+(3) The rules adopted under  this section must support equitable access to a supply of
+diverse child care providers that meet the needs of families, as those needs are defined by
+the department by rule, including:
+(a) Cultural diversity;
+(b) Linguistic diversity;
+(c) Racial and ethnic diversity; and
+(d) Diversity of provider types.
+(4) The rules adopted under this section must provide that:
+(a) A child’s eligibility  to participate in the Employment Related Day Care subsidy pro-
+gram must be based on:
+(A) The household income of a child’s family; and
+(B) Any other criteria established by the department.
+(b) A child must be able to receive care that:
+(A) Meets the child’s developmental, disability and neurodiversity needs; and
+(B) Enables the child’s family to complete activities that relate to  family well-being,
+which may include the family’s work hours, education  hours, commute time, study time and
+other activities that support family well-being.
+(c) Payment to child care providers must be based on enrollment instead of attendance.
+(5) Taking into account the availability of funds, the rules adopted under this  section
+must establish a sliding scale for copayment,  with the requirement that a copayment may
+not exceed seven percent of the household income of the child’s family.
+(6) In developing rules under this section, the department shall  consider policies for in-
+creasing the stability and continuity of a child’s access to a family’s preferred child  care
+provider.
+(7) Rules adopted by the department under this  section establish minimum requirements
+pertaining to the Employment Related Day Care subsidy program and may not be construed
+to preempt, limit or otherwise diminish the applicability of any  policy, standard or collective
+bargaining agreement that provides for an  increased subsidy or a child care provider re-
+imbursement amount under state or federal law.
+[(2)] (8)(a)  The department shall work to meet federal  recommendations for income eligibility
+and market access in  regard to [ employment-related child care ] the Employment Related Day Care
+subsidy program administered by the department.
+(b) Notwithstanding any provision of this section or any rule adopted  by the department
+pursuant to this section, the laws and regulations applicable to any federal funds  shall gov-
+ern when any aspect of child care is funded by federal funds.
+SECTION 8a.
+ ORS 329A.505 is amended to read:
+329A.505. (1) At any reasonable time, an authorized  representative of the Office of Child Care
+may conduct  an inspection or investigation of a regulated subsidy facility, as defined by the Early
+Learning Council by rule.
+(2) When conducting an investigation under this section, the Office of Child Care may:
+(a) Take evidence;
+(b) Take the depositions  of witnesses, including the person under investigation, in the manner
+prescribed by law for depositions in civil actions;
+Enrolled House Bill 3073 (HB 3073-D) Page 10
+(c) Compel the appearance of witnesses, including the person under investigation, in the  manner
+prescribed by law for appearances in civil actions;
+(d) Require answers to interrogatories;
+(e) Compel the production of  books, papers, accounts, documents or testimony that pertains to
+the matter under investigation;
+(f) Issue subpoenas; and
+(g) Inspect the premises of the facility under investigation.
+(3) The Office  of Child Care may, as a condition of finalizing an inspection, require improve-
+ments, corrections  or other measures to ensure that the regulated subsidy facility complies with the
+requirements under the rules adopted under this section.
+(4) [ Notwithstanding ORS 329A.500 (1) ] In addition to any rules adopted under  ORS
+329A.500, the Early  Learning Council, in consultation with the Department of Human Services, may
+adopt rules to establish minimum health and safety standards for regulated subsidy facilities and  for
+the administration of this section.
+SECTION 8b.
+Section 2, chapter 89, Oregon Laws 2021 (Enrolled House Bill  2059)
+(amending ORS 329A.500), is repealed and ORS 329A.500, as amended by section 8 of this 2021
+Act, is amended to read:
+329A.500. (1)  As used in this section, “family” means any individual who is responsible for the
+care, control and supervision of a child.
+(2) The Department of Human Services and the Early Learning Council shall adopt rules  for the
+operation of the Employment Related Day Care subsidy program administered by the department.
+(3) The rules adopted under this section must support equitable access to  a supply of diverse
+child care providers that meet the needs of families, as those needs are defined by the  department
+by rule, including:
+(a) Cultural diversity;
+(b) Linguistic diversity;
+(c) Racial and ethnic diversity; and
+(d) Diversity of provider types.
+(4) The rules adopted under this section must provide that:
+(a) A child’s eligibility to participate in the Employment Related Day Care subsidy program
+must be based on:
+(A) The household income of a child’s family; and
+(B) Any other criteria established by the department.
+(b) A child must be able to receive care that:
+(A) Meets the child’s developmental, disability and neurodiversity needs; and
+(B) Enables the child’s family to complete activities that relate to family well-being, which may
+include the family’s work hours, education hours, commute time,  study time and other activities that
+support family well-being.
+(c) Payment to child care providers must be based on enrollment instead of attendance.
+(d) A  child’s family may qualify for an incentive if the family voluntarily chooses a child
+care provider that participates in the quality recognition  and improvement system estab-
+lished under ORS 329A.261. A fair representation of the recipients  who qualify for incentives
+must be families with children who are from underserved racial, ethnic or minority popu-
+lations. In addition, child  care providers that participate in the quality recognition and im-
+provement system may receive financial incentives under the subsidy programs in
+accordance with criteria established by rule.
+(5) Taking into account the availability of funds, the rules adopted under this section must  es-
+tablish a sliding scale for copayment, with the requirement that  a copayment may not exceed seven
+percent of the household income of the child’s family.
+(6) In developing rules under this section, the  department shall consider policies for increasing
+the stability and continuity of a child’s access to a family’s preferred child care provider.
+Enrolled House Bill 3073 (HB 3073-D) Page 11
+(7) Rules adopted  by the department under this section establish minimum requirements per-
+taining to the Employment Related Day Care  subsidy program and may not be construed to preempt,
+limit or otherwise diminish the applicability of any policy, standard  or collective bargaining agree-
+ment that provides for an increased subsidy or a child care provider reimbursement amount  under
+state or federal law.
+(8)(a) The department shall work to meet federal recommendations for  income eligibility and
+market access in regard to the Employment Related Day  Care subsidy program administered by the
+department.
+(b) Notwithstanding any provision of this section or any rule adopted by the  department pursu-
+ant to this section,  the laws and regulations applicable to any federal funds shall govern when any
+aspect of child care is funded by federal funds.
+SECTION 9. (1) The amendments to ORS 329A.500 and 329A.505 by sections 8 and 8a of
+this 2021 Act become operative on October 1, 2021.
+(2) Notwithstanding the operative date specified  in subsection (1) of this section, the
+Department of Human Services  and the Early Learning Council may take any action before
+the operative date  specified in subsection (1) of this section that is necessary to enable the
+department and council to adopt rules  as required under ORS 329A.500 (4)(c) and (5) no later
+than October 1, 2021.
+SECTION 9a. The amendments to ORS 329A.500 by section 8b of this 2021 Act become
+operative on January 1, 2022.
+SECTION 10. (1) No later than July 1, 2022, the Early Learning  Council shall establish
+by rule a process by which to determine the true cost of child care compared to  the market
+rate cost.
+(2) No later than December 31, 2022, the Early Learning Division shall submit  a report
+to the appropriate interim committees of the Legislative Assembly on the transition to a rate
+of reimbursement that reflects the true cost of providing care.
+ESTABLISHMENT OF THE DEPARTMENT OF EARLY LEARNING AND CARE
+SECTION 11.
+ ORS 326.430 is amended to read:
+326.430. (1) The Department of  Early Learning [ Division] and Care is established . [ in the De-
+partment of Education. The purpose of the division is to ensure that children enter school ready  to
+succeed.]
+(2) The purposes of the department are to:
+(a) Ensure that every child in  this state is given the best opportunity to succeed in
+school, work and life by providing:
+(A) High-quality early childhood education  programs for children from birth through five
+years of age and child care for children from birth through 12 years of age; and
+(B) Care for children  who have a physical or developmental disability or who require
+other specialized care from birth through 17 years of age;
+(b) Administer laws and perform functions related to early childhood to ensure that
+children enter school ready to learn and families are healthy, stable and attached; and
+(c) Administer programs in a manner that supports parents’ and  providers’ needs and
+considers the economic security and well-being of parents and providers.
+[(2)] (3) The [ division] department shall  function under [ the direction and control of ] and be
+coordinated by the Early Learning Council [ with].
+(4) The  Early Learning System Director [ serving] appointed under section 12 of this 2021 Act
+shall serve as the administrative officer  of the department .
+SECTION 12.
+(1) The Department  of Early Learning and Care is under the supervision
+and control  of the Early Learning System Director, who is responsible for the performance
+of the duties, functions and powers of the department.
+Enrolled House Bill 3073 (HB 3073-D) Page 12
+(2) The director shall be appointed by the Governor  and serves at the pleasure of the
+Governor.
+(3) The director shall receive such salary as may be provided by law or, if not so provided,
+as may be fixed  by the Governor, and shall be reimbursed for all expenses actually and nec-
+essarily incurred by the director in the performance of official duties.
+(4) Subject to any applicable provisions of ORS chapter 240, the director  shall appoint all
+subordinate officers and employees of the department, prescribe their  duties and fix their
+compensation.
+(5) The director may apply for, receive and  accept grants, gifts or other payments, in-
+cluding property or services from any governmental or other public or private person, and
+may make arrangement to use the receipts, including for  undertaking special studies and
+other projects that relate to the costs of child care and access to child care.
+DUTIES, FUNCTIONS AND POWERS OF
+THE DEPARTMENT OF EARLY LEARNING AND CARE
+SECTION 13. (1) The Department of Early Learning and Care shall be responsible,  as
+designated by the Governor, for  administering funds received by the State of Oregon pursu-
+ant to the federal  Child Care and Development Block Grant Act of 2014, the Child Care and
+Development Fund and other federal child  care funds and grants received by the State of
+Oregon.
+(2) Through the legislative budgeting process, the Legislative Assembly  shall identify the
+portions of the funds received  by the State of Oregon pursuant to the federal Child Care and
+Development Block Grant Act of  2014 to be spent to provide quality child care, to provide
+child care subsidies and for administrative expenditures. The department shall  administer
+the funds according to the portions identified by the Legislative Assembly.
+(3) The department shall submit an  annual report to the Legislative Fiscal Office re-
+garding the expenditures of the funds received by the State of Oregon pursuant to the federal
+Child Care and Development Block Grant Act  of 2014 and the most recent estimate of the
+balance of the funds.
+SECTION 14.
+ ORS 131A.360 is amended to read:
+131A.360. (1) The provisions of  this section apply only to a forfeiting agency other than the
+state, and apply only to forfeiture proceeds arising out of  prohibited conduct as described in ORS
+131A.005 (12)(a), (b) and (c).
+(2) If the forfeiting agency is not a county, the forfeiting agency shall enter into an  agreement,
+under ORS chapter 190, with the county in which  the property was seized to provide a portion of
+the forfeiture proceeds to the county.
+(3) After entry of a judgment of forfeiture, a  forfeiting agency shall first pay from the forfeiture
+proceeds the costs incurred by seizing and forfeiting agencies in investigating and  prosecuting the
+case, including costs, disbursements and  attorney fees as defined in ORCP 68 A, special expenses
+such as the provision of currency  for undercover law enforcement operations, the cost of disabling
+a hidden compartment in a  motor vehicle and the expenses of maintaining the seized property. The
+forfeiting agency may not pay expenditures made in connection with the  ordinary maintenance and
+operation of a seizing or forfeiting agency under this subsection.
+(4) After payment of costs under subsection (3) of this section, the forfeiting agency shall:
+(a) Deduct an amount equal to five percent of the forfeiture proceeds and deposit that amount
+in the Illegal Drug Cleanup Fund  established under ORS 475.495 for the purposes specified in ORS
+475.495 (5) and (6);
+(b) Deduct an amount equal to 2.5 percent of the forfeiture proceeds and deposit  that amount
+in the Asset Forfeiture Oversight Account;
+Enrolled House Bill 3073 (HB 3073-D) Page 13
+(c) Deduct an amount equal to 20 percent of the forfeiture proceeds and  deposit that amount in
+the Oregon Criminal  Justice Commission Account established under ORS 137.662 for support for
+specialty courts as defined in ORS 137.680;
+(d) Deduct an amount equal to 10 percent of the forfeiture proceeds  and deposit that amount in
+the Department of  Early Learning [ Division] and Care Fund established under ORS 326.435 for
+disbursement to Relief Nursery programs as defined in ORS 417.786; and
+(e) Deduct an amount equal to 10 percent of the forfeiture proceeds and  deposit that amount in
+an account  established or designated by the State Treasurer in the higher education qualified tuition
+savings program  of the Oregon 529 Savings Network for disbursement to the scholarship program
+for children of public safety officers established under ORS 348.270.
+(5) If the forfeiting agency  has entered into an agreement with a county under subsection (2)
+of this section, after paying  costs under subsection (3) of this section and making the deductions
+required by subsection (4) of this section,  the forfeiting agency shall pay the county the amounts
+required by the agreement.
+(6) After making all payments  and deductions required by subsections (3), (4) and (5) of this
+section, the forfeiting agency may use the remaining forfeiture  proceeds, including amounts received
+by a county under subsection (5) of this section or  by any other public body under an intergovern-
+mental agreement entered into under ORS 131A.355, only for:
+(a) The purchase  of equipment necessary for the enforcement of laws relating to the unlawful
+delivery, distribution, manufacture or possession of controlled substances;
+(b) Currency for undercover law enforcement operations;
+(c) Drug awareness and drug education programs offered in middle schools and high schools;
+(d) The  expenses of a forfeiting agency in operating joint narcotic operations with other for-
+feiting agencies pursuant to the terms of an intergovernmental agreement,  including paying for
+rental space, utilities and office equipment;
+(e) Expenses of a district attorney in criminal prosecutions for unlawful  delivery, distribution,
+manufacture or possession  of controlled substances, as determined through intergovernmental
+agreement between the forfeiting agency and the district attorney;
+(f) Drug treatment and programs that support drug treatment; and
+(g) A CASA Volunteer Program as defined in ORS 184.489.
+(7) Notwithstanding subsection (6) of this section, growing equipment and laboratory equipment
+seized by  a forfeiting agency that was used, or intended for use, in the manufacturing of controlled
+substances may be donated to  a public school, community college or institution of higher education.
+(8) A forfeiting agency shall sell as much property  as may be needed to make the distributions
+required by this section. Distributions  required under subsection (4) of this section must be made
+once every three months and are due within 20 days of the end of each  quarter. No interest shall
+accrue on amounts that are paid within the period specified by this subsection.
+SECTION 15.
+ ORS 131A.365 is amended to read:
+131A.365. (1) The provisions of  this section apply only when the forfeiting agency is the state,
+and apply only to forfeiture proceeds  arising out of prohibited conduct as described in ORS 131A.005
+(12)(a), (b) and (c).
+(2) After entry of a judgment of forfeiture, a  forfeiting agency shall first pay from the forfeiture
+proceeds the costs incurred by seizing and forfeiting agencies in investigating and  prosecuting the
+case, including costs, disbursements and  attorney fees as defined in ORCP 68 A, special expenses
+such as the provision of currency  for undercover law enforcement operations, the cost of disabling
+a hidden compartment in a  motor vehicle and the expenses of maintaining the seized property. The
+forfeiting agency may not pay expenditures made in connection with the  ordinary maintenance and
+operation of a seizing  or forfeiting agency under this subsection. Any amount paid to or retained
+by the Department of  Justice under this subsection shall be deposited in the Criminal Justice Re-
+volving Account in the  State Treasury. Any amount paid to or retained by the Oregon State Police
+under this subsection shall be deposited in the State Police Account.
+(3) After payment of costs under subsection (2) of this section, the forfeiting agency shall:
+Enrolled House Bill 3073 (HB 3073-D) Page 14
+(a) Deduct an amount equal to 10 percent of the forfeiture proceeds  and deposit that amount in
+the Illegal Drug Cleanup Fund established under ORS 475.495 for  the purposes specified in ORS
+475.495 (5) and (6);
+(b) Deduct an amount equal to three percent of the forfeiture proceeds, not  to exceed $50,000
+in a biennium, and deposit that amount in the Asset Forfeiture Oversight Account;
+(c) Deduct an amount equal to 20 percent of the forfeiture proceeds and  deposit that amount in
+the Oregon Criminal  Justice Commission Account established under ORS 137.662 for support for
+specialty courts as defined in ORS 137.680;
+(d) Deduct an amount equal to 10 percent of the forfeiture proceeds  and deposit that amount in
+the Department of  Early Learning [ Division] and Care Fund established under ORS 326.435 for
+disbursement to Relief Nursery programs as defined in ORS 417.786; and
+(e) Deduct an amount equal to 10 percent of the forfeiture proceeds and  deposit that amount in
+an account  established or designated by the State Treasurer in the higher education qualified tuition
+savings program  of the Oregon 529 Savings Network for disbursement to the scholarship program
+for children of public safety officers established under ORS 348.270.
+(4) If the forfeiting agency has  entered into an intergovernmental agreement with another public
+body under ORS 131A.355, or has entered into an  agreement with any other law enforcement agency
+of the state relating to distribution  of forfeiture proceeds, after paying costs under subsection (2)
+of this section and making  the deductions required by subsection (3) of this section, the forfeiting
+agency shall pay an equitable portion of the forfeiture proceeds to  each agency participating in the
+seizure or forfeiture as provided by the agreement.
+(5) After making all payments and deductions required by subsections (2), (3)  and (4) of this
+section, the forfeiting agency shall distribute the remaining forfeiture proceeds as follows:
+(a) If  no law enforcement agency other than the Department of Justice participated in the sei-
+zure or forfeiture, the remaining  forfeiture proceeds, and forfeiture proceeds received by the De-
+partment of Justice under subsection (4) of this section,  shall be divided between the Criminal
+Justice Revolving Account and the Special Crime and Forfeiture Account  according to the following
+schedule:
+(A) One hundred percent of the first $200,000  accumulated shall be deposited in the Criminal
+Justice Revolving Account.
+(B) Seventy-five percent of the next $200,000 shall  be deposited in the Criminal Justice Revolv-
+ing Account and the balance in the Special Crime and Forfeiture Account.
+(C) Fifty percent of the next $200,000 shall be deposited in the Criminal Justice Revolving Ac-
+count and the balance in the Special Crime and Forfeiture Account.
+(D) Twenty-five percent  of the next $200,000 shall be deposited in the Criminal Justice Revolving
+Account and the balance in the Special Crime and Forfeiture Account.
+(E) One hundred percent of all additional sums shall be deposited in the Special  Crime and
+Forfeiture Account.
+(b) If  no law enforcement agency other than the Department of State Police participated in the
+seizure or forfeiture, the remaining proceeds, and proceeds received by the Department of State
+Police under subsection (4) of this section, shall be divided  between the State Police Account and
+the Special Crime and Forfeiture Account according to the following schedule:
+(A) One hundred percent of the first $600,000 accumulated shall be deposited in the State  Police
+Account.
+(B) Seventy-five percent of the next $300,000 shall be  deposited in the State Police Account and
+the balance in the Special Crime and Forfeiture Account.
+(C) Fifty percent of the next $200,000 shall be  deposited in the State Police Account and the
+balance in the Special Crime and Forfeiture Account.
+(D) Twenty-five percent of the next $200,000 shall be deposited in the State  Police Account and
+the balance in the Special Crime and Forfeiture Account.
+(E) One hundred  percent of all additional sums shall be deposited in the Special Crime and
+Forfeiture Account.
+Enrolled House Bill 3073 (HB 3073-D) Page 15
+(6) Forfeiture proceeds distributed under subsection (5) of this section may be used only for:
+(a) The purchase of equipment necessary for the enforcement of laws relating to  the unlawful
+delivery, distribution, manufacture or possession of controlled substances;
+(b) Currency for undercover law enforcement operations;
+(c) Drug awareness  and drug education programs offered in middle schools and high schools; and
+(d) The expenses of a forfeiting agency in operating joint narcotic operations with other  for-
+feiting agencies pursuant to  the terms of an intergovernmental agreement, including paying for
+rental space, utilities and office equipment.
+(7) A forfeiting agency shall sell as much property  as may be needed to make the distributions
+required by this section. Distributions  required under subsection (3) of this section must be made
+once every three months and are due within 20 days of the end of each  quarter. No interest shall
+accrue on amounts that are paid within the period specified by this subsection.
+SECTION 16.
+ ORS 183.459 is amended to read:
+183.459. (1) Notwithstanding ORS 8.690, 9.160 and  9.320, a home care worker or personal support
+worker, as defined in ORS 410.600, who is a party in a contested case hearing  conducted by the
+Department of Human Services may be represented in the hearing by a labor union representative.
+(2) Notwithstanding ORS 8.690, 9.160 and 9.320, a family  child care provider, as defined in
+ORS 329A.430, who is a party in a contested case hearing conducted by the  Office of Child
+Care may be represented in the hearing by a labor union representative.
+[(2)] (3) The  hearing officer at a contested case hearing in which a labor union representative
+appears under the provisions  of this section shall allow the representative to present evidence, ex-
+amine and cross-examine witnesses and make arguments relating to the:
+(a) Application of statutes and rules to the facts in the contested case;
+(b) Actions taken by the agency in the past in similar situations;
+(c) Literal meaning of the statutes or rules at issue in the contested case;
+(d) Admissibility of evidence; and
+(e) Proper procedures to be used in the contested case hearing.
+SECTION 17.
+ ORS 279A.050 is amended to read:
+279A.050. (1)(a) Except as otherwise provided in the  Public Contracting Code, a contracting
+agency shall exercise all of the contracting agency’s procurement authority in accordance with  the
+provisions of the Public Contracting Code.
+(b) If a contracting agency  has authority under this section to carry out functions described in
+this section, or has authority to make procurements under a provision of law other than  the Public
+Contracting Code, the contracting agency need not exercise the contracting agency’s authority in
+accordance with the provisions of the code if, under ORS 279A.025,  the code does not apply to the
+contract or contracting agency.
+(2)(a) Except as otherwise  provided in paragraph (b) of this subsection and the Public Con-
+tracting Code, for state agencies the Director of the  Oregon Department of Administrative Services
+has all the authority available to carry out the provisions of the Public Contracting Code.
+(b) Except  as otherwise provided in the Public Contracting Code, for state agencies the director
+may delegate to  the State Chief Information Officer the authority to procure or supervise the pro-
+curement of all goods, services and personal services related to information technology  and tele-
+communications for state contracting agencies. This paragraph does  not apply to contracts under
+which the contractor delivers to the state agency information technology products  or services inci-
+dentally in performing a personal  services contract described in ORS chapter 279C or a construction
+contract described in ORS chapter 279C.
+(3) Except as otherwise provided in the Public Contracting Code, the Director  of Transportation
+has all the authority available to:
+(a) Procure  or supervise the procurement of all services and personal services to construct, ac-
+quire, plan, design, maintain and operate passenger terminal  facilities and motor vehicle parking
+facilities in connection with any public transportation system in accordance with ORS 184.689 (5);
+Enrolled House Bill 3073 (HB 3073-D) Page 16
+(b) Procure  or supervise the procurement of all goods, services, public improvements and per-
+sonal services that relate to operating, maintaining or constructing highways, bridges and  other
+transportation facilities that are subject to the authority of the Department of Transportation; and
+(c) Establish standards for,  prescribe forms for and conduct the prequalification of prospective
+bidders on public improvement contracts that relate to  operating, maintaining or constructing
+highways, bridges and other transportation  facilities that are subject to the authority of the De-
+partment of Transportation.
+(4) Except as otherwise provided in the Public Contracting Code, the Secretary of State has  all
+the authority to procure or supervise the procurement of goods, services and personal services  re-
+lated to programs under the authority of the Secretary of State.
+(5) Except as otherwise provided in the  Public Contracting Code, the State Treasurer has all the
+authority to procure or supervise the procurement of goods, services and  personal services related
+to programs under the authority of the State Treasurer.
+(6) The state agencies listed in this subsection have all the authority to do the following  in ac-
+cordance with the Public Contracting Code:
+(a) The Department of  Human Services to procure or supervise the procurement of goods, ser-
+vices  and personal services under ORS 179.040 for the department’s institutions and the procurement
+of goods, services and personal services for  constructing, demolishing, exchanging, maintaining, op-
+erating and equipping housing for the purpose of  providing care to individuals with intellectual
+disabilities or other developmental disabilities, subject to applicable provisions of ORS 427.335;
+(b) The Oregon Health Authority  to procure or supervise the procurement of goods, services and
+personal services under ORS 179.040 and construction materials, equipment and  supplies for the
+authority’s institutions and the procurement of goods, services, personal services, construction ma-
+terials, equipment and  supplies for constructing, demolishing, exchanging, maintaining, operating
+and equipping housing for individuals with chronic mental illness, subject to  applicable provisions
+of ORS 426.504;
+(c) The State Department of Fish  and Wildlife to procure or supervise the procurement of con-
+struction materials, equipment, supplies, services and personal services  for public improvements,
+public works or ordinary construction described in ORS 279C.320  that is subject to the authority
+of the State Department of Fish and Wildlife;
+(d) The State Parks and Recreation  Department to procure or supervise the procurement of all
+goods, services, public improvements and personal services related to state parks;
+(e) The Oregon Department of Aviation to procure or supervise the  procurement of construction
+materials, equipment,  supplies, services and personal services for public improvements, public works
+or ordinary construction described in ORS 279C.320 that is subject to the authority of  the Oregon
+Department of Aviation;
+(f) The Oregon Business Development Department to procure or supervise the procurement  of
+all goods, services, personal services and public improvements related to its foreign trade offices
+operating outside the state;
+(g) The Housing and Community Services Department to  procure or supervise the procurement
+of goods, services and personal services as provided in ORS 279A.025 (2)(o);
+(h) The Department of Corrections  to procure or supervise the procurement of construction
+materials, equipment,  supplies, services and personal services for public improvements, public works
+or ordinary construction described in ORS 279C.320 that is subject to the authority of the Depart-
+ment of Corrections;
+(i) The Department of Corrections, subject to any applicable provisions of ORS 279A.120,
+279A.125, 279A.145 and  283.110 to 283.395, to procure or supervise the procurement of goods, ser-
+vices and personal services under ORS 179.040 for its institutions;
+(j) The Department of Veterans’ Affairs to  procure or supervise the procurement of real estate
+broker and principal real estate broker services related to programs under the department’s au-
+thority;
+Enrolled House Bill 3073 (HB 3073-D) Page 17
+(k) The Oregon Military Department to procure or supervise the  procurement of construction
+materials, equipment,  supplies, services and personal services for public improvements, public works
+or ordinary construction  described in ORS 279C.320 that is subject to the authority of the Oregon
+Military  Department;
+(L) The Department  of Education, subject to any applicable provisions of ORS 329.075, 329.085
+and 329.485 and the federal Every Student Succeeds Act (P.L. 114-95, 129  Stat. 1802), to procure or
+supervise the procurement of goods, services, personal services and information  technology related
+to student assessment; [ and]
+(m) The Department of Early Learning and Care to procure or supervise  the procure-
+ment of goods, services, personal services and information technology related  to early
+childhood; and
+[(m)] (n) Any state agency to  conduct a procurement when the agency is specifically authorized
+by any provision of law other than the Public Contracting Code to enter into a contract.
+(7)(a) Notwithstanding this section and  ORS 279A.140 (1), the Director of the Oregon Depart-
+ment of Administrative Services has exclusive authority, unless the director delegates  the authority,
+to procure or supervise the procurement of all price agreements  on behalf of the state agencies
+identified in subsection (6) of this section under which more than one  state agency may order goods,
+services or personal services.
+(b) The director may delegate to  the State Chief Information Officer the exclusive authority to
+procure or supervise the procurement  of all price agreements related to information technology and
+telecommunications on behalf of the state agencies identified in subsection (6)  of this section.
+Notwithstanding any authority that a state agency may have under subsection (3) or (6)  of this
+section,  the  state agency may not establish a price agreement or enter into a contract for goods,
+services or personal services  without the approval of the director or the State Chief Information
+Officer if the director or the State Chief Information Officer has established a  price agreement for
+the goods, services or personal services.
+(c) The State Chief  Information Officer may review any solicitation document for procuring in-
+formation technology or telecommunications that a state agency  intends to issue before the state
+agency issues the  solicitation document and may require the state agency to name the State Chief
+Information Officer as a third-party beneficiary with full authority to enforce the terms and condi-
+tions of any public contract for information technology or telecommunications. The State Chief In-
+formation Officer must approve a state agency’s procurement for information technology  or
+telecommunications if the procurement has an anticipated contract price of  $1 million or more. The
+State Chief Information Officer may require the  state agency to name the State Chief Information
+Officer as the contracting party on behalf of the State  of Oregon in a procurement for information
+technology or telecommunications that has an anticipated contract price of $1 million or more.
+SECTION 18.
+ ORS 326.425 is amended to read:
+326.425. (1) The Early Learning Council is established.
+(2) The council is established to coordinate a unified and aligned system of early learning  ser-
+vices for the purposes of ensuring that:
+(a) Children enter school ready to learn; and
+(b) Families are healthy, stable and attached.
+(3) The Early  Learning Council shall accomplish the purposes described in subsection (2) of this
+section  by:
+(a) Designating a committee to serve as the state advisory council for purposes of :
+(A) The federal Head Start Act, as provided by ORS 417.796.
+(B) Providing advice on matters related to the Oregon prekindergarten program.
+(b) Coordinating an integrated system that aligns the delivery of early learning services.
+(c) Coordinating the Oregon Early Learning System created by ORS 417.727.
+(4) The council consists of members appointed as provided by subsections (5) and  (6) of this
+section.
+Enrolled House Bill 3073 (HB 3073-D) Page 18
+(5)(a) The  Governor shall appoint nine voting members who are appointed for a term of four
+years and serve at the pleasure of the Governor. A  person appointed under this subsection may not
+be appointed to serve more than two consecutive full terms as a council member.
+(b) When  determining whom to appoint to the council under this subsection, the Governor shall:
+(A) Ensure that each congressional district of this state is represented;
+(B) Ensure that at least one member represents the tribes of this state;
+(C) Ensure that at  least one member represents the workforces for child care and early learning;
+(D) Ensure that each member meets the following qualifications:
+(i) Demonstrates leadership skills in civics or the member’s profession;
+(ii) To the greatest extent  practicable, contributes to the council’s representation of the ge-
+ographic, ethnic, gender, racial and economic diversity of this state; and
+(iii) Contributes to the council’s expertise, knowledge and experience in early  childhood devel-
+opment, early childhood care, early childhood education,  family financial stability, populations dis-
+proportionately burdened by poor education outcomes and outcome-based best practices; and
+(E) Solicit recommendations from the Speaker  of the House of Representatives for at least two
+members and from the President of the Senate for at least two members.
+(6) In addition to the members appointed under subsection (5) of this section,  the Governor shall
+appoint nonvoting, ex officio members who represent relevant state agencies.
+(7) The activities of  the council shall be directed and supervised by the Early Learning System
+Director [ who is appointed by the Governor and serves at the pleasure of the Governor ].
+(8) In accordance with applicable provisions of ORS chapter 183, the council may adopt  rules
+necessary for the administration of the laws that the council  is charged with administering.  When
+adopting rules related to child care, the council must appoint an advisory committee  in ac-
+cordance with ORS 183.333 that includes  representatives of child care providers that are li-
+censed or not licensed, as appropriate.
+SECTION 19.
+ ORS 326.435 is amended to read:
+326.435. (1) The Department of  Early Learning [ Division] and Care Fund is established in the
+State Treasury, separate and distinct from the General Fund. Interest earned  by the Department
+of Early Learning [ Division] and Care Fund shall be credited to the fund.
+(2) Moneys in the Department of  Early Learning [ Division] and Care Fund consist of:
+(a) Amounts donated to the fund;
+(b) Moneys transferred to the fund from  the federal government, state agencies and local gov-
+ernments;
+(c) Amounts appropriated or otherwise transferred to the fund by the Legislative Assembly;
+(d) Investment earnings received on moneys in the fund; and
+(e) Other amounts deposited in the fund from any source.
+(3) Moneys in the fund are continuously appropriated to the Department of [ Education] Early
+Learning and Care for the  purpose of fulfilling the duties, functions and powers of the Department
+of Early Learning [ Division] and Care .
+(4) The  Department of Early Learning and Care  may establish accounts and subaccounts
+within the fund when the Department of Early Learning and Care  determines that accounts  or
+subaccounts are necessary or desirable and may credit any interest or  income derived from moneys
+in the fund to any account or subaccount in the fund.
+SECTION 20.
+ ORS 327.269 is amended to read:
+327.269. (1) The Early Learning Account is established within the Fund for Student Success.
+(2) The Early Learning Account shall consist of:
+(a) Moneys transferred from the Fund for Student Success under ORS 327.001;
+(b) Moneys appropriated or otherwise transferred to the account by the Legislative Assembly;
+(c) Amounts donated to the account; and
+(d) Other amounts deposited into the account from any source.
+(3) The Department of Education  or the Department of Early Learning and Care , on behalf
+of the State of  Oregon, may solicit and accept gifts, grants, donations and other moneys from public
+Enrolled House Bill 3073 (HB 3073-D) Page 19
+and private sources for the Early Learning Account. Moneys received as  provided in this subsection
+shall be deposited into the Early Learning Account.
+(4) Moneys in the Early Learning Account  are continuously appropriated to the Department of
+Education and the Department of Early Learning and Care  for early learning programs as de-
+scribed in ORS 327.274.
+SECTION 21.  ORS 327.274 is amended to read:
+327.274. (1) The Department of [ Education and the ] Early Learning [ Division] and Care shall use
+moneys in the Early  Learning Account to provide funding for early learning programs in a manner
+consistent with a statewide early learning system plan overseen by the Early Learning Council.
+Early learning programs that may receive moneys from the Early Learning Account include:
+(a) Early childhood special education  or early intervention services, as provided by ORS 343.475;
+(b) Relief nurseries;
+(c) Programs funded by the Early Childhood Equity Fund;
+(d) The Oregon prekindergarten program and other public preschool programs established  under
+ORS 329.170 to 329.200, by increasing:
+(A) The total number of spaces for children served by the programs; or
+(B) Existing spaces for full-day programs from half-day programs;
+(e) Professional development for early childhood educators; and
+(f) Early Head Start programs.
+(2) In addition to the uses  identified in subsection (1) of this section, moneys in the Early
+Learning Account may be used for staffing needs of the Department of  Early  Learning [ Division]
+and Care for the purpose of implementing this section.
+(3) The [ State Board  of Education and the ] Early Learning Council shall adopt rules necessary
+for the distribution of moneys under this section.
+SECTION 22.
+ ORS 329.155 is amended to read:
+329.155. (1) As used in this section:
+(a) “Families” means groups of individuals related by blood, marriage or adoption, or  in-
+dividuals whose functional relationships are similar to those found in such  associations. The
+family’s purpose is  the security, support, nurturance, love, transmission of values and facil-
+itation of each member’s growth and development, and is the primary social unit affecting
+a child’s well-being.
+(b) “Services” means education and all other programs and services addressing one  or
+more of a child’s basic needs.
+(c) “Young children” means children prenatal through six years of age.
+[(1)] (2) State agencies that administer education programs and other programs that  provide
+services for children and families shall:
+(a) Evaluate the effectiveness of the program as related to the principles stated in ORS  329.025
+and 417.305 in the earliest stages of  the budget process, including components within programs as
+appropriate;
+(b) Articulate ways in which the program is:
+(A) An effective component of agency and state priorities, goals and strategies that  have been
+established by the Early Learning Council; and
+(B) Relevant to research and professional standards;
+(c) Establish plans, interagency partnerships and implementation practices;
+(d) Use the information generated by applicable state advisory groups  and governing boards in
+the program assessment of needs and decisions as to service delivery in a given community; and
+(e) Identify barriers to improving program capability to serve the needs of  young children and
+make related recommendations, if any, to the Early Learning Council.
+[(2)] (3) The processes listed in subsection [ (1)] (2) of this section are for the purpose of gener-
+ating interagency coordination so as to serve to the greatest extent possible young  children and
+their families in a comprehensive and  developmentally appropriate fashion. The information gener-
+ated by these processes shall be  considered as a contribution to subsequent budget decisions by
+Enrolled House Bill 3073 (HB 3073-D) Page 20
+state and local agencies, the Oregon  Department of Administrative Services and the Legislative
+Assembly.
+SECTION 23.  ORS 329.156 is amended to read:
+329.156. (1) The Department of  Education and the Department of Human Services shall support
+the development and implementation of a network of community learning centers across the state.
+(2) Within available funding, the Department of  Early Learning [ Division] and Care , in con-
+junction with other organizations that provide training and  technical assistance to schools or com-
+munity programs, shall provide training and technical assistance to  promote the development and
+implementation of community learning centers. To the extent  possible, the [ division] Department
+of Early Learning and  Care shall use voluntary organizations to provide the training and technical
+assistance.
+(3) Community learning centers created pursuant to this section shall:
+(a) Be located in or near a school or a cluster of schools;
+(b) Involve parents in the care and education of their children;
+(c) Involve the local community in developing  and overseeing community learning center pro-
+grams;
+(d) Incorporate the principles of family support services described  in ORS [ 329.150 and] 417.342;
+(e) In partnership with the local school district  board, create or designate an advisory commit-
+tee to offer guidance on program development and implementation, with  membership that is repre-
+sentative of the diversity of community interests,  including representatives of businesses, schools,
+faith-based organizations, social service and health  care agencies, cultural groups, recreation
+groups, municipal  governments, community colleges, libraries, child care providers, parents and
+youths; and
+(f) Conduct an assessment of strengths, needs and assets within the community to  be served by
+the community learning center that identifies services being  delivered in the community, defines and
+clarifies services that are missing or overlapping and builds  on any existing community assessments.
+(4) The Department of Human Services and the Department of Education  shall provide technical
+assistance to community learning  centers to develop policies ensuring that confidential information
+is disclosed only in accordance with state and federal laws.
+SECTION 24.
+ ORS 329.165 is amended to read:
+329.165. (1) The Department of Early Learning and Care, in consultation with the  Early
+Learning Council , shall develop a long-range  plan for serving eligible children and their families and
+shall report to each odd-numbered year regular session of the Legislative Assembly on the  funds
+necessary to implement the long-range plan, including but not limited  to [ regular] programming
+costs, salary enhancements [ and program improvement  grants ], infrastructure and other contin-
+uous quality improvement costs . The [ council] department  shall determine the rate of increase
+in funding for programs necessary each biennium to provide service to all children eligible  for the
+Oregon prekindergarten program.
+(2) Each biennial report shall include but not be limited to estimates of the number of eligible
+children and families to be served, projected cost of programs and evaluation of the programs.
+SECTION 25.  ORS 329.170 is amended to read:
+329.170. As used in ORS 329.170 to 329.200:
+(1) “Oregon prekindergarten” means a program that is recognized by the Department of Early
+Learning [ Division] and Care as meeting  the minimum program rules to be adopted by the Early
+Learning Council and that provides comprehensive  health, education and social services to children
+prenatally through five years of age in order to maximize the potential  of those children when they
+enter kindergarten.
+(2) “Oregon prekindergarten program” means the statewide  administrative activities carried on
+within the Department of Early Learning [ Division] and Care to allocate, award and  monitor state
+funds appropriated to create or assist local Oregon prekindergartens.
+[(3) “Preschool Promise Program” means  the preschool program administered by the Early
+Learning Division under ORS 329.172. ]
+Enrolled House Bill 3073 (HB 3073-D) Page 21
+SECTION 26.  ORS 329.172 is amended to read:
+329.172. (1)(a) The Preschool Promise Program is established. The Department of  Early
+Learning [ Division] and Care shall administer the Preschool Promise Program  as provided by this
+section. The Preschool Promise Program shall expand preschool options available to the  children
+of this state.
+(b) In administering the Preschool Promise Program, the [ Early Learning Division ] department
+shall identify local entities as provided under subsection  (3) of this section within the region served
+by each Early Learning Hub to serve as a preschool provider [ or as  a fiscal agent for multiple pre-
+school providers that meet ] that  meets  the eligibility criteria established under subsections (4) and
+(5) of this section.
+(2) For the purpose of expanding and coordinating preschool options  under the Preschool
+Promise Program, Early Learning Hubs shall:
+(a) Once every two years,  in consultation with resource and referral entities established under
+ORS 329A.100 to 329A.135, complete a community plan to identify priority populations  of children
+and families to enroll in preschool,  to assess the availability of high-quality preschool programs and
+to identify existing preschool providers and other related services within the region  served by the
+Early Learning Hub.
+(b) Based on the results of the most recent  community plan, annually coordinate and collaborate
+with preschool providers to:
+(A) Determine the preschool program that best  meets the needs of eligible children and their
+families within the Early Learning Hub; and
+(B) Enroll eligible children in preschool programs.
+(3) A local entity may apply to the [ Early Learning Division ] department to be awarded grants
+or contracts to  be a preschool provider [ or to act as a fiscal agent for multiple preschool providers ]
+under this section if the local entity is:
+(a) An Early Learning Hub designated under ORS 417.827;
+(b) A resource and referral entity established under ORS 329A.100 to 329A.135;
+(c) An education service district;
+(d) A school district;
+(e) A federal Head Start program;
+(f) A community-based organization; or
+(g) Another entity identified by the [ Early Learning Division ] department.
+(4) A preschool provider that meets the requirements of this  subsection may apply to participate
+in the Preschool Promise Program to receive grants or contracts under  the program. The preschool
+provider:
+(a) Must be establishing a new preschool program or expanding an existing preschool program.
+(b) Must meet or exceed the requirements of subsection (5) of this section.
+(c) May  be a federal Head Start program, an Oregon prekindergarten, a child care provider, a
+relief nursery, a private  preschool, a public school, a public charter school, an education service
+district or a community-based organization that provides a preschool program.
+(5) A preschool provider may participate in the  Preschool Promise Program if the provider’s
+preschool program:
+(a) Provides, at a minimum, the annual number of instructional hours required for  full-day
+kindergarten.
+(b) Takes into consideration the scheduling needs of families who need full-time child care.
+(c) Serves children who:
+(A) Are at least three years  of age but not older than five years of age, as determined by the
+date used to determine kindergarten eligibility; and
+(B)(i) Are members of families whose incomes, at the time of  enrollment, are at or below 200
+percent of the federal poverty guidelines; or
+(ii) Otherwise meet criteria established by the Early Learning Council by rule.
+(d) Provides continuity from infant and toddler services to early elementary grades.
+Enrolled House Bill 3073 (HB 3073-D) Page 22
+(e) Demonstrates an ability to maximize available federal, state and local funds.
+(f) Demonstrates [ quality through meeting standards ] an ability  to meet quality standards
+adopted by the Early Learning Council , including:
+(A) Participating in  the quality [ rating] recognition and improvement system for early childhood
+programs as established by ORS 329A.261 .
+(B) Adopting culturally responsive teaching methods and practices.
+(C) Providing  a high-quality, culturally responsive family engagement environment that supports
+parents as partners in a child’s learning and development.
+(D) Providing high-quality, culturally responsive curricula, assessments and professional devel-
+opment that are linked to one another and to the state’s comprehensive early learning standards.
+(E) Providing a classroom environment that is inclusive of all children,  regardless of ability or
+family income.
+(F) Providing highly trained lead preschool teachers who have:
+(i) At least a bachelor’s degree in:
+(I) Early childhood education or a field related to early childhood education; or
+(II) A field not related to early childhood education if the [ Early Learning Division ]
+department, based on rules adopted by the Early Learning Council, determines that  the teacher
+has completed coursework that is equivalent to a major in early childhood  education and has suffi-
+cient training in early childhood education;
+(ii) An associate degree with additional training or  additional certification in early childhood
+education or a field related to early childhood education, as  determined by the [ Early Learning Di-
+vision] department based on rules adopted by the Early Learning Council; or
+(iii) Sufficient alternative credentialing to indicate that the teacher is highly trained, as deter-
+mined by the [ Early Learning Division ] department based on rules adopted by the Early Learning
+Council.
+(G) Providing lead preschool  teachers and teaching assistants with a salary that meets the
+minimum salary requirements established by the Early Learning Council.
+(H) Providing at least one teaching  assistant in each classroom who provides support for aca-
+demic instruction and who meets the state’s personnel qualification requirements [ of one of the top
+two tiers for the quality rating and improvement  system for early childhood programs ] as established
+by rule by the Early Learning Council .
+(I) Providing children and families with  additional health and child development supports, such
+as screening, referrals and coordination with health care providers.
+(g) Incorporates best practices in outreach, enrollment and programming for diverse cultural and
+linguistic populations and children who have been historically underserved in preschool programs.
+(h) Works in collaboration  with community programs to ensure that families have knowledge of,
+and are connected to, community resources and supports to meet the  needs of children and families
+served by the preschool program.
+(i) Participates in an ongoing monitoring and program evaluation system that is used  for con-
+tinuous program improvement.
+(6)(a) While any moneys received under a grant received or  a contract entered into as provided
+by this section must be used to serve children described in subsection (5)(c) of  this section, nothing
+in subsection (5)(c) of this section prevents a preschool provider from serving  additional children,
+including children who:
+(A) Pay tuition for the preschool program and whose family income at the time of  enrollment
+exceeds 200 percent of federal poverty guidelines.
+(B) Are funded by the Oregon prekindergarten  program, a federal Head Start program or an-
+other source of funding.
+(b) If a preschool provider participating in  the Preschool Promise Program serves children de-
+scribed in paragraph (a) of this  subsection, moneys received under a grant or contract as provided
+by this section may not be used  to pay for expenses incurred for the children described in paragraph
+(a) of this subsection.
+Enrolled House Bill 3073 (HB 3073-D) Page 23
+(7) A preschool provider participating in the Preschool  Promise Program may receive a waiver
+of any of the requirements described in subsection (5) of this section if the waiver:
+(a) Is for a preschool program that is maintaining progress toward quality; and
+(b) Is anticipated for the first years of the preschool program only.
+(8) To assist the [ Early Learning Division ] department in administering this section, the Early
+Learning Council shall:
+(a) Identify resources necessary for the [ Early Learning Division ] department to  develop, sup-
+port and sustain the implementation of  a high-quality preschool program, including evaluations,
+professional development opportunities,  technical assistance, monitoring guidance and administra-
+tive assistance.
+(b) Ensure that pathways and  supports are available to teaching staff to increase culturally and
+linguistically diverse staff to teach and assist in preschool classrooms.
+(c) Establish minimum salary requirements  and target salary guidelines for lead preschool
+teachers and teaching assistants at preschool providers participating in the Preschool Promise Pro-
+gram. Minimum salary requirements may be differentiated by  program type. Target salary guidelines
+shall be, to the extent  practicable, comparable to lead kindergarten teacher and teaching assistant
+salaries in public schools. The [ Early Learning Division ] department shall provide guidelines  and
+technical assistance to preschool providers participating in the Preschool Promise Program to ad-
+dress salary disparities among preschool teachers and preschool staff.
+(d) Develop  strategies that strive to increase the mean salary for lead teachers, teaching as-
+sistants and other  preschool staff employed by preschool providers participating in the Preschool
+Promise Program.
+(e) Administer waivers as described in subsection (7) of this section.
+(f) Develop strategies to ensure preschool providers have the resources necessary to  maintain
+children in placement in the Preschool Promise Program.
+(9) Each biennium, the [ Early Learning Division ] department shall submit  a report to the Leg-
+islative Assembly that describes:
+(a) The number of children served by the Preschool Promise Program, including the  number of
+children:
+(A) Whose family incomes are at or below 200 percent of the federal poverty guidelines;
+(B) Whose family incomes are between 100 and 200 percent of the federal poverty guidelines;
+(C) Who pay tuition;
+(D) Who are eligible for Head Start programs; and
+(E) Who are eligible for early childhood special education.
+(b) The cost to serve each child described in subsection (5)(c) of this section.
+(c) The level of state support received for implementing the Preschool Promise Program.
+(d) The effectiveness of the Preschool Promise Program, including  student progress and out-
+comes.
+(e) Improvements that have been made to the administration and evaluation of  the Preschool
+Promise Program to improve the effectiveness of the program.
+(f) The salary, education levels and turnover rates of lead preschool teachers and  teaching as-
+sistants employed by preschool providers participating in the Preschool Promise Program.
+(10) The [ Early Learning Division ] department shall coordinate with  the Department of Edu-
+cation and other state agencies in support of the Preschool Promise Program.
+(11) The [ Early Learning Division ] department shall prescribe the form and timeline for appli-
+cations to participate in the Preschool Promise Program.
+SECTION 27.
+ ORS 329.175 is amended to read:
+329.175. (1) The Department of Early Learning [ Division] and Care shall administer the Oregon
+prekindergarten program to assist eligible children with comprehensive services  including educa-
+tional, social, health and nutritional development to enhance  their chances for success in school and
+life. Eligible children, upon request of parent or guardian, shall be admitted to  approved Oregon
+prekindergartens to the extent that the Legislative Assembly provides funds.
+Enrolled House Bill 3073 (HB 3073-D) Page 24
+(2)(a) In administering the Oregon prekindergarten program, the [ Early Learning Division ] de-
+partment shall adopt a funding formula and methodology that will ensure  that Oregon
+prekindergartens offer high-quality services to eligible children and their families.
+(b) Services may be  provided under this section to pregnant women and families with children
+under the age of five years old who are not participating in a federal, state  or local program pro-
+viding comprehensive services and who qualify for eligibility  under the federal Head Start program.
+(3)(a) Nonsectarian organizations, including school districts and Head Start grantees, are eligi-
+ble to compete for funds to establish an Oregon prekindergarten.
+(b)(A) Grant recipients shall serve children eligible  according to federal Head Start guidelines
+and other children who meet criteria of eligibility adopted by rule by the Early Learning Council.
+(B) Grant recipients may serve children not described in subparagraph  (A) of this paragraph,
+but not more  than 20 percent of the total enrollment with a grant recipient shall consist of children
+who do not meet federal Head Start guidelines.
+(c) School districts may contract with other governmental or nongovernmental  nonsectarian
+organizations to conduct a portion of the program.
+(d) Funds appropriated for the program shall be used to establish  and maintain new or expanded
+Oregon  prekindergartens  and may not be used to supplant federally supported Head Start programs.
+Oregon  prekindergartens  also may accept gifts, grants and other funds for the purposes of this sec-
+tion.
+(4) Applicants shall identify how they will serve the target population and provide  all compo-
+nents as specified in the  federal Head Start performance standards and guidelines, including staff
+qualifications and training, facilities and equipment, transportation and fiscal management.
+(5) Applicants shall identify how they will provide, at a minimum, the annual number  of in-
+structional hours required under performance  guidelines and standards of the federal Head Start
+programs.
+(6) Oregon prekindergartens shall provide lead teachers and teaching assistants with a  salary
+that meets the minimum salary requirements established by the Early Learning Council.
+(7) Oregon prekindergartens must demonstrate an ability to maximize all available federal, state
+and local funds.
+(8) Oregon prekindergartens shall coordinate with each other and with  federal Head Start pro-
+grams to ensure efficient delivery of  services and prevent overlap. Oregon prekindergartens shall
+also work with  local organizations such as local education associations serving young children and
+make the maximum use of local resources.
+(9) Oregon prekindergartens shall coordinate services with other services  provided through the
+Oregon Early Learning System. The coordination of services must  be consistent with federal and
+state law.
+(10)(a) The governing body of a recipient  of grant funds under this section shall be subject to
+ORS 192.610 to 192.690 but is subject to ORS 192.311 to 192.478 only:
+(A) With respect to records created at a  meeting of the governing body, minutes of a meeting
+of a governing body or records presented at a meeting of the governing body; or
+(B) As otherwise provided by law other than this subsection.
+(b) As used in this subsection, “governing body” means a board  or other entity of two or more
+persons who are  authorized to make decisions with respect to a recipient or who are authorized to
+advise or make recommendations to a governing body of the recipient.
+SECTION 28.
+ ORS 329.181 is amended to read:
+329.181. (1) The Higher Education Coordinating Commission and the Department of  Early
+Learning [ Division] and Care shall jointly administer a scholarship program and a  grant program
+designed to ensure that there is an adequate supply of highly qualified early childhood care  and
+education professionals in this state.
+(2) The commission and [ division] department shall collaborate to approve degree programs for
+which a scholarship may be awarded under this section.
+(3) A person is eligible to receive a scholarship under this section if the person:
+Enrolled House Bill 3073 (HB 3073-D) Page 25
+(a) Enrolls in a program approved under subsection (2) of this section;
+(b) Enrolls in a minimum of six credits, or the equivalent, per term; and
+(c) Files a Free Application for Federal Student Aid or the state equivalent.
+(4) A person remains eligible to receive a scholarship under this section if the person:
+(a) Remains in good academic standing; and
+(b) Has not received the scholarship for the equivalent of four years of full-time study.
+(5) The commission and [ division] department may  prioritize a person currently employed in a
+position in the field of early childhood care or education for receiving a scholarship  under this
+section.
+(6) An institution of higher  education may receive a one-time grant under this section to develop
+high-quality degree programs for early childhood care and education professionals.
+(7) The Early Learning Council and the commission may adopt rules necessary  to implement the
+scholarship program and grant program administered as provided by this section. Rules  may provide
+for the reduction of the costs of the programs in the event amounts requested under  the programs
+exceed amounts available for the programs.
+SECTION 29.
+ ORS 329.183 is amended to read:
+329.183. (1) The Prekindergarten Program Trust Fund is established  as a fund in the State
+Treasury, separate and distinct from the General Fund. Interest earned by the  trust fund shall be
+credited to the trust fund. The primary purposes of the trust fund are to:
+(a) Assist eligible children with comprehensive services, including educational, social, health and
+nutritional development, to enhance their chances for success in school and life;
+(b) Provide  scholarships awarded to current and prospective early childhood care and education
+professionals, as described in ORS 329.181; and
+(c) Provide grants to institutions of higher education to develop  high-quality degree programs
+for early childhood care and education professionals, as described in ORS 329.181.
+(2) For the  purposes identified in subsection (1) of this section, the trust fund is continuously
+appropriated to the  Department of  Early Learning [ Division] and Care .
+(3) The [ division] department may solicit and accept money in the form of gifts, contributions
+and grants to be deposited in the trust  fund. Except as provided in ORS 329.185, the acceptance of
+federal grants for purposes of ORS 329.170 to 329.200 does not commit state funds  nor place an ob-
+ligation upon the Legislative Assembly to continue the  purposes for which the federal funds are
+made available.
+(4) The trust  fund may be listed, if otherwise qualified, on the Oregon income tax return for
+checkoff pursuant to application made to  the Oregon Charitable Checkoff Commission under ORS
+305.690 to 305.753 by the [ division] department.
+SECTION 30.  ORS 329.185 is amended to read:
+329.185. When the federal Head Start program provides funding for programs for eligible chil-
+dren at or greater than the 1990-1991 per  child level, eligibility for the state funded Oregon
+prekindergarten program shall  be expanded to include programs for children whose family income
+exceeds the federal  Head Start limits or who are in an underserved or unserved age category. After
+determining the increase in income limits or age level  that would make children most in need of
+state programs eligible for them, the Department of Early Learning [ Division] and Care may direct
+expenditure of any unexpended or unobligated funds appropriated for the biennium for eligible chil-
+dren to be  expended for the additional children considered to be most in need. In the following
+biennium, the [ Early Learning Division ] department shall include  the cost of any added program for
+the children most in need in its biennial budget.
+SECTION 31.
+ ORS 329.195 is amended to read:
+329.195. (1)(a) The Early  Learning Council shall adopt rules for the establishment of the Oregon
+prekindergarten  program.
+(b) Rules adopted under this section specifically shall require:
+(A) Performance standards and operating standards that are  at a level no less than the level
+required under the federal Head Start program guidelines.
+Enrolled House Bill 3073 (HB 3073-D) Page 26
+(B) Processes  and procedures for recompetition that are substantially similar to the processes
+and procedures required under the rules and guidelines adopted under the federal Head Start Act.
+(C) Implementation plans for any changes to the federal Head Start program rules  or guidelines.
+(c) Federal Head Start program guidelines shall be considered as guidelines  for the Oregon
+prekindergarten program.
+(d) Notwithstanding paragraph (b) of this subsection, the  council may adopt rules that allow for
+the provision of a half-day  program or a full-day program, or a combination thereof, to meet com-
+munity needs, as determined by the council based on community assessments.
+(2) In developing rules for the Oregon  prekindergarten program, the council shall consider such
+factors as coordination with  existing programs, the preparation necessary for instructors, qualifica-
+tions of instructors, training of staff, adequate space and equipment and special transportation
+needs.
+(3) The Department of Early Learning [ Division] and Care  shall review applications for the
+Oregon prekindergarten program received and designate those programs  as eligible to commence
+operation by July 1 of each year. When approving grant applications, to the extent practicable,  the
+[council] department shall distribute  funds regionally based on percentages of unmet needs for the
+county or region.
+SECTION 32.
+ ORS 329.200 is amended to read:
+329.200. (1) The Department of  Early Learning [ Division] and Care shall report to  the Legis-
+lative Assembly  on the merits of continuing and expanding the Oregon prekindergarten program or
+instituting other means of providing early childhood development assistance.
+(2) The [ division’s] department’s report shall include specific  recommendations on at least the
+following  issues:
+(a) The relationship of the state-funded Oregon prekindergarten program  with the common
+school system;
+(b) The types of children and their needs that the program should serve;
+(c) The appropriate level  of state support for implementing the program for all eligible children,
+including related projects  to prepare instructors and provide facilities, equipment and transporta-
+tion;
+(d) The state administrative structure necessary to implement the program; and
+(e) Licensing or endorsement of early childhood teachers.
+(3) The [ division] department shall examine, monitor and assess the effectiveness of  the Oregon
+prekindergarten program and make biennial reports to  the Legislative Assembly on the effectiveness
+of the program.
+SECTION 33.
+ ORS 329.219 is amended to read:
+329.219. (1) The Department of  Early Learning [ Division, under the direction of ] and Care, in
+coordination with the  Early Learning Council and in collaboration with the Educator Advancement
+Council created by  ORS 342.940, shall establish and implement policies and practices to achieve
+vigorous and comprehensive early childhood  professional development systems in this state that in-
+corporate improved recruitment, preparation,  induction, career advancement opportunities and sup-
+port for early learning providers  and professionals, including professionals who provide home
+visiting services.
+(2) To achieve  the objectives described in subsection (1) of this section, the [ division] depart-
+ment shall develop or expand:
+(a) Strategies and partnerships that connect early learning providers and professionals with ac-
+cess to education pathways, including college credentials, degrees and certificates;
+(b) Coaching  and mentorship programs that make available cohorts, mentors and quality im-
+provement specialists to advise, assist, educate and provide  information to early learning providers
+and professionals;
+(c) Professional development tracking systems for the  workforce for early learning to ensure
+coverage of the necessary skills and knowledge required of  early learning providers and profes-
+sionals, including professionals who provide home visiting services; and
+Enrolled House Bill 3073 (HB 3073-D) Page 27
+(d) Collaborations that support exempt family child care providers, as defined in ORS 329A.430,
+through the advancement of research in child development, peer learning and mentoring.
+(3) The [ division] department shall  collaborate with any state agencies or other partners to
+achieve the objectives described in subsection (1) of this section and  to carry out the provisions of
+subsection (2) of this section.
+SECTION 34.  ORS 329.841 is amended to read:
+329.841. (1) For the purposes of this section, “plan student” means  a student enrolled in early
+childhood through post-secondary education who:
+(a) Is black or African-American  or a member of a student group that is not covered under an
+existing culturally specific statewide education plan; and
+(b) Has experienced disproportionate results in education due to historical practices, as  identi-
+fied by the State Board of Education by rule.
+(2)(a) The Department of Education shall develop and implement a statewide education  plan for
+plan students.
+(b) The Department of Education shall form an advisory group  consisting of community mem-
+bers, education stakeholders and representatives  of the Department of  Early Learning [ Division]
+and Care, the Youth Development  Division and the Higher Education Coordinating Commission to
+advise the Department of Education regarding:
+(A) Development and implementation of the plan;
+(B) Eligibility  criteria, applicant selection process and expectations for recipients of grant
+awards described in this section; and
+(C) Adoption of rules by the State Board of Education for the implementation of the plan.
+(3) The plan developed under this section shall address:
+(a) The disparities experienced by plan students in every  indicator of academic success, as
+documented by the [ department’s] statewide report card;
+(b) The historical practices leading to disproportionate outcomes for plan students; and
+(c) The  educational needs of plan students from early childhood through post-secondary educa-
+tion by examining culturally appropriate best practices in this state and across the nation.
+(4) The plan developed and implemented under this section must provide strategies to:
+(a) Address the disproportionate rate of disciplinary incidents for plan  students compared to all
+students in the education system;
+(b) Increase parental engagement in the education of plan students;
+(c) Increase the engagement of plan students in educational activities before  and after regular
+school hours;
+(d) Increase early childhood and kindergarten readiness for plan students;
+(e) Improve literacy and numeracy levels  among plan students between kindergarten and grade
+three;
+(f) Support plan student  transitions to middle school and through the middle and high school
+grades to maintain and improve academic performance;
+(g) Support culturally responsive pedagogy and practices  from early childhood through post-
+secondary education;
+(h) Support the development of culturally responsive  curricula from early childhood through
+post-secondary education;
+(i) Increase attendance of plan  students in community colleges and professional certification
+programs; and
+(j) Increase attendance of plan students in four-year post-secondary institutions of education.
+(5) The Department of Education shall submit a biennial report concerning  the progress of the
+plan developed and implemented under this section at  each even-numbered year regular session of
+the Legislative Assembly in the manner provided by ORS 192.245 to an  interim committee of the
+Legislative Assembly related to education.
+(6) The Department  of  Education, in consultation with the advisory group, shall award grants
+to early learning  hubs, providers of early learning services, school districts, post-secondary insti-
+Enrolled House Bill 3073 (HB 3073-D) Page 28
+tutions of  education and community-based organizations to implement the strategies developed in the
+plan developed and implemented under this section.
+(7) To qualify for and receive a grant described in this section, an applicant must identify  and
+demonstrate that the applicant meets the eligibility  criteria established by the State Board of Edu-
+cation by rule.
+SECTION 35.  ORS 329.843 is amended to read:
+329.843. (1) As used in this  section, “plan student” means a student enrolled in early childhood
+through post-secondary education who:
+(a) Is an American Indian or Alaskan Native; and
+(b) Has  experienced disproportionate results in education due to historical practices, as identi-
+fied by the State Board of Education by rule.
+(2)(a) The Department of Education shall develop and implement a statewide education  plan for
+plan students.
+(b) When developing the plan, the Department of Education shall consult with representatives
+from tribal governments and  from executive branch agencies who have formed government-to-
+government relations to focus on education. Additionally, the  Department of Education  may re-
+ceive input from an advisory group consisting of community members, education stakeholders and
+representatives of the Department of  Early Learning [ Division] and Care , the  Youth Development
+Division and the Higher Education Coordinating Commission.
+(c) The Department of Education shall be responsible for:
+(A) Implementing the plan developed under this subsection;
+(B) Developing eligibility criteria,  the applicant selection process and expectations for recipients
+of grant awards described in this section; and
+(C) Advising the State Board of Education on the adoption of rules under this section.
+(3) The plan developed under this section must address:
+(a) The disparities experienced by plan  students in every indicator of academic success, as
+documented by the [ department’s] statewide report card  and other relevant reports related to plan
+students;
+(b) The historical practices leading to disproportionate outcomes for plan students; and
+(c) The  educational needs of plan students from early childhood through post-secondary educa-
+tion as determined by examining culturally appropriate  best practices in this state and across the
+nation.
+(4) The plan developed and implemented under this section must provide strategies to:
+(a) Address the disproportionate rate of disciplinary incidents involving plan students as com-
+pared to all students in the education system;
+(b) Increase parental engagement in the education of plan students;
+(c) Increase the engagement of plan students in educational activities before  and after regular
+school hours;
+(d) Increase early childhood education and kindergarten readiness for plan students;
+(e) Improve literacy and numeracy levels  among plan students between kindergarten and grade
+three;
+(f) Support plan student  transitions to middle school and through the middle school and high
+school grades to maintain and improve academic performance;
+(g) Support culturally responsive pedagogy and practices  from early childhood through post-
+secondary education;
+(h) Support the development of culturally responsive  curricula from early childhood through
+post-secondary education;
+(i) Increase attendance of plan students in early childhood  programs through post-secondary and
+professional certification programs; and
+(j) Increase attendance of plan students in four-year post-secondary institutions of education.
+Enrolled House Bill 3073 (HB 3073-D) Page 29
+(5) The Department of Education shall submit a biennial report concerning  the progress of the
+plan developed  and implemented under this section to a committee of the Legislative Assembly re-
+lated to education at each even-numbered year regular session of the Legislative Assembly.
+(6) The Department  of Education , in consultation with the advisory group,  shall award grants
+to early learning hubs, providers of early learning services,  school districts, education service dis-
+tricts, post-secondary institutions of education, tribal governments and community-based  organiza-
+tions to implement  the strategies provided in the plan developed and implemented under this section.
+(7) To qualify for and receive grants described in this section, an applicant must identify  and
+demonstrate that the  applicant meets the eligibility criteria adopted by the State Board of Education
+by rule.
+SECTION 36.  ORS 329.845 is amended to read:
+329.845. (1) As used in this  section, “plan student” means a student enrolled in early childhood
+through post-secondary education who:
+(a) Is Latino or Hispanic, including individuals  of Mexican, Cuban, Puerto Rican, South Ameri-
+can, Central American or Spanish descent; and
+(b) Has experienced disproportionate results in education due to historical practices, as  identi-
+fied by the State Board of Education by rule.
+(2)(a) The Department of Education shall develop and implement a statewide education  plan for
+plan students.
+(b) The Department of Education  shall form an advisory group consisting of individuals  re-
+presenting:
+(A) Urban and rural communities;
+(B) Indigenous and immigrant populations;
+(C) English language learners;
+(D) Individuals with disabilities;
+(E) Parents and students;
+(F) Youth who are lesbian, gay, bisexual, transgender, queer or another  minority gender or
+sexual orientation;
+(G) Community-based organizations serving Latino or Hispanic youth and families; and
+(H) Education stakeholders, including representatives  of the  Department of  Early Learning
+[Division] and Care , the Youth Development Division  and the Higher Education Coordinating
+Commission.
+(c) The advisory group formed as provided in paragraph (b) of  this subsection shall advise the
+Department of Education regarding:
+(A) Development and implementation of the plan;
+(B) Eligibility criteria, applicant selection  processes and expectations for recipients of grant
+awards described in this section; and
+(C) Adoption of rules by the State Board of Education for the implementation of the plan.
+(3) The plan developed under this section must address:
+(a) The disparities experienced by plan students in every  indicator of academic success, as
+documented by the [ department’s] statewide report card and  other relevant reports related to plan
+students;
+(b) The historical practices leading to disproportionate outcomes for plan students; and
+(c) The educational needs of plan students from early childhood through post-secondary  educa-
+tion as determined by examining culturally appropriate best practices  in this state and across the
+nation.
+(4) The plan developed and implemented under this section must provide strategies to:
+(a) Address the disproportionate rate of disciplinary  incidents involving plan students compared
+to all students in the education system;
+(b) Increase parental engagement in the education of plan students;
+(c) Increase the engagement of plan students in educational activities before  and after regular
+school hours;
+Enrolled House Bill 3073 (HB 3073-D) Page 30
+(d) Increase early childhood education and kindergarten readiness for plan students;
+(e) Improve literacy and numeracy levels  among plan students between kindergarten and grade
+three;
+(f) Support plan student  transitions to middle school and through the middle school and high
+school grades to maintain and improve academic performance;
+(g) Support culturally responsive pedagogy and practices  from early childhood through post-
+secondary education;
+(h) Support the development of culturally responsive  curricula from early childhood through
+post-secondary education;
+(i) Increase attendance of plan  students in community colleges and professional certification
+programs; and
+(j) Increase attendance of plan students in four-year post-secondary institutions of education.
+(5) The Department of Education shall submit a biennial report concerning  the progress of the
+plan developed and implemented under this section to a committee of the Legislative Assembly  re-
+lated to education at each even-numbered year regular session of the Legislative Assembly.
+(6) The Department  of Education , in consultation with the advisory group,  shall award grants
+to early learning hubs, providers of early learning services, school districts,  post-secondary insti-
+tutions of education and community-based organizations to implement  the strategies provided in the
+plan developed and implemented under this section.
+(7) To qualify for and receive a grant described in this section, an applicant must identify  and
+demonstrate that the applicant meets the eligibility  criteria established by the State Board of Edu-
+cation by rule.
+SECTION 37.
+ ORS 329A.010 is amended to read:
+329A.010. (1) There is established within the Department of  Early Learning  [ Division] and
+Care the Office of Child Care.
+[(2)(a) The Office of  Child Care, as designated by the Governor, shall be responsible for adminis-
+tering funds received by the  State of Oregon pursuant to the federal Child Care and Development Block
+Grant Act of 2014, the Child Care and Development Fund and other federal child care funds and
+grants received by the State of Oregon. ]
+[(b) Through the legislative budgeting process, the Legislative Assembly shall identify the portion
+of the funds received by the State of Oregon  pursuant to the federal Child Care and Development Block
+Grant Act of 2014 to be spent to provide quality  child care, to provide child care subsidies and for
+administrative expenditures. The Office of Child Care shall administer the  funds according to the
+portions identified by the Legislative Assembly. ]
+[(c) The Office of Child Care shall  submit an annual report to the Legislative Fiscal Office re-
+garding the expenditures of the funds received by the State of Oregon pursuant  to the federal Child
+Care and Development Block Grant  Act of 2014 and the most recent estimate of the balance of the
+funds.]
+[(3)] (2) The Office  of Child Care shall comply with directives of the Early Learning Council
+established in ORS 326.425  in the office’s implementation of the provisions of ORS 329A.250 to
+329A.450.
+[(4)] (3) The Office  of Child Care may maintain information about child care facilities and pro-
+viders through electronic records systems.
+[(5)] (4) The Office of Child Care may share information with other public entities when the of-
+fice determines that sharing the information would support the health or safety of children in  child
+care, except as otherwise prohibited by state or federal law.
+[(6)] (5) There is established in the State Treasury,  separate and distinct from the General Fund,
+the Child Care Fund. The Child Care Fund shall consist of moneys collected , [ and] received and
+administered by the Office of Child Care and Department of  Early Learning and Care  pursuant
+to [ subsection (2) of this section, ] ORS 329A.310 , 329A.700 to 329A.712  and  329A.992 and section 13
+of this 2021 Act  and such moneys as may be otherwise made available by  law. Interest earned on
+the fund shall be credited to the fund. The moneys in the Child Care Fund  are appropriated con-
+Enrolled House Bill 3073 (HB 3073-D) Page 31
+tinuously to the [ Office of Child Care ] Department of Early Learning and  Care and shall be used
+in a manner consistent with the grant of funds or  for the administration of ORS 181A.200,
+329A.030, [ and] 329A.250 to 329A.450  and 329A.700 to 329A.712 .
+SECTION 38.  ORS 329A.120 is amended to read:
+329A.120. (1) The [ Office of Child Care ] Department of Early Learning and Care  shall imple-
+ment the resource and referral system.
+(2) Resource and referral entities must provide services including, but not limited to:
+(a) Training and technical assistance for existing and potential child care providers  that in-
+cludes, but is  not limited to, coaching, mentoring, consulting and advising on professional develop-
+ment;
+(b) Referrals for parents or guardians seeking child care providers; or
+(c) Recruitment of qualified individuals to meet the child care needs of a community.
+SECTION 39.
+ ORS 329A.135 is amended to read:
+329A.135. (1) The [ Office of Child Care ] Department of Early Learning and Care  shall imple-
+ment federal requirements for the resource and referral system.
+(2) The [ office] department shall establish criteria for proposals, prepare requests  for proposals,
+receive proposals and award  grants or enter into agreements for the establishment of resource and
+referral entities.
+SECTION 40.  ORS 329A.250 is amended to read:
+329A.250. As used in ORS 329A.030 and 329A.250 to 329A.450, unless the context requires  oth-
+erwise:
+(1) “Babysitter” means a person who goes into the home of a child to give care during  the
+temporary absence of the parent or legal guardian or custodian.
+(2) “Certification” means the certification that is issued under ORS 329A.280 by  the Office of
+Child Care to a family child care home, child care center or other child care facility.
+(3) “Child” means a child under 13 years of age  or a child under 18 years of age who has special
+needs or disabilities and requires a level of care that is above normal for the child’s age.
+(4) Subject to ORS 329A.440, “child  care” means the care, supervision and guidance on a regular
+basis of a child,  unaccompanied by a parent, guardian or custodian, provided to a child during a part
+of the 24 hours of the day, in a place other than the  child’s home, with or without compensation.
+“Child care” does not include care provided:
+(a) In the home of the child;
+(b) By the child’s parent, guardian, or person acting in loco parentis;
+(c) By a person related to the child by  blood or marriage within the fourth degree as determined
+by civil law;
+(d) On an occasional basis by a person not ordinarily engaged in providing child care;
+(e) By providers of medical services;
+(f) By a babysitter;
+(g) By a person who cares for children from only one family other than the person’s own family;
+(h) By a person who cares for  no more than three children other than the person’s own children;
+or
+(i) By a person who is a  member of the child’s extended family, as determined by the office on
+a case-by-case basis.
+(5) “Child care facility” means any facility that provides child care to children,  including a day
+nursery, nursery school, child care center,  certified or registered family child care home or similar
+unit operating under any name, but not including any:
+(a) Preschool recorded program.
+(b) Facility providing care  for school-age children that is primarily a single enrichment activity,
+for eight hours or less a week.
+(c) Facility providing care that is primarily group athletic  or social activities sponsored by or
+under the supervision of an organized club or hobby group.
+(d) Facility operated by:
+Enrolled House Bill 3073 (HB 3073-D) Page 32
+(A) A school district as defined in ORS 332.002;
+(B) A political subdivision of this state; or
+(C) A governmental agency.
+(e) Residential facility licensed under ORS 443.400 to 443.455.
+(f) Babysitters.
+(g) Facility operated as a parent cooperative for no more than four hours a day.
+(h) Facility providing care while the  child’s parent remains on the premises and is engaged in
+an activity offered by the facility or in other nonwork activity.
+(i) Facility operated as a school-age recorded program.
+(6) “Family” has the meaning given that term in ORS [ 329.145] 329.155.
+(7) “Occasional” means that care is provided for no more than 70 days in any calendar year.
+(8) “Parent cooperative” means a child care program in which:
+(a) Care is provided by parents on a rotating basis;
+(b) Membership in the cooperative includes parents;
+(c) There are written policies and procedures; and
+(d) A board of directors that includes parents of the children cared for  by the cooperative con-
+trols the policies and procedures of the program.
+(9) “Preschool  recorded program” means a facility providing care for preschool children that is
+primarily educational for  four hours or less per day and where no child is present at the facility for
+more than four hours per day.
+(10) “Record” means the record that is issued under  ORS 329A.255 to a preschool recorded
+program or under ORS 329A.257 to a school-age recorded program.
+(11) “Registration” means the registration that is issued under ORS 329A.330 by the Office  of
+Child Care to a family  child care home where care is provided in the family living quarters of the
+provider’s  home.
+(12) “School age” means of an age eligible to be enrolled in  kindergarten or above on or before
+the first day of the current school year.
+(13) “School-age recorded program” means a program for school-age children:
+(a) That is not operated by a school district as defined in ORS 332.002;
+(b) That is not required to be certified under  ORS 329A.280 or registered under ORS 329A.330;
+and
+(c) In which youth development activities are provided to children during  hours that school is
+not in session and does not take the place of a parent’s care.
+(14) “Youth development activities” means care,  supervision or guidance that is intended for
+enrichment, including but not limited to teaching skills or proficiency in physical, social or  educa-
+tional activities such as tutoring, music lessons, social activities, sports and recreational activities.
+SECTION 41.
+ ORS 329A.261 is amended to read:
+329A.261. (1) In addition to the minimum standards established for child care facilities  and the
+operation of child care facilities  under ORS 329A.260 and subject to available funds, the Office of
+Child Care, under the direction and with  the approval of the Early Learning Council, shall initiate
+development of a tiered quality  [ rating] recognition and improvement system for child care facili-
+ties.
+(2) The tiered quality [ rating] recognition and improvement system implemented under this
+section shall:
+(a) Establish a set of progressively higher standards that are used to evaluate  the quality of an
+early learning and development program and to support program improvement.
+(b) Consist of the following components:
+(A) Tiered standards that define a progression of  quality for early learning and development
+programs.
+(B) Monitoring of programs to evaluate quality based on established standards.
+(C) Support for programs  and providers of programs to meet tiered quality standards, including
+training, technical assistance and financial incentives.
+Enrolled House Bill 3073 (HB 3073-D) Page 33
+(D) Program quality [ ratings that are ] recognition that is  publicly available.
+SECTION 42.  ORS 329A.712 is amended to read:
+329A.712. (1) The  [ Office of Child Care ] Department of Early Learning and Care  shall dis-
+tribute revenues in the Child Care Fund that are derived from contributions, minus  the amounts
+needed to make refunds under ORS 329A.706 (3) and to cover expenses of the Office  of Child Care
+in administering ORS 329A.700 to 329A.712.
+(2) Revenues shall be disbursed to child  care providers consistent with rules adopted by the
+Early Learning Council.
+(3) Distributions shall be made to child care providers in the proportion that the  [Office of Child
+Care] department determines best promotes the provision of high quality child care in this state.
+SECTION 43.  ORS 336.101 is amended to read:
+336.101. (1) The Early Learning Kindergarten Readiness Partnership and Innovation  Program is
+established for the purpose of improving the readiness of children for kindergarten.  The program
+shall be administered by the Department of Early Learning [ Council] and Care as provided by this
+section.
+(2) The [ Early Learning Council ] department shall provide grants under  this section based on
+criteria established by the  Early Learning  Council by  rule. Criteria may include requirements that
+an applicant must meet one or more of the following criteria:
+(a) Form a partnership with at  least one provider of early learning services, child care provider
+or elementary school;
+(b) Form partnerships with community-based providers of early  childhood services to provide
+preschool and other early-learning strategies;
+(c) Establish ambitious but meaningful targets for kindergarten readiness;
+(d) Invest resources in students who meet criteria established by the council by rule;
+(e) Align with, and supplement, federal programs  to provide moneys for educational purposes;
+and
+(f) Agree to report to, and partner with, any Early Learning Hubs serving the region.
+(3) Priority for grants provided under this section may be for programs that:
+(a) Assist children in becoming ready for kindergarten or being successful in kindergarten; or
+(b) Share professional development  strategies and resources with providers of early learning
+services, child care providers and kindergarten teachers.
+SECTION 44.
+ ORS 336.104 is amended to read:
+336.104. (1) The Early Learning Kindergarten Readiness Partnership and Innovation Account  is
+established within the  Department of  Early Learning [ Division] and Care Fund.  Separate records
+shall be maintained for moneys in the  account. Interest earned by the account shall be credited to
+the account.
+(2) Moneys in the account are  continuously appropriated to the Department of Early Learning
+[Council] and Care  for the Early Learning Kindergarten Readiness Partnership and  Innovation
+Program described in ORS 336.101.
+SECTION 45.  ORS 343.465 is amended to read:
+343.465. (1) It is the policy of this state to respect the unique nature of each child, family and
+community with particular attention to cultural and linguistic diversity, and to support a system of
+services for preschool children with [ disabilities] a disability and their families that:
+(a) Recognizes the importance of  the preschool child’s family, supports and builds on each
+family’s strengths and respects family decision-making  and input regarding service options and
+public policy.
+(b) Identifies, evaluates and refers services for preschool children  with [ disabilities] a disability
+at the earliest possible time.
+(c) Uses specialized services and all other community services and programs for children, in-
+cluding community preschools, Head Start programs, community health  clinics, family support pro-
+grams and other child-oriented agencies.
+Enrolled House Bill 3073 (HB 3073-D) Page 34
+(d) Uses a variety of  funding sources for preschool children with [ disabilities] a disability and
+their families, including public and private funding, insurance and family resources.
+(e) Assists families in utilizing necessary services in the most cost-effective  and efficient manner
+possible by using a coordinated planning and implementation process.
+(f) Insures that all children and their families, regardless of disability,  risk factors or cultural
+or linguistic differences, are able to utilize services for which they would otherwise be qualified.
+(g) Encourages services and supports for preschool children with  [ disabilities] a disability and
+their families in their home communities and in  settings with children without [ disabilities] a disa-
+bility.
+(h) Recognizes the importance of developing and  supporting well-trained and competent person-
+nel to provide services to preschool children with [ disabilities] a disability, and their families.
+(i) Evaluates the system’s impact on the child and family,  including child progress, service
+quality, family satisfaction, transition into public schooling,  longitudinal and cumulative reporting
+over several biennia and interagency coordination at both the state and local level.
+(j) Reports information  described in paragraph (i) of this subsection to the State Interagency
+Coordinating Council, the Governor, the Department  of Early Learning and Care,  the State
+Board of Education,  the public universities listed in ORS 352.002 and the Legislative Assembly each
+biennium.
+(2) In carrying out  the provisions of subsection (1) of this section, the Department of Education,
+the Department of Early Learning and Care,  the  Department of Human Services and the public
+universities  listed  in ORS 352.002 shall coordinate [ services to preschool children with disabilities ]
+the provision of services to preschool children with a  disability with other services that are
+provided to children with a  disability, or who are at risk of developing disabling conditions, and
+their families. All program planning, standards for service,  policies regarding services delivery and
+budget development for services for preschool  children with [ disabilities, and their families ] a disa-
+bility, children with a  disability, and the families of those children  shall reflect the policy out-
+lined in subsection (1) of this section and elaborated through rules and agreements.
+SECTION 46.  ORS 343.475 is amended to read:
+343.475. (1)(a) In  accordance with rules [ adopted by ] of the State Board of Education  adopted
+in consultation with the Early Learning Council , the  Superintendent of Public Instruction [ in
+collaboration] shall collaborate  with the Early Learning [ Council shall ] System Director to  de-
+velop and administer a statewide, comprehensive, coordinated, multidisciplinary, interagency pro-
+gram of early  childhood special education and early intervention services for [ preschool ] children
+with [ disabilities] a disability.
+(b) The program must ensure that each [ preschool ] child with a disability has access to  a com-
+prehensive plan for communication that allows the child, by  the age of three years, to engage in
+expressive and receptive communication across all learning, home and community settings.  The plan
+may allow for communication orally, by sign language, by assistive technology or by augmentative
+communication.
+(2) In accordance with rules [ adopted by ] of the State Board of  Education  adopted in consul-
+tation with the Early Learning  Council, the Superintendent of Public Instruction in collaboration
+with the Early Learning [ Council] System Director  may:
+(a) Establish  and designate service areas throughout the state for the delivery of early childhood
+special education and early intervention  services that shall meet state and federal guidelines and
+be delivered to all eligible children.
+(b) Designate  in each service area a primary contractor that shall be responsible for the ad-
+ministration and coordination of early childhood special education and early intervention  services
+to all eligible [ preschool ] children and their families residing in the service area.
+(3) Early childhood special education  and early intervention services shall coordinate services
+with other services provided through the Oregon Early Learning System. The  coordination of ser-
+vices shall be consistent with federal and state law.
+Enrolled House Bill 3073 (HB 3073-D) Page 35
+(4) [ Preschool ] Children with [ disabilities] a disability shall be considered residents of the ser-
+vice area where the children are currently living, including  children living in public or private
+residential programs, hospitals and similar facilities.
+(5) In addition to any other remedy or sanction that may be  available, the Superintendent of
+Public Instruction may withhold funds and terminate the contract of any contractor that fails to
+comply with any provisions of the contract.
+SECTION 47.
+ ORS 343.499, as amended by section 7 of this 2021 Act, is amended to read:
+343.499. (1)(a) There is created the State Interagency Coordinating Council.
+(b) The  Governor shall appoint members of the council from a list of eligible appointees from
+this state that is provided by the council and agencies  described in subsection (2) of this section and
+shall ensure that  the membership of the council reasonably represents the racial, ethnic, linguistic
+and geographic population of this state.
+(c) The Governor shall designate one member  of the council to serve as the chairperson, or if
+the Governor chooses not to name  a chairperson, the council may elect one of its members to serve
+as chairperson.
+(d) Notwithstanding paragraph (c) of this subsection, any  member of the council who represents
+the Department of Education may not serve as the chairperson of the council.
+(2) The membership of the council shall be composed as follows:
+(a) At least 20 percent of the council members shall be parents of children with  a disability who
+are 12  years of age or younger at the time the council member is appointed. When appointing
+council members under this paragraph, the Governor shall ensure that:
+(A) At least 50 percent  of the council members are parents of a child with a disability who is
+five years of age or younger at the time the council member is appointed;
+(B) At least 20 percent of the council members:
+(i) Are parents of a child with a disability who is three  years of age or younger at the time the
+council member is appointed; and
+(ii) Have knowledge of, or experience  with, programs or services for infants or toddlers with a
+disability; and
+(C) The  council members represent the racial, ethnic and linguistic diversity of children in this
+state who are five years of age or younger.
+(b) At least  20 percent of the council members shall be public or private providers of early
+intervention and early childhood special education services.
+(c) At least one council member shall be from a program responsible for  preparing early inter-
+vention and early childhood special education educators.
+(d) At least one council member shall be from a Head Start or Early Head Start program.
+(e) At least one council member shall be from a home-based child care program.
+(f) At least one council member shall be from a center-based child care program.
+(g) At least one council member shall be from the committee that serves as the state advisory
+council, as described in ORS 326.425 (3).
+(h) At  least one council member shall be a member of the State Advisory Council for Special
+Education created under ORS 343.287.
+(i) At least one council member shall be from each state agency involved in  the provision of,
+or payment for, early intervention and early childhood special education services to infants and
+toddlers with a disability and their families.
+(j) At least one council member shall be from each state agency responsible for  providing pre-
+school services to children with a disability.
+(k) At least one  council member shall be from each state agency responsible for children’s
+mental health.
+(L) At least two council members shall be from the Department  of Human Services with exper-
+tise in foster care or self-sufficiency programs.
+(m) At least one council member shall be from the [ Office of Child Care ] Department of Early
+Learning and Care with expertise in the Child Care and Development Fund.
+Enrolled House Bill 3073 (HB 3073-D) Page 36
+(n) At least  one council member shall be a representative of the Department of Education with
+expertise in the coordination of education of homeless children and youth.
+(o) At least one council member shall be from  the Department of Consumer and Business Ser-
+vices with expertise in state regulation of private health insurance.
+(p) At  least one council member shall be from the Oregon Health Authority with expertise in
+Medicaid and the Children’s Health Insurance Program.
+(q) At least  one council member shall be a representative from a tribal agency responsible for
+supporting young children with developmental delays and disabilities, from a tribal  council or oth-
+erwise representing one or more tribes.
+(3) An individual appointed to represent a state agency under subsection (2) of  this section must
+have sufficient authority to engage in making and implementing policy on  behalf of the agency. The
+Governor may appoint a  council member to represent more than one program or specialty listed in
+subsection (2) of this section.
+(4) In addition to the council members appointed under subsection (2) of this section:
+(a) The  Governor may appoint any other council members not listed in subsection (2) of this
+section.
+(b) The President of the Senate shall appoint one member from among members  of the Senate
+to serve as a nonvoting council member.
+(c) The Speaker of the House of Representatives shall appoint  one member from among members
+of the House of Representatives to serve as a nonvoting council member.
+(5) The State Interagency Coordinating Council shall:
+(a) Advise the Superintendent of Public Instruction,  the State Board of Education, the Early
+Learning System Director and the Early Learning Council on unmet needs in the early childhood
+special education and early intervention programs for children  with a disability, review and com-
+ment publicly on any rules proposed by the State Board of  Education and the distribution of funds
+for the programs and assist the state in developing  and reporting data on and evaluations of the
+programs and services.
+(b) Advise  and assist the represented public agencies regarding the services and programs they
+provide to children with a disability and their families, including public comments  on any proposed
+rules affecting the target population and the distribution of funds for such  services, and assist each
+agency in developing  services that reflect the overall goals for the target population as adopted by
+the council.
+(c) Advise  the Department of Education, the Department of  Early Learning [ Division] and
+Care and other state agencies  on the development and implementation of the policies that constitute
+the statewide system.
+(d) Advise  all appropriate public agencies on achieving the full participation, coordination and
+cooperation for implementation of a statewide system that includes but is not limited to:
+(A) Seeking information from service providers, service coordinators, parents and others  about
+any federal, state or local policies that impede timely service delivery; and
+(B) Taking steps to ensure that any policy problems identified under subparagraph (A) of  this
+paragraph are resolved.
+(e) Advise the Superintendent of Public Instruction and the Early Learning System  Director on
+identifying the sources of fiscal and other support for early intervention and early childhood special
+education services, assigning financial responsibility to the appropriate agencies and ensuring  that
+the provisions of interagency agreements under ORS 343.511 are carried out.
+(f) Review  and comment on each agency’s services and policies regarding services for infants,
+toddlers and preschool children with a disability, or infants, toddlers and  preschool children who
+are at risk of developing disabling conditions, and their families to the maximum extent  possible to
+assure cost-effective and efficient use of resources.
+(g) Advise  the Department of Education and the Department of  Early Learning [ Division] and
+Care on the preparation of applications and amendments thereto.
+Enrolled House Bill 3073 (HB 3073-D) Page 37
+(h) Advise the Superintendent of Public Instruction and the Early Learning System Director
+regarding transitions of children with a disability, including transitions to kindergarten.
+(i) Prepare and submit an annual report to the Governor, the Deputy Superintendent of Public
+Instruction, the Early Learning System Director, the Early Learning Council, the State Board  of
+Education, the Legislative Assembly and the  United States Secretary of Education on the status of
+early intervention and early childhood special education services provided within this state.
+(6) The  council may advise appropriate agencies about integration of services for preschool
+children with a disability and at-risk preschool children.
+(7) Terms of office for council members shall be three years, except that:
+(a) The  representative from the State Advisory Council for Special Education shall serve a
+one-year term; and
+(b) The representatives from other state agencies and the [ representative] representatives from
+the Legislative Assembly shall serve indefinite terms.
+(8) Subject  to approval by the Governor, the council may use federal funds appropriated for this
+purpose and available to the council to:
+(a) Conduct hearings and forums;
+(b) Reimburse  nonagency council members under ORS 292.495 for attending council meetings, for
+performing council duties, and for necessary expenses, including child care for parent members;
+(c) Pay compensation to a council member if the member is not employed or if the member must
+forfeit wages from other employment when performing official council business;
+(d) Hire staff; and
+(e) Obtain the services of such professional, technical and  clerical personnel as may be neces-
+sary to carry out its functions.
+(9) Except as provided in subsection (8)  of this section, council members shall serve without
+compensation.
+(10) The Department of Education shall provide clerical  and administrative support, including
+staff, to the council to  carry out the performance of the council’s function as described in this sec-
+tion.
+(11) The council shall meet at least quarterly. The meetings shall be  announced publicly and,
+to the extent appropriate, be open and accessible to the general public.
+(12) No member of the  council shall cast a vote on any matter that would provide direct finan-
+cial benefit to that  member or otherwise give the appearance of a conflict of interest under state
+law.
+SECTION 48.
+ ORS 417.781 is amended to read:
+417.781. (1) The Early Childhood Equity  Fund is established in the State Treasury, separate and
+distinct from the General Fund. Moneys in the Early Childhood Equity Fund  are continuously ap-
+propriated to the Department of [ Education for the ] Early Learning [ Division] and Care to make
+grants under ORS 417.782  to culturally specific early learning, early childhood and parent support
+programs and to promote the capacity of culturally specific organizations to deliver these programs.
+(2) The fund shall consist of:
+(a) Moneys appropriated or otherwise transferred to the fund from the Legislative Assembly;
+(b) Earnings received on moneys in the fund; and
+(c) Other amounts deposited into the fund from any source.
+SECTION 49.
+ ORS 417.782 is amended to read:
+417.782. (1) The Department of  Early Learning [ Division] and Care may make  grants from the
+Early Childhood Equity  Fund established under ORS 417.781 to culturally specific early learning,
+early childhood and  parent support programs in this state that build capacity in communities, ensure
+children start kindergarten ready to succeed  and support families to be stable, healthy and attached.
+For purposes of  this subsection, a program is in this state if the program serves communities within
+the geographic boundaries of this state,  including communities within Indian country of a federally
+recognized Oregon Indian tribe that is within the geographic boundaries of this state.
+(2) To receive a grant under this section, a program must:
+Enrolled House Bill 3073 (HB 3073-D) Page 38
+(a) Provide outreach, support and resources to  children and families who are at risk because
+of any combination of two or more factors, including their  race, ethnicity, English language profi-
+ciency, socioeconomic status and geographic location; and
+(b) Demonstrate a proven ability to provide outreach,  support and resources to children and
+families described in paragraph (a) of this subsection.
+(3) The [ division] department shall monitor capacity needs and provide  technical assistance to
+grantees.
+(4) The [ division] department shall  conduct a biennial evaluation of programs that receive
+grants under this section. The evaluation shall include measurement of outcomes that align with:
+(a) Current research regarding positive  child and family indicators, including family stability
+and early childhood school readiness; and
+(b) Culturally specific approaches.
+(5) The Early Learning Council, in consultation  with the [ division] department , shall adopt
+rules necessary to carry out the provisions of this section. The rules shall include  requirements for
+grant eligibility under this section.
+(6) On or before September 15 of each odd-numbered year, the [ division] department shall sub-
+mit to the interim committees of the Legislative Assembly related to early childhood and  child
+welfare a report on the status and impact of grants made  to programs under this section. The report
+shall include changes in the capacity of culturally  specific organizations and the results of any
+biennial evaluations conducted in accordance with subsection (4) of this section.
+SECTION 50.
+ ORS 417.784 is amended to read:
+417.784. (1) As used in this section:
+(a) “Local entity” includes:
+(A) An Early Learning Hub designated under ORS 417.827;
+(B) A resource and referral entity;
+(C) An education service district;
+(D) A federal Head Start program;
+(E) A community-based organization; or
+(F) Any entity identified by the Department of  Early Learning [ Division] and Care .
+(b) “Provider” means a provider of infant and toddler care.
+(c) “Resource and referral entity” means a resource and referral entity established under ORS
+329A.100 to 329A.135.
+(2) The  Department of  Early Learning [ Division] and Care  shall administer an  infant and
+toddler care program to improve access to  high quality infant and toddler care for families whose
+incomes, at the time of enrollment, are at or below 200 percent of the federal poverty guidelines.
+(3)(a) Each biennium, each Early Learning Hub, in consultation with  resource and referral en-
+tities, shall  complete a community plan. The plan must include the following for the region served
+by the Early Learning Hub:
+(A) Identification of priority populations of children and families to enroll in the program;
+(B) Assessment of the availability of high-quality infant and toddler care;
+(C) Identification of existing providers and  opportunities to increase the number and enrollment
+capacity of providers;
+(D) Prioritization of local entities to serve as providers  based on community need and enroll-
+ment capacity;
+(E) Identification of local entities to serve as fiscal agents for multiple providers;
+(F) Identification of methods  for increasing the enrollment capacity of providers and for pro-
+viding professional development to providers; and
+(G) Identification of other services related to infant and toddler care.
+(b) After completing a community plan  described in paragraph (a) of this subsection, an Early
+Learning Hub shall submit the plan to the [ Early Learning Division ] department for approval based
+on rules adopted by the Early Learning Council.
+Enrolled House Bill 3073 (HB 3073-D) Page 39
+(4)(a) The [ Early Learning Division ] department shall contract with resource and referral enti-
+ties to recruit eligible providers to participate in the infant and toddler care program established
+under this section.
+(b) To be eligible to  participate in the program, a provider must demonstrate a commitment and
+ability to:
+(A) Address the needs identified in the community plan approved by the [ Early Learning
+Division] department under subsection (3) of this section;
+(B) Provide care to infants and toddlers;
+(C) Serve families whose incomes, at the time of enrollment, are at or below 200 percent of the
+federal poverty guidelines; and
+(D) Serve  families who otherwise meet criteria established by the Early Learning Council by
+rule.
+(5)(a) The [ Early Learning Division ] department shall identify a local entity within each Early
+Learning Hub region that  shall be responsible for awarding grants and contracts to providers who
+meet the eligibility criteria established under subsection (4) of this section.
+(b) Before a provider may be awarded a grant or  contract under this section, the provider must
+agree to participate in any quality improvement and  professional development activities necessary
+to meet the standards established by the [ Early Learning Division ] department.
+(6) Resource and referral entities shall:
+(a) In consultation with each  provider awarded a grant or contract under this section, develop
+a quality improvement and professional development plan for the provider; and
+(b) Provide coaching and other professional development services  necessary to execute the plan
+developed under this subsection.
+SECTION 51.
+ ORS 417.788, as amended by section 5 of this 2021 Act, is amended to read:
+417.788. (1) The Department of  Early Learning [ Division] and Care shall support Relief Nurs-
+ery programs  statewide as funding becomes available. Funding to support Relief Nursery programs
+may include, but is not limited to:
+(a) Administrative costs;
+(b) Costs for direct service personnel, equipment, supplies and operating expenses;
+(c) Start-up costs;
+(d) Classroom furniture and materials;
+(e) Playground equipment;
+(f) Computers; and
+(g) Transportation vehicles.
+(2) The [ division] department may encourage communities to establish Relief Nursery  programs
+for young children who are at risk and their families. Communities may choose to establish  regional
+Relief Nursery programs.  The Relief Nursery programs shall be consistent with the statewide early
+learning system coordinated by the Early Learning Council.
+(3) Relief Nursery programs  shall participate in a statewide independent evaluation conducted
+by the Oregon Association  of Relief Nurseries to document improved child safety, reduction in foster
+care placements, progress in healthy child development and improvement  in family functioning and
+support.
+(4) Each Relief Nursery  program that receives state funding shall have financial support from
+the community that,  excluding any amounts distributed to the Relief Nursery program pursuant to
+ORS 131A.360 (4)(d) and 131A.365 (3)(d), is at least equal to 25 percent of any state allocation.
+(5) The [ division] department shall adopt  rules necessary for the administration of this section,
+including rules requiring that any public funds received by Relief  Nursery programs be used to
+achieve the outcomes identified in subsection (3) of this section.
+SECTION 52.
+ ORS 417.790 is amended to read:
+417.790. The Department of  Early Learning [ Division] and Care shall:
+(1) Make grants to fund research-based services and initiatives to improve outcomes  for chil-
+dren, youth or families.
+Enrolled House Bill 3073 (HB 3073-D) Page 40
+(2) Make Great Start grants  to fund community-based programs for children zero through six
+years of age. A recipient shall  use Great Start grant funds to provide research-based early childhood
+programs in community settings and to provide services that have proven to be successful and  that
+meet the needs of the community. These services  shall be provided in accordance with ORS 417.728.
+(3) Make grants under ORS 417.782  to fund culturally specific early learning, early childhood
+and parent support programs that build capacity in communities to provide culturally appropriate
+services to ensure children start kindergarten ready to succeed and to support family stability.
+SECTION 53.
+ ORS 417.793, as amended by section 6 of this 2021 Act, is amended to read:
+417.793. The Department of  Early Learning [ Division] and Care  shall support parents-as-
+teachers programs statewide  as funding becomes available. If a program is offered, the program shall
+be part of a comprehensive, research-based approach to parent  education and support. The program
+shall be consistent with the statewide early learning system plan coordinated by the  Early Learning
+Council.
+SECTION 54.  ORS 417.795, as amended by section 4 of this 2021 Act, is amended to read:
+417.795. (1) The Department of  Early Learning [ Division] and Care shall  establish Healthy
+Families Oregon programs in all counties of this state as funding becomes available.
+(2) These programs shall be nonstigmatizing, voluntary and designed to achieve  the appropriate
+early childhood benchmarks and shall:
+(a) Ensure that express written  consent is obtained from the family prior to any release of in-
+formation that is protected by federal or state law and before the family receives any services;
+(b) Ensure that services are voluntary and that, if a family chooses not to accept  services or
+ends services, there are no adverse consequences for those decisions;
+(c) Offer a voluntary comprehensive risk assessment  of all children, from zero through three
+years of age, and their families in coordination with statewide early  learning system screening and
+referral  efforts;
+(d) Ensure that the disclosure of information gathered in conjunction with the  voluntary com-
+prehensive risk assessment of children and their families is limited pursuant to ORS  417.728 (7) to
+the following purposes:
+(A) Providing services under the programs to children and families who give  their express
+written consent;
+(B) Providing statistical data that are not personally identifiable;
+(C) Accomplishing other purposes for which the family has given express written consent; and
+(D) Meeting the requirements of mandatory state and federal disclosure laws;
+(e) Ensure that risk factors used in the risk screen are limited to those risk  factors that have
+been shown by research to be associated with poor outcomes for children and families;
+(f) Identify, as early as possible, families that would benefit most from the programs;
+(g) Provide parenting  education and support services, including but not limited to community-
+based home visiting services;
+(h) Provide other supports, including but not limited to referral to  and linking of community and
+public services for children and families such  as mental health services, alcohol and drug treatment
+programs that meet the standards promulgated by the Oregon Health  Authority under ORS 430.357,
+child care, food, housing and transportation;
+(i) Coordinate services for children consistent with other services provided through the Oregon
+Early Learning System;
+(j) Integrate data with any common data system for early childhood programs;
+(k) Be included in a statewide independent evaluation to document:
+(A) Level of screening and assessment;
+(B) Incidence of child abuse and neglect;
+(C) Change in parenting skills; and
+(D) Rate of child development;
+(L) Be included in a statewide training program in the dynamics of the  skills needed to provide
+early childhood services, such as assessment and home visiting; and
+Enrolled House Bill 3073 (HB 3073-D) Page 41
+(m) Meet statewide quality assurance and quality improvement standards.
+(3) The Healthy Families Oregon programs, in coordination with statewide  home visiting part-
+ners, shall:
+(a) Identify existing services and describe and prioritize additional services  necessary for a
+voluntary home visit system;
+(b) Build on existing programs;
+(c) Maximize the use of volunteers and other community resources that support all families;
+(d) Target, at a minimum, all prenatal families and families with children  less than three months
+of age and provide services through at least the child’s third birthday; and
+(e) Ensure that home visiting services provided  by local home visiting partners for children and
+pregnant women support and are coordinated with local Healthy Families Oregon programs.
+(4) Through a  Healthy Families Oregon program, a trained home visitor shall be assigned to
+each family assessed  as at risk that consents to receive services through the trained home visitor.
+The trained home visitor shall conduct home visits and assist the family in gaining  access to needed
+services.
+(5) The services required by this  section shall be provided by hospitals, public or private entities
+or organizations, or any combination thereof, capable of  providing all or part of the family risk as-
+sessment and the follow-up  services. In granting a contract, collaborative contracting or requests for
+proposals may be used and must include the most effective and consistent service delivery system.
+(6) The  family risk assessment and follow-up services for families at risk shall be provided by
+trained home visitors organized in teams supervised by a manager.
+(7) Each Healthy Families  Oregon program shall adopt disciplinary procedures for trained home
+visitors and other employees of the program. The  procedures shall provide appropriate disciplinary
+actions for trained home visitors and  other employees who violate federal or state law or the poli-
+cies of the program.
+SECTION 55.
+ ORS 417.796 is amended to read:
+417.796. (1) The Department of  Early Learning [ Council] and Care shall:
+(a) Conduct a periodic statewide needs assessment concerning  the quality and availability of
+early childhood education and development programs and services for children from birth to school
+age, including an assessment of the availability of high-quality prekindergarten services for  low-
+income children in this state.
+(b) Identify opportunities for, and barriers to, collaboration and coordination among federally
+funded and state-funded child care and early childhood education and  development programs and
+services, including collaboration and coordination among state agencies responsible for  administer-
+ing those programs and services.
+(c) Develop recommendations for increasing the overall participation of  children in existing
+federal, state and local early childhood education and development programs and services, including
+outreach to underrepresented and special populations.
+(d) Develop recommendations for establishing a unified data collection system  for public early
+childhood education and development programs and services throughout this state.
+(e) Develop recommendations regarding statewide  professional development and career ad-
+vancement plans for providers of early childhood education and  development programs and services
+in this state.
+(f) Assess the  capacity and effectiveness of two-year and four-year public and private institutions
+of higher education in this state in  supporting the development of early childhood educators, in-
+cluding the extent to which the institutions have articulation agreements, professional development
+and career advancement plans, and internships or  other training opportunities that allow students
+to spend time  with children enrolled in the federal Head Start program or another prekindergarten
+program. The  assessment conducted under this paragraph must be conducted in coordination with
+appropriate higher education governance bodies.
+(g) Make recommendations for improvements in state early learning standards and undertake
+efforts to develop high-quality comprehensive early learning standards when appropriate.
+Enrolled House Bill 3073 (HB 3073-D) Page 42
+(2) The [ council] department shall hold  public hearings and provide an opportunity for public
+comment in relation to the actions described in subsection (1) of this section.
+(3)(a) The [ council] department shall submit an annual statewide strategic report addressing the
+activities described in subsection (1)  of this section to the State Director of Head Start Collab-
+oration, the Legislative Assembly and the Governor.
+(b) Following submission  of a statewide strategic report described in paragraph (a) of this sub-
+section, the [ council] department  may meet periodically to  review the implementation of the re-
+commendations in the report and to review any changes in state or local needs.
+SECTION 56.  ORS 417.827 is amended to read:
+417.827. (1) As used in this section and ORS 417.829:
+(a) “Early Learning Hub” means any entity designated by regional partners  to coordinate early
+learning services, as determined by rules adopted by the Early Learning Council.
+(b) “Regional partners” includes  counties, cities, school districts, education service districts,
+community colleges,  public universities, private educational institutions, faith-based organizations,
+nonprofit service providers and tribes.
+(2) The council shall  implement and coordinate a system that coordinates the delivery of early
+learning services to the communities  of this state through the direction of Early Learning Hubs. The
+system may not include more than 16 Early Learning Hubs.
+(3) The system implemented and coordinated by the council must ensure that:
+(a) Providers of early learning services are accountable for outcomes;
+(b) Services are provided in a cost-efficient manner; and
+(c) The services provided, and the means by which those services are  provided, are focused on
+the outcomes of the services.
+(4) The council shall develop and implement a process for requesting proposals  from entities to
+become Early Learning Hubs. Proposals submitted under this subsection  must comply with criteria
+and requirements adopted by the council by rule, including:
+(a) The entity  will be able to coordinate the provision of early learning services to the commu-
+nity that will be  served by the entity. An entity may meet the requirement of this paragraph by
+submitting evidence that local stakeholders,  including but not limited to service providers, parents,
+community members, county governments, local governments and school districts,  have participated
+in the development of the proposal and will maintain a meaningful role in the Early Learning Hub.
+(b) The services coordinated by the entity will be  in alignment with the services provided by the
+public schools of the community that will be served by the entity.
+(c) The entity will be in alignment with, and make advantageous  use of, the system of public
+health care and services available through local  health departments and other publicly supported
+programs delivered through, or in partnership with, counties and coordinated care organizations.
+(d) The entity  will be able to integrate efforts among education providers, providers of health
+care, providers of human services and providers of other programs and services in the community.
+(e) The entity will use coordinated and transparent budgeting.
+(f) The entity will operate in a fiscally sound manner.
+(g) The entity must have a governing body or community advisory body that:
+(A) Has the authority to initiate audits, recommend  the terms of a contract and provide reports
+to the public and to the council on the outcomes of the provision of early  learning services to the
+community served by the entity.
+(B) Has members selected through  a transparent process and includes both public and private
+entities, locally based parents and service recipients,  human social service providers, child care
+providers, health care providers and representatives of local governments from the service area.
+(h) The entity will collaborate on documentation related to coordinated services  with public and
+private entities that are identified by the council  as providers of services that advance the early
+learning of children.
+(i) The entity will serve a community that is based on the population and service needs  of the
+community and will demonstrate the ability to improve  results for at-risk children, including the
+Enrolled House Bill 3073 (HB 3073-D) Page 43
+ability to  identify, evaluate and implement coordinated strategies to ensure that a child is ready to
+succeed in school.
+(j) The entity will be  able to raise and leverage significant funds from public and private sources
+and to secure in-kind support to support early  learning services coordinated by the entity and op-
+erate in a fiscally sound manner.
+(k) The entity meets any other qualifications established by the council.
+(5) The council may adopt by rule requirements that are in addition  to the requirements de-
+scribed in subsections (3) and (4) of this section that an entity must  meet to qualify as an Early
+Learning Hub. When developing the additional requirements, the council must use a statewide public
+process of community engagement that is consistent with the requirements  of the federal Head Start
+Act.
+(6) When determining whether to designate an entity as an Early  Learning Hub, the council
+shall balance the following factors:
+(a) The entity’s ability to engage the community and be involved in the community.
+(b) The entity’s ability to produce outcomes that benefit children.
+(c) The entity’s resourcefulness.
+(d) The entity’s use, or proposed use, of evidence-based practices.
+(7) The  council shall develop metrics for the purpose of providing funding to Early Learning
+Hubs designated under this section. The metrics must:
+(a) Focus on  community readiness, high capacity development and progress toward tracking
+child outcomes;
+(b) Establish a baseline of information for the area to be served by  the Early Learning Hub,
+including information about the inclusion of community partners in the  governance structure of the
+Early Learning  Hub, the availability of data on local programs and outcomes and the success in
+leveraging private, nonprofit and other governmental resources for early learning; and
+(c) Include child performance metrics.
+(8) The council may  require that, as a condition of receiving funding as a designated Early
+Learning Hub under this section, the Early Learning Hub provide  matching funding. The percentage
+of matching  funding shall be determined by the council and may vary for each fiscal year. Any
+moneys received by an Early Learning Hub are subject to the restrictions of this section.
+(9) For any community in this state that is  not served by an Early Learning Hub, the council
+shall coordinate and administer the delivery of early  learning services for that community and, to
+the extent practicable, shall regionalize service administration.
+(10) The council may  alter the lines of the territory served by an Early Learning Hub only to
+ensure that all children of this state are served by an Early Learning Hub  and receive adequate
+early learning services for a community .
+(11) An entity designated as part of an Early Learning  Hub may not use more than 15 percent
+of the moneys received by the  entity from the [ council] Department of Early Learning and Care
+to pay administrative costs of the entity.
+(12) The Department of Human Services or the Oregon Health Authority may not  transfer any
+authority for determining eligibility for a state or federal program to an Early Learning Hub.
+SECTION 57.
+ ORS 417.829 is amended to read:
+417.829. (1) Each biennium, the Department of  Early Learning [ Council] and Care shall con-
+duct an evaluation of Early Learning Hubs that assesses the efficacy of the Early  Learning Hubs
+with respect to:
+(a) Creating an aligned, coordinated and family-centered system of early learning services;
+(b) Increasing coordination and collaboration  among entities involved in, and providers of ser-
+vices related to, early learning services, education and health and human services;
+(c) Increasing focus on outcomes; and
+(d) Improving outcomes, including but not limited  to outcomes associated with school readiness,
+for populations defined by statute or rule as being at-risk.
+Enrolled House Bill 3073 (HB 3073-D) Page 44
+(2) An evaluation performed under subsection (1) of this section must also assess, with  respect
+to Early Learning Hubs:
+(a) Governance structure;
+(b) Funding mechanisms and metrics for providing funding; and
+(c) Compilation and use of data.
+(3) The [ council] department may contract with a third party to perform  an evaluation required
+by this section.
+(4) No later than March 15  of each odd-numbered year, the [ council] department shall submit
+a report to the interim  legislative committees on education and early learning regarding the findings
+and recommendations made as a result of an evaluation performed  under this section. The report
+shall include any recommendations for legislative changes based upon the  findings and recommen-
+dations made as a result of the evaluation.
+SECTION 58.
+ ORS 419B.005 is amended to read:
+419B.005. As used in ORS 419B.005 to 419B.050, unless the context requires otherwise:
+(1)(a) “Abuse” means:
+(A) Any assault, as defined in ORS chapter 163, of a child and any physical injury to a  child
+which has been caused by other than accidental means, including any injury which appears  to be
+at variance with the explanation given of the injury.
+(B) Any mental  injury to a child, which shall include only observable and substantial impairment
+of the child’s mental or psychological ability to function caused by cruelty to the  child, with due
+regard to the culture of the child.
+(C) Rape of a child, which includes but is not limited to  rape, sodomy, unlawful sexual pene-
+tration and incest, as those acts are described in ORS chapter 163.
+(D) Sexual abuse, as described in ORS chapter 163.
+(E) Sexual exploitation, including but not limited to:
+(i) Contributing to the sexual delinquency of a minor, as  defined in ORS chapter 163, and any
+other conduct  which allows, employs, authorizes, permits, induces or encourages a child to engage
+in the performing for people  to observe or the photographing, filming, tape recording or other ex-
+hibition which, in whole or in part, depicts sexual conduct or contact, as  defined in ORS 167.002 or
+described in ORS 163.665 and  163.670, sexual abuse involving a child or rape of a child, but not in-
+cluding any conduct which is part of any  investigation conducted pursuant to ORS 419B.020 or
+which is designed to serve educational or other legitimate purposes; and
+(ii) Allowing, permitting, encouraging or hiring  a child to engage in prostitution as described in
+ORS 167.007 or a commercial sex act as defined in ORS 163.266, to  purchase sex with a minor as
+described in ORS 163.413 or  to engage in commercial sexual solicitation as described in ORS
+167.008.
+(F) Negligent treatment or maltreatment of a child, including but not limited  to the failure to
+provide adequate food, clothing, shelter or medical care that  is likely to endanger the health or
+welfare of the child.
+(G) Threatened harm to a child, which means subjecting a child to a substantial  risk of harm
+to the child’s health or welfare.
+(H) Buying or selling a person under 18 years of age as described in ORS 163.537.
+(I) Permitting  a person under 18 years of age to enter or remain in or upon premises where
+methamphetamines are being manufactured.
+(J) Unlawful exposure to a controlled substance, as defined in ORS 475.005, or to  the unlawful
+manufacturing of a cannabinoid extract, as defined in ORS 475B.015, that subjects a child to  a sub-
+stantial risk of harm to the child’s health or safety.
+(b) “Abuse” does not  include reasonable discipline unless the discipline results in one of the
+conditions described in paragraph (a) of this subsection.
+(2) “Child” means an unmarried person who:
+(a) Is under 18 years of age; or
+Enrolled House Bill 3073 (HB 3073-D) Page 45
+(b) Is under 21 years of age and residing in  or receiving care or services at a child-caring
+agency as that term is defined in ORS 418.205.
+(3) “Higher education institution” means:
+(a) A community college as defined in ORS 341.005;
+(b) A public university listed in ORS 352.002;
+(c) The Oregon Health and Science University; and
+(d) A private institution of higher education located in Oregon.
+(4)(a) “Investigation” means a detailed inquiry into or assessment  of the safety of a child alleged
+to have experienced abuse.
+(b) “Investigation” does not include screening activities conducted upon the  receipt of a report.
+(5) “Law enforcement agency” means:
+(a) A city or municipal police department.
+(b) A county sheriff’s office.
+(c) The Oregon State Police.
+(d) A police department established by a university under ORS 352.121 or 353.125.
+(e) A county juvenile department.
+(6) “Public or private official” means:
+(a) Physician or physician assistant licensed under  ORS chapter 677 or naturopathic physician,
+including any intern or resident.
+(b) Dentist.
+(c) School employee, including an employee of a higher education institution.
+(d) Licensed  practical nurse, registered nurse, nurse practitioner, nurse’s aide, home health aide
+or employee of an in-home health service.
+(e) Employee  of the Department of Human Services, Oregon Health Authority, Department of
+Early Learning [ Division] and Care , Department  of Education, Youth Development Division, Office
+of Child Care, the  Oregon Youth Authority, a local health department, a community mental health
+program, a community developmental disabilities program, a county  juvenile department, a child-
+caring agency as that term is defined in ORS 418.205 or an alcohol and drug treatment program.
+(f) Peace officer.
+(g) Psychologist.
+(h) Member of the clergy.
+(i) Regulated social worker.
+(j) Optometrist.
+(k) Chiropractor.
+(L) Certified provider of foster care, or an employee thereof.
+(m) Attorney.
+(n) Licensed professional counselor.
+(o) Licensed marriage and family therapist.
+(p) Firefighter or emergency medical services provider.
+(q) A court appointed special advocate, as defined in ORS 419A.004.
+(r) A child care provider registered or certified under ORS 329A.030 and 329A.250 to 329A.450.
+(s) Member of the Legislative Assembly.
+(t) Physical, speech or occupational therapist.
+(u) Audiologist.
+(v) Speech-language pathologist.
+(w) Employee of the Teacher Standards and  Practices Commission directly involved in investi-
+gations or discipline by the commission.
+(x) Pharmacist.
+(y) An operator of a preschool recorded program under ORS 329A.255.
+(z) An operator of a school-age recorded program under ORS 329A.257.
+Enrolled House Bill 3073 (HB 3073-D) Page 46
+(aa) Employee of a private agency or  organization facilitating the provision of respite services,
+as defined in ORS 418.205, for parents  pursuant to a properly executed power of attorney under ORS
+109.056.
+(bb) Employee of a public or private organization providing child-related services or activities:
+(A) Including but not limited  to youth groups or centers, scout groups or camps, summer or day
+camps, survival camps or groups, centers  or camps that are operated under the guidance, super-
+vision or  auspices of religious, public or private educational systems or community service organ-
+izations; and
+(B) Excluding community-based,  nonprofit organizations whose primary purpose is to provide
+confidential, direct services to victims of  domestic violence, sexual assault, stalking or human traf-
+ficking.
+(cc) A coach, assistant coach or trainer of an amateur,  semiprofessional or professional athlete,
+if compensated and if the athlete is a child.
+(dd) Personal support worker, as defined in ORS 410.600.
+(ee) Home care worker, as defined in ORS 410.600.
+(ff) Animal control officer, as defined in ORS 609.500.
+(gg) Member of a school district board or public charter school governing body.
+(hh) An individual who is paid by a public body, in accordance  with ORS 430.215, to provide a
+service identified in an individualized written  service plan of a child with a developmental disability.
+SECTION 59.
+ ORS 433.301 is amended to read:
+433.301. (1) As used in this section, “community” means a geographic region,  county, tribe or
+other group of individuals living in proximity as defined by the Oregon Health Authority by rule.
+(2) The authority shall design, implement and maintain a voluntary statewide program to provide
+universal newborn nurse home visiting services to all families with  newborns residing in this state
+to support healthy child development and  strengthen families. The authority shall design the uni-
+versal newborn nurse home visiting program to be  flexible so as to meet the needs of the commu-
+nities where the program operates.
+(3) In designing the program described in subsection (2) of this section, the authority shall con-
+sult, coordinate and collaborate, as necessary, with insurers  that offer health benefit plans in this
+state, hospitals, local public health authorities, the Department of  Early  Learning [ Division] and
+Care, existing early childhood home visiting  programs, community-based organizations and social
+service providers.
+(4) The program must provide nurse home visiting services that are:
+(a) Based on criteria established by the United  States Department of Health and Human Ser-
+vices for an evidence-based early childhood home visiting service delivery model;
+(b) Provided by registered nurses licensed in this state to families caring for  newborns up to the
+age of six months, including foster and adoptive newborns;
+(c) Provided in the family’s home; and
+(d) Aimed at improving outcomes in one or more of the following domains:
+(A) Child health;
+(B) Child development and school readiness;
+(C) Family economic self-sufficiency;
+(D) Maternal health;
+(E) Positive parenting;
+(F) Reducing child mistreatment;
+(G) Reducing juvenile delinquency;
+(H) Reducing family violence; or
+(I) Reducing crime.
+(5) The services provided in the program must:
+(a) Be voluntary and carry no negative consequences for a family that declines to participate;
+(b) Be offered in every community in this state;
+Enrolled House Bill 3073 (HB 3073-D) Page 47
+(c) Include an evidence-based assessment of the  physical, social and emotional factors affecting
+the family;
+(d) Be offered to all families with newborns residing in  the community where the program op-
+erates;
+(e) Include at least one visit during a newborn’s first  three months of life with the opportunity
+for the family to choose up to three additional visits;
+(f) Include a follow-up visit no later than three months after the last visit; and
+(g) Provide information and referrals to address each family’s identified needs.
+(6) The authority shall collect and analyze data generated by  the program to assess the effec-
+tiveness of the program in meeting  the aims described in subsection (4)(d) of this section and shall
+work with other state  agencies to develop protocols for sharing data, including the timely sharing
+of data with primary care providers of care to the families with newborns receiving the services.
+(7) In collaboration with the Department of Consumer and Business  Services, the authority shall
+adopt by rule, consistent with the provisions of this section, criteria  for universal newborn nurse
+home visiting services that must  be covered by health benefit plans in accordance with ORS
+743A.078.
+SECTION 60.
+ ORS 609.652 is amended to read:
+609.652. As used in ORS 609.654:
+(1)(a) “Aggravated animal abuse” means any animal abuse as described in ORS 167.322.
+(b) “Aggravated animal abuse” does not include:
+(A) Good animal husbandry, as defined in ORS 167.310; or
+(B) Any exemption listed in ORS 167.335.
+(2) “Law enforcement agency” means:
+(a) Any city or municipal police department.
+(b) A police department established by a university under ORS 352.121 or 353.125.
+(c) Any county sheriff’s office.
+(d) The Oregon State Police.
+(e) A law enforcement division of a county or municipal animal control agency  that employs
+sworn officers.
+(f) A  humane investigation agency as defined in ORS 181A.340 that employs humane special
+agents commissioned under ORS 181A.340.
+(3) “Public or private official” means:
+(a) A physician, including any intern or resident.
+(b) A dentist.
+(c) A school employee.
+(d) A licensed practical nurse or registered nurse.
+(e) An employee of the Department of Human  Services, Oregon Health Authority, Department
+of Early Learning [ Division] and Care , Youth Development Division, Office of  Child Care, the
+Oregon Youth Authority, a local health department, a community mental health program, a com-
+munity developmental disabilities program, a county juvenile department, a child-caring  agency as
+defined in ORS 418.205 or an alcohol and drug treatment program.
+(f) A peace officer.
+(g) A psychologist.
+(h) A member of the clergy.
+(i) A regulated social worker.
+(j) An optometrist.
+(k) A chiropractor.
+(L) A certified provider of foster care, or an employee thereof.
+(m) An attorney.
+(n) A naturopathic physician.
+(o) A licensed professional counselor.
+(p) A licensed marriage and family therapist.
+Enrolled House Bill 3073 (HB 3073-D) Page 48
+(q) A firefighter or emergency medical services provider.
+(r) A court appointed special advocate, as defined in ORS 419A.004.
+(s) A child care provider registered or certified under ORS 329A.030 and 329A.250 to 329A.450.
+(t) A member of the Legislative Assembly.
+SECTION 61.
+ ORS 805.205 is amended to read:
+805.205. (1) Except as provided in subsection (7) of this section, the Department  of Transporta-
+tion shall provide for issuance of registration  plates described in this section for nonprofit groups
+meeting the  qualifications for tax exempt status under section 501(c)(3) of the Internal Revenue Code
+and for institutions of higher education. Plates issued under this section may  be issued to owners
+of motor vehicles  registered under the provisions of ORS 803.420 (6)(a). Plates issued under this
+section may not contain expressions of political opinion or religious belief. Rules adopted under this
+section shall include, but need not be limited to, rules that:
+(a) Specify circumstances under which the department may cease to  issue plates for any par-
+ticular group.
+(b) Require each group for which plates are issued to file an  annual statement on a form de-
+signed by the department showing that the group is a nonprofit group or is an institution  of higher
+education and that the group or institution otherwise meets the qualifications imposed  for eligibility
+for plates issued under this  section. The statement shall include names and addresses of current
+directors or officers of the group or institution  or of other persons authorized to speak for the group
+or institution on matters affecting plates issued under this section.
+(2)(a) Except as otherwise provided in paragraphs (b)  and (c) of this subsection, in addition to
+any other fee authorized by law, upon issuance of a plate under  this section and upon renewal of
+registration for a  vehicle that has plates issued under this section, the department shall collect a
+surcharge for each year of the registration period. The surcharge shall be determined  by the de-
+partment by rule and may not be less than $2.50 per plate or more than $16 per plate.  In setting the
+amount of the surcharge, the department shall consult with the nonprofit group for which  the plates
+are issued.
+(b) In addition to any other fee authorized by law, upon issuance of a plate under this  section
+that recognizes an institution of  higher education in this state, and upon renewal of registration for
+a vehicle that has such plates, the  department shall collect a surcharge of $8 per plate for each year
+of the registration period.
+(c) In addition to any other fee authorized  by law, upon issuance of a Share the Road registra-
+tion plate the department shall collect a surcharge of $5 per year of registration.
+(3) Plates issued under this section shall be from the current regular issue of plates except  that:
+(a) If the group requesting the plates is an institution of higher education, the  plates shall, upon
+request, contain words that indicate the plates  are issued to recognize the institution or shall con-
+tain the institution’s logo or an image of the institution’s mascot; or
+(b) If the group requesting  the plates is a group that recognizes fallen public safety officers, the
+plates shall, upon request, contain a decal that indicates the plates are issued to recognize fallen
+public safety officers.
+(4) Except as otherwise required by the design chosen, the plates shall  comply with the re-
+quirements of ORS 803.535. The department shall determine how many sets of plates shall be  man-
+ufactured for each group approved under this section. If the department does  not sell or issue
+renewal for 500 sets of  plates for a particular group in any one year, the department shall cease
+production of those plates.
+(5) Except as otherwise provided in subsection (6) of this  section, each group that is found by
+the department to be  eligible for plates issued under this section may designate an account into
+which the net proceeds of the surcharge collected by the  department under subsection (2) of this
+section are to be deposited. The department shall keep accurate records of the number of plates is-
+sued for each group that qualifies. After  payment of administrative expenses of the department,
+moneys collected under this  section for each group shall be deposited by the department into an
+account specified by that group. If any  group does not specify an account for the moneys collected
+Enrolled House Bill 3073 (HB 3073-D) Page 49
+from the sale of plates issued under this section, the department  shall deposit moneys collected for
+those plates into the Passenger Rail Transportation Account established under ORS 802.100 to be
+used as other moneys in the account are used. Deposits under this subsection shall be made at  least
+quarterly.
+(6)(a) Each institution of higher education  that requests a plate under this section shall desig-
+nate an account in the general fund of the institution, and the proceeds  in the account shall be used
+for the purpose of academic enrichment at the institution.
+(b) Net proceeds of the surcharge collected by the department for Share the Road  registration
+plates shall be deposited into two accounts designated by  The Street Trust Community Fund and
+Cycle Oregon. The department shall evenly distribute the  net proceeds to each account. Deposits
+under this paragraph shall  be made at least quarterly. At any time that the department determines
+that the accounts designated by The Street Trust Community Fund and  Cycle Oregon cease to exist,
+the department  may deposit the proceeds into the Passenger Rail Transportation Account estab-
+lished under ORS 802.100.
+(c) Net proceeds of  the surcharge collected by the department for Keep Kids Safe registration
+plates shall be deposited into an account designated by  the Children’s Trust Fund of Oregon Foun-
+dation to fund strategies and approaches shown to prevent or reduce child  abuse. Deposits made
+under this paragraph shall be made at least quarterly. At any time that  the department determines
+that the account designated by the  Children’s Trust Fund of Oregon Foundation ceases to exist, the
+department shall deposit the proceeds into the Keep Kids Safe Registration Plate Account  estab-
+lished in ORS 805.207. At the beginning of each biennium,  the Department of  Early Learning
+[Council] and Care shall evenly distribute the moneys in the Keep Kids Safe Registration  Plate
+Account to the counties in this state, until each county receives $1,000. After each county has  re-
+ceived  $1,000, the [ council] Department of Early Learning and Care shall distribute any remaining
+moneys to each county  in an amount equal to the percentage of Keep Kids Safe registration plates
+sold in that county. Each county shall use the moneys received under this paragraph solely for  the
+purpose of funding strategies and approaches shown to prevent or reduce child abuse.
+(7) The Department of Transportation  may  not accept applications to create new group regis-
+tration plates on or after August 12, 2015.
+SECTION 62.
+ ORS 805.207 is amended to read:
+805.207. The Keep Kids Safe  Registration Plate Account is established within the Department
+of Early Learning [ Division] and Care Fund. All moneys received by the Department of  Early
+Learning [ Council] and Care from the sale of Keep Kids Safe registration  plates shall be deposited
+into the account  and are continuously appropriated to the [ council] department to be distributed
+to counties as provided in ORS 805.205.
+SECTION 63. ORS 329.145, 329.150, 329.190, 329A.490 and 329A.493 are repealed.
+TRANSITION OF EARLY LEARNING DIVISION TO
+THE DEPARTMENT OF EARLY LEARNING AND CARE
+SECTION 64. (1) Sections 12 and  13 of this 2021 Act, the amendments to ORS 131A.360,
+131A.365, 183.459, 279A.050, 326.425,  326.430, 326.435, 327.269, 327.274, 329.155, 329.156, 329.165,
+329.170, 329.172, 329.175, 329.181, 329.183, 329.185, 329.195, 329.200,  329.219, 329.841, 329.843,
+329.845, 329A.010, 329A.120, 329A.135, 329A.250, 329A.261, 329A.712, 336.101,  336.104, 343.465,
+343.475, 343.499, 417.781, 417.782, 417.784, 417.788, 417.790, 417.793,  417.795, 417.796, 417.827,
+417.829, 419B.005, 433.301, 609.652, 805.205 and 805.207 by sections 11 and 14 to 62  of this 2021
+Act and the repeal of ORS 329.145, 329.150, 329.190, 329A.490  and 329A.493 by section 63 of this
+2021 Act become operative on January 1, 2023.
+(2) Notwithstanding the operative date set  forth in subsection (1) of this section, the
+Early Learning Division and the Department of Education may  take any action before the
+operative date set forth  in subsection (1) of this section that is necessary for the Department
+of Early Learning and Care to exercise, on  and after the operative date set forth in sub-
+Enrolled House Bill 3073 (HB 3073-D) Page 50
+section (1) of this section, all of the duties,  functions and powers conferred on the Depart-
+ment of Early Learning and Care by sections  12 and 13 of this 2021 Act and the amendments
+to ORS 131A.360, 131A.365, 183.459, 279A.050, 326.425, 326.430, 326.435, 327.269, 327.274, 329.155,
+329.156, 329.165, 329.170, 329.172,  329.175, 329.181, 329.183, 329.185, 329.195, 329.200, 329.219,
+329.841, 329.843, 329.845,  329A.010, 329A.120, 329A.135, 329A.250, 329A.261, 329A.712, 336.101,
+336.104, 343.465, 343.475, 343.499,  417.781, 417.782, 417.784, 417.788, 417.790, 417.793, 417.795,
+417.796, 417.827, 417.829, 419B.005, 433.301, 609.652, 805.205 and 805.207 by sections 11 and 14
+to 62 of this 2021 Act.
+(3) For the purpose of ensuring that the Department of Early Learning and Care may
+exercise, on and after the operative date set forth  in subsection (1) of this section, all of the
+duties, functions and powers conferred on the Department of Early Learning and  Care by
+sections 12 and 13 of this  2021 Act and the amendments to ORS 131A.360, 131A.365, 183.459,
+279A.050, 326.425, 326.430,  326.435, 327.269, 327.274, 329.155, 329.156, 329.165, 329.170, 329.172,
+329.175, 329.181, 329.183, 329.185, 329.195, 329.200, 329.219, 329.841, 329.843,  329.845, 329A.010,
+329A.120, 329A.135, 329A.250, 329A.261, 329A.712,  336.101, 336.104, 343.465, 343.475, 343.499,
+417.781, 417.782, 417.784, 417.788, 417.790, 417.793, 417.795, 417.796, 417.827, 417.829,  419B.005,
+433.301, 609.652, 805.205 and 805.207 by sections 11 and 14 to 62 of this 2021 Act,  the Early
+Learning Division and the Department of Education shall develop  and implement a plan that
+provides for a seamless transfer of duties, functions and powers.
+(4) The Governor shall resolve  any disputes related to the plan developed and imple-
+mented under subsection (3) of this section, and the Governor’s decision is final.
+SECTION 65.
+(1) The amendments  to ORS 326.430 by section 11 of this 2021 Act are in-
+tended to establish the Department of  Early Learning and Care as a state agency that is a
+continuation of the Early Learning Division but separate from the Department of Education.
+(2) For the purpose of making the Department of Early Learning and Care separate  from
+the Department of Education, the Superintendent of Public Instruction shall:
+(a) Deliver to the Department of Early  Learning and Care all records and property within
+the jurisdiction of the superintendent that relate  to the duties, functions and powers trans-
+ferred by the amendments to ORS 326.430 by section 11 of this 2021 Act; and
+(b) Transfer to the Department of Early  Learning and Care those employees engaged
+primarily in the exercise of the duties, functions and powers transferred by the amendments
+to ORS 326.430 by section 11 of this 2021 Act.
+(3) The Early Learning System Director shall take possession  of the records and prop-
+erty, and shall take charge of the  employees and employ them in the exercise of the duties,
+functions and powers of the Department of Early Learning and Care without reduction  of
+compensation but subject to change or termination of employment or compensation  as pro-
+vided by law.
+(4) The Governor shall resolve any dispute between the Department of  Education and the
+Department of Early Learning and Care relating to transfers of records, property and  em-
+ployees under this section, and the Governor’s decision is final.
+SECTION 66. (1) The unexpended balances of amounts authorized to be  expended by the
+Department of Education for the biennium beginning July 1, 2021, from revenues dedicated,
+continuously appropriated, appropriated or otherwise made available for the purpose of ad-
+ministering and enforcing  the duties, functions and powers of the Early Learning Division
+that are transferred by the amendments to ORS  326.430 by section 11 of this 2021 Act are
+transferred to and are available for  expenditure by the Department of Early Learning and
+Care for the biennium beginning July 1, 2021, for  the purpose of administering and enforcing
+the duties, functions and  powers transferred to the Department of Early Learning and Care
+by the amendments to ORS 326.430 by section 11 of this 2021 Act.
+(2) The  expenditure classifications, if any, established by Acts authorizing or limiting
+expenditures by the Department of Education remain  applicable to expenditures by the De-
+partment of Early Learning and Care under this section.
+Enrolled House Bill 3073 (HB 3073-D) Page 51
+SECTION 67. The transfer of duties, functions and  powers to the Department of Early
+Learning and Care by the amendments to ORS 326.430 by section 11 of this 2021 Act does not
+affect any action, proceeding or prosecution involving  or with respect to such duties, func-
+tions and powers begun  before and pending at the time of the transfer, except that the De-
+partment of Early Learning and Care is substituted for the Early Learning  Division or the
+Department of Education in the action, proceeding or prosecution.
+SECTION 68.
+(1) Nothing in sections 12 and 13 of this 2021 Act, the amendments  to ORS
+131A.360, 131A.365, 183.459, 279A.050, 326.425, 326.430, 326.435, 327.269, 327.274,  329.155, 329.156,
+329.165, 329.170, 329.172, 329.175,  329.181, 329.183, 329.185, 329.195, 329.200, 329.219, 329.841,
+329.843, 329.845, 329A.010,  329A.120, 329A.135, 329A.250, 329A.261, 329A.712, 336.101, 336.104,
+343.465, 343.475, 343.499, 417.781,  417.782, 417.784, 417.788, 417.790, 417.793, 417.795, 417.796,
+417.827, 417.829, 419B.005, 433.301, 609.652, 805.205 and 805.207 by sections 11 and  14 to 62 of
+this 2021 Act or the repeal of ORS 329.145, 329.150, 329.190,  329A.490 and 329A.493 by section
+63 of this 2021 Act relieves a person of a  liability, duty or obligation accruing under or with
+respect to the duties, functions and powers transferred  by the amendments to ORS 326.430
+by section 11 of this 2021 Act.  The Department of Early Learning and Care may undertake
+the collection or enforcement of any such liability, duty or obligation.
+(2) The rights and obligations of  the Early Learning Division or the Department of Edu-
+cation on behalf of the  Early Learning Division legally incurred under contracts, leases and
+business transactions executed, entered into or begun before the operative date  of the
+amendments to ORS 326.430 by section 11 of this 2021 Act are transferred to the  Department
+of Early Learning and Care. For the purpose of succession to these rights and obligations,
+the Department of Early Learning and Care is  a continuation of the Early Learning Division
+and not a new authority.
+SECTION 69. Notwithstanding the transfer of duties, functions and  powers by the
+amendments to  ORS 326.430 by section 11 of this 2021 Act, the rules of the State Board of
+Education in effect on the operative date  of the amendments to ORS 326.430 by section 11
+of this 2021 Act  continue in effect until superseded or repealed by rules of the Early Learning
+Council. References in rules of the State Board of Education to  the Early Learning Division
+or an officer or employee of the Early Learning Division are considered to be references  to
+the Department of Early Learning and Care or an officer or  employee of the Department of
+Early Learning and Care.
+SECTION 70. Whenever, in any statutory law or  resolution of the Legislative Assembly
+or in any rule, document, record or  proceeding authorized by the Legislative Assembly, ref-
+erence is made to the Early Learning Division or an  officer or employee of the Early
+Learning Division, the reference is considered to be a reference to  the Department of Early
+Learning and Care or an officer or employee of the Department  of Early Learning and Care.
+SECTION 71. (1) The amendments to ORS 326.430 by section 11 of this  2021 Act are in-
+tended to  change the name of the “Early Learning Division” to the “Department of Early
+Learning and Care.”
+(2) For the purpose of harmonizing and clarifying  statutory law, the Legislative Counsel
+may substitute for words designating the  “Early Learning Division” or its officers, wherever
+they occur in statutory law, words designating the “Department of Early  Learning  and
+Care” or its officers.
+SECTION 72. For the purpose of harmonizing and clarifying statutory law, the Legislative
+Counsel may substitute for words designating the  “Early Learning Division Fund,” wherever
+they occur in statutory law, words designating the “Department of Early  Learning and Care
+Fund.”
+TRANSFER OF EMPLOYMENT RELATED DAY CARE TO
+THE DEPARTMENT OF EARLY LEARNING AND CARE
+Enrolled House Bill 3073 (HB 3073-D) Page 52
+SECTION 73.  ORS 329A.500, as amended by sections 8 and 8b of  this 2021 Act, is amended to
+read:
+329A.500. (1)  As used in this section, “family” means any individual who is responsible for the
+care, control and supervision of a child.
+(2) The [ Department of Human Services and the ] Early Learning  Council shall adopt rules for the
+operation of the Employment Related Day  Care subsidy program administered by the Department
+of Early Learning and Care .
+(3) The rules adopted under  this section must support equitable access to a supply of diverse
+child care providers that meet the needs of families, as those needs are defined by  the [ department]
+council by rule, including:
+(a) Cultural diversity;
+(b) Linguistic diversity;
+(c) Racial and ethnic diversity; and
+(d) Diversity of provider types.
+(4) The rules adopted under this section must provide that:
+(a) A child’s eligibility to participate in the Employment Related Day Care subsidy program
+must be based on:
+(A) The household income of a child’s family; and
+(B) Any other criteria established by the [ department] council.
+(b) A child must be able to receive care that:
+(A) Meets the child’s developmental, disability and neurodiversity needs; and
+(B) Enables the child’s family to complete activities that relate to family well-being, which may
+include the family’s work hours, education hours, commute time,  study time and other activities that
+support family well-being.
+(c) Payment to child care providers must be based on enrollment instead of attendance.
+(d) A child’s family may qualify for an incentive if  the family voluntarily chooses a child care
+provider that participates in the quality recognition and improvement system  established under ORS
+329A.261. A fair representation of the recipients who  qualify for incentives must be families with
+children who are from underserved racial, ethnic or minority populations. In addition,  child care
+providers that participate in  the quality recognition and improvement system may receive financial
+incentives under the subsidy programs in accordance with criteria established by rule.
+(e) A child care provider may  be eligible to receive a higher rate of reimbursement or
+other financial incentives for:
+(A) Participating in quality improvement measures;
+(B) Providing culturally or linguistically specific or appropriate care;
+(C) Providing evening, overnight or weekend care;
+(D) Providing care to children with a diagnosed disability;
+(E) Providing infant or toddler care;
+(F) Providing care to a population that has been identified as historically having  an in-
+adequate child care provider supply; or
+(G) Providing any other specialized care that justifies a higher rate of reimbursement.
+(5) Taking into account the availability  of funds, the rules adopted under this section [ must es-
+tablish]:
+(a) Must establish  a sliding scale for copayment, with the requirement  that a copayment may
+not exceed seven percent of the household income of the child’s family.
+(b) Must provide that eligibility to participate in the Employment Related Day  Care sub-
+sidy program:
+(A) May not be based on the citizenship or legal status of a  child or a child’s family; and
+(B) Shall, for a child who met  the initial eligibility requirements prescribed under sub-
+section (4) of this section, continue for a minimum  of 12 months from the date of initial el-
+igibility unless the child’s family leaves this  state or requests a termination of benefits or
+for any other reason identified by the council. Rules adopted under  this subparagraph shall
+Enrolled House Bill 3073 (HB 3073-D) Page 53
+give priority to  families receiving temporary assistance under the temporary assistance for
+needy families program described in ORS 412.006.
+(c) May provide that a determination of eligibility to participate in the Employment  Re-
+lated Day Care subsidy program  consider the availability of family to attend to the child,
+regardless of the family’s physical presence.
+(6) In developing rules under this section,  the [ department] council shall consider policies for
+increasing the stability and continuity of a child’s access to a family’s preferred child care  provider.
+(7) Rules adopted by the [ department] council under this section establish minimum requirements
+pertaining to the Employment  Related Day Care subsidy program and may not be construed to
+preempt, limit or otherwise diminish the applicability of any policy,  standard or collective bargain-
+ing agreement  that provides for an increased subsidy or a child care provider reimbursement amount
+under state or federal law.
+(8)(a) The [ department] council shall work to meet federal recommendations  for income eligibil-
+ity and market access in regard to the Employment Related Day Care  subsidy program administered
+by the [ department] council.
+(b) Notwithstanding any provision of this section or any rule adopted by the [ department]
+council pursuant to this section, the laws and  regulations applicable to any federal funds shall
+govern when any aspect of child care is funded by federal funds.
+SECTION 74.  ORS 329A.505, as amended by section 8a of this 2021 Act, is amended to read:
+329A.505. (1) At any reasonable time, an authorized  representative of the Office of Child Care
+may conduct an inspection or investigation of a regulated subsidy facility, as defined by the  Early
+Learning Council by rule.
+(2) When conducting an investigation under this section, the Office of Child Care may:
+(a) Take evidence;
+(b) Take the depositions of witnesses, including the person under investigation,  in the manner
+prescribed by law for depositions in civil actions;
+(c) Compel the appearance of witnesses, including the person under investigation, in the  manner
+prescribed by law for appearances in civil actions;
+(d) Require answers to interrogatories;
+(e) Compel the production of books, papers, accounts, documents or  testimony that pertains to
+the matter under investigation;
+(f) Issue subpoenas; and
+(g) Inspect the premises of the facility under investigation.
+(3) The Office of Child Care may, as a condition of finalizing an inspection,  require improve-
+ments, corrections  or other measures to ensure that the regulated subsidy facility complies with the
+requirements under the rules adopted under this section.
+(4) In addition to any rules adopted under ORS 329A.500,  the Early Learning Council[ , in con-
+sultation with  the Department of Human Services, ] may adopt rules to establish minimum health and
+safety standards for regulated subsidy facilities and for the administration of this section.
+SECTION 75.
+ ORS 315.264 is amended to read:
+315.264. (1)(a) A credit against the tax otherwise  due under ORS chapter 316 shall be allowed
+a taxpayer in an amount equal  to a percentage of employment-related expenses of a type allowable
+as a credit pursuant to section 21 of the Internal Revenue Code, notwithstanding the  limitation im-
+posed by section 21(c) of the Internal Revenue Code, and limited as provided  in paragraph (c) of this
+subsection.
+(b) The credit allowed  under this section may be claimed for expenses for care of a qualifying
+individual that allow a  nonmarried taxpayer to seek employment or to attend school on a full-time
+or part-time basis.
+(c) The employment-related expenses for which a credit is claimed under this  section may not
+exceed the least of:
+(A) Earned income taxable by Oregon and reportable on the taxpayer’s return;
+Enrolled House Bill 3073 (HB 3073-D) Page 54
+(B) The  lesser amount of earned income taxable by Oregon earned by either spouse, if reportable
+on a joint return; or
+(C) $12,000 for  a taxpayer for which there is one qualifying individual, or $24,000 for a taxpayer
+for which there are two or more qualifying individuals.
+(d) The limitations in paragraph (c)(C) of this subsection  shall be reduced by the aggregate
+amount excludable under section 129 of the Internal Revenue Code for the tax year.
+(2) The applicable  percentage described in subsection (1) of this section shall be determined in
+accordance with the following table:
+_______________________________________________________________________________________
+Greater of Federal
+or Oregon Adjusted
+Gross Income, as Applicable percentage based on age of youngest
+Percentage of Federal qualifying individual on January 1 of tax year
+Poverty Level
+_______________________________________________________________________________________
+At least 6 years
+but less than
+At least 13, or at least
+3 years 13 but less 18 years or
+Greater Less than Under 3 but less than 18 if older if
+than or equal to years than 6 disabled disabled
+0% 10% 10% 8% 5% 5%
+10% 20% 20% 18% 15% 5%
+20% 30% 30% 28% 25% 10%
+30% 40% 40% 38% 35% 20%
+40% 50% 50% 48% 45% 30%
+50% 60% 55% 53% 50% 35%
+60% 70% 60% 58% 55% 40%
+70% 80% 65% 63% 60% 45%
+80% 90% 70% 68% 65% 50%
+90% 110% 75% 73% 70% 55%
+110% 120% 71% 69% 66% 50%
+120% 130% 66% 64% 61% 45%
+130% 140% 61% 59% 56% 39%
+140% 150% 55% 53% 50% 33%
+150% 160% 50% 48% 45% 28%
+160% 200% 47% 45% 42% 25%
+200% 210% 45% 43% 40% 22%
+210% 220% 40% 38% 35% 20%
+220% 230% 35% 33% 30% 15%
+230% 240% 30% 28% 25% 10%
+240% 250% 20% 18% 15% 5%
+250% 260% 10% 8% 5% 5%
+260% 280% 6% 6% 4% 4%
+280% 300% 4% 4% 4% 4%
+300% - 0% 0% 0% 0%
+_______________________________________________________________________________________
+(3) The applicable percentage for a household in excess of  eight members shall be calculated as
+if for a household size of eight members.
+Enrolled House Bill 3073 (HB 3073-D) Page 55
+(4) The credit under this section is not allowed to  a taxpayer with federal adjusted gross income
+or Oregon adjusted gross  income, whichever is greater, in excess of 300 percent of the federal pov-
+erty level.
+(5) In  order to ensure compliance with the eligibility requirements of the credit allowed under
+this section, the Department of Revenue shall be afforded access to  utilization data maintained by
+the Department of [ Human Services ] Early Learning and Care in its administration of the  Em-
+ployment Related Day Care  subsidy program.
+(6) The Department of Revenue may assess a penalty in an amount not to exceed 25  percent of
+the amount of credit claimed  by the taxpayer against any taxpayer who knowingly claims or at-
+tempts to claim any amount  of credit under this section for which the taxpayer is ineligible, or
+against any individual  who knowingly assists another individual in claiming any amount of credit
+for which the individual is ineligible.
+(7) The Department of  Revenue may adopt rules for carrying out the provisions of this section
+and prescribe the form used to claim a credit and the information required on the form.
+(8) A nonresident individual shall be  allowed the credit computed in the same manner and sub-
+ject to the  same limitations as the credit allowed a resident by subsection (1) of this section.
+However, the credit shall be prorated using the proportion provided in ORS 316.117.
+(9) If a change in the taxable year of a taxpayer occurs as described in ORS 314.085,  or if the
+Department of Revenue terminates the taxpayer’s taxable year  under ORS 314.440, the credit al-
+lowed by this section shall be prorated or computed in a manner consistent with ORS 314.085.
+(10) If a change in the status of a taxpayer from resident to  nonresident or from nonresident to
+resident occurs, the credit allowed  by this section shall be determined in a manner consistent with
+ORS 316.117.
+(11) If the amount allowable as a credit under this section, when added to the sum  of the
+amounts allowable as payment of tax  under ORS 316.187 or 316.583, other tax prepayment amounts
+and other refundable credit  amounts, exceeds the taxes imposed by ORS chapters 314 and 316 for
+the tax year after application of any  nonrefundable credits allowable for purposes of ORS chapter
+316 for  the tax year, the amount of the excess shall be refunded to the taxpayer as provided in ORS
+316.502.
+(12) Any amount that is refunded  to the taxpayer under this section and that is in excess of the
+tax liability of the taxpayer does not bear interest.
+SECTION 76.  ORS 406.072 is amended to read:
+406.072. (1) As used in this section:
+(a) “Uniformed service”  means the Armed Forces of the United States, the Army National Guard
+or the Air National Guard  when the member is engaged in active duty for training, inactive duty
+for training or full-time National Guard duty, the commissioned corps of the United States Public
+Health Service and any other category of persons designated by the President  of the United States
+in time of war or national emergency.
+(b) “Written information”  means information that is in written form and includes but is not
+limited to information obtained by electronic means, electronic mail, facsimile or  other form of
+electronic communication.
+(2)(a) Subject to subsection (3) of this section and  upon implementation or upgrade of an elec-
+tronic delivery system that will enable the Department of  Human Services to provide the notice
+required by this subsection in a cost-effective and efficient  manner, the Director of Human Services
+shall notify the Director of Veterans’ Affairs within 30 days of receipt of written  information from
+a member or veteran of a uniformed service who has applied  for benefits or services under the fol-
+lowing:
+(A) Temporary assistance for needy families program under ORS 412.001 to 412.069;
+(B) Assistance funded under Title IV-A of the  Social Security Act as administered in this state
+by the Department of Human Services;
+(C) Supplemental Nutrition Assistance Program under ORS 411.806 to 411.845;
+(D) Oregon Health Plan;
+Enrolled House Bill 3073 (HB 3073-D) Page 56
+[(E) Employment Related Day Care program administered by the Department of Human Services; ]
+[(F)] (E) Programs and services for seniors and persons with disabilities administered by the
+Department of Human Services; and
+[(G)] (F) Vocational  rehabilitation services and programs administered by the Department of
+Human Services.
+(b) Subject to subsection  (3) of this section, the Early Learning System Director shall
+notify the Director of Veterans’ Affairs within 30 days of  receipt of written information from
+a member or veteran of a uniformed service who has applied for benefits or services  under
+the Employment Related Day Care subsidy program administered by  the Department of
+Early Learning and Care.
+[(b)] (c) The notification required under this subsection is limited to notifying the Director of
+Veterans’ Affairs of the name and residence address or mailing address of the member or veteran.
+[(c)] (d) The authorization of a member or veteran as  required by subsection (3) of this section
+may be contained in the written information at  the time it is received by the Department of Human
+Services or the Department of Early  Learning and Care  or separately at another time but the
+authorization must specifically authorize the notification to be made under this subsection.
+(3) The Director of Human Services or the Early Learning System Director  shall notify  the
+Director of Veterans’ Affairs as required by subsection (2) of this section only when  authorized to
+do so by the member or veteran of a uniformed service who submitted the written information.
+(4) The Department of Human Services  and the  Early Learning Council , in consultation with
+the Department of Veterans’ Affairs, shall adopt rules to  implement the provisions of this section ,
+including but not limited to the method of notification required under subsection (2)  of this section.
+SECTION 77.  ORS 411.882 is amended to read:
+411.882. In administering the JOBS Plus  Program and to the extent permitted by federal law, the
+Department of Human Services shall maximize the use of federal grants  and apportionments of the
+temporary assistance for needy families  program[ ,] and the Supplemental Nutrition Assistance Pro-
+gram [ and employment related child care ].
+SECTION 78. (1) The  amendments to ORS 315.264, 329A.500, 329A.505, 406.072 and 411.882
+by sections 73 to 77 of this 2021 Act become operative on July 1, 2023.
+(2) Notwithstanding the operative date set  forth in subsection (1) of this section, the
+Early Learning Division and the Department of Human Services may take any action before
+the operative date set forth in subsection (1) of this section that is  necessary for the De-
+partment of Early Learning and Care to exercise, on and after the  operative date set forth
+in subsection (1) of this section, all of the duties, functions and powers conferred on  the
+Department of Early Learning and Care  by the amendments to ORS 315.264, 329A.500,
+329A.505, 406.072 and 411.882 by sections 73 to 77 of this 2021 Act.
+(3) For the purpose of ensuring that the Department of Early Learning and Care may
+exercise, on and after the operative date set forth  in subsection (1) of this section, all of the
+duties, functions and powers conferred on  the Department of Early Learning and Care by the
+amendments to ORS  315.264, 329A.500, 329A.505, 406.072 and 411.882 by sections 73 to 77 of
+this 2021 Act, the Early Learning Division and the Department of Human  Services shall de-
+velop and implement a plan that provides for a seamless transfer of duties, functions and
+powers.
+(4) The Governor shall resolve  any disputes related to the plan developed and imple-
+mented under subsection (3) of this section, and the Governor’s decision is final.
+SECTION 79.
+(1) The amendments to ORS 329A.500 by section 73 of this 2021  Act are in-
+tended to transfer  the Employment Related Day Care subsidy program from the Department
+of Human Services to the Department of Early Learning and Care.
+(2) For  the purpose of the transfer described in subsection (1) of this section, the Direc-
+tor of Human Services shall:
+Enrolled House Bill 3073 (HB 3073-D) Page 57
+(a) Deliver to the Department of Early  Learning and Care all records and property within
+the jurisdiction of the director that  relate to the duties, functions and powers transferred
+by the amendments to ORS 329A.500 by section 73 of this 2021 Act; and
+(b) Transfer to the Department of Early  Learning and Care those employees engaged
+primarily in the exercise of the duties, functions and powers transferred by the amendments
+to ORS 329A.500 by section 73 of this 2021 Act.
+(3) The Early Learning System Director shall take possession  of the records and prop-
+erty, and shall take charge of the  employees and employ them in the exercise of the duties,
+functions and powers of the Department of Early Learning and Care without reduction  of
+compensation but subject to change or termination of employment or compensation  as pro-
+vided by law.
+(4) The Governor shall resolve any  dispute between the Department of Human Services
+and the Department of Early Learning and Care relating to  transfers of records, property
+and employees under this section, and the Governor’s decision is final.
+SECTION 80. (1) The unexpended balances of amounts authorized to be expended by the
+Department of Human Services for the biennium  beginning July 1, 2021, from revenues ded-
+icated, continuously appropriated, appropriated or otherwise made available for the purpose
+of administering and enforcing the duties, functions and powers of the Department of Human
+Services that are transferred  by the amendments to ORS 329A.500 by section 73 of this 2021
+Act are transferred to and are available for expenditure  by the Department of Early Learn-
+ing and Care for the biennium beginning July 1, 2021, for  the purpose of administering and
+enforcing the duties, functions and powers transferred to the Department  of Early Learning
+and Care by the amendments to ORS 329A.500 by section 73 of this 2021 Act.
+(2) The  expenditure classifications, if any, established by Acts authorizing or limiting
+expenditures by the Department of Human Services remain applicable to expenditures by  the
+Department of Early Learning and Care under this section.
+SECTION 81. The transfer of duties, functions  and powers to the Department of Early
+Learning and Care by the amendments to ORS 329A.500 by  section 73 of this 2021 Act does
+not affect any action, proceeding or prosecution involving or with  respect to such duties,
+functions and powers begun before  and pending at the time of the transfer, except that the
+Department of Early Learning and Care is substituted for the Department of Human  Ser-
+vices in the action, proceeding or prosecution.
+SECTION 82. (1) Nothing in the amendments  to ORS 315.264, 329A.500, 329A.505, 406.072
+and 411.882 by sections 73 to 77 of this  2021 Act relieves a person of a liability, duty or obli-
+gation accruing under or with respect to the duties, functions and powers transferred by the
+amendments to ORS 329A.500 by section 73 of this 2021 Act. The  Department of Early
+Learning and Care may undertake the collection or enforcement of any  such liability, duty
+or obligation.
+(2) The rights and obligations of the Department of Human Services legally incurred un-
+der contracts, leases and business transactions executed, entered into or  begun before the
+operative date of the amendments to ORS 329A.500 by  section 73 of this 2021 Act are trans-
+ferred to the Department of Early Learning and Care. For the purpose of succession  to
+these rights  and obligations, the Department of Early Learning and Care is a continuation
+of the Department of Human Services and not a new authority.
+SECTION 83.
+Notwithstanding the  transfer of duties, functions and powers by the
+amendments to ORS 329A.500 by section 73 of this 2021  Act, the rules of the Department of
+Human Services in effect on the operative date  of the amendments to ORS 329A.500 by sec-
+tion 73 of this 2021 Act  continue in effect until superseded or repealed by rules of the Early
+Learning Council. References in rules of the Department of Human Services to the Depart-
+ment of Human Services in relation  to the Employment Related Day Care subsidy program
+or an officer or employee of the Department of Human  Services in relation to the Employ-
+ment Related Day Care subsidy program  are considered to be references to the Department
+Enrolled House Bill 3073 (HB 3073-D) Page 58
+of Early Learning and Care or an officer or employee of the Department  of Early Learning
+and Care.
+SECTION 84. Whenever, in any statutory law or  resolution of the Legislative Assembly
+or in any rule, document, record or  proceeding authorized by the Legislative Assembly, ref-
+erence is made to the Department of Human Services  or an officer or employee of the De-
+partment of Human Services in relation to the Employment Related  Day Care subsidy
+program, the reference is considered to be a reference to the Department  of Early Learning
+and Care or an officer or employee of the Department of Early Learning and Care.
+REPORTS TO LEGISLATIVE ASSEMBLY ON TRANSITIONS
+SECTION 85. (1) No later than September 30, 2021, the Early Learning Division, in col-
+laboration with the Department of Education and the Department of Human Services, shall
+report to the appropriate interim  committees of the Legislative Assembly. The report shall
+address the progress on  the plans required to be developed and implemented as provided by
+sections 64 and 78 of this 2021 Act, including:
+(a) Progress on the transfer of child care assistance programs, including the Employment
+Related Day Care subsidy program, to the Early Learning Division.
+(b) Progress on efforts to strengthen the  alignment of the early childhood special edu-
+cation and early intervention services within the statewide early learning system.
+(c) Progress on the adoption of rules related to school-age child care.
+(2) No later than January 15, 2022, the Department of  Human Services, in collaboration
+with the Early Learning Division, shall report to the  appropriate interim committees of the
+Legislative Assembly. The report shall address the timelines and fiscal  impact of the eligi-
+bility requirements as provided by the amendments to ORS 329A.500 by section 73 of this 2021
+Act.
+(3) No later than January 15, 2022, the  Early Learning Division, in collaboration with the
+Department of Education and the Department of Human Services, shall  report to the ap-
+propriate interim committees of the Legislative Assembly. The report shall address  the
+progress on the plans required to be developed  and implemented as provided by sections 64
+and 78 of this 2021 Act, including:
+(a) Progress on the transfer of  background checks inspections for the Employment Re-
+lated Day Care subsidy  program to the Early Learning Division, including any recommenda-
+tions for legislation or other authority necessary for the collection of  subsidy overpayments
+made under the program.
+(b) Progress on the transfer of child care assistance programs, including the Employment
+Related Day Care subsidy program, to the Early Learning Division, and  any recommended
+changes related to the transfer.
+(c) Recommendations to strengthen  the alignment of the early childhood special educa-
+tion and early intervention services within the statewide early learning system, including any
+recommended changes to governance, policymaking or other oversight of the system.
+(d) Progress on the adoption of rules related to school-age child care.
+(e) Any fiscal impacts of the  plan and any conflicts of the plan with federal statute that
+must be resolved.
+(f) Any budgetary impacts or recommendations for legislation related to the plan.
+(4) No later than September 30, 2022, the Early  Learning Division, in collaboration with
+the Department of Education and the Department  of Human Services, shall report to the
+appropriate interim committees of the Legislative Assembly. The report shall include updates
+on the implementation of the plan required to be developed  and implemented as provided by
+section 64 of this 2021  Act and the progress on the plan required to be developed and imple-
+mented as provided by section 78 of this 2021 Act.
+Enrolled House Bill 3073 (HB 3073-D) Page 59
+CAPTIONS
+SECTION 86. The unit captions used in this 2021 Act are provided  only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2021 Act.
+EFFECTIVE DATE
+SECTION 87. This 2021 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2021 Act takes effect
+on its passage.
+Passed by House June 24, 2021
+Repassed by House June 26, 2021
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate June 26, 2021
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2021
+Approved:
+........................M.,........................................................., 2021
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2021
+..................................................................................
+Shemia Fagan, Secretary of State
+Enrolled House Bill 3073 (HB 3073-D) Page 60
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 109.056, ORS 131A.005, ORS 131A.355, ORS 131A.360, ORS 131A.365, ORS 137.662, ORS 137.680, ORS 163.266, ORS 163.413, ORS 163.537, ORS 163.665, ORS 163.670, ORS 167.002, ORS 167.007, ORS 167.008, ORS 167.310, ORS 167.322, ORS 167.335, ORS 179.040, ORS 181A.200, ORS 181A.340, ORS 183.333, ORS 183.459, ORS 184.489, ORS 184.689, ORS 192.245, ORS 192.311, ORS 192.610, ORS 279A.025, ORS 279A.050, ORS 279A.120, ORS 279A.125, ORS 279A.140, ORS 279A.145, ORS 279C.320, ORS 283.110, ORS 292.495, ORS 305.690, ORS 314.085, ORS 314.440, ORS 315.264, ORS 316.117, ORS 316.187, ORS 316.502, ORS 326.425, ORS 326.430, ORS 326.435, ORS 327.001, ORS 327.269, ORS 327.274, ORS 329.025, ORS 329.075, ORS 329.085, ORS 329.145, ORS 329.150, ORS 329.155, ORS 329.156, ORS 329.165, ORS 329.170, ORS 329.172, ORS 329.175, ORS 329.181, ORS 329.183, ORS 329.185, ORS 329.190, ORS 329.195, ORS 329.200, ORS 329.219, ORS 329.485, ORS 329.841, ORS 329.843, ORS 329.845, ORS 329A.010, ORS 329A.030, ORS 329A.100, ORS 329A.120, ORS 329A.135, ORS 329A.250, ORS 329A.255, ORS 329A.257, ORS 329A.260, ORS 329A.261, ORS 329A.280, ORS 329A.310, ORS 329A.330, ORS 329A.430, ORS 329A.440, ORS 329A.490, ORS 329A.493, ORS 329A.500, ORS 329A.505, ORS 329A.700, ORS 329A.706, ORS 329A.712, ORS 332.002, ORS 336.101, ORS 336.104, ORS 341.005, ORS 342.940, ORS 343.287, ORS 343.465, ORS 343.475, ORS 343.499, ORS 343.511, ORS 348.270, ORS 352.002, ORS 352.121, ORS 406.072, ORS 410.600, ORS 411.806, ORS 411.882, ORS 412.001, ORS 412.006, ORS 417.305, ORS 417.708, ORS 417.723, ORS 417.727, ORS 417.728, ORS 417.781, ORS 417.782, ORS 417.784, ORS 417.786, ORS 417.788, ORS 417.790, ORS 417.793, ORS 417.795, ORS 417.796, ORS 417.827, ORS 417.829, ORS 418.205, ORS 419A.004, ORS 419B.005, ORS 419B.020, ORS 426.504, ORS 427.335, ORS 430.215, ORS 430.357, ORS 433.301, ORS 443.400, ORS 475.005, ORS 475.495, ORS 475B.015, ORS 609.500, ORS 609.652, ORS 609.654, ORS 743A.078, ORS 802.100, ORS 803.420, ORS 803.535, ORS 805.205, ORS 805.207
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `97d46d03c5376e3b4fb458c4b9aeecdf24519ab2f7fbcfb7042ce7907696a846` (snapshot `_meta/snapshots/measure-2021r1-hb3073-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3073/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `745b7ce30f134cd396db3ca0d0f84133dc9abc69e1e9232da05393d251b271ea` (snapshot `_meta/snapshots/measure-2021r1-hb3073-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3073/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2021R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3073` (part of the batched per-session fetch), sha256 `5da569ca758abb18ddc62b98b159745491357dbe8bf5488fc371a795d58c4c1e` of the shared session snapshot `_meta/snapshots/measures-2021r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

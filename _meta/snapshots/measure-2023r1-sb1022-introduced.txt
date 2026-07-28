@@ -1,0 +1,377 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 1022
+Sponsored by Senator HAYDEN; Senator KNOPP, Representative MORGAN (at the request of Danielle Tudor)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires that sex offender  risk assessment methodology take into consideration specified infor-
+mation.
+Provides that victim may request reclassification of sex offender into  risk level within three
+years of initial classification, or within five years when certain circumstances exist.
+Directs  Department  of State Police to include on sex offender website full address for level three
+sex offenders and photo, city and zip code for level one and level two sex offenders.
+Appropriates moneys to State Board of Parole and Post-Prison Supervision for conducting sex
+offender risk reassessments at victim request.
+A BILL FOR AN ACT
+Relating to sex offenders; creating new provisions; and amending ORS 163A.100,  163A.105 and
+163A.215.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 163A.100 is amended to read:
+163A.100. The State Board  of Parole and Post-Prison Supervision shall, in consultation with
+community corrections agencies,  adopt by rule a sex offender risk assessment methodology for use
+in classifying sex offenders. The risk assessment methodology  must take into consideration all
+relevant information concerning the sex offender that is available or able to  be obtained,
+including but not limited to any court documents, presentence reports, psychological evalu-
+ations, criminal conduct reported or admitted by the sex offender regardless  of whether the
+conduct was criminally  prosecuted, and any other information available from the office of
+the prosecuting attorney or  previous court proceedings.  Application of the risk assessment
+methodology to a sex offender must result in placing the  sex offender in one of the following levels:
+(1) A level one sex offender who presents the lowest risk of reoffending and requires  a limited
+range of notification.
+(2) A level two sex offender who presents a moderate risk of reoffending and  requires a moder-
+ate range of notification.
+(3) A  level three sex offender who presents the highest risk of reoffending and requires the
+widest range of notification.
+SECTION 2.
+ ORS 163A.105 is amended to read:
+163A.105. (1) When a person convicted of a crime described in ORS 163.355 to  163.427 is sen-
+tenced to a term of imprisonment in a Department of Corrections  institution for that crime, the
+State Board of  Parole and Post-Prison Supervision shall assess the person utilizing the risk assess-
+ment methodology described in ORS  163A.100. The board shall apply the results of the assessment
+to place  the person in one of the levels described in ORS 163A.100 before the person is released from
+custody.
+(2) When a person convicted of a sex crime is sentenced to a term of incarceration in a  jail, or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3790
+SB 1022
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+is discharged, released or placed on probation by the court, the supervisory authority as  defined in
+ORS 144.087 shall assess the person utilizing the risk assessment methodology described  in ORS
+163A.100 and apply the results of the assessment to place the person in  one of the levels described
+in ORS 163A.100 no later than 90 days  after the person is released from jail or discharged, released
+or placed on probation by the court.
+(3)(a) When a person is found guilty except for insanity of  a sex crime, the Psychiatric Security
+Review Board shall assess the person utilizing the risk assessment methodology described in ORS
+163A.100 and apply the results of the assessment to place the person in  one of the levels described
+in ORS 163A.100 no later than 90 days after the person is:
+(A) Placed on conditional release by the Psychiatric Security Review Board;
+(B) Discharged from the jurisdiction of the Psychiatric Security Review Board;
+(C) Placed on conditional release by the court pursuant to ORS 161.327; or
+(D) Discharged by the court pursuant to ORS 161.329.
+(b) If  the State Board of Parole and Post-Prison Supervision previously completed a risk as-
+sessment and  assigned a classification level described in ORS 163A.100 for a person described in
+paragraph (a) of this subsection, the Psychiatric  Security Review Board need not complete a reas-
+sessment for an initial classification.
+(c) The court shall notify the Psychiatric Security  Review Board when the court conditionally
+releases or discharges a person described in paragraph (a) of this subsection.
+(d) The Psychiatric Security Review Board shall notify the  State Board of Parole and Post-
+Prison Supervision no later than seven days after the Psychiatric  Security Review Board condi-
+tionally releases or discharges a  person who has a prior sex crime conviction that obligates the
+person to report as a sex offender, unless the person has also been found guilty except  for insanity
+of a sex crime that obligates the person to report as a sex offender.
+(4)(a) Within 90 days after receiving notice of  a person’s obligation to report in this state from
+the Department of State Police,  the State Board of Parole and Post-Prison Supervision shall assess
+the person utilizing the risk assessment methodology described  in ORS 163A.100 and apply the re-
+sults of the assessment to place the person in one of the levels described in  ORS 163A.100 if the
+person has been convicted in another United States court of a crime:
+(A) That would constitute a sex crime if committed in this state; or
+(B) For which the person would have  to register as a sex offender in that court’s jurisdiction,
+or as required under federal law, regardless of whether the crime would  constitute a sex crime in
+this state.
+(b) If  a person has been convicted of a sex crime and was sentenced to a term of imprisonment
+in a  Department of Corrections institution for that sex crime, but was not subjected to a risk as-
+sessment utilizing the risk assessment methodology described in ORS 163A.100 before  release under
+subsection (1) of this section, within 90 days  after the person’s release the State Board of Parole and
+Post-Prison Supervision shall assess  the person utilizing the risk assessment methodology described
+in ORS 163A.100 and apply the results of the assessment to place the person in one of the  levels
+described in ORS 163A.100.
+(5) When  the State Board of Parole and Post-Prison Supervision, the Psychiatric Security Review
+Board or a  supervisory authority applies the results of a risk assessment to place a person in one
+of the levels described in ORS 163A.100, the agency shall notify the Department of State Police of
+the results of the risk assessment within three business days after the  agency’s classification. Upon
+receipt, the Department of State Police shall enter the results of the risk  assessment into the Law
+[2]
+SB 1022
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Enforcement Data System.
+(6) The State Board of Parole and Post-Prison Supervision, the Psychiatric Security  Review
+Board or a supervisory authority may reassess or reclassify a person placed in one of  the levels
+described in ORS 163A.100 under this section if the classifying board or  authority determines that
+a factual mistake caused an erroneous assessment or classification.
+(7)(a) A person classified under this section as a level two or level three sex offender  as de-
+scribed in ORS 163A.100  may petition the classifying board or authority for review. Except for good
+cause shown, the petition may be filed no later than 60 days after the  notice of the classification is
+provided to the person or, if the notice is mailed, no later than 60 days after the notice is sent.
+(b) When good cause is shown, the time for  filing a petition under this subsection may not be
+extended more than 60 days beyond the  date of the person’s next annual report under ORS 163A.010,
+163A.015 or 163A.020.
+(c) Upon receipt of a petition described in this subsection, the classifying board or authority
+shall afford  the person an opportunity to be heard as to all factual questions related to the classi-
+fication.
+(d) After providing the person with notice and an opportunity  to be heard in accordance with
+this subsection,  the board or authority shall classify the person in accordance with the classifica-
+tions described in ORS 163A.100, based on all of the information available to the classifying  board
+or authority.
+(e) As  used in this subsection, “good cause” means that, due to a person’s transience, lack of
+housing, ongoing mental health concerns or other similar circumstances, a  notice mailed to the
+person under paragraph (a) of this subsection was not received by the person.
+(8)(a) If the State Board of Parole and Post-Prison Supervision, the Psychiatric  Security Review
+Board or a supervisory authority does not classify a person under ORS 163A.100 because the  person
+has failed or refused to participate in a sex offender risk assessment as  directed by the board or
+authority, the classifying board  or authority shall classify the person as a level three sex offender
+under ORS 163A.100 (3).
+(b) If person classified as a level three sex offender under this subsection notifies  the classifying
+board or authority of the willingness to participate in a sex offender risk assessment,  the classifying
+board or authority shall perform the assessment  and classify the person in one of the levels de-
+scribed in ORS 163A.100.
+(9)(a) The  State Board of Parole and Post-Prison Supervision, the Psychiatric Security
+Review Board or a supervisory authority  shall reassess and, as necessary, reclassify a person
+placed in one of the levels described in ORS 163A.100 under this section if:
+(A) Within three years of the initial classification, a victim requests the reassessment;
+or
+(B) Within five years of the initial  classification, a victim requests the reassessment and
+there are  verifiable reports that the person is engaging in the harassment of or threatening
+behavior toward any victim.
+(b) A victim may request a reassessment under this subsection by submitting a written
+request to the Department of State Police. Upon verifying that the request meets the cri-
+teria described in paragraph (a) of this subsection, the department shall provide the request
+to the appropriate classifying board or agency. The classifying board or agency shall  provide
+the person with notice of the reassessment.
+(c) As used in this subsection, “victim” means:
+[3]
+SB 1022
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) A victim of any sex crime of which the person has been convicted; or
+(B) Any person against whom the person has admitted to committing conduct constitut-
+ing a sex crime, if  the conduct was not the subject of a criminal prosecution due to the time
+limitations described in ORS 131.125.
+[(9)] (10)  The State Board of Parole and Post-Prison Supervision , the Department of State
+Police and the Psychiatric Security Review Board may adopt rules to carry out the provisions of
+this section.
+SECTION 3.
+ ORS 163A.215 is amended to read:
+163A.215. (1)(a) A notifying agency or a supervising agency  shall release, upon request, any in-
+formation that may be necessary to  protect the public concerning sex offenders who reside in a
+specific area or concerning a specific sex offender.
+(b) A notifying agency or a supervising agency may release sex offender information to  a law
+enforcement agency if the notifying agency or  supervising agency determines that the release of
+information is in the public interest.
+(c) In addition to the release of information described in this subsection and  ORS 137.540,
+144.260 and 441.373, a notifying agency or a supervising agency may release sex offender information
+to the public in accordance with subsections (2) to (4) of this section.
+(2) If the sex offender is classified as a level three sex offender under ORS 163A.100 (3):
+(a) The Department  of State Police shall release sex offender information on a website main-
+tained by the department , which shall include the sex offender’s full address ; and
+(b) The supervising agency or a notifying agency may release sex offender information to:
+(A) A person that resides with the sex offender;
+(B) A person with whom the sex offender has a significant relationship;
+(C) Residential neighbors and churches, community parks,  schools and child care centers, con-
+venience stores, businesses and other places that children or other potential victims may frequent;
+(D) A long term care facility, as defined in ORS 442.015, or a residential care  facility, as defined
+in ORS 443.400, if the agency knows that the sex offender is seeking admission to the facility; and
+(E) Local or regional media sources.
+(3) Notwithstanding subsection (2)(a) of this section, the Department of State  Police may not use
+the Internet to make available to the public information concerning a sex offender classified as a
+level three sex offender under ORS 163A.100 (3) while  the person is under the supervision of the
+Psychiatric  Security  Review Board, unless the department is authorized to do so by a request of the
+supervising agency.
+(4) If the sex offender is classified as a level two sex offender under ORS 163A.100 (2)[ ,]:
+(a) The department shall release the sex offender’s photograph and current city and zip
+code on the website maintained by the department.
+(b) The supervising agency or a notifying agency may release sex offender information to  the
+persons or entities described in subsection (2)(b)(A) to (D) of this section.
+(5) If the sex offender is classified as a level one sex offender under ORS 163A.100 (1)[ ,]:
+(a) The department shall release the sex offender’s photograph and current city and zip
+code on the website maintained by the department.
+(b) The supervising agency or a notifying agency may release sex offender information to a
+person described in subsection (2)(b)(A) of this section.
+(6) As used in this section:
+(a) “Notifying agency” means the Department of State Police, a  city police department, a county
+[4]
+SB 1022
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+sheriff’s office or a police department established by a university under ORS 352.121.
+(b) “Sex offender information” means information that the Department of State  Police deter-
+mines by rule is appropriate for release to the public.
+(c) “Supervising agency” means a governmental  entity responsible for supervising a person re-
+quired to report as a sex offender under ORS 163A.010 or 163A.015.
+SECTION 4.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the State Board of Parole and Post-Prison Supervision, for the biennium  beginning
+July 1, 2023, out of the General Fund, the amount of $6,000,000,  for the purpose of conducting
+sex offender risk reassessments requested by victims pursuant to the amendments  to ORS
+163A.105 by section 2 of this 2023 Act.
+[5]

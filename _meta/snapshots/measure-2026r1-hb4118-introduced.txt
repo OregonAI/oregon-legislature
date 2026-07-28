@@ -1,0 +1,216 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4118
+Sponsored by Representative VALDERRAMA (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act makes changes to laws related to food waste and food access. (Flesch Read-
+ability Score: 83.0).
+Requires the Department of Human Services to provide replacement supplemental nutrition  as-
+sistance benefits if a recipient’s benefits are stolen through electronic theft.
+Requires the Department of Human Services to report to the Legislative Assembly  about
+underutilization of the temporary assistance for needy families program.
+Requires the Oregon Health Authority to report to the Legislative Assembly  about underutili-
+zation of the Women, Infants and Children Program.
+Requires the Hunger Task Force to study food wasted  by grocery stores, farms and schools and
+submit a report to the Legislative Assembly. Sunsets January 2, 2028.
+Requires the Hunger Task Force to study food  deserts and programs that provide food in this
+state and submit a report to the Legislative Assembly. Sunsets January 2, 2028.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to food; creating new provisions; amending ORS 412.006 and 413.500; and declaring an
+emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2026 Act is added to and made a  part of ORS 411.806 to
+411.845.
+SECTION 2. (1) As used in this section, “electronic theft”  means gaining unauthorized
+access to data stored on a recipient’s electronic  benefits transfer card by means of card
+skimming, card cloning, phishing or other fraudulent methods.
+(2) If a recipient’s  supplemental nutrition assistance benefits are stolen through elec-
+tronic theft, the Department of Human Services shall provide replacement benefits  to the
+recipient.
+(3) The department shall adopt by rule  a process by which a recipient may submit a claim
+for replacement benefits under this section.
+SECTION 3.  ORS 412.006 is amended to read:
+412.006. (1) The Department of Human Services shall administer the  temporary assistance for
+needy families  program, consistent with the requirements in 45 C.F.R. part 260, to provide to families
+with children:
+(a) Aid;
+(b) Case management services that focus on the strengths of the parents or  caretaker relatives;
+(c) Resources and referrals for education and training or education or training services;
+(d) Work and work preparation services; and
+(e) Resources, referrals or services to improve the family’s  economic stability, including but not
+limited to:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 292
+HB 4118
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Mental health and addiction treatment;
+(B) Housing; and
+(C) Child care.
+(2) The department shall adopt rules to carry out the provisions of this section.
+(3) At least once every two years, the department shall report to the interim  committees
+of the Legislative  Assembly related to human services, in the manner provided in ORS
+192.245:
+(a) The percentage of individuals residing  in this state who are eligible for but do not
+utilize the temporary assistance for needy families program; and
+(b) The outreach strategies used by the department to encourage  enrollment in the
+temporary assistance for needy families program.
+SECTION 4.
+ ORS 413.500 is amended to read:
+413.500. (1) The Women, Infants and Children Program is  established in the Oregon Health Au-
+thority. The purpose of the program  is to serve as an adjunct to health care by providing nutritious
+food, nutrition education and  counseling, health screening and referral services to pregnant and
+breast-feeding women and to infants and children in certain high-risk categories.
+(2) The authority shall adopt:
+(a) Standards and procedures to guide administration of the program by the state in  conformity
+with federal requirements and to define the rights, responsibilities and legal procedures  of program
+vendors; and
+(b) Rules necessary to implement and carry out the provisions of this section.
+(3) At least once every two  years, the authority shall report to the interim committees
+of the Legislative  Assembly related to human services, in the manner provided in ORS
+192.245:
+(a) The percentage of individuals residing  in this state who are eligible for but do not
+utilize the Women, Infants and Children Program; and
+(b) The outreach strategies used by  the authority to encourage enrollment in the
+Women, Infants and Children Program.
+[(3)(a)] (4)(a) In addition to any other penalty provided by law, the authority may  assess a civil
+penalty against any person for violation of any rule of the  authority relating to the Women, Infants
+and Children Program. The authority shall adopt by  rule criteria for the amount of civil penalties
+to be assessed under this section.
+(b) All penalties recovered under this section shall  be deposited into the Oregon Health Au-
+thority  Fund  and credited to an account designated by the authority. Moneys deposited are appro-
+priated continuously to the authority and  shall be used only for the administration and enforcement
+of this section.
+SECTION 5.
+(1) The Hunger  Task Force established in ORS 458.532 shall study food
+wasted by grocery stores, farms and schools in  this state. The task force shall submit a re-
+port in the manner provided by  ORS 192.245, and may include recommendations for legis-
+lation, to the interim committees of the Legislative Assembly related  to agriculture no later
+than September 15, 2027. The report shall include:
+(a) The volume of food wasted by  grocery stores, farms and schools, expressed as per-
+centages of the total amount of food sold, grown or served;
+(b) Proposed standards for reducing food waste;
+(c) Proposed incentives for reducing food waste; and
+[2]
+HB 4118
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+(d) An evaluation of the potential for disproportionate impacts of food  waste standards
+or incentives on grocery stores, farms or schools of varying sizes.
+(2) The contents of the report  required under this section may be included within the
+annual report required under ORS 458.545 (8).
+SECTION 6.
+Section 5 of this 2026 Act is repealed on January 2, 2028.
+SECTION 7. (1) As used in this section, “food desert” means an area with  limited access
+to affordable and nutritious food.
+(2) The Hunger Task Force  established in ORS 458.532 shall study food deserts and pro-
+grams that provide food in this state. The task force shall submit a report in the manner
+provided by ORS 192.245, and  may include recommendations for legislation, to the interim
+committees of  the Legislative Assembly related to human services no later than September
+15, 2027. The report shall include findings about:
+(a) Current food deserts in this state; and
+(b) Existing programs that  provide food to persons living in this state to address the
+impacts of food deserts, including programs that involve residential gardens  and community
+gardens.
+(3) The contents of the report  required under this section may be included within the
+annual report required under ORS 458.545 (8).
+SECTION 8.
+Section 7 of this 2026 Act is repealed on January 2, 2028.
+SECTION 9. This 2026 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2026 Act takes effect
+on its passage.
+[3]

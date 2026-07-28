@@ -1,0 +1,145 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4120
+Sponsored by Representatives EDWARDS, RUIZ; Representatives BOICE,  BREESE-IVERSON, BUNCH, HELFRICH,
+LEVY B, LEWIS, MCINTIRE, OSBORNE, RIEKE  SMITH, SCHARF, SKARLATOS, WISE, YUNKER, Senators
+SOLLMAN, WEBER (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act lets landlords restrict smoking in apartments. (Flesch Readability Score: 61.2).
+Allows residential landlords of multifamily housing to convert premises to nonsmoking  for ex-
+isting tenants upon 90 days’ written notice. Applies to new and existing rental agreements.
+A BILL FOR AN ACT
+Relating to smoking policies in residential  tenancies; creating new provisions; and amending ORS
+90.262 and 479.305.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 90.262 is amended to read:
+90.262. (1) A  landlord, from time to time, may adopt a rule or regulation, however described,
+concerning the tenant’s use and occupancy of the premises. It is enforceable against the tenant  only
+if:
+(a) Its purpose is to promote the convenience, safety or  welfare of the tenants in the premises,
+preserve the landlord’s property from abusive use, or make  a fair distribution of services and facil-
+ities held out for the tenants generally;
+(b) It is reasonably related to the purpose for which it is adopted;
+(c) It applies to all tenants in the premises in a fair manner;
+(d) It is sufficiently explicit in its  prohibition, direction or limitation of the tenant’s conduct to
+fairly inform the tenant of what the tenant must or must not do to comply;
+(e) It is not for the purpose of evading the obligations of the landlord; and
+(f) The tenant has written notice  of it at the time the tenant enters into the rental agreement,
+or when it is adopted.
+(2) If a rule or regulation adopted after the tenant enters into  the rental agreement works a
+substantial modification of the bargain, it is not valid unless :
+(a) The tenant consents to it in writing[ .]; or
+(b)(A) The landlord is amending a  smoking policy described in ORS 479.305 to prohibit
+smoking within the dwelling units or within interior common areas of the premises;
+(B) The tenancy is in a multifamily dwelling or a collection of multifamily or single-family
+housing units planned, owned or constructed together through one or  more applications or
+development projects under ORS 227.175 or a development agreement under ORS 94.504  to
+94.528 and developed for a project of 20 or more units;
+(C) The change in policy does not apply to a  fixed term tenancy until the end of the term;
+(D) The landlord provides at least one area on the premises where smoking is allowed
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 32
+HB 4120
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+and that the landlord has posted as a designated smoking area; and
+(E) The landlord gives written notice at least 90 days before the change in policy.
+(3) If adopted,  an occupancy guideline for a dwelling unit shall not be more restrictive than two
+people per bedroom and shall be reasonable. Reasonableness shall be determined on a case-by-case
+basis. Factors to be considered in determining reasonableness include, but are not limited to:
+(a) The size of the bedrooms;
+(b) The overall size of the dwelling unit; and
+(c) Any discriminatory impact on those identified in ORS 659A.421.
+(4) As used in this section:
+(a) “Bedroom” means a habitable room that:
+(A) Is intended to be used primarily for sleeping purposes;
+(B) Contains at least 70 square feet; and
+(C) Is configured so as to take the need for a fire exit into account.
+(b) “Habitable room” means a space in  a structure for living, sleeping, eating or cooking.
+Bathrooms, toilet compartments, closets, halls, storage or utility space  and similar areas are not
+included.
+SECTION 2.
+ ORS 479.305 is amended to read:
+479.305. (1) As used in this section:
+(a) “Inhalant delivery system” and “tobacco products” have the meanings given those
+terms in ORS 431A.175.
+(b) “Smoking” means inhaling or possessing an activated inhalant delivery  system or a
+lit tobacco product in any manner or in any form.
+[(1)] (2)  Except  as provided in subsection [ (2)] (3)  of this section, the rental agreement for a
+dwelling unit regulated under ORS chapter 90 must include  a disclosure of the smoking policy for
+the premises on which the dwelling unit is located. The disclosure must state  whether smoking is
+prohibited  on  the premises, allowed on the entire premises or allowed in limited areas on the
+premises. If the smoking policy allows smoking in limited areas on the premises, the disclosure  must
+identify the areas on the premises where smoking is allowed.
+[(2)] (3)  This section does not  apply to a rental agreement subject to ORS 90.505 to 90.850 for
+space in a facility as defined in ORS 90.100.
+SECTION 3. The amendments to ORS 90.260 and 479.305 by sections 1 and 2 of this 2026
+Act apply to rental agreements entered into before, on or after effective date of this  2026
+Act.
+[2]

@@ -1,0 +1,106 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Senate Bill 334
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Business and Transportation)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires State Department of Energy to develop and maintain inventory of biogas and
+renewable natural gas resources available to this state.
+A BILL FOR AN ACT
+Relating to renewable natural gas.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Biogas” means gas  that is generated from organic waste or other organic materials
+through anaerobic digestion, gasification, pyrolysis or other technology that converts organic
+waste to gas.
+(b) “Renewable natural gas” is biogas that has been processed to be interchangeable  with
+conventional natural gas for the purpose of meeting pipeline  quality standards or transpor-
+tation fuel grade requirements.
+(2) The State Department of Energy shall develop and  maintain an inventory of biogas
+and renewable natural gas resources available to this  state. The inventory must include, but
+need not be limited to:
+(a) A list of the potential biogas and renewable natural gas sources in this state and  the
+estimated potential production quantities available at each source;
+(b) An estimate of the energy content of listed potential biogas and renewable natural
+gas sources; and
+(c) An estimate of the range of technologies  available to this state for renewable natural
+gas production by conversion technologies such as anaerobic  digestion and thermal
+gasification.
+(3) The department  shall utilize the inventory required by this section, and any other
+relevant information as  considered necessary by the department, to develop and periodically
+revise an estimate of:
+(a) The production potential, and associated economic potential, of renewable natural  gas
+in this state for use:
+(A) As a transportation fuel in the form  of compressed natural gas or liquefied natural
+gas; and
+(B) By residential, commercial and industrial consumers of natural gas;
+(b) The potential for the use of  renewable natural gas in this state to reduce carbon
+dioxide emissions;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1751
+SB 334
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+(c) The potential for biogas or renewable natural gas  production efforts in this state to
+generate carbon offsets; and
+(d) The  technical, market and regulatory barriers to developing and operating renewable
+natural gas projects in this state.
+(4) The department shall appoint an  advisory committee to assist in developing the in-
+ventory required by this section. The committee must include  but not be limited to persons
+familiar with the renewable  natural gas industry. The committee shall make recommen-
+dations to the department:
+(a) Regarding the economic and technological viability of sources and  processes for
+producing renewable natural gas;
+(b) For developing a system  for tracking renewable natural gas as it enters and exits the
+pipeline; and
+(c) On any other matters related to developing the inventory required by  this section,
+as requested by the department.
+[2]

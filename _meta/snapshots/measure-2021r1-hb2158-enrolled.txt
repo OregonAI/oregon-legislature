@@ -1,0 +1,721 @@
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Enrolled
+House Bill 2158
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the  request of State
+Treasurer Tobias Read)
+CHAPTER .................................................
+AN ACT
+Relating to unclaimed property; creating new provisions;  amending ORS 63.674, 65.674, 98.352,
+98.386, 98.396, 98.992, 112.055, 116.193, 116.253,  178.050, 293.455, 293.701, 327.405, 652.405,
+708A.430, 711.225, 711.590, 716.905 and 723.466 and section 85, chapter 678, Oregon  Laws 2019;
+repealing ORS 98.388; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+DUTIES OF STATE TREASURER
+SECTION 1.  ORS 178.050 is amended to read:
+178.050. The State Treasurer shall:
+(1) Keep the office at the seat of government.
+(2) Receive and have charge of all moneys paid into the State Treasury.
+(3) Pay out moneys from the State Treasury as directed by law.
+(4) Manage unclaimed property under ORS 98.302 to 98.436, escheated property under ORS
+112.055 and 116.253, the Unclaimed Property and Estates Fund and the Unclaimed Property
+School Fund.
+(5) Administer estates under ORS 113.235.
+[(4)] (6)  Permit the books, papers and transactions of the office to be open at all  times to in-
+spection and examination by the Governor, Secretary of  State, the legislature and any committee
+of either branch of the legislature.
+[(5)] (7)  Deliver over to the successor in office all moneys, books, papers, furniture and  other
+effects belonging to or preserved in the office.
+[(6)] (8) Perform all other duties imposed upon the State Treasurer by law.
+SUBACCOUNTS OF THE COMMON SCHOOL FUND
+SECTION 2.
+Sections 3 and 4 of this 2021 Act are added  to and made a part of ORS
+chapter 273.
+SECTION 3. (1) There is established the Unclaimed  Property School Fund within the
+Common School Fund.
+(2) The Unclaimed Property School Fund consists of:
+(a) Moneys appropriated or transferred to the fund by the Legislative Assembly or  by act
+of law; and
+Enrolled House Bill 2158 (HB 2158-A) Page 1
+(b) Moneys transferred to the fund  from the Unclaimed Property and Estates Fund under
+section 6 of this 2021 Act.
+(3) Moneys in  the Unclaimed Property School Fund are continuously appropriated to the
+State Treasurer for the treasurer’s costs of administering the fund.
+(4) The State Treasurer may  transfer from the fund to the Unclaimed Property and Es-
+tates Fund amounts necessary to pay  any unanticipated expenses payable from the Un-
+claimed Property and Estates Fund.
+(5) Interest earned by the Unclaimed Property School Fund  is credited to the fund. Be-
+fore July 1 of each year, the State Treasurer, with the approval  of the State Land Board,
+shall transfer any interest of the fund that exceeds  the net liabilities of the fund to the
+Distributable Income Account of the Common School Fund under ORS 273.105.
+SECTION 4. (1) There is established the  Legacy Unclaimed Property School Fund within
+the Common School Fund.
+(2) The Legacy Unclaimed Property School Fund consists of  moneys transferred to the
+fund under section 7 of this 2021 Act.
+(3) Interest earned by the fund is credited to the Common School Fund.
+(4) Moneys in the Legacy Unclaimed Property School Fund are continuously  appropriated
+to the Department of State Lands for the department’s costs of administering the fund.
+(5) The department shall transfer moneys from the  Legacy Unclaimed Property School
+Fund to the Common School  Fund as required under ORS 116.253 (1) and Article VIII, section
+2 (1)(b), of the Oregon Constitution.
+(6) The department may transfer moneys from the fund to the Unclaimed  Property and
+Estates Fund to  cover valid claims against the Unclaimed Property and Estates Fund only
+if:
+(a) After transferring all available  moneys to the Unclaimed Property and Estates Fund
+from the  Unclaimed Property School Fund under section 3 (5) of this 2021 Act, there are in-
+sufficient moneys available to cover the claim; and
+(b) The claim is against moneys that were transferred to the Legacy Unclaimed Property
+School Fund under section 7 of this 2021 Act.
+ADMINISTRATION OF UNCLAIMED AND ESCHEATED PROPERTY
+SECTION 5.
+Section 6 of this 2021 Act is added to and made a part of ORS  98.302 to
+98.436.
+SECTION 6. (1) There is established the Unclaimed Property and Estates Fund,  separate
+and distinct from the General Fund.
+(2) The Unclaimed Property and Estates Fund consists of:
+(a) Unclaimed property, including the proceeds of unclaimed property,  under ORS 98.302
+to 98.436;
+(b) Penalties related to unclaimed property assessed under ORS 98.992;
+(c) Estates escheated to the state under ORS 112.055  and subject to claims under ORS
+116.253;
+(d) Moneys in accounts that escheat to the state under ORS 708A.430 (5) or 723.466 (5);
+(e) Moneys transferred to the fund by the  Department of State Lands from the Un-
+claimed Property School Fund under section 3 of this 2021 Act;
+(f) Other  moneys appropriated or transferred to the Unclaimed Property and Estates
+Fund by the Legislative Assembly or by operation of law; and
+(g) Interest earned by the fund.
+(3) Moneys in the fund are continuously appropriated to the State Treasurer for:
+(a) The costs of administering unclaimed property under ORS 98.302 to 98.436;
+(b) The costs of administering estates under ORS 113.235;
+(c) The payment of valid claims to abandoned property made under ORS 98.392;
+Enrolled House Bill 2158 (HB 2158-A) Page 2
+(d) The payment of valid claims for escheated property under ORS 116.253; and
+(e) The costs of administering the fund.
+(4) Before  July 1 of each year, the State Treasurer shall transfer from the Unclaimed
+Property and Estates Fund:
+(a) To the Common School Fund, all moneys  and properties of escheated estates for
+which any claim has elapsed under ORS 116.253; and
+(b) To the Unclaimed Property School Fund, all  remaining moneys and properties in the
+Unclaimed Property and Estates Fund, except for the amount that the State  Treasurer an-
+ticipates requiring to meet the expenses and liabilities of the Unclaimed Property and Es-
+tates Fund until the end of the following  fiscal year, including transfers under paragraph (a)
+of this subsection.
+SECTION 7.
+(1) Except as provided in subsections (2) and (3) of this section, effective July
+1, 2021, the  following accounts, funds and sources of money are hereby transferred to the
+Unclaimed Property and Estates Fund under section 6 of this 2021 Act:
+(a) The Common School Fund Account;
+(b) The Unclaimed Property Revolving Fund;
+(c) The funds or accounts in which moneys are held  by the Department of State Lands
+or State Treasurer as an estate administrator under ORS 113.235; and
+(d) The funds or accounts in which moneys  are held by the Department of State Lands
+or State Treasurer as  escheated estates under ORS 116.193, 116.203, 116.253, 708A.430 or
+723.466 that are still capable of being claimed under ORS 116.253 (1).
+(2) The Department of State Lands and State  Treasurer shall transfer only the moneys
+identified as net activity that occurred on or after July 1, 2020,  and on or before June 30,
+2021, within the funds listed in subsection (1)(a) and (b) of this section  to the Unclaimed
+Property and Estates Fund.
+(3) The Department of State Lands and the State Treasurer shall transfer to  the Legacy
+Unclaimed Property School Fund under section 4 of this 2021 Act moneys in the  accounts
+listed in subsection (1) of this  section that are not transferred under subsection (2) of this
+section.
+SECTION 8.
+(1) Sections 2 to 7 of this 2021  Act, the amendments to ORS 98.352, 98.386,
+98.396, 98.992, 112.055, 116.193, 116.253, 178.050, 293.455, 293.701, 327.405, 708A.430, 711.225,
+711.590, 716.905 and 723.466 by sections 1 and 10 to 25 of this 2021 Act and the repeal of ORS
+98.388 by section 9 of  this 2021 Act are intended to complete the transfer of the unclaimed
+and escheated  property from the Department of State Lands to the State Treasurer under
+chapter 678, Oregon Laws 2019, to rename the sources of funds listed in section 7 (1) of  this
+2021 Act to the Unclaimed Property and Estates Fund and to carry out the  purposes of the
+fund under section 6 of this 2021 Act.
+(2) For the purpose of harmonizing  and clarifying statutory law, the Legislative Counsel
+may substitute for words designating the “Common School  Fund Account” or “Unclaimed
+Property Revolving Fund”, wherever they occur in statutory law,  other words designating
+the “Unclaimed Property and Estates Fund.”
+(3) Nothing in sections 6 and 7 of this 2021 Act, the amendments  to ORS 98.352, 98.386,
+98.396, 98.992, 112.055, 116.193, 116.253, 178.050, 293.455, 293.701, 327.405, 708A.430, 711.225,
+711.590, 716.905 and 723.466 by sections 1 and  10 to 25 of this 2021 Act or the repeal of ORS
+98.388 by section 9 of this 2021 Act relieves  a person of a liability or obligation to the De-
+partment of  State Lands, the Common School Fund Account or the Unclaimed Property Re-
+volving Fund that accrues before, on or after the effective date of  this 2021 Act. The State
+Treasurer may undertake the collection or enforcement of  any such liability, duty or obli-
+gation for deposit into the Unclaimed Property and Estates Fund.
+(4) Nothing in section 7 of this 2021 Act  requires the Department of State Lands to
+transfer any moneys,  however designated, that are unrelated to unclaimed or escheated
+properties. The department may take any steps necessary before, on  or after the effective
+Enrolled House Bill 2158 (HB 2158-A) Page 3
+date of this 2021 Act to separately identify any  moneys and reclassify or transfer any funds
+for the purposes of  facilitating the transfers under section 7 of this 2021 Act. Nothing in
+sections 2  to 7 of this 2021 Act may be interpreted to affect the use of any source of funds
+that makes  up the Common School Fund as described in Article VIII, section 2, of the
+Oregon Constitution.
+(5) The State Treasurer is not required to  transfer any funds under section 6 (4) of this
+2021 Act for the biennium ending June 30, 2021.
+SECTION 9. ORS 98.388 is repealed.
+SECTION 10.  ORS 98.352, as amended by section  10, chapter 678, Oregon Laws 2019, is
+amended to read:
+98.352. (1) A holder  of property presumed abandoned under ORS 98.302 to 98.436 and 98.992 shall
+deliver to the State Treasurer the report described in subsection (2) of this section and shall pay
+or deliver to the State Treasurer, for deposit in  the [ Unclaimed Property Revolving Fund ] Un-
+claimed Property and Estates Fund , all property presumed abandoned, except  that for the fol-
+lowing funds the holder is not required to deliver the funds presumed abandoned  to the State
+Treasurer:
+(a) Funds transferred to the General Fund under ORS 293.455 (1)(a).
+(b) Funds in the possession of the Child Support Program described in ORS 180.345.
+(c) Funds described in ORS 9.725 (3) or 98.386 (2) that are held in lawyer trust accounts  or in
+the possession of the Oregon State Bar.
+(2) A report must include:
+(a) Except  with respect to traveler’s checks and money orders, the name, if known, and address,
+if known, of each person  appearing from the records of the holder to be the owner of any property
+of value of $50 or more presumed abandoned under ORS 98.302 to 98.436 and 98.992;
+(b) In case of unclaimed  funds of life insurance corporations, the full name of the insured or
+annuitant and last-known address according to the life insurance corporation’s records;
+(c) The nature and identifying number, if any, or description of the  property and the amount
+appearing from the records to be due, except that  items of value under $50 each may be reported
+in aggregate;
+(d) The date when the property became payable, demandable, or returnable, and  the date of the
+last transaction with the owner with respect to the property; and
+(e) Other information that the State Treasurer  prescribes by rule as necessary for the adminis-
+tration of ORS 98.302 to 98.436 and 98.992.
+(3) If the holder of property presumed abandoned is a successor to other holders or has  had a
+name change while holding the property, the holder shall file with the report all prior known  names
+and addresses and effective dates of changes.
+(4) The holder shall file the report after October 1, but no later than November 1,  of each year
+for accounts dormant as  of June 30. Upon written request from any person required to file a report,
+the State Treasurer  may postpone the reporting date. All records are exempt from public review for
+12 months from  the time the property is reportable and for 24 months after the property has been
+remitted to the State Treasurer. All lists of records or property held by  a government or public
+authority  under  ORS 98.336 are exempt from public review until 24 months after the property is
+remitted to the State Treasurer.
+(5) If the holder of property presumed abandoned under ORS 98.302 to 98.436  and 98.992 knows
+the whereabouts of the owner and if  the owner’s claim is not barred by the statute of limitations,
+the holder shall, before  filing the report, communicate with the owner and take necessary steps to
+prevent abandonment from being presumed. The holder shall  exercise due diligence to ascertain the
+whereabouts of the owner.
+(6) If the property presumed abandoned is a lawyer trust account established by an  attorney or
+law firm, the report  required by this section must indicate that the account is a lawyer trust ac-
+count.
+Enrolled House Bill 2158 (HB 2158-A) Page 4
+(7) The holder shall verify the accuracy of the information contained  in the report. Verification
+must be executed by a partner if  made by a partnership, by an officer if made by an unincorporated
+association or private corporation and by the chief fiscal officer if made by a public corporation.
+SECTION 11.  ORS 98.386, as amended by section  20, chapter 678, Oregon Laws 2019, is
+amended to read:
+98.386. (1) Except as provided in subsection (2) of this section, all funds received under ORS
+98.302 to 98.436 and 98.992, including the proceeds from the sale  of unclaimed property under ORS
+98.382, shall be deposited by the State Treasurer in the [ Common School Fund  Account ] Unclaimed
+Property and Estates Fund . Before making  the deposit, the State Treasurer shall record the name
+and last-known address of each  person appearing from the holders’ reports to be entitled to the
+unclaimed property and the name and last-known address  of each insured person or annuitant, and
+with respect  to each policy or contract listed in the report of a life insurance corporation, its
+number, the name of the corporation, and the amount due.
+(2) Any amounts identified as lawyer trust account funds in the  report required by ORS 98.352
+shall be paid or delivered by the holder to the Oregon State Bar  along with a copy of the report.
+All amounts paid or delivered to the Oregon State  Bar under this section are continuously appro-
+priated to the Oregon State Bar and may be used only  for the funding of legal services provided
+through the Legal Services Program established under ORS 9.572, the payment of claims  allowed
+under ORS 98.392 (2) and the payment of expenses incurred by the  Oregon State Bar in the admin-
+istration of the Legal Services Program.
+(3) Before making a deposit to the credit of the [ Common School Fund Account ] Unclaimed
+Property and Estates Fund , the State Treasurer may deduct:
+(a) Any costs in connection with sale of unclaimed property;
+(b) Any costs of mailing and publication in connection with efforts to locate owners of unclaimed
+property as prescribed by rule; and
+(c) Reasonable service charges.
+SECTION 12.
+ ORS 98.396, as amended by section  23, chapter 678, Oregon Laws 2019, is
+amended to read:
+98.396. (1) The State Treasurer shall consider any claim filed under ORS  98.392 and may hold
+a hearing and receive evidence concerning the claim. If a  hearing is held, the State Treasurer shall
+prepare findings and a decision in writing on each claim filed, stating the substance of  any evidence
+heard by the State Treasurer and the reasons for the decision. A decision is a public record.
+(2) If the claim allowed is for property deposited in the [ Common School  Fund Account ] Un-
+claimed Property and Estates Fund , the State Treasurer shall return the property or make  pay-
+ment of the proceeds of the sale of the property to the claimant.
+(3) If the claim allowed is for funds deposited in the General Fund,  the State Treasurer shall
+pay the claim from the fund against which the check or order represented in the claim was issued.
+SECTION 13.  ORS 98.992, as amended by section  30, chapter 678, Oregon Laws 2019, is
+amended to read:
+98.992. A person who willfully fails to render any report, to pay or deliver property or  to per-
+form other duties required by ORS 98.302 to 98.436 and 98.992 may  be required to forfeit and pay
+to the State Treasurer to be deposited in the [ Common School Fund Account ] Unclaimed Property
+and Estates Fund , an amount determined by the State Treasurer pursuant  to ORS 183.745 of not
+more than  $1,000 for individuals and $50,000 for corporations. This penalty shall be assessed only
+after at least one reporting cycle, and only after the  State Treasurer has provided the person with
+written instructions, including copies of applicable laws and policies. The State  Treasurer may
+waive any penalty due under this section with appropriate justification.
+SECTION 14.  ORS 112.055, as amended by section 31, chapter  678, Oregon Laws 2019, is
+amended to read:
+112.055. (1) If, after diligent search and inquiry that is appropriate to  the circumstances, taking
+into account the value of the decedent’s estate, no person takes under ORS  112.025 to 112.045, the
+net intestate estate escheats to the State of Oregon.
+Enrolled House Bill 2158 (HB 2158-A) Page 5
+(2) If  a devisee or a person entitled to take under ORS 112.025 to 112.045 is not identified or
+found, the share of that person escheats to the State of Oregon , and the share  must be delivered
+to the State Treasurer for  deposit into the Unclaimed Property and Estates Fund and subject
+to claims under ORS 116.253 .
+(3) If a devisee or a person entitled to take under ORS 112.025 to 112.045 is not identified  or
+found:
+(a) The State Treasurer has the same preference as the missing devisee or person for  the pur-
+pose of appointment as personal representative under ORS 113.085;
+(b) Title to property of the decedent  that would vest in the missing devisee or person under ORS
+114.215 vests in the State Treasurer  to hold for the benefit of the Unclaimed Property and Es-
+tates Fund and subject to claims under ORS 116.253 ; and
+(c) The  State Treasurer has all of the rights of the missing devisee or person for the purposes
+of ORS chapters 111, 112, 113, 114, 115, 116 and 117, including but not limited to the following:
+(A) The right to contest any will of the decedent under ORS 113.075; and
+(B) The right to information under ORS 113.145.
+SECTION 15.
+ ORS 116.193, as amended  by section 43, chapter 678, Oregon Laws 2019, is
+amended to read:
+116.193. If  it appears to the court, at any time after the expiration of four months after the date
+of the first publication of notice to interested  persons, that there is no known person to take by
+descent the net intestate estate, the court shall order that the estate escheat to the State  of Oregon
+and that the whole of the estate, after payment  of claims, taxes and expenses of administration, be
+distributed to the State Treasurer  for deposit into the Unclaimed Property and Estates Fund .
+There shall  be no further proceeding in the administration of the estate, and the estate shall sum-
+marily be closed.
+SECTION 16.  ORS 116.253, as amended by section 46, chapter  678, Oregon Laws 2019, is
+amended to read:
+116.253. (1) Within 10 years after the death of a decedent  whose estate escheated in whole or
+in part to the state, or within eight years after  the entry of a judgment or order escheating property
+of an estate to the state, a claim may be made for the property escheated,  or the proceeds thereof,
+by or on behalf of a person not having actual knowledge of the escheat or by or on behalf of  a
+person who at the time of the escheat was unable to prove entitlement to the escheated property.
+(2) The claim shall be made by a petition filed with the State Treasurer. The petition must in-
+clude:
+(a) A declaration by the petitioner under  penalty of perjury in the form required by ORCP 1 E
+or an unsworn declaration under ORS 194.800  to 194.835 if the declarant is physically outside the
+boundaries of the United States;
+(b) The age and place of residence of the claimant by  whom or on whose behalf the petition is
+filed;
+(c) A brief description of the property or source of funds believed to have been escheated to the
+state;
+(d) That the claimant lawfully is entitled to the property or proceeds;
+(e) That  at the time the property escheated to the state the claimant had no knowledge or notice
+thereof or was unable to prove entitlement to the escheated property and  has subsequently acquired
+new evidence of that entitlement;
+(f) That the claimant claims the property or proceeds as an heir or devisee or as the personal
+representative of the estate of  an heir or devisee, setting forth any relationship between the claim-
+ant and the decedent who at the time of death owned the escheated property;
+(g) That 10 years have not elapsed since the death  of the decedent or that eight years have not
+elapsed since the entry of the judgment or order escheating the property to the state; and
+(h) If the petition is not filed by the claimant, the status of the petitioner.
+Enrolled House Bill 2158 (HB 2158-A) Page 6
+[(3) If the State Treasurer determines  that the claimant is entitled to the property or the proceeds
+thereof, the State Treasurer shall deliver the property to the petitioner,  subject to and charged with any
+tax on the property and the costs and expenses of the state in connection therewith. ]
+(3) If the State Treasurer determines that the claimant is  entitled to escheated estate
+property, the State Treasurer shall:
+(a) Pay  from the Unclaimed Property and Estates Fund the proportional share of the
+proceeds or value of the property without  interest and subject to the proportional share of
+the costs  of administering the estate, including attorney fees and personal representative
+fees paid by the estate; or
+(b) If  personal or real property is in the Unclaimed Property and Estates Fund, transfer
+the property without interest and subject to a claim of the Unclaimed  Property and Estates
+Fund of a proportional share of the costs of administering the  estate, including attorney fees
+and personal representative fees  paid by the estate, and any property taxes or other costs
+of managing or improving the property, whether incurred before or after the  close of the
+estate.
+(4) If the person whose property escheated or reverted to  the state was at any time a patient
+of a state institution in Oregon for persons with mental illness or of the Eastern  Oregon Training
+Center, the reasonable unpaid cost of the care and maintenance of the person while a  ward of the
+institution, regardless of when the cost was incurred, may be deducted from, or, if necessary, be
+offset in full against, the amount of the escheated property. The  reasonable unpaid cost of care and
+maintenance shall be determined in accordance with ORS 179.701.
+(5) For the purposes of this section, the death of the decedent is presumed to have  occurred on
+the date shown in the decedent’s certified copy  of the death record or in any other similar document
+issued by the jurisdiction in which the death occurred or issued by an agency of the federal  gov-
+ernment.
+(6) A person aggrieved by a determination of the State Treasurer under  this section may seek
+a contested case hearing under ORS 183.413 to 183.470.
+SECTION 17.
+ ORS 293.455, as amended  by section 62, chapter 678, Oregon Laws 2019, is
+amended to read:
+293.455. (1) After October 1, the State  Treasurer may refuse payment of the unpresented checks
+or orders included in the report referred to in ORS 293.450.
+The State Treasurer shall:
+(a) Transfer and credit the amounts of the unpresented checks or orders dedicated for  general
+funding to the General Fund.
+(b) Transfer all other  funds to the [ Unclaimed Property Revolving Fund within the Common
+School Fund Account ] Unclaimed Property and Estates Fund .
+(c) Transfer and credit the amounts of the unpresented checks issued  under ORS chapters 316
+and 317  to the [ Unclaimed Property Revolving Fund within the Common School Fund Account ] Un-
+claimed Property and Estates Fund .
+(2) In each instance, the State Treasurer shall issue an official  receipt for the amount so
+transferred or credited.
+SECTION 18.
+ ORS 293.701, as amended  by section 64, chapter 678, Oregon Laws 2019, is
+amended to read:
+293.701. As used in ORS 293.701 to 293.857, unless the context requires otherwise:
+(1) “Council” means the Oregon Investment Council.
+(2) “Investment funds” means:
+(a) Public Employees Retirement Fund referred to in ORS 238.660;
+(b) Industrial Accident Fund referred to in ORS 656.632;
+(c) Consumer and Business Services Fund referred to in ORS 705.145;
+(d) Employment Department Special Administrative Fund referred to in ORS 657.822;
+(e) Insurance Fund referred to in ORS 278.425;
+(f) Funds under the control and administration of the Department of State Lands;
+Enrolled House Bill 2158 (HB 2158-A) Page 7
+(g) Oregon Student Assistance Fund referred to in ORS 348.570;
+(h) Moneys made available to  the Commission for the Blind under ORS 346.270 and 346.569 or
+rules adopted thereunder;
+(i) Forest Development  Revenue Bond Fund referred to in ORS 530.147 and State Forestry
+General Obligation Bond Fund referred to in ORS 530.280;
+(j) Oregon War Veterans’ Fund referred to in ORS 407.495;
+(k) Oregon War Veterans’ Bond Sinking Account referred to in ORS 407.515;
+(L) World War II Veterans’ Compensation Fund;
+(m) World War II Veterans’ Bond Sinking Fund;
+(n) Funds in the hands of the State Treasurer that are not required to meet current  demands
+and that are invested in the Oregon Short Term Fund established under ORS 293.728 or  in another
+commingled investment vehicle;
+(o) State funds that are not subject to the control and administration of officers  or bodies spe-
+cifically designated by law;
+(p) Funds derived from the sale of state bonds;
+(q) Social Security Revolving Account referred to in ORS 237.490;
+(r) Public University Fund established by ORS 352.450;
+(s) Local Government Employer Benefit Trust Fund referred to in ORS 657.513;
+(t) Elderly and Disabled Special Transportation Fund established by ORS 391.800;
+(u) Education Stability Fund established by ORS 348.696;
+(v) Deferred Compensation Fund established under ORS 243.411;
+(w) Trust for Cultural Development Account established under ORS 359.405;
+(x) The State Library Donation Fund and the Talking Book and Braille  Library Endowment
+Fund subaccount established under ORS 357.195;
+(y) Funds in the [ Unclaimed Property  Revolving Fund created in ORS 98.388 ] Unclaimed Prop-
+erty and Estates Fund ; and
+(z) Funds in the Common School Fund or any subaccount of the fund, that are available for
+investment.
+(3) “Investment officer” means the State Treasurer in the capacity as  investment officer for the
+council.
+SECTION 19.
+ ORS 293.701, as amended  by section 64, chapter 678, Oregon Laws 2019, and
+section 16, chapter 15, Oregon Laws 2020 (first special session), is amended to read:
+293.701. As used in ORS 293.701 to 293.857, unless the context requires otherwise:
+(1) “Council” means the Oregon Investment Council.
+(2) “Investment funds” means:
+(a) Public Employees Retirement Fund referred to in ORS 238.660;
+(b) Industrial Accident Fund referred to in ORS 656.632;
+(c) Consumer and Business Services Fund referred to in ORS 705.145;
+(d) Employment Department Special Administrative Fund referred to in ORS 657.822;
+(e) Insurance Fund referred to in ORS 278.425;
+(f) Funds under the control and administration of the Department of State Lands;
+(g) Oregon Student Assistance Fund referred to in ORS 348.570;
+(h) Moneys made available to the Commission for the Blind under ORS  346.270 and 346.569 or
+rules adopted thereunder;
+(i) Forest Development Revenue Bond Fund referred to in ORS 530.147 and  State Forestry
+General Obligation Bond Fund referred to in ORS 530.280;
+(j) Oregon War Veterans’ Fund referred to in ORS 407.495;
+(k) Oregon War Veterans’ Bond Sinking Account referred to in ORS 407.515;
+(L) World War II Veterans’ Compensation Fund;
+(m) World War II Veterans’ Bond Sinking Fund;
+Enrolled House Bill 2158 (HB 2158-A) Page 8
+(n) Funds  in the hands of the State Treasurer that are not required to meet current demands
+and that are  invested in the Oregon Short Term Fund established under ORS 293.728 or in another
+commingled investment vehicle;
+(o) State funds that are not subject to the control and administration of officers  or bodies spe-
+cifically designated by law;
+(p) Funds derived from the sale of state bonds;
+(q) Social Security Revolving Account referred to in ORS 237.490;
+(r) Public University Fund established by ORS 352.450;
+(s) Local Government Employer Benefit Trust Fund referred to in ORS 657.513;
+(t) Education Stability Fund established by ORS 348.696;
+(u) Deferred Compensation Fund established under ORS 243.411;
+(v) Trust for Cultural Development Account established under ORS 359.405;
+(w) The State Library Donation Fund  and the Talking Book and Braille Library Endowment
+Fund subaccount established under ORS 357.195;
+(x) Funds in the [ Unclaimed Property  Revolving Fund created in ORS 98.388 ] Unclaimed Prop-
+erty and Estates Fund ; and
+(y) Funds in the  Common School Fund or any subaccount of the fund, that are available for
+investment.
+(3) “Investment officer” means the State Treasurer in the capacity as  investment officer for the
+council.
+SECTION 20.
+ ORS 327.405, as amended  by section 66, chapter 678, Oregon Laws 2019, is
+amended to read:
+327.405. (1) The Common School Fund [ shall be ] is  composed of :
+(a) The proceeds from the sales of the  16th and 36th sections of every township or of any lands
+selected in lieu thereof;
+(b) All the  moneys and clear proceeds of all property that may accrue to the state by escheat
+or forfeiture;
+(c) The proceeds of all gifts, devises and bequests made by any person to the state  for common
+school  purposes;
+(d) The  proceeds of all property granted to the state when the purpose of such grant is not
+stated;
+(e) All proceeds of the sale of submerged and submersible lands as described in ORS 274.005;
+(f) All proceeds of the sale of the South Slough National Estuarine Research Reserve as  de-
+scribed in ORS 273.553 in the event such property is sold;
+(g) All proceeds of the  sale of the 500,000 acres of land to which this state is entitled by an
+Act of Congress approved September 4, 1841, and of all lands selected for capitol building  purposes
+under Act of Congress approved February 14, 1859;
+(h) Moneys credited to the fund or transferred to the fund  by the Legislative Assembly;
+and
+(i) All proceeds derived from the investment of moneys that compose the fund. [ All such proceeds
+shall become a part of the fund. ]
+(2) Except as otherwise provided by  law, the income from the fund [ shall] must  be applied ex-
+clusively to the support and maintenance of common schools in each school district.
+[(2) The State  Treasurer shall audit all lawful claims for repayment of moneys under ORS 98.302
+to 98.436 and 98.992, or out  of escheated estates and funds, including attorney fees and all other ex-
+penses in any  suit or proceeding relating to escheated estates and shall pay each lawful claim from the
+Common School Fund Account. ]
+SECTION 21.  ORS 711.225, as amended  by section 71, chapter 678, Oregon Laws 2019, is
+amended to read:
+711.225. Six months after the mailing of the written notice described  in ORS 711.220 (3), the
+Oregon stock bank shall  deliver a report and all deposits that remain unclaimed to the State
+Treasurer as unclaimed property [ for deposit in the Unclaimed Property Revolving  Fund ] under ORS
+Enrolled House Bill 2158 (HB 2158-A) Page 9
+98.352 and deliver a copy of the report  filed with the State Treasurer to the Director of the De-
+partment of Consumer and Business Services.
+SECTION 22.  ORS 711.590, as amended  by section 74, chapter 678, Oregon Laws 2019, is
+amended to read:
+711.590. (1) Two years after the date of the final order closing  the liquidation of an institution,
+the Director of the Department of Consumer and  Business Services may withdraw any unclaimed
+deposits or balances remaining  to the credit of dividend accounts, representing the aggregate of
+undelivered checks or unpaid dividend funds in the possession of the Department  of Consumer and
+Business Services, and report and pay the funds to the State Treasurer as unclaimed property [ for
+deposit in the Unclaimed Property Revolving Fund ] under ORS 98.352.
+(2) The interest earned on the  dividend accounts while they remain in the possession of the di-
+rector shall be paid to the  State Treasurer to be credited to the Consumer and Business Services
+Fund and no person entitled to the accounts has any claim to the interest.
+SECTION 23.  ORS 716.905, as amended  by section 75, chapter 678, Oregon Laws 2019, is
+amended to read:
+716.905. (1) Upon approval of a plan under ORS 716.900,  the directors shall mail written notice
+of their  intention to close the Oregon nonstock bank to the last-known address of all depositors and
+other creditors.
+(2) All deposits and amounts reserved for creditors that remain unclaimed after six months from
+the date of the written notice required under subsection (1)  of this section shall be reported and
+transferred by the directors to the State Treasurer as unclaimed property [ for deposit in the  Un-
+claimed Property Revolving Fund ] under ORS 98.352.
+(3) A copy of the report  of unclaimed deposits and amounts reserved for creditors filed with the
+State Treasurer shall be  filed with the Director of the Department of Consumer and Business Ser-
+vices.
+SECTION 24.  ORS 708A.430, as amended  by section 69, chapter 678, Oregon Laws 2019, is
+amended to read:
+708A.430. (1) On the death of a depositor  of an insured institution, if the deposit is $25,000 or
+less, the insured institution, after receiving an affidavit as provided in subsection  (3) of this section
+from a person that claims the deposit, or a declaration  from the Department of Human Services or
+the Oregon  Health Authority as provided in subsection (4) of this section, may pay the moneys on
+deposit to the credit of the deceased depositor, in the following order of priority, to:
+(a) The surviving spouse at the surviving spouse’s demand at  any time after the depositor’s
+death;
+(b) The  Oregon Health Authority or the Department of Human Services, if the authority or the
+department demands the payment not less than 46 days and no more  than 75 days after the death
+of the depositor if the depositor does not have a surviving  spouse and if the authority or department
+has a preferred claim under ORS 411.708, 411.795 or 416.350;
+(c) The  depositor’s surviving children 18 years of age or older, if the depositor does not have a
+surviving spouse and the authority and department do not have a claim;
+(d) The depositor’s surviving  parent, if the depositor does not have a surviving spouse or sur-
+viving child 18 years of age or older and if the authority and department do not have a claim;
+(e) The depositor’s surviving brothers and sisters 18 years of age or older, if  the depositor does
+not have a surviving spouse, surviving child 18 years of age or older or surviving  parent and the
+authority and department do not have a claim; or
+(f) Any other surviving heir of the depositor, if there is  no surviving spouse, authority claim,
+department claim, surviving child 18 years of age or older, surviving  parent or surviving brothers
+or sisters 18 years of age or older.
+(2)(a) An insured institution may not  pay moneys on deposit under subsection (1)(c) to (f) of this
+section earlier than 46 days after the death of the depositor.
+(b) An insured institution may not pay moneys  on deposit under subsection (1)(c) to (f) of this
+section earlier than  76 days after the death of the depositor unless the financial institution obtains
+Enrolled House Bill 2158 (HB 2158-A) Page 10
+prior verbal or written authorization from the Oregon Health Authority  or its designated represen-
+tative and the Department of Human Services or its designated representative.
+(3) An affidavit or declaration submitted under this section must:
+(a) State where and when the depositor died;
+(b) State that the total deposits of the deceased depositor in all  financial institutions in Oregon
+do not exceed $25,000;
+(c) Show the relationship of the affiant or declarant to the deceased depositor; and
+(d) Embody a promise to pay the expenses of last sickness, funeral  expenses and just debts of
+the deceased depositor out of the deposit to the full extent of the deposit if necessary, in the  order
+of priority  prescribed by ORS 115.125, and to distribute any remaining moneys to the persons that
+are entitled to the moneys by law.
+(4) An insured institution shall accept from the  Department of Human Services or the Oregon
+Health Authority, without additional requirements, a  declaration under penalty of perjury meeting
+the requirements of subsection (3) of this section. A declaration submitted under this  section must
+be signed by the declarant and must include the following sentence immediately  above the signature
+line of the declarant:  “I hereby declare under penalty of perjury that I am authorized by the De-
+partment of Human Services or the Oregon Health Authority to make this declaration, that the
+above statement is true to the best of my knowledge and belief, and that I understand  that it is
+subject to penalty for perjury.”
+(5) In the event  the depositor died intestate without known heirs, an estate administrator of the
+State Treasurer appointed under  ORS 113.235 is the affiant and shall receive the moneys [ as escheat
+property] for deposit into the Unclaimed Property and Estates Fund as escheated property and
+subject to claims under ORS 116.253 .
+(6) The insured institution shall determine the relationship of the affiant  or declarant to the
+deceased depositor, but paying the moneys in good faith to the affiant or  declarant discharges and
+releases the insured institution from any liability or responsibility for the transfer in the same
+manner and with the same effect as  if the insured institution transferred, delivered or paid the
+moneys to a personal representative of the estate of the deceased depositor.
+(7) A probate proceeding is not necessary  to establish the right of the surviving spouse, Oregon
+Health Authority, Department of Human Services,  surviving child, surviving parent, surviving
+brothers and sisters or an estate administrator of  the State Treasurer to withdraw the deposits after
+filing the affidavit or declaration.  If a personal representative is appointed in an estate where a
+withdrawal of deposits was made under this section, the person that withdraws the deposits  shall
+account for the deposits to the personal representative.
+(8) If an insured institution transfers moneys  under subsection (1) of this section, the insured
+institution may require  the transferee to furnish the insured institution with a written indemnity
+agreement that indemnifies the insured institution against loss for moneys  the insured institution
+transferred to the extent of the amount of the deposit.
+(9)(a) Moneys disbursed  to the Department of Human Services under subsection (1) of this sec-
+tion may be made payable only to the department.
+(b) Moneys disbursed  to the Oregon Health Authority under subsection (1) of this section may
+be made payable only to the authority.
+(10) This section is subject to the rights of other parties in the account under  ORS 708A.455 to
+708A.515.
+SECTION 25.
+ ORS 723.466, as amended by section 77, chapter  678, Oregon Laws 2019, is
+amended to read:
+723.466. (1) On the death of  a member of a credit union, if the deposit to the credit of the de-
+ceased member is $25,000 or less, the credit union may, upon receipt of an affidavit from a person
+claiming the deposit as  provided in subsection (3) of this section, or a declaration from the Depart-
+ment of Human Services or the Oregon Health Authority as provided in subsection (4)  of this sec-
+tion, pay the moneys on deposit:
+Enrolled House Bill 2158 (HB 2158-A) Page 11
+(a) To the surviving spouse on demand of the surviving spouse at any time after  the death of
+the member;
+(b) If there is no surviving spouse, to the Oregon Health Authority  or the Department of Human
+Services, on demand of the authority or the department no less than 46 days and no  more than 75
+days after the death  of the member when there is a preferred claim arising under ORS 411.708,
+411.795 or 416.350;
+(c) If there is no  surviving spouse and no authority or department claim, to the member’s sur-
+viving children 18 years of age or older;
+(d) If there is no surviving spouse, authority claim, department claim or  surviving child 18 years
+of age or older, to the member’s surviving parents;
+(e) If there is no surviving spouse, authority claim, department claim,  surviving child 18 years
+of age or older or surviving parent, to the  member’s surviving brothers and sisters 18 years of age
+or older; or
+(f) If there is no  surviving spouse, authority claim, department claim, surviving child 18 years
+of age or older, surviving parent or surviving brothers or sisters 18 years of age  or older, to any
+other surviving heir of the member.
+(2)(a) A credit union may not pay moneys on deposit under subsection (1)(c) to (f) of this section
+earlier than 46 days after the death of the member.
+(b) A credit union may not pay moneys on deposit under subsection (1)(c) to (f) of  this section
+earlier than 76 days after the death of the member  unless the financial institution obtains prior
+verbal or written authorization from the Oregon Health Authority or its designated  representative
+and the Department of Human Services or its designated representative.
+(3) An affidavit or declaration submitted under this section must:
+(a) State where and when the member died;
+(b) State  that the total deposits of the deceased member in all financial institutions in this state
+do not exceed $25,000;
+(c) Show the relationship of the affiant or declarant to the deceased member; and
+(d) Embody a promise to pay the expenses of last sickness, funeral  expenses and just debts of
+the deceased member out of  the deposit, to the full extent of the deposit if necessary, in the order
+of priority  prescribed by ORS 115.125, and to distribute any remaining moneys to the persons who
+are entitled to those moneys by law.
+(4) A credit union shall accept from the Department of Human  Services or the Oregon Health
+Authority, without additional requirements, a declaration  under penalty of perjury meeting the re-
+quirements of subsection (3) of this section. A declaration submitted under this  section must be
+signed by the declarant  and must include the following sentence immediately above the signature
+line of the declarant: “I hereby declare under penalty of perjury that I am authorized  by the De-
+partment of Human Services or the Oregon Health Authority to make this declaration, that the
+above statement is true  to the best of my knowledge and belief, and that I understand that it is
+subject to penalty for perjury.”
+(5) In the event the member died intestate without known  heirs, an estate administrator of the
+State Treasurer appointed under ORS  113.235 shall be the affiant and shall receive the moneys [ as
+escheat property ] for deposit into the  Unclaimed Property and Estates Fund as escheated
+property and subject to claims under ORS 116.253 .
+(6) The credit union shall determine the relationship of the affiant or  declarant to the deceased
+member. However, payment of the moneys in good faith to the affiant  or declarant discharges and
+releases the transferor from any liability or responsibility for the  transfer in the same manner and
+with the same effect as if the property had been transferred,  delivered or paid to a personal repre-
+sentative of the estate of the deceased member.
+(7) A probate proceeding is not necessary  to establish the right of the surviving spouse, Oregon
+Health Authority, Department of  Human Services, surviving children, surviving parents, surviving
+brothers and sisters or an estate administrator  of the State Treasurer to withdraw the deposits upon
+the filing of the affidavit or declaration. If a personal representative is appointed  in an estate where
+Enrolled House Bill 2158 (HB 2158-A) Page 12
+a withdrawal of  deposits was made under this section, the person withdrawing the deposits shall
+account for them to the personal representative.
+(8) When a credit  union transfers moneys under subsection (1) of this section, the transferor
+may require the transferee to furnish  the transferor with a written indemnity agreement, indem-
+nifying the transferor against loss for moneys paid to the extent of the amount of the deposit.
+(9)(a) Moneys disbursed to the Department of Human Services under subsection (1) of  this sec-
+tion may be made payable only to the department.
+(b) Moneys disbursed to the Oregon Health Authority under subsection (1) of this  section may
+be made payable only to the authority.
+(10) This section is  subject to the rights of other parties to the account under ORS 723.474 to
+723.498.
+OTHER UNCLAIMED PROPERTY
+SECTION 26.  ORS 63.674, as amended by section  49, chapter 678, Oregon Laws 2019, is
+amended to read:
+63.674. Assets of a dissolved  limited liability company that should be distributed to a creditor,
+claimant or member of the limited liability company  who cannot be found or who is not competent
+to receive them shall be  reduced to cash and, within six months after the final distribution of such
+liquidation or winding  up is payable, deposited with the State Treasurer as unclaimed property
+under ORS 98.352 . The  receiver or other liquidating agent shall prepare in duplicate and under
+oath a statement containing the names and last-known  addresses of the persons entitled to such
+funds. One of the statements shall be  filed with the State Treasurer and another shall be delivered
+to the office  for filing. [The funds shall then escheat to and become the property of the State of Oregon
+and shall become a part of the Common School Fund. The person entitled to the distribution  may re-
+claim any funds so deposited  in the manner provided in ORS 116.253 for estates that have escheated
+to the state. ]
+SECTION 27.  ORS 65.674, as amended by section  50, chapter 678, Oregon Laws 2019, is
+amended to read:
+65.674. Assets of a dissolved corporation that should be transferred to a creditor, claimant or
+member of  the corporation who cannot be found or who is not competent to receive them shall be
+reduced to cash unless they are subject to known trust  restrictions and deposited with the State
+Treasurer [ for safekeeping ] as unclaimed property under ORS 98.352 . However,  in the discretion
+of the State Treasurer, property of unusual historic or  aesthetic interest may be received and held
+in kind. The receiver or other liquidating agent shall prepare in duplicate  and under oath a state-
+ment containing the names  and last-known addresses of the persons entitled to such funds. One of
+the statements shall be  filed with the State Treasurer and another shall be delivered to the Secre-
+tary of State for filing. [ The funds shall then escheat to and become the property of the State of Oregon
+and shall become part of the Common School Fund. The person entitled to the transfer may  reclaim
+any funds so  deposited in the manner provided in ORS 116.253 for estates that have escheated to the
+state.]
+SECTION 28.  ORS 652.405, as amended  by section 67, chapter 678, Oregon Laws 2019, is
+amended to read:
+652.405. (1) The Commissioner of the Bureau of Labor and Industries shall attempt for  a period
+of not less than three years to make payment of  wages collected under ORS 652.310 to 652.414 to
+the person entitled thereto.
+(2) By July 30 of each year, the commissioner shall pay  wages collected by  the commissioner
+under ORS 652.310 to 652.414 and remaining  unclaimed for a period of more than three years from
+the date of collection [ shall escheat to the state and the commissioner shall pay those wages ] to the
+State Treasurer [ for the benefit of the Common School  Fund ] as unclaimed property under ORS
+98.352 or, by October 1 of  each year, transfer the wages to the State Treasurer under ORS
+293.455. The State  Treasurer shall issue a receipt for the money to the commissioner. [ No later than
+Enrolled House Bill 2158 (HB 2158-A) Page 13
+10 years after  the State Treasurer receives the escheated funds, a person entitled to claim the wages
+may file a claim with the State Treasurer in the manner provided by ORS 116.253. ]
+OPERATIVE DATES
+SECTION 29.  Section 85, chapter 678, Oregon Laws 2019, as amended by section 18b, chapter
+10, Oregon Laws 2020 (second special session), is amended to read:
+Sec. 85.  (1) Sections 1 to 6, chapter 678, Oregon Laws 2019,  become operative on [ July 1,
+2021] the effective date of this 2021 Act .
+(2) The amendments to statutes and session law by  sections 7 to 80, chapter 678, Oregon Laws
+2019, become operative on [ July 1, 2021 ] the effective date of this 2021 Act .
+[(3) The amendments to section 22, chapter 105, Oregon Laws 2018,  by section 81, chapter 678,
+Oregon Laws 2019, become operative on the effective date of this 2020 second special session Act. ]
+[(4) The amendments to section 22,  chapter 105, Oregon Laws 2018, by section 82, chapter 678,
+Oregon Laws 2019, become operative on the effective date of this 2020 second special session Act. ]
+[(5)] (3) The State Treasurer,  the Department of State Lands and the State Land Board may take
+any actions before the operative dates specified in subsections [ (1) to (4) ] (1) and (2) of this section
+necessary to enable the State Treasurer to exercise, on and after the operative dates specified in
+subsections [ (1) to (4) ] (1) and (2)  of this section, the  duties, functions and powers required under
+chapter 678, Oregon Laws 2019.
+UNIT CAPTIONS
+SECTION 30.
+The unit captions  used in this 2021 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2021 Act.
+EMERGENCY CLAUSE
+SECTION 31. This 2021 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2021 Act takes effect
+on its passage.
+Enrolled House Bill 2158 (HB 2158-A) Page 14
+Passed by House June 2, 2021
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate June 10, 2021
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2021
+Approved:
+........................M.,........................................................., 2021
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2021
+..................................................................................
+Shemia Fagan, Secretary of State
+Enrolled House Bill 2158 (HB 2158-A) Page 15

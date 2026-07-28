@@ -1,0 +1,329 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2706
+Sponsored by Representatives RAYFIELD,  HAYDEN, Senator MONNES ANDERSON, Representatives
+KENY-GUYER, POST, STARK, Senator HANSELL; Representatives ALONSO LEON, BARKER,  BYNUM,
+DOHERTY, EVANS, FAHEY,  GOMBERG, GORSEK, GREENLICK, HELM, HERNANDEZ, HOLVEY, LIVELY,
+NEARMAN, NOSSE, PILUSO, SANCHEZ, SCHOUTEN, SPRENGER, WILDE, WILLIAMSON, WILSON,  WITT,
+Senators BEYER, BURDICK,  DEMBROW, FREDERICK, GELSER, MANNING JR, PROZANSKI, ROBLAN,
+STEINER HAYWARD (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Establishes COFA Dental Program in Oregon Health Authority to provide dental care  to low-
+income citizens of Pacific Islands in Compact of Free Association  who reside in Oregon and lack
+access to affordable dental coverage. Specifies eligibility requirements for program  and duties of
+authority in administering program.
+A BILL FOR AN ACT
+Relating to  dental care for Pacific Islanders legally residing in Oregon under the Compact of Free
+Association; creating new provisions; and amending ORS 413.032 and 735.608.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. (1) As used in this section:
+(a) “Affordable dental coverage” means dental insurance available to an individual for
+which the average  monthly cost for premiums and any required cost sharing is less than the
+average per capita monthly payment by the Oregon Health Authority and coordinated care
+organizations to dental care organizations for medical assistance recipients.
+(b) “COFA citizen” has the meaning given that term in ORS 735.604.
+(c) “Dental care organization” means a prepaid managed care health services  organiza-
+tion, as  defined in ORS 414.025, that provides dental care to members of a coordinated care
+organization.
+(d) “Income” means the modified adjusted gross income that is attributed to an individual
+in determining the individual’s eligibility for the medical assistance program.
+(2) The COFA Dental Program is established  in the Oregon Health Authority and shall
+be administered in collaboration with  the Department of Consumer and Business Services.
+The purpose of the  program is to provide oral health care to low-income citizens of the island
+nations in the Compact of Free Association who are residing in Oregon.
+(3) The authority  shall contract with dental care organizations throughout this state and
+with individual oral health care providers in areas of this state that are not served by dental
+care organizations to provide oral health  care to COFA citizens enrolled in the COFA Dental
+Program.
+(4) Enrollees in the COFA Dental Program shall receive the  types and extent of oral
+health care services that the authority determines will  be provided to medical assistance
+recipients in accordance with ORS  414.065, without any corresponding copayments, deduct-
+ibles or cost sharing required.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 757
+HB 2706
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) An individual is eligible for the COFA Dental Program if the individual does not have
+access to affordable dental coverage, as prescribed by the authority by rule, and:
+(a) The department has determined that the individual meets the criteria in ORS 735.608
+(1)(a), (b) and (d); or
+(b) In the case of an individual who is not applying for  or receiving financial assistance
+through the COFA Premium Assistance Program  established by ORS 735.601 to 735.617, the
+individual:
+(A) Is a resident of Oregon;
+(B) Is a COFA citizen; and
+(C) Has income that is less than 138 percent of the federal poverty guidelines.
+(6) The authority shall prescribe  by rule a simple application process for the COFA
+Dental Program. The authority shall provide culturally and linguistically appropriate  assist-
+ance, in person and by  telephone, to applicants for and enrollees in the program. The appli-
+cation process, forms and  notices used in the COFA Dental Program must conform to the
+guidance adopted by the United States Department of Health and Human Services, in ac-
+cordance with Title VI of the Civil Rights Act of 1964, regarding the  prohibition against na-
+tional origin discrimination affecting  persons with limited English proficiency in federally
+funded programs.
+(7)(a) The authority shall accept as verification of  eligibility the attestation of an appli-
+cant for or enrollee in the COFA Dental Program that the applicant or enrollee meets the
+requirements of subsection (5)(b)  of this section. The authority may not require an applicant
+or enrollee to provide documentation of eligibility except  as provided in paragraph (b) of this
+subsection.
+(b) The authority may require an applicant  or enrollee to provide documentation of el-
+igibility only if the authority receives reliable information that, if true, would preclude eligi-
+bility for the program.
+(8) The authority shall provide to any individual who meets the criteria in  subsection
+(5)(b) of this section information about and, if requested, a referral to the COFA  Premium
+Assistance  Program.
+(9) The  authority shall collaborate with the department in activities described in ORS
+735.608 (4)(e) to facilitate applications for and enrollment in the COFA Dental Program.
+(10) The authority may not disclose personally  identifying information about applicants
+for or enrollees in the COFA  Dental Program except to the extent necessary to conduct
+outreach under subsection (9) of this section or to comply with federal or state laws.
+SECTION 2.
+ ORS 413.032 is amended to read:
+413.032. (1) The Oregon Health Authority is established. The authority shall:
+(a) Carry out policies adopted by the Oregon Health Policy Board;
+(b) Administer the Oregon Integrated and  Coordinated Health Care Delivery System established
+in ORS 414.620  and the COFA Dental Program established in section 1 of this 2019 Act ;
+(c) Administer the Oregon Prescription Drug Program;
+(d) Develop the policies for and the provision of publicly funded medical care and  medical as-
+sistance in this state;
+(e) Develop the policies for and the provision of  mental health treatment and treatment of ad-
+dictions;
+(f) Assess, promote and protect the health of the public as specified by state and federal law;
+[2]
+HB 2706
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(g) Provide regular reports to the board with respect  to the performance of health services
+contractors serving recipients  of medical assistance, including reports of trends in health services
+and enrollee satisfaction;
+(h) Guide  and support, with the authorization of the board, community-centered health initiatives
+designed to address critical risk factors, especially those that contribute to chronic disease;
+(i) Be the state Medicaid agency for the administration of  funds from Titles XIX and XXI of the
+Social Security Act and administer medical assistance under ORS chapter 414;
+(j) In consultation with  the Director of the Department of Consumer and Business Services, pe-
+riodically review and recommend standards and methodologies to the Legislative Assembly for:
+(A) Review of administrative expenses of health insurers;
+(B) Approval of rates; and
+(C) Enforcement of rating rules adopted by the Department of  Consumer and Business Services;
+(k) Structure reimbursement rates for providers that serve  recipients of medical assistance to
+reward comprehensive management of diseases, quality outcomes and the  efficient use of resources
+and to promote  cost-effective procedures, services and programs including, without limitation, pre-
+ventive health, dental and primary  care services, web-based office visits, telephone consultations and
+telemedicine consultations;
+(L) Guide and support community  three-share agreements in which an employer, state or local
+government and an individual all contribute a portion  of a premium for a community-centered health
+initiative or for insurance coverage;
+(m) Develop, in consultation with the Department  of Consumer and Business Services, one or
+more products designed to provide more affordable options for the small group market;
+(n) Implement policies and programs to expand the skilled, diverse workforce as described in
+ORS 414.018 (4); and
+(o) Implement  a process for collecting the health outcome and quality measure data identified
+by the Health  Plan Quality Metrics Committee and report the data to the Oregon Health Policy
+Board.
+(2) The Oregon Health Authority is authorized to:
+(a) Create an  all-claims, all-payer database to collect health care data and monitor and evaluate
+health care reform in Oregon and to  provide comparative cost and quality information to consumers,
+providers and purchasers of health care  about Oregon’s health care systems and health plan net-
+works in order to provide comparative information to consumers.
+(b) Develop uniform contracting standards for the purchase of  health care, including the fol-
+lowing:
+(A) Uniform quality standards and performance measures;
+(B) Evidence-based guidelines for major chronic disease  management and health care services
+with unexplained variations in frequency or cost;
+(C) Evidence-based effectiveness  guidelines for select new technologies and medical equipment;
+and
+(D) A statewide drug formulary that may be used by publicly funded health benefit plans.
+(3) The enumeration of duties, functions and powers in this section is not  intended to be exclu-
+sive nor to limit the duties, functions and powers imposed on  or vested in the Oregon Health Au-
+thority by ORS 413.006 to 413.042 and 741.340 or by other statutes.
+SECTION 3.
+ ORS 735.608 is amended to read:
+735.608. (1) An individual is eligible for the COFA Premium Assistance Program if the individual:
+[3]
+HB 2706
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+(a) Is a resident;
+(b) Is a COFA citizen;
+(c) Enrolls in a qualified health plan;
+(d) Has income that is less than 138 percent of the federal poverty guidelines; and
+(e) Qualifies for an  advance premium tax credit toward the cost of the individual’s qualified
+health plan.
+(2) Within the  limits of moneys in the COFA Premium Assistance Program Fund, the Department
+of Consumer and  Business Services shall pay the premium cost for a qualified health plan and the
+out-of-pocket costs for the coverage provided  by the plan for an individual who meets the criteria
+in subsection (1) of this section.
+(3) The department may disenroll a participant from the program if the participant:
+(a) No longer meets the eligibility criteria specified in subsection (1) of this section;
+(b) Fails, without good cause, to comply with procedural or documentation requirements  estab-
+lished by the department in accordance with subsection (4) of this section;
+(c) Fails, without good cause, to notify the department of  a change of address in a timely man-
+ner;
+(d) Withdraws the participant’s application or requests termination of coverage; or
+(e) Performs an act, practice  or omission that constitutes fraud and, as a result, an insurer
+rescinds the participant’s policy for the qualified health plan.
+(4) The department shall establish:
+(a) Application, enrollment and renewal processes for the COFA Premium Assistance Program;
+(b) The qualified health plans that are eligible for reimbursement under the program;
+(c) Procedural requirements  for continued participation in the program, including participant
+documentation requirements that are necessary for the department to administer the program;
+(d) Open enrollment periods and special enrollment periods consistent with the enrollment peri-
+ods for the health insurance exchange; and
+(e) A  comprehensive community education and outreach campaign, working with stakeholder
+and community organizations, to facilitate applications for, and enrollment in, the  COFA  Premium
+Assistance  Program  and the COFA Dental Program established in section 1 of this 2019 Act .
+SECTION 4.
+In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Oregon Health Authority, for the biennium beginning July 1, 2019, out of the
+General Fund, the amount of $_______, which may  be expended for carrying out section 1 of
+this 2019 Act.
+[4]

@@ -1,0 +1,227 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 3308
+Sponsored by Representative EVANS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires State Forestry Department to develop and maintain comprehensive statewide  map of
+wildfire risk, including boundaries of wildland-urban interface within state.
+Requires State Fire Marshal to establish minimum defensible space  requirements for wildfire
+risk reduction in areas defined as wildland-urban interface by selecting  standards from International
+Wildland-Urban Interface  Code. Permits local government to establish own minimum defensible
+space requirements also taken from International Wildland-Urban Interface Code.
+Establishes Wildfire Community Preparedness Fund  and appropriates moneys to State Fire
+Marshal for purpose of giving assistance to local  governments in community risk reduction program.
+Establishes Task Force  on Building Codes in Wildland-Urban Interface with purpose of identi-
+fying gaps in and needed updates  to state building code to account for wildfire risks in wildland-
+urban interface.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to fire prevention in the wildland-urban interface; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this  section and section 2 of this 2021 Act, “wildland-urban
+interface” mean a geographical area where structures and other human development  border
+or interact with wildland vegetative fuels.
+(2) The State Forestry Department shall oversee the development and maintenance  of a
+comprehensive statewide map of wildfire risk. The map must display all boundaries of the
+wildland-urban interface  as the boundaries exist within this state, must be consistent with
+national standards and must be  sufficiently detailed to allow for an assessment of wildfire
+risk at the property ownership level. The  department shall collaborate with the State Fire
+Marshal, other state and  local governments and officials, other public bodies, insurance
+companies and any other information sources that the department deems appropriate to de-
+velop and maintain the map. The department shall make the map described in this section
+accessible to the public in electronic form.
+(3) The department, not later than February 1, 2022, shall  submit a report as provided in
+ORS 192.245 to a committee of the Legislative Assembly related to natural  resource issues
+that describes the development of the map described in this section.
+SECTION 2.
+(1) The State Fire Marshal shall establish minimum defensible space re-
+quirements for wildfire risk reduction on lands in areas identified on the  map described in
+section 1 of this 2021 Act as within the wildland-urban interface.  In establishing the mini-
+mum defensible space requirements, the State Fire Marshal shall consult  and select stan-
+dards from the framework set forth in the 2018 edition of  the International Wildland-Urban
+Interface Code published by the International Code Council. Subject to  additional local re-
+quirements, a minimum  defensible space requirement that the State Fire Marshal establishes
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3259
+HB 3308
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+for a type of land shall apply statewide  for all lands of that type that are in areas identified
+in the map described in section  1 of this 2021 Act. The State Fire Marshal shall periodically
+reexamine the standards set forth in the International  Wildland-Urban Interface Code and
+update the State Fire Marshal’s standards to reflect current best practices.
+(2) Except as provided in subsection (3) of this section, a local government shall admin-
+ister and enforce the  minimum defensible space requirements the State Fire Marshal estab-
+lishes under subsection  (1) of this section that are applicable to the lands within the
+jurisdiction of the local government.
+(3) A local government may adopt and  enforce local requirements for defensible space
+on lands that are greater than the minimum defensible space requirements established by
+the State Fire Marshal. In establishing the  local government’s minimum defensible space
+requirements, the local government shall consult and select  standards from the framework
+set forth in the 2018 edition  of the International Wildland-Urban Interface Code published
+by the International Code Council.
+(4) The State Fire  Marshal shall administer a community risk reduction program that
+emphasizes education and methods of prevention with respect  to wildfire risk, defensible
+space and community preparedness for wildfires. The program  must provide financial, ad-
+ministrative, technical or other assistance to local governments to facilitate the adminis-
+tration and enforcement of minimum defensible  space requirements within the jurisdiction
+of the local government. A  local government that receives financial assistance under this
+subsection shall give priority to the creation of defensible space on  lands owned by commu-
+nities of color, indigenous communities, persons with limited proficiency in English and per-
+sons of lower income as defined in ORS 456.055.
+SECTION 3.
+The Wildfire Community Preparedness Fund is established in the State
+Treasury, separate and  distinct from the General Fund. Interest earned by the Wildfire
+Community Preparedness Fund must be credited to the fund. Moneys in  the fund are con-
+tinuously appropriated to the State Fire Marshal for  the purpose of carrying out the local
+government financial assistance program described in section 2 (4) of this 2021 Act.
+SECTION 4. (1) The Task Force on Building Codes in the Wildland-Urban Interface is
+established.
+(2) The task force consists of 10 members appointed by the Governor as follows:
+(a) The State Forester or a designee;
+(b) The State Fire Marshal or a designee;
+(c) The Director of the Department of Consumer and Business Services or a designee;
+(d) One member who represents the Oregon Fire Chiefs Association;
+(e) Two members with expertise in wildfire prevention;
+(f) Three members who represent municipalities that administer building codes; and
+(g) One member of the Construction Contractors Board or a designee.
+(3) The task force shall:
+(a) Identify gaps in and needed updates  to the state building code that account for risks
+of wildfire and that focus on wildfire prevention and the creation of  defensible space around
+structures located within  the wildland-urban interface identified in the map prepared in ac-
+cordance with section 1 of this 2021 Act; and
+(b) Make recommendations to the Director of the Department of Consumer and Business
+Services concerning changes needed to the state building code.
+[2]
+HB 3308
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+(4) The task force may conduct studies,  consult architects, construction contractors,
+engineers and other experts and professionals concerning needed standards  and otherwise
+perform any act that is necessary to carry out the purposes  identified in subsection (3) of
+this section.
+(5) A majority of the members of the task  force constitutes a quorum for the transaction
+of business.
+(6) Official action  by the task force requires the approval of a majority of the members
+of the task force.
+(7) The task force shall elect one of its members to serve as chairperson.
+(8) If there is a vacancy for any cause, the appointing authority shall make  an appoint-
+ment to become immediately effective.
+(9) The task force shall meet at times and places specified by the call of  the chairperson
+or of a majority of the members of the task force.
+(10) The task force may adopt rules necessary for the operation of the task force.
+(11) The task force shall submit a report in  the manner provided in ORS 192.245 to an
+interim committee of the Legislative Assembly  related to natural resources no later than
+September 15, 2022.
+(12) The State Forestry Department shall provide staff support to the task force.
+(13) Members of the task  force are not entitled to compensation or reimbursement for
+expenses and serve as volunteers on the task force.
+(14) All agencies of state government, as  defined in ORS 174.111, are directed to assist
+the task force in the performance of  the duties of the task force and, to the extent permitted
+by laws relating to confidentiality, to furnish information and advice the members of the task
+force consider necessary to perform their duties.
+SECTION 5.
+Section 4 of this 2021 Act is repealed on December 31, 2022.
+SECTION 6. This 2021 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2021 Act takes effect
+on its passage.
+[3]

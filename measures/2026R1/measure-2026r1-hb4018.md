@@ -1,0 +1,2521 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-hb4018
+title: 'HB 4018 (2026R1): Modifies the timelines for the enactment of certain campaign finance regulations.'
+doc_type: dataset_doc
+citation: 2026 Regular Session House Bill 4018
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4018/Enrolled
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: 1cb0ad482ad40c6671bba00c6114633d5cbd76ce35b3b12dd0258788f80946d0
+snapshot_id: measure-2026r1-hb4018-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 171.725
+  - ORS 183.413
+  - ORS 183.745
+  - ORS 192.311
+  - ORS 248.006
+  - ORS 248.008
+  - ORS 249.215
+  - ORS 255.335
+  - ORS 260.005
+  - ORS 260.006
+  - ORS 260.007
+  - ORS 260.009
+  - ORS 260.014
+  - ORS 260.016
+  - ORS 260.018
+  - ORS 260.021
+  - ORS 260.034
+  - ORS 260.035
+  - ORS 260.041
+  - ORS 260.042
+  - ORS 260.043
+  - ORS 260.044
+  - ORS 260.054
+  - ORS 260.057
+  - ORS 260.059
+  - ORS 260.061
+  - ORS 260.076
+  - ORS 260.078
+  - ORS 260.083
+  - ORS 260.085
+  - ORS 260.112
+  - ORS 260.118
+  - ORS 260.205
+  - ORS 260.232
+  - ORS 260.234
+  - ORS 260.264
+  - ORS 260.266
+  - ORS 260.268
+  - ORS 260.345
+  - ORS 260.402
+  - ORS 260.407
+  - ORS 260.416
+  - ORS 260.532
+  - ORS 260.537
+  - ORS 260.555
+  - ORS 260.558
+  - ORS 260.575
+  - ORS 260.695
+  - ORS 260.993
+  - ORS 260.995
+  - ORS 706.008
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- hb
+session_key: 2026R1
+measure_prefix: HB
+measure_number: 4018
+prefix_meaning: House Bill
+catch_line: Modifies the timelines for the enactment of certain campaign finance regulations.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes laws about campaign money. (Flesch Readability Score: 66.7).\
+  \ \n\tModifies the timelines for the enactment of certain campaign finance regulations. Modifies the\
+  \ names of certain political committees. Modifies provisions related to in-kind contributions and provisions\
+  \ related to campaign funds that may be carried forward. Temporarily reenacts previously repealed provisions\
+  \ related to covered organizations. Permits corporations and labor unions to establish separate, segregated\
+  \ funds that operate like political committees. Modifies specified deadlines regarding certain filings.\
+  \ Permits a person to cure a violation of election laws. \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to elections; and declaring an emergency.
+relating_to_full: Relating to elections; and declaring an emergency.
+at_the_request_of: (at the request of House Interim Committee on Rules for Representative Ben Bowman)
+lc_number: 162
+measure_created_date: '2026-01-14T11:46:13'
+measure_modified_date: '2026-04-27T11:42:54'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 174468
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 171.725
+  - ORS 183.413
+  - ORS 183.745
+  - ORS 192.311
+  - ORS 248.006
+  - ORS 248.008
+  - ORS 249.215
+  - ORS 255.335
+  - ORS 260.005
+  - ORS 260.006
+  - ORS 260.007
+  - ORS 260.009
+  - ORS 260.014
+  - ORS 260.016
+  - ORS 260.018
+  - ORS 260.021
+  - ORS 260.034
+  - ORS 260.035
+  - ORS 260.041
+  - ORS 260.042
+  - ORS 260.043
+  - ORS 260.044
+  - ORS 260.054
+  - ORS 260.057
+  - ORS 260.059
+  - ORS 260.061
+  - ORS 260.076
+  - ORS 260.078
+  - ORS 260.083
+  - ORS 260.085
+  - ORS 260.112
+  - ORS 260.118
+  - ORS 260.205
+  - ORS 260.232
+  - ORS 260.234
+  - ORS 260.264
+  - ORS 260.266
+  - ORS 260.268
+  - ORS 260.345
+  - ORS 260.402
+  - ORS 260.407
+  - ORS 260.416
+  - ORS 260.532
+  - ORS 260.537
+  - ORS 260.555
+  - ORS 260.558
+  - ORS 260.575
+  - ORS 260.695
+  - ORS 260.993
+  - ORS 260.995
+  - ORS 706.008
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4018`.
+
+# HB 4018 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** House Bill 4018, 2026 Regular Session (2026R1)
+- **At the request of:** (at the request of House Interim Committee on Rules for Representative Ben Bowman)
+- **LC number:** 162
+- **Created:** 2026-01-14T11:46:13
+- **Metadata last modified (upstream):** 2026-04-27T11:42:54
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 174468 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4018/Enrolled>.
+
+## Summary
+
+**Catchline:** Modifies the timelines for the enactment of certain campaign finance regulations.
+
+**Relating to:** Relating to elections; and declaring an emergency.
+
+Digest: The Act changes laws about campaign money. (Flesch Readability Score: 66.7). 
+ Modifies the timelines for the enactment of certain campaign finance regulations. Modifies the names of certain political committees. Modifies provisions related to in-kind contributions and provisions related to campaign funds that may be carried forward. Temporarily reenacts previously repealed provisions related to covered organizations. Permits corporations and labor unions to establish separate, segregated funds that operate like political committees. Modifies specified deadlines regarding certain filings. Permits a person to cure a violation of election laws. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to elections; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+House Bill 4018
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House In-
+terim Committee on Rules for Representative Ben Bowman)
+CHAPTER .................................................
+AN ACT
+Relating to elections;  creating new provisions; amending ORS 260.005, 260.007, 260.009, 260.014,
+260.016, 260.018, 260.021, 260.041, 260.042, 260.044, 260.059, 260.061,  260.083, 260.205, 260.232,
+260.266, 260.268, 260.345, 260.402, 260.416 and 260.995  and sections 7, 14 and 23, chapter 9,
+Oregon Laws 2024; repealing ORS 260.006; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 260.009 is amended to read:
+260.009. [ (1)(a) For purposes of the contribution limits established in ORS 260.014 and 260.016,
+contributions made or donations received by multiple membership organizations are considered to be
+made or received by a  single membership organization, if the membership organizations are estab-
+lished, financed, maintained or controlled by the same person or substantially the same group of  per-
+sons, including any parent, subsidiary, branch, division,  department or local unit of the person or
+group of persons. ]
+[(b) Notwithstanding paragraph  (a) of this subsection, the same person acting as a director or of-
+ficer of  two or more membership organizations is not by itself sufficient to consider contributions made
+or donations received by the  membership organizations to be contributions made or received by a single
+membership organization.]
+[(c) Notwithstanding paragraph (a) of this subsection,  membership organizations may not be con-
+sidered established, financed, maintained  or controlled by the same person or within the same group
+of persons if the membership organizations have the authority to make  independent decisions as to
+which candidates, if any, to support or oppose. ]
+[(2)] A  membership organization may make political contributions directly or through a mem-
+bership organization political committee, but  may not make aggregate contributions that exceed the
+contribution limits of ORS 260.014 [ and 260.016].
+SECTION 1a.  ORS 260.009, as amended by section 1 of this 2026 Act, is amended to read:
+260.009. (1)(a) For purposes of  the contribution limits established in ORS 260.014, con-
+tributions made by  multiple membership organizations are considered to be made by a single
+membership organization, if the membership organizations are established,  financed, main-
+tained or controlled by the same person or substantially the same group of persons, including
+any parent, subsidiary,  branch, division, department or local unit of the person or group of
+persons.
+(b) Notwithstanding paragraph (a) of this subsection,  the same individual acting as a di-
+rector or officer of two  or more membership organizations is not by itself sufficient to con-
+Enrolled House Bill 4018 (HB 4018-B) Page 1
+sider contributions made  by the membership organizations to be contributions made by a
+single membership organization.
+(c) Notwithstanding paragraph (a) of this subsection, membership organizations  may not
+be considered to  be established, financed, maintained or controlled by the same person or
+within the same group of persons if the membership  organizations have the authority to
+make independent decisions as to which candidates, if any, to support or oppose.
+(2) A membership organization may  make political contributions directly or through a member-
+ship organization political committee, but may not make aggregate contributions  that exceed the
+contribution limits of ORS 260.014.
+SECTION 2.  ORS 260.014 is amended to read:
+260.014. (1)(a) A candidate [ for state office or ], the principal campaign committee of a candidate
+[for state office ] or a political committee  may accept contributions only from the sources  and in
+the amounts described in this section.
+(b) An in-kind contribution under this section may only be made by  a contributor that is au-
+thorized to make a contribution under this chapter  and may only be received by a political com-
+mittee.
+(c) Except as provided in paragraph (d) of  this subsection, the limits on aggregate contributions
+that may be accepted by a candidate or  the principal campaign committee of a candidate for the
+office of state Representative under this section also apply to a candidate or the principal campaign
+committee of a candidate for any public office that is not a state office.
+(d)(A) Any local government that, as of  January 1, 2024, had a system of contribution limits in
+effect for local elections may maintain or adopt contribution limits that  are lower than those re-
+quired by this section  and may limit the sources that may make contributions to candidates in local
+elections, except that  a local government system of contribution limits described in this subpara-
+graph must permit small donor political committees to accept  contributions from individuals of up
+to $250 per calendar year, as provided in subsection (8)(a) of this section.
+(B) For any local government that is not described in subparagraph (A) of this paragraph:
+(i) Except as provided in subsection (8)(a) of  this section, a local government may adopt con-
+tribution limits that are lower than those required by this section for elections of the local govern-
+ment.
+(ii) Any contribution limits adopted by a  local government under this subparagraph must allow
+a candidate or the principal campaign committee of a candidate for an election contest of the  local
+government to accept contributions from any political committee from which a candidate or the
+principal campaign committee of a candidate  for the office of state Representative may accept con-
+tributions under subsection (2)(a) of this section.
+(C) Any local government may provide public funding for campaigns for local  government public
+office that are not subject to contribution limits under this section [ or ORS 260.016 ].
+(2) A candidate or the principal campaign committee of  a candidate for the office of state Rep-
+resentative, state Senator, circuit court judge or district  attorney  may not accept aggregate
+contributions in excess of :
+(a) [ May not accept aggregate contributions in excess of ] $3,300 per election from a person.
+(b) [ May not accept aggregate contributions in excess of ] $2,000 per election  from a [ candidate
+political] principal campaign committee of another candidate.
+(c) [ May not accept aggregate contributions in  excess of ] $5,000 per election cycle from a multi-
+candidate political committee.
+(d) [ May not accept aggregate contributions in excess of ] $15,000 per election from a political
+party multicandidate committee.
+(e) [ May not accept aggregate contributions in excess of ] $15,000 per election from a  legislative
+caucus political committee.
+(f) [ May not accept aggregate contributions  from a membership organization or membership or-
+ganization political committee per election  in excess of $3,300 times four ] The amount set forth un-
+Enrolled House Bill 4018 (HB 4018-B) Page 2
+der paragraph (a) of this subsection  times four per election from a membership organization
+or membership organization political committee .
+(g) [ May not accept aggregate  contributions per election from a small donor political committee in
+excess of ] $5 times the number of [ donors] contributors to the  small donor political committee  per
+election from a small donor political committee .
+(3) A candidate or the principal campaign committee  of a candidate for a state office not de-
+scribed in subsection (2) of this section  may not accept aggregate contributions in excess of :
+(a) [ May not accept aggregate contributions in excess of ] $3,300 per election from a person.
+(b) [ May not accept aggregate contributions in excess of $2,000 per election  cycle from a candidate
+political committee] $2,000 per election from a principal campaign committee of  another candi-
+date.
+(c) [ May not accept aggregate contributions in  excess of ] $5,000 per election cycle from a multi-
+candidate political committee.
+(d) [ May not accept aggregate contributions in excess of ] $30,000 per election from a political
+party multicandidate committee.
+(e) [ May not accept aggregate contributions in excess of ] $30,000 per election from a  legislative
+caucus political committee.
+(f) [May not accept aggregate contributions ] The amount set forth under paragraph  (a) of this
+subsection times  eight per election  from a membership organization or membership organization
+political committee [ per election in excess of $3,300 times eight ].
+(g) [ May not accept aggregate  contributions per election from a small donor political committee in
+excess of ] $10 times the  number of [ donors] contributors to the small donor political committee  per
+election from a small donor political committee .
+(4) A multicandidate political committee  may not accept aggregate contributions in excess
+of:
+(a) [ May not accept aggregate contributions in excess of ] $5,000 per [ election cycle ] year from a
+person.
+(b) [ May not accept aggregate contributions in excess of ] $5,000 per year from a [ candidate poli-
+tical committee] principal campaign committee of a candidate .
+(c) [ May not accept aggregate contributions in excess of ] $5,000 per year from another multican-
+didate political committee.
+(d) [ May not accept aggregate contributions in excess of ] $5,000 per [ election cycle ] year from a
+political party  multicandidate committee.
+(e) [ May not accept aggregate contributions in excess of ] $5,000 per year from  a legislative caucus
+political committee.
+(f) [ May not accept aggregate contributions from a  membership organization or membership or-
+ganization political committee in excess of ] $5,000 per year  from  a membership organization or
+membership organization political committee .
+(g) [ May not accept aggregate  contributions from a small donor political committee per election in
+excess of ] $5,000 per year  from a small donor political committee .
+(5) A political party multicandidate committee  may not accept aggregate contributions  in
+excess of:
+(a) [ May not accept aggregate contributions in excess of ] $10,000 per year from a person.
+(b) [ May not accept aggregate contributions in excess  of ] $5,000 per year from a [ candidate poli-
+tical committee] principal campaign committee of a candidate .
+(c) [ May not  accept aggregate contributions in excess of ] $15,000 per year from a multicandidate
+political  committee.
+(d) [ May not accept aggregate contributions in excess of ] $15,000 per year from  another political
+party multicandidate committee.
+(e) [ May not accept aggregate contributions in  excess of ] $15,000 per year from a legislative
+caucus political committee.
+Enrolled House Bill 4018 (HB 4018-B) Page 3
+(f) [ May not accept aggregate contributions in excess of ] $10,000 per year from a membership or-
+ganization or membership organization political committee.
+(g) [ May not accept aggregate  contributions from a small donor political committee in excess of ]
+$10,000 per year  from a small donor political committee .
+(6) A legislative caucus political committee  may not accept aggregate contributions in ex-
+cess of:
+(a) [ May not accept aggregate contributions in excess of ] $10,000 per year from a person.
+(b) [ May not accept aggregate contributions in excess  of ] $5,000 per year from a [ candidate poli-
+tical committee] principal campaign committee of a candidate .
+(c) [ May not  accept aggregate contributions in excess of ] $15,000 per year from a multicandidate
+political  committee.
+(d) [ May not  accept aggregate contributions in excess of ] $15,000 per year from a political party
+multicandidate committee.
+(e) [ May not accept aggregate contributions in excess of ] $15,000 per year  from another legislative
+caucus political committee.
+(f) [ May not accept aggregate contributions in  excess of ] $10,000 per year from a membership or-
+ganization or membership organization political committee.
+(g) [ May not accept aggregate  contributions from a small donor political committee in excess of ]
+$10,000 per year  from a small donor political committee .
+(7) Contributions to a measure political  committee , recall political committee or an inde-
+pendent expenditure-only political committee are not limited under this section.
+(8)(a) A small donor political committee:
+(A) May not accept contributions in excess of $250 per  calendar year from an individual.
+(B) May not accept contributions  from a [ candidate political committee ] principal campaign
+committee of a candidate, independent expenditure-only political committee , multicandidate
+political committee, political party multicandidate committee, legislative caucus political commit-
+tee, [ or a ] membership organization , measure political committee, membership organization
+political committee, recall political committee or a petition committee .
+(C) May not accept contributions from another small donor political committee.
+(b) The number of [ donors] contributors to a small  donor political committee [ shall] must be
+determined by the number of unique individuals  who have [ donated] contributed funds to the com-
+mittee during the  [ election cycle ] calendar year in which the small donor political committee [ do-
+nation] contribution is made.
+(9) A membership organization:
+(a) May accept unlimited donations from a  person and from another membership organization
+or membership organization political committee.
+(b) May not accept  donations from a [ candidate political committee ] principal campaign com-
+mittee of a candidate , multicandidate political committee, political party multicandidate commit-
+tee, legislative caucus political committee or a small donor political committee.
+[(10) A donor may not make a contribution, or an aggregate of contributions during  an applicable
+limitation period, to a recipient that exceeds the  amount a recipient could accept under the limitations
+of subsections (2) to  (9) of this section. This subsection does not apply to in-kind contributions described
+in ORS 260.016 (2). ]
+[(11)(a) A political committee may make a contribution to a candidate for state office  or the prin-
+cipal campaign committee of a candidate  for state office only if the political committee is registered with
+the Secretary of State as a  multicandidate political committee, a political party multicandidate com-
+mittee, a legislative caucus  committee, a membership organization political committee, the principal
+campaign committee of a candidate or a small donor political committee. ]
+[(b) A measure  political committee or recall political committee may not make a contribution to a
+candidate or the principal campaign committee of a candidate for a state office. ]
+[(12)(a) A membership organization  may make in-kind contributions of up to 12 months per year
+of full-time staff equivalence for a  campaign for the office of state Representative or state Senator and
+Enrolled House Bill 4018 (HB 4018-B) Page 4
+may make in-kind  contributions of up to 36 months per year of full-time staff equivalence for a cam-
+paign for statewide elected office,  provided that the staff time is limited to administrative support, direct
+voter contact, community organizing, community outreach and staff  support for direct voter contact,
+community organizing or community outreach activities. ]
+[(b) The organization must measure full-time staff equivalence from staff  or members of the or-
+ganization who attest that they are  not currently employed as pollsters, political consultants or candi-
+date campaign strategists and that they have not served as a  pollster, political consultant or candidate
+campaign strategist for at least the previous 18 months. ]
+[(c) The organization must be solely responsible for the pay, benefits,  employment status and other
+human resources of every staff person or member of the  organization facilitating contributions under
+this subsection. ]
+[(d) The Secretary of State shall by rule define “administrative support,”  “community
+organizing,” “community outreach,” “direct voter contact”  and “staff support” for purposes of this
+subsection.]
+[(13) Nothing in this section limits the amount a candidate may contribute from the candidate’s
+personal funds to the candidate or the principal campaign committee of the candidate. ]
+[(14)(a) For purposes  of the contribution limits established in this section, contributions made or
+received by multiple political committees are  considered to be made or received by a single political
+committee if:]
+[(A) The political committees have  filed to operate as the same type of political committee under
+ORS 260.042; and ]
+[(B) The  political committees are established, financed, maintained or controlled by the same person
+or substantially the same group of persons, including any parent, subsidiary, branch,  division, depart-
+ment or local unit of the person or group of persons. ]
+[(b) Notwithstanding paragraph (a) of this  subsection, independent businesses, entities, affiliates or
+local groups of any structure operating under  the same corporate family or umbrella organization may
+not be  considered established, financed, maintained or controlled by the same person or within the same
+group of persons if the independent businesses, entities, affiliates or local groups have the  authority to
+make independent decisions as to which candidate, if any, to support or oppose. ]
+[(c) Notwithstanding paragraph (a) of this  subsection, having the same person acting as the treas-
+urer of two or more political committees is not by itself sufficient to consider contributions made by  the
+political committees to be contributions made or received by a single political committee. ]
+[(15) For purposes of  the contribution limits established in this section, contributions made by
+multiple persons are considered to be made or received by a single person if  the persons are estab-
+lished, financed, maintained or controlled by the same person or substantially the same group of  per-
+sons, including any parent, subsidiary, branch, division,  department or local unit of the person or
+group of persons. ]
+[(16)(a) For purposes of candidate contributions, clubs, societies,  associations, organizations or
+anonymous limited liability companies are not authorized contributors. ]
+[(b) This subsection does not apply to membership organizations. ]
+[(17) A candidate seeking a minor party nomination  shall be considered to be participating in the
+primary election for the purposes of the contribution limits established in this section. ]
+[(18) The Secretary of State may adopt rules necessary to implement this section. ]
+(10) A  candidate, or the principal campaign committee of a candidate, may not accept a
+contribution from another candidate or from a principal campaign committee of a candidate
+or a political committee unless the committee  files a statement of organization in the man-
+ner set forth in ORS 260.042.
+(11)(a)(A) In addition to the contribution  limits described in subsections (2) and (3) of this
+section, a candidate or the principal campaign committee of a  candidate may receive in-kind
+contributions of staff time  from a membership organization or a membership organization
+political committee in the following amounts:
+Enrolled House Bill 4018 (HB 4018-B) Page 5
+(i) To a candidate  or the principal campaign committee of a candidate for the office of
+state Representative or state Senator, not to exceed 2,080 staff hours per calendar year.
+(ii) To a candidate or the principal campaign  committee of a candidate for a state office
+that is not state Representative or state Senator, not to exceed 6,240 staff hours per calendar
+year.
+(iii) To a candidate or the principal campaign committee of a candidate for a  public office
+that is not a national or state office, not to exceed 2,080 staff hours per calendar year.
+(B) In-kind contributions of staff time provided under this paragraph  must be limited to
+administrative support, direct voter contact, community  organizing, community outreach
+and staff support for direct voter contact, community organizing  or community outreach
+activities, including any staff time associated with the creation, production  or distribution
+of communications in relation to the activities described in this subparagraph.
+(b) The staff time of a staff person or member of a membership organization  or a mem-
+bership organization political committee may be contributed by a membership organization
+or a membership organization political committee under this subsection only  if the staff
+person or member attests that the staff person or member is not currently employed  as a
+pollster, political consultant or candidate  campaign strategist and that the staff person or
+member has not served as  a pollster, political consultant or candidate campaign strategist
+in the previous 18-month period.
+(c) The membership organization political committee  or the membership organization
+that formed the membership organization political committee making the in-kind  contrib-
+ution shall be solely responsible for the  pay, benefits, employment status and other human
+resources of every staff person or member of the  organization whose staff time is contrib-
+uted under this subsection.
+(d) The Secretary of State  shall define by rule the terms “administrative support,”
+“community organizing,” “community outreach,” “direct voter contact” and  “staff support”
+for purposes of this subsection.
+(12)(a) In addition to the contribution limits described in  subsections (2), (3) and (11) of
+this section, a candidate or the principal campaign  committee of a candidate may receive
+in-kind contributions not to exceed the amounts described in this subsection from any person
+or entity otherwise authorized to make a contribution under this section.
+(b)(A) A candidate or the principal campaign committee of a candidate may accept:
+(i) Without limitation:
+(I) In-kind contributions of child care, elder care, interpretation or translation services.
+(II) Legal services related to advising a candidate on compliance with election laws.
+(III) Legal services related to representing the candidate in responding to  or defending
+against a complaint that has been filed against the  candidate alleging a violation of election
+laws.
+(ii) In-kind contributions of office space, including conference rooms and  other utility
+areas associated with office space, not to exceed 2,500 square feet per calendar year.
+(B) The amount of incidental costs incurred by the contributor  in connection with pro-
+viding in-kind contributions described in this paragraph may not exceed $1,000  per calendar
+year.
+(c) A candidate or the principal campaign committee of a candidate for all  offices except
+a state office subject to the contribution limits set forth  in subsection (3) of this section may
+receive in-kind contributions not to exceed the  amounts described in this paragraph from
+any person or entity otherwise authorized to make a contribution under this section:
+(A) Food and beverages, $2,500 per calendar year.
+(B) Transportation costs, $2,500 per calendar year.
+(d) A  candidate or the principal campaign committee of a candidate for a state office
+subject to the contribution limits  set forth in subsection (3) of this section may receive in-
+Enrolled House Bill 4018 (HB 4018-B) Page 6
+kind contributions not to exceed  the amounts described in this paragraph from any person
+or entity otherwise authorized to make a contribution under this section:
+(A) Food and beverages, $5,000 per calendar year.
+(B) Transportation costs, $5,000 per calendar year.
+(13) A measure political committee may not  make expenditures in support of or in op-
+position to a candidate.
+(14) At the end of  each even-numbered year, the Secretary of State shall adjust the dollar
+amounts set forth in this section based  on the cumulative change in the Consumer Price
+Index for  All Urban Consumers, West Region (All Items), as published by the Bureau of La-
+bor Statistics of the United States Department of Labor, or its successor.  The adjustments
+performed under this subsection must be rounded to the nearest $10 increment.
+(15) Nothing in this  section limits the amount a candidate may contribute from the
+candidate’s personal funds to the candidate or the principal  campaign committee of the
+candidate.
+(16)(a) An in-kind contribution  to, or coordinated expenditures with, a candidate, other
+than independent expenditures made by that person to support or oppose a candidate, may
+not be deemed to be coordinated so long as that person complies with  the requirements of
+this subsection.
+(b) To comply with this subsection, the person must:
+(A) Separate the person’s staff persons  that provide in-kind contributions or coordinated
+expenditures from other staff persons that make decisions  about independent expenditures
+that support or oppose a candidate.
+(B) Prohibit the  person’s owners, executives, managers and supervisors from simultane-
+ously overseeing the  decisions made by staff that are separated under subparagraph (A) of
+this paragraph regarding contributions and expenditures.  The owners, executives, managers
+and supervisors may participate in decisions regarding budget allocations to the  person
+without violating this subparagraph.
+(C) Prohibit the exchange of  strategic nonpublic information regarding contributions and
+coordinated expenditures with staff who are  separated under subparagraph (A) of this para-
+graph.
+(D) Establish and distribute a written policy regarding the  requirements under this sub-
+section to all staff of the person prior to any work performed regarding the in-kind contrib-
+utions or coordinated expenditures. The written policy under this  subparagraph must be
+provided to the Secretary of State upon the secretary’s request.
+(c) Notwithstanding paragraph (b) of this subsection, separation of the person’s volun-
+teers or nonsupervisory staff persons that are engaged in direct voter contact is not required
+so long as the person prohibits the volunteers and nonsupervisory staff persons  from ex-
+changing strategic  nonpublic information regarding the contributions and coordinated ex-
+penditures with staff persons that are separated under paragraph (b) of this subsection.
+(17) The Secretary of State may adopt rules for the administration of this section.
+SECTION 2a.
+ ORS 260.014, as amended by section 2 of this 2026 Act, is amended to read:
+260.014. (1)(a) A  candidate, the principal campaign committee of a candidate or a political com-
+mittee may accept  contributions only from the sources and in the amounts described in this section.
+(b) An in-kind contribution under this  section may only be made by a contributor that is au-
+thorized to make a contribution under this chapter and may  only be received by a political com-
+mittee.
+(c) Except as provided in paragraph (d) of  this subsection, the limits on aggregate contributions
+that may be accepted by a candidate or the principal  campaign committee of a candidate for the
+office of state Representative under this section also apply to a candidate or the principal campaign
+committee of a candidate for any public office that is not a state office.
+(d)(A) Any local government that, as of January 1, 2024, had  a system of contribution limits in
+effect for local elections may maintain  or adopt contribution limits that are lower than those re-
+Enrolled House Bill 4018 (HB 4018-B) Page 7
+quired by this section  and may limit the sources that may make contributions to candidates in local
+elections, except that a local government system of contribution limits described in  this subpara-
+graph must permit small donor political  committees to accept contributions from individuals of up
+to $250 per calendar year, as provided in subsection (8)(a) of this section.
+(B) For any local government that is not described in subparagraph (A) of this paragraph:
+(i) Except as provided in subsection (8)(a) of this  section, a local government may adopt con-
+tribution limits that are lower than those required by this section for elections of the local govern-
+ment.
+(ii) Any contribution limits adopted by a local  government under this subparagraph must allow
+a candidate or the principal campaign committee of a candidate for an election contest of the  local
+government to accept contributions from any political committee from which a candidate or the
+principal campaign committee of a candidate for the office of  state Representative may accept con-
+tributions under subsection (2)(a) of this section.
+(C) Any local government may provide public funding for campaigns for local  government public
+office that are not subject to contribution limits under this section.
+(2) A candidate or the principal campaign committee of  a candidate for the office of state Rep-
+resentative, state Senator,  circuit court judge or district attorney may not accept aggregate con-
+tributions in excess of:
+(a) $3,300 per election from a person.
+(b) $2,000 per election from a principal campaign committee of another candidate.
+(c) $5,000 per election cycle from a multicandidate political committee.
+(d) $15,000 per election from a political party multicandidate committee.
+(e) $15,000 per election from a legislative caucus political committee.
+(f) The amount set forth under paragraph (a) of  this subsection times four per election from a
+membership organization or membership organization political committee.
+(g) $5 times the  number of contributors to the small donor political committee per election from
+a small donor political committee.
+(3) A candidate or the principal campaign committee of a  candidate for a state office not de-
+scribed in subsection (2) of this section may not accept aggregate contributions in excess of:
+(a) $3,300 per election from a person.
+(b) $2,000 per election from a principal campaign committee of another candidate.
+(c) $5,000 per election cycle from a multicandidate political committee.
+(d) $30,000 per election from a political party multicandidate committee.
+(e) $30,000 per election from a legislative caucus political committee.
+(f) The amount set forth under paragraph (a) of this subsection  times eight per election from a
+membership organization or membership organization political committee.
+(g) $10 times  the number of contributors to the small donor political committee per election from
+a small donor political committee.
+(4) A multicandidate political committee may not accept aggregate contributions in excess of:
+(a) $5,000 per year from a person.
+(b) $5,000 per year from a principal campaign committee of a candidate.
+(c) $5,000 per year from another multicandidate political committee.
+(d) $5,000 per year from a political party multicandidate committee.
+(e) $5,000 per year from a legislative caucus political committee.
+(f) $5,000 per year from a membership organization  or membership organization political com-
+mittee.
+(g) $5,000 per year from a small donor political committee.
+(5) A political party multicandidate committee may not accept aggregate contributions  in excess
+of:
+(a) $10,000 per year from a person.
+(b) $5,000 per year from a principal campaign committee of a candidate.
+(c) $15,000 per year from a multicandidate political committee.
+Enrolled House Bill 4018 (HB 4018-B) Page 8
+(d) $15,000 per year from another political party multicandidate committee.
+(e) $15,000 per year from a legislative caucus political committee.
+(f) $10,000 per year from a membership organization or membership organization political com-
+mittee.
+(g) $10,000 per year from a small donor political committee.
+(6) A legislative caucus political committee may  not accept aggregate contributions in excess
+of:
+(a) $10,000 per year from a person.
+(b) $5,000 per year from a principal campaign committee of a candidate.
+(c) $15,000 per year from a multicandidate political committee.
+(d) $15,000 per year from a political party multicandidate committee.
+(e) $15,000 per year from another legislative caucus political committee.
+(f) $10,000 per year from a membership organization or membership organization political com-
+mittee.
+(g) $10,000 per year from a small donor political committee.
+(7) Contributions to a measure political committee,  recall political committee or an independent
+expenditure-only political committee are not limited under this section.
+(8)(a) A small donor political committee:
+(A) May not accept contributions in excess of $250 per calendar year from an individual.
+(B) May  not accept contributions from a principal campaign committee of a candidate, inde-
+pendent expenditure-only  political committee, multicandidate political committee, political party
+multicandidate committee, legislative caucus political committee, membership  organization, measure
+political committee, membership organization political committee,  recall political committee or a
+petition committee.
+(C) May not accept contributions from another small donor political committee.
+(b) The number  of contributors to a small donor political committee must be determined by the
+number of unique individuals who have contributed funds to the committee during  the calendar year
+in which the small donor political committee contribution is made.
+(9) A membership organization:
+(a) May accept unlimited donations from a  person and from another membership organization
+or membership organization political committee.
+(b) May not accept donations  from a principal campaign committee of a candidate, multicandi-
+date political committee, political party multicandidate committee, legislative caucus political com-
+mittee or a small donor political committee.
+(10) A candidate, or the principal campaign committee of a candidate,  may not accept a con-
+tribution from another candidate or from a principal campaign committee of a candidate or a poli-
+tical committee unless the committee files  a statement of organization in the manner set forth in
+ORS 260.042.
+(11)(a)(A) In addition to the contribution limits described in subsections (2) and (3)  of this sec-
+tion, a candidate or the principal campaign committee of a candidate  may receive in-kind contrib-
+utions of staff time from a membership organization  or a membership organization political
+committee in the following amounts:
+(i) To a candidate or the principal campaign committee of a candidate for the office  of state
+Representative or state Senator, not to exceed 2,080 staff hours per calendar year.
+(ii) To a candidate or the principal campaign committee of a candidate for a  state office that is
+not state Representative or state Senator, not to exceed 6,240 staff hours per calendar year.
+(iii) To a candidate or the principal campaign committee of a  candidate for a public office that
+is not a national or state office, not to exceed 2,080 staff hours per calendar year.
+(B) In-kind contributions of staff time provided under this paragraph must be limited  to admin-
+istrative support, direct voter  contact, community organizing, community outreach and staff support
+for direct voter contact, community organizing or community outreach activities, including any  staff
+Enrolled House Bill 4018 (HB 4018-B) Page 9
+time associated with the creation, production or distribution of communications in relation to the
+activities described in this subparagraph.
+(b) The staff time of a staff person or member of a membership organization  or a membership
+organization political committee may  be contributed by a membership organization or a membership
+organization political committee under this subsection only if the staff person or member attests that
+the staff  person or member is not currently employed as a pollster, political consultant or candidate
+campaign strategist and that the staff person or member has not served as a pollster,  political con-
+sultant or candidate campaign strategist in the previous 18-month period.
+(c) The membership organization political committee or the membership  organization that
+formed the membership organization political committee  making the in-kind contribution shall be
+solely responsible for the  pay, benefits, employment status and other human resources of every staff
+person or member of the organization whose staff time is contributed under this subsection.
+(d) The Secretary of State shall define by rule the  terms “administrative support,” “community
+organizing,” “community outreach,” “direct voter contact” and “staff support” for  purposes of this
+subsection.
+(12)(a) In addition to the contribution limits described in subsections (2), (3)  and (11) of this
+section, a candidate or the principal campaign committee of a candidate may  receive in-kind con-
+tributions not to exceed the amounts described in this subsection from any person or entity other-
+wise authorized to make a contribution under this section.
+(b)(A) A candidate or the principal campaign committee of a candidate may accept:
+(i) Without limitation:
+(I) In-kind contributions of child care, elder care, interpretation or translation services.
+(II) Legal services related to advising a candidate on compliance with election laws.
+(III) Legal services related to representing the  candidate in responding to or defending against
+a complaint that has been filed against the candidate alleging a violation of election laws.
+(ii) In-kind contributions of office space, including conference rooms and  other utility areas as-
+sociated with office space, not to exceed 2,500 square feet per calendar year.
+(B) The amount of incidental costs  incurred by the contributor in connection with providing
+in-kind contributions described in this paragraph may not exceed $1,000 per calendar year.
+(c) A candidate or the principal campaign committee of a candidate for all offices except  a state
+office subject to the contribution limits set forth in subsection (3)  of this section may receive in-kind
+contributions not to exceed the amounts described in this paragraph from  any person or entity
+otherwise authorized to make a contribution under this section:
+(A) Food and beverages, $2,500 per calendar year.
+(B) Transportation costs, $2,500 per calendar year.
+(d) A candidate or the principal campaign committee of a candidate  for a state office subject to
+the contribution limits set forth in subsection  (3) of this section may receive in-kind contributions
+not to  exceed the amounts described in this paragraph from any person or entity otherwise author-
+ized to make a contribution under this section:
+(A) Food and beverages, $5,000 per calendar year.
+(B) Transportation costs, $5,000 per calendar year.
+(13) A measure political committee may not make  expenditures in support of or in opposition to
+a candidate.
+(14) At the end of each even-numbered year, the Secretary  of State shall adjust the dollar
+amounts set forth in this section based on the cumulative change in the Consumer Price  Index for
+All Urban Consumers, West Region (All Items), as published by the Bureau of Labor  Statistics of
+the United States Department of Labor, or its successor.  The adjustments performed under this
+subsection must be rounded to the nearest $10 increment.
+(15) Nothing in this section limits  the amount a candidate may contribute from the candidate’s
+personal funds to the candidate or the principal campaign committee of the candidate.
+Enrolled House Bill 4018 (HB 4018-B) Page 10
+(16)(a) An in-kind  contribution to, or coordinated expenditures with, a candidate, other than in-
+dependent expenditures made by that person  to support or oppose a candidate, may not be deemed
+to be coordinated so long as that person complies with the requirements of this subsection.
+(b) To comply with this subsection, the person must:
+(A) Separate the person’s staff persons  that provide in-kind contributions or coordinated ex-
+penditures from other staff  persons that make decisions about independent expenditures that support
+or oppose a candidate.
+(B) Prohibit the person’s  owners, executives, managers and supervisors from simultaneously
+overseeing the decisions made by staff that are  separated under subparagraph (A) of this paragraph
+regarding  contributions  and expenditures. The owners, executives, managers and supervisors may
+participate in decisions regarding budget allocations to the person without violating this subpara-
+graph.
+(C) Prohibit the exchange  of strategic nonpublic information regarding contributions and coor-
+dinated expenditures with staff who are separated under subparagraph (A) of this paragraph.
+(D) Establish and distribute a written policy  regarding the requirements under this subsection
+to all staff of the  person prior to any work performed regarding the in-kind contributions or coor-
+dinated expenditures. The written policy under this subparagraph must be provided to the  Secretary
+of State upon the secretary’s request.
+(c) Notwithstanding paragraph  (b) of this subsection, separation of the person’s volunteers or
+nonsupervisory staff persons that are engaged in direct voter contact  is not required so long as the
+person prohibits the volunteers and  nonsupervisory staff persons from exchanging strategic non-
+public information regarding the contributions and coordinated expenditures with  staff persons that
+are separated under paragraph (b) of this subsection.
+(17) A contributor may not make a contribution, or an  aggregate of contributions, during
+an applicable limitation period, to a recipient that exceeds the amount a recipient may accept
+under the limitations of subsections (2) to (9) of this section. This subsection does not  apply
+to in-kind contributions described in subsections (11) and (12) of this section.
+[(17)] (18) The Secretary of State may adopt rules for the administration of this section.
+SECTION 3.
+ ORS 260.016 is amended to read:
+260.016. [(1)(a)] (1) A person may not control more than one of each of the following types of
+committees at one time:
+[(A)] (a) Principal campaign committee.
+[(B)] (b) Multicandidate political committee.
+[(C)] (c) Political party multicandidate committee.
+[(D)] (d) Small donor political committee.
+[(E)] (e) Membership organization political committee.
+[(b)] (2) A person [ who] that controls both a small donor political  committee and another poli-
+tical committee may not split a contribution from [ an individual] a contributor, so  that part of the
+[individual’s] contributor’s contribution goes to the small donor political committee and part  of the
+contribution goes to the other political committee, unless the person is directed to do so in  writing
+by the [ donor] contributor.
+[(2)(a) The following in-kind contributions, as determined over a 12-month  period, are exempt from
+the contribution limits set forth in ORS 260.014 up to the limits provided or as  further adjusted pur-
+suant to subsection (3) of this section: ]
+[(A) Food and beverages up to $2,500 for all offices, except up to $5,000 for a state office subject
+to ORS 260.014 (3). ]
+[(B) Transportation costs up to  $2,500 for all offices, except up to $5,000 for a state office subject
+to ORS 260.014 (3). ]
+[(C) Child care, elder care, interpretation or translation services without limitation. ]
+[(D) Small gifts that are incidental to the operation of a business up  to $1,000. The Secretary of
+State may by rule further define what is meant by small gifts. ]
+Enrolled House Bill 4018 (HB 4018-B) Page 11
+[(E) Contributions of office space, including conference rooms  and other utility areas associated
+with office space, except that the office space may  not exceed 2,500 square feet or be contributed for a
+period of longer than 12 months. ]
+[(F) Legal services related  to advising a candidate on compliance with election laws and repres-
+enting a candidate in the event a complaint alleging a violation  of election laws is filed against the
+candidate may be contributed without limitation. ]
+[(b) In-kind contributions described  in this subsection must be reported to the Secretary of State
+at the same time and in the same manner as other contributions and expenditures are reported. ]
+[(c) In-kind contributions described in this subsection may only be made by a  contributor author-
+ized to make a contribution under this chapter and may only be received by  a candidate or a candidate
+committee.]
+[(3) Prior to the start of each election cycle, the Secretary of State shall adjust the dollar  amounts
+set forth in this  section and ORS 260.014 by the cumulative change in the Consumer Price Index for
+All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of  the
+United States Department of Labor, or  its successor, since 2024. The adjustments performed under this
+subsection shall be rounded to the nearest $10 increment. ]
+[(4)] (3) The Secretary of State may adopt rules  [necessary to implement ] for the administration
+of this section.
+SECTION 4.  ORS 260.018 is amended to read:
+260.018. [(1) At the end of  an election cycle, any unexpended funds that remain in the accounts of
+a candidate political committee may be used only as follows: ]
+(1) Unless the excess unexpended funds are reported in the time and manner required
+by the Secretary of  State by rule, an individual who was a candidate for election to public
+office, or the principal campaign  committee of the candidate, not later than the 60th day
+following the election at which the individual was a candidate for  election to public office,
+may carry forward unexpended funds that remain in the accounts of the  principal campaign
+committee not to exceed the following amounts:
+(a) $10,000, if the individual was a candidate for state Representative, circuit court judge,
+district attorney or for a public office representing a  jurisdiction with not more than 100,000
+electors.
+(b) $20,000, if the individual was a candidate for state Senator or for a public office  re-
+presenting a jurisdiction with not less than 100,000 electors and not more than 300,000 elec-
+tors.
+(c) $40,000, if  the individual was a candidate for any statewide office that is not described
+in paragraph (a) or (b) of this subsection.
+(2) Except as provided under subsection (1)  of this section, unexpended funds of a prin-
+cipal campaign committee of a candidate may be used solely for the following purposes:
+(a) To refund contributions to contributors in amounts not exceeding the aggregate  contribution
+received from each contributor during the [ election cycle ] calendar year;
+(b) To make a contribution to another political committee as authorized under ORS 260.014;
+(c) To transfer any amount to the Campaign Finance  Education Fund established in ORS
+260.021; or
+(d) For purposes authorized under ORS 260.407, except that a contribution made under ORS
+260.407 (1)(a)(C) must be made to an organization described in section 501(c)(3)  of the Internal Re-
+venue Code.
+[(2) As of 60 days after the end of the applicable election  cycle, a candidate political committee may
+not carry forward unexpended  funds in excess of the following limits unless the excess unexpended
+funds are reported in the time and manner required by the Secretary of State by rule: ]
+[(a) $10,000 for a candidate for state Representative, circuit court judge or district attorney. ]
+[(b) $20,000 for a candidate for a state Senator. ]
+[(c) $40,000 for a candidate for a state office that is not described in paragraph (a) or (b)  of this
+subsection.]
+Enrolled House Bill 4018 (HB 4018-B) Page 12
+[(d) For a candidate for any other public office, the greater of $5,000  or five cents per elector in
+the district of the public office. ]
+[(3) A candidate political committee that has not been  used to support a candidate for public office
+for two consecutive election cycles  shall dispose of any funds carried over from a previous election cycle
+in accordance with subsection (1) of this section. ]
+(3) A principal campaign committee of  a candidate that has not been used to support the
+candidate for election to public office  for two consecutive terms after the candidate’s most
+recent term of office shall dispose of any funds carried  over from the previous elections in
+accordance with subsection (2) of this section not more than 60 days following the end of  the
+second term of office in which the principal campaign committee was not used.
+SECTION 5.  ORS 260.021 is amended to read:
+260.021. (1) The Campaign Finance Education Fund is established in the State Treasury, sep-
+arate and distinct from the  General Fund. Moneys in the  Campaign Finance Education Fund are
+continuously appropriated to the Secretary of State for the purpose of carrying  out the duties de-
+scribed in ORS 260.264.
+(2) Moneys in the fund shall consist of:
+(a) Moneys appropriated or transferred to the fund by the Legislative Assembly;
+(b) Moneys transferred to the fund pursuant to ORS 260.018 [ (1)(c)]; and
+(c) Other amounts deposited into the fund from  any source , subject to any limits established
+by the Secretary of State by rule .
+SECTION 6.
+ ORS 260.042, as amended by section 6, chapter 9, Oregon Laws 2024, is  amended
+to read:
+260.042. (1) The treasurer of a political committee shall file a statement of  organization with the
+filing officer. The statement must include:
+(a) The name , [ and] address and nature of the committee. The address must be the address of
+a residence, office, headquarters or similar location where the political committee  or a responsible
+officer of the political committee may be conveniently located.
+(b) The name, address and occupation of the committee director or directors.
+(c) The name and address of the committee treasurer.
+(d) The name and address of any other political committee of which  two or more committee di-
+rectors are also directors of the committee filing the statement.
+(e) Whether the political committee will  operate as a measure political committee, a multican-
+didate political committee, a political party multicandidate committee,  a legislative caucus  political
+committee, a membership organization political  committee, a recall political committee , an inde-
+pendent expenditure-only political committee or a small donor political committee.
+[(f) The name, office sought, and party affiliation of each  candidate whom the committee is sup-
+porting or  specifically opposing or intends to support or specifically oppose, when known, or, if the
+committee is supporting or specifically opposing  all the candidates of a given party, the name of that
+party.]
+[(g) A designation of any measure that the committee is  opposing or supporting, or intends to
+support or oppose. ]
+[(h)] (f) A statement [ of] declaring whether the committee is a controlled committee.
+(2) In addition to the information [ listed] described in subsection (1) of this section, the state-
+ment of organization must include, or be amended within five business days to include, the  name of
+the financial institution in  which the campaign account required under ORS 260.054 is established,
+the name of the account, the name of the  account holder and the names of all individuals who have
+signature authority for the account. The Secretary of State may not  disclose information received
+by the secretary under this subsection except as necessary for purposes of enforcing the provisions
+of ORS chapters 246 to 260.
+(3) A treasurer may designate an individual to receive any notice  provided by a filing officer
+under ORS chapters 246 to 260. The treasurer  shall include the name and address of the individual
+in a statement of organization filed under this section. A filing officer who provides any notice under
+Enrolled House Bill 4018 (HB 4018-B) Page 13
+ORS chapters 246 to 260 to the treasurer of the political committee shall  also provide the notice to
+the individual designated by the treasurer under this subsection.
+(4) A treasurer may designate an elector of this state to be liable for any civil  penalty imposed
+under ORS 260.232. The treasurer shall include the name and address of any elector designated un-
+der this subsection in a statement of organization filed under this section.
+(5) The statement  of organization must be filed not later than the date specified in ORS 260.035.
+(6) Except as provided in subsection  (2) of this section, any change in information submitted in
+a statement of organization under subsections (1) and (2) of this section must be indicated in  an
+amended statement of organization filed not later than the 10th day after the change in  information.
+(7) This section does not  apply to a political committee that is a principal campaign committee
+or to a political committee exclusively supporting or opposing one or more candidates  for federal
+or political party office.
+(8)(a) A major political party or minor political party may establish [ no] not more than one :
+(A) Political party multicandidate committee.
+(B) Legislative caucus political committee in each chamber of the Legislative Assembly.
+(b) A recall political committee may be formed only after a  recall election is certified to the
+ballot.
+(c) A membership organization  may establish not more than one membership organiza-
+tion political committee.
+[(9) As used in this section: ]
+[(a) “Legislative caucus committee” has the meaning given that term in ORS 260.006. ]
+[(b) “Major political party”  means a political party that has qualified as a major political party
+under ORS 248.006. ]
+[(c) “Measure  political committee” means a political committee that supports or opposes one or more
+measures.]
+[(d) “Membership organization  political committee” has the meaning given that term in ORS
+260.006.]
+[(e) “Minor political party” means  a political party that has qualified as a minor political party
+under ORS 248.008. ]
+[(f) “Multicandidate political committee” means a political committee that supports or opposes: ]
+[(A) One or more candidates; or ]
+[(B) All candidates affiliated with a major political party or a minor political party. ]
+[(g) “Political party multicandidate committee” means a political committee that: ]
+[(A) Operates on a statewide basis; ]
+[(B) Qualifies as a multicandidate political committee; and ]
+[(C)(i) Represents a major political party or a minor political party; or ]
+[(ii) Is established under the bylaws of a major political party or a minor political party. ]
+[(h) “Recall  political committee” means a political committee that supports or opposes a person
+subject to a recall election. ]
+[(i) “Small donor political committee” means a political committee that: ]
+[(A) Registers as a small donor political committee under this section; ]
+[(B) Prior  to registering as a small donor political committee has not accepted a contribution in
+excess of the contribution limits for small donor political committees set forth in ORS 260.014; and ]
+[(C) While operating as a  small donor political committee, complies with the restrictions on re-
+ceiving contributions set forth in ORS 260.014. ]
+SECTION 7.
+Section 7, chapter 9, Oregon Laws 2024, is added to  and made a part of ORS
+chapter 260.
+SECTION 8.  Section 7, chapter 9, Oregon Laws 2024, is amended to read:
+Sec. 7.  [ Notwithstanding ORS 260.042 (9)(i), ] By not later than March  31, 2027,  a political
+committee[ , as defined in ORS 260.005, ] that is not organized as a small  donor political committee[ ,
+as defined in ORS 260.042, ] may reorganize as a small donor  political committee if, during the pre-
+vious 24-month period, not less than 90 percent of the total amount of moneys  contributed to the
+Enrolled House Bill 4018 (HB 4018-B) Page 14
+political committee were contributed by individuals in amounts not  exceeding $250 per individual
+[donor] contributor per calendar year. Any moneys in the  bank accounts of a political committee
+that reorganizes as a small donor political committee under this section shall transfer to the  newly
+organized small donor political committee and may  be used in the same manner as any other moneys
+contributed to the small donor political committee.
+SECTION 9.  ORS 260.416 is amended to read:
+260.416. [(1)] A person may not, directly or indirectly:
+[(a)] (1) Require an employee or contractor to make a  contribution or independent expenditure
+to support or oppose any candidate; or
+[(b)] (2) Provide or promise any benefit or impose or threaten any detriment due to a  decision
+by an employee or contractor on whether to make  a contribution or independent expenditure to
+support or oppose a candidate.
+[(2)(a) A foreign national, foreign corporation  or foreign entity may not, directly or indirectly, make
+or offer to make a candidate campaign contribution or expenditure or make a donation used  by an
+entity to pay for candidate campaign independent expenditures. ]
+[(b) As used in this  subsection, “foreign national” means a foreign principal, as defined in 22
+U.S.C. 611(b), but does not include any individual who is: ]
+[(A) A citizen of the United States; ]
+[(B) A national of the United States; ]
+[(C) Lawfully admitted for permanent residence in the United States; or ]
+[(D) A resident of Oregon. ]
+SECTION 10. ORS 260.005, as amended by section 10, chapter 9, Oregon Laws  2024, is amended
+to read:
+260.005. As used in this chapter:
+(1)(a) “Candidate” means:
+(A) An individual whose  name is printed on a ballot, for whom a declaration of candidacy,
+nominating petition  or certificate of nomination to public office has been filed or whose name is
+expected to be or  has been presented, with the individual’s consent, for nomination or election to
+public office;
+(B) An individual who has solicited or received and accepted a contribution, made an expendi-
+ture, or given consent to an  individual, organization, political party or political committee to solicit
+or receive and accept a contribution or make an expenditure on  the individual’s behalf to secure
+nomination or election to any public office at  any time, whether or not the office for which the in-
+dividual will seek nomination or election is known when the  solicitation is made, the contribution
+is received and retained or the expenditure is made, and whether or not the name of  the individual
+is printed on a ballot; or
+(C) A public office holder against whom a recall petition has been completed and filed.
+(b) Except as provided in ORS 260.532 to 260.715,  for purposes of this [ section and ORS
+260.035 to 260.156, ] chapter, “candidate” does not include a candidate for the office  of precinct
+committeeperson.
+(2) “Committee director” means any  person [ who] that directly and substantially participates in
+decision-making on behalf of a political committee concerning the solicitation or expenditure  of
+funds and the support of or opposition to candidates or measures.  The officers of a political party
+[shall be ] are considered to be the directors of any political party  multicandidate committee of that
+party, unless otherwise provided in the party’s bylaws.
+(3) [Except as provided in ORS 260.007, ] “Contribute” or [ “contribution” ] “contribution,” except
+as otherwise provided in ORS 260.007 and 260.118,  includes:
+(a) The payment, loan, gift, forgiving of indebtedness,  or furnishing without equivalent compen-
+sation or consideration, of money, services other than personal services for which no  compensation
+is asked or given, supplies, equipment or any other thing of value:
+Enrolled House Bill 4018 (HB 4018-B) Page 15
+(A) For the purpose of influencing an  election for public office or an election on a measure, or
+of reducing the debt of a candidate for nomination or election to public  office or the debt of a pol-
+itical committee; [ or] and
+(B) To or on behalf of a candidate, political committee or measure[ ;].
+(b) The excess value of a contribution made for compensation  or consideration of less than
+equivalent value .[; and ]
+[(c) An expenditure by a person for a communication in support of or in opposition to  a clearly
+identified candidate or measure that is made with  the cooperation or with the prior consent of, or in
+consultation with, or at the request  or suggestion of, a candidate or any agent or authorized committee
+of the candidate, or any political committee or agent of a political committee supporting or  opposing a
+measure.]
+(4) “Controlled committee” means a political committee that, in connection with  the making of
+contributions or expenditures:
+(a) Is controlled directly or indirectly by a candidate or a controlled committee; or
+(b) [ Acts jointly with ] Is established, financed or maintained by  a candidate or controlled
+committee.
+(5) “Controlled directly or indirectly by a candidate” means:
+(a) The candidate,  the candidate’s agent, a member of the candidate’s immediate family or any
+other political committee that the candidate  controls has a significant influence on the actions or
+decisions of the political committee; or
+(b) The candidate’s  principal campaign committee and the political committee both have the
+candidate or a member of the candidate’s immediate family as a treasurer or director.
+(6) “County clerk” means the county clerk or the county official in charge of elections.
+(7) “Election cycle” means a two-year period starting on January 1 of  an odd-numbered
+year and ending on December 31 of the following even-numbered year.
+[(7)] (8) “Elector” means an individual qualified to vote under Article II, section 2, of the Oregon
+Constitution.
+[(8)] (9) [Except as provided in ORS 260.007, ] “Expend” or [ “expenditure” ] “expenditure,” except
+as otherwise  provided in ORS 260.007 and 260.118,  includes the payment or furnishing of money
+or anything of value or the incurring or repayment of indebtedness or  obligation by or on behalf
+of a candidate, political committee or person in consideration  for any services, supplies, equipment
+or other thing of value performed or furnished for any reason, including  support of or opposition to
+a candidate, political committee or measure, or for reducing the debt of a candidate for  nomination
+or election to public office. “Expenditure” also includes contributions made  by a candidate or pol-
+itical committee to or on behalf of any other candidate or political committee.
+[(9)] (10) “Filing officer” means:
+(a) The Secretary of State  regarding:
+(A) [ Regarding] A candidate for public office;
+(B) [ Regarding] A statement required to be filed under ORS 260.118;
+(C) [ Regarding] Any measure; or
+(D) [ Regarding] Any political committee.
+(b) In the case of an irrigation district formed under ORS chapter 545[ , “filing officer” means ]:
+(A) The county clerk, regarding any candidate for office or any measure at  an irrigation district
+formation election where the proposed district is situated wholly in one county;
+(B) The county clerk  of the county in which the office of the secretary of the proposed irrigation
+district  will  be located, regarding any candidate for office or any measure at an irrigation district
+formation election where the proposed district is situated in more than one county; or
+(C) The secretary of the irrigation district for any election other than an  irrigation district
+formation election.
+[(10)] (11) “Independent expenditure” means an expenditure by  a person for a communication in
+support of or in opposition to a clearly identified candidate  or measure that is not made with the
+cooperation or with the prior consent of, or in consultation with, or at the request  or suggestion
+Enrolled House Bill 4018 (HB 4018-B) Page 16
+of, a candidate or any agent or authorized committee of  the candidate, or any political committee
+or agent of a political committee supporting or opposing  a measure. For purposes of this subsection
+[and subsection (3) of this section ]:
+(a) “Agent” means any person [ who] that has:
+(A) Actual oral or written authority, either express or implied, to make or to authorize the
+making of expenditures on behalf of a candidate or on behalf of a  political committee supporting or
+opposing a measure; or
+(B) Been placed in a position within the campaign organization  where it would reasonably ap-
+pear that in the ordinary  course of campaign-related activities the person may authorize expendi-
+tures.
+(b)(A) “Clearly identified” means, with respect to candidates:
+(i) The name of the candidate involved appears;
+(ii) A photograph or drawing of the candidate appears; or
+(iii) The identity of the candidate is apparent by unambiguous reference.
+(B) “Clearly identified” means, with respect to measures:
+(i) The ballot number of the measure appears;
+(ii) A description of the measure’s subject or effect appears; or
+(iii) The identity of the measure is apparent by unambiguous reference.
+(c) “Communication in support of or in opposition to  a clearly identified candidate or
+measure” means:
+(A)(i) The communication, when  taken as a whole and with limited reference to external events,
+such as the proximity to the election, could only be interpreted by a reasonable person as containing
+advocacy  for  the election or defeat of a clearly identified candidate for nomination or election to
+public office, or the passage or defeat of a clearly identified measure; and
+(ii) The electoral portion of the communication is unmistakable, unambiguous and suggestive of
+only one meaning; or
+(B)(i) The communication involves aggregate expenditures of more than $250 by a person;
+(ii) The communication refers to a clearly identified candidate  or measure that will appear on
+the ballot or to a political party; and
+(iii) The communication is published and disseminated to the relevant electorate within  60 cal-
+endar days before a primary election, 120 calendar days  before a general election or 90 calendar
+days before an election other than a primary election or a general election.
+(d) “Made with the cooperation or with the prior consent  of, or in consultation with, or at the
+request or suggestion of, a  candidate or any agent or authorized committee of the candidate, or any
+political committee or agent of a political committee supporting or opposing a measure”:
+(A) Means any  arrangement, coordination or direction by the candidate or the candidate’s agent,
+or by any political committee or agent of a political committee supporting  or opposing a measure,
+prior to the publication, distribution, display or  broadcast of the communication. An expenditure
+shall be presumed to be so made when it is:
+(i) Based on nonpublic information about the plans, projects or  needs of the candidate, or of the
+political committee supporting or opposing a measure, and provided to the expending person  by the
+candidate or by the  candidate’s agent, or by any political committee or agent of a political com-
+mittee supporting or opposing a measure, with a view toward having an expenditure made; or
+(ii) Made by or through any person [ who] that is or , not more than 120 days preceding the
+expenditure, has been :
+(I) Authorized to raise or expend funds ;[, who is or has been ]
+(II) An officer of a political committee authorized by the candidate or by a  political committee
+or agent of a political committee supporting or opposing a measure[ , or who is or has been ]; or
+(III) Receiving any form of compensation or reimbursement from the candidate, the  candidate’s
+principal  campaign  committee or agent or from any political committee or agent of a political com-
+mittee supporting or opposing a measure.
+Enrolled House Bill 4018 (HB 4018-B) Page 17
+(B) Does not mean providing to the expending  person upon request a copy of this chapter or any
+rules adopted by the Secretary of State relating to independent expenditures.
+(12) “Independent expenditure-only political committee” means  a political committee that
+solicits and receives  contributions exclusively for the purpose of making independent ex-
+penditures.
+[(11)] (13) “Initiative petition” means a petition to initiate a measure for  which a prospective
+petition has been filed but that is not yet a measure.
+[(12)] (14) “Judge” means judge of the Supreme Court, Court of  Appeals, circuit court or the
+Oregon Tax Court.
+(15) “Legislative caucus  political committee” means a political committee established by
+a caucus of a  political party in the Senate or House of Representatives that is controlled by
+an elected leader of the caucus that established the committee and that  supports or opposes:
+(a) One or more candidates; or
+(b) All candidates affiliated with a major political party or minor political party.
+(16) “Major political party” means a political party that has qualified  as a major political
+party under ORS 248.006.
+[(13) “Mass mailing” means more than 200 substantially similar pieces of  mail, but does not in-
+clude a form letter or other  mail that is sent in response to an unsolicited request, letter or other in-
+quiry.]
+[(14)] (17) “Measure” includes any of the following submitted to the people for their  approval
+or rejection at an election:
+(a) A proposed law.
+(b) An Act or part of an Act of the Legislative Assembly.
+(c) A revision of or amendment to the Oregon Constitution.
+(d) Local, special or municipal legislation.
+(e) A proposition or question.
+(18) “Measure political committee” means a political committee that exclusively  supports
+or opposes one or more measures.
+(19) “Membership organization” means an organization that:
+(a)(A) Is tax exempt under section 501(c) of the Internal Revenue Code;
+(B) Has filed all necessary materials to obtain  tax exempt status under section 501(c) of
+the Internal Revenue Code with the federal Internal Revenue Service  and has been in exist-
+ence for not less than 18 months; or
+(C) Is fiscally sponsored by an organization that is tax exempt under  section 501(c) of the
+Internal Revenue Code; and
+(b) Is composed of members, either individuals or entities, that:
+(A) Have taken action to join the organization; and
+(B) For each year of membership, on an annual or  more frequent basis, either pay
+membership dues, make a donation as  a condition of maintaining membership in the organ-
+ization or volunteer time as a condition of maintaining membership in the organization.
+(20) “Membership organization political committee” means a political committee  that has
+been established by a membership organization.
+(21) “Minor political party” means a political  party that has qualified as a minor political
+party under ORS 248.008.
+(22) “Multicandidate political  committee” means a political committee that exclusively
+supports or opposes:
+(a) One or more candidates; or
+(b) All candidates affiliated with a major or minor political party.
+[(15)] (23) “Occupation” means:
+(a) The nature of an individual’s principal business; and
+(b) If the individual is employed by another person, the business name and address, by city and
+state, of the employer.
+Enrolled House Bill 4018 (HB 4018-B) Page 18
+[(16)] (24) “Person” means  an individual, corporation, limited liability company, labor organiza-
+tion, association, firm, partnership, joint stock  company, club, organization or other combination of
+individuals having collective capacity.
+[(17)] (25) “Petition committee” means  an initiative, referendum or recall petition committee
+organized under ORS 260.118.
+[(18)] (26) “Political committee” means a combination of two or more individuals, or a  person
+other than an individual, that has:
+(a) Received a contribution for the  purpose of supporting or opposing a candidate, measure or
+political party; or
+(b) Made an expenditure for the purpose of supporting or opposing a  candidate, measure or
+political party. For purposes of this paragraph, an expenditure does not include:
+(A) A contribution to a candidate or political committee that is  required to report the contrib-
+ution on a statement filed under ORS 260.057 or 260.076 or a certificate filed under  ORS 260.112;
+or
+(B) An independent expenditure for which a statement is required to  be filed by a person under
+ORS 260.044.
+(27) “Political party multicandidate committee” means a political committee that:
+(a) Operates on a statewide basis;
+(b) Qualifies as a multicandidate political committee; and
+(c)(A) Represents a major or minor political party; or
+(B) Is established under the bylaws of a major or minor political party.
+[(19)] (28) “Public office” means any national, state, county, district, city office  or position, ex-
+cept a political party office, that is filled by the electors.
+(29) “Recall election” means an election at which a holder of public office is subject  to a
+recall by the electors of the jurisdiction the holder of public office represents.
+[(20)] (30) “Recall petition” means a petition to  recall a public officer for which a prospective
+petition has been filed but that is not yet a measure.
+(31) “Recall political committee”  means a political committee that supports or opposes
+the recall of a holder of public office for which a prospective petition has been certified  to
+the ballot.
+[(21)] (32) “Referendum petition” means a petition to refer a measure for which a prospective
+petition has been filed but that is not yet a measure.
+[(22)] (33) “Regular district election” means the  regular district election described in ORS
+255.335.
+(34) “Small donor political committee” means a political committee that:
+(a) Registers as a small donor political committee;
+(b) Prior to registering as a small donor political  committee has not accepted a contrib-
+ution in excess of the contribution  limits for small donor political committees set forth in
+ORS 260.014; and
+(c) While operating as a small donor political committee,  complies with the limits on
+accepting contributions under ORS 260.014.
+[(23)] (35) “State office” means the office of Governor, Secretary of State, State Treasurer, At-
+torney General, Commissioner of the Bureau of Labor and Industries, state Senator, state  Repre-
+sentative, judge or district attorney.
+SECTION 11.
+ ORS 260.005, as amended by section  10, chapter 9, Oregon Laws 2024, and section
+10 of this 2026 Act, is amended to read:
+260.005. As used in this chapter:
+(1) “Business income” means:
+(a) Funds received by a person in commercial transactions in the ordinary course of the
+person’s regular trade, business or investments;
+(b) Membership or  union dues paid to the person, except dues exceeding $5,000 from any
+person in a calendar year; and
+Enrolled House Bill 4018 (HB 4018-B) Page 19
+(c) Contributions or donations paid to the person, except contributions or donations  ex-
+ceeding $5,000 from any person in a calendar year.
+[(1)(a)] (2)(a) “Candidate” means:
+(A) An individual whose name is printed on a ballot, for whom a  declaration of candidacy,
+nominating petition or certificate of nomination to public office has been filed or whose name  is
+expected to be or has been presented, with the individual’s consent, for nomination  or election to
+public office;
+(B) An individual who has solicited or received and accepted a contribution, made an expendi-
+ture, or given consent to an  individual, organization, political party or political committee to solicit
+or receive and accept a contribution  or make an expenditure on the individual’s behalf to secure
+nomination or election to any public office at any time, whether or  not the office for which the in-
+dividual will seek nomination or election  is known when the solicitation is made, the contribution
+is received and retained or the expenditure is made, and whether or not the name of  the individual
+is printed on a ballot; or
+(C) A public office holder against whom a recall petition has been completed and filed.
+(b) Except as provided in ORS 260.532  to 260.715, for purposes of this chapter, “candidate” does
+not include a candidate for the office of precinct committeeperson.
+[(2)] (3) “Committee director” means any person [ who] that  directly and  substantially partic-
+ipates in decision-making on behalf of a political committee concerning the solicitation  or expendi-
+ture of funds and the support of or opposition to candidates or measures. The officers of a  political
+party are  considered to be the directors of any political party multicandidate committee of that
+party, unless otherwise provided in the party’s bylaws.
+[(3)] (4) “Contribute” or “contribution,” except as  otherwise provided in ORS 260.007 and
+260.118, includes:
+(a) The payment, loan, gift, forgiving  of indebtedness, or furnishing without equivalent compen-
+sation or  consideration, of money, services other than personal services for which no compensation
+is asked or given, supplies, equipment or any other thing of value:
+(A) For the purpose of influencing an election for public office or  an election on a measure, or
+of reducing the debt of a candidate for  nomination or election to public office or the debt of a pol-
+itical committee; and
+(B) To or on behalf of a candidate, political committee or measure.
+(b) The excess value of a  contribution made for compensation or consideration of less than
+equivalent value.
+[(4)] (5) “Controlled committee”  means a political committee that, in connection with the making
+of contributions or expenditures:
+(a) Is controlled directly or indirectly by a candidate or a controlled committee; or
+(b) Is established, financed or maintained by a candidate or controlled committee.
+[(5)] (6) “Controlled directly or indirectly by a candidate” means:
+(a) The candidate,  the candidate’s agent, a member of the candidate’s immediate family or any
+other political committee that the candidate  controls has a significant influence on the actions or
+decisions of the political committee; or
+(b) The candidate’s  principal campaign committee and the political committee both have the
+candidate or a member of the candidate’s immediate family as a treasurer or director.
+[(6)] (7) “County clerk” means the county clerk or the county official in charge of elections.
+[(7)] (8) “Election cycle” means a two-year period starting on January 1  of an odd-numbered
+year and ending on December 31 of the following even-numbered year.
+[(8)] (9) “Elector” means an individual qualified to vote under Article II, section 2, of the Oregon
+Constitution.
+[(9)] (10) “Expend” or “expenditure,” except as  otherwise provided in ORS 260.007 and 260.118,
+includes the payment or furnishing of money or anything of value or the incurring or repayment  of
+indebtedness or obligation by or on  behalf of a candidate, political committee or person in consid-
+eration for any services, supplies, equipment or other thing of value performed  or furnished for any
+Enrolled House Bill 4018 (HB 4018-B) Page 20
+reason, including support of or opposition to  a candidate, political committee or measure, or for
+reducing  the  debt of a candidate for nomination or election to public office. “Expenditure” also
+includes contributions made by a candidate or political  committee to or on behalf of any other
+candidate or political committee.
+[(10)] (11) “Filing officer” means:
+(a) The Secretary of State regarding:
+(A) A candidate for public office;
+(B) A statement required to be filed under ORS 260.118;
+(C) Any measure; or
+(D) Any political committee.
+(b) In the case of an irrigation district formed under ORS chapter 545:
+(A) The county clerk, regarding any candidate for office or any measure at  an irrigation district
+formation election where the proposed district is situated wholly in one county;
+(B) The county clerk  of the county in which the office of the secretary of the proposed irrigation
+district  will  be located, regarding any candidate for office or any measure at an irrigation district
+formation election where the proposed district is situated in more than one county; or
+(C) The secretary of the irrigation district for any election other than an  irrigation district
+formation election.
+[(11)] (12) “Independent expenditure” means an expenditure by  a person for a communication in
+support of or in opposition to a clearly identified candidate  or measure that is not made with the
+cooperation or with the prior consent of, or in consultation with, or at the request  or suggestion
+of, a candidate or any agent or authorized committee of  the candidate, or any political committee
+or agent of a political committee supporting or opposing a measure. For purposes of this subsection:
+(a) “Agent” means any person that has:
+(A) Actual oral or written authority, either express or implied, to make or to authorize the
+making of expenditures on behalf of a candidate or on behalf of a  political committee supporting or
+opposing a measure; or
+(B) Been placed in a position  within the campaign organization where it would reasonably ap-
+pear that in the ordinary course of campaign-related activities the  person may authorize expendi-
+tures.
+(b)(A) “Clearly identified” means, with respect to candidates:
+(i) The name of the candidate involved appears;
+(ii) A photograph or drawing of the candidate appears; or
+(iii) The identity of the candidate is apparent by unambiguous reference.
+(B) “Clearly identified” means, with respect to measures:
+(i) The ballot number of the measure appears;
+(ii) A description of the measure’s subject or effect appears; or
+(iii) The identity of the measure is apparent by unambiguous reference.
+(c) “Communication in support of or  in opposition to a clearly identified candidate or
+measure” means:
+(A)(i) The communication, when  taken as a whole and with limited reference to external events,
+such as the proximity to the election, could only be interpreted by a reasonable person as containing
+advocacy for the election or defeat of a clearly identified candidate for nomination or election  to
+public office, or the passage or defeat of a clearly identified measure; and
+(ii) The electoral portion of the communication is unmistakable, unambiguous and suggestive of
+only one meaning; or
+(B)(i) The communication involves aggregate expenditures of more than $250 by a person;
+(ii) The communication refers to a clearly  identified candidate or measure that will appear on
+the ballot or to a political party; and
+(iii) The communication  is published and disseminated to the relevant electorate within 60 cal-
+endar days before a primary election, 120 calendar  days before a general election or 90 calendar
+days before an election other than a primary election or a general election.
+Enrolled House Bill 4018 (HB 4018-B) Page 21
+(d) “Made with the cooperation or with the prior  consent of, or in consultation with, or at the
+request or suggestion of, a  candidate or any agent or authorized committee of the candidate, or any
+political committee or agent of a political committee supporting or opposing a measure”:
+(A) Means any  arrangement, coordination or direction by the candidate or the candidate’s agent,
+or by any political committee  or agent of a political committee supporting or opposing a measure,
+prior to the publication, distribution, display or  broadcast of the communication. An expenditure
+shall be presumed to be so made when it is:
+(i) Based on nonpublic  information about the plans, projects or needs of the candidate, or of the
+political committee supporting or opposing a measure, and provided to the expending person  by the
+candidate or by the candidate’s agent, or by any political committee or agent of  a political com-
+mittee supporting or opposing a measure, with a view toward having an expenditure made; or
+(ii) Made by or through any person that is or, not more than 120 days preceding the expenditure,
+has been:
+(I) Authorized to raise or expend funds;
+(II) An officer of a political  committee authorized by the candidate or by a political committee
+or agent of a political committee supporting or opposing a measure; or
+(III) Receiving any form of compensation or reimbursement from the  candidate, the candidate’s
+principal campaign committee or agent or from any political committee or agent of a political  com-
+mittee supporting or opposing a measure.
+(B) Does not mean providing to the expending  person upon request a copy of this chapter or any
+rules adopted by the Secretary of State relating to independent expenditures.
+[(12)] (13) “Independent expenditure-only political committee” means a political committee  that
+solicits and receives contributions exclusively for the purpose of making independent expenditures.
+[(13)] (14) “Initiative petition” means a petition to initiate a measure for  which a prospective
+petition has been filed but that is not yet a measure.
+[(14)] (15) “Judge” means judge of the Supreme Court, Court of  Appeals, circuit court or the
+Oregon Tax Court.
+[(15)] (16) “Legislative caucus  political committee” means a political committee established by
+a caucus of  a political party in the Senate or House of Representatives that is controlled by an
+elected leader of the caucus that established the committee and that supports or opposes:
+(a) One or more candidates; or
+(b) All candidates affiliated with a major political party or minor political party.
+[(16)] (17) “Major political party” means a political party that  has qualified as a major political
+party under ORS 248.006.
+[(17)] (18) “Measure” includes any of the following submitted to the people for their  approval
+or rejection at an election:
+(a) A proposed law.
+(b) An Act or part of an Act of the Legislative Assembly.
+(c) A revision of or amendment to the Oregon Constitution.
+(d) Local, special or municipal legislation.
+(e) A proposition or question.
+[(18)] (19) “Measure political committee” means  a political committee that exclusively supports
+or opposes one or more measures.
+[(19)] (20) “Membership organization” means an organization that:
+(a)(A) Is tax exempt under section 501(c) of the Internal Revenue Code;
+(B) Has filed all necessary materials to obtain tax exempt status  under section 501(c) of the
+Internal Revenue Code with the federal Internal Revenue Service and has been  in existence for not
+less than 18 months; or
+(C) Is fiscally sponsored by an organization that is  tax exempt under section 501(c) of the
+Internal Revenue Code; and
+(b) Is composed of members, either individuals or entities, that:
+(A) Have taken action to join the organization; and
+Enrolled House Bill 4018 (HB 4018-B) Page 22
+(B) For each year  of membership, on an annual or more frequent basis, either pay membership
+dues, make a donation as a condition of maintaining membership in the organization or  volunteer
+time as a condition of maintaining membership in the organization.
+[(20)] (21) “Membership organization political committee” means a  political committee that has
+been established by a membership organization.
+[(21)] (22) “Minor political party” means a political  party that has qualified as a minor political
+party under ORS 248.008.
+[(22)] (23) “Multicandidate political committee”  means a political committee that exclusively
+supports or opposes:
+(a) One or more candidates; or
+(b) All candidates affiliated with a major or minor political party.
+[(23)] (24) “Occupation” means:
+(a) The nature of an individual’s principal business; and
+(b) If the individual is employed by another person, the business name and address, by city and
+state, of the employer.
+(25) “Original source  of funds” means business income or personal funds and the person
+that earned or received the business income or personal funds.
+[(24)] (26) “Person” means  an individual, corporation, limited liability company, labor organiza-
+tion, association, firm, partnership, joint stock  company, club, organization or other combination of
+individuals having collective capacity.
+(27) “Personal funds” means income received by an individual as salary or  wages, other
+earned income from bona  fide employment, interest, dividends, royalties or proceeds from
+an individual’s personal investments, bequests and income from testamentary trusts or other
+trusts established by bequest. “Personal  funds” does not include any funds received from
+any person for the purpose of influencing an election.
+[(25)] (28) “Petition committee” means  an initiative, referendum or recall petition committee
+organized under ORS 260.118.
+[(26)] (29) “Political committee” means a combination of two or more individuals, or a  person
+other than an individual, that has:
+(a) Received a contribution for the  purpose of supporting or opposing a candidate, measure or
+political party; or
+(b) Made an expenditure for the purpose of supporting or opposing a  candidate, measure or
+political party. For purposes of this paragraph, an expenditure does not include:
+(A) A contribution to a candidate or political committee that is  required to report the contrib-
+ution on a statement filed under ORS 260.057 or 260.076 or a certificate filed under  ORS 260.112;
+or
+(B) An independent expenditure for which a statement is required to  be filed by a person under
+ORS 260.044.
+[(27)] (30) “Political party multicandidate committee” means a political committee that:
+(a) Operates on a statewide basis;
+(b) Qualifies as a multicandidate political committee; and
+(c)(A) Represents a major or minor political party; or
+(B) Is established under the bylaws of a major or minor political party.
+[(28)] (31) “Public office” means any national, state, county, district, city office  or position, ex-
+cept a political party office, that is filled by the electors.
+[(29)] (32) “Recall election” means an election at which a holder of public office is subject to  a
+recall by the electors of the jurisdiction the holder of public office represents.
+[(30)] (33) “Recall petition” means a petition to  recall a public officer for which a prospective
+petition has been filed but that is not yet a measure.
+[(31)] (34) “Recall political committee” means a political committee that supports or  opposes the
+recall of a holder of public office for which a prospective petition has been certified to the ballot.
+Enrolled House Bill 4018 (HB 4018-B) Page 23
+[(32)] (35) “Referendum petition” means a petition to refer a measure for which a prospective
+petition has been filed but that is not yet a measure.
+[(33)] (36) “Regular district election” means the  regular district election described in ORS
+255.335.
+[(34)] (37) “Small donor political committee” means a political committee that:
+(a) Registers as a small donor political committee;
+(b) Prior to registering as a small donor political committee has not accepted  a contribution in
+excess of the contribution limits for small donor political committees set forth in ORS 260.014; and
+(c) While operating as a small donor  political committee, complies with the limits on accepting
+contributions under ORS 260.014.
+[(35)] (38) “State office” means the office of Governor, Secretary of State, State Treasurer,  At-
+torney  General,  Commissioner of the Bureau of Labor and Industries, state Senator, state Repre-
+sentative, judge or district attorney.
+SECTION 12.
+Sections 13 and 14 of this 2026 Act are added to and made a part of ORS
+chapter 260.
+SECTION 13. (1)(a) For purposes of the amounts described in ORS 260.014, contributions
+made or received by multiple political  committees are considered to be made or received by
+a single political committee if the political committees:
+(A) Have filed to operate as the same type  of political committee under ORS 260.042; and
+(B) Are  established, financed, maintained or controlled by the same person, or substan-
+tially the same group of persons, including any parent,  subsidiary, branch, division, depart-
+ment or local unit of the person or group of persons.
+(b) Notwithstanding paragraph (a)  of this subsection, independent businesses, entities,
+affiliates or local groups of any structure operating under the same  corporate family or
+umbrella organization may not be considered established, financed, maintained or controlled
+by the same person or within the same group of persons if the  independent businesses, en-
+tities, affiliates or local groups have the  authority to make independent decisions as to which
+candidate, if any, to support or oppose.
+(c) Notwithstanding paragraph (a) of this subsection, having the same person  acting as
+the treasurer of two or more political committees is not,  by itself, sufficient to consider
+contributions made by the  political committees to be contributions made or received by a
+single political committee.
+(2)(a) For purposes of the amounts described in  ORS 260.014, contributions made by
+multiple persons are considered to be made or received by a  single person if the persons are
+established, financed, maintained or controlled by:
+(A) The same person; or
+(B) Substantially the same group of  persons, including any parent, subsidiary, branch,
+division, department or local unit of the person or group of persons.
+(b) For purposes of the consideration under paragraph (a)  of this subsection, the pres-
+ence of either or both factors described in paragraph (a)(A) and (B)  of this subsection is not
+sufficient unless the person was established for the sole purpose of evading  the contribution
+limits set forth in ORS 260.014.
+(c) The determination under paragraph (b) of this subsection of whether a person  was
+established for  the sole purpose of evading contribution limits must be based on an investi-
+gation by the  Secretary of State following the filing of a complaint in accordance with the
+process set forth in ORS 260.345.
+(3)(a) Clubs, societies, associations, organizations  or anonymous limited liability compa-
+nies may not make contributions to a  candidate or the principal campaign committee of a
+candidate.
+(b) This subsection does not apply to a membership organization.
+SECTION 14.
+(1) A foreign national, foreign corporation or foreign entity  may not, di-
+rectly or indirectly, make or offer to make:
+Enrolled House Bill 4018 (HB 4018-B) Page 24
+(a) A contribution to a candidate;
+(b) An expenditure; or
+(c) A donation or contribution  used by an entity to pay for candidate campaign inde-
+pendent expenditures.
+(2)(a) As used in this section, “foreign national” means a  foreign principal, as defined in
+22 U.S.C. 611(b).
+(b) “Foreign national” does not include any individual who is:
+(A) A citizen of the United States;
+(B) A national of the United States; or
+(C) Lawfully admitted for permanent residence in the United States.
+SECTION 15.
+ ORS 260.059 is amended to read:
+260.059. [(1) The Secretary of State by rule shall adopt an addition  to the electronic filing system
+described in ORS 260.057 to be used by: ]
+[(a) Membership organizations; ]
+[(b) Persons; and ]
+[(c) Any combination of organizations or persons that has a collective capacity  and that is legally
+separate from other persons and that makes independent expenditures. ]
+[(2) The electronic filing system addition described in this section shall be used by entities  de-
+scribed in subsection (1) of  this section to report the original source of funds used to pay for candidate
+campaign independent expenditures, to promote transparency and accountability to voters. ]
+[(3) Once an entity subject to this section has spent an aggregate of $50,000 on  candidate campaign
+independent expenditures in an election cycle, the entity must disclose the name of  each person that has
+contributed $5,000 or more during the election cycle and the original source of funds  used for the
+contribution. In identifying persons that have made aggregate donations of $5,000  or more per election
+cycle, the entity may exclude: ]
+[(a) Donations  received from an affiliated charitable organization that is tax exempt under section
+501(c)(3) of the Internal Revenue Code; ]
+[(b) Donations and grants received from foundations and other persons  that may not be used to
+make a communication in support of or in opposition to a clearly identified candidate; and ]
+[(c) Donations received  from a source that demonstrates to the Secretary of State that there is a
+reasonable probability that  public knowledge of the identity of the source would subject the source or
+the family of the source to serious risk of physical harm. ]
+[(4) An entity described  in subsection (3) of this section must disclose the original source of funds
+of the full amount spent on the entity’s aggregate independent expenditures. ]
+[(5) Donations from donors who have contributed less than $5,000 during  the election cycle may
+be aggregated and  reported on a “Miscellaneous Under $5,000” category on the electronic filing system
+addition.]
+[(6)(a) Each donor that is separately reported under subsection (3)  of this section and that spends
+an aggregate of $50,000 on independent expenditures in an election cycle must also report the  original
+source of funds used for the donation. ]
+[(b) If and to the extent a donor serves as a pass-through or intermediary for the  original source
+of the funds, both the pass-through or intermediary and the original source of  funds shall be
+reported.]
+[(c) For purposes of this section and ORS 260.061 and 260.266: ]
+[(A) “Business income” means: ]
+[(i) Funds received by a person in commercial transactions in the ordinary  course of the person’s
+regular trade, business or investments; ]
+[(ii) Membership or  union dues paid to the person, except dues exceeding $5,000 from any person
+in a calendar year; and ]
+[(iii) Contributions or  donations paid to the person, except contributions or donations exceeding
+$5,000 from any person in a calendar year. ]
+Enrolled House Bill 4018 (HB 4018-B) Page 25
+[(B) “Original source of funds” means business  income or personal funds and the person that
+earned or received the business income or personal funds. ]
+[(C) “Personal funds”  means income received by an individual as salary or wages, other earned
+income from bona fide employment, interest, dividends, royalties  or proceeds from an individual’s per-
+sonal investments, bequests  and income from testamentary trusts or other trusts established by bequest.
+“Personal  funds”  does not include any funds received from any person for the purpose of influencing
+an election. ]
+(1) The Secretary of State by rule shall provide for the use of  the electronic filing system
+adopted under ORS 260.057 by a covered person in accordance with this section.
+(2) To promote  transparency and accountability, a covered person shall use the electronic
+filing system adopted under  ORS 260.057 to report the original source of funds used to pay
+for candidate campaign independent expenditures.
+(3) Upon making candidate campaign independent expenditures in an aggregate of $50,000
+in an election cycle, a covered person shall disclose:
+(a)(A) Except as provided under subsection  (5)(a) of this section, the name of each person
+that has donated or contributed not  less than $5,000 to the covered person during the
+election cycle; and
+(B) The aggregate amount of donations or contributions received by the covered person
+from all persons that have each donated or contributed not more than $5,000; and
+(b) The original source of funds for donations or contributions to the covered person in
+an amount equal to the total amount spent on the aggregate candidate campaign independent
+expenditures by the covered person.
+(4) Notwithstanding subsection (3) of this section, a covered person that is not a political
+committee shall disclose donations or contributions to  the covered person in an amount
+equal only to the total amount of candidate campaign  independent expenditures made by the
+covered person.
+(5)(a) Donations or contributions from any  person that has donated or contributed not
+more than $5,000 during an election cycle  may be aggregated and reported on a “Miscella-
+neous Under $5,000” category on the electronic filing system, except that  a covered person
+may exclude from disclosure any:
+(A) Donation or contribution received from an affiliated  charitable organization that is
+tax exempt under section 501(c)(3) of the Internal Revenue Code;
+(B) Donation or grant received from a foundation  or other person that may not be used
+to make a communication in support of or in opposition to a clearly identified candidate;
+(C) Donation or contribution received  from a person that has restricted that person’s
+funds in writing from being used to make a communication in support of or in opposition  to
+a clearly identified candidate; and
+(D) Donation or contribution received from a source of funds  that demonstrates to the
+Secretary of State that there is  a reasonable probability that public knowledge of the identity
+of the source would subject the source or the family of the source to serious risk of physical
+harm.
+(b) A covered person that is not a political committee may disclose the identity of  any
+person that donated or  contributed to the covered person in the two years preceding the date
+on which the covered person made the independent expenditure.
+(6)(a) Upon the written request of  a covered person, a person that donated or contributed
+to the covered person shall disclose:
+(A) The name of and amount provided  by any person that provided the original source
+of funds  that comprises, in whole or in part, the person’s donation or contribution to the
+covered person. The names and  amounts disclosed under this subsection must equal the
+amount of the person’s total donation or contribution to the covered person.
+Enrolled House Bill 4018 (HB 4018-B) Page 26
+(B) The  name of and amount provided by any person that is not an original source of
+funds but which served as a pass-through or intermediary for funds from an original  source
+of funds.
+(b) A  person that must make the disclosure described under paragraph (a) of this sub-
+section may disclose the name of any original source of  funds that has provided funds, either
+directly or through a pass-through or intermediary entity, in the two years preceding  the
+date on which the person made donations or contributions  to the covered entity, except that:
+(A) Funds that  are identified as the original source of funds for a donation or contrib-
+ution to a covered person  may not be identified as the original source of funds for a subse-
+quent donation or contribution to that covered person or for a  donation or contribution to
+any other covered person.
+(B) The person may  not disclose the name of any person that has restricted that person’s
+funds in writing from being used to make a communication in support of or in opposition  to
+a clearly identified candidate.
+(C) The person may provide an aggregate total for any original sources of funds that
+comprise not more than $5,000 of the donation or  contribution to the covered person. The
+original sources of funds provided under this subparagraph may be aggregated and disclosed
+on a “Miscellaneous Under $5,000” category on the electronic filing system.
+(c) The Secretary  of State shall adopt rules establishing the procedure by which a cov-
+ered person may request and obtain information under this subsection.
+(7) The original sources of funds used to pay for candidate  campaign independent expenditures
+and persons associated with those original sources of  funds must be reported to the Secretary of
+State at the same time and in the same manner  as other contributions and expenditures are re-
+ported.
+(8) Prior to the start of each election cycle,  the Secretary of State shall adjust the dollar
+amounts set forth in this section [ by] based on the  cumulative change in the Consumer Price Index
+for All Urban Consumers,  West Region (All Items), as published by the Bureau of Labor Statistics
+of the United States  Department of Labor, or its successor, since 2024. The adjustments performed
+under this subsection shall be rounded to the nearest $10 increment.
+(9) The Secretary of State shall by rule establish reporting timelines and guidance for the re-
+porting of independent expenditures.
+(10) Any personally  identifying information that is required to be provided to the Secre-
+tary of State under this section is not a public record for purposes of ORS  192.311 to 192.478
+and may not be made public by the secretary. This subsection does  not apply to an
+individual’s name, residence address, occupation and the name of the individual’s employer.
+(11) For purposes of this section, “covered person”  means any person that has made in-
+dependent expenditures in an aggregated amount of not less than $50,000 in an election cycle
+for any statewide or local election.
+SECTION 16.
+ Section 14, chapter 9, Oregon Laws 2024, is amended to read:
+Sec. 14.  [ On or before January 1, 2028, ] The Secretary of State shall:
+(1) Create a web-based campaign finance dashboard that promotes transparency  and fosters re-
+search and analysis on campaign contributions, donations and expenditures in this state. The
+dashboard [ shall] must include numeric and visual representations of campaign finance activity in
+Oregon.
+(2) Update software related to campaign filings to promote transparency, efficiency and  modern
+best practices in campaign finance reporting.
+SECTION 17. The Secretary of State  shall create the dashboard, and update the software,
+described in section 14, chapter 9, Oregon Laws 2024, not later than January 1, 2032.
+SECTION 18.  ORS 260.061 is amended to read:
+260.061. (1) [For elections occurring after January 1, 2028, ] The Secretary of State shall:
+Enrolled House Bill 4018 (HB 4018-B) Page 27
+(a) At least 10 days  before each election, release on the dashboard created under section 14,
+chapter 9, Oregon Laws  2024,  a list of the 100 largest contributors to candidates or principal
+campaign committees, aggregated across all candidates.
+(b) Annually release  a visual representation of contributions by industry aggregated across all
+candidates and broken down by statewide, legislative and local office.
+(c) At least 10 days before  each election, release on the dashboard the original sources of funds
+of candidate campaign independent expenditures as required by ORS 260.059. The disclosures must
+be set forth on the dashboard [ so as ] to promote transparency with the public.
+(d) Annually display the average cost of campaigns by office  and the largest three categories for
+spending, broken down by  statewide office, legislative office, circuit court and district attorney of-
+fices and local offices.
+(2) The Secretary of  State may by rule establish other reports, data and information to be in-
+cluded on the dashboard  and the frequency with which the information is reported, except that the
+information must be reported at least annually. The secretary shall follow best practices to promote
+efficiency when establishing reporting and filing requirements.
+(3)(a) The Secretary of State shall biannually conduct a review process of:
+(A) The reporting  and filing of information required in order to comply with the disclosures and
+content required on the dashboard; and
+(B) Compliance by and the needs of stakeholders, including [ but not limited to ]:
+(i) Persons who make and  report [ donations] contributions to candidates or [ principle] principal
+campaign committees;
+(ii) Persons who make independent expenditures;
+(iii) Entities organized under section 501(c) of the Internal Revenue Code;
+(iv) Candidates; and
+(v) Media organizations.
+(b) The secretary shall report the  findings of the biannual review to the Legislative Assembly
+and may also report on  improvements undertaken or planned by the secretary based on the findings
+of the review.
+[(4) As used in this section, “dashboard”  means the web-based dashboard described in section 14,
+chapter 9, Oregon Laws 2024. ]
+SECTION 19.
+The amendments to ORS 260.061 by section 18 of this 2026 Act apply to
+elections occurring after January 1, 2032.
+SECTION 20. ORS 260.266, as amended by section 15, chapter 9, Oregon Laws  2024, is amended
+to read:
+260.266. (1)  Except as otherwise provided by a local provision, a communication in support of
+or in opposition to a clearly identified candidate must state the name of  the persons that paid for
+the communication.
+(2) For the purpose of complying with subsection (1) of this section:
+(a) Except as provided in paragraph  (b) of this subsection, a communication in support of or in
+opposition  to  a clearly identified candidate by a political committee or recall petition committee that
+costs at least $10,000 for the entire placement of  the communication and substantially similar com-
+munications must state:
+(A) The name of the political committee or petition committee; and
+(B) The names of the four persons that have made the  largest aggregate contributions of $10,000
+or more to the committee in the election cycle in which the communication is made.
+(b) A communication in support of  or in opposition to a clearly identified candidate by an indi-
+vidual, a for-profit business entity or a candidate or the principal campaign committee of a candidate
+must state the name of the individual, for-profit business entity or candidate.
+(c)(A) A communication in support  of or in opposition to a clearly identified candidate by a
+person not described in paragraph (a) or (b) of this subsection must state:
+(i) The name of the person; and
+Enrolled House Bill 4018 (HB 4018-B) Page 28
+(ii) Except as provided in subparagraph (B)  of this paragraph, the names of the four persons that
+have made the largest aggregate donations of $10,000 or more to the person in the  election cycle
+in which the communication is made.
+(B) In identifying persons that have made  aggregate donations of $10,000 or more, a person de-
+scribed in this paragraph may exclude:
+(i) Donations  received from an affiliated charitable organization that is tax exempt under section
+501(c)(3) of the Internal Revenue Code; and
+(ii) Donations and grants received from foundations and other persons  that may not be used to
+make a communication in support of or in opposition to a clearly identified candidate.
+(d) Notwithstanding paragraph (b) or (c) of this  subsection, a digital communication may state
+only the name of the person that made the communication if the digital communication includes an
+active link to a website that  prominently displays the additional information required by this sub-
+section.
+(3) If a candidate has contributed more than $20,000 to the candidate’s own campaign,  a com-
+munication subject to this section must include a statement indicating that the candidate  has con-
+tributed more than $20,000 to the candidate’s own campaign.
+(4) A person  that makes communications in support of or in opposition to a clearly identified
+candidate must consider an anonymous donation of $1,000 or more from a single person to be  a do-
+nation that may not be used to make a communication in support of or  in opposition to a clearly
+identified candidate.
+(5)(a) If a person is required to disclose the names of four persons under subsection (2)(a)(B)  or
+(c)(A)(ii)  of  this section and more than four persons qualify as having made the largest aggregate
+contributions or donations, the person shall disclose  the four applicable persons whose contributions
+or donations were made  closest to the date of initial printing or transmission of the communication.
+(b) Except as provided in paragraph  (c) of this subsection, the four persons required to be named
+under subsection (2)(a)(B) or  (c)(A)(ii) of this section must be accurate as of 10 days before the most
+recent payment to print or transmit the communication.
+(c) A person that both makes  multiple digital communications in support of or in opposition to
+a clearly identified candidate and uses the method described  in subsection (2)(d) of this section to
+meet the identification requirements of subsection (2)(a)(B) or (c)(A)(ii) of this  section, may use one
+active link to the same website for all digital communications made  by the person, provided that the
+information on the website is accurate as of 10 days before the most  recent payment to print or
+transmit a communication.
+(6) A communication in support of or in opposition to a clearly  identified candidate that costs
+at least $10,000 must include an electronic,  printed or [ aural] auditory link to the appropriate site
+on the electronic filing system described in ORS 260.057, that identifies  the original sources of funds
+to the entity that made the expenditure. The link  must be :
+(a) [ Shall be ] An active link if the communication is in digital form;  and
+(b) [ Shall be ] A printed or televised rendition of the link if the communication is in printed or
+televised form .[; and ]
+[(c) Shall be read as part of the communication if the communication is on radio or other  aural
+format. The Secretary of State  shall strive for brevity and clarity in creating links to be read under this
+paragraph.]
+(7) The Secretary of  State shall by rule provide technical specifications for the links described
+in subsection (6) of this section.
+(8) This section does not apply to:
+(a) Candidates for federal office.
+(b) Candidates other than those  described in paragraph (a) of this subsection who are not re-
+quired to use the electronic filing system adopted under ORS 260.057 to file statements  of contrib-
+utions received or expenditures made.
+(c) Petition committees that are not required to use the electronic filing  system adopted under
+ORS 260.057 to file statements of contributions received or expenditures made.
+Enrolled House Bill 4018 (HB 4018-B) Page 29
+(d) Political committees that are not required to use the electronic filing  system adopted under
+ORS 260.057 to file statements of contributions received or expenditures made.
+(e) A person that  makes independent expenditures and that is exempt under ORS 260.044 from
+being required to file statements of independent expenditures using  the electronic filing system
+adopted under ORS 260.057.
+(f) A communication that is excluded from the definition of “expenditure” under ORS 260.007.
+(g) Items of de minimis value relating to a candidate, including [ but not limited to ]:
+(A) Lawn signs, pins, pens and other similar items;
+(B) Skywriting; or
+(C) Wearable merchandise.
+(h) Any other item that the Secretary of  State by rule determines is too small to feasibly include
+the identifying information required by this section.
+(9) The Secretary of State by rule shall  prescribe the form of statements required on communi-
+cations described in this section. Rules adopted under this  subsection must ensure that the infor-
+mation required to be included in communications under this section is:
+(a) In a font, size and color that are easy for an average person to  read, if the communication
+appears in a print or digital format; and
+(b) Clearly audible to the average person, if the communication appears in an audio format.
+(10) As used in this section:
+(a) “Clearly identified” has the meaning given that term in ORS 260.005 [ (10)(b)].
+(b)(A) Except as provided  in subparagraph (B) of this paragraph, “communication in support of
+or in opposition to a clearly identified candidate” means:
+(i)(I) The  communication, when taken as a whole and with limited reference to external events,
+such as the proximity to the election, could only be interpreted by a reasonable person as containing
+advocacy for the election or defeat of a clearly identified candidate for nomination or election  to
+public office; and
+(II) The electoral portion  of the communication is unmistakable, unambiguous and suggestive
+of only one meaning; or
+(ii)(I) The communication involves aggregate expenditures by  a person of more than the amount
+provided in ORS 260.044 (1);
+(II) The communication refers to a clearly identified candidate who will appear on  the ballot;
+and
+(III) The communication is printed or transmitted to the relevant electorate within the time
+frame [ provided] for publication and dissemination described in ORS 260.005 [ (10)(c)(B)(iii)].
+(B)(i) “Communication in support of or  in opposition to a clearly identified candidate” includes
+[but is not limited to ] communications distributed via print, telephone, radio, television or the Inter-
+net.
+(ii) “Communication in support of or in opposition  to a clearly identified candidate” does not
+include newspaper editorials, printed advertisements with a fair market value  of less than $500 or
+communications made via telephone that have a fair market value of less than $500.
+(c)(A)  “Donation”  means the gift or transfer of moneys or any other item of value to a person
+subject to subsection (2)(c)(A) of this section, including any membership fees, dues or assessments.
+(B) “Donation” does not include moneys or any other item of value received by  a person subject
+to subsection (2)(c)(A)  of this section in the ordinary course of a trade or business conducted by the
+person.
+(d) “Local provision”  means a charter provision, ordinance, resolution or other provision
+adopted by a city, county or other local government.
+SECTION 21.
+ ORS 260.402 is amended to read:
+260.402. (1) A person may not  directly or indirectly reimburse a person for making a contrib-
+ution or donation,  or make a contribution or donation in any name other than that of the person
+that in truth provides the contribution or donation, to:
+Enrolled House Bill 4018 (HB 4018-B) Page 30
+(a) Any other  person, relating to a nomination or election of any candidate or the support of
+or opposition to any measure;
+(b) Any political committee;
+(c) Any entity required by ORS 260.059 to  disclose the original source of funds used to pay for
+candidate campaign independent expenditures; or
+(d) A petition committee required to file a statement under ORS 260.118.
+(2) A person may not establish an entity for the purpose of obscuring  the original source of
+funds used to pay for candidate campaign independent expenditures or evading contribution limits.
+(3) Except as provided in subsection (4) of this section, a person, political committee, petition
+committee or entity required to make a disclosure under ORS 260.059 may not knowingly receive  a
+contribution or donation prohibited under subsection (1)  of this section or enter or cause the con-
+tribution or donation to be entered in accounts or records in another name than that of  the person
+that actually provided the contribution or donation.
+(4) If a person receives  a contribution from a political committee, the person may enter the
+contribution into accounts or records as received from the political committee.
+[(5) As used in this section, “original source of funds” has the meaning given  that term in ORS
+260.059.]
+SECTION 22.
+Sections 23 to 25 of this 2026 Act are added to and  made a part of ORS
+chapter 260.
+SECTION 23. As used in sections 23 to 25 of this 2026 Act:
+(1) “Anonymous donation” means a donation for which the covered organization  does not
+possess the donor name or address that is required under section 24 of this 2026 Act.
+(2) “Covered organization” means a combination  of two or more individuals, or a person
+other than an individual, political committee,  petition committee or a not-for-profit corpo-
+ration that is  tax exempt under section 501(c)(3) of the Internal Revenue Code, that accepts
+donations and makes political communications.
+(3)(a) “Donation” means a gift or transfer  of moneys or any other item of value to a
+covered organization, including any membership fees, dues or assessments.
+(b) “Donation” does not include  moneys or any other item of value received by a covered
+organization in  the ordinary course of a trade or business conducted by the covered organ-
+ization.
+(4) “Donor” means a person that makes a donation to a covered organization.
+(5) “Election cycle” means a two-year period starting on January 1 of  an odd-numbered
+year and ending on December 31 of the following even-numbered year.
+(6) “Electioneering cost threshold for a  legislative race” means the costs for political
+communications made by  a covered organization of less than $25,000 for a candidate for a
+particular seat in the Legislative Assembly.
+(7)(a) “Electioneering cost threshold  for a measure,” except as provided in paragraphs
+(b) and (c) of this subsection, means the costs for political communications made by a cov-
+ered organization of less than $100,000 for a particular measure.
+(b) For a city measure in a city with a population of less  than 60,000, “electioneering cost
+threshold for a measure” means the costs for political communications made by a covered
+organization of less than $25,000 for a particular city measure.
+(c) For a county measure in a county with a population  of less than 60,000,
+“electioneering cost threshold for a measure” means the  costs for political communications
+made by a covered organization of less than $25,000 for a particular county measure.
+(8) “Electioneering cost threshold for a political committee” means the costs for  political
+communications made by a covered organization of less than $100,000 for a particular poli-
+tical committee.
+(9) “Electioneering cost  threshold for a statewide race” means the costs for political
+communications made by a covered organization of less than $100,000 for a  particular state
+office as defined in ORS 249.215.
+Enrolled House Bill 4018 (HB 4018-B) Page 31
+(10)(a) “Political communication” means a communication in support of  or in opposition
+to a clearly identified candidate or measure.
+(b) “Political communication” does not include a communication:
+(A) By  a covered organization to its current members, stockholders or executive or ad-
+ministrative personnel;
+(B) That constitutes lobbying as defined in ORS 171.725; or
+(C) Excluded from the definition of “expenditure” under ORS 260.007.
+SECTION 24.
+(1)(a) Except  as provided in subsection (5) of this section, a covered or-
+ganization that during an election cycle exceeds the electioneering threshold for a legislative
+race, the electioneering threshold for a measure,  the electioneering threshold for a political
+committee or the  electioneering threshold for a statewide race shall file with the Secretary
+of State an initial donor  identification list containing the name and address of and aggregate
+amount donated by each donor that donated an aggregate  amount of $10,000 or more to the
+covered organization during that election cycle.
+(b) A covered organization that is required to  file an initial donor identification list under
+this subsection shall file the list not later than seven calendar days after  the covered or-
+ganization makes a political communication that requires the  covered organization to make
+a filing under paragraph (a) of this subsection.
+(2)(a) A  covered organization that filed an initial donor identification list under sub-
+section (1) of this section shall, during that election cycle, update the  list by filing with the
+Secretary of State:
+(A) The  name and address of and aggregate amount donated by each subsequent donor
+that makes a donation or aggregate donations of $10,000 or more to the covered  organization
+during that election cycle; and
+(B) An updated amount of the aggregate donations the covered organization has received
+during the election cycle from each  donor that was previously listed on an initial donor
+identification list or updated donor identification list filed under this section.
+(b) An updated donor identification list filed under this subsection must be filed according
+to the time frame for filing a statement of independent expenditures under  ORS 260.044, ex-
+cept that the time frame for filing starts on the day that:
+(A) The dollar amount received by the  covered organization from a single donor not
+previously on the list, whether by single donation  or aggregate donations, equals $10,000 or
+more; or
+(B) The covered  organization receives an additional donation from a donor that was
+previously listed on an initial donor identification list or updated donor identification list filed
+under this section.
+(3) Each initial donor identification list  and updated donor identification list filed under
+this section must be  signed and certified as true by an authorized representative of the
+covered organization. Signatures must be  supplied in the manner specified by the Secretary
+of State by rule.
+(4) The Secretary of State shall, upon request, deliver to any  person the initial donor
+identification lists and updated donor identification lists filed under this section. If the Sec-
+retary of State receives a request under this subsection, the Secretary of  State shall deliver
+the lists not later than five days after receiving the request.
+(5) In identifying  donors that have made aggregate donations of $10,000 or more in the
+manner described in subsections (1) and (2) of  this section, a covered organization may ex-
+clude:
+(a) Donations received from an affiliated charitable organization that is tax exempt under
+section 501(c)(3) of the Internal Revenue Code; and
+(b) Donations and grants received from foundations and other donors  that may not be
+used for political communications.
+Enrolled House Bill 4018 (HB 4018-B) Page 32
+(6) A covered organization must consider an  anonymous donation of $1,000 or more from
+a single donor to be a donation that may not be used for political communications.
+(7) The Secretary of State may enact rules for the administration of this section.
+SECTION 25.
+(1) The Secretary of  State may impose a civil penalty as provided in this
+section, in addition to any other penalty that may be imposed, for failing to:
+(a) Timely file an initial donor identification list required to be filed under section  24 of
+this 2026 Act;
+(b) Timely  file an updated donor identification list required to be filed under section 24
+of this 2026 Act; or
+(c) Include all donors or amounts donated  that are required to be included in an initial
+donor identification list or an updated donor  identification list that is required to be filed
+under section 24 of this 2026 Act.
+(2)(a) For each failure to timely file an initial donor identification list that  is required to
+be filed under section 24 of this 2026 Act  for exceeding the electioneering cost threshold for
+a legislative race, the Secretary of State may impose a civil penalty not  to exceed the lesser
+of:
+(A) 10 percent per day of the total cost for  political communications made by the covered
+organization for the applicable legislative race; or
+(B) 150 percent of the total cost for political  communications made by the covered or-
+ganization for the applicable legislative race.
+(b) For each failure to timely file an initial  donor identification list that is required to
+be filed under section 24 of this 2026  Act for exceeding the electioneering cost threshold for
+a measure, the Secretary of State may impose a civil penalty not to exceed the lesser of:
+(A) 10 percent per day of the total cost for  political communications made by the covered
+organization for the applicable measure; or
+(B) 150 percent of the total cost  for political communications made by the covered or-
+ganization for the applicable measure.
+(c) For each failure to timely file an initial  donor identification list that is required to
+be filed under section 24 of this 2026 Act  for exceeding the electioneering cost threshold for
+a political committee, the Secretary of  State may impose a civil penalty not to exceed the
+lesser of:
+(A) 10 percent per day of the total cost for  political communications made by the covered
+organization for the applicable political committee; or
+(B) 150 percent of the total cost  for political communications made by the covered or-
+ganization for the applicable political committee.
+(d) For each failure to timely file an  initial donor identification list that is required to
+be filed under section 24 of this 2026 Act  for exceeding the electioneering cost threshold for
+a statewide race, the Secretary of  State may impose a civil penalty not to exceed the lesser
+of:
+(A) 10 percent per day of the total cost for  political communications made by the covered
+organization for the applicable statewide race; or
+(B) 150 percent of the total cost  for political communications made by the covered or-
+ganization for the applicable statewide race.
+(3) For each failure to accurately include the name of a donor or  the amount a donor
+donated to the covered organization in an initial donor identification  list or an updated donor
+identification list that is required to be filed under section 24 of this 2026 Act, or for  each
+failure to timely file an updated donor identification list that is required to be  filed under
+section 24 of this 2026 Act, the Secretary of State may impose a civil penalty not to exceed
+10 percent of the aggregate donations that were not properly included or filed.
+(4) Except as otherwise provided by this section, civil penalties  under this section shall
+be imposed as provided in ORS 183.745. In addition to the requirements  for a notice of right
+to a hearing under ORS 183.745, the notice shall include:
+Enrolled House Bill 4018 (HB 4018-B) Page 33
+(a) A statement of the authority and jurisdiction under which the hearing is  to be held;
+and
+(b) If the person is an agency, corporation or an unincorporated association, a  statement
+that the person must be represented by an attorney licensed in Oregon.
+(5) A hearing on whether to impose a civil penalty and to consider circumstances  in
+mitigation shall be held by the Secretary of State:
+(a) Upon request of  the person against whom the penalty may be assessed, if the request
+is made not later than the 20th day  after the date the person received notice sent under
+subsection (4) of this section; or
+(b) Upon the Secretary of State’s own motion.
+(6) The person  against whom a penalty may be assessed need not appear in person at a
+hearing held under this section,  but instead may submit written testimony or other evidence,
+sworn to before a  notary public, to the Secretary of State for entry in the hearing record.
+The testimony or other  evidence must be received by the Secretary of State not later than
+three business days before the day of the hearing and may be submitted electronically.
+(7) All hearings under this section shall be held not later than 45 days  after the deadline
+for the person against whom the penalty  may be assessed to request a hearing. However, if
+requested by the person against whom the penalty may be assessed, a hearing  under sub-
+section (5) of this section shall be held not later than 60 days after the deadline for the per-
+son against whom the penalty may be assessed to request a hearing.
+(8) The Secretary of State shall issue an order not  later than 90 days after a hearing or
+after the deadline for requesting a hearing if no hearing is held.
+(9) All penalties recovered under this section shall be paid into the State Treasury  and
+credited to the General Fund.
+(10) The Secretary of State may adopt rules for the administration of this section.
+SECTION 26.
+Sections 23 to 25 of this 2026 Act are repealed on January 2, 2031.
+SECTION 27. ORS 260.034 is added to and made a part of ORS chapter 249.
+SECTION 28. Section 29 of  this 2026 Act is added to and made a part of ORS chapter 260.
+SECTION 29. Any person that is a corporation or a labor  organization designated as tax
+exempt under section 501(c)(5)  of the Internal Revenue Code may establish or administer
+separate, segregated funds that operate as a political committee only if:
+(1) The person files a statement of organization in accordance with ORS  260.042, regis-
+tering the funds as a small donor political  committee, multicandidate political committee,
+or both, and files any statement or report that is required under this chapter;
+(2) The funds consist solely of contributions from individual employees,  officers, share-
+holders or members of the person or, if the person is  a labor organization, from individual
+membership dues paid to the person, with  the aggregate amount contributed by and attri-
+buted to each individual not to exceed the limits described in ORS 260.014; and
+(3) Any solicitation for contributions directed to employees of the person  states that the
+employee is not required to contribute and that the  employee’s decision to contribute or not
+contribute will  not affect the employee’s employment or be disclosed to the employee’s
+supervisor or manager.
+SECTION 30.  ORS 260.007 is amended to read:
+260.007. As  used in this chapter, “contribute,” “contribution,” “expend” or “expenditure” does
+not include:
+(1) Any written news story,  commentary or editorial distributed through the facilities of any
+broadcasting station, newspaper, magazine  or other regularly published publication, unless a poli-
+tical committee owns the facility.
+(2) An individual’s use of the individual’s own personal residence, including  a community room
+associated with the individual’s residence, to conduct a reception for a candidate or  political com-
+mittee and the individual’s cost of invitations, food and beverages provided at the reception.
+Enrolled House Bill 4018 (HB 4018-B) Page 34
+(3) A vendor’s sale of food and  beverages for use in a candidate’s or political committee’s cam-
+paign at a charge less than the normal comparable charge, if the  charge is at least equal to the cost
+of the food or beverages to the vendor.
+(4) Any unreimbursed payment for travel expenses  an individual, including a candidate, makes
+on behalf of a candidate or political committee.
+(5) Any loan  of money made by a financial institution as defined in ORS 706.008, other than any
+overdraft made with respect to a checking or savings account,  if the loan bears the usual and cus-
+tomary interest rate for the category of loan involved, is made on a basis that  ensures repayment,
+is evidenced by a written instrument and is subject to a due date or amortization schedule. How-
+ever, each  indorser or guarantor of the loan shall be considered to have contributed that portion
+of the total amount of the  loan for which that person agreed to be liable in a written agreement,
+except if the indorser or guarantor is the candidate’s spouse.
+(6) Nonpartisan activity designed to encourage individuals to vote or  to register to vote, in-
+cluding but not limited to activity that is allowed for a  not-for-profit corporation that is tax exempt
+under section 501(c)(3) of the Internal Revenue Code.
+(7) Any communication a membership organization or corporation makes to its  members, share-
+holders or employees if the membership organization or  corporation is not organized primarily for
+the purpose of influencing an election.
+(8) The payment of compensation for legal and accounting services rendered to a  candidate or
+political committee if the person paying for the services is the regular employer of the  individual
+rendering the services and the  services are solely for the purpose of ensuring compliance with the
+provisions of this chapter.
+(9) The payment by a state or  local committee of a political party of the costs of preparation,
+display or mailing or  other distribution incurred by the committee with respect to a printed slate
+card or  sample ballot, or other printed listing, of three or more candidates for any public office for
+which an  election is held in this state. This subsection does not apply to costs incurred by the
+committee with respect to a  display of any such listing made on broadcasting stations or in news-
+papers, magazines or similar types of general public political advertising.
+(10) A candidate debate or forum for a state office, or a communication publicizing a  candidate
+debate or forum for  a state office, when candidates for the state office are invited to participate in
+the candidate debate or forum  based on neutral criteria that are publicized in advance of the invi-
+tation.
+(11) The following nonpartisan communications  that refer to a candidate or political party
+within 30 calendar days before a primary election or 60 calendar days before a general election:
+(a) The publication of a nonpartisan voters’ guide that:
+(A) Is permitted to be published by a not-for-profit corporation  that is tax exempt under section
+501(c)(3) of the Internal Revenue Code; or
+(B) With respect to each state office referenced in the voters’ guide:
+(i) Includes information from all major political party candidates for the  state office referenced;
+or
+(ii) Offers all major political party candidates for the  state office referenced a reasonable op-
+portunity to be included in the voters’ guide.
+(b) A commercial  communication that depicts a candidate’s name, image, likeness or voice only
+in the candidate’s capacity as owner, operator or employee of  a business that existed prior to the
+candidate’s declaration of candidacy.
+(c) Official publications produced or distributed  by public employees while on the job during
+working hours.
+(d) A communication by a labor union, membership organization or corporation to  its members,
+stockholders or executive or administrative personnel.
+(e) Any other nonpartisan communication identified by the Secretary of State by rule.
+(12) Transfers of funds between a political party multicandidate committee and any  ac-
+count that is established,  financed, maintained or controlled by the committee and regulated
+Enrolled House Bill 4018 (HB 4018-B) Page 35
+by the Federal Election Campaign Act of 1971, 52 U.S.C. 30101 et seq.,  or its successor, to the
+extent the transfers are permitted under federal law.
+SECTION 31.  ORS 260.205 is amended to read:
+260.205. (1) A filing officer shall inspect each statement filed under ORS 260.044, 260.057,
+260.076, 260.083, 260.112 or 260.118 not later than the 10th business day after the filing deadline  or
+the 10th business day after the statement is filed, whichever is later.
+(2) A  filing officer immediately shall notify a person required to file a statement with the filing
+officer under ORS  260.044, 260.057, 260.076, 260.083, 260.112 or 260.118 if[ :],
+[(a)] upon examination of relevant materials, [ it appears to ] the filing officer has cause to be-
+lieve that the person has failed to file a  required statement or that a statement filed with the filing
+officer by the person is insufficient[ ; or ].
+[(b) A complaint is filed with the filing officer under subsection (3) of this section. ]
+[(3) An elector may file with a filing officer a  complaint that a statement filed with the filing officer
+is insufficient or  that a person has failed to file a required statement. The complaint shall be in writing,
+shall state in detail the reasons for  complaint and shall be filed with the filing officer not later than
+the 90th day after the date the statement of which it complains is filed or should have been filed. ]
+[(4)] (3) If , upon receiving notification under subsection (2) of this section  a person responds by
+filing a statement or submitting information to correct an insufficient statement,  the filing officer
+shall confirm whether the person’s response is  sufficient not later than [ 90] 30 days after receiving
+the response. If, within [ 90] 30 days, the filing  officer does not confirm whether a response is suffi-
+cient under this subsection, the person is not subject to civil penalty under ORS 260.232 for failure
+to file or failure to include the required information in the statement.
+SECTION 32.
+ ORS 260.205, as amended by section 31 of this 2026 Act, is amended to read:
+260.205. (1) A filing officer  shall inspect each statement filed under ORS 260.044, 260.057,
+260.076, 260.083, 260.112 or 260.118 or report made under ORS 260.059  not later than the 10th
+business day after the filing deadline or the 10th business day after the statement or report is filed,
+whichever is later.
+(2) A  filing officer immediately shall notify a person required to file a statement  or make a
+report with the filing officer  under ORS 260.044, 260.057, 260.059, 260.076, 260.083, 260.112 or
+260.118 if, upon examination of relevant  materials, the filing officer has cause to believe that the
+person has failed to file a required statement or make a required report or  that a statement or
+report filed or made with the filing officer by the person is insufficient.
+(3) If, upon receiving notification under subsection (2) of this section a person responds  by filing
+a statement [ or], making a  report or submitting information to correct an insufficient statement
+or report, the filing officer shall confirm whether the person’s response is sufficient  not later than
+30 days after receiving the response. If, within 30 days, the filing  officer does not confirm whether
+a response is sufficient under this  subsection, the person is not subject to civil penalty under ORS
+260.232 for failure to file or failure to include the required information in the statement  or report .
+SECTION 33. ORS 260.232, as amended by section 18, chapter 9, Oregon Laws  2024, is amended
+to read:
+260.232. (1) The Secretary of State may impose a civil penalty as provided  in this section, in
+addition to any other penalty that may be imposed, for:
+(a) Failure to file a statement or certificate required to be  filed under ORS 260.044, 260.057,
+260.076, 260.078, 260.083, 260.112 or 260.118.
+(b) Failure to include in  a statement filed under ORS 260.044, 260.057, 260.076, 260.078, 260.083,
+260.112 or 260.118 the information required under ORS 260.044, 260.057, 260.076, 260.083 or 260.118.
+(c) [ Failure to comply with ORS 260.009, 260.014, 260.016,  260.018, 260.059 or 260.416.] Exceeding
+the amounts described in ORS 260.014 and failing to cure  the violation within 14 days of the
+violation in the manner described in subsection (7)(c)(B) of this section.
+(2)(a) If a  person required to file has not filed a statement or certificate complying with appli-
+cable provisions of ORS 260.044, 260.057,  260.076, 260.078, 260.083, 260.085, 260.112 or 260.118 within
+the time specified in ORS 260.044, 260.057, 260.076, 260.078 or 260.118, or if a person that  has ac-
+Enrolled House Bill 4018 (HB 4018-B) Page 36
+cepted a contribution in excess of the amounts described in ORS 260.014 has failed to  cure
+the violation within 14 days of the violation in the manner  described in subsection (7)(c)(B)
+of this section,  the  Secretary of State by first class mail or electronically shall notify the person
+or elector designated under  ORS 260.042 or 260.118 that a penalty may be imposed and that the
+person has 20 days from  the service date on the notice to request a hearing before the Secretary
+of State.
+(b) If the person required to file is  a candidate or the principal campaign committee of a can-
+didate, the Secretary of State shall send the notice described in paragraph (a) of this subsection by
+first class mail or electronically to the candidate. The notice shall be  used for purposes of deter-
+mining the deadline for requesting a hearing under subsection (3) of this section.
+(3) A  hearing on whether to impose a civil penalty and to consider circumstances in mitigation
+shall be held by the Secretary of State:
+(a) Upon request of the person against  whom the penalty may be assessed, if the request is made
+not later than the 20th day after the service date on the  notice sent under subsection (2) of this
+section;
+(b) Upon request of the filing officer with  whom a statement or certificate was required to be
+filed but was not filed; or
+(c) Upon the Secretary of State’s own motion.
+(4) A hearing under subsection (3) of this section shall be held not later than  45 days after the
+deadline for the person  against whom the penalty may be assessed to request a hearing. However,
+if requested by the person against whom the penalty  may be assessed, a hearing under subsection
+(3) of  this section shall be held not later than 60 days after the deadline for the person against whom
+the penalty may be assessed to request a hearing.
+(5) The Secretary of State shall issue  an order not later than 90 days after a hearing or after
+the deadline for requesting a hearing if no hearing is held.
+(6) The person against whom a penalty may be assessed  need not appear in person at a hearing
+held under this section, but instead may submit written testimony and other evidence, sworn  to be-
+fore a notary public, to the Secretary of  State for entry in the hearing record. The testimony and
+other evidence must be received by the secretary not later than three business days before  the day
+of the hearing and may be submitted electronically.
+[(7) A person subject to this section who has filed  a late or insufficient statement of transactions
+may self-report the late or insufficient statement and pay the penalty to the Secretary of State. Upon
+receipt of a corrected statement and payment of the penalty due, the  secretary may accept and record
+the penalty without further investigation under this section.  Nothing in this subsection prevents the
+secretary from continuing to investigate noncompliance with the requirements of this section  or ORS
+260.009, 260.014, 260.016, 260.018, 260.034, 260.042, 260.044, 260.057, 260.059, 260.076, 260.078, 260.083,
+260.112, 260.118, 260.266 or 260.416.]
+[(8)] (7) A civil penalty imposed under this section may not be more than the following:
+(a) For failure to file a statement or certificate required to be filed  under ORS 260.044, 260.057,
+260.076, 260.078, 260.083, 260.112 or 260.118, 10 percent of the total amount of the contribution  or
+expenditure required to be included in the statement or certificate[ ; or ].
+(b) For each failure to include in a statement filed under  ORS 260.044, 260.057, 260.076, 260.078,
+260.083, 260.112 or 260.118 the information required under ORS  260.044, 260.057, 260.076, 260.083 or
+260.118, 10 percent of the total amount of the  contribution or expenditure required to be included
+in the statement.
+(c)(A) For each  failure to comply with the contribution amounts permitted under ORS
+260.014, the amount of the unlawful contribution plus  10 percent of the amount of the con-
+tribution. The Secretary  of State shall adopt rules establishing enhanced penalties for suc-
+cessive knowing and willful violations of ORS 260.014.
+(B) Notwithstanding subparagraph (A) of this  paragraph, a person that accepts a con-
+tribution in violation of ORS 260.014 may cure the violation by refunding the amount in ex-
+Enrolled House Bill 4018 (HB 4018-B) Page 37
+cess of the amount permitted under ORS 260.014 to the contributor not  more than 14 days
+after accepting the contribution.
+(d) For each failure to comply with ORS 260.018 (1)  and (2), the amount in excess of the
+amount permitted under ORS 260.018 plus 10 percent of the amount in excess.
+(e) For each failure  to comply with ORS 260.018 (3), the amount of the unlawful dis-
+bursement of funds.
+[(9)] (8) The Secretary of State, upon a showing of mitigating circumstances, may  reduce the
+amount of the penalty described in subsection [ (8)] (7) of this section.
+[(10)] (9) Except as otherwise provided by this section, civil penalties under this section shall
+be imposed as provided in ORS 183.745.
+SECTION 34. ORS 260.345, as amended by section 19, chapter 9, Oregon Laws  2024, is amended
+to read:
+260.345. (1) Any elector may file with  any filing officer a written complaint alleging that a vio-
+lation of an election law or  rule adopted by the Secretary of State under ORS chapters 246 to 260
+has occurred and stating the reason for believing that the violation occurred and  any evidence re-
+lating to it. A complaint and any evidence relating to  it may be filed electronically. A complaint
+alleging a violation involving the Secretary of State, a candidate for the office of  Secretary of State,
+or any political committee or person supporting the Secretary of State or a candidate  for the office
+of Secretary of State may be filed with the Attorney General.  The Secretary of State or Attorney
+General [ shall] may not accept an anonymous complaint.
+(2) The Secretary of State  by rule shall prescribe the procedure for processing a complaint filed
+with any person  other than the Secretary of State. If the complaint concerns the Secretary of State,
+any candidate for the office of the Secretary of State,  or any political committee or person sup-
+porting the candidacy of the  Secretary of State or of another person for the office of Secretary of
+State, the complaint and any additional information relating to the complaint [ shall] must be sent
+to the Attorney General. An investigation  must be commenced within 30 days of receiving the
+complaint and a finding must be issued within 60 days of receiving the complaint.
+(3) Upon receipt of a complaint  under subsection (1) or (2) of this section the Secretary of State
+or Attorney General immediately shall examine the  complaint to determine whether a violation of
+an election law or rule has occurred and shall make any investigation the Secretary of State or
+Attorney General considers necessary. Except as provided in  this subsection, within three business
+days of determining  that an investigation is necessary to determine whether a violation of an
+election law or rule has  occurred, the Secretary of State or Attorney General shall notify the person
+[who] that is the subject of the complaint that an  investigation will take place. If the Secretary of
+State or Attorney General receives a complaint or  complaints involving 10 or more individuals,
+political committees or  petition committees in any 48-hour period, the Secretary of State or Attorney
+General need not notify the persons who are the subjects of those complaints  within three business
+days of receiving the complaints  but shall notify those persons not later than 10 business days after
+determining that an investigation is necessary to determine whether a violation of election  law or
+rule has occurred.
+(4) If the Secretary of State [ believes after ] obtains evidence from  an investigation under sub-
+section (3) of this section indicating that  a violation of an election law or rule has occurred, the
+secretary:
+(a) In the case of a violation that is  subject to a penalty under ORS 260.993, immediately shall
+report the findings to the Attorney General and request prosecution. If the violation  involves the
+Attorney General, a candidate for that office or a political committee  or person supporting or op-
+posing the Attorney General or a candidate for that office, the Secretary of  State shall appoint an-
+other prosecutor for that purpose;
+(b) In the case of a violation not  subject to a penalty under ORS 260.268, 260.537 or 260.993,
+may impose a civil penalty under ORS 260.995;
+(c) In the case of a violation under ORS 260.537,  may institute civil proceedings in the manner
+described in ORS 260.537; or
+Enrolled House Bill 4018 (HB 4018-B) Page 38
+(d) In the case of a violation  under ORS 260.268, may institute civil proceedings in the manner
+described in ORS 260.268.
+(5) Upon receipt of a complaint or report under subsection (1), (2)  or (4) of this section involving
+an alleged violation subject to a penalty  under ORS 260.993 or an alleged violation of ORS 260.268
+or 260.537, the Attorney General or other prosecutor immediately  shall examine the complaint or
+report to determine  whether a violation of an election law has occurred. If the Attorney General
+or prosecutor determines that a violation has occurred, the Attorney General  or prosecutor imme-
+diately shall begin prosecution or  civil proceedings in the name of the state. The Attorney General
+or other prosecutor shall  have the same powers in any county of this state as the district attorney
+for the county.
+(6) Upon receipt of a complaint under subsection (1) or (2) of this section involving an  alleged
+violation of an election law  or rule not subject to a penalty under ORS 260.268 or 260.537 or 260.993,
+the Attorney General shall  examine the complaint to determine whether a violation of an election
+law or rule has occurred and shall make any investigation the Attorney General considers neces-
+sary. If the Attorney General [ believes] has cause to believe  after  an investigation that a violation
+of an election law or rule has occurred,  the Attorney General may impose a civil penalty under ORS
+260.995.
+(7) In the case of an alleged violation subject to a civil penalty under ORS  260.995 or an alleged
+violation of ORS 260.268 or 260.537, a complaint  [ shall] must be filed by an elector under this sec-
+tion [ no] not later than [ 90 days ] the 90th day  following  the election at which a violation of an
+election law or rule is alleged to  have occurred, or [ 90 days ] the 90th day  following the date the
+violation of an election law or rule is alleged to have occurred, whichever is later.
+(8) A filing officer [ having reason ] who has cause  to believe  that a violation of an election law
+or rule has occurred shall proceed promptly as though the officer had received a complaint. Except
+as provided  in ORS 260.234, a filing officer shall proceed under this subsection [ no] not later than
+two years  following the election at which a violation of an election law or rule is alleged to have
+occurred, or two years following the date the violation of  an election law or rule is alleged to have
+occurred, whichever is later. If a filing officer  has not [ proceeded] determined  within two years
+whether a violation occurred  because of fraud, deceit, misleading representation or the filing of-
+ficer could not have reasonably discovered the  alleged violation, the filing officer shall proceed
+[no] not later than  five years following the election at which a violation of an election law or rule
+is alleged to have occurred, or five years following the  date the violation of an election law or rule
+is alleged to have occurred, whichever is later.
+(9) In the case of a complaint alleging a violation  of the original source of funds disclosure re-
+quirements of ORS 260.059, the complainant [ shall] must be  notified of the outcome of any investi-
+gation.
+(10)(a) In the case of a complaint alleging a violation of an election  law or rule for which a civil
+penalty of greater than $10,000 may be imposed, the complainant  [ shall] must be notified of the
+outcome of any  investigation and may request an administrative hearing. If the complainant requests
+a hearing  under this subsection, a contested case hearing under ORS 183.413 to 183.470 must be
+held.
+(b) The contested case hearing officer shall prepare and issue a final order  for any contested
+case hearing held under this subsection.
+SECTION 35.
+ ORS 260.995, as amended by section 20, chapter 9, Oregon Laws  2024, is amended
+to read:
+260.995. (1) Except as provided in subsections (2)  to (4) of this section, following an investigation
+under ORS 260.345, the Secretary of State or Attorney General may impose  a civil penalty not to
+exceed $1,000 for each violation of any provision of Oregon Revised Statutes relating  to the conduct
+of any election, any rule adopted by the  secretary under ORS chapters 246 to 260 or any other
+matter preliminary to or  relating to an election, for which a civil penalty is not otherwise provided.
+(2) The secretary or the Attorney General may impose a civil penalty not to exceed:
+Enrolled House Bill 4018 (HB 4018-B) Page 39
+(a)(A) [ Except as provided in subparagraph (B) of this paragraph, ] $1,000 plus the  amount con-
+verted to personal use for each violation of ORS 260.407; or
+(B) Two times the amount of the penalty provision  for violating a nondisclosure agreement that
+is contained within each nondisclosure agreement entered into in violation of  ORS 260.407 or
+260.413;
+(b) 150 percent of the total cost of  printing, transmitting or distributing a communication in
+support of or in  opposition to a clearly identified candidate if the disclosure requirements set forth
+in ORS 260.266 are not met; or
+(c) $10,000 for  each violation of ORS 260.555, 260.558, 260.575, 260.695 (1) or (2) or 260.715 (1)
+or Article IV, section 1b, of the Oregon Constitution.
+(3)(a) Except as provided in paragraphs (b) and  (c) of this subsection, the Secretary of State or
+the Attorney  General may impose a civil penalty on the recipient of a contribution that exceeds the
+limits of ORS 260.014 [ or 260.016]. The amount of the civil penalty to be imposed [ shall] must be
+at least equal to the amount of the unlawful contribution.
+(b) The recipient of a contribution that violates the contribution limits  of ORS 260.014 [ or
+260.016] may remedy the violation by refunding to the contributor an  amount that renders the con-
+tribution in compliance with applicable contribution limits under  ORS 260.014 [ or 260.016]. [For this
+paragraph to apply, the ] A refund under this paragraph  must be made to the contributor within
+14 days of receipt of the unlawful contribution.
+(c) If paragraph (b) of this subsection does not apply, the recipient of a contribution that violates
+the contribution limits of ORS 260.014 [ or 260.016] may reduce the penalty otherwise applicable  un-
+der this subsection by 50 percent, if the recipient refunds to the contributor an amount that  renders
+the contribution in compliance  with ORS 260.014 [ or 260.016] within 14 days of the date the recipient
+reasonably should have known that the violation occurred.
+(d) The Secretary of State shall adopt rules under this subsection establishing  enhanced penal-
+ties for successive knowing and willful violations of the contribution limit provisions  of ORS 260.014
+[or 260.016].
+(4)(a) The Secretary of State or the  Attorney General may impose a civil penalty on a person
+subject to the reporting requirements of ORS  260.059 and that is violating those requirements. The
+penalty to be imposed [ shall] must be not less than one-tenth of, nor more than  four times, the total
+amount of contribution or expenditure that was not properly disclosed or disclaimed.
+(b) The Secretary  of State shall adopt rules under this subsection establishing enhanced penal-
+ties for successive knowing and willful violations of the disclosure provisions of ORS 260.059.
+(5) Except as otherwise provided by this section, civil penalties under this section shall be  im-
+posed as provided in ORS 183.745. In addition to the requirements of ORS 183.745,  the notice
+[shall] must include:
+(a) A statement of the authority and jurisdiction under which the hearing is to be held; and
+(b) If the person is an agency, corporation or an unincorporated  association, a statement that
+such person must be represented by an attorney licensed in Oregon,  unless the person is a political
+committee which may be represented by any officer identified in the most recent statement of or-
+ganization filed with the filing officer.
+(6) A  hearing on whether to impose a civil penalty and to consider circumstances in mitigation
+shall be held by the [ secretary ] Secretary of State  or Attorney General:
+(a) Upon request of the person against  whom the penalty may be assessed, if the request is made
+not later than the 20th day after the service date on the  notice sent under subsection (5) of this
+section; or
+(b) Upon the secretary’s or Attorney General’s own motion.
+(7) The person against whom a penalty may be assessed  need not appear in person at a hearing
+held under this section, but  instead may submit written testimony or other evidence, sworn to before
+a notary public, to the [ secretary ] Secretary of State  or Attorney General for entry  in the hearing
+record. The testimony or other  evidence must be received by the secretary or Attorney General not
+later than three business days before the day of the hearing and may be submitted electronically.
+Enrolled House Bill 4018 (HB 4018-B) Page 40
+(8) All hearings under this section [ shall] must be held not later  than 45 days after the deadline
+for the person  against whom the penalty may be assessed to request a hearing. However, if re-
+quested by the person against whom the penalty may be  assessed, a hearing under subsection (6)
+of this section [ shall] must be held not later than 60 days after the deadline  for the person against
+whom the penalty may be assessed to request a hearing.
+(9) The [ secretary ] Secretary of State  or Attorney General shall  issue an order not later than
+90 days after a hearing or after the deadline for requesting a hearing if no hearing is held.
+(10) All penalties recovered under this section  [shall] must be paid into the State Treasury and
+credited to the General Fund.
+(11) In the case of a civil penalty  imposed under this section for a violation of ORS 260.407, the
+person against whom the penalty is assessed:
+(a) Is personally responsible for the payment of the civil penalty;
+(b) Shall pay the civil penalty from personal funds of the person; and
+(c) May not pay the civil penalty  from contributions received by a candidate, a candidate’s
+principal campaign committee, a political committee or a petition committee.
+SECTION 36.
+ORS 260.006 is repealed on January 1, 2027.
+SECTION 37.  ORS 260.041 is amended to read:
+260.041. (1) Notwithstanding ORS 260.005 [ (18)] and except as provided in ORS 260.043,  a can-
+didate shall designate a  political committee as the candidate’s principal campaign committee. A
+candidate may designate only one political committee as the candidate’s principal campaign  com-
+mittee.
+(2) A political committee  may not be designated as the principal campaign committee of more
+than one candidate.
+SECTION 38.  ORS 260.044 is amended to read:
+260.044. (1) If  a person makes independent expenditures in a total amount of more than $250 in
+a calendar year, the person shall use the electronic filing system adopted  under ORS 260.057 to file
+with the Secretary  of State a statement of independent expenditures not later than seven calendar
+days after the total amount of independent expenditures exceeds $250 in a calendar year.
+(2) A person [ who] that files  a statement of independent expenditures under subsection (1) of
+this section shall use the electronic filing system adopted under ORS 260.057 to file with the secre-
+tary additional statements of independent expenditures made by the person,  as described in ORS
+260.083.
+(3) Except as provided in subsections (4) and (5) of  this section, a person shall file a statement
+described in subsection (2) of this  section not later than 30 calendar days after an independent ex-
+penditure is made.
+(4)(a) A person shall file a statement described in subsection (2)  of this section not later than
+seven calendar days after an independent expenditure is made. This  paragraph applies to independ-
+ent expenditures made:
+(A) During the period beginning on the 42nd calendar day before the  date of any primary
+election and ending on the date of the primary election; and
+(B) During the period beginning on the 42nd calendar day before the  date of any general
+election and ending on the date of the general election.
+(b) If the person makes an independent expenditure prior to the 42nd  calendar day before the
+date of the primary or general election and the person has not  filed a statement under subsection
+(3) of this section by the 43rd calendar day before the date of the  primary or general election, the
+person shall file a statement described in subsection (2) of  this section not later than whichever of
+the following dates occurs first:
+(A) The date required under subsection (3) of this section; or
+(B) The 35th calendar day before the date of the primary or general election.
+(5) For any special  election, the secretary by rule may establish a period during which a person
+must file a  statement described in subsection (2) of this section. The period may not extend beyond
+seven calendar days after an independent expenditure is made.
+Enrolled House Bill 4018 (HB 4018-B) Page 41
+(6) Notwithstanding ORS 260.005 [ (18)], a person [ who] that  solicits and receives  a contribution
+or contributions  is a political committee and shall file a statement of organization under ORS
+260.042 and the statements required by ORS 260.057, 260.076 or 260.078.
+(7) For purposes of this section:
+(a) An independent expenditure does not include a contribution to a candidate or  political
+committee  that  is required to report the contribution on a statement filed under ORS 260.057,
+260.076 or 260.078 or a certificate filed under ORS 260.112;
+(b) An independent expenditure  does not include a contribution to a candidate who is not re-
+quired to file a statement of organization under ORS 260.043; and
+(c) A person is not a political committee under subsection (6)  of this section if all contributions
+received by the person are:
+(A) Designated to an identified candidate or political committee;
+(B) Delivered by the person to the designated candidate or political committee not  later than
+seven business days after the contribution is received; and
+(C) Required to be reported as contributions by  a candidate or political committee on a state-
+ment filed under ORS 260.057, 260.076 or 260.078 or a certificate filed under ORS 260.112.
+SECTION 39.
+ ORS 260.083 is amended to read:
+260.083. (1)(a) For a contribution,  except as provided in ORS 260.085, a statement filed under
+ORS 260.044, 260.057, 260.076, 260.078 or 260.118 shall list:
+(A) The name, occupation and  address of each person, and the name and address of each poli-
+tical committee or petition committee, that contributed an aggregate amount of more than  $100 in
+a calendar year on behalf of a candidate or to a  political committee or petition committee and the
+total amount contributed by that person or committee; and
+(B) The total amount of other  contributions as a single item, but shall specify how those con-
+tributions were obtained.
+(b) For an expenditure, including an independent expenditure, a statement  filed under ORS
+260.044, 260.057, 260.076, 260.078 or 260.118 shall list:
+(A) The amount and purpose of each expenditure made in  an aggregate amount of more than
+$100 to a payee, the name  or, if applicable, the business name of the payee of the expenditure, and
+the city,  or county if the payee is not located in a city, and state in which the payee is located; and
+(B) The total amount of other expenditures as a single item.
+(c) For each loan, whether repaid or not, made by or to a  candidate, political committee or pe-
+tition committee, a statement filed under ORS 260.044, 260.057,  260.076, 260.078 or 260.118 shall list:
+(A) The name and address of each person shown as a cosigner  or guarantor on a loan and the
+amount of the obligation undertaken by each cosigner or guarantor;
+(B) The name of the lender holding the loan; and
+(C) The terms of the loan, including the interest rate and repayment schedule.
+(2) An  expenditure shall be reported as an account payable only if the expenditure is not paid
+within the time specified in ORS 260.057, 260.076 or 260.118.
+(3) Anything of value paid for or contributed by any person shall be listed as  both an in-kind
+contribution and an expenditure by the candidate or committee for whose  benefit the payment or
+contribution was made.
+(4) If a candidate, political committee or  petition committee under ORS 260.057 or 260.118 makes
+an expenditure that must be reported as an in-kind  contribution and an expenditure as provided in
+subsection  (3)  of this section, the candidate, political committee or petition committee making the
+original expenditure shall, in  any statement filed under ORS 260.057, 260.078 or 260.118, identify the
+expenditure as an in-kind contribution and  identify the candidate, political committee or petition
+committee for whose benefit the expenditure was made.
+(5) If a political committee makes an expenditure that  qualifies as an independent expenditure
+under ORS 260.005 [ (10)], the listing of the expenditure under this section shall identify any candi-
+dates or measures  that are the subject of the independent expenditure and state whether the inde-
+Enrolled House Bill 4018 (HB 4018-B) Page 42
+pendent expenditure was used to advocate the  election, passage or defeat of the candidates or
+measures.
+(6) As used in this section:
+(a) “Address” has the meaning given that term in rules adopted by the Secretary of State.
+(b) “Contribution” and  “expenditure” include a contribution or expenditure to or on behalf of
+an initiative, referendum or recall petition.
+SECTION 40.
+ ORS 260.268 is amended to read:
+260.268. (1) As used in this section:
+(a)(A) “Campaign communication” means a communication in support of  or in opposition to a
+clearly identified candidate or measure, as defined in ORS 260.005 [ (10)(c)].
+(B) Notwithstanding ORS 260.005 [ (10)(c)(B)(i)], a campaign communication may involve aggre-
+gate expenditures of any amount.
+(b) “Synthetic media” means an  image, audio recording or video recording of an individual’s
+appearance, speech or conduct that has been intentionally manipulated  with the use of artificial
+intelligence techniques or similar  digital technology in a manner to create a realistic but false im-
+age, audio recording or video recording that produces:
+(A) A depiction that a reasonable person would  believe is of a real individual in appearance,
+speech or conduct but that did not actually occur in reality; and
+(B) A materially  different understanding or impression than a reasonable person would have
+from the unaltered, original version of the image, audio recording or video recording.
+(2) A campaign communication that includes any form of synthetic media must include  a dis-
+closure stating that the image, audio recording or video recording has been manipulated.
+(3) The Secretary of State may institute proceedings to  enjoin any violation of this section. The
+Attorney General may institute proceedings to enjoin any violation of this section  by the Secretary
+of State, a candidate for the office of the Secretary of  State, or any political committee or person
+supporting the Secretary of State or a  candidate for the office of the Secretary of State. In any
+action brought under this section, the circuit court may at any time enter such injunctions,  prohi-
+bitions or restraining orders, or take any other actions as the court may deem  proper. A restraining
+order, prohibition or injunction may be issued under this section without proof of injury or  damage
+to any person. The circuit court shall give priority to the  hearing and determination under this
+section. The court shall award the prevailing party reasonable attorney fees at trial and  on appeal.
+(4) Upon proof of any violation of this section, the court  shall impose a civil penalty of not more
+than $10,000. All penalties recovered  under this section shall be paid into the State Treasury and
+credited to the General Fund.
+(5) The remedy provided by this section is the exclusive remedy for a violation of this section.
+(6) This section does not apply to:
+(a) A provider of an interactive computer service,  as defined in 47 U.S.C. 230(f), or an informa-
+tion service, as defined in 47 U.S.C. 153;
+(b) A  radio or television station, including a cable or satellite television operator, programmer
+or producer, that broadcasts a campaign communication that includes synthetic media as  part of a
+bona fide newscast, news interview, news documentary, or on-the-spot coverage of  a bona fide news
+event, if the broadcast or publication clearly acknowledges through  content or disclosure, in a
+manner that can be easily heard and understood or read by the average listener or viewer, that
+there are questions about authenticity in the communication;
+(c) A radio or television broadcasting station, including a cable or  satellite television operator,
+programmer or producer, an Internet website or an online  platform, when the station, website or
+platform is paid to broadcast or publish a campaign communication that includes synthetic media;
+(d) A regularly published newspaper, magazine or other periodical of general circulation, in-
+cluding an Internet  or electronic publication, or an Internet service or website provider, that pub-
+lishes a campaign communication that includes  synthetic media, if the communication includes a
+statement that  the synthetic media contained therein does not accurately represent a ballot issue
+or candidate; or
+Enrolled House Bill 4018 (HB 4018-B) Page 43
+(e) Content that constitutes satire, parody or that is substantially dependent on the  ability of
+an individual to physically or verbally impersonate a candidate without the use of technology.
+SECTION 41.  Section 23, chapter 9, Oregon Laws 2024, is amended to read:
+Sec. 23.  (1) [ Sections 2 to 5a and 9 of this 2024  Act ] ORS 260.009, 260.014, 260.016, 260.018 and
+260.416 and the amendments to ORS 260.005 and 260.042 by sections 6 and 10 , [ of this 2024 Act ]
+chapter 9, Oregon Laws 2024,  become operative on January 1, 2027.
+(2) [Sections 13 and 14a of this 2024 Act ] ORS 260.059 and 260.061 and the amendments to ORS
+260.266 and 260.345 by  [ section] sections  15 and 19 [ of this 2024 Act ], chapter 9, Oregon Laws
+2024, become operative on January 1, [ 2028] 2031.
+(3) The amendments to ORS  260.232[, 260.345,] and 260.715 [ and 260.995 by sections 18, 19, 19a
+and 20 of this 2024 Act ] by sections 18 and 19a, chapter 9, Oregon Laws 2024,  become operative
+on January 1, 2027.
+(4) [Section 17b of this 2024 Act ] ORS 260.034 becomes operative on January 1, 2026.
+SECTION 42. (1) The amendments to ORS 260.007,  260.041, 260.044, 260.083, 260.205 and
+260.268 by sections 30, 31 and 37 to 40 of this 2026 Act become operative on January 1, 2027.
+(2) Sections 13 and 14 of this 2026 Act  and the amendments to ORS 260.005, 260.009,
+260.014, 260.205, 260.402 and 260.995 by sections 1a, 2a, 11, 21, 32 and 35 of  this 2026 Act be-
+come operative on January 1, 2031.
+SECTION 43. The adjustment of dollar amounts described in ORS 260.014 (14), as amended
+by section 2 of this 2026 Act, shall first apply in 2028.
+SECTION 44. (1) Notwithstanding any other provision of law, the General Fund  appro-
+priation made to the Secretary of State by section  1 (1), chapter 610, Oregon Laws 2025, for
+the biennium ending June 30, 2027,  for the Administrative Services Division, is increased by
+$710,874 to implement this 2026 Act.
+(2) Notwithstanding any other provision  of law, the General Fund appropriation made to
+the Secretary of State by section 1 (2), chapter 610, Oregon Laws  2025, for the biennium
+ending June 30, 2027, for  the Elections Division, is increased by $841,646 to implement this
+2026 Act.
+SECTION 45. This 2026 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2026 Act takes effect
+on its passage.
+Enrolled House Bill 4018 (HB 4018-B) Page 44
+Passed by House March 5, 2026
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate March 5, 2026
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 4018 (HB 4018-B) Page 45
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 171.725, ORS 183.413, ORS 183.745, ORS 192.311, ORS 248.006, ORS 248.008, ORS 249.215, ORS 255.335, ORS 260.005, ORS 260.006, ORS 260.007, ORS 260.009, ORS 260.014, ORS 260.016, ORS 260.018, ORS 260.021, ORS 260.034, ORS 260.035, ORS 260.041, ORS 260.042, ORS 260.043, ORS 260.044, ORS 260.054, ORS 260.057, ORS 260.059, ORS 260.061, ORS 260.076, ORS 260.078, ORS 260.083, ORS 260.085, ORS 260.112, ORS 260.118, ORS 260.205, ORS 260.232, ORS 260.234, ORS 260.264, ORS 260.266, ORS 260.268, ORS 260.345, ORS 260.402, ORS 260.407, ORS 260.416, ORS 260.532, ORS 260.537, ORS 260.555, ORS 260.558, ORS 260.575, ORS 260.695, ORS 260.993, ORS 260.995, ORS 706.008
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-28, sha256 `1cb0ad482ad40c6671bba00c6114633d5cbd76ce35b3b12dd0258788f80946d0` (snapshot `_meta/snapshots/measure-2026r1-hb4018-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4018/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `32bb820f7316441dffe535ddc91df8a8890cbfdfacd04927bad48fb27e53e099` (snapshot `_meta/snapshots/measure-2026r1-hb4018-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4018/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4018` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

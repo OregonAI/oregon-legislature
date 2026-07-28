@@ -1,0 +1,2418 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2019r1-sb1049
+title: 'SB 1049 (2019R1): Redirects portion of employee contributions of member of Public Employees Retirement
+  System to employee pension stability account.'
+doc_type: dataset_doc
+citation: 2019 Regular Session Senate Bill 1049
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB1049/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 447afa57ce52f1799a1ff913c175b0969794043644aedae635af81ed41c2808d
+snapshot_id: measure-2019r1-sb1049-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 118.005
+  - ORS 174.116
+  - ORS 181A.355
+  - ORS 190.080
+  - ORS 237.147
+  - ORS 237.976
+  - ORS 238.005
+  - ORS 238.008
+  - ORS 238.015
+  - ORS 238.035
+  - ORS 238.082
+  - ORS 238.095
+  - ORS 238.105
+  - ORS 238.115
+  - ORS 238.225
+  - ORS 238.229
+  - ORS 238.250
+  - ORS 238.260
+  - ORS 238.265
+  - ORS 238.280
+  - ORS 238.300
+  - ORS 238.305
+  - ORS 238.320
+  - ORS 238.325
+  - ORS 238.366
+  - ORS 238.390
+  - ORS 238.395
+  - ORS 238.410
+  - ORS 238.415
+  - ORS 238.420
+  - ORS 238.425
+  - ORS 238.430
+  - ORS 238.440
+  - ORS 238.442
+  - ORS 238.465
+  - ORS 238.500
+  - ORS 238.505
+  - ORS 238.580
+  - ORS 238.605
+  - ORS 238.660
+  - ORS 238.670
+  - ORS 238.692
+  - ORS 238.694
+  - ORS 238.695
+  - ORS 238.696
+  - ORS 238.698
+  - ORS 238A.005
+  - ORS 238A.025
+  - ORS 238A.070
+  - ORS 238A.100
+  - ORS 238A.110
+  - ORS 238A.115
+  - ORS 238A.120
+  - ORS 238A.140
+  - ORS 238A.145
+  - ORS 238A.150
+  - ORS 238A.155
+  - ORS 238A.160
+  - ORS 238A.180
+  - ORS 238A.185
+  - ORS 238A.210
+  - ORS 238A.220
+  - ORS 238A.245
+  - ORS 238A.300
+  - ORS 238A.320
+  - ORS 238A.330
+  - ORS 238A.335
+  - ORS 238A.340
+  - ORS 238A.350
+  - ORS 238A.375
+  - ORS 238A.400
+  - ORS 238A.410
+  - ORS 240.190
+  - ORS 243.726
+  - ORS 243.800
+  - ORS 243.820
+  - ORS 243.910
+  - ORS 243.920
+  - ORS 276.021
+  - ORS 285A.075
+  - ORS 287A.105
+  - ORS 287A.150
+  - ORS 291.349
+  - ORS 293.144
+  - ORS 293.728
+  - ORS 332.531
+  - ORS 341.005
+  - ORS 341.551
+  - ORS 341.556
+  - ORS 350.370
+  - ORS 352.002
+  - ORS 352.121
+  - ORS 352.232
+  - ORS 353.250
+  - ORS 353.270
+  - ORS 419A.050
+  - ORS 419A.052
+  - ORS 420.005
+  - ORS 421.005
+  - ORS 423.549
+  - ORS 443.400
+  - ORS 461.010
+  - ORS 461.110
+  - ORS 461.540
+  - ORS 477.064
+  - ORS 652.190
+  - ORS 656.027
+  - ORS 824.020
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2019r1
+- sb
+session_key: 2019R1
+measure_prefix: SB
+measure_number: 1049
+prefix_meaning: Senate Bill
+catch_line: Redirects portion of employee contributions of member of Public Employees Retirement System
+  to employee pension stability account.
+minority_catch_line: null
+measure_summary: "\t\t<i>Directs Public Employees Retirement Board to study issues relating to Public\
+  \ Employees Retirement System and report to appropriate committee or interim committee of Legislative\
+  \ Assembly no later than September 15, 2020.</i>] \n\t<b>Redirects portion of employee contributions\
+  \ of member of Public Employees Retirement System to employee pension stability account. Directs Public\
+  \ Employees Retirement Board to apply amounts in account to pay costs of pension or other retirement\
+  \ benefits payable to member that accrue on or after July 1, 2020. \n\tAllows certain participating\
+  \ public employer making lump sum payment of employer contributions to choose year in which to begin\
+  \ using lump sum payment to offset employer contributions required of employer. \n\tModifies provisions\
+  \ relating to pension obligation bonds. \n\tDirects board, in year 2019, to determine liabilities attributable\
+  \ to benefits to be provided to Tier 1 and 2 members and set employer contribution rates to ensure that\
+  \ liabilities will be funded 22 years after determination. \n\tModifies provisions relating to investment\
+  \ options available under individual account program. \n\tEliminates restrictions on reemployment of\
+  \ retired members of system until December 31, 2024. Requires employer of retired member to make additional\
+  \ employer contribution to system. \n\tBeginning in 2020, caps at $195,000 annual salary used to calculate\
+  \ final average salary for purposes of system. \n\tTransfers proceeds of sports betting games to Employer\
+  \ Incentive Fund. \n\tModifies provisions relating to Employer Incentive Fund, School Districts Unfunded\
+  \ Liability Fund and Unfunded Actuarial Liability Resolution Program. \n\tRequires board to report to\
+  \ Joint Committee on Ways and Means or Joint Interim Committee on Ways and Means on proposed changes\
+  \ to actuarial methods and assumptions. \n\tAppropriates moneys for deposit in Employer Incentive Fund\
+  \ to match certain employer contributions. \n\tProvides for expedited review of Act by Supreme Court\
+  \ upon petition by adversely affected party. \n\tDeclares emergency, effective on passage.</b>"
+relating_to: Relating to public employee retirement; and declaring an emergency.
+relating_to_full: Relating to public employee retirement; and declaring an emergency.
+at_the_request_of: null
+lc_number: 4434
+measure_created_date: '2019-05-03T16:39:07'
+measure_modified_date: '2020-12-08T14:28:11'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 163416
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 118.005
+  - ORS 174.116
+  - ORS 181A.355
+  - ORS 190.080
+  - ORS 237.147
+  - ORS 237.976
+  - ORS 238.005
+  - ORS 238.008
+  - ORS 238.015
+  - ORS 238.035
+  - ORS 238.082
+  - ORS 238.095
+  - ORS 238.105
+  - ORS 238.115
+  - ORS 238.225
+  - ORS 238.229
+  - ORS 238.250
+  - ORS 238.260
+  - ORS 238.265
+  - ORS 238.280
+  - ORS 238.300
+  - ORS 238.305
+  - ORS 238.320
+  - ORS 238.325
+  - ORS 238.366
+  - ORS 238.390
+  - ORS 238.395
+  - ORS 238.410
+  - ORS 238.415
+  - ORS 238.420
+  - ORS 238.425
+  - ORS 238.430
+  - ORS 238.440
+  - ORS 238.442
+  - ORS 238.465
+  - ORS 238.500
+  - ORS 238.505
+  - ORS 238.580
+  - ORS 238.605
+  - ORS 238.660
+  - ORS 238.670
+  - ORS 238.692
+  - ORS 238.694
+  - ORS 238.695
+  - ORS 238.696
+  - ORS 238.698
+  - ORS 238A.005
+  - ORS 238A.025
+  - ORS 238A.070
+  - ORS 238A.100
+  - ORS 238A.110
+  - ORS 238A.115
+  - ORS 238A.120
+  - ORS 238A.140
+  - ORS 238A.145
+  - ORS 238A.150
+  - ORS 238A.155
+  - ORS 238A.160
+  - ORS 238A.180
+  - ORS 238A.185
+  - ORS 238A.210
+  - ORS 238A.220
+  - ORS 238A.245
+  - ORS 238A.300
+  - ORS 238A.320
+  - ORS 238A.330
+  - ORS 238A.335
+  - ORS 238A.340
+  - ORS 238A.350
+  - ORS 238A.375
+  - ORS 238A.400
+  - ORS 238A.410
+  - ORS 240.190
+  - ORS 243.726
+  - ORS 243.800
+  - ORS 243.820
+  - ORS 243.910
+  - ORS 243.920
+  - ORS 276.021
+  - ORS 285A.075
+  - ORS 287A.105
+  - ORS 287A.150
+  - ORS 291.349
+  - ORS 293.144
+  - ORS 293.728
+  - ORS 332.531
+  - ORS 341.005
+  - ORS 341.551
+  - ORS 341.556
+  - ORS 350.370
+  - ORS 352.002
+  - ORS 352.121
+  - ORS 352.232
+  - ORS 353.250
+  - ORS 353.270
+  - ORS 419A.050
+  - ORS 419A.052
+  - ORS 420.005
+  - ORS 421.005
+  - ORS 423.549
+  - ORS 443.400
+  - ORS 461.010
+  - ORS 461.110
+  - ORS 461.540
+  - ORS 477.064
+  - ORS 652.190
+  - ORS 656.027
+  - ORS 824.020
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1049`.
+
+# SB 1049 — 2019 Regular Session (2019R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1049, 2019 Regular Session (2019R1)
+- **LC number:** 4434
+- **Created:** 2019-05-03T16:39:07
+- **Metadata last modified (upstream):** 2020-12-08T14:28:11
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 163416 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB1049/Enrolled>.
+
+## Summary
+
+**Catchline:** Redirects portion of employee contributions of member of Public Employees Retirement System to employee pension stability account.
+
+**Relating to:** Relating to public employee retirement; and declaring an emergency.
+
+<i>Directs Public Employees Retirement Board to study issues relating to Public Employees Retirement System and report to appropriate committee or interim committee of Legislative Assembly no later than September 15, 2020.</i>] 
+ <b>Redirects portion of employee contributions of member of Public Employees Retirement System to employee pension stability account. Directs Public Employees Retirement Board to apply amounts in account to pay costs of pension or other retirement benefits payable to member that accrue on or after July 1, 2020. 
+ Allows certain participating public employer making lump sum payment of employer contributions to choose year in which to begin using lump sum payment to offset employer contributions required of employer. 
+ Modifies provisions relating to pension obligation bonds. 
+ Directs board, in year 2019, to determine liabilities attributable to benefits to be provided to Tier 1 and 2 members and set employer contribution rates to ensure that liabilities will be funded 22 years after determination. 
+ Modifies provisions relating to investment options available under individual account program. 
+ Eliminates restrictions on reemployment of retired members of system until December 31, 2024. Requires employer of retired member to make additional employer contribution to system. 
+ Beginning in 2020, caps at $195,000 annual salary used to calculate final average salary for purposes of system. 
+ Transfers proceeds of sports betting games to Employer Incentive Fund. 
+ Modifies provisions relating to Employer Incentive Fund, School Districts Unfunded Liability Fund and Unfunded Actuarial Liability Resolution Program. 
+ Requires board to report to Joint Committee on Ways and Means or Joint Interim Committee on Ways and Means on proposed changes to actuarial methods and assumptions. 
+ Appropriates moneys for deposit in Employer Incentive Fund to match certain employer contributions. 
+ Provides for expedited review of Act by Supreme Court upon petition by adversely affected party. 
+ Declares emergency, effective on passage.</b>
+
+**RelatingToFull (verbatim upstream field):** Relating to public employee retirement; and declaring an emergency.
+
+## Full text
+
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Enrolled
+Senate Bill 1049
+Sponsored by Senator COURTNEY, Representative KOTEK
+CHAPTER .................................................
+AN ACT
+Relating to public employee retirement; creating new provisions; amending ORS  238.005, 238.105,
+238.115, 238.265, 238.300, 238.305,  238.320, 238.325, 238.395, 238.580, 238.694, 238.695, 238.698,
+238A.005, 238A.110, 238A.120, 238A.320, 238A.330, 238A.335, 238A.375, 238A.410,  243.800, 341.551
+and 461.010 and sections 1, 2, 3, 3b, 13, 15, 24, 26 and 29, chapter 105, Oregon Laws 2018,  and
+sections 2 and 3, chapter 118, Oregon Laws 2018; repealing section 4, chapter 118, Oregon Laws
+2018; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+EMPLOYEE CONTRIBUTIONS
+SECTION 1.
+ ORS 238A.330 is amended to read:
+238A.330. (1) A member of the individual  account program must make employee contributions
+to the individual account program of six percent of the member’s salary.
+(2) Employee  contributions made by a member of the individual account program under this
+section shall be credited by the Public Employees Retirement  Board [ to the employee  account es-
+tablished for the member under ORS 238A.350 (2). ] as follows:
+(a) Except as provided in paragraph (c) of this  subsection, for a member who established
+membership in the Public Employees Retirement System before  August 29, 2003, as described
+in ORS 238A.025:
+(A) If the member’s salary does not exceed $2,500 in a calendar  month, the board shall
+credit all employee contributions made  by the member under this section to the employee
+account established for the member under ORS 238A.350 (2).
+(B) If the member’s salary exceeds $2,500 in a calendar month, the board shall credit:
+(i) 3.5 percent of the member’s salary to the employee account  established for the
+member under ORS 238A.350 (2); and
+(ii) 2.5 percent of the member’s salary  to the employee pension stability account estab-
+lished for the member under section 3 of this 2019 Act.
+(b) Except as provided in paragraph (c) of this  subsection, for a member who established
+membership in the system on or after August 29, 2003, as described in ORS 238A.025:
+(A) If the member’s salary does not exceed $2,500 in a calendar  month, the board shall
+credit all employee contributions made  by the member under this section to the employee
+account established for the member under ORS 238A.350 (2).
+(B) If the member’s salary exceeds $2,500 in a calendar month, the board shall credit:
+Enrolled Senate Bill 1049 (SB 1049-A) Page 1
+(i) 5.25 percent of the member’s salary to  the employee account established for the
+member under ORS 238A.350 (2); and
+(ii) 0.75 percent of the  member’s salary to the employee pension stability account estab-
+lished for the member under section 3 of this 2019 Act.
+(c) During a biennium following a  rate setting valuation prepared by the actuary under
+ORS 238.605 that  shows that the funded status of the system, including any lump sum pay-
+ments made under ORS 238.229, is 90 percent or greater, the board shall  credit all employee
+contributions made by a member  of the individual account program to the employee account
+established for the member under ORS 238A.350 (2).
+(3) If any contributions  made by a member of the individual account program are cred-
+ited to the employee pension stability account under subsection (2) of this section,  the
+member may make  additional employee contributions to the individual account program in
+the amount credited to the employee pension stability account.  The board shall credit em-
+ployee contributions made under  this subsection to the employee account established for the
+member under ORS 238A.350 (2). Contributions  under this subsection may not be paid by the
+employer under ORS 238A.335.
+[(3)] (4) A new member of the individual account program shall first make contributions  under
+this section for those wages that are attributable to services performed by the  employee during the
+first full pay period following the six-month probationary period required under ORS 238A.300,
+without regard to when those wages are considered earned for other purposes under this chapter.
+(5) On January 1 of each  year, the board shall adjust the dollar amounts provided in
+subsection (2) of this section to reflect  any percentage increase in the cost of living for the
+previous calendar year, based  on changes in the Consumer Price Index for All Urban Con-
+sumers, West Region (All Items), as  published by the Bureau of Labor Statistics of the
+United States Department of Labor.
+SECTION 2.
+Section 3 of this 2019 Act is added to and  made a part of ORS chapter 238A.
+SECTION 3. Employee pension stability accounts established. (1) The Public Employees
+Retirement Board shall establish an  employee pension stability account for each active
+member of the Public Employees Retirement System.
+(2) Each account established under this section shall  be adjusted at least annually in
+accordance with rules adopted by  the board to reflect any net earnings or losses on the
+amounts in the account. The adjustments described in this subsection  shall continue until
+the amounts in the account are withdrawn or applied  against the costs of the pension or
+other retirement benefits that are payable to the member  or the member’s beneficiary under
+this chapter or ORS chapter 238.
+(3)(a) Unless the amounts in an account established under  this section are withdrawn
+under ORS 238A.375, the amounts  in the account established under this section shall be ap-
+plied by the board to pay the costs of the pension  or other retirement benefits that are
+payable to the member or the member’s beneficiary under this chapter or ORS chapter  238
+and that accrue on or after July 1, 2020.
+(b) If the amounts in the account established under this section  exceed the costs of the
+pension or  other retirement benefits that are payable to the member or the member’s ben-
+eficiary under this chapter or ORS  chapter 238 and that accrue on or after July 1, 2020, the
+board shall refund the excess amounts in a  lump sum to the member or the member’s ben-
+eficiary.
+SECTION 4.  ORS 238A.110 is amended to read:
+238A.110. Membership under the pension program terminates when:
+(1) A member dies;
+(2) A member withdraws under ORS [ 238A.120] 238A.375; or
+(3) A member forfeits retirement credit under ORS 238A.145.
+SECTION 5.
+ ORS 238A.120 is amended to read:
+238A.120. [(1) A vested inactive member may withdraw from the pension program if: ]
+Enrolled Senate Bill 1049 (SB 1049-A) Page 2
+[(a) The actuarial equivalent of the member’s benefit under the  pension program at the time of
+withdrawal is $5,000 or less; and ]
+[(b) The  inactive member has separated from all service with participating public employers and
+with employers who are  treated as part of a participating public employer’s controlled group under the
+federal laws and rules governing the status of the  system and the fund as a qualified governmental
+retirement plan and trust. ]
+[(2) Upon withdrawal under this section,  the Public Employees Retirement Board shall pay the
+withdrawing member the actuarial equivalent of the member’s benefit in a lump sum. ]
+[(3) If a  vested inactive member withdraws from the pension program under this section and is
+thereafter reemployed by a participating public employer: ] A vested inactive member  who with-
+draws from the individual account program under ORS 238A.375  cancels the person’s mem-
+bership in the Public Employees Retirement System. If the person is  thereafter reemployed
+by a participating public employer:
+[(a)] (1) The person may reestablish membership in the pension  program only for the purpose
+of service performed after the person is reemployed; and
+[(b)] (2) Any service performed before the withdrawal may not be credited toward the  period of
+service required by ORS 238A.100 or 238A.115  or toward the accrual of retirement credit under ORS
+238A.140, 238A.150 or 238A.155.
+[(4) A member who has an individual  account or accounts in the individual account program es-
+tablished under ORS 238A.025 may withdraw from the pension program under this section only  if the
+member also withdraws all individual accounts pursuant  to ORS 238A.375. A member who has a
+member account  established under ORS chapter 238 may withdraw from the pension program under
+this section  only if the member also withdraws that member account in the manner provided by ORS
+238.265. A member  who has an account established under ORS 238.440 may withdraw from the pension
+program under this section only if the member also withdraws the account established under  ORS
+238.440.]
+[(5) For the purposes of this section, the actuarial  equivalent of a member’s benefit does not include
+any value attributable to adjustments to the benefit under ORS 238A.210. ]
+SECTION 6.  ORS 238A.320 is amended to read:
+238A.320. (1) A member of the individual account program becomes vested in the employee ac-
+count established for the  member under ORS 238A.350 (2) on the date the employee account is es-
+tablished.
+(2) A member who makes rollover contributions  becomes vested in the rollover account estab-
+lished for the member under ORS 238A.350 (4) on the date the rollover account is established.
+(3) Except as provided  in subsection (4) of this section, if an employer makes employer contrib-
+utions for a member under ORS 238A.340 the member becomes vested in  the employer account es-
+tablished under ORS 238A.350 (3) on the earliest of the following dates:
+(a) The date on which the member completes  at least 600 hours of service in each of five cal-
+endar years. The five calendar years need not be consecutive, but are subject  to the provisions of
+subsection (5) of this section.
+(b) The date on which an active member  reaches the normal retirement age for the member
+under ORS 238A.160.
+(c) If the  individual account program is terminated, the date on which termination becomes ef-
+fective, but only to the extent the account is then funded.
+(d) The date on which an active member becomes disabled, as described in ORS 238A.155 (5).
+(e) The date on which an active member dies.
+(4) If on the date that a person becomes an  active member the person has already reached the
+normal retirement age for the person under ORS 238A.160, and the employer makes  employer con-
+tributions for the member under ORS 238A.340, the person is vested in the employer  account es-
+tablished under ORS 238A.350 (3) on that date.
+(5) If a member  of the individual account program who is not vested in the employer account
+performs fewer than 600 hours of  service in each of five consecutive calendar years, hours of service
+Enrolled Senate Bill 1049 (SB 1049-A) Page 3
+performed before the first calendar  year of the period of five consecutive calendar years shall be
+disregarded for purposes of determining whether the  member is vested under subsection (3)(a) of this
+section.
+(6) Solely for purposes of determining whether a member is  vested under subsection (3)(a) of this
+section, hours of service include creditable service, as  defined in ORS 238.005, performed by the
+person before the person became an  eligible employee, as long as the membership of the person
+under ORS chapter 238 has not been terminated under the provisions of ORS 238.095 on the  date
+the person becomes an eligible employee.
+(7) A member becomes vested  in the employee pension stability account established for
+the member  under section 3 of this 2019 Act on the date the employee pension stability ac-
+count is established.
+SECTION 7.  ORS 238A.335 is amended to read:
+238A.335. (1) A participating public employer may agree, by a  written employment policy or by
+a collective bargaining agreement, to  pay the employee contribution required under ORS 238A.330
+(1). The policy or agreement need not include all members of the individual account program em-
+ployed by the employer.
+(2) An agreement under this section [ to pay the  required employee contribution ] may provide that:
+(a) Amounts be deducted  from  employee compensation [ be reduced ] to generate the funds
+needed to make [ the] employee contributions; or
+(b) Additional amounts be paid by  the employer for the purpose of making [ the] employee
+contributions[ , and employee compensation not be reduced for  the purpose of generating the funds
+needed to make the employee contributions ].
+(3) A participating public employer  must give written notice to the Public Employees Retirement
+Board at the time  that [ a written employment policy or collective bargaining agreement described in ]
+an agreement under  subsection (1) of this section is adopted or changed. The notice must specif-
+ically indicate whether  the agreement is as described in subsection (2)(a) or (b) of this section. [ Any
+change in the manner in which  employee contributions are to be paid applies only to employee con-
+tributions made on and after the date the notice is received by  the board. ] An agreement under this
+section, and any change to an agreement under this section, applies only to  employee con-
+tributions for pay periods beginning  on or after the date that the notice is received by the
+board.
+SECTION 8.  ORS 238A.375 is amended to read:
+238A.375. (1) An inactive member of the individual account program may elect to receive a dis-
+tribution of the amounts in the member’s employee account, rollover account , [ and] employer  ac-
+count and employee pension stability account  to the extent the member is vested in those
+accounts under ORS 238A.320 if  the inactive member has separated from all service with partic-
+ipating public employers and with  employers who are treated as part of a participating public
+employer’s controlled group under the federal laws  and rules governing the status of the Public
+Employees Retirement  System and the Public Employees Retirement  Fund as  a qualified gov-
+ernmental retirement plan and trust.
+(2) If an inactive member of the individual account program  who is not vested in the employer
+account receives a distribution under subsection (1)  of this section, the employer account of the
+member is permanently forfeited as of the date of the distribution.
+(3) A member may not make an election under this section for less than all  of the member’s
+individual accounts described in ORS 238A.350 , and the member’s employee pension stability
+account described in section 3 of this 2019 Act,  in which the member is vested.
+(4) A member who is vested  in the pension program established under this chapter and who [ is
+eligible to withdraw from the pension program under ORS 238A.120 may make an election  under this
+section only if the member also withdraws  from the pension program ] withdraws the member’s ac-
+counts under this section cancels all membership rights in the system .
+(5) A  member who has a member account established under ORS chapter 238 may make an
+election under this section only if the member also withdraws that member account  in the manner
+Enrolled Senate Bill 1049 (SB 1049-A) Page 4
+provided by ORS 238.265. A member who has  an account established under ORS 238.440 may make
+an election under this section only if the  member also withdraws the account established under ORS
+238.440.
+[(5)] (6) If an inactive member receives a distribution under subsection (1) of this section and
+is subsequently reemployed by a  participating public employer, any service performed before the
+date the  member became an inactive member may not be used toward the period of service required
+for vesting in the employer account under ORS 238A.320.
+SECTION 9.  ORS 238A.410, as amended by section 9, chapter 101, Oregon Laws 2018,  is
+amended to read:
+238A.410. (1) (a) If a member of the individual account program dies before retirement, the
+amounts in the member’s employee account, rollover account and employer account,  to the extent
+the member is vested in those accounts under ORS 238A.320, shall  be paid in a lump sum to the
+beneficiary or beneficiaries designated by the member for the purposes of this section.
+(b) If a member of the  individual account program dies before retirement, the amounts
+in the employee pension stability account established  for the member under section 3 of this
+2019 Act shall be applied by the Public Employees Retirement Board to pay  the costs of any
+benefit payable under ORS 238.395  or 238A.230 that accrues on or after July 1, 2020. If the
+amounts in the employee pension  stability account exceed the costs of the benefit payable
+under ORS 238.395 or 238A.230 that accrues on or  after July 1, 2020, the excess amounts shall
+be paid in a lump sum to the beneficiary or beneficiaries designated by the member  for the
+purposes of this section.
+(2) If a member of the individual account program is married at the time of death, or there exists
+at the time of death any other person who  is constitutionally required to be treated in the same
+manner as a spouse for the purpose of retirement benefits, the spouse  or other person shall be the
+beneficiary for purposes of  the death benefit payable under this section unless the spouse or other
+person consents to the  designation of a different beneficiary or beneficiaries before the designation
+has been made and the consent has not been revoked by the spouse  or other person as of the time
+of the member’s death. Consent and revocation of consent must be in writing, acknowledged by a
+notary public, and submitted to the Public Employees Retirement Board  in accordance with rules
+adopted by the board. If the member’s spouse is  designated as the member’s beneficiary and the
+marriage of the member and spouse is subsequently dissolved, the  former spouse shall be treated as
+predeceasing the member for purposes  of this section, unless the member expressly designates the
+former spouse as beneficiary after the effective date of the dissolution  or the former spouse is re-
+quired to be designated as a beneficiary under the provisions of ORS 238.465.
+(3) For purposes of this section and ORS 238A.400 (3), if a  member fails to designate a benefi-
+ciary, or if the person or persons designated do not survive the member, the  death benefit provided
+for in this section shall be paid to the  following person or persons, in the following order of priority:
+(a) The member’s surviving spouse  or other person who is constitutionally required to be treated
+in the same manner as a spouse;
+(b) The member’s surviving children, in equal shares; or
+(c) The member’s estate.
+(4) The entire  amount of a deceased member’s vested accounts must be distributed by December
+31 of the fifth calendar year after the year in which the  member died. Notwithstanding any other
+provision of this chapter, distributions of death benefits under the individual  account program must
+comply with the minimum distribution  requirements of 26 U.S.C. 401(a)(9) and the regulations im-
+plementing that section, as in  effect on December 31, 2017. The Public Employees Retirement Board
+shall adopt rules implementing those minimum distribution requirements.
+SECTION 10.
+ ORS 238.105 is amended to read:
+238.105. (1) Whenever, within five years after the employee  is separated from all service entitl-
+ing the employee to membership in the Public Employees Retirement  System, an  employee who
+has withdrawn the amount credited to the member account of the member  reenters the service of
+an employer participating in the system, the employee’s rights in  the system that were forfeited by
+Enrolled Senate Bill 1049 (SB 1049-A) Page 5
+the withdrawal shall be restored upon repaying to the Public Employees Retirement Board within
+one year after reentering the service of the employer, the full amount so withdrawn together with
+the interest that would have been accumulated on the sum had the amount not been withdrawn.
+(2) Restoration of rights under this  section does not affect any forfeiture of rights of a person
+by reason of:
+(a) Withdrawal of an account established under ORS 238.440;  or
+[(b) Withdrawal from the pension program under ORS 238A.120; or ]
+[(c)] (b) Withdrawal of individual accounts pursuant to ORS 238A.375.
+SECTION 11.
+ ORS 238.115 is amended to read:
+238.115. (1)(a) A  member of the Public Employees Retirement  System who, after separation
+from all service entitling the employee to membership  in the system and withdrawal of the amount
+credited to the member account of the member,  reenters the service of an employer participating in
+the system and serves  as an active member of the system for 10 years after that reentry, and who
+has not otherwise obtained restoration of creditable  service forfeited by the withdrawal, shall obtain
+restoration of one full month of  creditable service forfeited by the withdrawal for each three full
+months of service as an active member after  that reentry if the member, within 90 days before the
+effective date of retirement of the member:
+(A) Applies in writing to the Public Employees Retirement Board for restoration  of creditable
+service; and
+(B) Pays to the board  in a lump sum for credit to the member account of the member the amount
+withdrawn and interest on the amount withdrawn compounded annually for each year or portion  of
+a year after the date of the withdrawal and before the effective date of retirement of the member.
+The interest shall be computed at the annual rate of 7.5 percent.
+(b) If a member who obtains restoration of creditable service as provided  in this subsection does
+not obtain restoration of all creditable service  forfeited by the withdrawal pursuant to service after
+reentry, the payment under paragraph (a) of this subsection shall  be reduced proportionately to re-
+flect the percentage of creditable service restored.
+(c) A member who obtains restoration  of creditable service as provided in this subsection is not
+entitled to elect to receive the service retirement benefit described in ORS 238.305 (2) or (3).
+(2) A member  who forfeited creditable service rendered to a public employer before March 27,
+1953, because under ORS 237.976 (2) the employee withdrew  contributions of the employee to the
+Public Employees Retirement System established by chapter  401, Oregon Laws 1945, and who did
+not obtain restoration of creditable  service so forfeited as provided in chapter 857, Oregon Laws
+1977, shall, upon  retirement, receive restoration of creditable service so forfeited, if the member,
+before the effective date of retirement of the member:
+(a) Applies in writing to the board for the restoration of the creditable service; and
+(b) Pays  to the board in a lump sum for credit to the member account of the member an amount
+determined by the board to be equal to the  full amount of contributions so withdrawn and the in-
+terest that  would have accumulated to the regular account of the member had those contributions
+not been withdrawn.
+(3)(a) A member of the Public Employees Retirement System who was a member of an  associ-
+ation established pursuant to ORS chapter 239  (1997 Edition), but separated from all service entitl-
+ing the employee to membership in the system of  the association and withdrew the amount credited
+to the member account  of the employee in the retirement fund of the association, and who, after that
+separation, entered the service of an employer in the field of education participating in the Public
+Employees Retirement System and served as an active member of that  system for 10 years after that
+entry, and who has not otherwise obtained restoration of all  creditable service forfeited by the
+withdrawal, shall obtain  creditable service as a member of the Public Employees Retirement System
+equal to all creditable service forfeited by  the withdrawal if the member within 90 days before the
+effective date of retirement of the member:
+(A) Applies in writing to  the Public Employees Retirement Board for that creditable service; and
+Enrolled Senate Bill 1049 (SB 1049-A) Page 6
+(B) Pays to the board  in a lump sum for credit to the member account of the member the amount
+withdrawn and interest on the amount withdrawn compounded annually for each year or portion  of
+a year after the date of the withdrawal and before the effective date  of retirement or effective date
+of application of the member. The interest shall be computed at the rate actually credited to  regular
+accounts for that period.
+(b) This subsection provides a method of obtaining creditable service for forfeited creditable
+service described in this subsection that is in lieu of any application of subsection (1)  of this section
+for that purpose.
+(4) Restoration of creditable service  under this section does not affect any forfeiture of rights
+of a person by reason of:
+(a) Withdrawal of an account established under ORS 238.440;  or
+[(b) Withdrawal from the pension program under ORS 238A.120; or ]
+[(c)] (b) Withdrawal of individual accounts pursuant to ORS 238A.375.
+SECTION 12.  ORS 238.265 is amended to read:
+238.265. (1) Except as otherwise provided in this section, a  member of the Public Employees
+Retirement System may withdraw from the Public Employees Retirement Fund  the amount credited
+to the member account, if any, for the member if:
+(a) The member is separated from all service with participating public employers;
+(b) The member is separated from all service with employers who are treated  as part of a par-
+ticipating public employer’s controlled group under the federal laws and  rules governing the status
+of the system and the fund as a qualified governmental retirement plan and trust;
+(c) The member has not attained earliest service retirement age; and
+(d) The separation from service is not by reason of death or disability.
+(2) If a member wishes to withdraw the member account, if any,  of the member under this sec-
+tion, the member must transmit to the Public  Employees Retirement Board a withdrawal request.
+The board shall deny the withdrawal, or shall take all reasonable steps to recover withdrawn
+amounts, if:
+(a) The board determines that the separation is not a bona fide separation; or
+(b) The member fails to remain absent from the  service of all employers described in subsection
+(1) of this section for at least one calendar month following the month in which the  member sepa-
+rates from service.
+(3) If a member  has contributed to the fund in each of five calendar years and has separated
+from all service in the manner described in subsection (1) of this  section before reaching earliest
+service retirement age, the member may  elect to withdraw the member account of the member under
+this section at any time before reaching earliest service retirement age. If the inactive  member does
+not make an election to withdraw  under this section, the member shall be paid the benefits or re-
+tirement allowances described in ORS 238.425.
+(4) [ A member  who is vested in the pension program established under ORS chapter 238A and
+who is eligible to withdraw from the pension  program under ORS 238A.120 may withdraw a member
+account under this section only if the member also withdraws  from the pension program. ] A member
+who has an individual account  or accounts in the individual account program established under ORS
+chapter 238A may withdraw a  member account under this section only if the member also withdraws
+all individual accounts pursuant to ORS 238A.375. A  member who has an account established under
+ORS 238.440 may withdraw  a member account under this section only if the member also withdraws
+the account established under ORS 238.440.
+(5) Withdrawal of a member  account under this section cancels all membership rights in the
+system, including the right to claim credit for any employment before withdrawal.
+SECTION 13.
+ ORS 238.300 is amended to read:
+238.300. Upon retiring from service at normal retirement age  or thereafter, a member of the
+Public Employees Retirement  System shall receive a service retirement allowance which  shall
+consist of the following annuity and pensions:
+Enrolled Senate Bill 1049 (SB 1049-A) Page 7
+(1) A refund annuity which shall be the actuarial equivalent of accumulated  contributions, if
+any, by the member under this chapter  and interest thereon credited at  the time of retirement,
+which annuity shall provide an allowance payable during the  life of the member and at death a lump
+sum equal in amount to the difference between accumulated contributions at the  time of retirement
+and the sum of the annuity payments actually made to the member  during life shall be paid to such
+person, if any, as the member nominates by written designation duly acknowledged and  filed with
+the board or shall otherwise be paid according to the provisions of this chapter for  disposal of an
+amount credited to the member  account of a member at the time of death in the event the member
+designates no beneficiary to receive the amount or no such beneficiary is able  to receive the
+amount. If death of the member occurs before the first payment is due, the  member account of the
+member shall be treated as though death had occurred before retirement.
+(2)(a) A life pension (nonrefund) for  current service provided by the contributions of employers
+and, for  pension benefits that accrue on or after July 1, 2020, amounts in the employee pen-
+sion stability account established for the member under section 3 of this  2019 Act , which
+pension, subject to paragraph (b) of this  subsection, shall be an amount which, when added to the
+sum of the annuity, if any, under subsection (1) of this section and  the annuity, if any, provided on
+the same basis and payable from the  Variable Annuity Account, both annuities considered on a re-
+fund basis, results in a total of:
+(A) For service as a  police officer or firefighter, two percent of final average salary multiplied
+by the number of years of membership  in the system as a police officer or firefighter before the ef-
+fective date of retirement.
+(B) For service as other than a police officer or firefighter,  including service as a member of the
+Legislative Assembly, 1.67 percent  of final average salary multiplied by the number of years of
+membership in the system as other than a police officer or firefighter before the effective date of
+retirement.
+(b) A pension under this subsection shall be at least:
+(A) For a member who first establishes  membership in the system before July 1, 2003, the
+actuarial equivalent of the annuity provided by the accumulated  contributions of the member. A
+person establishes membership in the system before July 1, 2003,  for the purposes of this subpara-
+graph if:
+(i) The person is a member  of the system, or a judge member of the system, on the day imme-
+diately before July 1, 2003; or
+(ii) The person performed any  period of service for a participating public employer before July
+1, 2003, that is credited  to the six-month period of employment required of an employee under ORS
+238.015 before an employee may become a member of the system.
+(B) For a member who made contributions before August 21, 1981, the equivalent  of a pension
+computed pursuant to this subsection as it existed immediately before that date.
+(c) As used in this subsection,  “number of years of membership” means the number of full years
+of creditable service plus  any remaining fraction of a year of creditable service. Except as other-
+wise provided in this paragraph, in determining a  remaining fraction a full month shall be consid-
+ered as one-twelfth of a year and a major fraction of a month shall be considered as a full  month.
+Membership of a school district  employee, an employee of an institution of higher education engaged
+in teaching or other  school activity or an employee of the Department of Human Services, the
+Oregon Youth Authority, the Department of Corrections or  the State Board of Education engaged
+in teaching or other school activity at an institution supervised by the authority, board or  depart-
+ment, for all portions of a school year in a calendar year in which the district  school, institution
+of higher  education or school activity at an institution so supervised in which the member is em-
+ployed is normally in session shall be considered as a  full one-half year of membership. The number
+of years of membership  of a member who received a refund of contributions as provided in ORS
+237.976 (2) is limited to the number of years after the day before the date on which the refund  was
+received. The number of years  of membership of a member who is separated, for any reason other
+than death or disability, from all service entitling  the member to membership in the system, who
+Enrolled Senate Bill 1049 (SB 1049-A) Page 8
+withdraws the amount credited to the member account of the member in the fund during absence
+from such  service and who thereafter reenters the service of an employer participating in the system
+but does not repay the amount so withdrawn as provided in this chapter, is limited to the  number
+of years after the day before the date of so reentering.
+(3) An  additional life pension (nonrefund) for prior service credit, including military service,
+credited to the member at the time of first becoming a member of the system, as elsewhere  provided
+in this chapter, which pension shall be provided by the contributions of the employer.
+SECTION 14.
+ ORS 238.305 is amended to read:
+238.305. (1) Not later than 60  days after the first benefit payment is made to a retired member
+of the Public Employees Retirement System, the member  may elect to convert the allowance de-
+scribed by ORS 238.300 as payable  after retirement into a service retirement annuity of equivalent
+actuarial value of one of  the optional forms named below. The election of Option 2, 2A, 3 or 3A shall
+be effective immediately upon the member’s retirement.
+Option 1. (a) A life annuity (nonrefund) payable during the member’s life only, which shall  be
+the actuarial equivalent of accumulated contributions by the member under this chapter  and in-
+terest thereon credited at the time of retirement (if death  occurs before the first payment is due, the
+member account shall be treated  as though death had occurred before retirement); (b) a life pension
+(nonrefund) provided by the contributions  of employers as provided in ORS 238.300 (2)  and, for
+pension benefits that accrue on or after July 1, 2020, amounts in the employee pension sta-
+bility account established for the member under section 3 of this 2019 Act ; (c)  an additional
+nonrefund pension for prior service credit,  including military service, credited to the member at the
+time of first becoming a member of the system, as elsewhere provided in  this chapter, which pension
+shall be provided by the contributions of the employer; or
+Option 2. A reduced service retirement allowance payable during the member’s life, with the
+provision  that  it continue after death for the life of the beneficiary the member nominates by written
+designation duly acknowledged and filed with the Public Employees Retirement Board  at the time
+of election, should the beneficiary survive the member; or
+Option 2A. A reduced service retirement allowance payable during  the member’s life which,
+unless modified under subsection (6) of this section,  continues after death for the life of the benefi-
+ciary the member nominates by  written designation duly acknowledged and filed with the board at
+the time of election, should the beneficiary survive the member; or
+Option 3. A reduced service retirement allowance payable during the member’s life, with the
+provision that it continue after death at one-half the rate paid  to the member and be paid for the
+life of the beneficiary the member nominates by written designation duly acknowledged and  filed
+with the board at the time of election, should the beneficiary survive the member; or
+Option 3A. A reduced service retirement allowance payable during  the member’s life which,
+unless modified under subsection (6) of this section, continues after death at one-half  the rate paid
+to the member and is paid for the life of the beneficiary the member  nominates by written desig-
+nation duly  acknowledged and filed with the board at the time of election, should the beneficiary
+survive the member; or
+Option 4. A reduced service retirement allowance payable during the member’s life, with the
+provisions that if the member dies before a total of  180 monthly payments is made, the remainder
+of the 180 monthly payments shall be  paid monthly to the beneficiary the member nominates by
+written designation duly acknowledged and filed with the board at any  time before the member’s
+death; and that if the member designates no beneficiary to receive the monthly payments  or no such
+beneficiary is able to receive the monthly payments, an  amount equal to the actuarial value, on the
+date of the member’s death, of the total of the monthly  payments not made to the member shall be
+paid according  to ORS 238.390 for disposal of an amount credited to the member account of a
+member at the time  of death; and that if the beneficiary receiving monthly payments dies before the
+total number of monthly payments to which the beneficiary is entitled is made, an amount  equal to
+the actuarial value, on the date of the beneficiary’s death, of the  total of the monthly payments not
+made to the member and beneficiary shall be paid according to  ORS 238.390 for disposal of an
+Enrolled Senate Bill 1049 (SB 1049-A) Page 9
+amount credited to the member account of a member at the time of  death and as if the beneficiary
+had been a member.
+(2) Not later  than 60 days after the first benefit payment is made to a retired member of the
+system, the member may elect, in lieu of the allowance described by ORS 238.300  as payable after
+retirement, a service retirement benefit consisting of:
+(a) A  refund of accumulated contributions by the member under this chapter  and interest
+thereon credited at the time of refund; and
+(b) A life pension (nonrefund) provided by the  contributions of employers as provided in ORS
+237.147 (2) (1979 Replacement Part)  and, for pension benefits that accrue on or after July 1,
+2020, amounts in the employee pension stability account established for the  member under
+section 3 of this 2019 Act , and an  additional life pension (nonrefund) for prior service credit as
+provided in ORS 238.300 (3). At the same time as making the election under this subsection,  the
+member may  elect to convert the pensions described by this paragraph into a service retirement
+annuity of equivalent actuarial value of one of the optional forms named as Option 2, 2A, 3 or 3A
+under subsection (1) of this section.
+(3) Not later  than 60 days after the first benefit payment is made to a retired member of the
+system, the member may elect in lieu of  the allowance described by ORS 238.300 a refund service
+retirement benefit consisting of:
+(a) A  refund of accumulated contributions by the member under this chapter  and interest
+thereon credited at the time of retirement;
+(b) An amount that matches  the amount of accumulated contributions by the member and in-
+terest thereon, provided by the contributions of employers  and, for pension  benefits that accrue
+on or after July 1, 2020, amounts in the employee pension stability account established  for
+the member under section 3 of this 2019 Act ; and
+(c) Interest on the amounts described in paragraphs (a) and (b) of  this subsection from the ef-
+fective date of retirement until the amounts are paid.
+(4)(a) If the member  elects to receive the service retirement benefit described in subsection (2)
+or (3) of this section,  the member shall elect at the same time to receive the refund described in
+subsection (2)(a) or (3) of  this section in one lump sum payment or in more than one but not more
+than five installment payments. If the member elects installment payments:
+(A) The amount to be paid under subsection (3)(b)  of this section  by employer contributions
+[under subsection (3)(b) of this section ] and amounts in the employee pension stability  account
+established for the member under section 3 of this 2019  Act  shall be transferred to the indi-
+vidual account of the  member in the Public Employees Retirement Fund as of the effective date of
+retirement.
+(B) The installment payments shall be paid once each year for the number of  consecutive years
+equal to the number of installment payments elected.
+(C) The amount of each installment payment shall be designated by the member at the time  of
+making the election, but the last installment payment shall be the unrefunded balance remaining  in
+the member account of the member in the fund.
+(D) The member account  of the member in the fund shall be maintained until the last installment
+payment is paid. The board shall  establish procedures for computing and crediting interest annually
+on the unrefunded balance of the member account.
+(E) A yearly installment payment shall be paid on the anniversary of the date of  the first in-
+stallment payment.
+(F) The member is considered to have elected to transfer  any balance in the variable account
+of the member to the regular account of the member.
+(G) If the  member dies before payment of all installment payments, the unrefunded balance in
+the member account of the member plus interest to date of disbursement is payable  as provided in
+ORS 238.390 (4).
+(b) If a member elects to receive the refund service  retirement benefit described in subsection
+(3) of this section, and does not elect to receive those amounts in installments  under the provisions
+Enrolled Senate Bill 1049 (SB 1049-A) Page 10
+of this subsection, all rights of the member in the system shall terminate upon the payment of the
+amounts provided for in subsection (3) of this section, except as provided in paragraph (c) of  this
+subsection. If a member elects to receive the refund service  retirement benefit described in sub-
+section (3) of this section, and also elects to receive  those amounts in installments under the pro-
+visions of this subsection, all rights of the member in the system shall  terminate upon the making
+of the first payment, except as provided in paragraph (c) of this subsection.
+(c) A member who elects  to receive the refund service retirement benefit described in subsection
+(3) of this section, and any eligible spouse  or dependent of the member, shall continue to be eligible
+for insurance  under ORS 238.410, and for any premium payments the member may be entitled to
+under ORS 238.415 and 238.420.
+(5) The designation of a beneficiary, the election of an  option or any other election or desig-
+nation under subsection (1), (2), (3) or (4) of this section may be changed by the  member within 60
+days after the  date of the first benefit payment, except that the designation of a beneficiary under
+Option 4 may be changed by the member at any time before the member’s death.
+(6) If a retired member has elected to receive a service retirement allowance  under Option 2A
+or Option 3A as provided  in subsection (1) of this section, and if the beneficiary under that option
+dies after the expiration of the  time within which the member could change the election of an option
+or if the beneficiary is the spouse of the member and the marriage relationship is terminated as
+provided by law after the expiration of the time within which the member could change the election
+of an option, the member may elect to receive, in lieu of  the optional form of allowance previously
+elected, the allowance that the member would have received on the effective date of  retirement
+under Option 1 as provided in subsection  (1) of this section and adjusted by the actual amount of
+any cost-of-living or other post-retirement adjustments made to the original allowance  since the ef-
+fective date of retirement. Notice of election under this subsection must be in a form  approved by
+the board. If an election is made under  this subsection, the Option 1 payment amount is applicable
+to the first full month after the death of the beneficiary,  or the first full month after entry of the
+judgment of divorce, and payable the first day  of the month thereafter. If the increased amount is
+not paid in any month in which the increased amount is  due, the board shall make a lump sum
+payment to the retired member that is equal to the difference between  the amount paid to the
+member for that month and the amount that should  have been paid under the provisions of this
+subsection.
+(7) Notwithstanding any other provision of this section, any member of the  system who retired
+before October 3, 1989, and elected to receive  a service retirement allowance under either Option
+2 or 3 as provided in subsection  (1) of this section shall be entitled to receive a service retirement
+allowance equal to that which the member would have received  on the effective date of retirement
+under Option 1 as provided in subsection (1) of this section and  adjusted by the actual amount of
+any cost-of-living or other  post-retirement adjustments made to the original allowance since the ef-
+fective date of retirement if:
+(a) The member has attained 80 years of age;
+(b) The person designated by the member  as the member’s beneficiary has predeceased the
+member; and
+(c) The member gives written notice to the board of the death of the member’s beneficiary.
+(8) Notwithstanding any other  provision of this section, any member of the system who retired
+before  October  3, 1989, who elected to receive a refund of accumulated employee contributions and
+a life pension or pensions under subsection (2) of this section, and who  elected to convert the life
+pension or pensions provided for in subsection (2) of this section into a service  retirement annuity
+under Option 2 or 3 under subsection (1) of this section, shall be entitled to receive a life pension
+or pensions equal to that which the member would have received on the effective date of  retirement
+under subsection (2) of this section and adjusted by the actual amount  of any cost-of-living or other
+post-retirement adjustments made to the original life pension or pensions since the  effective date
+of retirement if:
+(a) The member has attained 80 years of age;
+Enrolled Senate Bill 1049 (SB 1049-A) Page 11
+(b) The person designated by the member as  the member’s beneficiary has predeceased the
+member; and
+(c) The member gives written notice to the board of the death of the member’s beneficiary.
+(9) The service retirement allowance provided in subsection (7)  or (8) of this section shall be
+applicable to the first full month after the death  of the member’s beneficiary, or the first full month
+after the member attains 80 years of age, whichever is later.
+(10) The board may deny an  election to convert a service retirement allowance under this sec-
+tion, a change of beneficiary  under this section or a change in benefit options under this section if
+that denial is required  to maintain the status of the system and the Public Employees Retirement
+Fund as a qualified governmental retirement plan and trust under the  Internal Revenue Code and
+under regulations adopted pursuant to the Internal Revenue Code.
+SECTION 15.
+ ORS 238.320 is amended to read:
+238.320. (1) Whenever an employee who is a  member of the  Public Employees Retirement
+System is  found, after being examined by one or more physicians selected by the Public Employees
+Retirement Board,  to be mentally or physically incapacitated for an extended duration, as deter-
+mined by medical  examination, and thereby unable to perform any work for which qualified, by in-
+jury or disease sustained while in actual performance of duty and not intentionally self-inflicted,  the
+member shall receive a disability retirement allowance consisting of:
+(a) A disability retirement refund annuity based on the contributions  under this chapter , if any,
+credited to the member account of the member.
+(b) A current service pension provided by the contributions of employers and, for benefits that
+accrue on or after July 1, 2020, amounts  in the employee pension stability account estab-
+lished for the member under section 3 of this 2019 Act,  equal to:
+(A) For a police officer  or firefighter, the pension to which the member would have been entitled
+if the member had worked continuously until attaining the age of 55, or if  the member has attained
+the age of 55, the pension which  the member would receive were the member to retire for service,
+as provided in this chapter.
+(B) For a  member other than a police officer or firefighter, the pension to which the member
+would have been entitled if the member had worked  continuously until attaining the age of 58, or
+if the member has attained the age  of 58, the pension which the member would receive were the
+member to retire for service, as provided in this chapter.
+(c) The same prior service pension  the member would have received had the member worked
+until normal retirement age.
+(2) As used in  subsection (1) of this section, “injury” means bodily injury causing the disability
+directly and independently of all other causes and effected solely through accidental means.
+(3) Whenever an employee who is a member  of the system and who has been an employee for
+10 years or more of an employer participating in the system is found,  after being examined by one
+or more physicians selected by the board, to be mentally  or physically incapacitated for an extended
+duration, as determined by medical examination, and  thereby unable to perform any work for which
+qualified, from cause other than injury or disease sustained while  in actual performance of duty or
+intentionally self-inflicted, the member shall receive a  disability retirement allowance as provided
+in subsection (1) of this section.
+(4) Payments under  a disability retirement allowance provided for in subsection (1) or (3) of this
+section for the first 90-day period of incapacity  shall be withheld until such 90-day period has
+elapsed.
+(5) An inactive member is not eligible for disability benefits referred  to in subsection (1) or (3)
+of this section unless the member applies for such disability  benefits within five calendar years after
+the date of separation from service with a participating public employer if the disability  is contin-
+uous from such separation date or within six months after the date of such separation from  service
+if disability occurs after such separation date.
+(6) In computing years  of employment for the purpose of subsection (3) of this section, the fol-
+lowing schedule shall be used: For employment before the employee established membership in the
+Enrolled Senate Bill 1049 (SB 1049-A) Page 12
+Public Employees Retirement System,  a member shall be considered to have been employed for one
+year for each year  of prior service credit allowed, and for any minor fraction of a year of continuous
+service as certified by the employer for which no prior service credit was  granted. After having
+established membership in the Public Employees Retirement System a member  shall be considered
+to have been employed one year for each 12-month period or major fraction thereof during which
+time the member received compensation for employment which entitled the member to  membership
+in the system, as evidenced by payroll records.  For the purpose of determining a member’s eligibility
+for disability benefits, no leave of absence after a member ceases to work for any participating em-
+ployer shall be considered  other than accumulated sick leave not in excess of 90 days. The effective
+date of the disability shall not in any event be determined by the board as prior to  the last day for
+which the disabled member performed services for  a participating employer. No benefits may be paid
+for any month in which the  member received salary or sick leave benefits from the participating
+employer.
+(7) For the purposes of subsections (1) and (3) of this section, a member  of the system shall be
+considered to be mentally or physically incapacitated for an extended duration  if the mental or
+physical incapacity can be expected to result in death or has lasted or can  be expected to last for
+a continuous period of not less than 90 days.
+SECTION 16.
+ ORS 238.325 is amended to read:
+238.325. (1) At any time after establishing membership, but before  the expiration of 90 days after
+the Public Employees  Retirement Board makes its finding that the employee is disabled, an employee
+who is a member  of the Public Employees Retirement System may elect to convert the disability
+retirement allowance otherwise payable on the member account  of the member into a disability re-
+tirement annuity of equivalent actuarial value, by selecting one of the optional forms named  below.
+The election  of Option 2, 2A, 3 or 3A shall be effective immediately upon the effective date of the
+member’s disability, and in the event of death within  the first 90-day period of incapacity, payment
+to the beneficiary of the member shall be made in accordance with the option selected.
+Option 1.  (a) A life annuity (nonrefund) payable during the member’s life only, which shall be
+the actuarial  equivalent of the accumulated contributions under this chapter  and interest thereon
+credited to the member at the  time the member retires (if death occurs before the first payment is
+due, the member account of the member shall be treated as though death  had occurred before re-
+tirement); (b) a life pension (nonrefund) provided by the contributions of employers and, for benefits
+that accrue on or after July 1, 2020, amounts in the  employee pension stability account es-
+tablished for the member under section 3 of this 2019 Act  as  provided in ORS 238.320 (1)(b); (c)
+an additional nonrefund pension for prior service credit, including military service, credited to  the
+member at the time the member first becomes a member of  the system, as elsewhere provided in this
+chapter, which pension shall be provided by the contributions of the employer; or
+Option 2. A reduced disability  retirement allowance payable during the period of incapacity,
+with the provision that after death, if  death shall occur after the effective date of the disability and
+during the period of incapacity, it shall continue for the life of the beneficiary  whom the member
+has designated in writing duly acknowledged and filed with the board at the time  of election, should
+the beneficiary survive the member; or
+Option 2A. A reduced disability retirement allowance payable during  the period of incapacity
+which, unless modified under subsection (3) of this section, continues  after death, if death shall oc-
+cur after the  effective date of the disability and during the period of incapacity, for the life of the
+beneficiary whom the member nominates by written designation duly acknowledged and  filed with
+the board at the time of election, should the beneficiary survive the member; or
+Option 3. A reduced disability  retirement allowance payable during the period of incapacity,
+with the provision that after death, if  death shall occur after the effective date of the disability and
+during the period of incapacity,  such allowance shall continue at one-half the rate paid to the
+member and be paid for the life of the  beneficiary whom the member has designated in writing duly
+acknowledged and filed with the board at the time of election, should the  beneficiary survive the
+member; or
+Enrolled Senate Bill 1049 (SB 1049-A) Page 13
+Option 3A. A reduced disability  retirement allowance payable during the period of incapacity
+which, unless modified under subsection (3) of  this section, continues after death, if death shall oc-
+cur after the effective date  of the disability and during the period of incapacity, at one-half the rate
+paid to the member and is paid for the life of the beneficiary whom the member nominates by writ-
+ten designation duly acknowledged and filed with the board at the time of election, should the ben-
+eficiary survive the member; or
+Option 4. A reduced disability retirement allowance payable during  the period of incapacity,
+with the provisions that if the member dies during the period of incapacity and before a total of 180
+monthly payments is made, the remainder  of the 180 monthly payments shall be paid monthly to the
+beneficiary the member nominates by written designation duly acknowledged and filed with the
+board at any time before  the member’s death; and that if the member designates no beneficiary to
+receive the monthly payments  or no such beneficiary is able to receive the monthly payments, an
+amount equal to the actuarial value, on the date of the member’s death, of the total of  the monthly
+payments not  made to the member shall be paid according to ORS 238.390 for disposal of an amount
+credited to the member  account of a member at the time of death; and that if the beneficiary re-
+ceiving monthly payments dies before the  total number of monthly payments to which the benefici-
+ary is entitled is made, an amount  equal to the actuarial value, on the date of the beneficiary’s
+death, of the total of the monthly payments not made to the member and beneficiary shall be paid
+according to ORS 238.390 for disposal of an amount credited to the member account  of a member
+at the time of death and as if the beneficiary had been a member.
+(2) The beneficiary designated  by a member to receive any benefit under this section shall be
+the same as designated under ORS 238.390 (1). The designation of a beneficiary  or the election of
+an option may  be changed by a member within 60 days after the date of the first benefit payment,
+except that the designation of a beneficiary  under Option 4 may be changed by the member at any
+time before the member’s death.
+(3) If a retired member has elected to receive  a disability retirement allowance under Option
+2A or Option 3A as provided in subsection (1) of  this section, and if the beneficiary under that op-
+tion dies after the expiration of the time within which the member could  change the election of an
+option or if the beneficiary  is the spouse of the member and the marriage relationship is terminated
+as provided by law after  the expiration of the time within which the member could change the
+election of an option, the member may elect to receive, in  lieu of the optional form of allowance
+previously elected, the allowance that the member would  have received on the effective date of re-
+tirement under Option 1 as provided in subsection (1) of this section and  adjusted by the actual
+amount of any cost-of-living or other post-retirement adjustments  made to the original allowance
+since the effective date of retirement. Notice of election under this  subsection must be in a form
+approved by the board. If an election is made under this subsection, the  Option 1 payment amount
+is applicable to the first full month after the death of the beneficiary, or the first full  month after
+entry of the judgment of divorce, and payable the  first day of the month thereafter. If the increased
+amount is not paid in any month in which the increased amount is due,  the board shall make a lump
+sum payment to the retired member  that is equal to the difference between the amount paid to the
+member for that month and the amount that should  have been paid under the provisions of this
+subsection.
+(4) The cost to the system of a disability retirement allowance  in any optional form may not
+exceed the cost to the system of a nonrefund disability  retirement allowance payable to, and on
+account of, the member making such election.
+(5) The obligation for payment of any benefit in force prior to April  8, 1953, may not be altered
+by subsections (1) to (4) of  this section. However, the beneficiary of a retired member who prior to
+July 1, 1953, elected  an option but died prior to the effective date of such election, shall have a right
+to repay, before December 31, 1953, the  amount of the lump sum refund made in lieu of the monthly
+life benefit elected and receive payment of such benefit, computed as of the date of the member’s
+death and payable from such date.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 14
+(6) If a member who  would have qualified for disability benefits makes preliminary application
+for such benefits but dies prior to being found  by the board to be disabled or prior to electing a plan
+of benefit payments, and the records of the board indicate that the member had designated the sur-
+viving spouse as beneficiary under ORS 238.390 (1), such surviving spouse may, not more  than 90
+days after the board makes its finding that the member would have  qualified for disability benefits
+if living:
+(a) Elect  to receive the amount referred to in ORS 238.395 if such benefit would have been
+available if the member had not applied for disability benefits;
+(b) If not eligible for benefits under  ORS 238.395, elect to receive benefits under ORS 238.390 (1);
+or
+(c) Elect  Option 2 or 3 under subsection (1) of this section and designate the surviving spouse
+as beneficiary thereunder with the same force and effect as if the election and designation had been
+properly made by the deceased member.
+(7) The board may deny an election to convert  a disability retirement allowance under this
+section, a change of beneficiary under this section  or a change in benefit options under this section
+if that denial is required to maintain the status of the  system and the Public Employees Retirement
+Fund as a qualified governmental retirement plan and trust under the  Internal Revenue Code and
+under regulations adopted pursuant to the Internal Revenue Code.
+SECTION 17.
+ ORS 238.395 is amended to read:
+238.395. (1) In addition to any other  benefits under this chapter, a death benefit, provided by
+contributions of the public employer under ORS  238.225 and, for benefits that accrue on or after
+July 1, 2020, amounts in the employee pension stability account established for the  member
+under section 3 of this 2019 Act , shall be paid  to the beneficiaries designated under ORS 238.390
+(1) of a  person who is an active or inactive member of the system and who dies as a result of inju-
+ries received while employed in the service of the public employer  or within 120 days after termi-
+nation from service with a participating public employer. A member  who is on a leave of absence
+without pay from employment with a participating public employer has not terminated service  with
+that participating public employer for the purposes of this section.
+(2) The death benefit referred to in subsection (1) of this section shall be an  amount equal to
+the amount in the member account of the deceased member at the time of death.
+(3) In the event that a beneficiary has  not been named as provided in subsection (1) of this
+section  and  ORS 238.390 (1), the death benefit referred to in subsection (1) of this section shall be
+paid in the  manner provided for payment of money credited to the member account of the member
+in ORS 238.390 (2).
+(4) The beneficiary designated under subsection (1) of this  section and ORS 238.390 (1) may elect
+to receive  the amount payable in actuarially determined monthly payments for the life of such ben-
+eficiary as long as such monthly payments, plus the monthly amount  if elected under ORS 238.390
+(3), are at least $200.
+(5) Interest upon the  death benefit provided by this section shall accrue until the date that the
+benefit is distributed. The board shall establish procedures for computing interest to be  credited on
+the benefit for the period between the date of death and date of distribution.
+(6) Payment  by the Public Employees Retirement Board of additional death benefits in the
+manner provided by this section completely discharges the board  and system on account of the
+death, and shall hold the board and system harmless from any claim for wrongful payment.
+SECTION 18.  ORS 243.800 is amended to read:
+243.800. (1) Notwithstanding  any provision of ORS chapter 238 or 238A or ORS 243.910 to
+243.945, the governing board  of a public university listed in ORS 352.002 shall establish and admin-
+ister an  Optional Retirement Plan for administrative and academic employees of the public univer-
+sity. The Optional Retirement Plan must  be a qualified plan under the Internal Revenue Code,
+capable of accepting funds transferred under  subsection (7) of this section without the transfer being
+treated as a taxable event under the Internal Revenue Code, and willing to accept  those funds.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 15
+Retirement and death benefits shall be provided under the plan  by the purchase of annuity con-
+tracts, fixed or variable or a combination thereof, or by contracts for investments in mutual funds.
+(2) An administrative or academic employee who is eligible to remain  or become a member of
+the Public Employees Retirement System may elect to participate in the Optional  Retirement Plan
+upon completion of:
+(a) Six hundred hours of employment, or the equivalent as determined by the governing board;
+and
+(b) Six months of employment that is not interrupted by more  than 30 consecutive working days.
+(3) An administrative or academic employee  who is eligible to remain or become a member of
+the Public Employees Retirement System, including  an administrative or academic employee who
+previously participated in the Optional Retirement  Plan because of employment in a position clas-
+sified as a post-doctoral scholar position under ORS 350.370, may make an irrevocable  election to
+participate in the Optional Retirement Plan within six months after  being employed. An election
+under this subsection  is effective on the first day of the month following the completion of the re-
+quirements of subsection (2) of this section.
+(4) An administrative or academic employee  who is eligible to remain or become a member of
+the Public Employees Retirement System and who  does not elect to participate in the Optional Re-
+tirement Plan:
+(a) Remains or becomes  a member of the Public Employees Retirement System in accordance
+with ORS chapters 238 and 238A; or
+(b) Continues to be assisted by the governing board under ORS  243.920 if the employee is being
+so assisted.
+(5) Except as  provided in subsection (6) of this section, employees who elect to participate in
+the Optional Retirement Plan are ineligible for active membership in the Public Employees  Retire-
+ment System or for any assistance by  the governing board under ORS 243.920 as long as those em-
+ployees are employed in the public university and the plan is in effect.
+(6)(a) An administrative or academic employee who elects to participate in the Optional Retire-
+ment Plan, who has creditable service under ORS chapter 238 as defined by ORS 238.005  and who
+is not vested shall be considered by the Public Employees Retirement  Board to be a terminated
+member under the provisions of ORS 238.095 as of the effective date of the election, and the
+[amount] amounts  credited to  the member [ account] accounts of the member  established under
+ORS 238.250, 238.260 and 238A.350 and section 3 of this 2019  Act  shall be transferred directly to
+the Optional Retirement Plan by the Public  Employees Retirement Board in the manner provided
+by subsection (7) of this section.
+(b) An administrative or academic employee who elects to participate in  the Optional Retire-
+ment Plan, who has creditable service under ORS chapter 238 as defined by ORS 238.005  and who
+is vested shall be considered to be an inactive member by the Public  Employees Retirement Board
+and shall retain all  the rights, privileges and options under ORS chapter 238 unless the employee
+makes a written request to the Public Employees Retirement Board for a transfer of the  amounts
+credited to the member [ account] accounts  of the member established under ORS 238.250, 238.260
+and 238A.350 and section 3 of this 2019 Act  to the Optional Retirement Plan. A  request for a
+transfer must be made at the time the member elects to  participate in the Optional Retirement Plan.
+Upon receiving the request, the Public Employees Retirement Board shall transfer  all amounts
+credited to the member [ account] accounts of the member established under ORS 238.250, 238.260
+and 238A.350 and section 3 of this 2019 Act  directly  to the Optional Retirement Plan  in the
+manner provided by subsection (7) of this section , and shall terminate all rights, privileges and
+options of the employee under [ ORS chapter 238 ] the Public Employees Retirement System .
+(c) [ An administrative or academic employee who elects to  participate in the Optional Retirement
+Plan, and who is not a vested member of the pension program of the Oregon  Public Service Retirement
+Plan as described in ORS 238A.115 ] An administrative or  academic employee who elects to
+participate in the Optional  Retirement Plan and who is a member of the pension program
+of the Oregon Public Service Retirement Plan as described in ORS  238A.100 on the date that
+Enrolled Senate Bill 1049 (SB 1049-A) Page 16
+the election becomes effective, but who  has not vested in the program under ORS 238A.115
+on the date that the election becomes effective, shall be  considered to be a terminated member of
+the [ pension program ] Public Employees Retirement System  by the Public  Employees Retirement
+Board as of the  effective date of the election. The board shall transfer the amounts credited to
+the member accounts of the member established under ORS 238A.350 and section 3  of this
+2019 Act  directly to the Optional Retirement Plan in the manner provided by subsection (7)
+of this section.
+(d) An administrative or  academic employee who elects to participate in the Optional Retire-
+ment Plan, and who is a vested member of the pension program of the  Oregon Public Service Re-
+tirement Plan as described in ORS 238A.115  on the date that the election becomes effective, shall
+be considered an inactive  member of the pension program by the Public Employees Retirement
+Board as of the effective  date of the election. [ An employee ] A member  who is subject to the pro-
+visions of this paragraph  retains all the rights, privileges and options of an inactive member of the
+pension program[ . If the actuarial equivalent  of the employee’s benefit under the pension program at
+the time that the election becomes effective  is $5,000 or less, the employee may make ], unless the
+member makes  a written request  to the Public Employees Retirement Board for a transfer of the
+[employee’s interest under the pension  program ] amounts credited to the member accounts of the
+member established under ORS 238A.350 and section  3 of this 2019 Act  to the Optional Re-
+tirement Plan. The  request must be made at the time the member elects to participate in the Op-
+tional Retirement  Plan. Upon receiving the request, the Public Employees Retirement Board shall
+transfer the [ amount determined to be the actuarial  equivalent of the employee’s benefit under the
+pension program ] amounts credited to the member accounts of the member  established under
+ORS 238A.350 and section 3 of this 2019 Act  directly to  the Optional Retirement Plan  in the
+manner provided by subsection  (7) of this section , and shall terminate the membership of the
+employee in the [ pension program ] Public Employees Retirement System .
+[(e) An administrative or academic employee who elects  to participate in the Optional Retirement
+Plan, and who is  a vested member of the individual account program of the Oregon Public Service
+Retirement Plan as described in  ORS 238A.320 on the date that the election becomes effective, shall
+be considered an inactive member of the individual account program by the Public Employees  Retire-
+ment Board as of the  effective date of the election. An employee who is subject to the provisions of this
+paragraph retains all the rights, privileges and options of an inactive  member of the individual account
+program. An administrative or academic employee who elects to participate  in the Optional Retirement
+Plan, and who is a member of the individual account program  of the Oregon Public Service Retirement
+Plan, may make  a written request to the Public Employees Retirement Board that all amounts in the
+member’s employee account, rollover account and employer account, to the extent the member is  vested
+in those accounts under ORS 238A.320, be transferred to the Optional Retirement Plan. The request
+must be made at the time the member elects to participate in  the Optional Retirement Plan. Upon re-
+ceiving the request, the Public Employees Retirement Board shall transfer the  amounts directly to the
+Optional Retirement Plan, and shall terminate the membership  of the employee in the individual ac-
+count program upon making the transfer. ]
+[(f)] (e) Notwithstanding paragraphs [ (b), (d) and (e) ] (b) and (d)  of this subsection, the Public
+Employees Retirement Board may not  treat any employee as an inactive member under the pro-
+visions of this  subsection for the purpose of receiving any benefit under ORS chapter 238 or 238A
+that requires that the employee be separated from all service with  participating public employers
+and with employers who  are treated as part of a participating public employer’s controlled group
+under the federal laws and rules governing the  status of the Public Employees Retirement System
+and the Public Employees Retirement Fund as a qualified governmental retirement plan and trust.
+(7) Any amounts transferred from the Public Employees Retirement Fund under subsection  (6)
+of this section shall  be transferred directly to the Optional Retirement Plan by the Public Employees
+Retirement Board and may not be made available to the employee.
+(8) An employee participating in the Optional Retirement Plan  who was hired before July 1,
+2014, shall contribute monthly an amount equal to the percentage of the employee’s salary that  the
+Enrolled Senate Bill 1049 (SB 1049-A) Page 17
+employee would otherwise have contributed  as an employee contribution to the Public Employees
+Retirement System if the employee had not elected to participate in the Optional Retirement Plan.
+(9) For an employee participating in the Optional Retirement Plan who was hired before July
+1, 2014, the governing board shall contribute monthly to the Optional  Retirement Plan the percent-
+age of  salary of the employee equal to the percentage of salary that would otherwise have been
+contributed as an employer contribution on behalf of the employee  to the Public Employees Retire-
+ment System, before any offset under ORS 238.229 (2), if the employee had not elected to participate
+in the Optional Retirement Plan.
+(10) For  an employee participating in the Optional Retirement Plan who was hired on or after
+July 1, 2014, the governing board shall contribute monthly to the Optional Retirement Plan:
+(a) Eight percent of the employee’s salary; and
+(b) A percentage of the  employee’s salary equal to the percentage of salary contributed by the
+employee to the public university’s Tax-Deferred Investment 403(b) Plan under  ORS 243.820, up to
+four percent of the employee’s salary in each pay period.
+(11)(a) Unless otherwise prohibited by law,  a person employed in a position classified as a
+post-doctoral scholar position under ORS 350.370 is an academic employee under subsection (1)  of
+this section and becomes  a participant in the Optional Retirement Plan when the person participates
+in the public university’s Tax-Deferred Investment 403(b) Plan under ORS 243.820.
+(b) Participation in the Optional Retirement Plan under this subsection becomes  effective on the
+first day of the month following the later of:
+(A) Enrollment in the public university’s Tax-Deferred  Investment 403(b) Plan under ORS
+243.820; or
+(B) Completion of:
+(i) Six hundred hours of employment, or the  equivalent as determined by the governing board;
+and
+(ii) Six months of employment that is not  interrupted by more than 30 consecutive working days.
+(c) For a post-doctoral scholar participating  in the Optional Retirement Plan, the governing
+board shall contribute monthly  to the Optional Retirement Plan a percentage of the post-doctoral
+scholar’s salary equal to the percentage of  salary contributed by the post-doctoral scholar to the
+public university’s Tax-Deferred Investment 403(b) Plan  under ORS 243.820, up to four percent of the
+post-doctoral scholar’s salary in each pay period.
+(d) A post-doctoral scholar is an academic employee who elects to participate in  the Optional
+Retirement Plan for purposes of subsection (6) of this section.
+(e) Subsections (8) to (10) of this  section do not apply to a post-doctoral scholar participating in
+the Optional Retirement Plan.
+(12) Both employee and employer contributions  to an Optional Retirement Plan shall be remitted
+directly to the companies that have issued  annuity contracts to the participating employees or di-
+rectly to the mutual funds.
+(13) Benefits under the Optional Retirement Plan are payable to employees who elect to partic-
+ipate in  the plan and their beneficiaries by the selected annuity provider or mutual fund in accord-
+ance with the terms of  the annuity contracts or the terms of the contract with the mutual fund.
+Employees electing to participate in the Optional Retirement Plan agree  that benefits payable under
+the plan are not obligations of the State of Oregon or of the Public Employees Retirement System.
+SECTION 19.
+ ORS 341.551 is amended to read:
+341.551. (1) Notwithstanding any provision of ORS chapter  238 or 238A, the Office of Community
+Colleges and Workforce Development may establish and administer an  optional retirement plan for
+administrative employees of community college districts who are eligible for membership in  the
+Public Employees Retirement System. Any community college  district may participate in the plan
+by giving written notice to the office.
+(2) An  administrative employee may make an election to participate in the optional retirement
+plan if the community college district that employs the employee is participating  in the plan. The
+election must be made in the following manner:
+Enrolled Senate Bill 1049 (SB 1049-A) Page 18
+(a) An administrative employee who is an active member of  the Public Employees Retirement
+System may make an election to participate in the plan within 180 days after  the community college
+district commences participation in the plan, effective on the first day of the month  following the
+election.
+(b) An administrative employee who  is hired after the community college district commences
+participation  in  the plan may make an election to participate in the plan within the first six months
+of employment, effective on the first day of the month following six full months of employment.
+(3) An administrative employee who does not elect to participate in  the optional retirement plan
+remains or becomes a member of the Public Employees Retirement System in accordance with ORS
+chapters 238 and 238A.
+(4) An administrative employee  may elect to participate in the optional retirement plan only if
+at the time the election becomes effective the employee is  not concurrently employed in a position
+with any participating public employer other than the community college district in a  position that
+entitles the employee to  membership in the Public Employees Retirement System. Except as pro-
+vided in subsection (9) of this  section, employees who elect to participate in the optional retirement
+plan are ineligible for active membership  in the Public Employees Retirement System for as long
+as those employees are employed by a community college district that participates in  the plan,
+whether by reason of employment by the district or any other participating public employer.
+(5)(a) An  administrative employee who elects to participate in the optional retirement plan, who
+has creditable service under ORS chapter 238 as defined by ORS  238.005 and who is not vested shall
+be considered by the Public Employees Retirement Board to be a terminated member  under the
+provisions of ORS 238.095 as of the effective date of the election, and the [ amount] amounts cred-
+ited to the member  [account] accounts of the member established under ORS 238.250, 238.260 and
+238A.350 and section 3 of this 2019 Act  shall  be transferred directly to the optional retirement
+plan by the Public Employees Retirement Board in the manner  provided by subsection (6) of this
+section.
+(b) An administrative  employee who elects to participate in the optional retirement plan, who
+has creditable service under ORS  chapter 238 as defined by ORS 238.005 and who is vested shall
+be considered to be an  inactive member by the Public Employees Retirement Board and shall retain
+all the rights, privileges and options under ORS chapter  238 unless the employee makes a written
+request to the Public Employees  Retirement Board for a transfer of the amounts credited to the
+member [ account] accounts of the member established under ORS 238.250, 238.260  and 238A.350
+and section 3 of this 2019 Act  to the optional retirement plan.  A request for a transfer must be
+made at the time the member elects to participate in the optional retirement plan. Upon receiving
+the request, the Public Employees Retirement Board shall transfer all amounts  credited to the
+member [ account] accounts of the member  established under ORS 238.250, 238.260  and 238A.350
+and section 3 of this 2019 Act  directly to the optional retirement plan in the manner provided
+by subsection (6) of this section  and shall terminate all rights, privileges and options of the em-
+ployee under [ ORS chapter 238 ] the Public Employees Retirement System .
+(c) [ An administrative employee who elects to participate in the  optional retirement plan and who
+is not a vested member of the  pension program of the Oregon Public Service Retirement Plan as de-
+scribed in ORS 238A.115 ] An administrative  employee who elects to participate in the optional
+retirement plan and who is a member of the pension program of the Oregon Public Service
+Retirement Plan as described in ORS 238A.100 on  the date that the election becomes effec-
+tive, but who has not vested in the program under ORS 238A.115  on the date that the  election
+becomes effective , shall be considered to be  a terminated member of the [ pension program ] Public
+Employees Retirement System  by the Public Employees Retirement Board as of the effective  date
+of the election.  The board shall transfer the  amounts credited to the member accounts of the
+member established under ORS 238A.350 and section 3 of this 2019 Act directly to the  op-
+tional retirement plan in the manner provided by subsection (6) of this section.
+(d) An administrative employee who elects to participate in the optional retirement plan and
+who is a vested member  of the pension program of the Oregon Public Service Retirement Plan as
+Enrolled Senate Bill 1049 (SB 1049-A) Page 19
+described in ORS 238A.115 on the date that the election becomes effective shall be  considered an
+inactive member of the pension program  by the Public Employees Retirement Board as of the ef-
+fective date of the election. [ An employee ] A member  who is subject to the provisions of  this par-
+agraph retains all the rights, privileges and options of  an inactive member of the pension
+program[. If the actuarial equivalent of the employee’s benefit under the pension  program at the time
+that the election becomes effective is $5,000 or less, the employee may  make ], unless the member
+makes a written request to the Public Employees Retirement Board for  a transfer of the [ employee’s
+interest under the pension program ] amounts credited to the member accounts of the member
+established under ORS 238A.350 and section 3 of this 2019  Act  to the optional retirement plan.
+The request must be made at the time the member elects to participate in  the optional retirement
+plan. Upon receiving the request, the Public Employees Retirement Board shall transfer  the [ amount
+determined to be the actuarial equivalent of the employee’s benefit under  the pension program ]
+amounts credited to the member accounts of the member established under ORS 238A.350
+and section 3 of this 2019 Act  directly to the optional retirement plan in the manner provided
+by subsection (6) of this section  and shall terminate the membership of the employee in the [ pen-
+sion program ] Public Employees Retirement System .
+[(e) An administrative employee  who elects to participate in the optional retirement plan and who
+is a vested member of the individual account program of  the Oregon Public Service Retirement Plan
+as described in ORS 238A.320 on the date that the election becomes effective shall be considered  an
+inactive member of the individual account program by the Public Employees Retirement Board  as of
+the effective date of the election. An employee who is subject to the provisions  of this paragraph retains
+all the rights, privileges and options of  an inactive member of the individual account program. An
+administrative employee who elects to participate in the optional retirement plan  and who is a member
+of the individual account program of the Oregon Public Service Retirement Plan may  make a written
+request to the Public Employees Retirement Board that all  amounts in the member’s employee account,
+rollover account and employer account, to the extent the member  is vested in those accounts under ORS
+238A.320, be transferred to the optional retirement plan. The request must  be made at the time the
+member elects to participate in the optional retirement plan. Upon receiving  the request, the Public
+Employees Retirement Board shall transfer the  amounts directly to the optional retirement plan and
+shall terminate the membership of the employee in the individual account program. ]
+[(f)] (e) Notwithstanding paragraphs [ (b), (d) and (e) ] (b) and (d)  of this subsection, the Public
+Employees Retirement Board shall not treat any employee as an inactive member under the pro-
+visions of this  subsection for the purpose of receiving any benefit under ORS chapter 238 or 238A
+that requires that the employee be separated from all service with  participating public employers
+and with employers who  are treated as part of a participating public employer’s controlled group
+under the federal laws and rules governing the  status of the Public Employees Retirement System
+and the Public Employees Retirement Fund as a qualified governmental retirement plan and trust.
+(6) Any amounts transferred from the Public Employees Retirement Fund under subsection  (5)
+of this section shall be transferred directly  to the optional retirement plan by the Public Employees
+Retirement Board and shall not be made available to the employee.
+(7) An employee participating in the optional retirement plan shall contribute  monthly an
+amount equal to the percentage of the employee’s salary that the employee would  otherwise have
+contributed as an employee contribution to the Public  Employees Retirement System if the employee
+had not elected to participate in the optional retirement plan.
+(8) A participating community college  district shall contribute monthly to the optional retire-
+ment plan the percentage  of salary for each employee participating in the plan that is equal to the
+percentage of salary that is required to be made as the employer  contribution under ORS 238A.220,
+less any contributions made by reason of unfunded liabilities. The district may  make contributions
+under this subsection only during periods of time in which  the employee would be eligible for
+membership in the Public Employees Retirement System if the employee had  not elected to partic-
+ipate in the optional retirement plan.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 20
+(9) An administrative employee who elects to participate  in the optional retirement plan may
+make an election to withdraw from  the plan. An employee may make an election under this sub-
+section only once. Upon withdrawing from the plan:
+(a) All contributions made to the plan before the effective date  of the withdrawal remain cred-
+ited to the employee;
+(b) The employee becomes a member of the  Public Employees Retirement System under ORS
+chapter 238A if the member meets all requirements for membership under ORS chapter 238A; and
+(c) The employee is barred from ever again electing to participate  in the optional retirement
+plan.
+(10) For the purposes of this section,  “administrative employee” means a president, vice presi-
+dent or dean,  or a person holding a position that is the equivalent of a president, vice president or
+dean.
+SIDE ACCOUNTS
+SECTION 20.  Section 3b, chapter 105, Oregon Laws 2018, is amended to read:
+Sec. 3b. (1)  If a participating public  employer makes a lump sum payment from moneys not
+borrowed by the employer to an account established under ORS  238.229 in an amount equal to or
+greater than $10  million, the Public Employees Retirement Board shall allow the participating public
+employer to choose an amortization period of six years, 10 years, 16 years or 20 years for the  use
+of the lump sum payment to offset contributions to the  system that the public employer would oth-
+erwise be required to make for the liabilities against which the lump sum payment is applied.
+(2)(a) The board shall allow a participating public employer making a  lump sum payment
+under this section to choose the year in which to begin to use the lump sum  payment to
+offset contributions to the system that the  public employer would otherwise be required to
+make for the liabilities against  which the lump sum payment is applied. The board shall begin
+using the lump sum payment on July 1 of the year chosen under this subsection, with the
+beginning contribution offset rate based on  the actuarial report under ORS 238.605 most re-
+cently published as of the date chosen by the public employer.
+(b) Notwithstanding paragraph (a)  of this subsection, the board may, after consultation
+with the participating public employer, begin using  a lump sum payment to offset contrib-
+utions in an earlier  year than the year chosen by the public employer under this section to
+ensure that the period for using the lump sum payment, including earnings accrued, will end
+no later than 20 years after the date of  the actuarial report under ORS 238.605 for the year
+the lump sum payment is made.
+(c) A lump sum payment for which a  participating public employer chooses when to begin
+to use the lump sum payment to offset contributions under this subsection is not a qualifying
+lump sum payment for purposes of section 2, chapter 105, Oregon Laws 2018.
+(d) In  lieu of the expenses authorized under ORS 238.229 (3), the board may charge a
+participating public employer expenses for administration of an account as provided by this
+subsection in an amount established by the board by rule.
+SECTION 21.
+ Section 3b, chapter 105, Oregon Laws 2018, as amended  by section 20 of this 2019
+Act, is amended to read:
+Sec. 3b.  [ (1)] If a participating public employer  makes a lump sum payment from moneys not
+borrowed by the employer to an account established under ORS  238.229 in an amount equal to or
+greater than $10  million, the Public Employees Retirement Board shall allow the participating public
+employer to choose an amortization period of six years, 10 years, 16 years or 20 years for the  use
+of the lump sum payment to offset contributions to the  system that the public employer would oth-
+erwise be required to make for the liabilities against which the lump sum payment is applied.
+[(2)(a) The board shall allow a participating public employer making a lump sum payment  under
+this section  to choose the year in which to begin to use the lump sum payment to offset contributions
+to the  system that the public employer would otherwise be required to make for the liabilities against
+Enrolled Senate Bill 1049 (SB 1049-A) Page 21
+which the lump sum payment is applied. The board shall begin using the lump  sum payment on July
+1 of the  year chosen under this subsection, with the beginning contribution offset rate based on the
+actuarial report under  ORS 238.605 most recently published as of the date chosen by the public em-
+ployer.]
+[(b) Notwithstanding paragraph (a) of this subsection, the board may,  after consultation with the
+participating public  employer, begin using a lump sum payment to offset contributions in an earlier
+year than the year chosen  by the public employer under this section to ensure that the period for using
+the lump sum payment, including earnings accrued, will end no later  than 20 years after the date of
+the actuarial report under ORS 238.605 for the year the lump sum payment is made. ]
+[(c) A lump sum payment for which  a participating public employer chooses when to begin to use
+the lump sum payment to offset contributions under this  subsection is not a qualifying lump sum pay-
+ment for purposes of section 2, chapter 105, Oregon Laws 2018. ]
+[(d) In lieu of the expenses authorized under ORS 238.229 (3), the board may  charge a participat-
+ing public employer expenses for administration of an account as provided by this subsection  in an
+amount established by the board by rule. ]
+PENSION OBLIGATION BONDS
+SECTION 22. Section 23 of this 2019 Act is added to  and made a part of ORS 238.692 to
+238.698.
+SECTION 23. (1) Before a public body, or an intergovernmental  entity formed pursuant
+to ORS 238.695, may authorize the issuance of bonds under  ORS 238.694, the public body or
+intergovernmental entity must first:
+(a) Obtain a statistically based assessment from an  independent economic or financial
+consulting firm regarding the likelihood that investment returns on bond  proceeds will ex-
+ceed the interest cost of the bonds under various market conditions; and
+(b) Make a report available to the general public that:
+(A) Describes the results of the assessment; and
+(B) Discloses whether the public body or intergovernmental entity has  retained the ser-
+vices of an independent SEC-registered advisor.
+(2) The public body or intergovernmental entity shall  transmit the assessment to the
+State Treasurer at least 30 days before issuing the bonds.
+(3) The State Treasurer shall provide to  the State Debt Policy Advisory Commission an
+annual report on bonds issued under ORS 238.694. The report must  describe each bond issu-
+ance under ORS 238.694  that took place on or after the effective date of this 2019 Act and
+that remains outstanding, including, for each issuance:
+(a) The actual interest rate owed over the term of the bonds;
+(b) The projected rate of return on the bond proceeds,  as determined by the assessment
+required under subsection (1) of this section; and
+(c) The actual rate of return on the bond proceeds in the  previous fiscal year and the
+cumulative rate of return on the bond proceeds.
+(4) As used in this section, “independent SEC-registered advisor”  has the meaning given
+the term “independent registered municipal advisor” in 17 C.F.R. 240.15Ba1-1, as amended.
+SECTION 24.
+ ORS 238.694 is amended to read:
+238.694. (1) The Legislative Assembly finds that authorizing issuance of revenue bonds to finance
+pension liabilities  may reduce the cost of public pensions to taxpayers and that the reduction of
+those costs to taxpayers is a matter of statewide concern.
+(2) Notwithstanding the limitation  on indebtedness in ORS 287A.105 or any other limitation on
+indebtedness or borrowing under state or local law, for the purpose of  obtaining funds to pay the
+pension liability of a public body, the governing body of a public body  may authorize and cause the
+issuance of revenue bonds under ORS chapter 287A , subject to section 23 of this 2019 Act .
+Enrolled Senate Bill 1049 (SB 1049-A) Page 22
+(3) The governing body  of a public body may pledge the full faith and credit and taxing power
+of the public body to the payment of the  principal and interest on bonds issued under ORS 238.692
+to 238.698, and any premium on those bonds.
+(4) Unless the  charter of a county provides a lower limit, a county may issue revenue bonds to
+finance pension liabilities in an amount that  does not exceed five percent of the real market value
+of the taxable property within the boundaries of the county.
+(5) Revenue bonds authorized under this  section need not comply with the procedure specified
+in ORS 287A.150.
+(6) A public body that issues revenue bonds under this section may also issue revenue bonds for
+the purpose of refunding the bonds.
+(7) A public body may enter into indentures or other agreements with trustees or escrow  agents
+for the issuance, administration or payment of bonds authorized under this section.
+SECTION 25.  ORS 238.695 is amended to read:
+238.695. (1) Public bodies may enter into  intergovernmental agreements for the collective issu-
+ance, administration  or payment of bonds authorized under ORS 238.694. An agreement for collective
+issuance, administration or payment of bonds under this subsection may  provide for the contribution
+and pooling of the assets of the public bodies as security  for the bonds, and may make provisions
+for such other matters as the public  bodies determine convenient. Notwithstanding ORS 190.080,
+any intergovernmental entity created by  public bodies under this section shall have the power to
+issue bonds as described in ORS 238.694 , subject to  section 23 of this 2019 Act . The bonds may
+be issued and sold as parity bonds, issued and sold individually or issued and  sold in such combi-
+nations or forms as determined to be appropriate by the public bodies.
+(2) Proceeds of bonds  sold under an intergovernmental agreement entered into under this sec-
+tion, and any other funds or assets  of a public body, together with interest or earnings on the pro-
+ceeds, funds and assets, may be consolidated into  one or more funds or accounts and may be pledged
+to the holders of the bonds.
+(3) Public bodies may enter into indentures or other agreements  with trustees or escrow agents
+for the issuance, administration  or payment of bonds pursuant to an intergovernmental agreement
+entered into under this section.
+(4) The State Treasurer may cooperate with, assist and provide recommendations  to public
+bodies, and any intergovernmental entity created by public  bodies under this section, relating to all
+matters involved in the issuance, administration and payment of bonds. Any expenses incurred by
+the State Treasurer in providing assistance to public bodies under this  section may be paid as an
+administrative expense of the public body  from the proceeds of the bonds issued with the assistance
+of the State Treasurer.
+SECTION 26.
+ ORS 238.698 is amended to read:
+238.698. (1) A public  body, or a group of public bodies that enter into an intergovernmental
+agreement under ORS 238.695, that receives funds from any state agency may enter into  a funds
+diversion agreement with the state agency for the purpose of  paying the principal and interest on
+bonds issued under ORS 238.692 to 238.698, and any premium on  those bonds. A diversion agreement
+entered into under this section must provide that:
+(a) Moneys payable to the public body or group of public  bodies by the state agency from ap-
+propriations from the General Fund or any other source of moneys  will be paid directly to a debt
+service trust fund  established under ORS 238.696 in amounts equal to the debt service owed by the
+public body or group of public bodies;
+(b) The  state agency must pay the amounts required under the funds diversion agreement to the
+debt service trust fund established under ORS 238.696 pursuant to the schedule  specified in the
+agreement before paying any other amounts to the public body or group of public bodies;
+(c) The agreement is irrevocable; and
+(d) The agreement will  remain in effect until all the bonds issued by the public body or under
+the intergovernmental agreement are mature or redeemed.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 23
+(2) A school  district, education service district or public charter school may not enter
+into a funds diversion agreement to divert more than the amount of  funds received by the
+district or public charter school from the State School Fund.
+[(2)] (3) If for any reason a state agency that  has entered into a funds diversion agreement is
+not able to pay moneys to a debt service trust fund as  contemplated by the agreement, the state
+agency shall give notice to the public body or group of public bodies within 30 days after the state
+agency is aware that the moneys will not be paid.
+[(3)] (4) Nothing in this section, or in any funds diversion agreement entered into  by a state
+agency under this section, may in any manner obligate the state or any state agency:
+(a) To pay any amount that a public body is not otherwise entitled to receive under law; or
+(b) To pay any principal or interest on bonds issued under ORS 238.692 to 238.698.
+AMORTIZATION OF UNFUNDED ACTUARIAL LIABILITY
+SECTION 27.
+In the year 2019,  the Public Employees Retirement Board shall determine
+the liabilities of  the Public Employees Retirement System attributable to the benefits to be
+provided to members who established membership in the system before August  29, 2003, and
+shall set the amount of contributions to  be made by participating public employers, and by
+other public employers that are required to make  contributions on behalf of members, to
+ensure that those liabilities will  be funded 22 years after the date on which the determination
+is made.
+SECTION 28. Section 27 of this 2019 Act is repealed on January 2, 2020.
+EMPLOYEE CHOICE
+SECTION 29.  Section 2, chapter 118, Oregon Laws 2018, is amended to read:
+Sec. 2.  (1) Except as provided in subsection [ (6)] (5) of this section, the Public Employees Re-
+tirement Board, in consultation with the office of the State Treasurer, shall  adopt rules providing
+that if the Oregon Investment Council invests the assets  of the individual account program in mul-
+tiple risk categories depending on the  characteristics of an individual member, a member of the in-
+dividual account program may elect to  have the moneys in the member’s individual accounts
+established under ORS 238A.350 deposited into an investment option approved by the council.
+(2) A member may make an election under this section once per calendar  year. The board shall
+establish by rule the  date by which a member must make an election under this section in order for
+the election to become effective on January 1 of the following calendar year.
+[(3) Subject to such direction and oversight as may be  provided by the Legislative Assembly, the
+board shall take all steps necessary to develop  and implement the information technology systems
+needed to implement and carry out this section. ]
+[(4) The board  may contract with a private provider for purposes of implementing this section. The
+board is not subject to the provisions of ORS chapter 279A or 279B in  awarding a contract under the
+provisions of this subsection. The board shall  establish procedures for inviting proposals and awarding
+contracts under this subsection. ]
+(3) The board shall give each member of  the individual account program a disclosure
+statement in writing  that contains information regarding the investment options approved
+under this section, including the risk and  return characteristics of the investment options,
+that members should consider when making an investment decision for their funds.
+[(5)] (4) The board may adopt rules as necessary to  implement this section, which may include
+rules to create a  separate trust or subtrust to hold moneys that are subject to members’
+investment choice and direction,  but the council  and the office of the State Treasurer retain au-
+thority over investment decisions required to implement this section.
+[(6)] (5) The board may not adopt rules under subsection (1) of this  section that violate state
+or federal laws or regulations.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 24
+SECTION 30.  Section 3, chapter 118, Oregon Laws 2018, is amended to read:
+Sec. 3.  The Public Employees Retirement Board shall  allow members of the individual account
+program to make an election under section 2 , [ of this 2018 Act ] chapter 118, Oregon Laws 2018,
+that becomes effective on January 1, [ 2019] 2021.
+SECTION 31. Section 32 of this 2019  Act is added to and made a part of ORS chapter
+238A.
+SECTION 32. The state, the State Treasurer, the Oregon Investment Council  and the
+Public Employees Retirement Board, and their officers or employees,  are not liable in a civil
+action or otherwise, for any losses suffered by  a member because of a member’s election of
+an investment option under section 2, chapter 118, Oregon Laws 2018.
+SECTION 33. Section 4, chapter 118, Oregon Laws 2018, is repealed.
+WORK AFTER RETIREMENT
+SECTION 34. Section 35 of  this 2019 Act is added to and made a part of ORS chapter 238.
+SECTION 35. (1) Notwithstanding ORS 238.082 (2) and subject to  the limitations in this
+section, during calendar year 2020, 2021, 2022, 2023  or 2024, a participating public employer
+may employ any retired member without limitation on the hours worked by the retired
+member if the administrative head of the public employer is satisfied  that the employment
+is in the public interest.
+(2) A public employer that employs a retired member under ORS 238.082 or 238.088 (2)
+during calendar year 2020, 2021, 2022, 2023 or 2024  shall contribute to the Public Employees
+Retirement Board the percentage of the member’s wages that would have  been contributed
+to the board under ORS 238.225 if  the member were an active member of the Public Em-
+ployees Retirement System. Employer contributions made under this section  are in addition
+to employer contributions made under  ORS 238.225. The board shall apply contributions made
+by a public employer under this subsection against the  liabilities of the public employer. The
+board shall adopt rules governing payments made under this subsection.
+(3) A retired member who is receiving old-age,  survivors or disability insurance benefits
+under the federal Social Security Act may  be employed during calendar year 2020, 2021, 2022,
+2023 or 2024 for no more than the number of hours  for which the salary equals the maximum
+allowed for receipt of the full amount of those benefits to which the person is entitled.
+(4) This section does not apply to any member who retires under the provisions of ORS
+238.280 (1), (2) or  (3), unless the person’s date of retirement is more than six months before
+the date the person is employed under this section.
+(5) Employment under this section does not affect the status of a  person as a retired
+member of the system and a recipient of retirement benefits under this chapter.
+SECTION 36.
+Section 37 of this 2019  Act is added to and made a part of ORS chapter
+238A.
+SECTION 37. (1) Notwithstanding ORS 238A.245 and subject to the limitations in this
+section, during calendar year 2020, 2021, 2022, 2023  or 2024, a participating public employer
+may employ any retired member without limitation on the hours worked by the retired
+member if the administrative head of the public employer is satisfied  that the employment
+is in the public interest. The Public  Employees Retirement Board shall continue making
+pension payments to  a retired member of the pension program who is reemployed under this
+section.
+(2) A public employer that employs a retired member during  calendar year 2020, 2021,
+2022, 2023 or 2024 shall contribute to the board the  percentage of the member’s wages that
+would have been contributed to the board under ORS 238A.220 if the  member were an active
+member of the Public Employees Retirement System. Employer contributions made under
+this section are in addition to employer contributions made under ORS 238A.220. The board
+shall apply contributions made  by a public employer under this subsection against the li-
+Enrolled Senate Bill 1049 (SB 1049-A) Page 25
+abilities of the public employer. The board  shall adopt rules governing payments made under
+this subsection.
+(3) A retired member who is receiving old-age,  survivors or disability insurance benefits
+under the federal Social Security Act may  be employed during calendar year 2020, 2021, 2022,
+2023 or 2024 for no more than the number of hours  for which the salary equals the maximum
+allowed for receipt of the full amount of those benefits to which the person is entitled.
+(4) This section does not apply to any member who retires under the provisions of ORS
+238A.185, unless  the person’s date of retirement is more than six months before the date the
+person is employed under this section.
+(5) Employment under this section  does not affect the status of a person as a retired
+member of the pension program and a recipient of retirement benefits under this chapter.
+SECTION 38. Sections 35 and 37 of this 2019 Act are repealed on January 2, 2025.
+FINAL AVERAGE SALARY
+SECTION 39. ORS 238.005, as amended by section 4, chapter 54, Oregon Laws  2018, is amended
+to read:
+238.005. For purposes of this chapter:
+(1) “Active member” means a member who is presently employed by a participating public em-
+ployer in a qualifying position and who  has completed the six-month period of service required by
+ORS 238.015.
+(2) “Annuity” means payments for life derived  from contributions made by a member as provided
+in this chapter.
+(3) “Board” means the Public Employees Retirement Board.
+(4) “Calendar year” means 12 calendar months commencing on January 1 and  ending on De-
+cember 31 following.
+(5) “Continuous service”  means service not interrupted for more than five years, except that
+such continuous service shall be computed without regard to interruptions in the case of:
+(a) An employee who had returned to the service of  the employer as of January 1, 1945, and
+who remained in that employment until having  established membership in the Public Employees
+Retirement System.
+(b) An employee who was  in the armed services on January 1, 1945, and returned to the service
+of the employer within one year of the date of being otherwise than dishonorably  discharged and
+remained in that employment  until having established membership in the Public Employees Retire-
+ment System.
+(6) “Creditable service” means any period of time during which an active member is being paid
+a salary by a participating public employer and  for which benefits under this chapter are funded by
+employer contributions and earnings  on the fund. For purposes of computing years of “creditable
+service,” full months and major fractions of a month shall be considered  to be one-twelfth of a year
+and shall be added to all full years. “Creditable service” includes all retirement  credit received by
+a member.
+(7) “Earliest service  retirement age” means the age attained by a member when the member
+could first make application for retirement under the provisions of ORS 238.280.
+(8) “Employee” includes, in addition to employees, public officers, but does not include:
+(a) Persons engaged as independent contractors.
+(b) Seasonal, emergency or  casual workers whose periods of employment with any public em-
+ployer or public employers do not total 600 hours in any calendar year.
+(c) Persons provided  sheltered employment or made-work by a public employer in an employment
+or industries program maintained for the benefit of such persons.
+(d) Persons employed and  paid from federal funds received under a federal program intended
+primarily to alleviate unemployment.  However, any such person shall be considered an “employee”
+Enrolled Senate Bill 1049 (SB 1049-A) Page 26
+if not otherwise excluded  by paragraphs (a) to (c) of this subsection and the public employer elects
+to have the person so considered by an irrevocable written notice to the board.
+(e) Persons who are employees of a  railroad, as defined in ORS 824.020, and who, as such em-
+ployees, are included in a retirement plan  under federal railroad retirement statutes. This paragraph
+shall be deemed to have been in effect since the inception of the system.
+(f) Persons employed in positions classified  as post-doctoral scholar positions by a public uni-
+versity listed in ORS 352.002, or by the Oregon Health and Science University, under ORS 350.370.
+(9) “Final average salary” means whichever of the following is greater:
+(a) The average salary per calendar year paid by one  or more participating public employers to
+an employee who is  an active member of the system in three of the calendar years of membership
+before the effective date of retirement of the  employee, in which three years the employee was paid
+the highest salary. The three calendar years in which  the employee was paid the largest total salary
+may include calendar years in which the employee was employed for less than a full  calendar year.
+If the number of calendar years of active membership before the effective date  of retirement of the
+employee is three or fewer, the final average salary for the employee is the average salary  per
+calendar year paid by one or more participating public employers to the employee in all  of those
+years, without regard to whether the employee was employed for the full calendar year.
+(b) One-third of the total salary paid by  a participating public employer to an employee who is
+an active member of the system in the last 36 calendar months  of active membership before the ef-
+fective date of retirement of the employee.
+(10) “Firefighter” does not include a volunteer firefighter, but does include:
+(a) The State Fire Marshal, the chief deputy fire marshal and deputy state fire marshals; and
+(b) An employee of the State Forestry Department who is  certified by the State Forester as a
+professional wildland firefighter and whose primary  duties include the abatement of uncontrolled
+fires as described in ORS 477.064.
+(11) “Fiscal year” means 12 calendar  months commencing on July 1 and ending on June 30 fol-
+lowing.
+(12) “Fund” means the Public Employees Retirement Fund.
+(13) “Inactive member” means a member who  is not employed in a qualifying position, whose
+membership has not been terminated in the manner described by  ORS 238.095 and who is not retired
+for service or disability.
+(14) “Institution of higher education”  means a public university listed in ORS 352.002, the
+Oregon Health and Science University and a community college, as defined in ORS 341.005.
+(15) “Member” means a person who has established membership in the  system and whose mem-
+bership has not been terminated as  described in ORS 238.095. “Member” includes active, inactive
+and retired members.
+(16) “Member account” means the regular account and the variable account.
+(17) “Normal retirement age” means:
+(a) For a person who establishes  membership in the system before January 1, 1996, as described
+in ORS 238.430, 55 years of age if the employee retires at that age as a police officer  or firefighter
+or 58 years of age if the employee retires at that age as other than a police officer or firefighter.
+(b) For a person who establishes membership in the system on or after January 1, 1996,  as de-
+scribed in ORS 238.430, 55 years of age if the employee retires at  that age as a police officer or
+firefighter or 60 years of age if the employee retires at that age as other  than a police officer or
+firefighter.
+(18) “Pension”  means annual payments for life derived from contributions by one or more public
+employers.
+(19) “Police officer” includes:
+(a) Employees of institutions defined in ORS 421.005 as  Department of Corrections institutions
+whose duties, as assigned by the  Director of the Department of Corrections, include the custody of
+persons committed to  the custody of or transferred to the Department of Corrections and employees
+Enrolled Senate Bill 1049 (SB 1049-A) Page 27
+of the Department of  Corrections who were classified as police officers on or before July 27, 1989,
+whether or not such classification was authorized by law.
+(b) Employees of the Department of State Police who are  classified as police officers by the
+Superintendent of State Police.
+(c) Employees of  the Oregon Liquor Control Commission who are classified as regulatory spe-
+cialists by the administrator of the commission.
+(d) Sheriffs and those deputy  sheriffs or other employees of a sheriff whose duties, as classified
+by the sheriff, are the regular duties of police officers or corrections officers.
+(e) Police chiefs and police personnel of a city who are classified as police officers by  the
+council or other governing body of the city.
+(f) Police officers who are commissioned by a university under ORS 352.121 or 353.125 and  who
+are classified as police officers by the university.
+(g) Parole and probation officers employed  by the Department of Corrections, parole and pro-
+bation officers who are  transferred to county employment under ORS 423.549 and adult parole and
+probation officers, as defined in  ORS 181A.355, who are classified as police officers for the purposes
+of this chapter by  the county governing body. If a county classifies adult parole and probation offi-
+cers as police officers for the purposes of this chapter, and the employees so classified are  repres-
+ented by a labor organization,  any proposal by the county to change that classification or to cease
+to classify adult parole and probation officers as police officers for the purposes of this  chapter is
+a mandatory subject of bargaining.
+(h) Police officers appointed under ORS 276.021 or 276.023.
+(i) Employees of  the Port of Portland who are classified as airport police by the Board of Com-
+missioners of the Port of Portland.
+(j) Employees of the State Department of Agriculture who are classified as livestock  police of-
+ficers by the Director of Agriculture.
+(k) Employees of the Department of Public Safety Standards and Training who are  classified by
+the department as other than secretarial or clerical personnel.
+(L) Investigators of the Criminal Justice Division of the Department of Justice.
+(m) Corrections officers as defined in ORS 181A.355.
+(n) Employees of the Oregon State Lottery Commission who are classified by  the Director of the
+Oregon State Lottery as enforcement agents pursuant to ORS 461.110.
+(o) The Director of the Department of Corrections.
+(p) An employee who for  seven consecutive years has been classified as a police officer as de-
+fined by this section, and who is employed or transferred by the  Department of Corrections to fill
+a position designated by the Director of the Department of Corrections as being  eligible for police
+officer status.
+(q) An employee of  the Department of Corrections classified as a police officer on or prior to
+July 27, 1989, whether or not that classification was authorized by law, as long as  the employee
+remains in the position held on July 27, 1989. The initial classification of an employee  under a sys-
+tem implemented pursuant to ORS 240.190 does not affect police officer status.
+(r) Employees of a school district  who are appointed and duly sworn members of a law
+enforcement agency of the district as provided in ORS 332.531 or otherwise  employed full-time as
+police officers commissioned by the district.
+(s) Employees at  youth correction facilities and juvenile detention facilities under ORS 419A.050,
+419A.052 and 420.005 to 420.915 who are required  to hold valid Oregon teaching licenses and who
+have supervisory, control or teaching responsibilities over juveniles committed to the custody of  the
+Department of Corrections or the Oregon Youth Authority.
+(t) Employees at youth correction facilities as defined in ORS 420.005  whose primary job de-
+scription involves the custody, control, treatment, investigation or  supervision of juveniles placed
+in such facilities.
+(u) Employees of the Oregon Youth Authority  who are classified as juvenile parole and pro-
+bation officers.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 28
+(v) Employees of the Department of Human Services who are  prohibited from striking under
+ORS 243.726 and whose duties include the  care of residents of residential facilities, as defined in
+ORS 443.400, that house individuals with intellectual or developmental disabilities.
+(20) “Prior service credit” means credit provided under  ORS 238.442 or under ORS 238.225 (2)
+to (6) (1999 Edition).
+(21) “Public employer” means the state, one of its agencies, any city, county, or  municipal or
+public corporation, any political subdivision of the state  or any instrumentality thereof, or an
+agency created by one  or more such governmental organizations to provide governmental services.
+For purposes of this chapter, such agency created by one or more  governmental organizations is a
+governmental instrumentality and a legal  entity with power to enter into contracts, hold property
+and sue and be sued.
+(22) “Qualifying  position” means one or more jobs with one or more participating public em-
+ployers in which an  employee performs 600 or more hours of service in a calendar year, excluding
+any service in a job for which a  participating public employer does not provide benefits under this
+chapter pursuant to an application made under ORS 238.035.
+(23) “Regular account” means the account established for  each active and inactive member un-
+der ORS 238.250.
+(24) “Retired member” means a member who is retired for service or disability.
+(25) “Retirement credit” means a period of time that  is treated as creditable service for the
+purposes of this chapter.
+(26)(a) “Salary” means  the remuneration paid an employee in cash out of the funds of a public
+employer in return for services to the employer, plus the monetary value, as determined by the
+Public Employees Retirement Board, of  whatever living quarters, board, lodging, fuel, laundry and
+other advantages the employer furnishes the employee in return for services.
+(b) “Salary” includes but is not limited to:
+(A) Payments of employee and employer money into a deferred  compensation plan, which are
+deemed salary paid in each month of deferral;
+(B) The amount  of participation in a tax-sheltered or deferred annuity, which is deemed salary
+paid in each month of participation;
+(C) Retroactive payments described in ORS 238.008; and
+(D) Wages of a  deceased member paid to a surviving spouse or dependent children under ORS
+652.190.
+(c) “Salary” or “other advantages” does not include:
+(A) Travel or any  other expenses incidental to employer’s business which is reimbursed by the
+employer;
+(B) Payments for insurance coverage by an employer on behalf of employee or employee and
+dependents, for which the employee has no cash option;
+(C) Payments made on account of an employee’s death;
+(D) Any lump sum payment for accumulated unused sick leave;
+(E) Any  accelerated payment of an employment contract for a future period or an advance
+against future wages;
+(F) Any retirement incentive, retirement severance pay, retirement bonus or  retirement
+gratuitous payment;
+(G) Payments for periods  of leave of absence after the date the employer and employee have
+agreed that no future services qualifying pursuant to  ORS 238.015 (3) will be performed, except for
+sick leave and vacation;
+(H) Payments for instructional services rendered to public universities listed in ORS  352.002 or
+the Oregon Health and Science University when such services are in excess of full-time employment
+subject to this chapter. A person employed under a  contract for less than 12 months is subject to
+this subparagraph only for the months to which the contract pertains;
+(I) Payments made by an employer for insurance coverage provided to a domestic  partner of an
+employee;
+Enrolled Senate Bill 1049 (SB 1049-A) Page 29
+(J) Compensation described and  authorized under ORS 341.556 that is not paid by the community
+college employing the faculty member;
+(K) Compensation described and authorized under ORS 352.232 that is  not paid by the public
+university employing the officer or employee; [ or]
+(L) Compensation described and authorized under ORS 353.270 that is  not paid by Oregon
+Health and Science University[ .]; or
+(M) For years beginning on or after January 1, 2020, any amount in excess of $195,000  for
+a calendar  year. If any period over which salary is determined is less than 12 months, the
+$195,000 limitation for that period shall be multiplied by a fraction, the numerator of  which
+is the number of months in the determination period and the denominator of  which is 12.
+On January 1 of each  year, the board shall adjust the dollar limit provided by this subpara-
+graph to reflect any percentage changes in the  Consumer Price Index for All Urban Con-
+sumers, West Region (All Items), as  published by the Bureau of Labor Statistics of the
+United States Department of Labor.
+(27) “School year” means the period beginning July 1 and ending June 30 next following.
+(28) “System” means the Public Employees Retirement System.
+(29) “Variable  account” means the account established for a member who participates in the
+Variable Annuity Account under ORS 238.260.
+(30) “Vested” means being an active member of the system in each of five calendar years.
+(31) “Volunteer firefighter” means a firefighter whose position normally requires  less than 600
+hours of service per year.
+SECTION 40.
+ ORS  238A.005, as amended by section 5, chapter 54, Oregon Laws 2018, and sec-
+tion 2, chapter 101, Oregon Laws 2018, is amended to read:
+238A.005. For the purposes of this chapter:
+(1) “Active member” means a member of the pension program  or the individual account program
+of the Oregon Public Service Retirement Plan who is actively employed in a qualifying position.
+(2) “Actuarial equivalent” means a payment  or series of payments having the same value as the
+payment or series of payments replaced, computed  on the basis of interest rate and mortality as-
+sumptions adopted by the board.
+(3) “Board” means the Public Employees Retirement Board.
+(4) “Eligible employee” means a person who performs services for  a participating public em-
+ployer, including elected officials other than judges. “Eligible employee” does not include:
+(a) Persons engaged as independent contractors;
+(b) Aliens working under a training or educational visa;
+(c) Persons provided sheltered employment or make-work by a public employer;
+(d) Persons categorized by a participating public employer as student employees;
+(e) Any person who is an inmate of a state institution;
+(f) Employees of foreign trade offices  of the Oregon Business Development Department who live
+and perform services in foreign countries under the provisions of ORS 285A.075 (1)(g);
+(g) An  employee actively participating in an alternative retirement program established under
+ORS 353.250 or an optional retirement plan established under ORS 341.551;
+(h) Employees of a public university listed in ORS  352.002 who are actively participating in an
+optional retirement plan offered under ORS 243.800;
+(i) Persons employed in positions classified  as post-doctoral scholar positions by a public uni-
+versity listed in ORS 352.002, or by the Oregon Health and Science University, under ORS 350.370;
+(j) Any employee who belongs to a class of employees that was not eligible on August  28, 2003,
+for membership in the system under the provisions of ORS chapter 238 or other law;
+(k) Any person who belongs  to a class of employees who are not eligible to become members
+of the Oregon Public Service Retirement Plan under the provisions of ORS 238A.070 (2);
+(L) Any person who is retired under ORS 238A.100 to 238A.250 or  ORS chapter 238 and who
+continues to receive retirement benefits while employed; and
+(m) Judges.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 30
+(5) “Firefighter” means:
+(a) A person  employed by a local government, as defined in ORS 174.116, whose primary job
+duties include the fighting of fires;
+(b) The State  Fire Marshal, the chief deputy state fire marshal and deputy state fire marshals;
+and
+(c) An employee of the State Forestry Department who is certified  by the State Forester as a
+professional wildland firefighter and whose primary  duties include the abatement of uncontrolled
+fires as described in ORS 477.064.
+(6) “Fund” means the Public Employees Retirement Fund.
+(7)(a) “Hour of service” means:
+(A) An hour for which an eligible employee is directly or indirectly  paid or entitled to payment
+by a participating public employer for performance of duties in a qualifying position; and
+(B) An hour of vacation, holiday, illness, incapacity, jury duty, military duty or authorized  leave
+during which an employee does not perform duties but for which the  employee is directly or indi-
+rectly paid or entitled to payment  by a participating public employer for services in a qualifying
+position, as long as the hour is within  the number of hours regularly scheduled for the performance
+of duties during the period of vacation, holiday, illness, incapacity,  jury duty, military duty or au-
+thorized leave.
+(b) “Hour of service”  does not include any hour for which payment is made or due under a plan
+maintained solely for the purpose of complying with applicable unemployment compensation laws.
+(8) “Inactive member” means a member  of the pension program or the individual account pro-
+gram of  the Oregon Public Service Retirement Plan whose membership has not been terminated, who
+is not a retired member and who is not employed in a qualifying position.
+(9) “Individual account  program” means the defined contribution individual account program of
+the Oregon Public Service Retirement Plan established under ORS 238A.025.
+(10) “Institution of higher education” means a public university listed  in ORS 352.002, the
+Oregon Health and Science University or a community college, as defined in ORS 341.005.
+(11) “Member” means  an eligible employee who has established membership in the pension pro-
+gram or the individual account  program of the Oregon Public Service Retirement Plan and whose
+membership has not been terminated under ORS 238A.110 or 238A.310.
+(12) “Participating public employer” means a public employer as defined in ORS 238.005 that
+provides retirement benefits for employees of the public employer under the system.
+(13) “Pension program” means the defined benefit pension program of the Oregon  Public Service
+Retirement Plan established under ORS 238A.025.
+(14) “Police officer” means a police officer as described in ORS 238.005.
+(15) “Qualifying position” means one or more jobs with one or more participating public  em-
+ployers in which an eligible employee performs 600 or more hours of service in a  calendar year,
+excluding any service in a job for which benefits are not provided under  the Oregon Public Service
+Retirement Plan pursuant to ORS 238A.070 (2).
+(16) “Retired member” means a pension program member who is receiving  a pension as provided
+in ORS 238A.180 to 238A.195.
+(17)(a) “Salary” means the remuneration paid to an active member in return for services to the
+participating public employer, including remuneration in the form of living quarters,  board or other
+items of value, to the extent the remuneration is  includable in the employee’s taxable income under
+Oregon law. “Salary” includes the additional amounts specified in paragraph  (b) of this subsection,
+but does not include the amounts specified in paragraph (c) of this  subsection, regardless of whether
+those amounts are includable in taxable income.
+(b) “Salary” includes the following amounts:
+(A) Payments of employee and employer money into a deferred compensation  plan that are made
+at the election of the employee.
+(B) Contributions to a tax-sheltered or deferred annuity that are made at the election of the
+employee.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 31
+(C) Any amount that is contributed to a cafeteria  plan or qualified transportation fringe benefit
+plan by the employer at the election of the employee  and that is not includable in the taxable in-
+come of the employee by reason of 26 U.S.C. 125 or 132(f)(4), as in effect on December 31, 2017.
+(D) Any amount  that is contributed to a cash or deferred arrangement by the employer at the
+election of the employee and  that is not included in the taxable income of the employee by reason
+of 26 U.S.C. 402(e)(3), as in effect on December 31, 2017.
+(E) Retroactive payments described in ORS 238.008.
+(F) The amount of an employee contribution to the individual account program that is paid by
+the employer and deducted from the compensation of the employee, as provided  under ORS 238A.335
+(1) and (2)(a).
+(G) The amount of an employee contribution to the individual account program that is  not paid
+by the employer under ORS 238A.335.
+(H) Wages of a deceased member paid to a surviving spouse or dependent children  under ORS
+652.190.
+(c) “Salary” does not include the following amounts:
+(A) Travel or any other expenses incidental to employer’s business which is  reimbursed by the
+employer.
+(B) Payments made on account of an employee’s death.
+(C) Any lump sum payment  for accumulated unused sick leave, vacation leave or other paid
+leave.
+(D) Any severance payment,  accelerated payment of an employment contract for a future period
+or advance against future wages.
+(E) Any retirement incentive, retirement bonus or retirement gratuitous payment.
+(F) Payment for a leave of absence  after the date the employer and employee have agreed that
+no future services in a qualifying position will be performed.
+(G) Payments for instructional services rendered to public universities listed in  ORS 352.002 or
+the Oregon Health and  Science University when those services are in excess of full-time employment
+subject to this chapter. A person employed under a  contract for less than 12 months is subject to
+this subparagraph only for the months covered by the contract.
+(H) The amount of an employee  contribution to the individual account program that is paid by
+the employer and is not deducted from the compensation of the employee, as  provided under ORS
+238A.335 (1) and (2)(b).
+(I) Compensation described and authorized under ORS 341.556 that  is not paid by the community
+college employing the faculty member.
+(J) Compensation described and authorized under ORS 352.232 that is not paid  by the public
+university employing the officer or employee.
+(K) Compensation described and authorized under ORS 353.270 that is not paid by Oregon
+Health and Science University.
+(L) For years before 2020,  any amount in excess of $200,000 for a calendar year.  If any period
+over which salary is determined is less than 12 months,  the $200,000 limitation for that period shall
+be multiplied by a fraction, the numerator of  which is the number of months in the determination
+period and the denominator of which is 12. The board shall adopt  rules adjusting this dollar limit
+to incorporate cost-of-living adjustments authorized by the Internal Revenue Service.
+(M) For years beginning on or after January 1, 2020, any amount in excess of $195,000  for
+a calendar year. If any period over which salary is determined is less than 12 months,  the
+$195,000 limitation  for that period shall be multiplied by a fraction, the numerator of which
+is the number of  months in the determination period and the denominator of which is 12.
+On January 1 of each year, the board shall adjust the dollar limit  provided by this subpara-
+graph to reflect any percentage changes in the  Consumer Price Index for All Urban Con-
+sumers, West Region (All Items), as published by the Bureau  of Labor Statistics of the
+United States Department of Labor.
+(18) “System” means the Public Employees Retirement System.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 32
+(19) “Workers’ compensation benefits” means:
+(a) Payments made under ORS chapter 656; or
+(b) Payments provided in lieu of workers’ compensation benefits under ORS 656.027 (6).
+SECTION 41.
+ ORS 238.580 is amended to read:
+238.580. (1) Except as provided in subsection (3)  of this section,  ORS 238.005 (4) and (26),
+238.025, 238.078, 238.082, 238.092, 238.115 (1), 238.250, 238.255, 238.260, 238.350,  238.364, 238.410,
+238.415, 238.420, 238.445, 238.458, 238.460, 238.465, 238.475, 238.600, 238.605, 238.610, 238.618, 238.630,
+238.635, 238.645, 238.650, 238.655, 238.660, 238.665, 238.670 and 238.705 and  the increases provided
+by ORS  238.366 for members of the system who are serving as other than police officers or fire-
+fighters apply in respect to service as a judge member.
+(2) This chapter applies in respect to persons described in ORS 238.505 (1) and in  respect to
+service as a judge member only as specifically provided in ORS 238.500 to 238.585.
+(3) ORS 238.005 (26)(c)(M) does not apply in respect to service as a judge member.
+PROCEEDS OF SPORTS BETTING
+SECTION 42.  ORS 461.010 is amended to read:
+461.010. Unless the context requires  otherwise, the definitions contained in this chapter shall
+govern the construction of this chapter.
+(1) “Commissioner” means  one of the members of the lottery commission appointed by the Gov-
+ernor pursuant to the Constitution of the State of  Oregon and this chapter to oversee the state
+lottery.
+(2) “Director” means the Director of the Oregon State Lottery  appointed by the Governor pur-
+suant to the Constitution of the State of  Oregon and this chapter as the chief administrator of the
+Oregon State Lottery.
+(3) “Lottery” or “state lottery” means the  Oregon State Lottery established and operated pur-
+suant to the Constitution of the State of Oregon and this chapter.
+(4) “Lottery commission” or “commission” means the five-member body appointed by  the Gov-
+ernor pursuant to the Constitution of the State of Oregon and this chapter to  oversee the lottery
+and the director.
+(5) “Lottery contractor” means a person with  whom the state lottery has contracted for the
+purpose of providing goods and services for the state lottery.
+(6) “Lottery game” or “game” means  any procedure authorized by the commission whereby
+prizes are distributed among persons who have paid, or unconditionally agreed to pay, for tickets
+or shares that provide the opportunity to win such prizes.
+(7) “Lottery game retailer” means a person with whom the lottery commission  has contracted
+for the purpose of selling tickets or shares in lottery games to the public.
+(8) “Lottery vendor” or “vendor” means any person who submits a bid, proposal or offer to
+provide goods or services to the commission or lottery.
+(9) “Person”  means any natural person or corporation, trust, association, partnership, joint
+venture, subsidiary or other business entity.
+(10) “Sports betting game” means a lottery  game in which the distribution of prizes is
+based on the results of one or more sporting events.
+SECTION 42a.
+ ORS 461.010, as amended by section 42 of this 2019 Act, is amended to read:
+461.010. Unless the context requires otherwise, the definitions contained  in this chapter shall
+govern the construction of this chapter.
+(1) “Commissioner” means one of the members of the lottery commission appointed by  the Gov-
+ernor pursuant to the Constitution of the State of  Oregon and this chapter to oversee the state
+lottery.
+(2) “Director” means the Director of  the Oregon State Lottery appointed by the Governor pur-
+suant to the Constitution of the State of Oregon and this  chapter as the chief administrator of the
+Oregon State Lottery.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 33
+(3) “Lottery” or “state lottery” means the Oregon  State Lottery established and operated pur-
+suant to the Constitution of the State of Oregon and this chapter.
+(4) “Lottery commission”  or “commission” means the five-member body appointed by the Gov-
+ernor pursuant to the  Constitution of the State of Oregon and this chapter to oversee the lottery
+and the director.
+(5) “Lottery contractor” means a person with whom the  state lottery has contracted for the
+purpose of providing goods and services for the state lottery.
+(6) “Lottery game” or “game” means any procedure  authorized by the commission whereby
+prizes are distributed among persons who have paid, or unconditionally agreed to pay, for tickets
+or shares that provide the opportunity to win such prizes.
+(7) “Lottery game  retailer” means a person with whom the lottery commission has contracted
+for the purpose of selling tickets or shares in lottery games to the public.
+(8) “Lottery vendor” or “vendor” means any person who submits a bid, proposal or offer to
+provide goods or services to the commission or lottery.
+(9) “Person” means any natural person or corporation, trust, association, partnership,  joint
+venture, subsidiary or other business entity.
+[(10) “Sports betting game” means a lottery game  in which the distribution of prizes is based on
+the results of one or more sporting events. ]
+SECTION 43.
+Section 44 of  this 2019 Act is added to and made a part of ORS chapter 461.
+SECTION 44. (1) The Oregon State Lottery Commission shall separately record and ac-
+count for the costs and net proceeds of sports betting games.
+(2) When the commission transfers net lottery proceeds to  the Administrative Services
+Economic Development Fund established under ORS 461.540, the commission shall  certify to
+the Oregon Department of Administrative Services the amount of such transfer  that re-
+presents the net proceeds of sports betting games.
+(3) The department shall transfer an amount equal to the net proceeds of  sports betting
+games to the Employer Incentive Fund established under section 1, chapter 105, Oregon Laws
+2018.
+SECTION 45.
+The Legislative Assembly finds that a reduction  of employer contributions
+required under the  Public Employees Retirement System averts future tax increases that
+would otherwise  be necessary to pay for such contributions, and that the use of lottery re-
+venues under section 44 of this 2019 Act therefore promotes economic development.
+SECTION 45a. Sections 44 and 45 of this 2019 Act are repealed on December 31, 2041.
+EMPLOYER PROGRAMS
+SECTION 46.  Section 1, chapter 105, Oregon Laws 2018, is amended to read:
+Sec. 1.  (1) The Employer Incentive Fund is established in the State Treasury, separate and dis-
+tinct from the General Fund. Interest earned by the  Employer Incentive Fund shall be credited to
+the fund[, but]. Interest earned by the fund may [ not] be used under section 2 , chapter 105, Oregon
+Laws 2018, [ of this 2018 Act ] to match lump sum payments made under ORS 238.229.
+(2) Moneys in the fund are continuously  appropriated to the Public Employees Retirement Board
+for the purposes described in sections 2 and 26 , chapter 105, Oregon Laws  2018 [ of this 2018
+Act].
+(3) Moneys in the fund shall be invested in the Oregon Short Term Fund established  un-
+der ORS 293.728.
+SECTION 47.  Section 2, chapter 105, Oregon Laws 2018, is amended to read:
+Sec. 2.  (1)(a) The Public Employees Retirement Board  shall establish a process for distributing
+the moneys in the Employer Incentive Fund  established under section 1 , chapter 105, Oregon Laws
+2018 [ of this 2018 Act ].
+Enrolled Senate Bill 1049 (SB 1049-A) Page 34
+(b) The  process must allow a participating public employer to apply to reserve matching
+amounts in the Employer Incentive Fund  by committing to make a qualifying lump sum payment of
+at least $25,000 to an account established under ORS 238.229.
+(2) The board shall adopt rules establishing:
+(a) The percentage of a lump sum payment that may be matched  by distributions from the fund,
+not to exceed 25 percent of a qualifying lump sum payment.
+(b) The maximum matching amount that may be reserved  by a participating public employer, not
+to exceed the greater of:
+(A) Five percent of the unfunded actuarial  liability attributable to the employer, as determined
+in the most recent report prepared under ORS 238.605; or
+(B) $300,000.
+(c) The qualifications for lump sum payments that may  be matched under this section[ . The
+qualifications must include the following requirements: ]
+[(A) The participating public employer must apply to  reserve matching funds no later than De-
+cember 31, 2019. ]
+[(B) The participating public employer must make the qualifying lump  sum payment no later than
+July 1, 2023. ]
+[(C)], including a requirement that  a qualifying  lump sum payment may not be a payment from
+moneys borrowed by the employer.
+(d) A requirement that the participating  public employer participate in the Unfunded Actuarial
+Liability Resolution Program  to develop a plan under section 26 , chapter 105, Oregon Laws 2018
+[of this 2018 Act ].
+[(3)(a) The board may begin accepting applications under subsection (1) of this section on  the date
+on which the board determines that there are sufficient moneys in the Employer Incentive Fund. ]
+[(b)] (3)(a) For [ 180] 90 days after the board  begins accepting applications under subsection (1)
+of this section, a participating public employer may apply to reserve matching amounts from the
+Employer Incentive Fund under subsection (1) of  this section only if the unfunded actuarial liability
+attributable to the employer, as determined in the  most recent report prepared under ORS 238.605,
+is more than 200 percent of  the employer’s payroll for members of the Public Employees Retirement
+System.
+[(c)] (b) After the [ 180-day] 90-day period described in paragraph [ (b)] (a) of this subsection, any
+participating public employer may apply to reserve matching funds from the Employer Incentive
+Fund under subsection (1) of this section.
+(4)(a) The board shall approve applications that  meet the qualifications established under sub-
+section (2) of this section in  the order in which the applications are submitted. The board shall
+continue approving applications  as long as adequate moneys in the Employer Incentive Fund are
+projected to become  available.
+(b) After all of the moneys projected to become available in the  Employer Incentive Fund
+are reserved for matching under paragraph (a) of this subsection, the board  may establish
+a waiting list for the remaining timely submitted  applications and, if sufficient moneys in the
+Employer Incentive  Fund become available, shall approve, in the order in which the applica-
+tions were submitted, applications that meet  the qualifications established under subsection
+(2) of this section.
+(5) The  board shall transfer matching amounts approved under subsection (4) of this section from
+the Employer Incentive Fund to the approved employers’ accounts established under ORS 238.229.
+(6) The board may transfer moneys  from the Employer Incentive Fund to the Public Employees
+Retirement Fund established under ORS 238.660 for crediting to  the reserves for pension accounts
+and annuities as provided in ORS 238.670 (2).
+(7) The board may use moneys in the Employer Incentive Fund for  reasonable administrative
+costs incurred under this section.
+SECTION 48.
+ Section 3, chapter 105, Oregon Laws 2018, is amended to read:
+Enrolled Senate Bill 1049 (SB 1049-A) Page 35
+Sec. 3.  (1) Section  2, chapter 105, Oregon Laws 2018, as amended by section 47 of this 2019
+Act,  [ of this 2018 Act ] is repealed [ January 2, 2025 ] July 1, 2042 .
+(2)(a) The Employer Incentive Fund established under section  1 , chapter 105, Oregon Laws
+2018, [of this 2018 Act ] is abolished on [ January 2, 2025 ] July 1, 2042 .
+(b)(A) Except as provided in subparagraph (B) of this paragraph,  the unexpended moneys
+remaining in the Employer Incentive Fund on [ January 2, 2025 ] July 1, 2042 , shall be transferred
+to the General Fund.
+(B) The unexpended moneys remaining in the Employer  Incentive Fund on July 1, 2042,
+that are attributable to sports betting games, as  defined in ORS 461.010, shall be transferred
+to the Administrative Services Economic Development Fund.
+SECTION 49.  Section 13, chapter 105, Oregon Laws 2018, is amended to read:
+Sec. 13.  (1) Not earlier than July 1 and not later than October 1  of the years 2019, 2021 and
+2023, the division of the Oregon  Department of Administrative Services that serves as office of
+economic analysis shall:
+(a) Calculate the rate  of change in the tax liability from personal income taxes on taxable cap-
+ital gains during the five preceding biennia; and
+(b) Use the rate of change calculated under paragraph (a) of this subsection to forecast  the tax
+liability from personal income taxes on taxable capital gains for the biennium beginning on July 1
+of the year in which the calculation is made.
+(2) Not later than November 1 of the odd-numbered year following each calculation  under sub-
+section (1) of this section, the Oregon Department of Administrative Services, in consultation with
+the Department of Revenue, shall  estimate the tax liability from personal income taxes on taxable
+capital gains for the previous biennium.
+(3) Not later than November 30 of the odd-numbered year  in which the estimate is made under
+subsection (2) of this section, the  Oregon Department of Administrative Services, in consultation
+with the Department of Revenue, shall determine whether the  tax liability from personal income
+taxes on capital  gains estimated under subsection (2) of this section, less any amount required to
+be returned to  taxpayers under ORS 291.349, exceeds the tax liability from personal income taxes
+on taxable capital gains forecasted under subsection (1) of this section.
+(4) Except as provided in subsection (5) of this section, on the last business day of the odd-
+numbered year in which the estimate is made  under subsection (2) of this section,  the De-
+partment of Revenue shall transfer an amount equal to 25 percent  of any excess calculated under
+subsection (3) of this section to the School Districts Unfunded Liability Fund established in section
+24, chapter 105, Oregon Laws 2018  [ of this 2018 Act ].
+(5) The Department of Revenue may not make a transfer under subsection (4) of this section if:
+(a) The Legislative Assembly has appropriated moneys from the Oregon  Rainy Day Fund under
+ORS 293.144 on or after [ the effective date of this 2018 Act ] June 2, 2018 ; or
+(b) The Public Employees Retirement System  is more than 90 percent funded as determined in
+accordance with rules adopted by the Public Employees Retirement Board.
+(6) The Department of Revenue shall retain unreceipted revenue from the tax imposed  under
+ORS chapter 316 in an amount necessary to make the transfer required under subsection  (4) of this
+section. The department shall make the transfer out of the unreceipted revenue  in lieu of paying the
+revenue over to the State Treasurer for deposit in the General Fund.
+SECTION 50.
+ Section 15, chapter 105, Oregon Laws 2018, is amended to read:
+Sec. 15.  (1) Not earlier than July 1 and not later than October 1  of the years 2019, 2021 and
+2023, the division of the Oregon  Department of Administrative Services that serves as office of
+economic analysis shall:
+(a) Calculate the rate of change in collections from estate taxes during  the five preceding
+biennia; and
+(b) Use the rate  of change calculated under paragraph (a) of this subsection to forecast the
+collections  from  estate taxes for the biennium beginning on July 1 of the year in which the calcu-
+lation is made.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 36
+(2) Not later  than November 1 of the odd-numbered year following each calculation under sub-
+section (1) of this section, the Oregon Department of Administrative Services, in consultation with
+the Department  of Revenue, shall estimate the collections from estate taxes for the previous
+biennium.
+(3) Not later than November 30 of the  odd-numbered year in which the estimate is made under
+subsection (2) of this section, the Oregon Department  of Administrative Services, in consultation
+with the Department of Revenue, shall determine whether the collections from  estate taxes esti-
+mated under subsection (2) of this section exceed the  collections from estate taxes forecasted under
+subsection (1) of this section.
+(4) On the last  business day of the odd-numbered year in which the estimate is made
+under subsection (2) of  this section,  the Department of Revenue shall transfer an amount equal
+to the amount  of any excess calculated under subsection (3) of this section, less any amount required
+to be returned to taxpayers under ORS 291.349, to  the School Districts Unfunded Liability Fund
+established in section 24 , chapter 105, Oregon Laws 2018  [ of this 2018 Act ].
+(5) The Department of Revenue shall retain unreceipted revenue  from estate taxes imposed un-
+der ORS 118.005 to 118.540 in an amount necessary to make the transfer required under  subsection
+(4) of this section. The department shall make the transfer out of the unreceipted revenue in  lieu
+of paying the revenue over to the State Treasurer for deposit in the General Fund.
+SECTION 51.
+ Section 24, chapter 105, Oregon Laws 2018, is amended to read:
+Sec. 24.  (1) The School Districts  Unfunded Liability Fund is established in the State Treasury,
+separate and distinct from the General Fund. Interest earned by the School Districts Unfunded  Li-
+ability Fund shall be credited to the fund. The fund consists  of moneys transferred to the fund under
+sections 12, 13, 15 and 22 , chapter 105, Oregon Laws 2018,  [ of this 2018 Act ] and other moneys
+transferred, allocated or appropriated to the fund.
+(2) Moneys in the fund are continuously  appropriated to the Public Employees Retirement Board
+for the purpose of establishing and funding  a pooled account to be applied against the liabilities of
+participating public employers, as defined in ORS 238.005, that are school districts.
+(3) Moneys in the fund shall be invested in the Oregon Short Term Fund established  un-
+der ORS 293.728.
+[(3)] (4) The board shall establish  an account in the Public Employees Retirement Fund for the
+moneys in the School Districts Unfunded Liability Fund.
+[(4)] (5) The board shall adopt rules providing for:
+(a) Proportional distribution to school  districts of the moneys in the account established under
+subsection [ (3)] (4) of this section;
+(b) Amortization of the moneys distributed; and
+(c) Administration of the account  established under subsection [ (3)] (4) of this section in the
+same manner as accounts established under ORS 238.229 (2).
+[(5)] (6) No  later than February 1 of each odd-numbered year, the board shall report to the
+Oregon Department of Administrative Services and the Legislative  Fiscal Officer an estimate of how
+moneys will be distributed under this section in the following biennium.
+SECTION 52.
+The School Districts Unfunded Liability Fund established under section 24,
+chapter 105,  Oregon Laws 2018, is abolished on July 1, 2042. The unexpended moneys re-
+maining in the fund on July 1, 2042, shall be transferred to the General Fund.
+SECTION 53.  Section 29, chapter 105, Oregon Laws 2018, is amended to read:
+Sec. 29.  Section 28 [ of this 2018 Act ], chapter 105, Oregon Laws 2018,  is repealed  on January
+2, [2027] 2042.
+SECTION 54.  Section 26, chapter 105, Oregon Laws 2018, is amended to read:
+Sec. 26.  (1) The Public Employees Retirement Board shall establish an Unfunded Actuarial  Li-
+ability Resolution Program. Under the program, the board shall provide technical  expertise to
+participating public employers in developing funding plans to improve the  employers’ funded status
+and to manage projected employer  contribution rate changes. [ Participating public employers are not
+Enrolled Senate Bill 1049 (SB 1049-A) Page 37
+required to participate in  the program. ] Funding plans developed under the program must be
+based on actuarial reports prepared under ORS 238.605.
+(2) A participating public employer shall participate in the program.
+[(2)] (3) The board may use moneys in the Employer Incentive Fund established in section 1 [ of
+this 2018 Act ], chapter 105, Oregon Laws  2018, for reasonable administrative costs incurred under
+this section.
+SECTION 55. Section 26, chapter 105, Oregon Laws 2018, as amended by  section 54 of this 2019
+Act, is amended to read:
+Sec. 26.  (1) The Public Employees Retirement Board shall establish an Unfunded Actuarial  Li-
+ability Resolution Program. Under the program, the board shall provide technical  expertise to
+participating public employers in developing funding plans to  improve the employers’ funded status
+and to manage projected employer contribution rate changes. Funding plans developed under  the
+program must be based on actuarial reports prepared under ORS 238.605.
+(2) A participating public employer shall participate in the program.
+[(3) The board may use  moneys in the Employer Incentive Fund established in section 1, chapter
+105, Oregon Laws 2018, for reasonable administrative costs incurred under this section. ]
+REPORTING
+SECTION 56. Section 57 of  this 2019 Act is added to and made a part of ORS chapter 238.
+SECTION 57. At least 30 days before the Public  Employees Retirement Board adopts
+changes to  actuarial methods and assumptions used for purposes of the Public Employees
+Retirement System, the  board shall submit a report to the Joint Committee on Ways and
+Means or the Joint Interim Committee on  Ways and Means detailing the proposed changes
+and the associated,  actuarially determined impact to the total liability of the system, the
+accrued liability of the system and employer contribution rates.
+APPROPRIATION
+SECTION 58. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Public Employees  Retirement Board, for the biennium beginning July 1, 2019,
+out of the  General Fund, the amount of $100,000,000, to be deposited in the Employer Incen-
+tive Fund established under section 1, chapter 105, Oregon Laws 2018.
+SECTION 59. Notwithstanding any  other law limiting expenditures, the amount of
+$100,000,000 is established for the biennium beginning July 1, 2019, as the  maximum limit for
+payment of expenses from  the Employer Incentive Fund established under section 1, chapter
+105, Oregon Laws 2018, by the Public Employees Retirement Board.
+OPERATIVE DATES AND APPLICABILITY
+SECTION 60. Operative date for provisions relating to employee pension  stability con-
+tributions. (1) Section 3 of this 2019 Act and the amendments  to ORS 238.105, 238.115, 238.265,
+238.300, 238.305, 238.320, 238.325, 238.395,  238A.110, 238A.120, 238A.320, 238A.330, 238A.335,
+238A.375, 238A.410, 243.800 and 341.551 by sections 1 and 4 to 19 of this 2019 Act become op-
+erative on July 1, 2020.
+(2) The Public Employees Retirement Board  may take any action before the operative
+date specified in subsection  (1) of this section to enable the board to exercise, on and after
+the operative date specified in subsection  (1) of this section, all of the duties, functions and
+powers conferred on the  board by section 3 of this 2019 Act and the amendments to ORS
+238.105, 238.115, 238.265, 238.300, 238.305, 238.320, 238.325, 238.395, 238A.110, 238A.120, 238A.320,
+238A.330, 238A.335, 238A.375, 238A.410, 243.800 and 341.551 by sections 1 and 4 to 19 of this 2019
+Act.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 38
+SECTION 61. Applicability and operative date for provisions relating to lump sum pay-
+ments.  (1) The amendments  to section 3b, chapter 105, Oregon Laws 2018, by section 20 of
+this 2019 Act apply to lump sum payments made before January 1, 2024.
+(2) The amendments to section 3b,  chapter 105, Oregon Laws 2018, by section 21 of this
+2019 Act become operative on January 1, 2024.
+SECTION 62. Operative date for provisions  relating to final average salary. (1) The
+amendments to ORS 238.005, 238.580 and 238A.005  by sections 39 to 41 of this 2019 Act become
+operative on January 1, 2020.
+(2) The Public Employees Retirement Board may take  any action before the operative
+date specified in subsection (1) of this section to enable the board to exercise,  on and after
+the operative date specified in subsection (1) of this section, all  of the duties, functions and
+powers conferred on  the board by the amendments to ORS 238.005, 238.580 and 238A.005 by
+sections 39 to 41 of this 2019 Act.
+SECTION 63. Operative date for certain provisions relating to proceeds of sports betting.
+The amendments to ORS 461.010  by section 42a of this 2019 Act become operative on July 1,
+2042.
+SECTION 64. Operative date for certain provisions relating to Employer Incentive  Fund.
+The amendments to section 26, chapter  105, Oregon Laws 2018, by section 55 of this 2019 Act
+become operative on July 1, 2042.
+REVIEW BY SUPREME COURT
+SECTION 65. (1) Jurisdiction is conferred upon the Supreme Court to determine in  the
+manner provided by this section whether this 2019 Act breaches any contract between
+members of the Public Employees Retirement System and their employers or violates  any
+provision of the Oregon Constitution or of the United States  Constitution, including but not
+limited to impairment of contract rights of  members of the Public Employees Retirement
+System under Article I, section 21, of the Oregon Constitution, or Article I, section 10, clause
+1, of the United States Constitution.
+(2) A person who is adversely affected by this 2019 Act or who will  be adversely affected
+by this 2019 Act may  institute a proceeding for review by filing with the Supreme Court a
+petition that meets the following requirements:
+(a) The petition must be filed within 60 days after the effective date of this 2019 Act.
+(b) The petition must include the following:
+(A) A statement of the basis of the challenge; and
+(B) A statement and supporting affidavit showing how  the petitioner is adversely af-
+fected.
+(3) The petitioner shall  serve a copy of the petition by registered or certified mail upon
+the Public Employees Retirement Board, the Attorney General and the Governor.
+(4) Proceedings for review under this section shall be given priority  over all other mat-
+ters before the Supreme Court.
+(5) The Supreme Court shall allow  public employers participating in the Public Employees
+Retirement System to intervene in any proceeding under this section.
+(6)(a) The  Supreme Court shall allow members of the Legislative Assembly to intervene
+in any proceeding relating  to this 2019 Act. After a member intervenes in a proceeding re-
+lating to this 2019 Act, the member has standing to participate in  the proceeding even if the
+member ceases to be a member of the Legislative Assembly.
+(b) A member of the Senate or the House of  Representatives who intervenes in a pro-
+ceeding under this subsection may not  use public funds to pay legal expenses incurred in
+intervening in or participating in the proceeding.
+Enrolled Senate Bill 1049 (SB 1049-A) Page 39
+(7) In the  event the Supreme Court determines that there are factual issues in the peti-
+tion, the Supreme Court may  appoint a special master to hear evidence and to prepare re-
+commended findings of fact.
+(8) The Supreme Court may not  award attorney fees to a petitioner in a proceeding under
+this section.
+CAPTIONS
+SECTION 66. The unit and section captions used in this 2019 Act are provided only for
+the convenience of the reader and do not become part of the statutory law  of this state or
+express any legislative intent in the enactment of this 2019 Act.
+EMERGENCY CLAUSE
+SECTION 67. This 2019 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2019 Act takes effect
+on its passage.
+Passed by Senate May 23, 2019
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Peter Courtney, President of Senate
+Passed by House May 30, 2019
+..................................................................................
+Tina Kotek, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2019
+Approved:
+........................M.,........................................................., 2019
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2019
+..................................................................................
+Bev Clarno, Secretary of State
+Enrolled Senate Bill 1049 (SB 1049-A) Page 40
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 118.005, ORS 174.116, ORS 181A.355, ORS 190.080, ORS 237.147, ORS 237.976, ORS 238.005, ORS 238.008, ORS 238.015, ORS 238.035, ORS 238.082, ORS 238.095, ORS 238.105, ORS 238.115, ORS 238.225, ORS 238.229, ORS 238.250, ORS 238.260, ORS 238.265, ORS 238.280, ORS 238.300, ORS 238.305, ORS 238.320, ORS 238.325, ORS 238.366, ORS 238.390, ORS 238.395, ORS 238.410, ORS 238.415, ORS 238.420, ORS 238.425, ORS 238.430, ORS 238.440, ORS 238.442, ORS 238.465, ORS 238.500, ORS 238.505, ORS 238.580, ORS 238.605, ORS 238.660, ORS 238.670, ORS 238.692, ORS 238.694, ORS 238.695, ORS 238.696, ORS 238.698, ORS 238A.005, ORS 238A.025, ORS 238A.070, ORS 238A.100, ORS 238A.110, ORS 238A.115, ORS 238A.120, ORS 238A.140, ORS 238A.145, ORS 238A.150, ORS 238A.155, ORS 238A.160, ORS 238A.180, ORS 238A.185, ORS 238A.210, ORS 238A.220, ORS 238A.245, ORS 238A.300, ORS 238A.320, ORS 238A.330, ORS 238A.335, ORS 238A.340, ORS 238A.350, ORS 238A.375, ORS 238A.400, ORS 238A.410, ORS 240.190, ORS 243.726, ORS 243.800, ORS 243.820, ORS 243.910, ORS 243.920, ORS 276.021, ORS 285A.075, ORS 287A.105, ORS 287A.150, ORS 291.349, ORS 293.144, ORS 293.728, ORS 332.531, ORS 341.005, ORS 341.551, ORS 341.556, ORS 350.370, ORS 352.002, ORS 352.121, ORS 352.232, ORS 353.250, ORS 353.270, ORS 419A.050, ORS 419A.052, ORS 420.005, ORS 421.005, ORS 423.549, ORS 443.400, ORS 461.010, ORS 461.110, ORS 461.540, ORS 477.064, ORS 652.190, ORS 656.027, ORS 824.020
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `447afa57ce52f1799a1ff913c175b0969794043644aedae635af81ed41c2808d` (snapshot `_meta/snapshots/measure-2019r1-sb1049-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB1049/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `032e0ec773833d67cb0e3379bf224f58a25b88f7b6e1ec8aa5b40960f7c758d2` (snapshot `_meta/snapshots/measure-2019r1-sb1049-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB1049/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1049` (part of the batched per-session fetch), sha256 `ae6df4298c0af5cc5dddaadd86050dfbe3c0b9a75f4a0da8096eff6dafa219d2` of the shared session snapshot `_meta/snapshots/measures-2019r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

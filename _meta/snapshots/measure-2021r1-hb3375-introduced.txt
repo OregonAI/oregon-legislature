@@ -1,0 +1,414 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 3375
+Sponsored by Representative SMITH DB
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes goal of planning  for development of three gigawatts of commercial scale floating
+offshore wind energy projects within federal waters off Oregon Coast by 2030.
+Establishes Task Force on  Floating Offshore Wind Energy. Requires task force to develop
+floating offshore wind development strategic plan and to submit  plan to interim committees of Leg-
+islative Assembly related to energy no later than September 15, 2022. Sunsets December 31, 2022.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to floating offshore wind energy; and prescribing an effective date.
+Whereas Oregon’s coastal communities rely on electricity that  is imported through
+catastrophe-prone supply lines to meet their most basic human needs; and
+Whereas Oregon’s southwestern coast is isolated from recovery  resources and at high risk for
+wildfires, seismic events and increasing frequencies of catastrophic events; and
+Whereas Oregon’s coastal communities and commercial fisheries are hit first and  hardest by
+climate change and must prioritize rapid adaptation in practices and infrastructure; and
+Whereas wind resources within the federal waters  of the outer continental shelf off the southern
+Oregon coast are world class and can be responsibly harnessed to deliver clean, reliable  electricity
+to the communities of the Oregon coast and the Willamette Valley; and
+Whereas renewable energy development within the federal waters  of the outer continental shelf
+off the Oregon coast will result  in diversified economic development and increased energy security
+for this state; and
+Whereas floating offshore wind energy projects within the federal waters of the  outer conti-
+nental shelf  off the Oregon coast can greatly contribute to the energy resilience of Oregon’s coastal
+communities and provide electricity for catastrophic event recovery activities; and
+Whereas floating offshore wind energy can contribute to a diverse, secure,  reliable and afford-
+able renewable energy resource portfolio to serve the electricity  needs of Oregon rate payers and
+improve air quality, particularly in disadvantaged communities; and
+Whereas floating offshore wind energy development  presents an opportunity to attract invest-
+ment capital  and to realize community economic development and workforce development benefits
+in Oregon, such as long-term job creation and development of a floating  offshore wind energy supply
+chain; and
+Whereas three gigawatts of floating  offshore wind energy can contribute significantly to
+Oregon’s existing renewable portfolio standards; and
+Whereas Oregon’s coastal  transmission system can accommodate a significant amount of floating
+offshore wind energy for coastal consumption with potential delivery to the Willamette Valley  along
+existing coast range transmission corridors; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3637
+HB 3375
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Whereas floating offshore  wind energy has the potential to contribute positive benefits to the
+Pacific Northwest transmission grid and to help resolve transmission constraints; and
+Whereas floating offshore wind energy can be used to electrolyze water into renewable hydrogen
+and its clean derivatives, which  can be utilized to decarbonize the maritime, fishing and transpor-
+tation sectors; and
+Whereas when responsibly developed and deployed at scale, the development of  floating offshore
+wind energy can provide economic, resilience and environmental  benefits to this state and to the
+nation; and
+Whereas Oregon’s estuarine ecosystem health is essential  to global carbon balance and must be
+protected;  and
+Whereas Oregon’s commercial and recreational ocean  fishers should be engaged in designing
+policies for floating offshore  wind energy project development that promote coexistence and shared
+net benefits; and
+Whereas Oregon State University  is a global leader in marine energy technology development
+and evaluation as well  as in balancing multiple stakeholder objectives for the management of public
+resources;  and
+Whereas Oregon State University can play a  supportive role in designing floating offshore wind
+energy projects to be coexistent with Oregon’s commercial fishing, maritime and coastal manufac-
+turing and fabrication facilities; and
+Whereas responsible planning  for floating offshore wind energy should, from the initial planning
+phases throughout the extent of developing any floating offshore wind energy project, incorporate
+the interests of the people of Oregon; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Legislative Assembly finds that:
+(a) A federal leasing process  led by the Bureau of Ocean Energy Management is under-
+way for the development of floating offshore wind energy within the federal waters off the
+Oregon and California coasts;
+(b) A planning scenario for  developing three gigawatts of floating offshore wind energy
+capacity within the  federal waters off the Oregon coast by 2030 would trigger immediate
+economic benefits to this state, including economic  benefits related to planning activities at
+the local, regional and state levels; and
+(c) Proactive planning for floating offshore wind energy with effective engagement from
+Oregon’s fishing communities, ports, conservation interests,  manufacturing industry, mari-
+time industry, disaster recovery planning stakeholders, workforce development  stakeholders,
+electricity rate payers and  tribes will maximize the benefits to this state related to floating
+offshore wind energy, while minimizing the conflicts between floating offshore wind energy,
+the ocean ecosystem and ocean users.
+(2) In furtherance of the findings  set forth in subsection (1) of this section, the Legisla-
+tive Assembly declares that it is the goal of this state to plan for the development  of three
+gigawatts of commercial scale floating offshore wind energy projects within  the federal wa-
+ters off the Oregon coast by 2030. It is further the goal of this state that the planning de-
+scribed in this subsection be  conducted in a manner that will maximize benefits to this state
+while minimizing conflicts between floating offshore wind energy, the ocean ecosystem and
+ocean users.
+SECTION 2.
+(1) The Task Force on Floating Offshore Wind Energy is established.
+[2]
+HB 3375
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) The task force consists of at least 11 members appointed as follows:
+(a) The President of the  Senate shall appoint two members from among members of the
+Senate, one from the majority party and one from the minority party.
+(b) The Speaker of the House of Representatives  shall appoint two members from among
+members of the House of Representatives, one from the majority  party and one from the
+minority party.
+(c) The following shall serve as ex officio voting members of the task force:
+(A) The Director of the State Department of Energy or a designee of the director;
+(B) The Director of the Department of Land  Conservation and Development or a designee
+of the director;
+(C) A representative, appointed by the Governor, of the Office of the Governor;
+(D) The Director of the  Oregon Business Development Department or a designee of the
+director;
+(E) The State Resilience Officer or a designee of the officer;
+(F) A member of the Public Utility Commission or a designee of the commission; and
+(G) The Director of the Department of Environmental Quality or a designee of the  di-
+rector.
+(d) The  Governor may appoint to the task force a representative of each state agency
+not represented by the  members required under paragraph (c) of this subsection that has
+an interest in or jurisdiction over aspects of the development of floating offshore wind energy
+projects in federal waters off the Oregon coast.
+(3) In order to ensure effective planning in Oregon for the development  of floating off-
+shore wind energy projects in federal waters off the Oregon coast, the task force shall  de-
+velop a floating offshore wind development strategic plan  for Oregon. The strategic plan
+shall:
+(a) Examine the potential for  floating offshore wind energy development in federal waters
+off the Oregon coast;
+(b) Evaluate actions necessary to promote development of floating offshore wind energy;
+(c) Recommend a  comprehensive and efficient state and federal permitting timeline for
+development of floating offshore wind energy projects in federal waters  off the Oregon coast
+that:
+(A) Includes a coordinated, timely state permitting process;
+(B) Clearly defines state agency roles,  responsibilities and decision-making authorities;
+and
+(C) Identifies the timing, sequencing and coordination with federal agencies  and tribal
+governing bodies necessary for permitting of a floating offshore wind energy project;
+(d) Include a progressively adaptive management and development approach to meeting
+the goal set forth in section 1 of this 2021 Act and, in furtherance  of that goal, to developing,
+by 2025, 500 megawatts  in floating offshore wind energy capacity in federal waters off the
+southern Oregon coast to power an associated renewable hydrogen production facility;
+(e) Identify measures for minimizing conflicts with existing ocean users in areas of fed-
+eral waters off the Oregon coast that are leased for the development of floating  offshore
+wind energy;
+(f) Identify mechanisms, measures and other  opportunities for the development of float-
+ing offshore wind energy to provide net benefits to existing ocean users;
+[3]
+HB 3375
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(g) Include a full evaluation of the impacts of floating offshore wind energy  on the
+coastal, state and regional electricity transmission grid, which must include but  is not lim-
+ited to evaluation of the impacts  in grid reliability, grid resilience, regional resource value
+stacking and seasonal load balancing;
+(h) Identify or recommend local or state initiatives designed to maximize the  benefits to
+the people of this state of developing floating offshore wind energy;
+(i) Evaluate options for integrating the  development of floating offshore wind energy with
+Oregon’s ports and evaluate the  potential economic, ecological, workforce and functionality
+impacts on Oregon’s ports related to the development of floating offshore wind energy;
+(j) Be the result of  and promote regular, collaborative engagement with other Pacific
+coast states, tribal nations and provinces with relation to the development of floating off-
+shore wind energy; and
+(k) Assess the opportunities and  challenges of developing floating offshore wind energy
+in federal waters off the Oregon coast as those opportunities and challenges relate to:
+(A) The resilience and reliability of the coastal and regional electricity transmission grid;
+(B) State and regional electricity transmission grid integration;
+(C) Fire risks related to electricity transmission lines;
+(D) Decarbonization of the energy sector across the Pacific Northwest;
+(E) The development of floating  offshore wind energy as a complementary energy re-
+source with other renewable energy  resources such as renewable hydrogen, pumped storage
+and other forms of energy storage;
+(F) The contributions of floating offshore wind  energy to meeting capacity peak demands;
+(G) The interests of electricity rate payers;
+(H) State energy independence;
+(I) Tribal energy sovereignty and other related interests of federally recognized coastal
+Oregon Indian tribes;
+(J) Economic diversification in this state;
+(K) Workforce development;
+(L) The use of local content in floating offshore wind energy development and local supply
+chain development related to floating offshore wind energy;
+(M) The contributions  of floating offshore wind energy to the economic and geographic
+energy equity in this state;
+(N) The interests of  this state’s commercial and recreational fishing industries and
+subsistence fishers and  the specific interests of this state’s coastal fishing and tribal com-
+munities;
+(O) Estuarine ecosystem functions;
+(P) Port functionality; and
+(Q) Any other issues that the task force determines to be relevant.
+(4) In developing the strategic plan described in subsection (3) of this section, the  task
+force shall solicit input from representatives of relevant local, regional  and federal entities
+that may include, but are not limited to, the commercial and  recreational fishing industries,
+Oregon State  University, ports, conservation interests, the manufacturing industry, the
+maritime industry, disaster  recovery planners, workforce development advocates, electricity
+rate payers, the United States Department of Energy, the Bonneville Power  Administration,
+federally recognized Oregon Indian tribes and federal agencies with jurisdictional  interests
+[4]
+HB 3375
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+related to floating offshore wind energy development.
+(5) A majority of the voting members of the task force constitutes a quorum for  the
+transaction of business.
+(6) Official action by  the task force requires the approval of a majority of the voting
+members of the task force.
+(7) The Director of the State Department of Energy or the designee of the  director shall
+serve as chairperson of the task force.
+(8) If there is a vacancy for any cause, the appointing authority shall make  an appoint-
+ment to become immediately effective.
+(9) The task force shall meet no less than once per month at times  and places specified
+by the call of the chairperson or of a majority of the voting members of the task force.
+(10) The task force may adopt rules necessary for the operation of the task force.
+(11) The task force shall submit the plan  required under subsection (3) of this section, in
+the manner provided by ORS 192.245, which may include recommendations for legislation, to
+the interim committees of the Legislative Assembly  related to energy no later than Sep-
+tember 15, 2022.
+(12) The State Department of Energy shall provide staff support to the task force.
+(13) Members of  the Legislative Assembly appointed to the task force are nonvoting
+members of the task force and may act in an advisory capacity only.
+(14) Members of the task force who are not members of the Legislative  Assembly are not
+entitled to compensation or reimbursement for expenses and serve as volunteers on the  task
+force.
+(15) All agencies of state government, as defined in  ORS 174.111, are directed to assist
+the task force in the performance of  the duties of the task force and, to the extent permitted
+by laws relating to confidentiality, to furnish information and advice the members of the task
+force consider necessary to perform their duties.
+SECTION 3.
+Section 2 of this 2021 Act is repealed on December 31, 2022.
+SECTION 4. This 2021 Act takes effect on the 91st day after the date on which the 2021
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+[5]

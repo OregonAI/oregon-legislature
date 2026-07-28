@@ -1,0 +1,196 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2148
+Sponsored by Representative JOHNSON; Representative BARKER (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Allows construction contractor or subcontractor  to post retainage bond as substitute for moneys
+being withheld as retainage.
+A BILL FOR AN ACT
+Relating to retainage bonds; creating new provisions; and amending ORS 701.410 and 701.420.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) A contractor or subcontractor may, before commencing  performance on
+a construction project,  execute and deliver a good and sufficient bond to an owner, contrac-
+tor or subcontractor in the  amount of any retainage the owner, contractor or subcontractor
+would be  authorized under ORS 701.420 to withhold from the contractor or subcontractor
+based on the contract price. After commencing  performance, a contractor or subcontractor
+may execute and deliver a good and sufficient bond to an  owner, contractor or subcontractor
+in the amount of any retainage on the contract price that has not been paid to the contrac-
+tor or subcontractor by the owner, contractor or subcontractor.
+(2) A bond under this section must be payable for claims and liens, in the same amounts,
+manner and priority that the claims and  liens would be payable from moneys withheld as
+retainage. The bond must be payable for  claims made prior to 30 days after the contractor
+or subcontractor completes work  under the contract and the work is accepted by the owner.
+The bond must be issued by one or more corporate sureties authorized to do business in this
+state.
+(3) If a contractor  or subcontractor delivers a bond to an owner, contractor or subcon-
+tractor under this section before the contractor or subcontractor commences work, the
+owner, contractor or subcontractor must accept the bond as security in lieu of withholding
+retainage from the  amounts payable to the contractor or subcontractor. If the contractor
+or subcontractor delivers the bond after commencing work, the owner,  contractor or sub-
+contractor receiving  the bond shall immediately release any amounts earned by the con-
+tractor or subcontractor  that have been withheld as retainage and shall cease further
+withholdings of retainage from amounts due the contractor or subcontractor.
+(4) If a contractor or  subcontractor delivers a bond under this section, and later executes
+and delivers a performance bond under ORS 701.430, the contractor or  subcontractor may
+reduce the amount of the performance bond by the amount of the bond executed and  deliv-
+ered under this section.
+(5) A  bond described in this section shall expire 30 days after the contractor or subcon-
+tractor completes work under the contract and the work is accepted by the owner.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2551
+HB 2148
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(6) This section does not apply to a public contract described in ORS 701.435.
+SECTION 2.
+ ORS 701.420 is amended to read:
+701.420. (1) Partial payment is allowed and may be made  on contracts for construction and home
+improvement. Except as otherwise provided in ORS 701.430, 701.435 or section  1 of this 2017
+Act, an owner, contractor or subcontractor may withhold as retainage an  amount equal to not more
+than five percent of the contract price of the work completed.  Partial payment allowed under this
+subsection is not acceptance or approval of some of the work or a waiver of defects in the work.
+(2) The owner, contractor or subcontractor shall  pay interest at the rate of one percent per
+month on the final payment due the contractor or subcontractor. The  interest shall commence 30
+days after the contractor or subcontractor has completed and the owner has accepted the  work
+under the contract for construction for which the final payment is due. The interest shall run  until
+the date when final payment is tendered to the contractor or subcontractor. When the  contractor
+or subcontractor considers  the work that the contractor or subcontractor is contracted to perform
+to be complete, the contractor or  subcontractor shall notify the party to whom the contractor or
+subcontractor is responsible for performing  the construction work under the contract. The party
+shall, within 15 days after receiving the notice, either accept the work or notify the contractor or
+subcontractor of work yet to be performed under the contract. If  the party does not accept the work
+or does not notify the contractor  or subcontractor of work yet to be performed within the time al-
+lowed, the interest required under this subsection shall commence 30 days  after the end of the
+15-day period.
+(3) [ When a contractor pays a subcontractor in full, including  the amount the contractor withheld
+as retainage, the owner with whom the contractor has the contract shall pay the contractor,  out of the
+amount that the owner withheld from the contractor as retainage, a sum equal to the amount  of
+retainage that the contractor paid the  subcontractor. ] If a contractor pays a subcontractor in full
+including any retainage withheld  by the contractor, and the owner has withheld retainage
+from the contractor, the owner shall pay the contractor out of the retainage withheld by  the
+owner an amount equal to five percent of the  full amount that the contractor paid the sub-
+contractor. The contractor shall  notify the owner when the contractor pays a subcontractor in full
+under this section and the owner shall, within 15 days after receiving the notice, pay the  contractor
+the amount due the contractor  under this subsection. Interest on the amount due the contractor at
+the rate of one percent per month  shall commence 30 days after the owner receives notice of full
+payment to the subcontractor.
+SECTION 3.
+ ORS 701.410 is amended to read:
+701.410. (1) As used  in ORS 279C.555, 279C.570, 701.410, 701.420, 701.430, 701.435 and 701.440 and
+section 1 of this 2017 Act :
+(a) “Construction” means:
+(A) Excavating, landscaping, demolishing and detaching existing  structures, leveling, filling in
+and otherwise preparing land for the making and placement of a building,  structure or superstruc-
+ture;
+(B) Creating or making a building, structure or superstructure; and
+(C) Altering, partially constructing and doing repairs  in and upon a building, structure or
+superstructure.
+(b) “Contractor” means a person  that contracts with an owner on predetermined terms to be
+responsible for performing all or part of a job of construction  in accordance with established spec-
+ifications or plans, and that retains control of the means,  method and manner of accomplishing the
+[2]
+HB 2148
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+desired result.
+(c) “Owner” means a person that is or claims  to be the owner in fee or a lesser estate of the
+land, building, structure or superstructure on which  construction is performed and that enters into
+an agreement with a contractor for the construction.
+(d) “Subcontractor” means a person that contracts with a contractor or another subcontractor
+on predetermined terms to be responsible for performing all or part of a job of construction in ac-
+cordance with established specifications or plans.
+(2) As used in ORS 701.410, 701.420, 701.430, 701.435 and 701.440  and section 1 of this  2017
+Act, “retainage” means the difference between the amount a contractor or subcontractor earns  un-
+der a construction contract and the amount the owner pays on the contract to the  contractor, the
+amount the contractor pays on the contract to the subcontractor or the amount the  subcontractor
+pays on the contract to another subcontractor.
+[3]

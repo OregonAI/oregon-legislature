@@ -1,0 +1,182 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2445
+Sponsored by Representative PARRISH (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs court to award damages of $10,000 for each violation in action involving false statement
+of material fact relating to candidate, political committee or measure.
+Authorizes court to further fine defendant up to $10,000 for each violation,  with proceeds of fine
+being deposited into  Legal Aid Supplementary Account. Establishes Legal Aid Supplementary Ac-
+count. Directs Oregon Department of Administrative Services to  make quarterly distributions of
+moneys earned by account to Oregon State Bar for funding Legal Services Program.
+A BILL FOR AN ACT
+Relating to actions involving false statements  of fact; creating new provisions; and amending ORS
+260.532.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 260.532 is amended to read:
+260.532. (1) No person shall  cause to be written, printed, published, posted, communicated or
+circulated, any letter, circular, bill, placard, poster, photograph  or other publication, or cause any
+advertisement to be placed in a publication, or  singly or with others pay for any advertisement, with
+knowledge or with reckless disregard that  the letter, circular, bill, placard, poster, photograph,
+publication or advertisement contains a false statement  of material fact relating to any candidate,
+political committee or measure.
+(2) As used in subsection (1) of this section, “cause” does not include the broadcast of  an ad-
+vertisement by a radio or television station or cable television  company unless the advertisement
+is for:
+(a) The candidacy of the owner, licensee or operator of the station or company; or
+(b) A ballot measure of which a chief petitioner is the owner, licensee or operator of the  station
+or company.
+(3) A candidate who knows of and consents  to a publication or advertisement prohibited by this
+section with knowledge or with reckless disregard  that it contains a false statement of material fact,
+violates this section  regardless of whether the candidate has participated directly in the publication
+or advertisement.
+(4) There is a rebuttable presumption that a candidate knows of and consents  to any publication
+or advertisement prohibited by this section caused by a political committee over  which the candi-
+date exercises any direction and control.
+(5) Any candidate or political committee aggrieved by a violation of this section  shall have a
+right of  action against the person alleged to have committed the violation. The aggrieved party may
+file the action in the circuit  court for any county in this state in which a defendant resides or can
+be found  or, if the defendant is a nonresident of this state, in the circuit court for any county in
+which the publication occurred. To prevail in such an action, the plaintiff must show by clear  and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2073
+HB 2445
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+convincing evidence that the defendant violated subsection (1) of this section.
+(6)(a) A plaintiff who prevails in an action provided by subsection (5) of this section [ may recover
+economic and noneconomic damages, as defined in ORS 31.710, or $2,500, whichever is greater. ] shall
+recover:
+(A) Damages of $10,000 for each violation of this section; and
+(B) Reasonable attorney fees incurred by the plaintiff at trial and on appeal.
+(b) In addition to any  award provided to a plaintiff under paragraph (a) of this subsection,
+if a plaintiff prevails in an action provided by subsection (5) of this section, the judge  may
+further fine the defendant up to $10,000 for  each violation of this section, with the proceeds
+of any fine being deposited into  the Legal Aid Supplementary Account established under
+section 2 of this 2017 Act.
+(c) In addition to any monetary award  or fine established in paragraphs (a) and (b) of this
+subsection, the court may award  such additional equitable relief as it considers necessary or
+proper. The equitable relief may include, but is not limited to, a  requirement that a retraction of the
+false statement be  disseminated in the manner directed by the court. [ Proof of entitlement to economic
+and noneconomic damages must be by a preponderance of evidence. The court shall award the  pre-
+vailing party reasonable attorney fees at trial and on appeal. ]
+(7) A political committee has standing to bring an action provided by subsection (5) of this sec-
+tion as plaintiff in its own name, if its purpose as evidenced by its preelection activities, solicitations
+and publications has been injured by the violation  and if it has fully complied with the provisions
+of this chapter. In an action brought by a political committee as provided by subsection (5) of  this
+section, the plaintiff may recover economic and noneconomic  damages for all injury to the purpose
+of the committee as provided in subsection (6) of this section.
+(8) If a judgment is rendered in an action under  this section against a defendant who has been
+nominated to public office or elected to a public office other than  state Senator or state Represen-
+tative, and it is established by clear and convincing evidence that the false statement was delib-
+erately made or caused to be made by the defendant, the finder of fact shall  determine whether the
+false statement reversed the outcome of the election. If the  finder of fact finds by clear and con-
+vincing evidence that the false statement  reversed the outcome of the election, the defendant shall
+be deprived of the nomination or election and the nomination or office shall be declared vacant.
+(9) An action under this section  must be filed not later than the 30th day after the election re-
+lating to which a publication or advertisement in violation of this  section was made. Proceedings
+on a complaint filed under this section shall have  precedence over all other business on the docket.
+The courts shall proceed in a manner which will ensure that:
+(a) Final judgment on a complaint which relates to a  primary election or nominating election is
+rendered before the 30th day before the general election; and
+(b) Final judgment on a complaint which relates to  an election to an office is rendered before
+the term of that office begins.
+(10) The remedy provided by this section is the exclusive remedy for a violation  of this section.
+SECTION 2.
+(1) The Legal Aid Supplementary Account is established  in the State Treas-
+ury, separate and distinct  from the General Fund. Interest earned by the account shall be
+credited to  the account. All moneys in the account are continuously appropriated to the
+Oregon Department of Administrative Services for the purpose of making  the distributions
+required by this section.
+(2) At the end of each calendar quarter,  the department shall distribute the moneys
+[2]
+HB 2445
+1
+2
+3
+4
+5
+6
+7
+earned by the account in the previous calendar quarter to  the Oregon State Bar. Amounts
+distributed to the Oregon State Bar under this subsection may  be used only for funding the
+Legal Services Program established under ORS 9.572.
+SECTION 3. Section 2 of this 2017 Act and the amendments to ORS 260.532 by  section 1
+of this 2017 Act apply only to causes of action arising  on or after the effective date of this
+2017 Act.
+[3]

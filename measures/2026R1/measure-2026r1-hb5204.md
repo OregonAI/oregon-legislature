@@ -1,0 +1,3907 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-hb5204
+title: 'HB 5204 (2026R1): Establishes and modifies certain biennial appropriations made from the General
+  Fund to specified state agencies and the Emergency Board.'
+doc_type: dataset_doc
+citation: 2026 Regular Session House Bill 5204
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB5204/Enrolled
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: 6756a51c2b27b7c21641afbee357976cf67e507bd0840b7ce2030ec4114001b5
+snapshot_id: measure-2026r1-hb5204-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 147.453
+  - ORS 180.095
+  - ORS 196.567
+  - ORS 196.640
+  - ORS 197A.820
+  - ORS 274.371
+  - ORS 285A.167
+  - ORS 285A.188
+  - ORS 285A.198
+  - ORS 285A.213
+  - ORS 285A.708
+  - ORS 285B.046
+  - ORS 285B.092
+  - ORS 285B.133
+  - ORS 285B.215
+  - ORS 285B.426
+  - ORS 285B.455
+  - ORS 285B.563
+  - ORS 285B.758
+  - ORS 286A.806
+  - ORS 293.195
+  - ORS 327.001
+  - ORS 327.175
+  - ORS 332.337
+  - ORS 418.801
+  - ORS 458.620
+  - ORS 610.155
+  - ORS 654.086
+  - ORS 777.267
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- hb
+session_key: 2026R1
+measure_prefix: HB
+measure_number: 5204
+prefix_meaning: House Bill
+catch_line: Establishes and modifies certain biennial appropriations made from the General Fund to specified
+  state agencies and the Emergency Board.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act makes budget changes for the current biennium. (Flesch Readability\
+  \ Score: 66.1). \n\t<b>Establishes and</b> modifies certain biennial appropriations made from the General\
+  \ Fund to specified state agencies and the Emergency Board. \n\tEstablishes and modifies limitations\
+  \ on expenditures for certain biennial expenses for specified state agencies. \n\tDeclares an emergency,\
+  \ effective on passage."
+relating_to: Relating to state financial administration; and declaring an emergency.
+relating_to_full: Relating to state financial administration; and declaring an emergency.
+at_the_request_of: (at the request of Representative Tawna Sanchez)
+lc_number: 327
+measure_created_date: '2026-02-06T12:19:54'
+measure_modified_date: '2026-04-13T08:35:02'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 211438
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 147.453
+  - ORS 180.095
+  - ORS 196.567
+  - ORS 196.640
+  - ORS 197A.820
+  - ORS 274.371
+  - ORS 285A.167
+  - ORS 285A.188
+  - ORS 285A.198
+  - ORS 285A.213
+  - ORS 285A.708
+  - ORS 285B.046
+  - ORS 285B.092
+  - ORS 285B.133
+  - ORS 285B.215
+  - ORS 285B.426
+  - ORS 285B.455
+  - ORS 285B.563
+  - ORS 285B.758
+  - ORS 286A.806
+  - ORS 293.195
+  - ORS 327.001
+  - ORS 327.175
+  - ORS 332.337
+  - ORS 418.801
+  - ORS 458.620
+  - ORS 610.155
+  - ORS 654.086
+  - ORS 777.267
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 5204`.
+
+# HB 5204 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** House Bill 5204, 2026 Regular Session (2026R1)
+- **At the request of:** (at the request of Representative Tawna Sanchez)
+- **LC number:** 327
+- **Created:** 2026-02-06T12:19:54
+- **Metadata last modified (upstream):** 2026-04-13T08:35:02
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 211438 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB5204/Enrolled>.
+
+## Summary
+
+**Catchline:** Establishes and modifies certain biennial appropriations made from the General Fund to specified state agencies and the Emergency Board.
+
+**Relating to:** Relating to state financial administration; and declaring an emergency.
+
+Digest: The Act makes budget changes for the current biennium. (Flesch Readability Score: 66.1). 
+ <b>Establishes and</b> modifies certain biennial appropriations made from the General Fund to specified state agencies and the Emergency Board. 
+ Establishes and modifies limitations on expenditures for certain biennial expenses for specified state agencies. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to state financial administration; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+House Bill 5204
+Sponsored by JOINT COMMITTEE ON WAYS  AND MEANS (at the request of Representative
+Tawna Sanchez)
+CHAPTER .................................................
+AN ACT
+Relating to state financial administration; creating new provisions; amending section 13, chapter
+616, Oregon Laws 2025, and sections 4 and 110, chapter 628, Oregon Laws 2025; and  declaring
+an emergency.
+Be It Enacted by the People of the State of Oregon:
+ADMINISTRATION PROGRAM AREA
+SECTION 1. Notwithstanding any other law limiting expenditures, the limitation on ex-
+penditures established by  section 2 (1), chapter 517, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services, for
+the Chief Operating Office, is increased by $252,699, for the Office of Economic Analysis.
+SECTION 2.
+Notwithstanding any other law limiting expenditures, the limitation on  ex-
+penditures established by section 2 (2), chapter 517, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services,  for
+the Chief Financial Office, is increased by  $4,400,000, for the payment of State Data Center
+charges and contracts for out-of-state tax reporting.
+SECTION 3.
+Notwithstanding any other law limiting expenditures, the limitation on  ex-
+penditures established by section 2 (4), chapter 517, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services,  for
+the Chief Human Resources  Office, is increased by $781,024, to support new client agencies
+and investigation workload.
+SECTION 4.
+Notwithstanding any other law limiting expenditures, the limitation on  ex-
+penditures established by section 2 (5)(a), chapter 517, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+Enrolled House Bill 5204 (HB 5204-A) Page 1
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services,  for
+the Office of the State Chief Information Officer for State Data Center operations, is in-
+creased by $7,700,000, for increased costs of virtualization software.
+SECTION 5.
+Notwithstanding any other law limiting expenditures, the limitation on ex-
+penditures established by  section 2 (6), chapter 517, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services, for
+Workday Oregon, is increased by  $750,000, for the Statewide Payroll Transformation Project.
+SECTION 6.
+Notwithstanding any other law limiting expenditures, the limitation on  ex-
+penditures established by section 2 (8), chapter 517, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services,  for
+enterprise goods and services, is increased by $4,982,888, to address workload associated  with
+biweekly payroll transformation, procurement and risk management.
+SECTION 7.
+Notwithstanding any other provision  of law, the General Fund appropriation
+made to the Secretary of State by section 1 (2), chapter 610, Oregon Laws 2025, for  the
+biennium ending June 30, 2027, for the Elections Division, is increased by $2,000,000,  for the
+Oregon Centralized Voter Registration system.
+SECTION 8. Notwithstanding any other law limiting expenditures, the limitation on ex-
+penditures established by  section 2 (5), chapter 610, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the Secretary of State, for the  Corporation Division, is in-
+creased by $456,397, for the digitization of records.
+SECTION 9. Notwithstanding any other law limiting expenditures, the limitation on  ex-
+penditures established by section 2 (1), chapter 610, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the Secretary of State, for the  Administrative Services Divi-
+sion, is increased by $134,813, for a position establishment.
+SECTION 10. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 1 (6)(a), chapter 552, Oregon Laws 2025, for the  biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts but excluding lottery funds and federal
+funds, collected or received by the Public  Employees Retirement System, for the Core Re-
+tirement System: Core Retirement  System Applications Program Office, is increased by
+$644,301, for position establishments.
+SECTION 11. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 1 (6)(b), chapter 552, Oregon Laws 2025, for the  biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts but excluding lottery funds and federal
+funds, collected or received by the Public  Employees Retirement System, for the Core Re-
+tirement System: ORION modernization implementation, is increased by $1,336,500, for con-
+sulting services.
+SECTION 12.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 1 (6)(d), chapter 552, Oregon Laws 2025, for the  biennium
+Enrolled House Bill 5204 (HB 5204-A) Page 2
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts but excluding lottery funds and federal
+funds, collected or received by the Public Employees  Retirement System, for legacy stabili-
+zation and technology readiness, is increased by $938,000, for data cleaning.
+SECTION 13. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 1 (1), chapter 400, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the  Oregon Liquor and Cannabis Commission, for distilled
+spirits, public safety, administration and agency support, is increased by $4,783,827, for the
+warehouse management information technology project.
+SECTION 14. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (7), chapter 517, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services,  for
+Enterprise Asset Management, is increased by $50,000, for the cost of issuing bonds.
+SECTION 15.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 2 (15), chapter 517, Oregon Laws 2025, for the  biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services, for
+special governmental payments, is increased by  $103,500,000, for disbursement of lottery bond
+proceeds carried forward from the prior biennium.
+SECTION 16.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (8), chapter 517, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services,  for
+Enterprise Goods and Services, is increased by $2,819,680, for a budget realignment.
+SECTION 17.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 2 (10), chapter 517, Oregon Laws 2025, for the  biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services, for
+capital improvements, is decreased by $2,819,680, for a budget realignment.
+SECTION 18.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (8), chapter 517, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services,  for
+Enterprise Goods and Services, is increased by $4,200,000, for the Publishing  and Distribution
+program.
+SECTION 19.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 6,  chapter 517, Oregon Laws 2025, for the biennium ending
+June 30, 2027, as the maximum limit for  payment of expenses by the Oregon Department of
+Administrative Services from American  Rescue Plan Act Coronavirus State Fiscal Recovery
+Enrolled House Bill 5204 (HB 5204-A) Page 3
+Fund moneys received by the Oregon Department of Administrative  Services, for purposes
+other than those specified in section 5, chapter 517, Oregon Laws  2025, is increased by
+$1,033,627, for transfer to the  Department of Corrections for provision of public safety ser-
+vices.
+SECTION 20. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (10), chapter 553, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts  and reimbursements from federal service
+agreements, but excluding lottery funds and federal funds not described in section 2, chapter
+553, Oregon Laws 2025, collected or received by the Department  of Revenue, for Information
+System projects, is decreased by  $2,000,000, for the Electronic Valuation Information System
+project.
+SECTION 21.
+Notwithstanding any other provision of law, the General Fund appropriation
+made to  the Secretary of State by section 1 (2), chapter 610, Oregon Laws 2025, for the
+biennium ending June 30, 2027, for the Elections Division, is increased by  $2,000,000, for a
+budget realignment.
+SECTION 22. Notwithstanding any other provision of law, the General Fund appropriation
+made to  the Secretary of State by section 1 (1), chapter 610, Oregon Laws 2025, for the
+biennium ending June 30, 2027, for  the Administrative Services Division, is decreased by
+$2,000,000, for a budget realignment.
+SECTION 23. Notwithstanding any other provision of law, the General Fund appropriation
+made to the State Library by section 1, chapter 399,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, is increased by $141,580, for position compensation adjustments.
+SECTION 24. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 2,  chapter 399, Oregon Laws 2025, for the biennium ending
+June 30, 2027, as  the maximum limit for payment of expenses from fees, moneys or other
+revenues, including Miscellaneous  Receipts other than those described in section 3, chapter
+399, Oregon Laws 2025, but excluding lottery funds and federal funds, collected  or received
+by the State Library, is increased by $95,000, for a position establishment.
+SECTION 25. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (1), chapter 610, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the Secretary of State, for the  Administrative Services Divi-
+sion, is increased by $319,536, for position classification adjustments.
+SECTION 26. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 2 (3), chapter 610, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by  the Secretary of State, for the Audits Division, is increased
+by $109,534, for a position establishment.
+SECTION 27. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (5), chapter 610, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by  the Secretary of State, for the Corporation Division, is in-
+creased by $271,046, for position establishments.
+SECTION 28. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 2 (1), chapter 610, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received  by the Secretary of State, for the Administrative Services Divi-
+Enrolled House Bill 5204 (HB 5204-A) Page 4
+sion, is increased by $1,173,279, for transition to an independent productivity information
+technology solution.
+SECTION 29.
+In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Oregon Department of Administrative Services, for the biennium ending  June
+30, 2027, out of the General Fund, the amount of $5,600,000, for deposit in the Universal
+Representation Fund established under ORS 9.865.
+SECTION 30.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (15), chapter 517, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received from charges,
+but excluding lottery funds and federal funds not described in  section 2, chapter 517, Oregon
+Laws 2025, collected or received by the Oregon Department of Administrative Services,  for
+special governmental  payments, is increased by $5,600,000, for disbursement from the Uni-
+versal Representation  Fund established under ORS 9.865 to Oregon Worker Relief, as the
+fiscal agent described in ORS 9.860.
+SECTION 31.
+Notwithstanding any other provision of law, the General Fund appropriation
+made to the Department of Revenue by section 1 (3), chapter 553,  Oregon Laws 2025, for the
+biennium ending June 30, 2027, for the Personal Tax  and Compliance Division, is increased
+by $58,534, for implementation of chapter ___, Oregon Laws 2026 (Enrolled Senate Bill 1507).
+SECTION 32. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (3), chapter 553, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts  and reimbursements from federal service
+agreements, but excluding lottery funds and federal funds not described in section 2, chapter
+553, Oregon Laws 2025, collected or received by the Department of Revenue, for the  Personal
+Tax and Compliance Division, is increased by $1,473, for implementation  of chapter ___,
+Oregon Laws 2026 (Enrolled Senate Bill 1507).
+SECTION 33.
+In addition to and  not in lieu of any other appropriation, there is appro-
+priated to the Oregon Department of Administrative Services, for the biennium ending  June
+30, 2027, out of the General Fund, the amount of $576,134, for  the Office of the State Chief
+Information Officer, for budgetary adjustments related to  the 2025 Budget Reconciliation Act
+(United States Public Law 119-21).
+SECTION 34.  In addition to and not in lieu of any other appropriation, there are appro-
+priated to the Oregon Department of Administrative Services, for the biennium ending  June
+30, 2027,  out of the General Fund, the following amounts, for distribution to the following
+entities, for the following purposes:
+(1) $450,000 to Glide  Revitalization for the Glide Revitalization Community Resource
+Center.
+(2) $840,000 to the Blue Mountain Translator District  for the Critical Electrical Distrib-
+ution Line Reconstruction project.
+(3) $550,000 to Riddle School District 70 for the Riddle Elementary schoolyard project.
+(4) $100,000 to the City  of Detroit for recovery efforts from the December 16-17, 2025,
+windstorm.
+(5) $1,000,000 to the City of  Eugene for the Eugene Airport replacement and relocation
+of Gate A6 passenger boarding bridge project.
+(6) $1,000,000 to the ABC House (The Children’s Advocacy  Center Serving Benton and
+Linn Counties) for expansion of the ABC House building.
+(7) $173,000 to Banks Fire District #13 for the Banks Fire District Hornshuh Creek Fire
+Station #14 Access Safety Improvements project.
+SECTION 35.
+Notwithstanding any other law limiting expenditures, the following amounts
+are established for the biennium  ending June 30, 2027, as the maximum limits for payment
+of expenses from proceeds of lottery bonds, collected or received by the Oregon  Department
+Enrolled House Bill 5204 (HB 5204-A) Page 5
+of Administrative Services, for the provision of grants to the following entities for  the fol-
+lowing purposes:
+(1) $1,400,000 to Our Home  Inclusive Community Collaborative for the Cathedral Park
+Cohousing project.
+(2) $3,000,000 to the Regional Rural Revitalization  (R3) Strategies Consortium for the
+Rural Oregon Modular Mass Timber Workforce Housing project.
+(3) $2,500,000 to Evergreen Community Partners  for the Whale Watch affordable housing
+project.
+(4) $4,000,000 to the Native American Youth and Family Center (NAYA) for roof replace-
+ment and facilities upgrades.
+(5) $1,100,000 to the Central Oregon Coast Fire and  Rescue District for the Fire Hall ac-
+quisition.
+(6) $1,750,000 to Consejo Hispano for Casa Mariposa.
+(7) $11,500,000 to Williams & Russell CDC for a business hub.
+(8) $5,000,000 to Clackamas County for the Clackamas County Recovery Campus.
+(9) $1,500,000 to the City of McMinnville for the NE Gateway Alpine Avenue Street Im-
+provement Project, Phase 2A.
+(10) $1,350,000 to the City of  Salem for the McNary Field Resiliency and Emergency Ca-
+pability and Terminal Master Plan project.
+SECTION 36.
+Notwithstanding any  other law limiting expenditures, the amount of
+$496,797 is established for the biennium ending June 30,  2027, as the maximum limit for
+payment of expenses from proceeds of lottery bonds, collected or received by the  Oregon
+Department of Administrative Services, for the costs of bond issuance.
+SECTION 37. Notwithstanding any other law limiting expenditures,  the amount of
+$1,400,000 is established for the  biennium ending June 30, 2027, as the maximum limit for
+payment of  expenses from fees, moneys or other revenues, including Miscellaneous Receipts,
+but excluding lottery funds and federal funds, collected or  received by the Oregon Depart-
+ment of Administrative Services, for special governmental payments, for the costs of bond
+issuance.
+SECTION 38.
+ Section 110, chapter 628, Oregon Laws 2025, is amended to read:
+Sec. 110.  Notwithstanding any other law limiting  expenditures, the following amounts are es-
+tablished for the biennium beginning July 1, 2025, as  the maximum limits for payment of expenses
+from proceeds of lottery bonds, collected  or received by the Oregon Department of Administrative
+Services, for the provision of grants to the following entities, for the following  purposes, in the fol-
+lowing  amounts:
+(1) City of Beaverton for the Meadowlark Senior Housing Project: $3,041,482.
+(2) Oregon Museum of Science and  Industry for construction of OMSI district infrastructure to
+support affordable housing and mixed use development: $5,073,845.
+(3) Mid-Willamette Family YMCA Veterans Housing for the Albany Veterans  Apartments
+Project: $3,402,760.
+(4) City of Gresham for the Fire Station 74 replacement project: $8,091,785.
+(5) Central Oregon Intergovernmental Council for  the CORE3 emergency coordination center
+and public safety training facility: $10,128,616.
+(6) McMinnville Fire District for a new fire station: $3,041,482.
+(7) Lane County for the Lane Stabilization Center: $14,658,694.
+(8) Columbia Memorial Hospital for expansion of the hospital: $6,078,256.
+(9) Deschutes County for the Central Oregon Child Psychiatric Facility: $3,121,146.
+(10) Mosaic  Community Health for construction of a health care campus that includes primary
+care and other services: $4,045,902.
+(11) Santiam Hospital and Clinics Foundation  for the Santiam Hospital and Clinics Ambulance
+Facility:  $4,759,310.
+Enrolled House Bill 5204 (HB 5204-A) Page 6
+(12) Mittleman Jewish Community Center for deferred maintenance, enhancing the  accessibility
+of the pool area and renovations to expand childcare on site: $4,045,902.
+(13) Marion Polk Food Share, Inc. for acquisition of property to allow for  a larger warehouse
+and production kitchen: $6,080,215.
+[(14) City of Happy Valley for the Happy Valley Community Recreation Center: $5,073,845. ]
+[(15)] (14)  Willamette Falls Trust for the Willamette Falls Inter-Tribal Public  Access Project:
+$45,436,500.
+[(16)] (15)  Corvallis School  District 509J for the Osborn Aquatic Center Structural Rehabili-
+tation Project: $4,045,902.
+[(17)] (16) James Beard Public Market for creation of a public market in Portland: $10,128,616.
+[(18)] (17)  Warm Springs Community  Action Team for the Warm Springs Commissary Project:
+$3,843,973.
+[(19)] (18) Union County Fair Association for water and wastewater improvements: $2,539,405.
+SECTION 38a. In addition to and not in  lieu of any other appropriation, there is appro-
+priated to the Oregon Department of Administrative Services, for the biennium ending  June
+30, 2027, out of the General Fund, the amount of $5,000,000, for distribution of  $1,000,000 each
+to Crook County, Harney County, Josephine County, Tillamook County and Union  County to
+support horse racing events at county fairgrounds, including maintaining horse racing tracks
+and building or maintaining infrastructure that enhances or  protects the safety or well-being
+of racehorses.
+CONSUMER AND BUSINESS SERVICES PROGRAM AREA
+SECTION 39. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (1), chapter 606, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds
+collected or received by the Department of Consumer and Business Services, for Oregon
+OSHA, is increased by $200,000, for on-site Occupational Safety and Health Act training.
+SECTION 40.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 1 (4), chapter 606, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected  or received by the Department of Consumer and Business Services, for the
+Central Services Division, is increased by $211,015, for classification  and compensation ad-
+justments.
+SECTION 41. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 1 (6), chapter 606, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected  or received by the Department of Consumer and Business Services, for the
+Building Codes Division, is increased by $3,500, for classification and  compensation adjust-
+ments.
+SECTION 42. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 1 (1), chapter 606, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected  or received by the Department of Consumer and Business Services, for the
+Workers’ Compensation Board, is increased by $851,988, for compensation adjustments.
+SECTION 43. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 1,  chapter 339, Oregon Laws 2025, for the biennium ending
+June 30, 2027, as  the maximum limit for payment of expenses from fees, moneys or other
+revenues, including Miscellaneous Receipts, but excluding lottery funds and federal funds,
+Enrolled House Bill 5204 (HB 5204-A) Page 7
+collected or received by the State Board  of Tax Practitioners, is increased by $100,000, for
+legal expenses.
+SECTION 44. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2, chapter 585, Oregon Laws 2025,  for the biennium ending
+June 30, 2027, as the maximum limit for payment of expenses from fees,  moneys or other
+revenues, including Miscellaneous Receipts, but excluding lottery funds and federal funds,
+collected or  received by the Bureau of Labor and Industries, is increased by $74,380, for
+services and supplies.
+SECTION 45.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 1 (3), chapter 606, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the Department  of Consumer and Business Services, for
+Oregon OSHA, is increased by $2,606,149, for Oregon OSHA penalty structure  changes under
+ORS 654.086.
+SECTION 46. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 1 (5), chapter 606, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected  or received by the Department of Consumer and Business Services, for the
+Division of Financial Regulation, is decreased by $57,307,048,  for the Oregon Reinsurance
+Program.
+SECTION 47. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (4), chapter 606, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds
+collected or received by the Department of Consumer and Business  Services, for the Division
+of Financial Regulation, is increased by $64,197,434, for the Oregon Reinsurance Program.
+ECONOMIC DEVELOPMENT PROGRAM AREA
+SECTION 48. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 8 (4), chapter 616, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the Oregon Business Development Department, for arts, is
+increased by $5,367,756, for the Trust for Cultural Development.
+SECTION 49.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 12 (2), chapter 616, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds
+collected or received by the Oregon Business Development Department, for business, inno-
+vation and trade, is increased by $3,281,050,  for the State Small Business Credit Initiative
+program.
+SECTION 50.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 1 (3), chapter 519, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts and moneys appropriated to the Employ-
+ment Department by sections  2 and 3, chapter 519, Oregon Laws 2025, but excluding lottery
+funds and federal funds  other than those described in section 2, chapter 519, Oregon Laws
+2025, collected or received by the Employment Department, for the family and  medical leave
+insurance program, is increased by $2,989,139, for program and process enhancements.
+SECTION 51. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 2 (4), chapter 584, Oregon Laws 2025, for the biennium
+Enrolled House Bill 5204 (HB 5204-A) Page 8
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous  Receipts and federal funds from the United States
+Department of Housing  and Urban Development for contract services, but excluding lottery
+funds and federal funds not described in section 2, chapter  584, Oregon Laws 2025, collected
+or received by the Housing  and Community Services Department, for single family housing
+programs, is increased by $37,771,236, for  down payment assistance and development of af-
+fordable homes for purchase.
+SECTION 52. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 2 (3), chapter 584, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous  Receipts and federal funds from the United States
+Department of Housing  and Urban Development for contract services, but excluding lottery
+funds and federal funds not described in section 2, chapter  584, Oregon Laws 2025, collected
+or received by the Housing and Community Services Department, for multifamily  rental
+housing programs, is increased by $1,900,000, for affordable housing development.
+SECTION 53. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 4 (1), chapter 584, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from federal funds other
+than those described in section 2, chapter  584, Oregon Laws 2025, collected or received by the
+Housing and Community Services Department, for housing  stabilization programs, is in-
+creased by $15,000,000, for energy efficiency projects.
+SECTION 54.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 4 (3), chapter 584, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from federal funds other
+than those described in section 2, chapter  584, Oregon Laws 2025, collected or received by the
+Housing and Community Services Department, for multifamily rental  housing programs, is
+increased by $32,585,695, for affordable rental housing development.
+SECTION 55.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 4 (5), chapter 584, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from federal funds other
+than those described in section 2, chapter  584, Oregon Laws 2025, collected or received by the
+Housing and Community Services Department, for  disaster recovery and resilience, is in-
+creased by $58,000,000, for wildfire recovery.
+SECTION 56.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 5,  chapter 526, Oregon Laws 2025, for the biennium ending
+June 30, 2027, as the maximum limit for payment of  expenses from federal funds collected
+or received by the Department of Veterans’ Affairs, is increased by $134,000, for  a federal
+grant award.
+SECTION 57. Notwithstanding any  other law limiting expenditures, the amount of
+$14,531,000 is established for the biennium ending June 30,  2027, as the maximum limit for
+payment of  expenses from fees, moneys or other revenues, including Miscellaneous Receipts,
+but excluding lottery funds and federal funds, collected or received by the  Oregon Business
+Development Department, for debt service.
+SECTION 58. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Housing and Community Services Department, for the biennium  ending June
+30, 2027, out of the General Fund, the amount of $280,201, for bond related activities.
+SECTION 59. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (7), chapter 584, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds from  the United States
+Department of Housing and Urban Development for contract services, but  excluding lottery
+funds and federal funds not described  in section 2, chapter 584, Oregon Laws 2025, collected
+Enrolled House Bill 5204 (HB 5204-A) Page 9
+or received by the Housing  and Community Services Department, for Bond Activities, is de-
+creased by $1,708,000, for a budget realignment.
+SECTION 60. Notwithstanding any other law limiting expenditures,  the amount of
+$72,343,000 is established for the biennium ending  June 30, 2027, as the maximum limit for
+payment of  expenses from fees, moneys, or other revenues, including Miscellaneous Receipts
+and federal funds from the United States Department  of Housing and Urban Development for
+contract services, but excluding lottery funds and federal funds not described in  this section,
+collected or received by the Housing and Community Services Department, for debt service.
+SECTION 61. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 10 (2), chapter 616, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses by the Oregon Business
+Development Department, from the Broadband Fund  established by ORS 285A.167, for
+infrastructure, is decreased by $500,125, for a budget rebalance.
+SECTION 62.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 8 (3), chapter 616, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from fees, moneys, or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the Oregon Business Development  Department, for
+infrastructure, is increased by $500,125, for broadband technical assistance.
+SECTION 63. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development Department by section 3,  chapter 616, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for  infrastructure, for grants approved in
+section 9, chapter 109,  Oregon Laws 2024, is decreased by $14,204,299, for a budget adjust-
+ment.
+SECTION 64. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 11 (2), chapter 616, Oregon Laws 2025, for the  biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from lottery moneys
+allocated from the Administrative Services Economic Development Fund to the Oregon
+Business Development Department, for  business, innovation and trade, is decreased by
+$328,216, for a budget adjustment.
+SECTION 65.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 11 (3), chapter 616, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for  payment of expenses from lottery moneys
+allocated from the Administrative Services Economic Development Fund to the Oregon
+Business Development Department, for infrastructure, is decreased by  $2,101,362, for a
+budget adjustment.
+SECTION 66.
+ Section 13, chapter 616, Oregon Laws 2025, is amended to read:
+Sec. 13.  For the biennium beginning July 1, 2025, expenditures by the Oregon Business  Devel-
+opment Department are not limited for:
+(1) Loans from the following funds:
+(a) Oregon  Business Development Fund (ORS 285B.092), Oregon Entrepreneurial Development
+Loan Fund (ORS 285B.758), Credit Enhancement  Fund (ORS 285B.215) and Small Business Expansion
+Loan Fund (ORS 285B.133).
+(b) Special Public Works Fund (ORS 285B.455), Water Fund (ORS 285B.563),  Marine Navigation
+Improvement Fund (ORS 777.267), Oregon  Port Revolving Fund (ORS 285A.708), Safe Drinking Water
+Revolving Loan Fund (ORS 285A.213)[ ,] and Brownfields Redevelopment Fund (ORS 285A.188) [ and
+Oregon Brownfield Properties Revitalization Fund (ORS 285A.198) ].
+(2) Debt service, excluding debt service on lottery revenue bonds and general obligation bonds.
+SECTION 67.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 157, chapter 628, Oregon Laws  2025, for the biennium end-
+ing June 30, 2027, as the maximum limit for payment of expenses from fees,  moneys or other
+revenues, including Miscellaneous Receipts, but excluding lottery funds and federal funds,
+Enrolled House Bill 5204 (HB 5204-A) Page 10
+collected or received  by the Oregon Business Development Department, for infrastructure,
+for expenses from the Housing Infrastructure Project Fund established by ORS 285B.426  is
+increased by $9,999,999.
+SECTION 68. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 8 (3), chapter 616, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or  received by the Oregon Business Development Department, for
+infrastructure, is increased  by $5,000,000, for the Oregon Brownfield Properties Revitalization
+Fund established by ORS 285A.198.
+SECTION 69. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development  Department by section 4 (1), chapter 616, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for  infrastructure, for grants approved in
+section 5, chapter 103, Oregon  Laws 2024, for the City of Toledo, is decreased by $640,000, for
+a budget adjustment.
+SECTION 70. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development  Department by section 4 (2), chapter 616, Oregon
+Laws 2025, for the biennium ending  June 30, 2027, for infrastructure, for grants approved in
+section 5, chapter 103, Oregon Laws 2024, for the City  of McMinnville, is decreased by
+$2,000,000, for a budget adjustment.
+SECTION 71. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development  Department by section 5 (1), chapter 616, Oregon
+Laws 2025, for the biennium ending  June 30, 2027, for infrastructure, for grants approved in
+section 2, chapter 475, Oregon Laws 2023, for Warm Springs water and wastewater systems,
+is decreased by $2,303,470, for a budget adjustment.
+SECTION 72.
+Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development  Department by section 5 (2), chapter 616, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for  infrastructure, for grants approved in
+section 2, chapter 475, Oregon Laws  2023, for St. Helens waterfront redevelopment, is de-
+creased by $161,546, for a budget adjustment.
+SECTION 73. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development  Department by section 7 (1), chapter 616, Oregon
+Laws 2025, for the  biennium ending June 30, 2027, for arts, for grants approved in section 496,
+chapter 114, Oregon Laws 2024, for the Southern Oregon Historical Society, is decreased by
+$37,209, for a budget adjustment.
+SECTION 74.
+Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development  Department by section 7 (2), chapter 616, Oregon
+Laws 2025, for the  biennium ending June 30, 2027, for arts, for grants approved in section 496,
+chapter 114, Oregon Laws 2024, for Friends of the Oregon Caves  and Chateau, is decreased
+by $962, for a budget adjustment.
+SECTION 75. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development  Department by section 7 (4), chapter 616, Oregon
+Laws 2025, for the  biennium ending June 30, 2027, for arts, for grants approved in section 496,
+chapter 114, Oregon Laws 2024, for the Clatsop County  Historical Society, is decreased by
+$252,992, for a budget adjustment.
+SECTION 76. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development  Department by section 7 (5), chapter 616, Oregon
+Laws 2025, for the  biennium ending June 30, 2027, for arts, for grants approved in section 496,
+chapter 114, Oregon Laws 2024, for the Black United Fund of Oregon, is  decreased by
+$224,580, for a budget adjustment.
+SECTION 77. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development  Department by section 7 (6), chapter 616, Oregon
+Enrolled House Bill 5204 (HB 5204-A) Page 11
+Laws 2025, for the  biennium ending June 30, 2027, for arts, for grants approved in section 496,
+chapter 114, Oregon Laws 2024, for the Very Little Theatre, is decreased by $36,339,  for a
+budget adjustment.
+SECTION 78. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Business Development  Department by section 7 (7), chapter 616, Oregon
+Laws 2025, for the  biennium ending June 30, 2027, for arts, for grants approved in section 496,
+chapter 114, Oregon Laws 2024, for the Portland Institute for Contemporary Art, is decreased
+by $135,625, for a budget adjustment.
+SECTION 79. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 11 (1), chapter 616, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for  payment of expenses from lottery moneys
+allocated from the Administrative Services Economic Development Fund to the Oregon
+Business Development Department, for operations, is increased by $167,011, for implementa-
+tion of chapter ___, Oregon Laws 2026 (Enrolled Senate Bill 1507).
+SECTION 80.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 11 (2), chapter 616, Oregon Laws 2025, for the  biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from lottery moneys
+allocated from the Administrative Services Economic Development Fund to the Oregon
+Business Development Department, for business, innovation and trade, is  increased by
+$1,142,010, for implementation of chapter ___, Oregon Laws 2026 (Enrolled Senate Bill 1507).
+SECTION 81.
+In addition to and not in lieu of any  other appropriation, there is appro-
+priated to  the Oregon Business Development Department, for the biennium ending June 30,
+2027, out of the  General Fund, the amount of $5,000,000, for deposit into the Industrial Site
+Loan Fund established by ORS 285B.046.
+SECTION 82. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 8 (3), chapter 616, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the Oregon Business Development  Department, for
+infrastructure, is increased  by $15,000,000, for expenditures from the Industrial Site Loan
+Fund established by ORS 285B.046.
+SECTION 83. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 11 (5), chapter 616, Oregon Laws 2025, for the  biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from lottery moneys
+allocated from the Administrative Services Economic Development Fund to the Oregon
+Business Development Department, for lottery bond debt service, is increased by $2,246,549.
+SECTION 84.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 8 (3), chapter 616, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the Oregon Business Development  Department, for
+infrastructure, is increased by $689,078, for the costs of bond issuance.
+SECTION 85. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 8 (3), chapter 616, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenditures from fees, moneys
+or other revenues, including Miscellaneous Receipts, but excluding  lottery funds and federal
+funds, collected or  received by the Oregon Business Development Department, for
+infrastructure, is increased by the following amounts, to be distributed as grants  to the fol-
+lowing entities for the following purposes:
+(1) City of Vale, Water System Improvements: $3,000,000.
+(2) City of Gold Hill, Gold Hill Water Lines: $1,500,000.
+(3) City of Warrenton, New Wastewater Treatment Plant: $4,000,000.
+Enrolled House Bill 5204 (HB 5204-A) Page 12
+(4) City  of Philomath, N 19th Street Sewer Infrastructure for Housing Production:
+$2,650,000.
+(5) City of Eugene, Clear Lake Road Economic Development Infrastructure: $5,000,000.
+(6) Terrebonne  Sanitary District, Terrebonne STEP Wastewater Collection System:
+$2,400,000.
+(7) City of Carlton, SE Carlton Water Distribution Improvements: $1,800,000.
+(8) City of Lebanon, Lebanon Wastewater Treatment Plant Biosolids Project: $2,000,000.
+(9) City of St. Paul, Main Water Line Repair/Replacement: $2,614,150.
+(10) City of Lafayette, Canyon View Pump Station Replacement: $1,400,000.
+(11) City of Chiloquin, New Regulatory Compliant Wastewater Treatment Facility:
+$4,274,549.
+(12) City of Silverton, New Wastewater Treatment Plant: $5,000,000.
+(13) City of Grants Pass, Spalding  Industrial Park Wastewater Infrastructure Upgrade:
+$2,000,000.
+SECTION 86.
+In addition to and not in lieu of any other appropriation, there are appro-
+priated to the Oregon Business Development Department, for the biennium ending June  30,
+2027, out of the General Fund, for infrastructure,  the following amounts, to be distributed
+as grants to the following entities for the following purposes:
+(1) Crescent  Sanitary District, Gilchrist/Crescent Wastewater Infrastructure Stabiliza-
+tion Rehabilitation Study: $100,000.
+(2) City of Falls City, Dayton Street Water-Wastewater Bridge: $700,000.
+SECTION 87.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 2 (3), chapter 584, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous  Receipts and federal funds from the United States
+Department of Housing  and Urban Development for contract services, but excluding lottery
+funds and federal funds not described in section 2, chapter  584, Oregon Laws 2025, collected
+or received by the Housing and Community Services  Department, for Multifamily Rental
+Housing Programs, is decreased by $20,000,000, for housing project revolving loans.
+SECTION 88. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (3), chapter 584, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds from  the United States
+Department of Housing and Urban Development for contract services, but  excluding lottery
+funds and federal funds not described  in section 2, chapter 584, Oregon Laws 2025, collected
+or received by the Housing  and Community Services Department, for Multifamily Rental
+Housing Programs, is increased by $20,000,000, for below-market,  short-term loans for the
+development of mixed income housing pursuant to section  2, chapter ___, Oregon Laws 2026
+(Enrolled Senate Bill 1567).
+SECTION 89. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by  section 2 (7), chapter 584, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous  Receipts and federal funds from the United States
+Department of Housing  and Urban Development for contract services, but excluding lottery
+funds and federal funds not described in section 2, chapter  584, Oregon Laws 2025, collected
+or received by the Housing  and Community Services Department, for Bond Activities, is in-
+creased by $890,000, for the costs of bond issuance.
+SECTION 90. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to  the Oregon Business Development Department, for the biennium ending June 30,
+2027, out of the General Fund, the amount of $10,000,000, for deposit into the  Regional
+Infrastructure Fund established by section 3, chapter 786, Oregon Laws 2013, for grants to
+Enrolled House Bill 5204 (HB 5204-A) Page 13
+local and tribal governments with  populations under 25,000 for infrastructure projects, in-
+cluding long-range planning, research and design.
+SECTION 91. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 8 (3), chapter 616, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or  received by the Oregon Business Development Department, for
+infrastructure, is increased  by $10,000,000, for grants to local and tribal governments with
+populations under 25,000 for infrastructure projects, including long-range planning, research
+and design, from the Regional Infrastructure Fund established by section 3, chapter 786,
+Oregon Laws 2013.
+EDUCATION PROGRAM AREA
+SECTION 92.
+Notwithstanding any other provision of law, the General Fund appropriation
+made to the Department  of Education by section 1 (1), chapter 608, Oregon Laws 2025, for
+the biennium ending June 30, 2027, for operations,  is increased by $468,750, for the State
+School Fund modernization project.
+SECTION 93. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 8 (1), chapter 548, Oregon Laws 2025, for  the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds and funds described in sections 12 to 16, chapter 548, Oregon  Laws 2025, collected or
+received by the Higher Education Coordinating Commission, for Higher Education Coordi-
+nating Commission programs and related grants, is decreased by $100,000, for a budget  rea-
+lignment.
+SECTION 94.
+Notwithstanding any  other law limiting expenditures, the amount of
+$4,607,147 is established for the biennium ending June 30, 2027, as  the maximum limit for
+payment of  expenses from fees, moneys or other revenues, including Miscellaneous Receipts,
+but excluding lottery funds and federal funds and funds described in sections 12  to 16, chap-
+ter 548, Oregon Laws 2025, collected or received by the  Higher Education Coordinating
+Commission, for costs of bond issuance.
+SECTION 95. Notwithstanding any  other law limiting expenditures, the amount of
+$240,000 is established for the biennium ending June 30,  2027, as the maximum limit for
+payment of  expenses from fees, moneys or other revenues, including Miscellaneous Receipts,
+but excluding lottery funds and federal funds and funds described in sections 12  to 16, chap-
+ter 548, Oregon Laws 2025, collected or received by the  Higher Education Coordinating
+Commission, for debt service other than debt service described in  section 8 (2), chapter 548,
+Oregon Laws 2025.
+SECTION 96. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Department of Education by section  1, chapter 422, Oregon Laws 2025, for the
+biennium ending June 30, 2027, for the  State School Fund, is increased by $7,183,130, for a
+budget rebalance.
+SECTION 97. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 4, chapter 422, Oregon Laws 2025,  for the biennium ending
+June 30, 2027, as the maximum limit for payment of expenses by the Department  of Educa-
+tion from  fees, moneys or other revenues, including Miscellaneous Receipts, but excluding
+lottery funds and federal funds,  collected or received by the department for the State School
+Fund from the Fund for Student Success established under ORS 327.001, is decreased by
+$7,183,130, for a budget rebalance.
+SECTION 98.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 5,  chapter 608, Oregon Laws 2025, for the biennium ending
+Enrolled House Bill 5204 (HB 5204-A) Page 14
+June 30, 2027, as the maximum limit for payment of expenses from lottery moneys  allocated
+from the Administrative Services  Economic Development Fund for deposit in the School
+Capital Matching Fund established  under ORS 286A.806 as described in section 4, Article
+XI-P, of the Oregon Constitution, is decreased by $2,710,537, for a budget rebalance.
+SECTION 99. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2, chapter 525, Oregon Laws 2025,  for the biennium ending
+June 30, 2027, as the maximum limit for payment of expenses from fees,  moneys or other
+revenues, including Miscellaneous Receipts, but excluding lottery funds and federal funds,
+collected or received by  the Teacher Standards and Practices Commission, for general oper-
+ations, is decreased by $1,162,523, for a budget realignment.
+SECTION 100.
+Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 4 (2), chapter  607, Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds
+collected or received by the Department  of Early Learning and Care, for early learning pro-
+grams, is increased by $67,232,651, for employment related day care subsidies.
+SECTION 101. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2, chapter  422, Oregon Laws 2025, for the biennium end-
+ing June 30, 2027, as the  maximum limit for payment of expenses from lottery moneys allo-
+cated from the Administrative Services Economic Development Fund  to the Department of
+Education for the State School Fund, is decreased by $22,339,096, for a budget realignment.
+SECTION 102. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Department of Education by section  1, chapter 422, Oregon Laws 2025, for
+the biennium ending June 30, 2027,  for the State School Fund, is increased by $22,339,096, for
+a budget realignment.
+SECTION 103. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Department  of Early Learning and Care by section 1 (2), chapter 607,
+Oregon Laws 2025, for the biennium ending June 30, 2027, for  early learning programs, is
+decreased by $34,210,392, for a budget realignment.
+SECTION 104. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 5 (2), chapter  607, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses  for operations, grants-
+in-aid, program costs and purchased services  by the Department of Early Learning and Care
+from corporate activity tax funds transferred from the Early  Learning Account by the De-
+partment of Education, for early learning programs, is increased by  $34,210,392, for a budget
+realignment.
+SECTION 105. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 11, chapter 608, Oregon Laws 2025,  for the biennium
+ending June 30, 2027, as the maximum  limit for payments of grants-in-aid, program costs and
+purchased services by the Department of Education from the Student Investment  Account
+established under ORS 327.175, is increased by $2,120,888, for grants.
+SECTION 106. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Department of Education by section 2 (3), chapter 608, Oregon Laws  2025,
+for the biennium ending June 30, 2027, for youth  development programs, is increased by
+$1,900,000, for the East Multnomah Outreach, Prevention, and Intervention program.
+SECTION 107. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 183, chapter 628, Oregon  Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or  received by the Higher Education Coordinating Commission, for costs of
+bond issuance for community colleges, is decreased by $15,000.
+SECTION 108. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 8 (2), chapter  608, Oregon Laws 2025, for the biennium
+Enrolled House Bill 5204 (HB 5204-A) Page 15
+ending June 30, 2027, as the maximum limit for  payment of grants-in-aid, program costs and
+purchased services from fees, moneys or other revenues, including Miscellaneous Receipts,
+but excluding lottery funds, corporate activity tax funds and federal funds,  collected or re-
+ceived by the Department of  Education for programs other than those specified in sections
+7 and 16, chapter 608, Oregon Laws 2025, for all other grants, is increased by $2,000,000, for
+expenditures from the Healthy School Facilities Fund established under ORS 332.337.
+SECTION 109.
+Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Higher Education Coordinating Commission by section 1 (1),  chapter 548,
+Oregon Laws 2025, for the biennium  ending June 30, 2027, for Higher Education Coordinating
+Commission programs and operations, is increased by $500,000,  for a Southern Oregon Uni-
+versity long-term financial sustainability plan.
+SECTION 110. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to  the Higher Education Coordinating Commission by section 1 (1), chapter 548,
+Oregon Laws 2025, for the biennium  ending June 30, 2027, for Higher Education Coordinating
+Commission programs and operations, is increased  by $2,500,000, for proposals to increase
+the resilience and sustainability of Oregon’s post-secondary system.
+HUMAN SERVICES PROGRAM AREA
+SECTION 111. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Oregon Health Authority by section 1 (1), chapter  587, Oregon Laws 2025,
+for the biennium ending June 30, 2027, for Medicaid, is increased by $289,071, for  nonstate
+employee compensation changes.
+SECTION 112. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 5 (1), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 587,  Oregon Laws 2025, collected or
+received by the Oregon  Health Authority, for Medicaid, is increased by $395,933, for nonstate
+employee compensation changes.
+SECTION 113. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Department of Human Services by section 1 (6), chapter 549, Oregon Laws
+2025, for the biennium ending June 30, 2027,  for aging and people with disabilities programs,
+is increased by $38,310,820, for nonstate employee compensation changes.
+SECTION 114. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 3 (6), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 549,  Oregon Laws 2025, collected or
+received by the Department  of Human Services, for aging and people with disabilities pro-
+grams, is increased by $67,806,701, for nonstate employee compensation changes.
+SECTION 115. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Department of Human Services by section 1 (7), chapter 549, Oregon Laws
+2025, for the biennium ending June 30, 2027, for intellectual/developmental  disabilities pro-
+grams, is increased by $36,400,109, for nonstate employee compensation changes.
+SECTION 116. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (7), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 549, Oregon Laws 2025, collected or
+received by the Department of Human Services, for intellectual/developmental disabilities
+programs, is increased by $64,152,677, for nonstate employee compensation changes.
+SECTION 117.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Department of Human Services by section 1 (1), chapter 549, Oregon Laws
+Enrolled House Bill 5204 (HB 5204-A) Page 16
+2025, for the biennium ending June 30, 2027, for central  services, is increased by $8,457,721,
+for a budget rebalance.
+SECTION 118. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (1), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery,  Social Security Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section 2, chapter 549, Oregon Laws 2025, collected or received by  the Depart-
+ment of Human Services, for central services, is decreased by $723,224, for a budget  rebal-
+ance.
+SECTION 119. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (1), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 549, Oregon Laws 2025, collected or
+received by the  Department of Human Services, for central services, is decreased by
+$7,955,872, for a budget rebalance.
+SECTION 120. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Department of Human Services by section 1 (2), chapter 549, Oregon Laws
+2025, for the  biennium ending June 30, 2027, for state assessments and enterprise-wide costs,
+is decreased by $772,134, for a budget rebalance.
+SECTION 121. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (2), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery,  Social Security Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section 2, chapter 549, Oregon Laws 2025, collected or received by  the Depart-
+ment of Human Services, for state  assessments and enterprise-wide costs, is decreased by
+$106,601, for a budget rebalance.
+SECTION 122. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (2), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 549, Oregon Laws 2025, collected or
+received by the Department of  Human Services, for state assessments and enterprise-wide
+costs, is decreased by $1,090,796, for a budget rebalance.
+SECTION 123. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (8), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery, Social Security  Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section  2, chapter 549, Oregon Laws 2025, collected or received by the Depart-
+ment of  Human Services, for shared services, is increased by $1,052,775, for a budget rebal-
+ance.
+SECTION 124. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Department of Human Services by section 1 (3), chapter 549, Oregon Laws
+2025, for the biennium  ending June 30, 2027, for self-sufficiency programs, is decreased by
+$2,421,862, for a budget rebalance.
+SECTION 125. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (3), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+Enrolled House Bill 5204 (HB 5204-A) Page 17
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery, Social Security  Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section 2, chapter 549, Oregon Laws 2025, collected or received by  the Depart-
+ment of Human Services, for  self-sufficiency programs, is increased by $965,025, for a budget
+rebalance.
+SECTION 126. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 3 (3), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 549,  Oregon Laws 2025, collected or
+received by the Department of Human Services, for self-sufficiency programs,  is decreased
+by $9,266,956, for a budget rebalance.
+SECTION 127. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Department of Human Services by section 1 (4), chapter 549, Oregon Laws
+2025, for the biennium  ending June 30, 2027, for vocational rehabilitation services, is in-
+creased by $12,201,183, for a budget rebalance.
+SECTION 128. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (4), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery,  Social Security Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section 2, chapter 549, Oregon Laws 2025, collected or received by  the Depart-
+ment of Human Services, for vocational rehabilitation services, is increased by  $2,073,047, for
+a budget rebalance.
+SECTION 129. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 3 (4), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 549,  Oregon Laws 2025, collected or
+received by the Department of  Human Services, for vocational rehabilitation services, is in-
+creased by $7,343,326, for a budget rebalance.
+SECTION 130. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Department of Human Services by section 1 (6), chapter 549, Oregon Laws
+2025, for the biennium ending June 30, 2027,  for aging and people with disabilities programs,
+is increased by $18,141,440, for a budget rebalance.
+SECTION 131. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (6), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery,  Social Security Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section 2, chapter 549, Oregon Laws 2025, collected or received by  the Depart-
+ment of Human Services, for aging and people with disabilities programs, is  increased by
+$35,579,425, for a budget rebalance.
+SECTION 132. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (10), chapter 549, Oregon Laws 2025,  for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery,  Social Security Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section 2, chapter 549, Oregon Laws 2025, collected or received by  the Depart-
+ment of Human Services, for aging and people with disabilities - ARPA  State Fiscal Recovery
+Enrolled House Bill 5204 (HB 5204-A) Page 18
+Fund moneys for long term care workforce development and emergency preparedness, is in-
+creased by $437,875, for a budget rebalance.
+SECTION 133.
+Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (6), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 549, Oregon Laws 2025, collected or
+received by the Department of Human Services, for aging and people  with disabilities pro-
+grams, is increased by $84,937,295, for a budget rebalance.
+SECTION 134. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Department of Human Services by section 1 (7), chapter 549, Oregon Laws
+2025, for the  biennium ending June 30, 2027, for intellectual/developmental disabilities pro-
+grams, is increased by $47,642,083, for a budget rebalance.
+SECTION 135. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (7), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery, Social Security  Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section  2, chapter 549, Oregon Laws 2025, collected or received by the Depart-
+ment of Human Services, for intellectual/developmental disabilities programs, is  increased
+by $17,321, for a budget rebalance.
+SECTION 136. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 3 (7), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 549,  Oregon Laws 2025, collected or
+received by the Department of Human Services, for intellectual/developmental disabilities
+programs, is increased by $140,402,304, for a budget rebalance.
+SECTION 137.
+Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Department of Human Services by section 1 (5), chapter 549, Oregon Laws
+2025, for the biennium ending  June 30, 2027, for child welfare programs, is increased by
+$25,209,561, for a budget rebalance.
+SECTION 138. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (5), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery,  Social Security Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section 2, chapter 549, Oregon Laws 2025, collected or received by  the Depart-
+ment of Human  Services, for child welfare programs, is increased by $53,390, for a budget
+rebalance.
+SECTION 139.  Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (5), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 549, Oregon Laws 2025, collected or
+received by the Department of Human Services, for child welfare programs, is increased by
+$12,373,632, for a budget rebalance.
+SECTION 140.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Department of Human Services by section 1 (8), chapter 549, Oregon Laws
+2025, for the biennium ending June 30, 2027, for Oregon Eligibility Partnership,  is decreased
+by $17,389,276, for a budget rebalance.
+SECTION 141. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (9), chapter  549, Oregon Laws 2025, for the biennium
+Enrolled House Bill 5204 (HB 5204-A) Page 19
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery, Social Security  Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section 2, chapter 549, Oregon Laws 2025, collected or received by  the Depart-
+ment of Human Services, for Oregon Eligibility Partnership, is increased by  $873,598, for a
+budget rebalance.
+SECTION 142. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (8), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 549, Oregon Laws 2025, collected or
+received by the Department  of Human Services, for Oregon Eligibility Partnership, is de-
+creased by $18,204,566, for a budget rebalance.
+SECTION 143. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon  Health Authority by section 1 (1), chapter 587, Oregon Laws 2025,
+for the biennium ending June 30, 2027, for Medicaid, is  decreased by $130,201,623, for a budget
+rebalance.
+SECTION 144. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon  Health Authority by section 1 (2), chapter 587, Oregon Laws 2025,
+for the biennium ending June 30,  2027, for behavioral health, is decreased by $8,889,286, for
+a budget rebalance.
+SECTION 145. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Oregon Health Authority by section 1 (3), chapter  587, Oregon Laws 2025,
+for the biennium ending June  30, 2027, for health policy and analytics, is decreased by
+$652,498, for a budget rebalance.
+SECTION 146. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon  Health Authority by section 1 (4), chapter 587, Oregon Laws 2025,
+for the biennium ending June 30, 2027, for public health, is decreased by $1,041,449,  for a
+budget rebalance.
+SECTION 147. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Oregon Health Authority by section 1 (5), chapter  587, Oregon Laws 2025,
+for the biennium ending June 30,  2027, for Oregon State Hospital, is decreased by $1,143,853,
+for a budget rebalance.
+SECTION 148. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon  Health Authority by section 1 (6), chapter 587, Oregon Laws 2025,
+for the biennium ending June  30, 2027, for central services, is decreased by $123,230, for a
+budget rebalance.
+SECTION 149. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Oregon Health Authority by section 1 (7), chapter  587, Oregon Laws 2025,
+for the biennium ending June 30, 2027, for state assessments and enterprise-wide  costs, is
+increased by $1,458,137, for a budget rebalance.
+SECTION 150. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (1), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, tobacco tax receipts, marijuana  tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding lot-
+tery funds and federal funds not described in section 2, chapter 587, Oregon  Laws 2025,
+collected or received by the Oregon Health Authority, for Medicaid, is  increased by
+$32,552,383, for a budget rebalance.
+SECTION 151. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (2), chapter 587,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+Enrolled House Bill 5204 (HB 5204-A) Page 20
+other revenues, including  Miscellaneous Receipts, tobacco tax receipts, marijuana tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding  lot-
+tery funds and  federal funds not described in section 2, chapter 587, Oregon Laws 2025,
+collected or received by the  Oregon Health Authority, for behavioral health, is decreased by
+$43,211,683, for a budget rebalance.
+SECTION 152. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (3), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, tobacco tax receipts, marijuana  tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding lot-
+tery funds and federal funds not described in section 2, chapter 587, Oregon  Laws 2025,
+collected or received by the Oregon Health Authority, for health policy and analytics, is in-
+creased by $12,876, for a budget rebalance.
+SECTION 153.
+Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (5), chapter 587,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including  Miscellaneous Receipts, tobacco tax receipts, marijuana tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding  lot-
+tery funds and  federal funds not described in section 2, chapter 587, Oregon Laws 2025,
+collected or received by the Oregon Health Authority, for public  health, is decreased by
+$1,859,445, for a budget rebalance.
+SECTION 154. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (8), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, tobacco tax receipts, marijuana  tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding lot-
+tery funds and federal funds not described in section 2, chapter 587, Oregon  Laws 2025,
+collected or received by the Oregon Health Authority,  for central services, is increased by
+$52,626, for a budget rebalance.
+SECTION 155. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (9), chapter 587,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including  Miscellaneous Receipts, tobacco tax receipts, marijuana tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding  lot-
+tery funds and  federal funds not described in section 2, chapter 587, Oregon Laws 2025,
+collected or  received by the Oregon Health Authority, for state assessments and enterprise-
+wide costs, is decreased by $34,452, for a budget rebalance.
+SECTION 156. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section  2 (10), chapter 587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, tobacco tax receipts, marijuana  tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding lot-
+tery funds and federal funds not described in section 2, chapter 587, Oregon  Laws 2025,
+collected or received by the  Oregon Health Authority, for shared administrative services, is
+increased by $572,425, for a budget rebalance.
+SECTION 157. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (1), chapter 587,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for  payment of expenses from lottery moneys
+allocated from the Administrative Services Economic Development Fund to the Oregon
+Health Authority, for Medicaid, is decreased by $3,519,334, for a budget rebalance.
+SECTION 158.
+Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (2), chapter 587,  Oregon Laws 2025, for the biennium
+Enrolled House Bill 5204 (HB 5204-A) Page 21
+ending June 30, 2027, as the maximum limit for  payment of expenses from lottery moneys
+allocated from the Administrative Services Economic Development Fund to the Oregon
+Health Authority, for behavioral health, is increased by $3,519,334, for a budget rebalance.
+SECTION 159.
+Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 5 (1), chapter 587,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 587, Oregon Laws 2025, collected or
+received by the Oregon Health Authority, for Medicaid,  is decreased by $508,443,793, for a
+budget rebalance.
+SECTION 160. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 5 (2), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 587,  Oregon Laws 2025, collected or
+received by the Oregon Health  Authority, for behavioral health, is increased by $15,848,763,
+for a budget rebalance.
+SECTION 161. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 5 (3), chapter 587,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 587, Oregon Laws 2025, collected or
+received by the Oregon Health Authority, for health policy and analytics, is decreased  by
+$125,709, for a budget rebalance.
+SECTION 162. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 5 (4), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 587,  Oregon Laws 2025, collected or
+received by the Oregon Health Authority,  for public health, is decreased by $110,468, for a
+budget rebalance.
+SECTION 163. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 5 (6), chapter 587,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 587, Oregon Laws 2025, collected or
+received by the Oregon Health Authority, for central services, is increased by  $17,569, for a
+budget rebalance.
+SECTION 164. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 5 (7), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 587,  Oregon Laws 2025, collected or
+received by the Oregon Health Authority, for state assessments  and enterprise-wide costs,
+is increased by $7,197,978, for a budget rebalance.
+SECTION 165. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Oregon Health Authority by section 1 (1), chapter  587, Oregon Laws 2025,
+for the biennium ending  June 30, 2027, for Medicaid, is increased by $158,406,094, for budget-
+ary adjustments related to the 2025 Budget  Reconciliation Act (United States Public Law
+119-21).
+SECTION 166. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Oregon Health Authority by section 1 (3), chapter  587, Oregon Laws 2025,
+for the biennium ending June 30, 2027, for health  policy and analytics, is increased by $90,880,
+for budgetary  adjustments related to the 2025 Budget Reconciliation Act (United States
+Public Law 119-21).
+SECTION 167. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon  Health Authority by section 1 (4), chapter 587, Oregon Laws 2025,
+for the biennium ending June 30, 2027, for public health, is increased by $2,490,000, for
+Enrolled House Bill 5204 (HB 5204-A) Page 22
+budgetary adjustments related to the 2025  Budget Reconciliation Act (United States Public
+Law 119-21).
+SECTION 168. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Oregon Health Authority by section 1 (7), chapter  587, Oregon Laws 2025,
+for the biennium ending June 30, 2027, for state assessments and enterprise-wide  costs, is
+increased by  $799,907, for budgetary adjustments related to the 2025 Budget Reconciliation
+Act (United States Public Law 119-21).
+SECTION 169. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (1), chapter 587,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including  Miscellaneous Receipts, tobacco tax receipts, marijuana tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding  lot-
+tery funds and  federal funds not described in section 2, chapter 587, Oregon Laws 2025,
+collected or received by the Oregon Health Authority, for Medicaid,  is decreased by
+$156,000,000, for budgetary adjustments related to the 2025 Budget Reconciliation  Act (United
+States Public Law 119-21).
+SECTION 170. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (9), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, tobacco tax receipts, marijuana  tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding lot-
+tery funds and federal funds not described in section 2, chapter 587, Oregon  Laws 2025,
+collected or received by the Oregon Health Authority, for state assessments and  enterprise-
+wide costs, is increased by $90,417, for  budgetary adjustments related to the 2025 Budget
+Reconciliation Act (United States Public Law 119-21).
+SECTION 171. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section  2 (10), chapter 587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, tobacco tax receipts, marijuana  tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding lot-
+tery funds and federal funds not described in section 2, chapter 587, Oregon  Laws 2025,
+collected or received by the  Oregon Health Authority, for shared administrative services, is
+increased by $1,428,616, for budgetary adjustments related  to the 2025 Budget Reconciliation
+Act (United States Public Law 119-21).
+SECTION 172. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 5 (1), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 587,  Oregon Laws 2025, collected or
+received by the Oregon Health Authority, for Medicaid,  is decreased by $204,638,399, for
+budgetary adjustments related to the 2025  Budget Reconciliation Act (United States Public
+Law 119-21).
+SECTION 173. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 5 (3), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 587,  Oregon Laws 2025, collected or
+received by the Oregon Health Authority, for health policy and  analytics, is increased by
+$83,889, for budgetary adjustments related to the  2025 Budget Reconciliation Act (United
+States Public Law 119-21).
+SECTION 174. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 5 (7), chapter  587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 587,  Oregon Laws 2025, collected or
+Enrolled House Bill 5204 (HB 5204-A) Page 23
+received by the Oregon Health Authority, for state assessments  and enterprise-wide costs,
+is increased by $602,563, for budgetary  adjustments related to the 2025 Budget Reconciliation
+Act (United States Public Law 119-21).
+SECTION 175. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Department of Human Services by section 1 (1), chapter 549, Oregon Laws
+2025, for the biennium ending June  30, 2027, for central services, is increased by $5,161,232,
+for budgetary  adjustments related to the 2025 Budget Reconciliation Act (United States
+Public Law 119-21).
+SECTION 176. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (1), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery, Social Security  Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section  2, chapter 549, Oregon Laws 2025, collected or received by the Depart-
+ment of Human Services, for  central services, is increased by $139,235, for budgetary ad-
+justments related to the 2025 Budget Reconciliation Act (United States Public Law 119-21).
+SECTION 177. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 3 (1), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 549,  Oregon Laws 2025, collected or
+received by the Department of Human Services, for central  services, is increased by $143,837,
+for budgetary adjustments related to the 2025 Budget Reconciliation Act (United  States
+Public Law 119-21).
+SECTION 178. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Department of Human Services by section 1 (2), chapter 549, Oregon Laws
+2025, for the  biennium ending June 30, 2027, for state assessments and enterprise-wide costs,
+is increased by $10,707,792, for budgetary adjustments related  to the 2025 Budget Reconcil-
+iation Act (United States Public Law 119-21).
+SECTION 179. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (2), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery,  Social Security Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section 2, chapter 549, Oregon Laws 2025, collected or received by  the Depart-
+ment of Human Services, for state assessments and enterprise-wide costs, is increased by
+$65,151, for budgetary adjustments related to the  2025 Budget Reconciliation Act (United
+States Public Law 119-21).
+SECTION 180.
+Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 3 (2), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 549,  Oregon Laws 2025, collected or
+received by the Department of Human Services, for  state assessments and enterprise-wide
+costs, is decreased  by $7,882,204, for budgetary adjustments related to the 2025 Budget Re-
+conciliation Act (United States Public Law 119-21).
+SECTION 181. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (8), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery, Social Security  Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+Enrolled House Bill 5204 (HB 5204-A) Page 24
+described in section  2, chapter 549, Oregon Laws 2025, collected or received by the Depart-
+ment of Human Services, for shared services, is increased by $2,829,021, for  budgetary ad-
+justments related to the 2025 Budget Reconciliation Act (United States Public Law 119-21).
+SECTION 182. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Department of Human Services by section 1 (3), chapter 549, Oregon Laws
+2025, for the biennium ending June  30, 2027, for self-sufficiency programs, is increased by
+$9,607,496, for budgetary adjustments related to the 2025 Budget  Reconciliation Act (United
+States Public Law 119-21).
+SECTION 183. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 3 (3), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+excluding federal funds described in section 2, chapter 549,  Oregon Laws 2025, collected or
+received by the Department of  Human Services, for self-sufficiency programs, is increased
+by $6,451,188, for budgetary adjustments related to the 2025 Budget Reconciliation Act
+(United States Public Law 119-21).
+SECTION 184.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Department of Human Services by section 1 (6), chapter 549, Oregon Laws
+2025, for the biennium ending June 30, 2027,  for aging and people with disabilities programs,
+is increased by $2,851,345,  for budgetary adjustments related to the 2025 Budget Reconcil-
+iation Act (United States Public Law 119-21).
+SECTION 185. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (6), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 549, Oregon Laws 2025, collected or
+received by the Department of Human Services, for aging and people  with disabilities pro-
+grams, is increased by $2,206,117, for budgetary adjustments related to the  2025 Budget Re-
+conciliation Act (United States Public Law 119-21).
+SECTION 186. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Department of Human Services by section 1 (8), chapter 549, Oregon Laws
+2025, for the biennium ending June 30, 2027, for Oregon Eligibility  Partnership, is increased
+by $82,638,933, for budgetary adjustments related to  the 2025 Budget Reconciliation Act
+(United States Public Law 119-21).
+SECTION 187. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (9), chapter  549, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery, Social Security  Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section  2, chapter 549, Oregon Laws 2025, collected or received by the Depart-
+ment of Human Services, for Oregon Eligibility Partnership, is increased by  $3,637,795, for
+budgetary adjustments related to the 2025 Budget  Reconciliation Act (United States Public
+Law 119-21).
+SECTION 188. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (8), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+excluding federal funds described in section  2, chapter 549, Oregon Laws 2025, collected or
+received by the Department of Human Services, for Oregon  Eligibility Partnership, is in-
+creased by $8,678,575, for budgetary adjustments related to the  2025 Budget Reconciliation
+Act (United States Public Law 119-21).
+SECTION 189. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Department of Human Services by section 1 (3), chapter 549, Oregon Laws
+Enrolled House Bill 5204 (HB 5204-A) Page 25
+2025, for the biennium ending June  30, 2027, for self-sufficiency programs, is increased by
+$3,481,309, for a budget realignment.
+SECTION 190. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (3), chapter 549,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and Medicare receipts  and including federal
+funds for indirect cost recovery,  Social Security Supplemental Security Income recoveries
+and the Child Care and Development Fund,  but excluding lottery funds and federal funds not
+described in section 2, chapter 549, Oregon Laws 2025, collected or received by  the Depart-
+ment of Human Services, for self-sufficiency programs,  is decreased by $3,481,309, for a
+budget realignment.
+SECTION 191. Notwithstanding any other law limiting expenditures, the amount of
+$345,225,261 is established for the biennium ending June 30,  2027, as the maximum limit for
+payment of expenses from federal funds, excluding federal funds described in  section 2,
+chapter 587, Oregon Laws 2025, collected or received by the  Oregon Health Authority, for the
+Rural Health Transformation Program.
+SECTION 192. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (4)(a), chapter 587, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including  Miscellaneous Receipts, tobacco tax receipts, marijuana tax re-
+ceipts, beer and wine tax receipts, provider taxes and Medicare receipts, but excluding  lot-
+tery funds and  federal funds not described in section 2, chapter 587, Oregon Laws 2025,
+collected or received by the Oregon Health Authority, for behavioral  health workforce
+-American Rescue Plan Act, is decreased by $7,047,278, for a budget rebalance.
+SECTION 193. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Department of Human Services by section 1 (3), chapter 549, Oregon Laws
+2025, for the biennium ending June 30, 2027, for  self-sufficiency programs, is increased by
+$2,000,000, for refugee assistance.
+JUDICIAL BRANCH
+SECTION 194. Notwithstanding any other law limiting expenditures, the amount  of
+$70,000 is established for the biennium ending June 30, 2027, as the maximum limit for pay-
+ment of expenses from fees, moneys, or other revenues, including Miscellaneous  Receipts,
+but excluding lottery funds and federal funds, collected or received by the Judicial Depart-
+ment, for debt service.
+SECTION 195.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Judicial Department by  section 1 (1), chapter 522, Oregon Laws 2025, for
+the biennium ending June 30,  2027, for judicial compensation, is decreased by $330,064, for a
+budget realignment.
+SECTION 196. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Judicial Department by section 1 (3),  chapter 522, Oregon Laws 2025, for
+the biennium ending June 30, 2027, for mandated  payments, is decreased by $807,181, for a
+budget realignment.
+SECTION 197. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Judicial Department by  section 1 (4), chapter 522, Oregon Laws 2025, for
+the biennium ending June 30,  2027, for state court technology systems, is decreased by
+$52,805, for a budget realignment.
+SECTION 198. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Judicial Department by section 1 (5),  chapter 522, Oregon Laws 2025, for
+the biennium ending June 30, 2027, for debt service, is decreased by $18,210, for a budget re-
+alignment.
+Enrolled House Bill 5204 (HB 5204-A) Page 26
+SECTION 199. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Judicial Department by  section 1 (6), chapter 522, Oregon Laws 2025, for
+the biennium ending June 30, 2027, for third-party debt collection, is decreased  by $2,069,266,
+for a budget realignment.
+SECTION 200. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Judicial Department by section 1 (2),  chapter 522, Oregon Laws 2025, for
+the biennium ending June 30, 2027, for  operations, is increased by $3,277,526, for a budget
+realignment.
+SECTION 201. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (3), chapter  522, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and including reimbursements from federal
+service agreements, but excluding lottery funds and federal funds not described in  section
+2, chapter 522, Oregon Laws 2025, collected or received by the  Judicial Department, for the
+State Court Facilities and Security Account, is decreased by $6,940,350, for a budget realign-
+ment.
+SECTION 202.
+Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Judicial Department by section 1 (7),  chapter 522, Oregon Laws 2025, for
+the biennium ending June 30, 2027, for the State Court Facilities  and Security Account, is
+increased by $6,940,350, for a budget realignment.
+SECTION 203. In addition to and not  in lieu of any other appropriation, there is appro-
+priated to the Judicial Department, for the biennium ending  June 30, 2027, out of the General
+Fund, the  amount of $2,400,000, for distribution to the Oregon State Bar for immigration le-
+gal services.
+NATURAL RESOURCES PROGRAM AREA
+SECTION 204. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (3), chapter  419, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, and  including federal funds for contract
+services, but excluding lottery funds and federal funds not described in section 2, chapter 419,
+Oregon Laws 2025, collected or received by the State  Department of Agriculture, for natural
+resources, is increased by $372,490, for a Japanese beetle market access program.
+SECTION 205.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Department  of Environmental Quality by section 1 (4), chapter 426, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for agency management, is increased by
+$1,121,515, for cyberattack response and recovery.
+SECTION 206. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (4), chapter  520, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts and including federal funds from the Pacific
+Coastal Salmon Recovery  Fund, but excluding lottery funds and federal funds not described
+in section 2, chapter 520, Oregon Laws 2025,  collected or received by the State Department
+of Fish and Wildlife, for capital improvement, is  increased by $1,502,845, for rebuilding the
+Klamath Hatchery hatch house.
+SECTION 207. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 4 (1), chapter  609, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds,
+other than those described in section  2, chapter 609, Oregon Laws 2025, collected or received
+by the State Forestry Department, for agency  administration, is increased by $5,700,000, for
+federal indirect charges.
+Enrolled House Bill 5204 (HB 5204-A) Page 27
+SECTION 208. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the State Forestry Department by section 1 (2), chapter 609, Oregon  Laws
+2025, for the biennium ending June 30, 2027, for fire protection, is increased by  $11,600,000,
+for centralized administration costs.
+SECTION 209. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 4 (2), chapter 609,  Oregon Laws 2025, for the biennium
+ending June 30,  2027, as the maximum limit for payment of expenses from federal funds,
+other than those described in section  2, chapter 609, Oregon Laws 2025, collected or received
+by the State Forestry Department, for fire  protection, is increased by $4,984,799, to imple-
+ment the Community Wildfire Defense Grant.
+SECTION 210. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made  to the State Forestry Department by section 1 (2), chapter 609, Oregon Laws
+2025, for  the biennium ending June 30, 2027, for fire protection, is increased by $69,463,157,
+for the 2025 fire season.
+SECTION 211. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (2), chapter  609, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and including federal funds from the United
+States Forest  Service for fire protection and for research projects, but excluding lottery
+funds and federal funds not described  in section 2, chapter 609, Oregon Laws 2025, collected
+or received by the State Forestry Department, for fire  protection, is increased by $73,600,000,
+for the 2025 fire season.
+SECTION 212. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (1), chapter 551,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the Department  of Land Conservation and Development, for
+the planning program, is increased by $202,013, for interagency agreements.
+SECTION 213. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 3, chapter  551, Oregon Laws 2025, for the biennium end-
+ing June 30, 2027, as the maximum limit for payment of expenses from federal funds collected
+or received by the Department of Land Conservation and Development,  is increased by
+$4,599,793, for National Oceanic and Atmospheric Administration grant projects.
+SECTION 214. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 7 (1), chapter 338,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds
+collected or received by the Department of State Lands, for  South Slough National Estuarine
+Research Reserve operations, is increased by $2,002,800, for land acquisition.
+SECTION 215. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 5, chapter  338, Oregon Laws 2025, for the biennium end-
+ing June 30, 2027, as the maximum limit for payment of  expenses by the Department of State
+Lands from the Oregon Ocean  Science Fund established by ORS 196.567, is increased by
+$300,000, for contract services and related expenses.
+SECTION 216. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 1 (3), chapter 363,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the State Marine Board, for facilities construction and main-
+tenance, is increased by $216,000, for waterway  access improvements and related program
+activities.
+SECTION 217. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 1 (4), chapter 363,  Oregon Laws 2025, for the biennium
+Enrolled House Bill 5204 (HB 5204-A) Page 28
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the State Marine Board, for  aquatic invasive species, is in-
+creased by $832,182, for aquatic invasive species prevention and monitoring activities.
+SECTION 218. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (5), chapter 524,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or  received by the State Parks and Recreation Department, for community
+support and grants,  is increased by $10,000,000, for the Oregon Main Street Revitalization
+Grant Program.
+SECTION 219. Notwithstanding any other law limiting expenditures, the amount of
+$459,722 is established for the biennium ending  June 30, 2027, as the maximum limit for
+payment of expenses by the Water  Resources Department from American Rescue Plan Act
+Coronavirus State Fiscal Recovery Fund moneys received  by the Oregon Department of Ad-
+ministrative Services and transferred to the  Water Resources Department, for support of
+fee-based programs.
+SECTION 220. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 8 (2), chapter  527, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the Oregon Watershed Enhancement Board, for grants,  is
+increased by $35,000,000, for projects approved by the Environmental Restoration Council.
+SECTION 221. Notwithstanding any other law limiting expenditures, the amount of  $9,000
+is established for the biennium ending June 30,  2027, as the maximum limit for payment of
+expenses from fees, moneys or  other revenues, including Miscellaneous Receipts, the pro-
+ceeds of bonds for the Orphan Site Account and federal funds from congestion mitigation and
+air quality grants, drinking water protection, laboratory accreditation and woodstove grants
+and for smoke  monitoring laboratory services, but excluding lottery funds and federal funds
+not described in section  2, chapter 426, Oregon Laws 2025, collected or received by the De-
+partment of Environmental Quality, for debt service.
+SECTION 222.
+Notwithstanding any other law limiting expenditures, the amount of
+$1,564,960 is established for the  biennium ending June 30, 2027, as the maximum limit for
+payment of expenses from fees, moneys or other revenues, including Miscellaneous Receipts
+and including federal funds received under cooperative agreements  with or contracts from
+the Bureau of Reclamation of  the United States Department of the Interior, the United
+States Army Corps of Engineers, the United States Geological Survey, the Bonneville Power
+Administration and the National Fish and Wildlife Foundation, but excluding  lottery funds
+and federal funds not described in section 3, chapter 611, Oregon Laws 2025,  collected or re-
+ceived by the Water Resources Department, for debt service.
+SECTION 223.
+Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (2), chapter 551,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the Department  of Land Conservation and Development, for
+grant programs, is increased by $4,350,409, for a budget adjustment.
+SECTION 224. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Department of Land Conservation and  Development by section 1 (2),
+chapter 551, Oregon Laws 2025, for the  biennium ending June 30, 2027, for grant programs,
+is decreased by $3,500,000, for a budget rebalance.
+SECTION 225. In addition to and not in lieu of  any other appropriation, there is appro-
+priated to the  Department of Land Conservation and Development, for the biennium ending
+Enrolled House Bill 5204 (HB 5204-A) Page 29
+June 30, 2027, out of the General Fund, the amount of  $3,500,000, for deposit into the Housing
+Accountability and Production Office Fund established by ORS 197A.820,  for housing-related
+grants.
+SECTION 226. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Water Resources Department by section 1 (1), chapter 611, Oregon  Laws
+2025, for the biennium ending June 30, 2027, for administrative services, is increased  by
+$391,747, for a budget realignment.
+SECTION 227. Notwithstanding any other provision of law, the General Fund appropri-
+ation made  to the Water Resources Department by section 1 (2), chapter 611, Oregon Laws
+2025, for the biennium ending June 30, 2027, for field services, is decreased by $660,026, for
+a budget realignment.
+SECTION 228.
+Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Water Resources Department by section 1 (3), chapter 611, Oregon  Laws
+2025, for the biennium ending June 30, 2027, for water  rights and adjudications, is increased
+by $472,502, for a budget realignment.
+SECTION 229. Notwithstanding any other provision of law, the General Fund appropri-
+ation made  to the Water Resources Department by section 1 (4), chapter 611, Oregon Laws
+2025, for the biennium ending June 30, 2027, for technical services, is decreased by  $65,863,
+for a budget realignment.
+SECTION 230. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Water Resources Department by section 1 (5), chapter 611, Oregon  Laws
+2025, for the biennium ending June 30, 2027, for the director’s office,  is decreased by $138,360,
+for a budget realignment.
+SECTION 231. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (1), chapter 611,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and including  federal funds received under
+cooperative agreements with or contracts from  the Bureau of Reclamation of the United
+States Department of the Interior, the United  States Army Corps of Engineers, the United
+States Geological Survey, the Bonneville Power Administration and the  National Fish and
+Wildlife Foundation, but excluding lottery funds and  federal funds not described in section
+3, chapter 611,  Oregon Laws 2025, collected or received by the Water Resources Department,
+for administrative services, is increased by $8,002, for a budget realignment.
+SECTION 232. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (2), chapter 611,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and including  federal funds received under
+cooperative agreements with or contracts from  the Bureau of Reclamation of the United
+States Department of the Interior, the United  States Army Corps of Engineers, the United
+States Geological Survey, the Bonneville Power Administration and the  National Fish and
+Wildlife Foundation, but excluding lottery funds and  federal funds not described in section
+3, chapter 611,  Oregon Laws 2025, collected or received by the Water Resources Department,
+for field services, is increased by $19,643, for a budget realignment.
+SECTION 233. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (3), chapter 611,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and including  federal funds received under
+cooperative agreements with or contracts from  the Bureau of Reclamation of the United
+States Department of the Interior, the United  States Army Corps of Engineers, the United
+States Geological Survey, the Bonneville Power Administration and the  National Fish and
+Wildlife Foundation, but excluding lottery funds and  federal funds not described in section
+Enrolled House Bill 5204 (HB 5204-A) Page 30
+3, chapter 611,  Oregon Laws 2025, collected or received by the Water Resources Department,
+for water rights and adjudications, is decreased by $23,332, for a budget realignment.
+SECTION 234. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (4), chapter 611,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and including  federal funds received under
+cooperative agreements with or contracts from  the Bureau of Reclamation of the United
+States Department of the Interior, the United  States Army Corps of Engineers, the United
+States Geological Survey, the Bonneville Power Administration and the  National Fish and
+Wildlife Foundation, but excluding lottery funds and  federal funds not described in section
+3, chapter 611,  Oregon Laws 2025, collected or received by the Water Resources Department,
+for technical services, is decreased by $4,313, for a budget realignment.
+SECTION 235. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (4), chapter 611,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and including  federal funds received under
+cooperative agreements with or contracts from  the Bureau of Reclamation of the United
+States Department of the Interior, the United  States Army Corps of Engineers, the United
+States Geological Survey, the Bonneville Power Administration and the  National Fish and
+Wildlife Foundation, but excluding lottery funds and  federal funds not described in section
+3, chapter 611,  Oregon Laws 2025, collected or received by the Water Resources Department,
+for technical services, is decreased by $1,000,000, for a budget rebalance.
+SECTION 236. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (5), chapter 611,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and including  federal funds received under
+cooperative agreements with or contracts from  the Bureau of Reclamation of the United
+States Department of the Interior, the United  States Army Corps of Engineers, the United
+States Geological Survey, the Bonneville Power Administration and the  National Fish and
+Wildlife Foundation, but excluding lottery funds and  federal funds not described in section
+3, chapter 611,  Oregon Laws 2025, collected or received by the Water Resources Department,
+for the director’s office, is increased by $1,000,000, for a budget rebalance.
+SECTION 237. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Columbia River Gorge Commission by section 1, chapter 334, Oregon Laws
+2025, for the biennium ending June 30, 2027, is increased by $75,000, for information technol-
+ogy.
+SECTION 238.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Columbia River Gorge Commission by section 1, chapter 334, Oregon Laws
+2025, for the biennium ending June 30, 2027, is increased by $8,000, for shared services.
+SECTION 239. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Columbia River Gorge Commission by section 1, chapter 334, Oregon Laws
+2025, for the biennium ending June 30, 2027, is  increased by $45,000, for commission expenses.
+SECTION 240. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Department  of Environmental Quality by section 1 (3), chapter 426, Oregon
+Laws 2025, for the biennium ending  June 30, 2027, for land quality, is increased by $407,871,
+for the 2025 Rowena fire.
+SECTION 241. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Land Use Board  of Appeals by section 1, chapter 428, Oregon Laws 2025,
+for the  biennium ending June 30, 2027, is increased by $33,504, for Oregon Department of
+Administrative Services charges.
+Enrolled House Bill 5204 (HB 5204-A) Page 31
+SECTION 242. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Land Use Board of Appeals by section  1, chapter 428, Oregon Laws 2025,
+for the biennium ending June 30, 2027, is increased by $24,025, for  contract human resources.
+SECTION 243. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2, chapter 424, Oregon Laws  2025, for the biennium end-
+ing June 30, 2027, as the maximum limit for payment of expenses from fees,  moneys or other
+revenues, including Miscellaneous Receipts, but excluding lottery funds and federal funds,
+collected or received by the State Department  of Energy, is increased by $513,984, for climate
+strategy and initiatives.
+SECTION 244.
+Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2, chapter  424, Oregon Laws 2025, for the biennium end-
+ing June 30, 2027, as the maximum limit for payment of expenses from fees,  moneys or other
+revenues, including Miscellaneous Receipts, but excluding lottery funds and federal funds,
+collected or received by the  State Department of Energy, is increased by $1,819,810, for solar
+electric systems and storage.
+SECTION 245.
+Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the State Department of Geology and Mineral Industries by  section 1 (2),
+chapter 521, Oregon Laws 2025,  for the biennium ending June 30, 2027, for mined land recla-
+mation, is increased by $700,000, for ePermitting.
+SECTION 246. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2, chapter  424, Oregon Laws 2025, for the biennium end-
+ing June 30, 2027, as the maximum limit for payment of expenses from fees,  moneys or other
+revenues, including Miscellaneous Receipts, but excluding lottery funds and federal funds,
+collected or  received by the State Department of Energy, is increased by $834,361, for the
+Heat Pump Deployment Program.
+SECTION 247.
+Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2, chapter  424, Oregon Laws 2025, for the biennium end-
+ing June 30, 2027, as the maximum limit for payment of expenses from fees,  moneys or other
+revenues, including Miscellaneous Receipts, but excluding lottery funds and federal funds,
+collected or received by  the State Department of Energy, is increased by $3,060,871, for the
+Oregon Rental Home Heat Pump Program.
+SECTION 248.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the State  Department of Fish and Wildlife by section 1 (6), chapter 520, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for  State Police enforcement, is decreased
+by $3,118,767, for a budget realignment.
+SECTION 249. The allocation to the Department of Environmental Quality  of moneys
+deposited into the Watershed Conservation Operating Fund by section 5,  chapter 527, Oregon
+Laws 2025, for activities and  projects to implement Article XV, section 4b, of the Oregon
+Constitution, is increased by $250,000.
+SECTION 250. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the State Department of Agriculture by section 1  (3), chapter 419, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for natural resources, is increased by
+$1,800,000, for Japanese beetle eradication.
+SECTION 251.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the State  Department of Agriculture by section 1 (1), chapter 419, Oregon
+Laws 2025, for the biennium ending June 30, 2027,  for administrative and support services,
+is increased by $1,000,000, for deposit in the Wolf Management Compensation and Proactive
+Trust Fund established under ORS 610.155, for grants.
+SECTION 252. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the State Parks and Recreation Department  by section 1, chapter 524, Oregon
+Laws 2025, for the biennium ending June 30, 2027, is increased by $274,590, for debt service.
+Enrolled House Bill 5204 (HB 5204-A) Page 32
+SECTION 253. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (2), chapter 524,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the  State Parks and Recreation Department, for central ser-
+vices, is increased by $35,000, for the cost of bond issuance.
+PUBLIC SAFETY PROGRAM AREA
+SECTION 254. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Department  of Corrections by section 1 (1), chapter 583, Oregon Laws 2025,
+for the biennium ending June 30,  2027, for operations and health services, is increased by
+$21,522,020, for medications for opioid use disorder.
+SECTION 255. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Department  of Corrections by section 1 (1), chapter 583, Oregon Laws 2025,
+for the biennium ending June 30,  2027, for operations and health services, is increased by
+$14,352,000, for offsite healthcare.
+SECTION 256. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Department  of Corrections by section 1 (1), chapter 583, Oregon Laws 2025,
+for the biennium ending June 30,  2027, for operations and health services, is increased by
+$4,055,147, for healthcare staffing.
+SECTION 257. Notwithstanding any other law limiting expenditures, the amount  of
+$69,791 is established for the biennium ending June 30, 2027, as the maximum limit for pay-
+ment of expenses by the Department of Justice from American Rescue  Plan Act Coronavirus
+State Fiscal Recovery Fund  moneys received by the Oregon Department of Administrative
+Services and transferred to the Department of Justice, for survivor housing services.
+SECTION 258.
+Notwithstanding any other law limiting expenditures, the amount of
+$37,302 is established for the biennium ending June 30, 2027, as the maximum limit for pay-
+ment of expenses by the Department of Justice from American Rescue  Plan Act Coronavirus
+State Fiscal Recovery Fund moneys received by the Oregon  Department of Administrative
+Services and transferred to the Department of Justice, for community-based violence pre-
+vention.
+SECTION 259.
+Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (6), chapter 523,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the Department of Justice, for  the Crime Victim and Survivor
+Services Division, is increased by $1,191,525, for children’s advocacy centers and domestic
+violence and sexual assault services.
+SECTION 260.
+Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (5), chapter  423, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the Oregon Department of  Emergency Management, for mit-
+igation and recovery, is increased by $15,791,030, for natural disaster reimbursements.
+SECTION 261. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Department of  the State Fire Marshal by section 1 (3), chapter 554, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for emergency response,  is increased by
+$7,621,128, for 2025 fire season costs.
+SECTION 262. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Department of  the State Fire Marshal by section 1 (3), chapter 554, Oregon
+Enrolled House Bill 5204 (HB 5204-A) Page 33
+Laws 2025, for the biennium ending June 30, 2027, for emergency response,  is increased by
+$7,000,000, for the 2026 fire season.
+SECTION 263. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (1), chapter 554,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the Department of the State Fire Marshal, for the office of
+the State Fire Marshal, business services, emergency response, fire  and life safety services
+and fire and life safety education, is increased by $500,000, for fire cost recovery.
+SECTION 264.
+Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Oregon Public Defense  Commission by section 1 (7)(a), chapter 588, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for the Court  Mandated Expenses Division:
+standard court mandated expenses, is decreased by $2,131,986, for state trial attorneys.
+SECTION 265. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon Public Defense  Commission by section 1 (8), chapter 588, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for the Trial  Representation Division, is
+increased by $2,131,986, for state trial attorneys.
+SECTION 266. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Department  of Corrections by section 1 (1), chapter 583, Oregon Laws 2025,
+for the biennium ending June 30, 2027, for operations and health services, is decreased by
+$1,033,627, for a budget realignment.
+SECTION 267.
+Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section  70, chapter 628, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as  the maximum limit for payment of expenses by the Department of
+Corrections from American Rescue Plan Act Coronavirus State Fiscal Recovery  Fund mon-
+eys received by the Oregon Department of Administrative Services and transferred to the
+Department of Corrections, for operations  and health services, is increased by $1,033,627, for
+the provision of public safety services.
+SECTION 268.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Department of Justice by section 1 (4), chapter 523, Oregon Laws 2025, for
+the biennium ending June 30, 2027, for the Crime Victim  and Survivor Services Division, is
+decreased by $9,350,000, for a budget realignment.
+SECTION 269. In addition to and not  in lieu of any other appropriation, there is appro-
+priated to the Department of Justice,  for the biennium ending June 30, 2027, out of the
+General Fund, the amount of  $6,050,000, for deposit into the Oregon Domestic and Sexual
+Violence Services Fund established by ORS 147.453.
+SECTION 270. In addition to and not in lieu of  any other appropriation, there is appro-
+priated to the Department of Justice, for the biennium ending June  30, 2027, out of the
+General Fund, the amount of $3,300,000, for deposit into the Children’s Advocacy Center Fund
+established by ORS 418.801.
+SECTION 271.
+Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (3), chapter 523,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the Department of Justice, for the Civil Enforcement Division,
+is decreased by $2,145,360, for a budget realignment.
+SECTION 272. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section  79, chapter 628, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the Department of Justice, for protection and education,  for
+Enrolled House Bill 5204 (HB 5204-A) Page 34
+civil enforcement expansion and defense  of state interests, is decreased by $8,191,890, for a
+budget realignment.
+SECTION 273. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section  78, chapter 628, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the Department of Justice, for protection and education,  for
+the purpose of carrying out ORS 180.095, is increased  by $10,337,250, for a budget realign-
+ment.
+SECTION 274. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Oregon Youth Authority by section 1 (1), chapter 459, Oregon Laws 2025,
+for the biennium ending June 30, 2027, for  facility programs, is decreased by $15,909, for a
+budget rebalance.
+SECTION 275. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon Youth Authority by section 1 (2), chapter 459,  Oregon Laws 2025,
+for the biennium ending June 30, 2027, for community programs, is decreased by $24,122, for
+a budget rebalance.
+SECTION 276.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon Youth Authority by section 1 (3), chapter 459,  Oregon Laws 2025,
+for the biennium ending June 30, 2027, for program support, is increased by $40,031,  for a
+budget rebalance.
+SECTION 277. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (3), chapter 588,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or  received by the Oregon Public Defense Commission, for Court Mandated
+Expenses, is decreased by $952,073, for a budget adjustment.
+SECTION 278. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Criminal Justice Commission  by section 1, chapter 518, Oregon Laws 2025,
+for the biennium ending June  30, 2027, is increased by $87,842, for sentencing, policy and re-
+search, for contract human resources.
+SECTION 279. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (2), chapter  423, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the  Oregon Department of Emergency Management, for the
+9-1-1 Emergency Program, is increased by $5,300,000, for Next Generation 9-1-1.
+SECTION 280. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (3), chapter 423,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds
+collected or received by the Oregon  Department of Emergency Management, for Mitigation
+and Recovery, is decreased by $602,043, for a budget rebalance.
+SECTION 281. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 3 (1), chapter 423,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from  federal funds
+collected or received by the Oregon Department of Emergency Management, for  adminis-
+tration, is increased by $602,043, for a budget rebalance.
+SECTION 282. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Oregon Youth Authority by section 1 (3), chapter 459, Oregon Laws 2025,
+for the biennium ending June 30, 2027,  for program support, is increased by $320,336, for
+processing Medicaid claims.
+Enrolled House Bill 5204 (HB 5204-A) Page 35
+SECTION 283. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon Youth Authority by section 1 (3), chapter 459,  Oregon Laws 2025,
+for the biennium ending June 30, 2027, for program  support, is increased by $335,138, for in-
+formation technology project management.
+SECTION 284. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the  Department of Justice by section 1 (3), chapter 523, Oregon Laws 2025, for
+the biennium ending June  30, 2027, for the Criminal Justice Division, is increased by
+$1,046,286, for Internet crimes against children.
+SECTION 285. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (1), chapter 554,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by the Department of the State Fire Marshal, for the office of
+the State Fire Marshal, business services, emergency response, fire  and life safety services
+and fire and life safety  education, is increased by $9,509,777, for the community risk re-
+duction program.
+SECTION 286.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Department of  the State Fire Marshal by section 1 (3), chapter 554, Oregon
+Laws 2025, for the  biennium ending June 30, 2027, for emergency response, is increased by
+$6,000,000, for wildfire season staffing grants.
+SECTION 287. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the State Board of Parole and Post-Prison Supervision by section  1, chapter
+402, Oregon Laws 2025, for the biennium ending June 30, 2027, is increased by  $319,148, for
+contested for contested post-prison and parole violation hearings.
+SECTION 288. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (2), chapter 455,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts, but excluding lottery funds and  federal
+funds, collected or received by  the Department of State Police, for Fish and Wildlife, is de-
+creased by $3,118,767, for a budget realignment.
+SECTION 289. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Department of State Police by section 1 (2), chapter 455, Oregon Laws 2025,
+for the  biennium ending June 30, 2027, for Fish and Wildlife, is increased by $3,118,767, for a
+budget realignment.
+SECTION 290.
+Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon Public Defense  Commission by section 1 (1), chapter 588, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for the Executive Division, is increased
+by $323,866, for a budget realignment.
+SECTION 291.
+Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Oregon Public Defense Commission by  section 1 (2), chapter 588, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for the Compliance, Audit and Performance
+Division, is decreased by $2,903,473, for a budget realignment.
+SECTION 292. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to  the Oregon Public Defense Commission by section 1 (10)(a), chapter 588,
+Oregon Laws 2025,  for the biennium ending June 30, 2027, for the Administrative Services
+Division, for administrative services, is decreased by $249,231, for a budget realignment.
+SECTION 293. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon Public Defense Commission by section 1 (10)(b),  chapter 588,
+Oregon Laws 2025, for the biennium ending June 30, 2027, for the  Administrative Services
+Division, for the financial case management system, is  decreased by $323,866, for a budget
+realignment.
+Enrolled House Bill 5204 (HB 5204-A) Page 36
+SECTION 294. In addition to and not  in lieu of any other appropriation, there is appro-
+priated to the Oregon Public Defense Commission, for the  biennium ending June 30, 2027, out
+of the General Fund, the amount of $3,152,704, for the establishment of  a Resource Counsel
+Division.
+SECTION 295. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Oregon Public Defense Commission by  section 1 (4), chapter 588, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for the Adult Trial Division, is decreased
+by $1,899,995, for a budget realignment.
+SECTION 296. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Oregon Public Defense  Commission by section 1 (8), chapter 588, Oregon
+Laws 2025, for the biennium ending June 30, 2027, for the Trial  Representation Division, is
+increased by $1,508,175, for a budget realignment.
+SECTION 297. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to  the Oregon Public Defense Commission by section 1 (10)(a), chapter 588,
+Oregon Laws 2025,  for the biennium ending June 30, 2027, for the Administrative Services
+Division - administrative services, is increased by $391,820, for a budget realignment.
+SECTION 298. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (6), chapter  523, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues,  including Miscellaneous Receipts, but excluding lottery funds and federal
+funds, collected or received by the Department of Justice, for  the Crime Victim and Survivor
+Services Division, is decreased by $1,274,557, for a budget realignment.
+SECTION 299. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the  Department of Justice by section 1 (4), chapter 523, Oregon Laws 2025, for
+the biennium ending June 30, 2027, for the Crime Victim  and Survivor Services Division, is
+increased by $1,274,557, for a budget realignment.
+TRANSPORTATION PROGRAM AREA
+SECTION 300. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 3 (3), chapter  634, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment of expenses from federal funds other
+than those described in section 2, chapter  634, Oregon Laws 2025, collected or received by the
+Department of Transportation, for policy, data and analysis, is increased by  $1,108,198, for a
+State Electronic Data Collection Program grant to replace the Crash Data System.
+SECTION 301.
+Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (12), chapter 634, Oregon Laws 2025,  for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received  as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department of Transportation, for finance and budget, is decreased by $463,336, for a
+budget realignment.
+SECTION 302.
+Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (11), chapter 634, Oregon Laws 2025,  for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received  as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department  of Transportation, for Department of Transportation administrative ser-
+vices, is increased by $463,336, for a budget realignment.
+Enrolled House Bill 5204 (HB 5204-A) Page 37
+SECTION 303. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (9), chapter  634, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including  Miscellaneous Receipts and federal funds received as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the  Department of Transportation, for policy, data and analysis, is decreased by $242,725,
+for a budget realignment.
+SECTION 304. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (3), chapter  634, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including  Miscellaneous Receipts and federal funds received as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department of Transportation,  for project delivery and support, is increased by
+$242,725, for a budget realignment.
+SECTION 305. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (3), chapter 634,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received  as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department of  Transportation, for project delivery and support, is decreased by
+$750,000, for a budget realignment.
+SECTION 306. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section  2 (11), chapter 634, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including  Miscellaneous Receipts and federal funds received as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department of Transportation, for Department of Transportation  administrative ser-
+vices, is increased by $750,000, for a budget realignment.
+SECTION 307. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (2), chapter 634,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received  as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department of Transportation, for maintenance, is decreased by $13,348,731,  for a
+budget rebalance.
+SECTION 308. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (3), chapter  634, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including  Miscellaneous Receipts and federal funds received as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department of Transportation, for project delivery and support,  is decreased by
+$32,206,996, for a budget rebalance.
+SECTION 309. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (5), chapter 634,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received  as reimburse-
+Enrolled House Bill 5204 (HB 5204-A) Page 38
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department of  Transportation, for the local government program, is decreased by
+$973,840, for a budget rebalance.
+SECTION 310. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (6), chapter 634,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received  as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the  Department of Transportation, for driver and motor vehicle services, is decreased by
+$8,483,935, for a budget rebalance.
+SECTION 311. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (8), chapter  634, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including  Miscellaneous Receipts and federal funds received as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department of Transportation,  for commerce and compliance, is decreased by
+$2,775,301, for a budget rebalance.
+SECTION 312. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (11), chapter 634, Oregon Laws 2025,  for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received  as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department  of Transportation, for Department of Transportation administrative ser-
+vices, is decreased by $11,889,911, for a budget rebalance.
+SECTION 313. Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section  2 (12), chapter 634, Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum  limit for payment of expenses from fees, moneys or
+other revenues, including  Miscellaneous Receipts and federal funds received as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department of Transportation, for finance and budget,  is decreased by $4,421,103, for
+a budget rebalance.
+SECTION 314. Notwithstanding any other law limiting expenditures, the limitation  on
+expenditures established by section 2 (1), chapter 634,  Oregon Laws 2025, for the biennium
+ending June 30, 2027, as the maximum limit for payment  of expenses from fees, moneys or
+other revenues, including Miscellaneous Receipts and federal funds received  as reimburse-
+ment from the United States Department of Transportation, but  excluding lottery funds and
+federal funds not described in section 2, chapter 634, Oregon Laws 2025, collected or received
+by the Department of Transportation,  for capital improvement, is decreased by $4,100,000, for
+a budget rebalance.
+EMERGENCY BOARD
+SECTION 315. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Emergency Board by section 3 (1), chapter 628, Oregon  Laws 2025, for the
+biennium ending June 30, 2027, to be allocated  to state agencies for compensation changes
+driven by collective bargaining  for workers who are not state employees, is decreased by
+$75,000,000.
+Enrolled House Bill 5204 (HB 5204-A) Page 39
+SECTION 316. Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Emergency Board by section 5 (1), chapter 628, Oregon  Laws 2025, for the
+biennium ending June 30, 2027,  to be allocated for the state’s natural disaster prevention,
+preparedness, response and recovery, is decreased by $65,324,786.
+SECTION 317. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Emergency Board by section 6 (1), chapter 628, Oregon  Laws 2025, for the
+biennium ending June 30, 2027, to be allocated to the State Forestry Department  for fire
+protection expenses, is decreased by $12,167,370.
+SECTION 318. Notwithstanding any other provision of law, the  General Fund appropri-
+ation made to the Emergency Board by section 2 (1), chapter 628, Oregon  Laws 2025, for the
+biennium ending June 30, 2027, to be allocated to state  agencies for state employee compen-
+sation changes, is decreased by $300,000,000.
+SECTION 319. Section 4, chapter 628, Oregon Laws 2025, is amended to read:
+Sec. 4.  (1) In addition to and not in lieu of any other appropriation, there is appropriated  to the
+Emergency  Board,  for the biennium beginning July 1, 2025, out of the General Fund, the amount of
+$100,000,000, to be allocated to the Oregon  Health Authority and the Department of Human Services
+for [ caseload costs ] costs associated with caseload  changes and implementation of federal pol-
+icy changes that  the agencies are unable to mitigate during the interim legislative periods.
+(2) If any of the moneys appropriated by subsection (1) of this  section are not allocated by the
+Emergency Board prior to December 1, 2026, the moneys remaining on that date  become available
+for any purpose for which the Emergency Board lawfully may allocate funds.
+SECTION 320. (1) In addition to and not  in lieu of any other appropriation, there is ap-
+propriated to  the Emergency Board, for the biennium ending June 30, 2027, out of the Gen-
+eral Fund,  the amount of $15,000,000, to be allocated to the Higher Education Coordinating
+Commission for the purpose of  supporting Southern Oregon University with short-term fi-
+nancial stability.
+(2) If  any of the moneys appropriated by subsection (1) of this section are not allocated
+by the Emergency Board  prior to December 1, 2026, the moneys remaining on that date be-
+come available for any purpose for which the Emergency Board lawfully may allocate  funds.
+GENERAL FUND CARRYFORWARD
+SECTION 321. Legislative Branch.  Notwithstanding any other provision of law, the  au-
+thorized appropriations for the  biennium ending June 30, 2027, for the following agencies and
+programs are changed by the amounts specified for 2023-2025  unexpended General Fund ap-
+propriations as authorized under ORS 293.195:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Legislative Administration
+Committee:
+General Program
+General Fund Ch. 586 1(1) +10,387,701
+Legislative Assembly:
+General Fund Ch. 586 6 +3,219,928
+Eighty-third
+Legislative Assembly
+Enrolled House Bill 5204 (HB 5204-A) Page 40
+General Fund Ch. 586 7(1) +321,607
+Eighty-fourth
+Legislative Assembly
+General Fund Ch. 586 7(2) +1,408,101
+Legislative Equity Office
+General Fund Ch. 586 8 +986,715
+Legislative Counsel
+Committee:
+General Fund Ch. 586 11 +1,876,804
+Legislative Fiscal
+Officer:
+General Fund Ch. 586 14(1) +640,211
+Legislative Policy and
+Research Committee:
+General Fund Ch. 586 15 +1,486,555
+Legislative Revenue
+Officer:
+General Fund Ch. 586 16 +334,458
+Commission on Indian
+Services:
+General Fund Ch. 586 17 +38,710
+SECTION 322. Judicial Branch.  Notwithstanding any other provision of law, the author-
+ized appropriations for the biennium ending June 30,  2027, for the following agencies and
+programs are changed by the  amounts specified for 2023-2025 unexpended General Fund ap-
+propriations as authorized under ORS 293.195:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Commission on Judicial
+Fitness and Disability:
+Administration
+General Fund Ch. 398 1(1) +10,912
+Extraordinary Expenses
+General Fund Ch. 398 1(2) +18,337
+Judicial Department:
+Judicial Compensation
+General Fund Ch. 522 1(1) +330,064
+Operations
+General Fund Ch. 522 1(2) +754,511
+Mandated Payments
+General Fund Ch. 522 1(3) +807,181
+State Court Technology
+Systems
+General Fund Ch. 522 1(4) +52,805
+Debt Service
+Enrolled House Bill 5204 (HB 5204-A) Page 41
+General Fund Ch. 522 1(5) +18,210
+Third-party Debt
+Collection
+General Fund Ch. 522 1(6) +2,069,266
+DEBT SERVICE ADJUSTMENTS
+SECTION 323. Notwithstanding any other provision  of law, the authorized appropriations
+and expenditure limitations for the biennium  ending June 30, 2027, for the following agencies
+and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $
+Agency/Program/Funds Section Adjustment
+Administration:
+Oregon Department of
+Administrative Services:
+Debt service
+Other Funds Ch. 517 2(13) -50,000
+Oregon Liquor and Cannabis
+Commission:
+Debt service
+Other Funds Ch. 400 1(7) -8,915,136
+Department of Revenue:
+Debt service
+Other Funds Ch. 628 114 +380,000
+Debt service and
+related costs
+General Fund Ch. 553 1(7) -1,034,009
+Economic Development:
+Oregon Business Development
+Department:
+Debt service
+General Fund Ch. 616 1(4) -5,375,000
+Housing and Community
+Services Department:
+Debt Service for Bond
+Related Activities
+General Fund Ch. 584 1(7) -66,280,201
+Education:
+Department of Education:
+Debt service
+General Fund Ch. 608 4 -760,000
+Other funds Ch. 628 189 +1,145,000
+Higher Education
+Coordinating Commission:
+Debt service on outstanding
+Enrolled House Bill 5204 (HB 5204-A) Page 42
+general obligation bonds
+sold for the benefit of
+Oregon public universities
+General Fund Ch. 548 1(11)(a)-3,460,670
+Debt service on outstanding
+lottery bonds and general
+obligation bonds sold for
+the benefit of Oregon public
+universities
+Other funds Ch. 548 8(2) +1,094,758
+Debt service on outstanding
+general obligation bonds
+sold for implementing the
+Financial Assistance
+Management Information
+Systems project
+General Fund Ch. 548 1(11)(d) -50,000
+Debt service on outstanding
+general obligation bonds
+sold for the benefit of
+Oregon community
+colleges
+General Fund Ch. 548 1(11)(b)+350,319
+Human Services:
+Oregon Health Authority:
+Debt Service
+General Fund Ch. 587 1(9) -310,000
+Other funds Ch. 628 127 +405,000
+Department of Human Services:
+Debt Service
+General Fund Ch. 549 1(9) -1,560,000
+Other funds Ch. 628 50 +1,610,000
+Judicial Branch:
+Judicial Department:
+Debt service
+General Fund Ch. 522 1(5) -2,211,839
+Legislative Branch:
+Legislative Administration
+Committee:
+Debt service
+General Fund Ch. 586 1(2) -1,436,100
+Other Funds Ch. 628 202 +1,505,000
+Natural Resources:
+Department of Environmental
+Quality:
+Debt service
+General Fund Ch. 426 1(5) +45,000
+State Department of
+Fish and Wildlife:
+Debt service
+General Fund Ch. 520 1(4) -226,900
+Enrolled House Bill 5204 (HB 5204-A) Page 43
+Other funds Ch. 520 2(5) +375,000
+State Forestry Department:
+Debt service
+General Fund Ch. 609 1(4) -69,925
+Other funds Ch. 609 2(6) +15,771
+State Parks and Recreation
+Department:
+Debt service
+General Fund Ch. 524 1 -1,930,000
+Other funds Ch. 628 195 +4,800,000
+Lottery Funds Ch. 524 4 -2,500,000
+Water Resources Department:
+Debt Service
+Lottery Funds Ch. 611 2 -1,564,950
+Public Safety:
+Department of Corrections:
+Debt service
+General Fund Ch. 583 1(5) -3,162,500
+Other funds Ch. 628 71 +3,688,000
+Department of Justice:
+Debt Service and Related
+Costs
+Other funds Ch. 523 2(10) -2,620,974
+Oregon Military Department:
+Debt Service
+Other funds Ch. 628 192 +846,000
+Capital Debt Service and
+Related Costs
+General Fund Ch. 429 1(4) -666,900
+Oregon Department of
+Emergency Management:
+Debt Service
+General Fund Ch. 423 1(4) -2,200,103
+Other funds Ch. 628 87 +430,000
+Department of State Police:
+Debt Service
+Other funds Ch. 628 193 +4,155,000
+Bond Debt Service
+General Fund Ch. 455 1(5) -4,528,346
+Oregon Youth Authority:
+Debt service
+General Fund Ch. 459 1(6) -8,463,771
+Other funds Ch. 628 99 +1,180,000
+Transportation:
+Department of Transportation:
+Debt service
+Other Funds Ch. 634 2(13) +21,200,516
+COMPENSATION PLAN AND OTHER ADJUSTMENTS
+Enrolled House Bill 5204 (HB 5204-A) Page 44
+SECTION 324. Administration. Notwithstanding any other provision of law, the author-
+ized appropriations and expenditure limitations for the biennium ending June 30, 2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Oregon Department of
+Administrative Services:
+For start-up costs associated
+with implementing sections
+1 to 11, chapter 481,
+Oregon Laws 2025
+General Fund Ch. 481 13 +26,108
+Chief Operating Office
+General Fund Ch. 517 1(1) +7,426
+Other funds Ch. 517 2(1) +420,911
+To expend for the purposes
+described in section 1,
+chapter 481, Oregon Laws
+2025
+General Fund Ch. 596 3 +13,219
+Oregon Department of
+Administrative Services
+information technology
+Other funds Ch. 517 2(14) +718,212
+Chief Financial Office
+Other funds Ch. 517 2(2) +1,114,985
+Office of the State Chief
+Information Officer:
+Policy
+Other funds Ch. 517
+2(3)(a) +2,213,640
+Chief Human Resources Office
+Other funds Ch. 517 2(4) +1,087,088
+Office of the State Chief
+Information Officer - State
+Data Center: Operations
+Other funds Ch. 517
+2(5)(a) +2,225,662
+Workday Oregon
+Other funds Ch. 517 2(6) +667,058
+Enterprise Asset Management
+Other funds Ch. 517 2(7) +2,186,497
+Enterprise Goods and
+Services
+Other funds Ch. 517 2(8) +3,081,929
+Business Services
+Enrolled House Bill 5204 (HB 5204-A) Page 45
+Other funds Ch. 517 2(9) +78,072
+American Rescue Plan Act
+Coronavirus State Fiscal
+Recovery Fund moneys
+Federal funds Ch. 517 5 +72,108
+Oregon Advocacy Commissions
+Office:
+General Fund Ch. 372 1 +58,410
+Employment Relations Board:
+General Fund Ch. 397 1 +120,605
+Other funds Ch. 397 2 +10,284
+Administrative Account
+Other funds Ch. 397 3 +84,584
+Oregon Government Ethics
+Commission:
+Other funds Ch. 336 1 +178,755
+Office of the Governor:
+General Fund Ch. 547 1 +782,431
+Regional Solutions Program
+Lottery funds Ch. 547 3 +189,585
+Other funds Ch. 547 4 +189,292
+State Library:
+General Fund Ch. 399 1 +104,760
+Other funds Ch. 399 2 +40,684
+Miscellaneous Receipts
+Account for the State
+Library
+Other funds Ch. 399 3 +249,122
+Federal funds Ch. 399 4 +77,885
+Oregon Liquor and Cannabis
+Commission:
+Distilled spirits, public
+safety, administration and
+agency support
+Other funds Ch. 400 1(1) +3,658,084
+Marijuana regulation
+- recreational
+Other funds Ch. 400 1(2) +1,252,587
+Marijuana regulation
+- medical
+Other funds Ch. 400 1(3) +210,669
+Public Employees Retirement
+System:
+Central Administration Division
+Other funds Ch. 552 1(1) +811,520
+Financial Services Division
+Other funds Ch. 552 1(2) +428,533
+Information Services Division
+Other funds Ch. 552 1(3) +1,006,307
+Operations Division
+Enrolled House Bill 5204 (HB 5204-A) Page 46
+Other funds Ch. 552 1(4) +2,338,642
+Compliance, Audit and Risk
+Division
+Other funds Ch. 552 1(5) +145,899
+Core Retirement System: Core
+Retirement System Applications
+Program Office
+Other funds Ch. 552 1(6)(a) +130,762
+Core Retirement System:
+Chapter 101, Oregon Laws 2024,
+implementation
+Other funds Ch. 552 1(6)(c) +21,211
+Public Records Advocate:
+Other funds Ch. 249 1 +24,582
+Oregon Racing Commission:
+Other funds Ch. 458 1 +122,015
+Department of Revenue:
+Administration
+General Fund Ch. 553 1(1) +772,898
+Other funds Ch. 553 2(1) +258,283
+Property Tax Division
+General Fund Ch. 553 1(2) +935,239
+Other funds Ch. 553 2(2) +158,445
+Personal Tax and
+Compliance Division
+General Fund Ch. 553 1(3) +3,327,462
+Other funds Ch. 553 2(3) +70,401
+Business Division
+General Fund Ch. 553 1(4) +1,071,146
+Other funds Ch. 553 2(4) +714,748
+Collections Division
+General Fund Ch. 553 1(5) +1,599,438
+Other funds Ch. 553 2(5) +960,102
+Information Technology
+Services Division
+General Fund Ch. 553 1(6) +1,803,005
+Other funds Ch. 553 2(7) +535,095
+Information System
+projects
+Other funds Ch. 553 2(10) +5,100
+Corporate Division
+Other funds Ch. 553 2(6) +687,229
+Marijuana program
+Other funds Ch. 553 2(8) +116,861
+Senior Property Tax
+Deferral program
+Other funds Ch. 553 2(9) +70,749
+Secretary of State:
+Administrative Services
+Division
+General Fund Ch. 610 1(1) +276,540
+Enrolled House Bill 5204 (HB 5204-A) Page 47
+Other funds Ch. 610 2(1) +1,551,141
+Elections Division
+General Fund Ch. 610 1(2) +665,135
+Audits Division
+Other funds Ch. 610 2(3) +1,719,849
+Archives Division
+Other funds Ch. 610 2(4) +475,190
+Corporation Division
+Other funds Ch. 610 2(5) +777,135
+Federal funds Ch. 610 3 +28,658
+State Treasurer:
+Administrative services
+Other funds Ch. 555 1(1) +1,472,218
+Trust property services
+Other funds Ch. 555 1(2) +367,004
+Investment services
+Other funds Ch. 555 1(3) +1,839,991
+Public savings services
+Other funds Ch. 555 1(4) +180,331
+State and local government
+financial services
+Other funds Ch. 555 1(5) +509,308
+SECTION 325. Consumer and Business Services.  Notwithstanding any other provision  of
+law, the authorized appropriations and expenditure limitations for  the biennium ending June
+30, 2027, for the following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Oregon Board of Accountancy:
+Operating expenses
+Other funds Ch. 361 1 +92,725
+State Board of Chiropractic
+Examiners:
+Operating expenses
+Other funds Ch. 333 1 +50,384
+Construction Contractors Board:
+Other funds Ch. 247 1 +710,844
+Department of Consumer and
+Business Services:
+Universal Health Plan
+Governance Board
+General Fund Ch. 606 3 +54,421
+New permitting-related
+requirements under
+chapter 486, Oregon
+Laws 2025
+Enrolled House Bill 5204 (HB 5204-A) Page 48
+General Fund Ch. 628 205 +10,470
+Workers’ Compensation
+Board
+Other funds Ch. 606 1(1) +1,060,139
+Workers’ Compensation
+Division
+Other funds Ch. 606 1(2) +2,369,995
+Oregon OSHA
+Other funds Ch. 606 1(3) +2,289,480
+Federal funds Ch. 606 2(1) +532,337
+Central Services Division
+Other funds Ch. 606 1(4) +2,486,364
+Federal funds Ch. 606 2(2) +21,196
+Division of Financial
+Regulation
+Other funds Ch. 606 1(5) +2,757,862
+Building Codes Division
+Other funds Ch. 606 1(6) +1,763,010
+Federal funds Ch. 606 2(3) +7,865
+Oregon Board of Dentistry:
+Operating expenses
+Other funds Ch. 335 1 +113,733
+Health-Related Licensing
+Boards:
+State Mortuary and Cemetery
+Board
+Other funds Ch. 427 1 +94,055
+Oregon Board of Naturopathic
+Medicine
+Other funds Ch. 427 2 +29,364
+Occupational Therapy
+Licensing Board
+Other funds Ch. 427 3 +16,674
+Board of Medical Imaging
+Other funds Ch. 427 4 +43,802
+State Board of Examiners for
+Speech-Language Pathology
+and Audiology
+Other funds Ch. 427 5 +27,373
+Oregon State Veterinary
+Medical Examining Board
+Other funds Ch. 427 6 +58,458
+Bureau of Labor and Industries:
+General Fund Ch. 585 1 +1,295,620
+Other funds Ch. 585 2 +1,360,125
+Lottery funds Ch. 585 5 +6,898
+Federal funds Ch. 585 4 +55,334
+Oregon Medical Board:
+Other funds Ch. 364 1 +524,306
+Mental Health Regulatory
+Agencies:
+Oregon Board of Licensed
+Enrolled House Bill 5204 (HB 5204-A) Page 49
+Professional Counselors and
+Therapists
+Other funds Ch. 337 1 +149,580
+Oregon Board of Psychology
+Other funds Ch. 337 2 +47,963
+Oregon State Board of Nursing:
+Other funds Ch. 401 1 +821,026
+State Board of Pharmacy:
+Other funds Ch. 365 1 +332,337
+Public Utility Commission:
+Utility program
+Other funds Ch. 457 1(1) +1,612,555
+Residential Service
+Protection Fund
+Other funds Ch. 457 1(2) +78,779
+Administration
+Other funds Ch. 457 1(3) +326,570
+Oregon Board of Maritime
+Pilots
+Other funds Ch. 457 1(4) +31,461
+Federal funds Ch. 457 2 +56,378
+Real Estate Agency:
+Other funds Ch. 366 1 +357,944
+State Board of Licensed
+Social Workers:
+Other funds Ch. 362 1 +105,917
+State Board of Tax
+Practitioners:
+Other funds Ch. 339 1 +19,824
+SECTION 326. Economic Development.  Notwithstanding any other provision of law, the
+authorized appropriations and expenditure limitations for the biennium ending June 30, 2027,
+for the following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Oregon Business Development
+Department:
+Operations
+General Fund Ch. 616 1(1) +13,072
+Other funds Ch. 616 8(1) +277,008
+Lottery funds Ch. 616 11(1) +637,087
+Federal funds Ch. 616 12(1) +66,467
+Infrastructure
+General Fund Ch. 616 1(2) +25,898
+Other funds Ch. 616 8(3) +380,121
+Lottery funds Ch. 616 11(3) +229,940
+Enrolled House Bill 5204 (HB 5204-A) Page 50
+Federal funds Ch. 616 12(3) +176,341
+Arts
+General Fund Ch. 616 1(3) +46,605
+Other funds Ch. 616 8(4) +89,097
+Business, innovation and trade
+Other funds Ch. 616 8(2) +528,120
+Lottery funds Ch. 616 11(2) +351,507
+Federal funds Ch. 616 12(2) +89,830
+Employment Department:
+Unemployment insurance, shared
+services, workforce operations,
+contributions and recovery, and
+workforce and economic research
+Other funds Ch. 519 1(1) +10,442,112
+Office of Administrative
+Hearings
+Other funds Ch. 519 1(2) +1,630,963
+Family and medical leave
+insurance program
+Other funds Ch. 519 1(3) +4,501,309
+Modernization Initiative
+Other funds Ch. 519 1(4) +583,629
+Federal funds Ch. 519 4 +6,042,649
+Housing and Community
+Services Department:
+Housing Stabilization
+Programs
+General Fund Ch. 584 1(1) +504,094
+Other funds Ch. 584 2(1) +386,186
+Federal funds Ch. 584 4(1) +166,617
+Project-Based Rental
+Housing Assistance
+General Fund Ch. 584 1(2) +13,123
+Other funds Ch. 584 2(2) +296,062
+Federal funds Ch. 584 4(2) +7,934
+Multifamily Rental
+Housing Programs
+General Fund Ch. 584 1(3) +96,119
+Other funds Ch. 584 2(3) +1,951,098
+Federal funds Ch. 584 4(3) +52,971
+Single Family Housing
+Programs
+General Fund Ch. 584 1(4) +100,891
+Other funds Ch. 584 2(4) +291,337
+Federal funds Ch. 584 4(4) -33,487
+Disaster Recovery and
+Resilience
+General Fund Ch. 584 1(5) +30,521
+Other funds Ch. 584 2(5) +37,794
+Federal funds Ch. 584 4(5) +589,859
+Central Services
+General Fund Ch. 584 1(6) +421,022
+Enrolled House Bill 5204 (HB 5204-A) Page 51
+Other funds Ch. 584 2(6) +1,514,163
+Federal funds Ch. 584 4(6) +161,956
+Bond Activities
+Other funds Ch. 584 2(7) +106,875
+Department of Veterans’
+Affairs:
+Operations
+General Fund Ch. 526 1(1) +11,165
+Other funds Ch. 526 4(1)(a) +539,222
+Lottery funds Ch. 526 2(1) +97,104
+Appeals and special advocacy
+General Fund Ch. 526 1(2) +199,625
+Lottery funds Ch. 526 2(2) +21,133
+Strategic partnership
+General Fund Ch. 526 1(3) +61,640
+Lottery funds Ch. 526 2(3) +73,403
+Aging veteran services
+General Fund Ch. 526 1(4) +22,525
+Lottery funds Ch. 526 2(4) +93,951
+Home loan program
+Other funds Ch. 526 4(1)(b) +174,353
+Oregon Veterans’ Home program
+Other funds Ch. 526 4(1)(c) +45,708
+Federal funds Ch. 526 5 +34,041
+SECTION 327. Education. Notwithstanding any  other provision of law, the authorized
+appropriations and expenditure limitations for the biennium ending June 30,  2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Department of Early Learning
+and Care:
+Operations
+General Fund Ch. 607 1(1) +2,693,344
+Other funds Ch. 607 3(1) +199,537
+Other funds Ch. 607 5(1) +192,502
+Federal funds Ch. 607 4(1) +1,767,419
+Department of Education:
+Operations
+General Fund Ch. 608 1(1) +3,652,387
+Other funds Ch. 608 15 +1,382,285
+Other funds Ch. 608 7(2) +1,004,518
+Federal funds Ch. 608 9(1) +1,774,503
+Oregon School for the Deaf
+General Fund Ch. 608 1(2) +707,692
+Other funds Ch. 608 7(3) +115,812
+Enrolled House Bill 5204 (HB 5204-A) Page 52
+Federal funds Ch. 608 9(2) +7,763
+Higher Education Coordinating
+Commission:
+Higher Education Coordinating
+Commission programs and
+operations
+General Fund Ch. 548 1(1) +1,464,208
+Oregon Promise grants
+General Fund Ch. 548 1(5) +41,384
+Oregon Tribal Student Grant
+General Fund Ch. 548 1(6) +22,863
+Oregon National Guard
+tuition assistance
+General Fund Ch. 548 1(7) +24,776
+Higher Education Coordinating
+Commission programs and
+related grants
+Other funds Ch. 548 8(1) +628,394
+Federal funds Ch. 548 11 +430,888
+Teacher Standards and
+Practices Commission:
+General Fund Ch. 525 1 +22,892
+General operations
+Other funds Ch. 525 2 +430,248
+SECTION 328. Human Services.  Notwithstanding any  other provision of law, the author-
+ized appropriations and expenditure limitations for the biennium ending June 30, 2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Commission for the Blind:
+General Fund Ch. 454 1 +273,207
+Other funds Ch. 454 2 +5,750
+Federal funds Ch. 454 3 +589,454
+Oregon Health Authority:
+Medicaid
+General Fund Ch. 587 1(1) +3,056,643
+Other funds Ch. 587 2(1) +140,482
+Federal funds Ch. 587 5(1) +2,940,888
+Behavioral health
+General Fund Ch. 587 1(2) +1,903,412
+Other funds Ch. 587 2(2) +435,428
+Lottery funds Ch. 587 3(2) +72,783
+Federal funds Ch. 587 5(2) +843,420
+Health policy and analytics
+General Fund Ch. 587 1(3) +1,689,177
+Enrolled House Bill 5204 (HB 5204-A) Page 53
+Other funds Ch. 587 2(3) +1,195,863
+Federal funds Ch. 587 5(3) +1,013,841
+Public health
+General Fund Ch. 587 1(4) +2,467,833
+Other funds Ch. 587 2(5) +4,207,853
+Federal funds Ch. 587 5(4) +6,048,516
+Oregon State Hospital
+General Fund Ch. 587 1(5) +38,598,311
+Other funds Ch. 587 2(7) +289,828
+Federal funds Ch. 587 5(5) +1,145,404
+Central services
+General Fund Ch. 587 1(6) +3,082,159
+Other funds Ch. 587 2(8) +1,149,703
+Federal funds Ch. 587 5(6) +911,358
+State assessments and
+enterprise-wide costs
+General Fund Ch. 587 1(7) +2,576,465
+Other funds Ch. 587 2(9) +344,690
+Federal funds Ch. 587 5(7) +1,226,987
+Shared administrative
+services
+Other funds Ch. 587 2(10) +8,903,458
+Department of Human Services:
+Central services
+General Fund Ch. 549 1(1) +3,146,082
+Other funds Ch. 549 2(1) +80,298
+Federal funds Ch. 549 3(1) +2,188,775
+State assessments and
+enterprise-wide costs
+General Fund Ch. 549 1(2) +6,136,948
+Other funds Ch. 549 2(2) +243,082
+Federal funds Ch. 549 3(2) +3,611,547
+Self-sufficiency programs
+General Fund Ch. 549 1(3) +5,799,788
+Other funds Ch. 549 2(3) +9,689
+Federal funds Ch. 549 3(3) +6,915,069
+Vocational rehabilitation
+services
+General Fund Ch. 549 1(4) +855,775
+Other funds Ch. 549 2(4) +49,413
+Federal funds Ch. 549 3(4) +2,627,218
+Child welfare programs
+General Fund Ch. 549 1(5) +32,659,161
+Other funds Ch. 549 2(5) +29,556
+Federal funds Ch. 549 3(5) +12,808,417
+Aging and people with
+disabilities programs
+General Fund Ch. 549 1(6) +8,979,532
+Other funds Ch. 549 2(6) +1,676,569
+Federal funds Ch. 549 3(6) +9,917,802
+Intellectual/developmental
+disabilities programs
+Enrolled House Bill 5204 (HB 5204-A) Page 54
+General Fund Ch. 549 1(7) +4,802,206
+Other funds Ch. 549 2(7) -1,033
+Federal funds Ch. 549 3(7) +7,088,312
+Oregon Eligibility Partnership
+General Fund Ch. 549 1(8) +16,623,071
+Other funds Ch. 549 2(9) +46,119
+Federal funds Ch. 549 3(8) +13,489,036
+Shared services
+Other funds Ch. 549 2(8) +9,381,458
+Long Term Care Ombudsman:
+General program and services
+provided to care facility
+residents
+General Fund Ch. 615 1(1) +267,835
+Public guardian and
+conservator program
+General Fund Ch. 615 1(2) +268,262
+Other funds Ch. 615 2 +36,897
+Psychiatric Security Review
+Board:
+General Fund Ch. 456 1 +172,490
+SECTION 329. Judicial Branch.  Notwithstanding any other provision of law, the author-
+ized appropriations and expenditure limitations for the biennium ending June 30, 2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Judicial Department:
+Judicial compensation
+General Fund Ch. 522 1(1) +3,955,133
+Operations
+General Fund Ch. 522 1(2) +33,976,049
+Other funds Ch. 522 2(1) +843,119
+Mandated payments
+General Fund Ch. 522 1(3) +426,356
+Other funds Ch. 522 2(2) +7,872
+State Court Facilities and
+Security Account
+General Fund Ch. 522 1(7) +31,231
+Other funds Ch. 522 2(3) +73,300
+State Court Technology Fund
+Other funds Ch. 522 2(4) +764,461
+Federal funds Ch. 522 3 +240,043
+Commission on Judicial
+Fitness and Disability:
+Administration
+Enrolled House Bill 5204 (HB 5204-A) Page 55
+General Fund Ch. 398 1(1) +33,004
+SECTION 330. Legislative Branch.  Notwithstanding any other provision of law, the  au-
+thorized appropriations and expenditure limitations for the biennium ending June 30, 2027,
+for the following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Commission on Indian Services:
+General Fund Ch. 586 17 +65,120
+Legislative Administration
+Committee:
+General program
+General Fund Ch. 586 1(1) +1,157,870
+Other funds Ch. 586 2 +1,199
+Legislative Assembly:
+General Fund Ch. 586 6 +792,929
+Eighty-third Legislative
+Assembly of the State of
+Oregon
+General Fund Ch. 586 7(1) +1,538,941
+Eighty-fourth Legislative
+Assembly of the State of
+Oregon
+General Fund Ch. 586 7(2) +548,277
+Legislative Counsel Committee:
+General Fund Ch. 586 11 +838,749
+Other funds Ch. 586 12 +122,307
+Legislative Equity Office:
+General Fund Ch. 586 8 +27,147
+Legislative Fiscal Officer:
+General Fund Ch. 586 14(1) +343,062
+Other funds Ch. 586 14(2) +210,485
+Legislative Policy and
+Research Committee:
+General Fund Ch. 586 15 +973,516
+Legislative Revenue Officer:
+General Fund Ch. 586 16 +205,851
+SECTION 331. Natural Resources.  Notwithstanding any other provision of law, the au-
+thorized appropriations and expenditure limitations for the biennium ending June 30, 2027,
+for the following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Enrolled House Bill 5204 (HB 5204-A) Page 56
+Chapter/ $
+Agency/Program/Funds Section Adjustment
+State Department of
+Agriculture:
+Administrative and support
+services
+General Fund Ch. 419 1(1) +146,266
+Other funds Ch. 419 2(1) +481,717
+Food safety
+General Fund Ch. 419 1(2) +438,606
+Other funds Ch. 419 2(2) +1,077,439
+Federal funds Ch. 419 4(1) +12,321
+Natural resources
+General Fund Ch. 419 1(3) +431,452
+Other funds Ch. 419 2(3) +928,353
+Federal funds Ch. 419 4(2) +217,807
+Market access
+General Fund Ch. 419 1(4) +94,637
+Other funds Ch. 419 2(4) +837,186
+Federal funds Ch. 419 4(3) +113,220
+Parks and Natural Resources
+Fund
+Lottery funds Ch. 419 3 +363,130
+Columbia River Gorge
+Commission:
+General Fund Ch. 334 1 +455
+State Department of Energy:
+Energy planning and innovation
+General Fund Ch. 424 1(1) +152,860
+Energy development services
+General Fund Ch. 424 1(2) +75,636
+Nuclear safety and emergency
+response
+General Fund Ch. 424 1(3) +6,940
+Administrative services
+General Fund Ch. 424 1(4) +37,868
+Other funds Ch. 424 2 +1,255,279
+Federal funds Ch. 424 3 +249,879
+Department of Environmental
+Quality:
+Air quality
+General Fund Ch. 426 1(1) +983,699
+Other funds Ch. 426 2(1) +2,701,928
+Federal funds Ch. 426 5(1) +421,639
+Water quality
+General Fund Ch. 426 1(2) +2,357,975
+Other funds Ch. 426 2(2) +1,344,319
+Federal funds Ch. 426 5(2) +356,999
+Land quality
+General Fund Ch. 426 1(3) +77,136
+Other funds Ch. 426 2(3) +2,801,781
+Enrolled House Bill 5204 (HB 5204-A) Page 57
+Federal funds Ch. 426 5(3) +329,485
+Agency management
+General Fund Ch. 426 1(4) +67,820
+Other funds Ch. 426 2(4) +1,374,739
+Lottery funds Ch. 426 3 +226,569
+Department of Fish and
+Wildlife:
+Fish Division
+General Fund Ch. 520 1(1) +1,010,120
+Other funds Ch. 520 2(1) +2,680,447
+Lottery funds Ch. 520 3(1) +225,665
+Federal funds Ch. 520 5(1) +3,710,568
+Wildlife Division
+General Fund Ch. 520 1(2) +271,608
+Other funds Ch. 520 2(2) +1,355,986
+Lottery funds Ch. 520 3(2) +44,846
+Federal funds Ch. 520 5(2) +920,584
+Administrative Services
+Division
+General Fund Ch. 520 1(3) +53,748
+Other funds Ch. 520 2(3) +1,452,078
+Federal funds Ch. 520 5(3) +237,014
+Habitat Division
+General Fund Ch. 520 1(7) +488,631
+Other funds Ch. 520 2(7) +292,212
+Federal funds Ch. 520 5(5) +366,298
+Capital improvement
+Other funds Ch. 520 2(4) +37,738
+State Forestry Department:
+Agency administration
+General Fund Ch. 609 1(1) +65,880
+Other funds Ch. 609 2(1) +1,695,680
+Federal funds Ch. 609 4(1) +72,029
+Fire protection
+General Fund Ch. 609 1(2) +2,584,388
+Other funds Ch. 609 2(2) +3,947,111
+Federal funds Ch. 609 4(2) +332,175
+Forest resources
+General Fund Ch. 609 1(3) +2,272,099
+Other funds Ch. 609 2(4) +831,971
+Federal funds Ch. 609 4(4) +627,940
+State forests
+Other funds Ch. 609 2(3) +2,550,516
+Equipment pool
+Other funds Ch. 609 2(7) +384,168
+State Department of Geology
+and Mineral Industries:
+Geologic survey
+General Fund Ch. 521 1(1) +231,331
+Other funds Ch. 521 2(1) +96,101
+Mined land reclamation
+General Fund Ch. 521 1(2) +13,767
+Enrolled House Bill 5204 (HB 5204-A) Page 58
+Other funds Ch. 521 2(2) +311,190
+Federal funds Ch. 521 3 +106,052
+Department of Land
+Conservation and
+Development:
+Planning program
+General Fund Ch. 551 1(1) +1,213,237
+Other funds Ch. 551 2(1) +201,631
+Federal funds Ch. 551 3 +219,576
+Land Use Board of Appeals:
+General Fund Ch. 428 1 +122,989
+Department of State Lands:
+Wetland mitigation and
+land use permitting
+General Fund Ch. 628 15 +25,087
+Common School Fund programs
+Other funds Ch. 338 1(1) +1,465,293
+South Slough National
+Estuarine Research Reserve
+operations
+Other funds Ch. 338 1(2) +127,959
+Federal funds Ch. 338 7(1) +103,754
+Elliott State Research Forest
+Other funds Ch. 338 1(3) +122,254
+Oregon Removal-Fill Mitigation
+Fund established by
+ORS 196.640
+Other funds Ch. 338 4 +4,872
+Oregon Abandoned and Derelict
+Vessel Fund established by
+ORS 274.371
+Other funds Ch. 338 6 +61,347
+State Marine Board:
+Administration and education
+Other funds Ch. 363 1(1) +318,759
+Marine law enforcement
+Other funds Ch. 363 1(2) +112,352
+Facilities construction
+and maintenance
+Other funds Ch. 363 1(3) +104,314
+Federal funds Ch. 363 2(3) +13,422
+Aquatic invasive species
+Other funds Ch. 363 1(4) +17,223
+State Parks and Recreation
+Department:
+Director’s office
+Other funds Ch. 524 2(1) +9,105
+Lottery funds Ch. 524 3(1) +44,192
+Central services
+Other funds Ch. 524 2(2) +493,867
+Lottery funds Ch. 524 3(2) +485,343
+Direct services
+Enrolled House Bill 5204 (HB 5204-A) Page 59
+Other funds Ch. 524 2(4) +3,049,463
+Lottery funds Ch. 524 3(4) +2,967,919
+Federal funds Ch. 524 5(2) +9,979
+Community support and grants
+Other funds Ch. 524 2(5) +88,429
+Lottery funds Ch. 524 3(5) +233,010
+Federal funds Ch. 524 5(3) +46,710
+Water Resources Department:
+Administrative services
+General Fund Ch. 611 1(1) +561,183
+Other funds Ch. 611 3(1) +79,355
+Field services
+General Fund Ch. 611 1(2) +1,019,271
+Other funds Ch. 611 3(2) +136,551
+Water rights and adjudications
+General Fund Ch. 611 1(3) +320,708
+Other funds Ch. 611 3(3) +151,454
+Technical services
+General Fund Ch. 611 1(4) +716,011
+Other funds Ch. 611 3(4) +159,900
+Federal funds Ch. 611 4(4) +14,169
+Director’s office
+General Fund Ch. 611 1(5) +446,275
+Oregon Watershed Enhancement
+Board:
+Operations
+General Fund Ch. 527 1(1) +26,915
+Other funds Ch. 527 8(1) +186,563
+Federal funds Ch. 527 9(1) +136,980
+For operating expenses,
+activities and projects
+Lottery funds Ch. 527 6 +337,730
+SECTION 332. Public Safety. Notwithstanding any other provision of law, the authorized
+appropriations and expenditure limitations for the biennium ending June 30,  2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Department of Corrections:
+Operations and health services
+General Fund Ch. 583 1(1) +53,349,053
+Other funds Ch. 583 2(1) +215,246
+Central administration and
+administrative services
+General Fund Ch. 583 1(2) +4,993,036
+Enrolled House Bill 5204 (HB 5204-A) Page 60
+Other funds Ch. 583 2(2) +695,991
+Correctional services
+General Fund Ch. 583 1(3) +5,038,382
+Community corrections
+General Fund Ch. 583 1(4) +690,569
+Oregon Criminal Justice
+Commission:
+General Fund Ch. 518 1 +455,687
+Other funds Ch. 518 3 +8,603
+Federal funds Ch. 518 4 +59,626
+Department of the State Fire
+Marshal:
+Office of the State Fire
+Marshal
+General Fund Ch. 554 1(1) +84,349
+Business services
+General Fund Ch. 554 1(2) +473,030
+Emergency response
+General Fund Ch. 554 1(3) +162,864
+Fire and life safety
+services
+General Fund Ch. 554 1(4) +189,425
+Fire and life safety
+education
+General Fund Ch. 554 1(5) +209,226
+Office of the State Fire
+Marshal, business services,
+emergency response, fire and
+life safety services, fire
+and life safety education
+Other funds Ch. 554 2(1) +691,884
+Regulatory services
+Other funds Ch. 554 2(2) +309,283
+District Attorneys:
+For the payment of expenses
+of district attorneys
+General Fund Ch. 421 1 +434,362
+Department of Justice:
+Office of the Attorney General
+and Administration
+General Fund Ch. 523 1(1) +90,359
+Other funds Ch. 523 2(1) +2,294,827
+Criminal Justice Division
+General Fund Ch. 523 1(3) +1,405,195
+Other funds Ch. 523 2(5) +215,369
+Federal funds Ch. 523 3(2) +22,569
+Crime Victim and Survivor
+Services Division
+General Fund Ch. 523 1(4) +450,298
+Other funds Ch. 523 2(6) +109,996
+Federal funds Ch. 523 3(3) +198,351
+Division of Child Support
+Enrolled House Bill 5204 (HB 5204-A) Page 61
+General Fund Ch. 523 1(6) +1,811,446
+Other funds Ch. 523 2(9) +384,362
+Federal funds Ch. 523 3(4) +4,273,334
+Appellate Division
+Other funds Ch. 523 2(2) +1,288,575
+Civil Enforcement Division
+Other funds Ch. 523 2(3) +2,380,760
+Federal funds Ch. 523 3(1) +301,602
+Child Advocacy Division
+Other funds Ch. 523 2(4) +4,139,663
+General Counsel Division
+Other funds Ch. 523 2(7) +3,613,146
+Trial Division
+Other funds Ch. 523 2(8) +3,154,438
+Oregon Military Department:
+Administration
+General Fund Ch. 429 1(1) +445,813
+Other funds Ch. 429 2(1) +145,907
+Operations
+General Fund Ch. 429 1(2) +208,063
+Other funds Ch. 429 2(2) +313,225
+Federal funds Ch. 429 3(1) +3,512,769
+Community support
+Other funds Ch. 429 2(3) +205,094
+Federal funds Ch. 429 3(2) +841,486
+Oregon Department of
+Emergency Management:
+Administration
+General Fund Ch. 423 1(1) +608,233
+Other funds Ch. 423 2(1) +50,770
+Federal funds Ch. 423 3(1) +30,916
+Preparedness and Response
+General Fund Ch. 423 1(2) +175,316
+Other funds Ch. 423 2(3) +58,805
+Federal funds Ch. 423 3(2) +251,438
+Mitigation and Recovery
+General Fund Ch. 423 1(3) +121,631
+Federal funds Ch. 423 3(3) +339,970
+9-1-1 Emergency Program
+Other funds Ch. 423 2(2) +99,435
+State Board of Parole and
+Post-Prison Supervision:
+General Fund Ch. 402 1 +634,946
+Department of State Police:
+Patrol and Public Safety
+Services, Criminal Investigation
+and Gaming Enforcement
+General Fund Ch. 455 1(1) +10,697,968
+Other funds Ch. 455 2(1) +1,240,128
+Fish and Wildlife
+General Fund Ch. 455 1(2) +454,451
+Other funds Ch. 455 2(2) +1,023,534
+Enrolled House Bill 5204 (HB 5204-A) Page 62
+Federal funds Ch. 455 3(2) +61,020
+Forensic Services and Office
+of the Chief Medical Examiner
+General Fund Ch. 455 1(3) +2,712,818
+Other funds Ch. 455 2(3) +16,730
+Office of the Superintendent,
+Support Services and Criminal
+Justice Info Services
+General Fund Ch. 455 1(4) +1,899,486
+Other funds Ch. 455 2(4) +1,063,337
+Lottery funds Ch. 455 4 +397,235
+Patrol and Public Safety
+Services and Criminal
+Investigation
+Federal funds Ch. 455 3(1) -242
+Forensic Services
+Federal funds Ch. 455 3(3) -365
+Oregon Public Defense
+Commission:
+Executive Division
+General Fund Ch. 588 1(1) +154,085
+Administrative Services
+Division: Administrative
+services
+General Fund Ch. 588
+1(10)(a) +906,099
+Compliance, Audit and
+Performance Division
+General Fund Ch. 588 1(2) +386,710
+Appellate Division
+General Fund Ch. 588 1(3) +1,449,959
+Trial Representation Division
+General Fund Ch. 588 1(8) +739,183
+Financial Case Management
+System
+Other funds Ch. 628 41 +127,903
+Department of Public Safety
+Standards and Training:
+Operations
+Other funds Ch. 403 2(1) +2,771,055
+Federal funds Ch. 403 3 +21,519
+Oregon Youth Authority:
+Facility programs
+General Fund Ch. 459 1(1) +8,776,939
+Other funds Ch. 459 2(1) +33,997
+Community programs
+General Fund Ch. 459 1(2) +1,521,407
+Federal funds Ch. 459 3(1) +236,805
+Program support
+General Fund Ch. 459 1(3) +2,036,060
+Other funds Ch. 459 2(3) +78,460
+Federal funds Ch. 459 3(2) +62,942
+Enrolled House Bill 5204 (HB 5204-A) Page 63
+SECTION 333. Transportation. Notwithstanding any  other provision of law, the author-
+ized appropriations and expenditure limitations for the biennium ending June 30, 2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Oregon Department of
+Aviation:
+Operations
+Other funds Ch. 332 1(1) +161,356
+Federal funds Ch. 332 2(1) +19,639
+Aircraft registration
+Other funds Ch. 332 1(2) +14,165
+Pavement maintenance
+Other funds Ch. 332 1(3) +15,082
+Department of Transportation:
+Project delivery and support
+General Fund Ch. 634 1(2) +9,378
+Other funds Ch. 634 2(3) +17,649,213
+Driver and motor vehicle
+services
+General Fund Ch. 634 1(3) +9,022
+Other funds Ch. 634 2(6) +9,245,138
+Federal funds Ch. 634 3(1) +121,157
+Public transportation
+Other funds Ch. 634 2(10) +701,274
+Department of Transportation
+administrative services
+Other funds Ch. 634 2(11) +5,993,158
+Finance and budget
+Other funds Ch. 634 2(12) +75,541
+Maintenance
+Other funds Ch. 634 2(2) +13,860,282
+Interstate bridge replacement
+Other funds Ch. 634 2(4) +519,673
+Local government program
+Other funds Ch. 634 2(5) +648,165
+State Board of Towing
+Other funds Ch. 634 2(7) +1,700
+Commerce and compliance
+Other funds Ch. 634 2(8) +3,517,472
+Federal funds Ch. 634 3(2) +85,467
+Policy, data and analysis
+Other funds Ch. 634 2(9) +2,692,641
+Federal funds Ch. 634 3(3) +7,674
+Enrolled House Bill 5204 (HB 5204-A) Page 64
+STATEWIDE REDUCTIONS
+SECTION 334. Administration. Notwithstanding any other provision of law, the author-
+ized appropriations and expenditure limitations for the biennium ending June 30, 2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Oregon Department of
+Administrative Services:
+For start-up costs associated
+with implementing sections
+1 to 11, chapter 481, Oregon
+Laws 2025
+General Fund Ch. 481 13 -42,983
+To expend for the purposes
+described in section 1,
+chapter 596, Oregon Laws
+2025
+General Fund Ch. 596 3 -11,458
+Oregon Advocacy Commissions
+Office:
+General Fund Ch. 372 1 -177,062
+Oregon Liquor and Cannabis
+Commission:
+Distilled spirits, public
+safety, administration and
+agency support
+Other funds Ch. 400 1(1) -266,000
+Department of Revenue:
+Administration
+General Fund Ch. 553
+1(1) -1,145,178
+Other funds Ch. 553 2(1) -508,112
+Information Technology
+Services Division
+General Fund Ch. 553 1(6) -61,272
+Other funds Ch. 553 2(7) -19,008
+SECTION 335. Consumer and Business Services.  Notwithstanding any other provision of
+law, the authorized appropriations and expenditure limitations for  the biennium ending June
+30, 2027, for the following agencies and programs are changed by the amounts specified:
+2025
+Enrolled House Bill 5204 (HB 5204-A) Page 65
+Oregon Laws
+Chapter/ $
+Agency/Program/Funds Section Adjustment
+Department of Consumer and
+Business Services:
+New permitting-related
+requirements under chapter
+486, Oregon Laws 2025
+General Fund Ch. 628 205 -31,569
+SECTION 336. Economic Development.  Notwithstanding any other provision of law, the
+authorized appropriations and expenditure limitations for the biennium ending June 30, 2027,
+for the following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Oregon Business Development
+Department:
+Operations
+Other funds Ch. 616 8(1) -5,211
+Lottery funds Ch. 616 11(1) -60,383
+Business, innovation and trade
+Lottery funds Ch. 616 11(2) -3,756
+Infrastructure
+Lottery funds Ch. 616 11(3) -73,074
+Housing and Community
+Services Department:
+Housing Stabilization Programs
+General Fund Ch. 584 1(1) -262,224
+Federal funds Ch. 584 4(1) -29,553
+Central Services
+General Fund Ch. 584 1(6) -579,697
+Other funds Ch. 584 2(6) -239,532
+Federal funds Ch. 584 4(6) -27,535
+For Multifamily Rental Housing
+Programs, for deposit into the
+General Housing Account created
+under ORS 458.620, to be expended
+for community housing supporting
+agricultural employees
+General Fund Ch. 584 6 -2,000,000
+Department of Veterans’ Affairs:
+Appeals and special advocacy
+General Fund Ch. 526 1(2) -27,000
+Aging veteran services
+Lottery funds Ch. 526 2(4) -23,000
+Enrolled House Bill 5204 (HB 5204-A) Page 66
+SECTION 337. Education. Notwithstanding any  other provision of law, the authorized
+appropriations and expenditure limitations for the biennium ending June 30,  2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Department of Early Learning
+and Care:
+Operations
+General Fund Ch. 607 1(1) -1,111,000
+Department of Education:
+Operations
+General Fund Ch. 608 1(1) -2,939,067
+SECTION 338. Human Services.  Notwithstanding any  other provision of law, the author-
+ized appropriations and expenditure limitations for the biennium ending June 30, 2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Oregon Health Authority:
+For the purpose of carrying
+out the provisions of section
+1, chapter 470, Oregon Laws
+2025
+General Fund Ch. 470 2 -85,903
+Medicaid
+General Fund Ch. 587 1(1) -3,296,549
+Other funds Ch. 587 2(1) -53,381
+Federal funds Ch. 587 5(1) -3,180,661
+Behavioral health
+General Fund Ch. 587 1(2) -2,222,364
+Other funds Ch. 587 2(2) -168,333
+Lottery funds Ch. 587 3(2) -182,835
+Federal funds Ch. 587 5(2) -499,800
+Health policy and analytics
+General Fund Ch. 587 1(3) -1,675,123
+Other funds Ch. 587 2(3) -3,506
+Lottery funds Ch. 587 3(3) -1,411
+Federal funds Ch. 587 5(3) -887,852
+Public health
+Enrolled House Bill 5204 (HB 5204-A) Page 67
+General Fund Ch. 587 1(4) -4,008,243
+Other funds Ch. 587 2(5) -53,650
+Federal funds Ch. 587 5(4) -451,437
+Central services
+General Fund Ch. 587 1(6) -2,076,684
+Other funds Ch. 587 2(8) -104,477
+Lottery funds Ch. 587 3(4) -11,451
+Federal funds Ch. 587 5(6) -543,425
+State assessments and
+enterprise-wide costs
+General Fund Ch. 587 1(7) -4,114,749
+Other funds Ch. 587 2(9) -736,709
+Lottery funds Ch. 587 3(5) -9,149
+Federal funds Ch. 587 5(7) -1,610,818
+Shared administrative services
+Other funds Ch. 587
+2(10) -2,468,309
+Veterans dental services
+Lottery funds Ch. 587 4(2) -1,003
+Department of Human Services:
+Central services
+General Fund Ch. 549 1(1) -549,031
+Other funds Ch. 549 2(1) -18,767
+Self-sufficiency programs
+General Fund Ch. 549 1(3) -699,330
+Other funds Ch. 549 2(3) -771
+Federal funds Ch. 549 3(3) -775,600
+Vocational rehabilitation
+services
+General Fund Ch. 549 1(4) -80,594
+Other funds Ch. 549 2(4) -1,374
+Federal funds Ch. 549 3(4) -254,263
+Child welfare programs
+General Fund Ch. 549 1(5) -5,981,825
+Federal funds Ch. 549 3(5) -2,249,624
+Aging and people with
+disabilities programs
+General Fund Ch. 549
+1(6) -20,143,792
+Other funds Ch. 549 2(6) -200,106
+Federal funds Ch. 549
+3(6) -39,857,500
+Intellectual/developmental
+disabilities programs
+General Fund Ch. 549 1(7) -6,104,545
+Federal funds Ch. 549 3(7) -2,500,049
+Oregon Eligibility Partnership
+General Fund Ch. 549 1(8) -905,424
+Other funds Ch. 549 2(9) -5,882
+Federal funds Ch. 549 3(8) -810,453
+Shared services
+Enrolled House Bill 5204 (HB 5204-A) Page 68
+Other funds Ch. 549 2(8) -517,020
+Central services
+Federal funds Ch. 549 3(1) -376,695
+SECTION 339. Judicial Branch.  Notwithstanding any other provision of law, the author-
+ized appropriations and expenditure limitations for the biennium ending June 30, 2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Judicial Department:
+Third-party debt collection
+General Fund Ch. 522 1(6) -3,000,000
+Commission on Judicial
+Fitness and Disability:
+Administration
+General Fund Ch. 398 1(1) -10,912
+SECTION 340. Legislative Branch.  Notwithstanding any other provision of law, the au-
+thorized appropriations and expenditure limitations for the biennium ending June 30,  2027,
+for the following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Commission on Indian Services:
+General Fund Ch. 586 17 -13,710
+Legislative Administration
+Committee:
+General program
+General Fund Ch. 586 1(1) -2,514,664
+Legislative Counsel Committee:
+General Fund Ch. 586 11 -729,974
+Legislative Assembly:
+General Fund Ch. 586 6 -3,027,604
+Eighty-third Legislative
+Assembly of the State of Oregon
+General Fund Ch. 586 7(1) -63,750
+Eighty-fourth Legislative
+Assembly of the State of Oregon
+General Fund Ch. 586 7(2) -1,377,012
+Legislative Equity Office:
+Enrolled House Bill 5204 (HB 5204-A) Page 69
+General Fund Ch. 586 8 -767,320
+Legislative Fiscal Officer:
+General Fund Ch. 586 14(1) -344,314
+Legislative Policy and
+Research Committee
+General Fund Ch. 586 15 -1,202,908
+Legislative Revenue Officer:
+General Fund Ch. 586 16 -237,066
+SECTION 341. Natural Resources.  Notwithstanding any other provision of law, the au-
+thorized appropriations and expenditure limitations for the biennium ending June 30, 2027,
+for the following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+State Department of
+Agriculture:
+Administrative and support
+services
+General Fund Ch. 419 1(1) -236,014
+State Department of Energy:
+Energy development services
+General Fund Ch. 424 1(2) -1,200,000
+Department of Environmental
+Quality:
+Water quality
+General Fund Ch. 426 1(2) -162,000
+Agency management
+General Fund Ch. 426 1(4) -695,445
+State Department of
+Fish and Wildlife:
+Fish Division
+General Fund Ch. 520 1(1) -79,853
+Wildlife Division
+General Fund Ch. 520 1(2) -66,820
+Administrative Services
+Division
+General Fund Ch. 520 1(3) -13,326
+State Department of Geology
+and Mineral Industries:
+Geologic survey
+General Fund Ch. 521 1(1) -109,744
+Department of Land
+Conservation and
+Development:
+Planning program
+General Fund Ch. 551 1(1) -540,539
+Enrolled House Bill 5204 (HB 5204-A) Page 70
+Other funds Ch. 551 2(1) -162,157
+Department of State Lands:
+Common School Fund
+programs
+Other funds Ch. 338 1(1) +221,288
+Wetland mitigation and
+land use permitting
+General Fund Ch. 628 15 -221,288
+State Parks and Recreation
+Department:
+Director’s office
+Lottery funds Ch. 524 3(1) -310,760
+Central services
+Other funds Ch. 524 2(2) -78,889
+Lottery funds Ch. 524 3(2) -78,149
+Parks development
+Lottery funds Ch. 524 3(3) -2,973,814
+Direct services
+Other funds Ch. 524 2(4) -372,996
+Lottery funds Ch. 524 3(4) -363,432
+Community support
+and grants
+Lottery funds Ch. 524 3(5) -1,242,052
+Water Resources Department:
+Administrative services
+General Fund Ch. 611 1(1) -56,000
+Field services
+General Fund Ch. 611 1(2) -123,000
+Technical services
+General Fund Ch. 611 1(4) -100,486
+Director’s office
+General Fund Ch. 611 1(5) -16,000
+SECTION 342. Public Safety. Notwithstanding any other provision of law, the authorized
+appropriations and expenditure limitations for the biennium ending June 30,  2027, for the
+following agencies and programs are changed by the amounts specified:
+2025
+Oregon Laws
+Chapter/ $ 
+Agency/Program/Funds Section Adjustment
+Department of Corrections:
+Operations and health services
+General Fund Ch. 583 1(1) -2,210,796
+Central administration and
+administrative services
+General Fund Ch. 583 1(2) -603,086
+Correctional services
+Enrolled House Bill 5204 (HB 5204-A) Page 71
+General Fund Ch. 583 1(3) -192,284
+Community corrections
+General Fund Ch. 583 1(4) -34,834
+Oregon Criminal Justice
+Commission:
+General Fund Ch. 518 1 -137,667
+Department of the State Fire
+Marshal:
+Business services
+General Fund Ch. 554 1(2) -204,152
+Department of Justice:
+Office of the Attorney
+General and Administration
+General Fund Ch. 523 1(1) -2,216,390
+Oregon Military Department:
+Administration
+General Fund Ch. 429 1(1) -11,000
+Oregon Department of
+Emergency Management:
+Administration
+General Fund Ch. 423 1(1) -129,981
+Federal funds Ch. 423 3(1) +129,981
+State Board of Parole and
+Post-Prison Supervision:
+General Fund Ch. 402 1 -32,288
+Oregon Public Defense
+Commission:
+Executive Division
+General Fund Ch. 588 1(1) -50,000
+Special Programs, Contracts
+and Distributions Division:
+Law schools
+General Fund Ch. 588
+1(11)(c) -321,412
+Compliance, Audit and
+Performance Division
+General Fund Ch. 588 1(2) -612,415
+Trial Representation Division
+General Fund Ch. 588 1(8) -313,000
+Oregon Youth Authority:
+Facility programs
+General Fund Ch. 459 1(1) -818,743
+Community programs
+General Fund Ch. 459 1(2) -3,122,956
+Program support
+General Fund Ch. 459 1(3) -338,176
+CAPTIONS
+Enrolled House Bill 5204 (HB 5204-A) Page 72
+SECTION 343. The unit and section captions used in this 2026 Act are provided only for
+the convenience of the reader and do not become part of the statutory law  of this state or
+express any legislative intent in the enactment of this 2026 Act.
+EMERGENCY CLAUSE
+SECTION 344. This 2026 Act being necessary for  the immediate preservation of the public
+peace, health and safety, an emergency  is declared to exist, and this 2026 Act takes effect
+on its passage.
+Passed by House March 6, 2026
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate March 6, 2026
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 5204 (HB 5204-A) Page 73
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 147.453, ORS 180.095, ORS 196.567, ORS 196.640, ORS 197A.820, ORS 274.371, ORS 285A.167, ORS 285A.188, ORS 285A.198, ORS 285A.213, ORS 285A.708, ORS 285B.046, ORS 285B.092, ORS 285B.133, ORS 285B.215, ORS 285B.426, ORS 285B.455, ORS 285B.563, ORS 285B.758, ORS 286A.806, ORS 293.195, ORS 327.001, ORS 327.175, ORS 332.337, ORS 418.801, ORS 458.620, ORS 610.155, ORS 654.086, ORS 777.267
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-28, sha256 `6756a51c2b27b7c21641afbee357976cf67e507bd0840b7ce2030ec4114001b5` (snapshot `_meta/snapshots/measure-2026r1-hb5204-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB5204/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `bb99534ef76866c1c5c7365faa178476bd9f284cc59377a5f3508a4af74d8b3f` (snapshot `_meta/snapshots/measure-2026r1-hb5204-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB5204/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 5204` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,496 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2017r1-hb3269
+title: 'HB 3269 (2017R1): Changes name of Oregon Global Warming Commission to Oregon Climate Change Commission.'
+doc_type: dataset_doc
+citation: 2017 Regular Session House Bill 3269
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB3269/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 0ad8936ef2b061e09c1766d7a25593c7f4f5ba5048a9dda30638496abbd65871
+snapshot_id: measure-2017r1-hb3269-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 171.072
+  - ORS 174.111
+  - ORS 174.112
+  - ORS 192.245
+  - ORS 292.495
+  - ORS 352.002
+  - ORS 352.823
+  - ORS 468A.200
+  - ORS 468A.205
+  - ORS 468A.210
+  - ORS 468A.215
+  - ORS 468A.220
+  - ORS 468A.225
+  - ORS 468A.230
+  - ORS 468A.235
+  - ORS 468A.240
+  - ORS 468A.245
+  - ORS 468A.250
+  - ORS 468A.255
+  - ORS 468A.260
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2017r1
+- hb
+session_key: 2017R1
+measure_prefix: HB
+measure_number: 3269
+prefix_meaning: House Bill
+catch_line: Changes name of Oregon Global Warming Commission to Oregon Climate Change Commission.
+minority_catch_line: null
+measure_summary: "\tChanges name of Oregon Global Warming Commission to Oregon Climate Change Commission.\
+  \ \n\tRequires commission to appoint executive director. Appropriates moneys to commission for purposes\
+  \ related to executive director of commission. \n\tModifies certain duties of commission and of certain\
+  \ nonvoting members of commission. Modifies certain duties of certain agencies of state government with\
+  \ regard to duties of commission.\t."
+relating_to: Relating to the Oregon Global Warming Commission.
+relating_to_full: Relating to the Oregon Global Warming Commission; creating new provisions; and amending
+  ORS 352.823, 468A.200, 468A.205, 468A.210, 468A.215, 468A.220, 468A.225, 468A.230, 468A.235, 468A.240,
+  468A.245, 468A.250, 468A.255 and 468A.260.
+at_the_request_of: null
+lc_number: 458
+measure_created_date: '2017-02-28T15:40:14'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 25560
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 171.072
+  - ORS 174.111
+  - ORS 174.112
+  - ORS 192.245
+  - ORS 292.495
+  - ORS 352.002
+  - ORS 352.823
+  - ORS 468A.200
+  - ORS 468A.205
+  - ORS 468A.210
+  - ORS 468A.215
+  - ORS 468A.220
+  - ORS 468A.225
+  - ORS 468A.230
+  - ORS 468A.235
+  - ORS 468A.240
+  - ORS 468A.245
+  - ORS 468A.250
+  - ORS 468A.255
+  - ORS 468A.260
+  from_relating_to_full:
+  - ORS 352.823
+  - ORS 468A.200
+  - ORS 468A.205
+  - ORS 468A.210
+  - ORS 468A.215
+  - ORS 468A.220
+  - ORS 468A.225
+  - ORS 468A.230
+  - ORS 468A.235
+  - ORS 468A.240
+  - ORS 468A.245
+  - ORS 468A.250
+  - ORS 468A.255
+  - ORS 468A.260
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3269`.
+
+# HB 3269 — 2017 Regular Session (2017R1)
+
+## At a glance
+
+- **Measure:** House Bill 3269, 2017 Regular Session (2017R1)
+- **LC number:** 458
+- **Created:** 2017-02-28T15:40:14
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 25560 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB3269/Introduced>.
+
+## Summary
+
+**Catchline:** Changes name of Oregon Global Warming Commission to Oregon Climate Change Commission.
+
+**Relating to:** Relating to the Oregon Global Warming Commission.
+
+Changes name of Oregon Global Warming Commission to Oregon Climate Change Commission. 
+ Requires commission to appoint executive director. Appropriates moneys to commission for purposes related to executive director of commission. 
+ Modifies certain duties of commission and of certain nonvoting members of commission. Modifies certain duties of certain agencies of state government with regard to duties of commission. .
+
+**RelatingToFull (verbatim upstream field):** Relating to the Oregon Global Warming Commission; creating new provisions; and amending ORS 352.823, 468A.200, 468A.205, 468A.210, 468A.215, 468A.220, 468A.225, 468A.230, 468A.235, 468A.240, 468A.245, 468A.250, 468A.255 and 468A.260.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 3269
+Sponsored by Representatives POWER, HELM, Senator TAYLOR; Representatives LININGER,  LIVELY, MARSH,
+Senators DEMBROW, DEVLIN, PROZANSKI
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Changes name of Oregon Global Warming Commission to Oregon Climate Change Commission.
+Requires commission to appoint executive director. Appropriates moneys to  commission for
+purposes related to executive director of commission.
+Modifies certain duties of  commission and of certain nonvoting members of commission. Modifies
+certain duties of certain agencies of state government with regard to duties of commission. 
+A BILL FOR AN ACT
+Relating to the Oregon Global Warming Commission; creating new provisions;  and amending ORS
+352.823, 468A.200, 468A.205, 468A.210, 468A.215,  468A.220, 468A.225, 468A.230, 468A.235,
+468A.240, 468A.245, 468A.250, 468A.255 and 468A.260.
+Whereas changing the name of the Oregon Global Warming Commission to  the Oregon Climate
+Change Commission provides for  a more accurate and complete description of the commission’s
+mission; and
+Whereas appointing an executive director  to the Oregon Climate Change Commission will allow
+for the commission to be more effective in carrying out  the commission’s statutory responsibilities
+and in providing guidance to the State of Oregon in addressing climate change; and
+Whereas addressing climate change will involve both  reducing greenhouse gas emissions and
+undertaking adaptation and preparation activities; now, therefore:
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2017 Act is added to and made a part of ORS 468A.200 to
+468A.260.
+SECTION 2. (1) The Oregon Climate Change Commission  shall appoint an executive di-
+rector, who shall be in the exempt service and shall serve at the pleasure  of the commission.
+(2) The executive  director shall be responsible for the administrative operations of the
+commission and other duties as  may be designated or assigned to the executive director from
+time to time by the commission.
+(3) The commission may not delegate the power to adopt rules to the  executive director.
+(4) Subject  to the State Personnel Relations Law, the executive director may employ ap-
+propriate staff to carry out the duties assigned to  the executive director by the commission.
+SECTION 3. (1) Except as otherwise amended by sections 7 to 16 of this 2017 Act, the
+amendments to  ORS 352.823, 468A.215, 468A.220, 468A.225, 468A.230, 468A.235, 468A.240,
+468A.245, 468A.250, 468A.255 and 468A.260 by sections 7 to 16 of this 2017 Act are intended  to
+change the name of the “Oregon Global Warming  Commission” to the “Oregon Climate
+Change Commission.”
+(2) For the purpose of  harmonizing and clarifying statutory law, the Legislative Counsel
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 458
+may substitute for words designating the “Oregon Global  Warming Commission,” wherever
+they occur in statutory law, other words designating the “Oregon Climate Change  Commis-
+sion.”
+SECTION 4.  ORS 468A.200 is amended to read:
+468A.200. The Legislative Assembly finds that:
+(1) In December  2004 the Governor’s Advisory Group on Global Warming issued its report call-
+ing for immediate and significant action to address [ global warming ] climate change , to  reduce
+Oregon’s exposure to the risks of [ global warming ] climate change and to begin to prepare for  the
+effects of [ global warming ] climate change . The  advisory group also identified 46 specific recom-
+mendations for measurable reductions in the state’s greenhouse gas emissions.
+(2) In partnership with the Governor’s advisory group, 50 scientists signed the “Scientific Con-
+sensus Statement on the Likely Impacts of Climate Change on the Pacific Northwest,” which exam-
+ined the  potential effects of climate change on temperature, precipitation, sea level, marine
+ecosystems  and  terrestrial ecosystems. The scientists recommended additional, improved scientific
+studies and modeling of the effects  of climate change on the atmosphere, oceans and land, as well
+as modeling of the effects of economic and management policies.
+(3) [Global warming ] Climate change poses a serious  threat to the economic well-being, public
+health, natural resources and environment of Oregon.
+(4) Oregon relies on snowpack for summer stream flows to provide energy, municipal water,
+watershed health and irrigation. Also, a potential rise in  sea levels threatens Oregon’s coastal
+communities. Reduced snowpack, changes in the timing of stream flows, extreme  or unusual weather
+events, rising sea levels,  increased occurrences of vector-borne diseases and impacts on forest health
+could significantly impact the economy, environment and quality of life in Oregon.
+(5) Oregon  forests play a significant role in sequestering atmospheric carbon, and losing this
+potential to sequester carbon will have a significant negative effect on the reduction of carbon  lev-
+els in the atmosphere.
+(6) [Global warming ] Climate change will have detrimental effects  on many of Oregon’s largest
+industries, including  agriculture, wine making, tourism, skiing, recreational and commercial fishing,
+forestry and hydropower generation, and will therefore negatively impact the  state’s workers, con-
+sumers and residents.
+(7) There is  a need to assess the current level of greenhouse gas emissions in Oregon, to monitor
+the trend of greenhouse gas emissions in Oregon over the next several decades and to take neces-
+sary action to begin reducing greenhouse gas emissions in order to prevent disruption  of Oregon’s
+economy and quality of life and to meet Oregon’s responsibility to reduce the impacts and the  pace
+of [ global warming ] climate change .
+(8) Oregon has been  a national leader in energy conservation and environmental stewardship,
+including the areas of  energy efficiency requirements and investments, renewable energy invest-
+ments, natural resource conservation, greenhouse gas offset requirements  and investments, and
+[global warming ] greenhouse gas  pollution standards for passenger  vehicles. Significant opportu-
+nities remain to reduce greenhouse gas emissions statewide, especially from major contributors of
+greenhouse gas emissions, including electricity production, transportation, building construction  and
+operation, and the residential and consumer sectors.
+(9) Actions to reduce greenhouse gas emissions will reduce Oregon’s reliance on foreign  sources
+of energy, lead to  the development of technology, attract new businesses to Oregon and increase
+energy efficiency throughout the state, resulting in benefits to the economy and to  individual busi-
+nesses and residents.
+(10) In devising measures to achieve reduction of greenhouse gas  emissions, Oregon must strive
+to not disadvantage Oregon businesses as compared to businesses  in other states with which Oregon
+cooperates on regional greenhouse gas emissions reduction strategies.
+(11) Policies pursued, and actions taken, by Oregon will:
+(a) In concert with  complementary policies and actions by other states and the federal govern-
+ment, substantially  reduce the global levels of greenhouse gas emissions and the impacts of those
+emissions;
+(b) Encourage similar policies and actions by various stakeholders;
+(c) Inform and shape national policies and actions  in ways that are advantageous to Oregon
+residents and businesses; and
+(d) Directly benefit the state and local governments, businesses and residents.
+SECTION 5.
+ ORS 468A.205 is amended to read:
+468A.205. (1) The Legislative Assembly declares  that it is the policy of this state to reduce
+greenhouse gas emissions in Oregon pursuant to the following  greenhouse gas emissions reduction
+goals:
+(a) By 2010, arrest the growth of Oregon’s greenhouse gas emissions  and begin to reduce
+greenhouse gas emissions.
+(b) By 2020, achieve greenhouse gas levels that are 10 percent below 1990 levels.
+(c) By 2050, achieve greenhouse gas levels that are at least 75 percent below 1990 levels.
+(2) The Legislative Assembly declares that it is the policy  of this state for state and local gov-
+ernments, businesses, nonprofit organizations and individual residents to prepare for  the effects of
+[global warming ] climate change  and  by doing so, prevent and reduce the social, economic and
+environmental effects of [ global warming ] climate change .
+(3) This section does not create any additional regulatory authority for an agency of the  exec-
+utive department as defined in ORS 174.112.
+SECTION 6.
+ ORS 468A.210 is amended to read:
+468A.210. As used in ORS 352.823 and 468A.200 to 468A.260:
+(1) “Adaptation and preparation” means analysis and actions that serve  to help prepare
+ecosystems  and  the citizens, communities and businesses of this state for the reasonably
+anticipated disruptive effects of climate change.
+[(1) “Global warming” means an increase in the average temperature  of the earth’s atmosphere that
+is associated with the release of greenhouse gases. ]
+(2) “Climate change” means the extraordinary effects  on normal planetary climate con-
+ditions that result from increasing  concentrations of greenhouse gasses in the earth’s at-
+mosphere.
+[(2)] (3)  “Greenhouse gas” means any gas that contributes to anthropogenic [ global warming ]
+climate change,  including[ ,] but not limited  to[ ,] carbon dioxide, methane, nitrous oxide,
+hydrofluorocarbons, perfluorocarbons and sulfur hexafluoride.
+[(3)] (4) “Greenhouse gas cap-and-trade system” means a system that:
+(a) Establishes a total cap on greenhouse gas emissions from an identified group of emitters;
+(b) Establishes a market for allowances that represent emissions; and
+(c) Allows trading of allowances among greenhouse gas emitters.
+SECTION 7.
+ ORS 468A.215 is amended to read:
+468A.215. (1) There is created the [ Oregon Global Warming Commission ] Oregon  Climate
+Change Commission. The commission  shall consist of [ 25 members, including 11 ] the  voting mem-
+bers appointed by the Governor under this section and [ 14] the  ex officio nonvoting members spec-
+ified in ORS 468A.220.
+(2) Members of  the commission appointed under this section shall be appointed so as to be rep-
+resentative of the social, environmental, cultural and economic diversity of the state and to be rep-
+resentative of the policy, science, education and implementation  elements of the efforts to reduce
+greenhouse gas emissions and to prepare  Oregon for the effects of [ global warming ] climate
+change. Of the members appointed by the Governor under this section:
+(a) One member shall have significant experience in manufacturing;
+(b) One member shall have significant experience in energy;
+(c) One member shall have significant experience in transportation;
+(d) One member shall have significant experience in forestry;
+(e) One member shall have significant experience in agriculture; and
+(f) One member shall have significant experience in environmental policy.
+(3) The Governor shall select a chairperson and a vice  chairperson from among the members
+appointed under this section.
+(4) The term of office of a member appointed under this section is four years. Before  the expi-
+ration of the term of a member, the  Governor shall appoint a successor whose term begins on Jan-
+uary 31 next following. A member appointed under this section is eligible for reappointment. In  case
+of vacancy for any cause, the Governor shall make an  appointment to become immediately effective
+for the unexpired term.
+(5) The members of the commission appointed under this section  must be residents of this state.
+Failure of a  member to maintain compliance with the eligibility requirements related to the
+member’s appointment shall result in disqualification from serving on the commission.
+(6) Voting members of the commission appointed under this section are entitled  to expenses as
+provided in ORS 292.495 (2).
+SECTION 8.
+ ORS 468A.220 is amended to read:
+468A.220. (1) In addition to the members appointed under ORS 468A.215, the [ Oregon Global
+Warming Commission ] Oregon Climate Change  Commission includes the following ex officio non-
+voting  members and additional nonvoting  members:
+(a) The Director of the State Department of Energy;
+(b) The Director of Transportation;
+(c) The chairperson of the Public Utility Commission of Oregon;
+(d) The Director of the Department of Environmental Quality;
+(e) The Director of Agriculture;
+(f) The State Forester;
+(g) The Water Resources Director; and
+(h) Three additional [ ex officio ] nonvoting members, each from a state  agency or an academic
+institution.
+(2) The following  representatives of the Legislative Assembly also shall serve as ex officio non-
+voting members:
+(a) Two members  of the Senate, not from the same political party, appointed by the President
+of the Senate; and
+(b) Two members of the House of Representatives,  not from the same political party, appointed
+by the Speaker of the House of Representatives.
+[(3) Each legislative member serves at the  pleasure of the appointing authority and may serve so
+long as the  member remains in the chamber of the Legislative Assembly from which the member was
+appointed.]
+[(4)] (3) Notwithstanding ORS 171.072, members of the commission who are members of the
+Legislative Assembly are not entitled to mileage expenses or  a per diem and serve as volunteers on
+the commission.
+SECTION 9.  ORS 468A.225 is amended to read:
+468A.225. (1) A majority of the members of the [ Oregon Global Warming  Commission ] Oregon
+Climate Change Commission  constitutes a quorum for the transaction of business.
+(2) Official action by the commission requires the approval of a majority  of the voting
+members of the commission.
+[(2)] (3) The commission shall meet at  times and places specified by a majority of the members
+of the commission.
+[(3)] (4)  [ The State Department of Energy shall provide clerical, technical and management  per-
+sonnel to serve the commission. Other agencies ] All agencies of state government, as defined  in
+ORS 174.111, shall provide support as requested by [ the department or ] the commission.
+SECTION 10.  ORS 468A.230 is amended to read:
+468A.230. The [ Oregon Global Warming Commission ] Oregon Climate Change Commission may
+adopt by rule such standards and procedures as  it considers necessary for the operation of the
+commission.
+SECTION 11.  ORS 468A.235 is amended to read:
+468A.235. (1) The [ Oregon Global Warming Commission ] Oregon Climate Change Commission
+shall [ recommend] identify, evaluate and develop recommendations on:
+(a) Ways to coordinate state and local programs and activities  related to climate, with a
+focus on better coordination of programs and activities  so as to increase the effectiveness
+of efforts to reduce greenhouse gas emissions in Oregon consistent  with the greenhouse gas emis-
+sions reduction goals established by ORS 468A.205 ; and
+(b) [ shall recommend ] Efforts to help  [ Oregon prepare for the effects of global warming. ] state
+agencies and the residents of this state engage in adaptation and preparation.
+(2) In order to assist  the commission in its duties under subsection (1) of this section,
+each nonvoting member of the commission listed in ORS 468A.220 (1) shall:
+(a) Regularly report to the commission on the energy and climate programs and activities
+of the agency or institution that the nonvoting member represents; and
+(b) Evaluate and make recommendations to  the commission on how best to coordinate
+state energy and climate programs and activities.
+(3) Pursuant to ORS 468A.225, all agencies  of state government identified by the com-
+mission to  have responsibilities related to the recommendations developed under subsection
+(1) of this section shall, as requested by the commission and to the maximum extent practi-
+cable, coordinate with the commission to:
+(a) Establish primary responsibilities and tasks for carrying out the  recommendations
+of the commission;
+(b) Develop benchmarks against which the agencies of state government may measure
+progress toward  achieving greenhouse gas emissions reductions and adaptation and prepa-
+ration outcomes that are consistent with the recommendations of the commission; and
+(c) No less than once each year:
+(A) Evaluate  against the benchmarks developed under paragraph (b) of this subsection
+each agency’s  progress toward achieving outcomes consistent with the recommendations of
+the commission; and
+(B) Identify and evaluate adjustments to  the benchmarks developed under paragraph (b)
+of this subsection as necessary.
+(4) In addition to meeting the requirements of subsections (2) and (3) of this section,  the
+Office of the Governor and state agencies working on multistate and  regional efforts to reduce
+greenhouse gas emissions shall inform the commission about  [these] those  efforts and shall consider
+input from the commission  for [ such] better coordination of  efforts to reduce greenhouse gas
+emissions and to promote adaptation and preparation .
+SECTION 12.  ORS 468A.240 is amended to read:
+468A.240. (1) In furtherance of the greenhouse gas emissions reduction goals established  by ORS
+468A.205, the [ Oregon Global Warming Commission ] Oregon Climate Change Commission  may re-
+commend statutory and administrative changes, policy measures and other recommendations to  be
+carried out by state and local governments, businesses, nonprofit organizations or residents. In de-
+veloping its recommendations, the commission shall consider economic,  environmental, health and
+social costs, and the risks and benefits of alternative strategies, including least-cost options. The
+commission shall solicit and consider public comment relating to statutory, administrative  or policy
+recommendations.
+(2) The commission shall examine greenhouse gas  cap-and-trade systems, including a statewide
+and multistate carbon cap-and-trade system and  market-based mechanisms, as a means of achieving
+the greenhouse gas emissions reduction goals established by ORS 468A.205.
+(3) The  commission shall examine possible funding mechanisms to obtain low-cost greenhouse
+gas emissions reductions and  energy efficiency enhancements, including but not limited to those in
+the natural gas industry.
+SECTION 13.
+ ORS 468A.245 is amended to read:
+468A.245. The [ Oregon Global Warming Commission ] Oregon Climate Change Commission
+shall develop an outreach strategy to  educate Oregonians about the scientific aspects and economic
+impacts of  [global warming ] climate change and to inform Oregonians of ways to reduce greenhouse
+gas emissions and ways to [ prepare for the  effects of global warming ] engage in adaptation and
+preparation. The commission, at a minimum, shall work with state  and local governments, the State
+Department of Energy, the  Department of Education, the Higher Education Coordinating Commis-
+sion and businesses to implement the outreach strategy.
+SECTION 14.  ORS 468A.250 is amended to read:
+468A.250. (1) The [ Oregon Global Warming  Commission ] Oregon Climate Change Commission
+shall track and evaluate:
+(a) Economic, environmental, health and social assessments of [ global warming ] climate change
+impacts on Oregon and the Pacific Northwest;
+(b) Existing greenhouse gas emissions reduction policies and measures;
+(c) Economic, environmental, health and social costs, and the risks and  benefits of alternative
+strategies, including least-cost options;
+(d) The physical science of [ global warming ] climate change ;
+(e) Progress toward the greenhouse gas emissions reduction goals established  by ORS 468A.205;
+(f) Greenhouse gases emitted by various sectors of the state economy, including but not  limited
+to industrial, transportation and utility sectors;
+(g) Technological progress  on sources of energy the use of which generates no or low
+greenhouse gas emissions and methods for carbon sequestration;
+(h) Efforts to identify the greenhouse gas emissions attributable  to the residential and commer-
+cial building sectors;
+(i) The carbon sequestration potential  of Oregon’s forests, alternative methods of forest man-
+agement that can increase carbon sequestration and reduce the loss of carbon sequestration to
+wildfire, changes in the mortality and distribution of tree and other plant species and the extent  to
+which carbon is stored in tree-based building materials;
+(j) The advancement of regional,  national and international policies to reduce greenhouse gas
+emissions;
+(k) Local and regional efforts to prepare  for the effects of [ global warming ] climate change; and
+(L) Any other information, policies or analyses that the  commission determines will aid in the
+achievement of the greenhouse gas emissions reduction goals established by ORS 468A.205.
+(2) The commission shall:
+(a) Work with the State  Department of Energy and the Department of Environmental Quality
+to evaluate all gases with the potential to be greenhouse gases and to determine a carbon  dioxide
+equivalency for those gases; and
+(b) Use regional and national  baseline studies of building performance to identify incremental
+targets for  the reduction of greenhouse gas emissions attributable to residential and commercial
+building construction and operations.
+SECTION 15.
+ ORS 468A.255 is amended to read:
+468A.255. The [ Oregon Global Warming Commission ] Oregon Climate Change Commission may
+recommend to the Governor the formation of citizen  advisory groups to explore particular areas of
+concern  with  regard to the reduction of greenhouse gas emissions and the effects of [ global
+warming] climate change .
+SECTION 16.  ORS 468A.260 is amended to read:
+468A.260. (1) The [ Oregon Global Warming Commission ] Oregon Climate Change Commission
+shall submit a report to the Legislative  Assembly, in the manner provided by ORS 192.245, by March
+31 of each odd-numbered year that describes Oregon’s progress toward  achievement of the
+greenhouse gas emissions reduction goals established by ORS 468A.205.
+(2) The report required under this section:
+(a) Shall include and draw upon the recommendations made and the information  received
+by the commission under ORS 468A.235;
+(b) May include relevant issues and trends of  significance, including trends of greenhouse gas
+emissions, emerging public policy and technological advances[ .]; and
+(c) [The report also ] May discuss measures the state may adopt to mitigate the impacts of [ global
+warming] climate change  on the  environment, the economy and the residents of Oregon and to
+prepare for those impacts.
+SECTION 17.  ORS 352.823 is amended to read:
+352.823. (1) The Oregon Climate Change Research Institute is established  at Oregon State Uni-
+versity. In administering the institute, Oregon  State University may seek the cooperation of other
+public universities listed in ORS 352.002.
+(2) The purpose of the Oregon Climate Change Research Institute is to:
+(a) Facilitate research by faculty at public universities listed in ORS 352.002 on  climate change
+and its effects on natural and human systems in Oregon;
+(b) Serve as a clearinghouse for climate change information;
+(c) Provide climate change information to the public in integrated and accessible formats;
+(d) Support the [ Oregon Global Warming Commission ] Oregon Climate Change Commission  in
+developing strategies to prepare for and to mitigate the effects  of climate change on natural and
+human systems; and
+(e) Provide  technical assistance to local governments to assist them in developing climate
+change policies, practices and programs.
+(3) The Oregon Climate Change Research Institute shall assess,  at least once each biennium, the
+state of climate change  science, including biological, physical and social science, as it relates to
+Oregon and the likely  effects of climate change on the state. The institute shall submit the assess-
+ment to the Legislative Assembly in the manner provided in ORS 192.245 and to the Governor.
+(4) State agencies may contract with the Oregon Climate Change  Research Institute to fulfill
+agency needs regarding the collection, storage,  integration, analysis, dissemination and monitoring
+of climate change information, research and training.
+SECTION 18.
+There is appropriated to the Oregon Climate Change Commission, for  the
+biennium beginning July 1, 2017, out of the General Fund,  the amount of $_______ for costs
+associated with meeting the requirements of section 2 of this 2017 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 352.823, ORS 468A.200, ORS 468A.205, ORS 468A.210, ORS 468A.215, ORS 468A.220, ORS 468A.225, ORS 468A.230, ORS 468A.235, ORS 468A.240, ORS 468A.245, ORS 468A.250, ORS 468A.255, ORS 468A.260
+- From bill text (Introduced version): ORS 171.072, ORS 174.111, ORS 174.112, ORS 192.245, ORS 292.495, ORS 352.002, ORS 352.823, ORS 468A.200, ORS 468A.205, ORS 468A.210, ORS 468A.215, ORS 468A.220, ORS 468A.225, ORS 468A.230, ORS 468A.235, ORS 468A.240, ORS 468A.245, ORS 468A.250, ORS 468A.255, ORS 468A.260
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `0ad8936ef2b061e09c1766d7a25593c7f4f5ba5048a9dda30638496abbd65871` (snapshot `_meta/snapshots/measure-2017r1-hb3269-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB3269/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3269` (part of the batched per-session fetch), sha256 `8a531c771f7c0531d1b6a422bf18d037d210e0e6cb92f247a009fd99e6400c68` of the shared session snapshot `_meta/snapshots/measures-2017r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

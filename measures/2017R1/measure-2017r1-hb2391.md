@@ -1,0 +1,1388 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2017r1-hb2391
+title: 'HB 2391 (2017R1): Imposes 1.5 percent assessment on commercial health insurance premiums and premium
+  equivalents for managed care organizations and Public Employees'' Benefit Board health benefit plans.'
+doc_type: dataset_doc
+citation: 2017 Regular Session House Bill 2391
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2391/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: eea3b775e78d07c45ae899b5bc2530745c190056d3790bc8ebb4a23634456722
+snapshot_id: measure-2017r1-hb2391-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 179.610
+  - ORS 182.126
+  - ORS 182.132
+  - ORS 192.245
+  - ORS 243.105
+  - ORS 291.050
+  - ORS 291.055
+  - ORS 352.002
+  - ORS 383.004
+  - ORS 413.101
+  - ORS 414.025
+  - ORS 414.620
+  - ORS 414.631
+  - ORS 414.651
+  - ORS 414.688
+  - ORS 440.315
+  - ORS 442.015
+  - ORS 442.470
+  - ORS 456.562
+  - ORS 469.421
+  - ORS 469.681
+  - ORS 477.210
+  - ORS 477.760
+  - ORS 656.506
+  - ORS 656.612
+  - ORS 656.614
+  - ORS 705.145
+  - ORS 706.530
+  - ORS 723.114
+  - ORS 731.292
+  - ORS 731.508
+  - ORS 731.509
+  - ORS 731.510
+  - ORS 731.511
+  - ORS 731.512
+  - ORS 731.516
+  - ORS 731.574
+  - ORS 731.804
+  - ORS 731.808
+  - ORS 731.820
+  - ORS 731.824
+  - ORS 731.828
+  - ORS 731.840
+  - ORS 731.854
+  - ORS 731.859
+  - ORS 735.612
+  - ORS 741.102
+  - ORS 743.018
+  - ORS 743.022
+  - ORS 743B.005
+  - ORS 743B.013
+  - ORS 756.310
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2017r1
+- hb
+session_key: 2017R1
+measure_prefix: HB
+measure_number: 2391
+prefix_meaning: House Bill
+catch_line: Imposes 1.5 percent assessment on commercial health insurance premiums and premium equivalents
+  for managed care organizations and Public Employees' Benefit Board health benefit plans.
+minority_catch_line: null
+measure_summary: "\tImposes 1.5 percent assessment on commercial health insurance premiums and premium\
+  \ equivalents for managed care organizations and Public Employees' Benefit Board health benefit plans.\
+  \ Requires assessments to be credited to Health System Fund to pay for Oregon Reinsurance Program, state\
+  \ medical assistance and costs associated with administering assessments. \n\tEstablishes Oregon Reinsurance\
+  \ Program in Department of Consumer and Business Services to stabilize rates and premiums for individual\
+  \ health benefit plans and provide greater financial certainty to health insurance consumers. Requires\
+  \ department to apply for federal waiver to carry out program. \n\tModifies hospital assessment by making\
+  \ type A hospitals and type B hospitals subject to assessment and excluding public hospitals other than\
+  \ health district hospitals. Authorizes Oregon Health Authority to impose lower rate of assessment on\
+  \ type A hospitals and type B hospitals. Expands permitted uses of funds in Hospital Quality Assurance\
+  \ Fund. Requires authority to apply for federal approval to modify hospital assessment. \n\tRequires\
+  \ Oregon Health Authority to ensure specified level of reimbursement for costs of Oregon Health and\
+  \ Science University in providing services paid for with Medicaid funds. \n\tTransfers moneys from specified\
+  \ funds and accounts in State Treasury to Health System Fund. \n\tTakes effect on 91st day following\
+  \ adjournment sine die."
+relating_to: Relating to access to health care; prescribing an effective date; and providing for revenue
+  raising that requires approval by a three-fifths majority.
+relating_to_full: Relating to access to health care; prescribing an effective date; and providing for
+  revenue raising that requires approval by a three-fifths majority.
+at_the_request_of: (at the request of House Interim Committee on Health Care)
+lc_number: 1597
+measure_created_date: '2016-12-19T13:50:13'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 88418
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 179.610
+  - ORS 182.126
+  - ORS 182.132
+  - ORS 192.245
+  - ORS 243.105
+  - ORS 291.050
+  - ORS 291.055
+  - ORS 352.002
+  - ORS 383.004
+  - ORS 413.101
+  - ORS 414.025
+  - ORS 414.620
+  - ORS 414.631
+  - ORS 414.651
+  - ORS 414.688
+  - ORS 440.315
+  - ORS 442.015
+  - ORS 442.470
+  - ORS 456.562
+  - ORS 469.421
+  - ORS 469.681
+  - ORS 477.210
+  - ORS 477.760
+  - ORS 656.506
+  - ORS 656.612
+  - ORS 656.614
+  - ORS 705.145
+  - ORS 706.530
+  - ORS 723.114
+  - ORS 731.292
+  - ORS 731.508
+  - ORS 731.509
+  - ORS 731.510
+  - ORS 731.511
+  - ORS 731.512
+  - ORS 731.516
+  - ORS 731.574
+  - ORS 731.804
+  - ORS 731.808
+  - ORS 731.820
+  - ORS 731.824
+  - ORS 731.828
+  - ORS 731.840
+  - ORS 731.854
+  - ORS 731.859
+  - ORS 735.612
+  - ORS 741.102
+  - ORS 743.018
+  - ORS 743.022
+  - ORS 743B.005
+  - ORS 743B.013
+  - ORS 756.310
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2391`.
+
+# HB 2391 — 2017 Regular Session (2017R1)
+
+## At a glance
+
+- **Measure:** House Bill 2391, 2017 Regular Session (2017R1)
+- **At the request of:** (at the request of House Interim Committee on Health Care)
+- **LC number:** 1597
+- **Created:** 2016-12-19T13:50:13
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 88418 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2391/Enrolled>.
+
+## Summary
+
+**Catchline:** Imposes 1.5 percent assessment on commercial health insurance premiums and premium equivalents for managed care organizations and Public Employees' Benefit Board health benefit plans.
+
+**Relating to:** Relating to access to health care; prescribing an effective date; and providing for revenue raising that requires approval by a three-fifths majority.
+
+Imposes 1.5 percent assessment on commercial health insurance premiums and premium equivalents for managed care organizations and Public Employees' Benefit Board health benefit plans. Requires assessments to be credited to Health System Fund to pay for Oregon Reinsurance Program, state medical assistance and costs associated with administering assessments. 
+ Establishes Oregon Reinsurance Program in Department of Consumer and Business Services to stabilize rates and premiums for individual health benefit plans and provide greater financial certainty to health insurance consumers. Requires department to apply for federal waiver to carry out program. 
+ Modifies hospital assessment by making type A hospitals and type B hospitals subject to assessment and excluding public hospitals other than health district hospitals. Authorizes Oregon Health Authority to impose lower rate of assessment on type A hospitals and type B hospitals. Expands permitted uses of funds in Hospital Quality Assurance Fund. Requires authority to apply for federal approval to modify hospital assessment. 
+ Requires Oregon Health Authority to ensure specified level of reimbursement for costs of Oregon Health and Science University in providing services paid for with Medicaid funds. 
+ Transfers moneys from specified funds and accounts in State Treasury to Health System Fund. 
+ Takes effect on 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to access to health care; prescribing an effective date; and providing for revenue raising that requires approval by a three-fifths majority.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Enrolled
+House Bill 2391
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House In-
+terim Committee on Health Care)
+CHAPTER .................................................
+AN ACT
+Relating to access  to health care; creating new provisions; amending ORS 291.055, 731.292, 731.509
+and 731.840 and sections 1, 2, 3, 5, 7, 9, 10, 12, 13 and 14,  chapter 736, Oregon Laws 2003, and
+section 2, chapter 26, Oregon Laws 2016;  repealing section 15, chapter 389, Oregon Laws 2015;
+prescribing an effective date; and providing for revenue  raising that requires approval by a
+three-fifths majority.
+Be It Enacted by the People of the State of Oregon:
+HEALTH INSURANCE PREMIUM AND
+MANAGED CARE ASSESSMENT
+SECTION 1. Sections 2 to 8  of this 2017 Act are added to and made a part of the Insur-
+ance Code.
+SECTION 2. (1) The Health System Fund is established in the  State Treasury, separate
+and distinct from  the General Fund.  Interest  earned by the Health System Fund shall be
+credited to the fund.
+(2) Amounts  in the Health System Fund are continuously appropriated to the Department
+of Consumer and Business Services for the purposes of:
+(a) Administering the Oregon Reinsurance Program established in section 18  of this 2017
+Act;  and
+(b) Transferring moneys to the Oregon Health Authority to:
+(A) Provide medical assistance and other health services under ORS chapter 414.
+(B) Pay refunds due under section 11 of this 2017 Act.
+(C) Pay  administrative costs incurred by the authority to administer the assessment de-
+scribed in section 9 of this 2017 Act.
+SECTION 3.
+(1) As used in this section:
+(a) “Insured” means an eligible employee or family member, as defined in  ORS 243.105,
+who is enrolled in a self-insured health benefit plan under ORS 243.105 to 243.285.
+(b) “Premium equivalent”  means a claim for reimbursement of the cost of a health care
+item or service provided to an eligible employee or family member, other  than a dental or
+vision care item or service, and the administrative costs associated with the claim.
+(2) No later than 45 days following the end  of a calendar quarter, the Public Employees’
+Benefit Board shall pay an assessment at the rate of  1.5 percent on the gross amount of
+premium equivalents received during the calendar quarter.
+Enrolled House Bill 2391 (HB 2391-A) Page 1
+(3) The assessment shall be paid to the Department of Consumer and  Business Services
+and shall be accompanied by a verified report, on a form prescribed  by the department, to-
+gether with any information required by the department.
+(4) The assessment imposed under this section is in  addition to and not in lieu of any tax,
+surcharge or other assessment imposed on the board.
+(5) If the department determines that the assessment paid by the board under this sec-
+tion is incorrect, the department shall  charge or credit to the board the difference between
+the correct amount of the assessment and the amount paid by the board.
+(6) The board is entitled to notice and  an opportunity for a contested case hearing under
+ORS chapter 183  to contest an action of the department taken pursuant to subsection (5) of
+this section.
+(7) Moneys received by the department under this section shall  be paid into the State
+Treasury and credited to the Health System Fund established under section 2 of this 2017
+Act.
+SECTION 4.
+Section 3 of this 2017 Act applies to premium equivalents received by the
+Public Employees’ Benefit  Board, or a third party administrator that contracts with the
+board to administer a self-insured health benefit plan, during the  period from January 1,
+2018, through December 31, 2019.
+SECTION 5. (1) As used in this section:
+(a) “Gross amount of premiums” has the meaning given that term in ORS 731.808.
+(b) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(2) No later than 45 days following the end  of a calendar quarter, an insurer shall pay
+an assessment at the rate of 1.5 percent of the gross amount of premiums earned by  the
+insurer during that  calendar quarter that were derived from health benefit plans delivered
+or issued for delivery in Oregon.
+(3) The assessment  shall be paid to the Department of Consumer and Business Services
+and shall be accompanied by a verified  form prescribed by the department together with any
+information required by the department, that reports:
+(a) All health benefit plans issued or  renewed by the insurer during the calendar quarter
+for which the assessment is paid; and
+(b) The gross amount of premiums by line of insurance, derived by the insurer from all
+health benefit plans issued or renewed by the insurer during the calendar quarter for  which
+the assessment is paid.
+(4) The assessment imposed under this section is in  addition to and not in lieu of any tax,
+surcharge or other assessment imposed on an insurer.
+(5) Any rate filed for the department’s approval may include amounts paid  by the insurer
+under this section as a valid element of administrative expense or retention.
+(6) Moneys received by the department  under this section shall be paid into the State
+Treasury and credited to the Health System Fund established under section 2 of this 2017
+Act.
+SECTION 6.
+(1) If the Public Employees’ Benefit Board or an insurer fails to  timely file
+a verified form or to pay an assessment required under section 3 or 5  of this 2017 Act, the
+Department of  Consumer and Business Services shall impose a penalty on the board or
+insurer of up to $500 per day of delinquency. The total amount  of penalties imposed under
+this section for a calendar quarter  may not exceed five percent of the assessment due for
+that calendar quarter.
+(2) Any penalty imposed under this section is in addition to and not in lieu  of the as-
+sessment imposed under sections 3 and 5 of this 2017 Act.
+SECTION 7. (1) If the Department of Consumer and Business Services determines  that
+the assessment paid by the insurer under section 5 of this 2017 Act is incorrect, the depart-
+ment shall charge or credit to the insurer the difference between the correct  amount of the
+assessment and the amount paid by the insurer.
+Enrolled House Bill 2391 (HB 2391-A) Page 2
+(2) An insurer that is aggrieved by an action of the department  taken pursuant to sub-
+section (1) of this section shall be entitled to notice and an opportunity for a contested  case
+hearing under ORS chapter 183.
+SECTION 8. (1) Section 5 of this 2017 Act applies to premiums earned by an  insurer for
+a period of eight calendar quarters beginning on the date, on or after January 1,  2018, that
+the policy or certificate for which the premiums are paid is issued or renewed.
+(2) Notwithstanding any  provision of contract or statute, including ORS 743B.013 and
+743.022, insurers  may increase their premium rate on policies or certificates that are subject
+to the assessment under section 5 of this 2017 Act by  1.5 percent. If an insurer increases its
+rates under this subsection, the insurer may include in its billings for health benefit plans
+a notice, as prescribed by the Department  of Consumer and Business Services, explaining
+that the increase is due to the assessment under section 5 of this 2017 Act.
+SECTION 9.
+(1) As used in this section and sections 10 and 11 of this 2017 Act:
+(a) “Managed care organization” means:
+(A) A coordinated care organization as defined in ORS 414.025; and
+(B) A prepaid managed care health services organization as defined in ORS 414.025.
+(b) “Premium  equivalent” means the payments made to the managed care organization
+by the Oregon Health Authority for providing health services under ORS chapter 414.
+(2) No later  than 45 days following the end of a calendar quarter, a managed care or-
+ganization shall pay an assessment at a rate of 1.5 percent of the gross amount of  premium
+equivalents received during that calendar quarter.
+(3) The assessment shall be paid to the authority in  a manner and form prescribed by the
+authority.
+(4) Assessments received by the authority under this section shall be paid  into the State
+Treasury and credited to the Health System Fund established under section 2 of this 2017
+Act.
+(5) The assessment imposed under this section is in  addition to and not in lieu of any tax,
+surcharge or other assessment imposed on a managed care organization.
+SECTION 10.
+(1) If a managed care organization fails to timely  pay an assessment under
+section 9 of  this 2017 Act, the Oregon Health Authority shall impose a penalty on the man-
+aged care organization  of up to $500 per day of delinquency. The total amount of penalties
+imposed under this section for a calendar quarter may  not exceed five percent of the as-
+sessment due for that calendar quarter.
+(2) Any penalty imposed  under this section is in addition to and not in lieu of the as-
+sessment imposed under section 9 of this 2017 Act.
+(3) Penalties received by the authority under this section shall be paid into the State
+Treasury and credited to the Health System Fund established under section 2 of this 2017
+Act.
+SECTION 11.
+(1) A managed care organization that has paid an amount that is not  re-
+quired under section 9 of this 2017 Act may  file a claim for refund with the Oregon Health
+Authority.
+(2) Any managed care organization that is aggrieved by an action of the authority taken
+pursuant to subsection (1) of this section shall be entitled  to notice and an opportunity for
+a contested case hearing under ORS chapter 183.
+SECTION 12. Sections 9, 10 and 11 of this 2017 Act apply  to any payments made to a
+managed care organization by the Oregon Health Authority for the period beginning  January
+1, 2018, and ending December 31, 2019.
+SECTION 13.  ORS 731.292 is amended to read:
+731.292. (1) Except as provided in subsections (2) , [ and] (3)  and (4)  of this section, all fees,
+charges  and  other moneys received by the Department of Consumer and Business Services or the
+Director of the Department of Consumer and Business Services under the Insurance Code shall be
+Enrolled House Bill 2391 (HB 2391-A) Page 3
+deposited in the fund created by ORS  705.145 and are continuously appropriated to the department
+for the payment of the expenses of the department in carrying out the Insurance Code.
+(2) All taxes and penalties paid pursuant to the Insurance  Code shall be paid to the director and
+after deductions of refunds shall be paid by the director to the  State Treasurer, at the end of every
+calendar month or more often in the  director’s discretion, for deposit in the General Fund to become
+available for general governmental expenses.
+(3) All premium taxes received by the director pursuant to ORS 731.820 shall  be paid by the
+director to the State Treasurer for deposit in the State Fire Marshal Fund.
+(4) Assessments received by the department under  sections 3 and 5 of this 2017 Act and
+penalties received by the department under section 6 of this 2017 Act shall be paid into the
+State Treasury and credited to the  Health System Fund established under section 2 of this
+2017 Act.
+SECTION 14.  ORS 731.840 is amended to read:
+731.840. (1) The retaliatory tax imposed  upon a foreign or alien insurer under ORS 731.854 and
+731.859, or the corporate excise tax imposed upon a foreign or alien insurer under ORS chapter  317,
+is in lieu of all other state taxes upon premiums,  taxes upon income, franchise or other taxes
+measured by  income that might otherwise be imposed upon the foreign or alien insurer except the
+fire insurance premiums tax imposed under ORS  731.820, [and] the tax imposed upon wet marine and
+transportation insurers under  ORS 731.824 and 731.828 and the assessment imposed under sec-
+tion 5 of this 2017 Act . However, all real and personal property, if any, of the insurer  shall be
+listed, assessed and taxed  the same as real and personal property of like character of noninsurers.
+Nothing in this subsection shall  be construed to preclude the imposition of the assessments imposed
+under ORS 656.612 upon a foreign or alien insurer.
+(2) Subsection (1) of this  section applies to a reciprocal insurer and its attorney in its capacity
+as such.
+(3) Subsection (1) of this section applies  to foreign or alien title insurers and to foreign or alien
+wet marine and transportation insurers issuing policies and subject to taxes referred to in  ORS
+731.824 and 731.828.
+(4) The State of Oregon hereby preempts the field  of regulating or of imposing excise, privilege,
+franchise,  income,  license, permit, registration, and similar taxes, licenses and fees upon insurers
+and their insurance producers and other representatives as such, and:
+(a) No county, city, district, or other political subdivision or agency in this state  shall so regu-
+late, or shall levy upon insurers, or upon their  insurance producers and representatives as such, any
+such tax, license or fee; except that whenever a county, city, district  or other political subdivision
+levies or imposes generally  on a nondiscriminatory basis throughout the jurisdiction of the taxing
+authority a payroll, excise or income tax, as otherwise provided  by law, such tax may be levied or
+imposed upon domestic insurers; and
+(b) No  county, city, district, political subdivision or agency in this state shall require of any
+insurer, insurance producer or representative, duly authorized or  licensed as such under the Insur-
+ance Code, any additional authorization, license, or  permit of any kind for conducting therein
+transactions otherwise lawful under the authority or license granted under this code.
+SECTION 15.  ORS 291.055 is amended to read:
+291.055. (1) Notwithstanding any other law that grants to  a state agency the authority to es-
+tablish fees, all new state  agency fees or fee increases adopted during the period beginning on the
+date of adjournment sine die of a  regular session of the Legislative Assembly and ending on the date
+of adjournment sine die of the next regular session of the Legislative Assembly:
+(a) Are not effective  for agencies in the executive department of government unless approved
+in writing by the Director of the Oregon Department of Administrative Services;
+(b) Are not effective for agencies in the judicial department of  government unless approved in
+writing by the Chief Justice of the Supreme Court;
+(c) Are not effective for agencies in  the legislative department of government unless approved
+in writing by the President of the Senate and the Speaker of the House of Representatives;
+Enrolled House Bill 2391 (HB 2391-A) Page 4
+(d) Shall be reported by the state agency to the Oregon Department  of Administrative Services
+within 10 days of their adoption; and
+(e) Are rescinded on adjournment sine die of the next  regular session of the Legislative As-
+sembly as  described in this subsection, unless otherwise authorized by enabling legislation setting
+forth the approved fees.
+(2) This section does not apply to:
+(a) Any tuition or fees charged by a public university listed in ORS 352.002.
+(b) Taxes or other payments made or collected  from employers for unemployment insurance re-
+quired by ORS chapter 657 or premium assessments required by  ORS 656.612 and 656.614 or con-
+tributions and assessments calculated  by cents per hour for workers’ compensation coverage
+required by ORS 656.506.
+(c) Fees or payments required for:
+(A) Health care services provided by the Oregon Health and Science University,  by the Oregon
+Veterans’ Homes and by other state agencies and institutions pursuant to ORS 179.610 to 179.770.
+(B) Assessments imposed by the Oregon Medical Insurance Pool  Board under section 2, chapter
+698, Oregon Laws 2013.
+(C) Copayments and premiums paid to the Oregon medical assistance program.
+(D) Assessments paid to the Department of  Consumer and Business Services under
+sections 3 and 5 of this 2017 Act.
+(d) Fees created or authorized by statute that have no established rate or amount but are cal-
+culated for each separate instance for each fee payer and are based on  actual cost of services pro-
+vided.
+(e) State agency charges on employees for benefits and services.
+(f) Any intergovernmental charges.
+(g) Forest protection district assessment rates established by ORS 477.210 to 477.265 and the
+Oregon Forest Land Protection Fund fees established by ORS 477.760.
+(h) State Department of Energy assessments required by ORS 469.421 (8) and 469.681.
+(i) Assessments on premiums charged by the  Department of Consumer and Business Services
+pursuant to ORS 731.804  or fees charged by the Division of Finance and Corporate Securities of the
+Department of Consumer and Business Services to banks, trusts and credit unions pursuant  to ORS
+706.530 and 723.114.
+(j) Public Utility Commission operating assessments  required by ORS 756.310 or charges paid to
+the Residential Service Protection Fund required by chapter 290, Oregon Laws 1987.
+(k) Fees charged by the Housing and Community  Services Department for intellectual property
+pursuant to ORS 456.562.
+(L) New or increased fees that are anticipated in the  legislative budgeting process for an
+agency, revenues from which are included, explicitly or implicitly, in the  legislatively adopted
+budget or the legislatively approved budget for the agency.
+(m) Tolls approved by the Oregon Transportation Commission pursuant to ORS 383.004.
+(n) Convenience fees as defined in ORS 182.126 and established by the State Chief Information
+Officer under ORS 182.132 (3) and recommended by the Electronic Government Portal  Advisory
+Board.
+(3)(a) Fees temporarily decreased for competitive or promotional reasons or  because of unex-
+pected and temporary revenue surpluses  may be increased to not more than their prior level without
+compliance with subsection (1) of this section if, at the time the fee is  decreased, the state agency
+specifies the following:
+(A) The reason for the fee decrease; and
+(B) The conditions under which the fee will be increased to not more than its prior level.
+(b) Fees that are decreased for reasons other than those described in paragraph (a) of this  sub-
+section may not be subsequently increased except as allowed by ORS 291.050 to  291.060 and 294.160.
+Enrolled House Bill 2391 (HB 2391-A) Page 5
+SECTION 16.  ORS 291.055, as amended by section 36, chapter 698,  Oregon Laws 2013, section
+20, chapter 70, Oregon Laws 2015, and section 44b, chapter 807, Oregon Laws 2015, is amended to
+read:
+291.055. (1) Notwithstanding any other law that grants to  a state agency the authority to es-
+tablish fees, all new state  agency fees or fee increases adopted during the period beginning on the
+date of adjournment sine die of a  regular session of the Legislative Assembly and ending on the date
+of adjournment sine die of the next regular session of the Legislative Assembly:
+(a) Are not effective  for agencies in the executive department of government unless approved
+in writing by the Director of the Oregon Department of Administrative Services;
+(b) Are not effective for agencies in the judicial department of  government unless approved in
+writing by the Chief Justice of the Supreme Court;
+(c) Are not effective for agencies in  the legislative department of government unless approved
+in writing by the President of the Senate and the Speaker of the House of Representatives;
+(d) Shall be reported by the state agency to the Oregon Department  of Administrative Services
+within 10 days of their adoption; and
+(e) Are rescinded on adjournment sine die of the next  regular session of the Legislative As-
+sembly as  described in this subsection, unless otherwise authorized by enabling legislation setting
+forth the approved fees.
+(2) This section does not apply to:
+(a) Any tuition or fees charged by a public university listed in ORS 352.002.
+(b) Taxes or other payments made or collected  from employers for unemployment insurance re-
+quired by ORS chapter 657 or premium assessments required by  ORS 656.612 and 656.614 or con-
+tributions and assessments calculated  by cents per hour for workers’ compensation coverage
+required by ORS 656.506.
+(c) Fees or payments required for:
+(A) Health care services provided by the Oregon Health and Science University,  by the Oregon
+Veterans’ Homes and by other state agencies and institutions pursuant to ORS 179.610 to 179.770.
+(B) Copayments and premiums paid to the Oregon medical assistance program.
+(C) Assessments paid to  the Department of Consumer and Business Services under
+sections 3 and 5 of this 2017 Act.
+(d) Fees created or authorized by statute that have no established rate or amount but are cal-
+culated for each separate instance for each fee payer and are based on  actual cost of services pro-
+vided.
+(e) State agency charges on employees for benefits and services.
+(f) Any intergovernmental charges.
+(g) Forest protection district assessment rates established by ORS 477.210 to 477.265 and the
+Oregon Forest Land Protection Fund fees established by ORS 477.760.
+(h) State Department of Energy assessments required by ORS 469.421 (8) and 469.681.
+(i) Assessments on premiums charged by the  Department of Consumer and Business Services
+pursuant to ORS 731.804  or fees charged by the Division of Finance and Corporate Securities of the
+Department of Consumer and Business Services to banks, trusts and credit unions pursuant  to ORS
+706.530 and 723.114.
+(j) Public Utility Commission operating assessments  required by ORS 756.310 or charges paid to
+the Residential Service Protection Fund required by chapter 290, Oregon Laws 1987.
+(k) Fees charged by the Housing and Community  Services Department for intellectual property
+pursuant to ORS 456.562.
+(L) New or increased fees that are anticipated in the  legislative budgeting process for an
+agency, revenues from which are included, explicitly or implicitly, in the  legislatively adopted
+budget or the legislatively approved budget for the agency.
+(m) Tolls approved by the Oregon Transportation Commission pursuant to ORS 383.004.
+Enrolled House Bill 2391 (HB 2391-A) Page 6
+(n) Convenience fees as defined in ORS 182.126 and established by the State Chief Information
+Officer under ORS 182.132 (3) and recommended by the Electronic Government Portal  Advisory
+Board.
+(3)(a) Fees temporarily decreased  for competitive or promotional reasons or because of unex-
+pected and temporary revenue surpluses  may be increased to not more than their prior level without
+compliance with subsection (1) of  this section if, at the time the fee is decreased, the state agency
+specifies the following:
+(A) The reason for the fee decrease; and
+(B) The conditions under which the fee will be increased to not more than its prior level.
+(b) Fees  that are decreased for reasons other than those described in paragraph (a) of this sub-
+section may not be subsequently increased except as allowed by ORS 291.050 to  291.060 and 294.160.
+OREGON REINSURANCE PROGRAM
+SECTION 17.
+Sections 18 to 21 of this 2017 Act are added to and made a part of the In-
+surance Code.
+SECTION 18. The Oregon Reinsurance Program is established in the Department  of
+Consumer and Business Services for the  purposes of stabilizing the rates and premiums for
+individual health benefit plans and providing greater financial certainty to consumers of
+health insurance in this state.
+SECTION 19.
+(1) As used in this section:
+(a) “Attachment point” means the threshold dollar amount, adopted by  the Department
+of Consumer and Business Services by rule, for  claims costs incurred by a reinsurance eli-
+gible health benefit plan for an insured individual’s covered benefits in a benefit year,  after
+which threshold the claims costs for the benefits are eligible for reinsurance payments.
+(b) “Coinsurance  rate” means the rate, adopted by the department by rule, at which the
+department will reimburse a reinsurance eligible health benefit plan for claims costs incurred
+for an insured individual’s covered benefits in a benefit year after the attachment  point and
+before the reinsurance cap.
+(c) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(d) “Reinsurance cap” means the threshold dollar amount, adopted  by the department
+by rule, for claims  costs incurred by a reinsurance eligible health benefit plan for an insured
+individual’s covered benefits in a benefit  year, after which threshold the claims costs for the
+benefits are no longer eligible for state reinsurance payments.
+(e) “Reinsurance eligible health benefit plan” means a health benefit plan  providing indi-
+vidual coverage that:
+(A) Is delivered or issued for delivery in this state; and
+(B) Is not a grandfathered health plan as defined in ORS 743B.005.
+(f) “Reinsurance eligible individual” means  an individual who is insured in a reinsurance
+eligible health benefit plan on or after January 1, 2018.
+(2) An issuer of a reinsurance eligible health benefit plan  becomes eligible for a reinsur-
+ance payment when the claims costs  for a reinsurance eligible individual’s covered benefits
+in a calendar year exceed the attachment point. The amount  of the payment shall be the
+product of the coinsurance rate and the issuer’s claims costs for the  reinsurance eligible
+individual that exceed the attachment point, up to the reinsurance cap.
+(3) After the department adopts by rule the attachment point, reinsurance cap or
+coinsurance rate, the department may not:
+(a) Change the attachment point or the reinsurance cap during that benefit year; or
+(b) Increase the coinsurance rate during the benefit year.
+(4) The department  may adopt rules necessary to carry out the provisions of this section
+including, but not limited to, rules prescribing:
+(a) The amount, manner and frequency of reinsurance payments; and
+Enrolled House Bill 2391 (HB 2391-A) Page 7
+(b) Reporting requirements for issuers of reinsurance eligible health benefit plans.
+SECTION 20.
+(1) As used in this section:
+(a) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(b) “Oregon Reinsurance Program” means  the program established in section 18 of this
+2017 Act.
+(c) “Reinsurance eligible individual” has the  meaning given that term in section 19 of this
+2017 Act.
+(2) An insurer that offers a health benefit  plan must report to the Department of Con-
+sumer and Business Services, in the form and manner prescribed by the department by rule,
+information about reinsurance eligible individuals insured by the  health benefit plan as nec-
+essary for the department to calculate  reinsurance payments under the Oregon Reinsurance
+Program.
+SECTION 21.
+In a rate filing under ORS 743.018, an insurer must identify the  impact of
+reinsurance payments under section 19 of this 2017 Act on projected claims costs and in  the
+development of rates.
+SECTION 22.  The Oregon Reinsurance Program  established in section 18 of this 2017 Act
+shall be exempt from any and all taxes assessed by the State of Oregon.
+SECTION 23.  ORS 731.509, as amended  by section 35, chapter 698, Oregon Laws 2013, is
+amended to read:
+731.509. (1) The purpose of ORS 731.509, 731.510, 731.511, 731.512 and 731.516 is  to protect the
+interests of insureds, claimants,  ceding insurers, assuming insurers and the public generally. The
+Legislative Assembly declares that its intent is  to ensure adequate regulation of insurers and re-
+insurers and adequate protection  for those to whom they owe obligations. In furtherance of that
+state interest, the Legislative Assembly mandates that upon the insolvency of an  alien insurer or
+reinsurer that provides security to fund its  United States obligations in accordance with ORS
+731.509, 731.510, 731.511, 731.512 and  731.516, the assets representing the security shall be main-
+tained in the United States and claims shall be filed with and valued  by the state insurance com-
+missioner with regulatory oversight, and the assets shall be distributed in accordance  with the
+insurance laws of the state in  which the trust is domiciled that are applicable to the liquidation of
+domestic United States insurers. The Legislative Assembly declares that  the laws contained in ORS
+731.509, 731.510, 731.511, 731.512 and 731.516 are fundamental to the business of insurance in  ac-
+cordance with 15 U.S.C. 1011 and 1012.
+(2) The Director  of the Department of Consumer and Business Services shall not allow credit
+for reinsurance to a domestic ceding insurer as either  an asset or a reduction from liability on ac-
+count of reinsurance ceded  unless credit is allowed as provided under ORS 731.508 and unless the
+reinsurer meets the requirements of:
+(a) Subsection (3) of this section;
+(b) Subsection (4) of this section;
+(c) Subsections (5) and (8) of this section;
+(d) Subsections (6) and (8) of this section; [ or]
+(e) Subsection (7) of this section[ .]; or
+(f) Subsection (9) of this section.
+(3) Credit shall  be allowed when the reinsurance is ceded to an authorized assuming insurer that
+accepts reinsurance of risks, and retains risk thereon within such limits,  as the assuming insurer is
+otherwise authorized to insure in this state as provided in ORS 731.508.
+(4) Credit  shall be allowed when the reinsurance is ceded to an assuming insurer that is ac-
+credited as a reinsurer in this state as provided in ORS 731.511. The  director shall not allow credit
+to a domestic ceding insurer if  the accreditation of the assuming insurer has been revoked by the
+director after notice and opportunity for hearing.
+(5) Credit shall be allowed when the reinsurance is ceded  to a foreign assuming insurer or a
+United States branch of an alien assuming insurer meeting all of the following requirements:
+Enrolled House Bill 2391 (HB 2391-A) Page 8
+(a) The foreign assuming insurer must be domiciled in a state  employing standards regarding
+credit for reinsurance that equal or exceed the standards applicable under this section. The United
+States branch of  an alien assuming insurer must be entered through a state employing such stand-
+ards.
+(b) The foreign assuming insurer or United States  branch of an alien assuming insurer must
+maintain a combined  capital and surplus in an amount not less than $20,000,000. The requirement
+of this paragraph does not apply to reinsurance ceded and assumed pursuant to  pooling arrange-
+ments among insurers in the same holding company system.
+(c) The foreign assuming insurer or United  States branch of an alien assuming insurer must
+submit to the authority of the director to examine its books and records.
+(6) Credit shall be allowed when the reinsurance is ceded to an assuming insurer that  maintains
+a trust fund meeting the requirements of this subsection  and additionally complies with other re-
+quirements of this subsection. The trust fund must be maintained in a qualified  United States fi-
+nancial institution, as defined in ORS 731.510 (1), for the payment of the  valid claims of its United
+States policyholders and ceding insurers and their assigns and successors in  interest. The assuming
+insurer must report annually to the director information substantially the  same as that required to
+be reported on the annual statement form by ORS 731.574 by authorized insurers, in order to enable
+the director to determine the sufficiency of the trust fund. The following requirements apply  to such
+a trust fund:
+(a) In the case of a single assuming insurer,  the trust fund must consist of funds in trust in an
+amount not less than  the assuming insurer’s liabilities attributable to reinsurance ceded by United
+States ceding  insurers. In addition, the assuming insurer must maintain a trusteed surplus of not less
+than $20,000,000.
+(b) In the case of a group including incorporated and individual unincorporated underwriters:
+(A) For reinsurance ceded under reinsurance agreements with an inception, amendment  or re-
+newal date on or after August  1, 1995, the trust shall consist of a trusteed account in an amount
+not less than the group’s several  liabilities attributable to business ceded by United States domiciled
+ceding insurers to any member of the group.
+(B) For reinsurance ceded under reinsurance agreements with an  inception date on or before
+July 31, 1995, and not amended or renewed after that date, notwithstanding the  other provisions of
+ORS 731.509, 731.510, 731.511, 731.512 and 731.516, the trust shall consist  of a trusteed account in
+an amount not less than the group’s  several insurance and reinsurance liabilities attributable to
+business written in the United States.
+(C) In addition to the trusts described in subparagraphs (A) and (B) of this paragraph,  the group
+shall maintain in trust a  trusteed surplus of which $100,000,000 shall be held jointly for the benefit
+of the United States domiciled ceding insurers of any member of the group  for all years of account.
+(D) The incorporated members of the group shall not be engaged in any business  other than
+underwriting as  a member of the group and shall be subject to the same level of regulation and
+solvency control by the group’s domiciliary regulator as are the unincorporated members.
+(E) Within 90 days after the group’s financial statements are due to be filed with  the group’s
+domiciliary regulator, the group shall provide to the director an annual certification by  the group’s
+domiciliary regulator of the solvency of each underwriter member or, if certification  is unavailable,
+financial statements of each underwriter member of the group prepared by independent  certified
+public accountants.
+(c) In the case of a group of incorporated insurers described in this paragraph,  the trust must
+be in an  amount equal to the group’s several liabilities attributable to business ceded by United
+States ceding insurers to any member of the group pursuant  to reinsurance contracts issued in the
+name of the group. This paragraph applies to a group of incorporated insurers under common ad-
+ministration that complies with the annual reporting requirements contained in this  subsection and
+that has continuously  transacted an insurance business outside the United States for at least three
+years immediately prior to making application for accreditation. Such a  group must have an aggre-
+gate policyholders’ surplus of $10,000,000,000 and must submit to the  authority of this state to ex-
+Enrolled House Bill 2391 (HB 2391-A) Page 9
+amine its books and records and bear the expense of the examination. The  group shall also maintain
+a joint trusteed surplus of which $100,000,000 must be held jointly for the benefit of United  States
+ceding insurers of any member of the group as additional security  for any such liabilities. Each
+member of the group shall make available to the director an annual certification of the  member’s
+solvency by the member’s domiciliary regulator and its independent certified public accountant.
+(d) The form of the trust and any amendment to the trust shall have been approved by the  in-
+surance commissioner of the state in which  the trust is domiciled or by the insurance commissioner
+of another state who, pursuant to the terms of the trust  instrument, has accepted principal regula-
+tory oversight of the trust.
+(e) The form of the trust and any trust amendments also shall  be filed with the insurance com-
+missioner of every state in which  the ceding insurer beneficiaries of the trust are domiciled. The
+trust instrument must provide that contested claims shall be valid and enforceable  upon the final
+order of  any court of competent jurisdiction in the United States. The trust must vest legal title to
+its assets in its trustees for the benefit of the assuming insurer’s United States ceding insurers  and
+their assigns and successors in interest. The trust and the assuming  insurer are subject to exam-
+ination as determined by the director. The trust must remain in effect for as long  as the assuming
+insurer has outstanding obligations due under the reinsurance agreements subject to the trust.
+(f) Not later than March  1 of each year, the trustees of each trust shall report to the director
+in writing the balance of the trust and listing the trust’s investments at the preceding year  end, and
+shall certify the date of termination of the trust, if so planned, or certify that the trust  will not
+expire prior to the following December 31.
+(7) Credit shall be allowed when the reinsurance  is ceded to an assuming insurer not meeting
+the requirements of subsection (3), (4), (5) or (6) of this section, but only as to the insurance of risks
+located in jurisdictions in which the reinsurance is required by applicable law  or regulation of that
+jurisdiction.
+(8) If the assuming insurer  is not authorized to transact insurance in this state or accredited
+as a reinsurer in this state, the director shall not allow the credit permitted by subsections (5)  and
+(6) of this section unless the assuming insurer agrees  in the reinsurance agreement to the provisions
+stated in this subsection. This subsection is not intended to conflict with or override the  obligation
+of the parties to a reinsurance agreement to arbitrate their disputes,  if such an obligation is created
+in the agreement. The assuming insurer must agree in the reinsurance agreement:
+(a) That in the event of the failure of the assuming insurer to perform  its obligations under the
+terms of the reinsurance agreement, the assuming insurer, at the  request of the ceding insurer, shall
+submit to  the jurisdiction of any court of competent jurisdiction in any state of the United States,
+will comply with all requirements necessary to give the  court jurisdiction and will abide by the final
+decision of the court or of any appellate court in the event of an appeal; and
+(b) To designate the director or a designated attorney as its true  and lawful attorney upon
+whom any lawful process in any action, suit or proceeding instituted  by or on behalf of the ceding
+company may be served.
+(9) Credit shall  be allowed when the reinsurance is ceded to the Oregon Reinsurance
+Program established in section 18 of this 2017 Act.
+[(9)] (10) If the assuming insurer does not meet the requirements of subsection  (3), (4) or (5) of
+this section, the credit permitted by subsection (6) of this section shall not be allowed  unless the
+assuming insurer agrees in the trust agreements to the following conditions:
+(a) Notwithstanding any other provisions in the  trust instrument, if the trust fund is inadequate
+because it contains an amount less than the applicable  amount required by subsection (6)(a), (b) or
+(c) of this section, or if the grantor  of the trust has been declared insolvent or placed into
+receivership, rehabilitation, liquidation or  similar proceedings under the laws of the grantor’s state
+or country of domicile, the trustee shall comply with an order of the insurance commissioner with
+regulatory  oversight  over the trust or with an order of a court of competent jurisdiction directing
+the trustee  to transfer to the insurance commissioner with regulatory oversight all the assets of the
+trust fund.
+Enrolled House Bill 2391 (HB 2391-A) Page 10
+(b) The assets  shall be distributed by and claims shall be filed with and valued by the insurance
+commissioner with regulatory oversight in accordance with the laws of the state  in which the trust
+is domiciled that are applicable to the liquidation of domestic insurance companies.
+(c) If the insurance commissioner with regulatory oversight determines that  the assets of the
+trust fund or any part thereof are  not necessary to satisfy the claims of the United States ceding
+insurers of the grantor of the trust, the assets or part thereof shall be returned by  the insurance
+commissioner according to the laws of that state and  according to the terms of the trust agreement
+not inconsistent with the laws of that state.
+(d) The grantor shall waive any right otherwise available to  it under United States law that is
+inconsistent with this subsection.
+SECTION 24.  Section 2, chapter 26, Oregon Laws 2016, is amended to read:
+Sec. 2.  [ (1) Subject to subsection (2) of this section, ] The Department  of Consumer and Business
+Services shall have sole authority to apply for a waiver for state innovation under 42 U.S.C. 18052.
+[In developing an application for a  waiver, the department shall convene an advisory group to advise
+and assist the department in identifying federal provisions subject to waiver that are  expected to im-
+prove the delivery of quality health care  to residents of this state including, but not limited to, alter-
+native approaches for achieving the objectives  of the Basic Health Program as described in section 1
+(4) of this 2016 Act. ] The department shall apply for a waiver to receive funding to  implement
+the Oregon Reinsurance Program established in section 18 of this 2017 Act.
+[(2) The department may not submit an application for  a waiver to the United States Secretary of
+Health and Human Services or Secretary of the Treasury until the department has presented the pro-
+posed application for a waiver  to the committees of the Legislative Assembly related to health and to
+the Legislative Assembly as specified in subsection (3) of this section. ]
+[(3) Not later than March 1,  2017, the department shall report to the Legislative Assembly, in the
+manner provided in ORS 192.245, its recommendations for  submitting an application for a waiver un-
+der 42 U.S.C. 18052. ]
+SECTION 25.  ORS 731.509, as amended by section 35, chapter  698, Oregon Laws 2013, and
+section 23 of this 2017 Act, is amended to read:
+731.509. (1) The purpose  of ORS 731.509, 731.510, 731.511, 731.512 and 731.516 is to protect the
+interests of insureds, claimants, ceding insurers, assuming insurers and the  public generally. The
+Legislative Assembly declares that its intent is to ensure  adequate regulation of insurers and re-
+insurers and adequate protection for those to whom they owe obligations. In  furtherance of that
+state interest, the Legislative  Assembly mandates that upon the insolvency of an alien insurer or
+reinsurer that provides security to fund its United  States obligations in accordance with ORS
+731.509, 731.510, 731.511, 731.512 and 731.516, the assets representing the  security shall be main-
+tained in the United States and  claims shall be filed with and valued by the state insurance com-
+missioner with regulatory  oversight, and the assets shall be distributed in accordance with the
+insurance laws of the state in which the trust is domiciled that are  applicable to the liquidation of
+domestic United States insurers. The Legislative Assembly declares that  the laws contained in ORS
+731.509, 731.510, 731.511, 731.512 and 731.516 are fundamental to the business of insurance in ac-
+cordance with 15 U.S.C. 1011 and 1012.
+(2) The Director of the Department of Consumer and Business Services shall not  allow credit
+for reinsurance to a domestic ceding insurer as either an  asset or a reduction from liability on ac-
+count of reinsurance ceded unless credit is allowed as provided under ORS 731.508  and unless the
+reinsurer meets the requirements of:
+(a) Subsection (3) of this section;
+(b) Subsection (4) of this section;
+(c) Subsections (5) and (8) of this section;
+(d) Subsections (6) and (8) of this section; or
+(e) Subsection (7) of this section .[; or ]
+[(f) Subsection (9) of this section. ]
+Enrolled House Bill 2391 (HB 2391-A) Page 11
+(3) Credit shall  be allowed when the reinsurance is ceded to an authorized assuming insurer that
+accepts reinsurance of risks, and retains risk thereon within such limits,  as the assuming insurer is
+otherwise authorized to insure in this state as provided in ORS 731.508.
+(4) Credit shall be allowed when the reinsurance is ceded to an assuming insurer that is  ac-
+credited as a reinsurer in this state as provided in ORS 731.511. The  director shall not allow credit
+to a domestic ceding insurer if the accreditation of the assuming insurer  has been revoked by the
+director after notice and opportunity for hearing.
+(5) Credit shall be allowed when the reinsurance  is ceded to a foreign assuming insurer or a
+United States branch of an alien assuming insurer meeting all of the following requirements:
+(a) The foreign assuming  insurer must be domiciled in a state employing standards regarding
+credit for reinsurance that equal or exceed the standards applicable under this section. The United
+States branch of an alien assuming insurer must be entered through a state employing  such stand-
+ards.
+(b) The foreign assuming insurer or United States  branch of an alien assuming insurer must
+maintain a combined capital and surplus in an amount not less than $20,000,000.  The requirement
+of this paragraph  does not apply to reinsurance ceded and assumed pursuant to pooling arrange-
+ments among insurers in the same holding company system.
+(c) The foreign assuming insurer or United States branch  of an alien assuming insurer must
+submit to the authority of the director to examine its books and records.
+(6) Credit shall be allowed when the reinsurance is ceded to an assuming insurer that  maintains
+a trust fund meeting the requirements of  this subsection and additionally complies with other re-
+quirements of this subsection.  The trust fund must be maintained in a qualified United States fi-
+nancial institution, as defined in ORS  731.510 (1), for the payment of the valid claims of its United
+States policyholders and ceding insurers and their assigns and successors in  interest. The assuming
+insurer must report annually to the  director information substantially the same as that required to
+be reported on the annual statement form by ORS 731.574 by authorized insurers, in order to enable
+the director to determine the sufficiency of the trust fund. The following requirements apply  to such
+a trust fund:
+(a) In the case of a single assuming insurer, the trust fund  must consist of funds in trust in an
+amount not less than the assuming insurer’s liabilities attributable to reinsurance  ceded by United
+States ceding  insurers. In addition, the assuming insurer must maintain a trusteed surplus of not less
+than $20,000,000.
+(b) In the case of a group including incorporated and individual unincorporated underwriters:
+(A) For reinsurance  ceded under reinsurance agreements with an inception, amendment or re-
+newal date on or after August 1, 1995, the trust shall consist of a  trusteed account in an amount
+not less than the group’s several  liabilities attributable to business ceded by United States domiciled
+ceding insurers to any member of the group.
+(B) For reinsurance ceded under reinsurance  agreements with an inception date on or before
+July 31, 1995, and  not amended or renewed after that date, notwithstanding the other provisions of
+ORS 731.509, 731.510, 731.511, 731.512 and  731.516, the trust shall consist of a trusteed account in
+an amount not less than the group’s several  insurance and reinsurance liabilities attributable to
+business written in the United States.
+(C) In addition to the trusts described in subparagraphs (A) and (B) of this paragraph,  the group
+shall maintain in trust a trusteed surplus of which $100,000,000 shall be held  jointly for the benefit
+of the United States domiciled ceding insurers of any member of the group  for all years of account.
+(D) The incorporated  members of the group shall not be engaged in any business other than
+underwriting as a member of the group and shall be subject to the same level of regulation  and
+solvency control by the group’s domiciliary regulator as are the unincorporated members.
+(E) Within 90  days after the group’s financial statements are due to be filed with the group’s
+domiciliary regulator, the group shall provide to the director an annual certification by  the group’s
+domiciliary regulator of the solvency of each underwriter member or, if certification  is unavailable,
+Enrolled House Bill 2391 (HB 2391-A) Page 12
+financial  statements  of each underwriter member of the group prepared by independent certified
+public accountants.
+(c) In the case  of a group of incorporated insurers described in this paragraph, the trust must
+be in an amount equal to the group’s several liabilities attributable to business ceded  by United
+States ceding insurers to any member of  the group pursuant to reinsurance contracts issued in the
+name of the group. This paragraph applies to a group of incorporated insurers under common ad-
+ministration that complies  with the annual reporting requirements contained in this subsection and
+that has continuously transacted an insurance business outside the United States for at  least three
+years immediately prior to making application  for accreditation. Such a group must have an aggre-
+gate policyholders’ surplus of $10,000,000,000 and must  submit to the authority of this state to ex-
+amine its books and records and bear the expense of the examination. The  group shall also maintain
+a joint  trusteed surplus of which $100,000,000 must be held jointly for the benefit of United States
+ceding insurers of any member of  the group as additional security for any such liabilities. Each
+member of the group shall make available to the director an annual certification of the  member’s
+solvency by the member’s domiciliary regulator and its independent certified public accountant.
+(d) The form of the trust and any amendment to the trust shall have been approved by the  in-
+surance commissioner of the state in which  the trust is domiciled or by the insurance commissioner
+of another state who, pursuant to the terms of the trust  instrument, has accepted principal regula-
+tory oversight of the trust.
+(e) The form of the trust and any trust amendments also shall  be filed with the insurance com-
+missioner of every state in which  the ceding insurer beneficiaries of the trust are domiciled. The
+trust instrument must provide that contested claims shall be valid and enforceable  upon the final
+order of  any court of competent jurisdiction in the United States. The trust must vest legal title to
+its assets in its trustees for the benefit of the assuming insurer’s United States ceding insurers  and
+their assigns and successors in interest. The trust and the assuming  insurer are subject to exam-
+ination as determined by the director. The trust must remain in effect for as long  as the assuming
+insurer has outstanding obligations due under the reinsurance agreements subject to the trust.
+(f) Not later than March  1 of each year, the trustees of each trust shall report to the director
+in writing the balance of the trust and listing the trust’s investments at the preceding year  end, and
+shall certify the date of termination of the trust, if so planned, or certify that the trust  will not
+expire prior to the following December 31.
+(7) Credit shall be allowed when the reinsurance  is ceded to an assuming insurer not meeting
+the requirements of subsection (3), (4), (5) or (6) of this section, but only as to the insurance of risks
+located in jurisdictions in which the reinsurance is required by applicable law  or regulation of that
+jurisdiction.
+(8) If the assuming insurer  is not authorized to transact insurance in this state or accredited
+as a reinsurer in this state, the director shall not allow the credit permitted by subsections (5)  and
+(6) of this section unless the assuming insurer agrees  in the reinsurance agreement to the provisions
+stated in this subsection. This subsection is not intended to conflict with or override the  obligation
+of the parties to a reinsurance agreement to arbitrate their disputes,  if such an obligation is created
+in the agreement. The assuming insurer must agree in the reinsurance agreement:
+(a) That in the event of the failure of the assuming insurer to perform  its obligations under the
+terms of the reinsurance agreement, the assuming insurer, at the  request of the ceding insurer, shall
+submit to  the jurisdiction of any court of competent jurisdiction in any state of the United States,
+will comply with all requirements necessary to give the  court jurisdiction and will abide by the final
+decision of the court or of any appellate court in the event of an appeal; and
+(b) To designate the director or a designated attorney as its true  and lawful attorney upon
+whom any lawful process in any action, suit or proceeding instituted  by or on behalf of the ceding
+company may be served.
+[(9) Credit shall  be allowed when the reinsurance is ceded to the Oregon Reinsurance Program
+established in section 18 of this 2017 Act. ]
+Enrolled House Bill 2391 (HB 2391-A) Page 13
+[(10)] (9) If the assuming insurer does not meet the requirements of subsection  (3), (4) or (5) of
+this section, the credit permitted by subsection (6) of this section shall not be allowed  unless the
+assuming insurer agrees in the trust agreements to the following conditions:
+(a) Notwithstanding any other provisions in the  trust instrument, if the trust fund is inadequate
+because it contains an amount less than the applicable  amount required by subsection (6)(a), (b) or
+(c) of this section, or if the grantor  of the trust has been declared insolvent or placed into
+receivership, rehabilitation, liquidation or  similar proceedings under the laws of the grantor’s state
+or country of domicile, the trustee shall comply with an order of the insurance commissioner with
+regulatory  oversight  over the trust or with an order of a court of competent jurisdiction directing
+the trustee  to transfer to the insurance commissioner with regulatory oversight all the assets of the
+trust fund.
+(b) The assets  shall be distributed by and claims shall be filed with and valued by the insurance
+commissioner with regulatory oversight in accordance with the laws of the state  in which the trust
+is domiciled that are applicable to the liquidation of domestic insurance companies.
+(c) If the insurance commissioner  with regulatory oversight determines that the assets of the
+trust fund or any part thereof are not necessary to satisfy the  claims of the United States ceding
+insurers of the  grantor of the trust, the assets or part thereof shall be returned by the insurance
+commissioner according to the laws of that state and  according to the terms of the trust agreement
+not inconsistent with the laws of that state.
+(d) The grantor shall waive any right otherwise  available to it under United States law that is
+inconsistent with this subsection.
+HOSPITAL ASSESSMENT
+SECTION 26.
+ Section 1, chapter 736, Oregon Laws 2003, as  amended by section 34, chapter 792,
+Oregon Laws 2009, is amended to read:
+Sec. 1.  As used in sections 1 to 9, chapter 736, Oregon Laws 2003:
+(1) “Charity care” means costs for providing inpatient or outpatient care services free  of charge
+or at  a reduced charge because of the indigence or lack of health insurance of the patient receiving
+the care services.
+(2) “Contractual adjustments” means the difference  between the amounts charged based on the
+hospital’s full established charges and the amount received or due from the payor.
+(3)(a) “Hospital” [ has the meaning given that term in ORS 442.015 ] means a hospital licensed
+under ORS chapter 441 .
+(b) “Hospital” does not include :
+(A) Special inpatient care facilities[ .];
+(B) Hospitals that provide only psychiatric care;
+(C) Pediatric specialty hospitals providing care to children at no charge; and
+(D) Public hospitals other than hospitals  created by health districts under ORS 440.315
+to 440.410.
+(4) “Net revenue”:
+(a) Means the total amount of charges for inpatient or outpatient care provided by  the hospital
+to patients, less charity care, bad debts and contractual adjustments;
+(b) Does not include revenue derived from sources  other than inpatient or outpatient operations,
+including but not limited to interest and guest meals; and
+(c) Does not include any revenue that is taken into account in computing a long term  care fa-
+cility assessment under sections 15 to 22,  24 and 29,  chapter 736, Oregon Laws 2003.
+[(5) “Waivered hospital” means  a type A or type B hospital, as described in ORS 442.470, a hos-
+pital that provides only psychiatric care or a hospital identified by the Department of  Human Services
+as appropriate for inclusion in the application  described in section 4, chapter 736, Oregon Laws
+2003.]
+(5) “Type A hospital” has the meaning given that term in ORS 442.470.
+Enrolled House Bill 2391 (HB 2391-A) Page 14
+(6) “Type B hospital” has the meaning given that term in ORS 442.470.
+SECTION 27.
+Section 2, chapter 736, Oregon Laws 2003, as amended  by section 1, chapter 780,
+Oregon Laws 2007, section 51, chapter 828,  Oregon Laws 2009, section 17, chapter 867, Oregon Laws
+2009, section 2, chapter 608, Oregon Laws 2013, and section 1, chapter 16, Oregon  Laws 2015, is
+amended to read:
+Sec. 2.  (1) An assessment is imposed  on the net revenue of each hospital in this state that is
+not a waivered hospital. The assessment shall be imposed  at a rate determined by the Director of
+the Oregon Health Authority by rule that is the director’s best estimate of the rate needed  to fund
+the services and costs  identified in section 9, chapter 736, Oregon Laws 2003. The rate of assessment
+shall be imposed on  the net revenue of each hospital subject to assessment. The director shall con-
+sult with representatives of hospitals before setting the assessment.
+(2) In addition to  the assessment imposed by subsection (1) of this section, an assessment
+of 0.7 percent is imposed on the net revenue of each hospital  in this state that is not a
+waivered hospital.
+[(2)] (3) The assessment shall be reported on a  form prescribed by the Oregon Health Authority
+and shall  contain the information required to be reported by the authority. The assessment form
+shall be filed  with the authority on or before the 75th day following the end of the calendar quarter
+for which the assessment is being reported. Except as provided in subsection [ (6)] (7) of this section,
+the hospital shall pay the assessment at the time the  hospital files the assessment report. The pay-
+ment shall accompany the report.
+[(3)(a)] (4)(a)  To the  extent permitted by federal law, [ aggregate] assessments imposed under
+subsection (1) of  this section may not exceed the lesser of:
+(A) A rate of 5.3 percent; or
+(B) In  the aggregate, the  total of the following amounts received by the hospitals that are
+reimbursed by Medicare based on diagnostic related groups:
+[(A)] (i)  30 percent of  payments made to the hospitals on a fee-for-service basis by the authority
+for inpatient hospital services;
+[(B)] (ii) 41 percent of payments made to the hospitals on a  fee-for-service basis by the authority
+for outpatient hospital services; and
+[(C)] (iii) Payments made to the hospitals  using a payment methodology established by the au-
+thority that advances the goals  of the Oregon Integrated and Coordinated Health Care Delivery
+System described in ORS 414.620 (3).
+(b) Notwithstanding  paragraph (a) of this subsection, aggregate assessments imposed under
+subsection (1) of this section  on or after July 1, 2015, may exceed the total of the  amounts de-
+scribed in paragraph (a) of this subsection to the extent necessary to compensate for  any reduction
+of funding in the legislatively adopted budget for hospital services under ORS 414.631, 414.651 and
+414.688 to 414.745.
+[(4)] (5)  Notwithstanding subsection [ (3)] (4)  of  this section, a hospital is not guaranteed that
+any additional moneys paid to the hospital in the form of payments for services shall equal or exceed
+the amount of the assessment paid by the hospital.
+[(5)] (6)  Hospitals operated  by the United States Department of Veterans Affairs and pediatric
+specialty hospitals providing care to children  at no charge are exempt from the assessment imposed
+under this section.
+[(6)(a)] (7)(a)  The authority shall develop a schedule for  collection of the assessment for the
+calendar quarter ending September 30, 2019, that will  result in the collection occurring between
+December 15, 2019, and the time all Medicaid cost settlements are  finalized for that calendar quar-
+ter.
+(b) The authority shall prescribe by rule criteria for late payment of assessments.
+SECTION 28.
+ Section 2, chapter 736, Oregon Laws 2003, as amended  by section 1, chapter 780,
+Oregon Laws 2007, section 51, chapter 828,  Oregon Laws 2009, section 17, chapter 867, Oregon Laws
+2009, section  2, chapter 608, Oregon Laws 2013, and section 1, chapter 16, Oregon Laws 2015, and
+section 27 of this 2017 Act, is amended to read:
+Enrolled House Bill 2391 (HB 2391-A) Page 15
+Sec. 2.  (1) An assessment is imposed on the net revenue of each  hospital in this state [ that is
+not a waivered hospital ]. The assessment shall be imposed  at a rate determined by the Director of
+the Oregon Health Authority by rule that is the director’s best estimate of the rate needed  to fund
+the services and costs  identified in section 9, chapter 736, Oregon Laws 2003. The rate of assessment
+shall be imposed on  the net revenue of each hospital subject to assessment. The director shall con-
+sult with representatives of hospitals before setting the assessment.
+(2) In addition to the assessment imposed by subsection (1) of this section, an assessment of 0.7
+percent is imposed on the net revenue of each hospital in this  state that is not a [ waivered
+hospital] type A hospital or type B hospital .
+(3) [ The] Each  assessment shall be reported on a form prescribed by the Oregon Health Au-
+thority and shall contain the information  required to be reported by the authority. The assessment
+form shall be filed  with the authority on or before the [ 75th] 45th day following the end of the cal-
+endar quarter for which the assessment is being reported. Except as provided  in subsection [ (7)] (6)
+of this section, the hospital shall  pay the assessment at the time the hospital files the assessment
+report. The payment shall accompany the report.
+(4)(a) To  the extent permitted by federal law, assessments imposed under subsection (1) of this
+section may not exceed the lesser of:
+(A) A rate of 5.3 percent; or
+(B) In the aggregate, the total of  the following amounts received by the hospitals that are re-
+imbursed by Medicare based on diagnostic related groups:
+(i) 30 percent of payments made to the hospitals on a fee-for-service basis by the authority for
+inpatient hospital services;
+(ii) 41 percent of payments made to the hospitals on a  fee-for-service basis by the authority for
+outpatient hospital services; and
+(iii) Payments made to the hospitals using a  payment methodology established by the authority
+that advances the goals of the Oregon  Integrated and Coordinated Health Care Delivery System
+described in ORS 414.620 (3).
+(b) Notwithstanding paragraph (a) of this subsection, aggregate assessments imposed  under
+subsection (1) of this section on or after July 1, 2015, may exceed the total  of the amounts described
+in paragraph (a) of this subsection to the extent necessary to compensate for any reduction of
+funding in the  legislatively adopted budget for hospital services under ORS 414.631, 414.651 and
+414.688 to 414.745.
+(c) The director  may impose a lower rate of assessment on type A hospitals and type B
+hospitals to take into account the hospitals’ financial position.
+(5) Notwithstanding subsection (4) of this section, a  hospital is not guaranteed that any addi-
+tional moneys  paid to the hospital in the form of payments for services shall equal or exceed the
+amount of the assessment paid by the hospital.
+[(6) Hospitals operated by the United States Department  of Veterans Affairs and pediatric specialty
+hospitals providing care to children at no charge are exempt from the assessment imposed under this
+section.]
+[(7)(a)] (6)(a)  The authority shall develop a schedule for  collection of the assessment for the
+calendar quarter ending September 30, [ 2019] 2021, that will result in the collection occurring  be-
+tween December 15, [ 2019] 2021, and the time all Medicaid cost settlements  are finalized for that
+calendar quarter.
+(b) The authority shall prescribe by rule criteria for late payment of assessments.
+SECTION 29.
+ Section 2, chapter 736, Oregon Laws 2003, as amended  by section 1, chapter 780,
+Oregon Laws 2007, section 51, chapter 828,  Oregon Laws 2009, section 17, chapter 867, Oregon Laws
+2009, section  2, chapter 608, Oregon Laws 2013, and section 1, chapter 16, Oregon Laws 2015, and
+sections 27 and 28 of this 2017 Act, is amended to read:
+Sec. 2.  (1) An assessment is imposed on  the net revenue of each hospital in this state. The as-
+sessment shall be  imposed at a rate determined by the Director of the Oregon Health Authority by
+rule that is the director’s best estimate of the rate needed to fund the  services and costs identified
+Enrolled House Bill 2391 (HB 2391-A) Page 16
+in section 9, chapter  736, Oregon Laws 2003. The rate of assessment shall be imposed on the net
+revenue of each hospital subject to assessment. The director shall consult with representatives  of
+hospitals before setting the assessment.
+[(2) In addition to the assessment imposed by subsection (1) of this section, an  assessment of 0.7
+percent is imposed on the net revenue of each hospital in this state that is not a  type A hospital or type
+B hospital.]
+[(3)] (2) Each assessment shall be  reported on a form prescribed by the Oregon Health Authority
+and shall contain the information required to be reported by the authority. The assessment  form
+shall be filed  with the authority on or before the 45th day following the end of the calendar quarter
+for which the assessment is being reported. Except as provided in subsection [ (6)] (5) of this section,
+the hospital shall pay the assessment at the  time the hospital files the assessment report. The pay-
+ment shall accompany the report.
+[(4)(a)] (3)(a) To the extent permitted by  federal law,  aggregate  assessments imposed under
+[subsection (1) of ] this section may not exceed [ the lesser of: ]
+[(A) A rate of 5.3 percent; or
+[(B) In the aggregate, ] the total of the following amounts received by the  hospitals that are re-
+imbursed by Medicare based on diagnostic related groups:
+[(i)] (A)  30 percent of  payments made to the hospitals on a fee-for-service basis by the authority
+for inpatient hospital services;
+[(ii)] (B)  41 percent of payments made to the hospitals on a  fee-for-service basis by the authority
+for outpatient hospital services; and
+[(iii)] (C)  Payments made to the hospitals using a  payment methodology established by the au-
+thority that advances the goals of the Oregon Integrated and  Coordinated Health Care Delivery
+System described in ORS 414.620 (3).
+(b) Notwithstanding  paragraph (a) of this subsection, aggregate assessments imposed under
+[subsection (1) of ] this section on or after July 1, 2015, may exceed the total of the amounts described
+in paragraph (a) of this subsection to the extent necessary to compensate for any reduction of
+funding in the legislatively adopted budget for hospital services under ORS 414.631,  414.651 and
+414.688 to 414.745.
+(c) The director may impose a lower rate of  assessment on type A hospitals and type B hospitals
+to take into account the hospitals’ financial position.
+[(5)] (4) Notwithstanding subsection [ (4)] (3)  of this section,  a hospital is not guaranteed that
+any additional moneys paid to the hospital in the form of payments for services shall equal or exceed
+the amount of the assessment paid by the hospital.
+[(6)(a)] (5)(a)  The authority shall develop a schedule for  collection of the assessment for the
+calendar quarter ending September 30, 2021, that will  result in the collection occurring between
+December 15, 2021, and the time all Medicaid cost settlements are  finalized for that calendar quar-
+ter.
+(b) The authority shall prescribe by rule criteria for late payment of assessments.
+SECTION 30.
+ Section 3, chapter 736, Oregon Laws 2003, as amended  by section 3, chapter 608,
+Oregon Laws 2013, is amended to read:
+Sec. 3.  [ (1)] Notwithstanding section 2,  chapter 736, Oregon Laws 2003, the Director of the
+Oregon Health Authority shall reduce the rate of assessment imposed under section  2  (1) , chapter
+736, Oregon Laws 2003, to the maximum rate allowed under federal law  if the reduction is required
+to comply with federal law.
+[(2) If federal law requires a reduction in the rate of assessments, the director shall, after consult-
+ing with representatives of the hospitals  that are subject to the assessments, first reduce the distribution
+of moneys described in section 9 (2)(d), chapter 736, Oregon Laws 2003, by a corresponding amount. ]
+SECTION 31. Section 5, chapter 736, Oregon Laws 2003, as  amended by section 52, chapter 828,
+Oregon Laws 2009, and section 18, chapter 867, Oregon Laws 2009, is amended to read:
+Sec. 5.  (1) A  hospital that fails to file a report or pay an assessment under section 2, chapter
+736, Oregon Laws 2003, by the date the  report or payment is due shall be subject to a penalty of
+Enrolled House Bill 2391 (HB 2391-A) Page 17
+up to $500 per day of delinquency. The  total amount of penalties imposed under this section for each
+reporting period may not exceed  five percent of the assessment for the reporting period for which
+penalties are being imposed.
+(2) Penalties imposed  under this section shall be collected by the Oregon Health Authority and
+deposited in the Oregon Health Authority Fund established under [ section 18, chapter  595, Oregon
+Laws 2009] ORS 413.101.
+(3) Penalties paid under  this section are in addition to and not in lieu of [ the] any  assessment
+imposed under section 2, chapter 736, Oregon Laws 2003.
+SECTION 32.  Section 7, chapter 736, Oregon Laws 2003, as amended  by section 5, chapter 608,
+Oregon Laws 2013, is amended to read:
+Sec. 7.  The Oregon Health Authority may audit the records of any hospital in this  state to de-
+termine compliance with sections 1 to 9, chapter 736, Oregon Laws 2003[ , and section 1 of  this 2013
+Act]. The authority  may audit records at any time for a period of five years following the date an
+assessment is due to be reported and paid under section 2, chapter 736, Oregon Laws 2003.
+SECTION 33. Section 9, chapter 736, Oregon Laws 2003, as amended  by section 2, chapter 757,
+Oregon Laws 2005, section 2, chapter 780, Oregon  Laws 2007, section 53, chapter 828, Oregon Laws
+2009, section 19, chapter 867, Oregon Laws 2009, section 59, chapter 602,  Oregon Laws 2011, and
+section 7, chapter 608, Oregon Laws 2013, is amended to read:
+Sec. 9.  (1) The Hospital Quality Assurance  Fund is established in the State Treasury, separate
+and distinct  from the General Fund. Interest earned by the Hospital Quality Assurance Fund shall
+be credited to the Hospital Quality Assurance Fund.
+(2) Amounts in the Hospital Quality Assurance Fund  are continuously appropriated to the
+Oregon Health Authority for the purpose of:
+(a) Paying refunds due under section 6, chapter 736, Oregon Laws 2003;
+(b) Funding services  under ORS 414.631, 414.651 and 414.688 to [ 414.750] 414.745, including but
+not limited to increasing reimbursement rates for inpatient and outpatient hospital  services under
+ORS 414.631, 414.651 and 414.688 to [ 414.750] 414.745;
+(c) Making payments  described in section 2 [ (3)(a)(C)] (4)(a)(B)(iii) , chapter 736, Oregon Laws
+2003;
+(d) Making distributions, as described in section 1  (4) [ of this 2013 Act ], chapter 608, Oregon
+Laws 2013, of an amount of moneys equal  to the federal financial participation received from one
+percentage point of the rate assessed under section 2  (1), chapter 736, Oregon Laws 2003; and
+(e) Paying  administrative costs incurred by the authority to administer section 1 [ of this 2013
+Act], chapter 608, Oregon Laws 2013,  and the assessments imposed under section  2, chapter 736,
+Oregon Laws 2003.
+(3) Except for assessments imposed pursuant to section 2 [ (3)(b)] (4)(b) , chapter 736, Oregon
+Laws 2003, the authority may not use moneys from the Hospital Quality Assurance Fund to
+supplant, directly or  indirectly, other moneys made available to fund services described in sub-
+section (2) of this section.
+SECTION 34.
+ Section 9, chapter 736, Oregon Laws 2003, as amended  by section 2, chapter 757,
+Oregon Laws 2005, section 2, chapter 780, Oregon  Laws 2007, section 53, chapter 828, Oregon Laws
+2009, section 19, chapter 867, Oregon Laws 2009, section 59, chapter 602,  Oregon Laws 2011, and
+section 7, chapter 608, Oregon Laws 2013, and section 33 of this 2017 Act, is amended to read:
+Sec. 9.  (1) The Hospital Quality Assurance  Fund is established in the State Treasury, separate
+and distinct  from the General Fund. Interest earned by the Hospital Quality Assurance Fund shall
+be credited to the Hospital Quality Assurance Fund.
+(2) Amounts in the Hospital Quality Assurance Fund  are continuously appropriated to the
+Oregon Health Authority for the purpose of:
+(a) Paying refunds due under section 6, chapter 736, Oregon Laws 2003;
+(b) Funding services under ORS 414.631,  414.651 and 414.688 to 414.745, including but not limited
+to increasing reimbursement rates for inpatient  and outpatient hospital services under ORS 414.631,
+414.651 and 414.688 to 414.745;
+Enrolled House Bill 2391 (HB 2391-A) Page 18
+(c) Making payments described in section 2 (4)(a)(B)(iii), chapter 736, Oregon Laws 2003;
+(d) Making distributions, as described in section 1 (4), chapter 608, Oregon Laws 2013, of an
+amount of moneys equal to the federal financial participation  received from one percentage point
+of the rate assessed under section 2 (1), chapter 736, Oregon Laws 2003; [ and]
+(e) Making payments to coordinated care organizations to be  used to provide additional
+reimbursement to type A hospitals and type B hospitals  to improve and expand access to
+services for medical assistance  recipients, to the extent permitted by federal requirements;
+and
+[(e)] (f)  Paying administrative costs  incurred by the authority to administer section 1, chapter
+608, Oregon Laws 2013, and the assessments imposed under section 2, chapter 736, Oregon  Laws
+2003.
+(3) Except for assessments imposed pursuant to section  2 (4)(b), chapter 736, Oregon Laws 2003,
+the authority may not use moneys from the Hospital Quality Assurance Fund  to supplant, directly
+or indirectly, other moneys  made available to fund services described in subsection (2) of this sec-
+tion.
+SECTION 35.
+ Section 9, chapter 736, Oregon Laws 2003, as amended  by section 2, chapter 757,
+Oregon Laws 2005, section 2, chapter 780, Oregon  Laws 2007, section 53, chapter 828, Oregon Laws
+2009, section 19, chapter 867, Oregon Laws 2009, section 59, chapter 602,  Oregon Laws 2011, and
+section 7, chapter 608, Oregon Laws 2013, and sections 33 and 34  of this 2017 Act, is amended to
+read:
+Sec. 9.  (1) The Hospital Quality Assurance Fund is  established in the State Treasury, separate
+and distinct from the General Fund. Interest earned by the Hospital Quality Assurance Fund  shall
+be credited to the Hospital Quality Assurance Fund.
+(2) Amounts in the Hospital Quality  Assurance Fund are continuously appropriated to the
+Oregon Health Authority for the purpose of:
+(a) Paying refunds due under section 6, chapter 736, Oregon Laws 2003;
+(b) Funding services under ORS 414.631, 414.651 and 414.688 to 414.745 ,  including but not lim-
+ited to increasing reimbursement rates for inpatient and outpatient hospital services  under ORS
+414.631, 414.651 and 414.688 to 414.745;
+(c) Making payments described in section 2 (4)(a)(B)(iii), chapter 736, Oregon Laws 2003;
+[(d) Making  distributions, as described in section 1 (4), chapter 608, Oregon Laws 2013, of an
+amount of moneys equal to the federal  financial participation received from one percentage point of the
+rate assessed under section 2 (1), chapter 736, Oregon Laws 2003; ]
+[(e)] (d)  Making payments to coordinated care organizations to be used to  provide additional
+reimbursement to type A hospitals and type B  hospitals to improve and expand access to services
+for medical assistance recipients, to the extent permitted by federal requirements; and
+[(f)] (e)  Paying  administrative costs incurred by the authority to administer [ section 1, chapter
+608, Oregon Laws 2013, and ] the assessments  imposed under section 2, chapter 736, Oregon Laws
+2003.
+(3) Except for assessments imposed pursuant to section  2 (4)(b), chapter 736, Oregon Laws 2003,
+the authority may not use moneys from the Hospital Quality Assurance Fund  to supplant, directly
+or indirectly, other moneys  made available to fund services described in subsection (2) of this sec-
+tion.
+SECTION 36.
+ Section 9, chapter 736, Oregon Laws 2003, as amended  by section 2, chapter 757,
+Oregon Laws 2005, section 2, chapter 780, Oregon  Laws 2007, section 53, chapter 828, Oregon Laws
+2009, section 19, chapter 867, Oregon Laws 2009, section 59, chapter 602,  Oregon Laws 2011, and
+section 7, chapter 608, Oregon Laws 2013, and sections 33, 34 and 35 of this 2017 Act, is amended
+to read:
+Sec. 9.  (1) The Hospital Quality Assurance Fund is  established in the State Treasury, separate
+and distinct from the General Fund. Interest earned by the Hospital Quality Assurance Fund  shall
+be credited to the Hospital Quality Assurance Fund.
+Enrolled House Bill 2391 (HB 2391-A) Page 19
+(2) Amounts in the Hospital Quality  Assurance Fund are continuously appropriated to the
+Oregon Health Authority for the purpose of:
+(a) Paying refunds due under section 6, chapter 736, Oregon Laws 2003;
+(b) Funding services under ORS 414.631, 414.651 and 414.688 to 414.745 ,  including but not lim-
+ited to increasing reimbursement rates for inpatient and outpatient hospital services  under ORS
+414.631, 414.651 and 414.688 to 414.745;
+(c) Making payments  described in section 2 [ (4)(a)(B)(iii)] (3)(a)(C) , chapter 736, Oregon Laws
+2003;
+(d) Making payments to  coordinated care organizations to be used to provide additional re-
+imbursement to type A hospitals and type B hospitals to improve and expand access to  services for
+medical assistance recipients, to the extent permitted by federal requirements; and
+(e) Paying administrative  costs incurred by the authority to administer the assessments imposed
+under section 2, chapter 736, Oregon Laws 2003.
+(3) Except for assessments imposed pursuant to section 2 [ (4)(b)] (3)(b) , chapter 736, Oregon
+Laws 2003, the authority may not use moneys from the Hospital Quality Assurance Fund to
+supplant, directly or  indirectly, other moneys made available to fund services described in sub-
+section (2) of this section.
+SECTION 37.
+ Section 9, chapter 736, Oregon Laws 2003, as amended  by section 2, chapter 757,
+Oregon Laws 2005, section 2, chapter 780, Oregon  Laws 2007, section 53, chapter 828, Oregon Laws
+2009, section 19, chapter 867, Oregon Laws 2009, section 59, chapter 602,  Oregon Laws 2011, and
+section 7, chapter 608, Oregon Laws 2013, and section 33 of this 2017 Act, is amended to read:
+Sec. 9.  (1) The Hospital Quality Assurance  Fund is established in the State Treasury, separate
+and distinct  from the General Fund. Interest earned by the Hospital Quality Assurance Fund shall
+be credited to the Hospital Quality Assurance Fund.
+(2) Amounts in the Hospital Quality Assurance Fund  are continuously appropriated to the
+Oregon Health Authority for the purpose of:
+(a) Paying refunds due under section 6, chapter 736, Oregon Laws 2003;
+(b) Funding services under ORS 414.631,  414.651 and 414.688 to 414.745, including but not limited
+to increasing reimbursement rates for inpatient  and outpatient hospital services under ORS 414.631,
+414.651 and 414.688 to 414.745;  and
+(c) Making payments described in section 2 (4)(a)(B)(iii), chapter 736, Oregon Laws 2003;
+[(d) Making distributions, as described in section 1 (4), chapter 608, Oregon Laws 2013, of  an
+amount of moneys equal to the federal  financial participation received from one percentage point of the
+rate assessed under section 2 (1), chapter 736, Oregon Laws 2003; and ]
+[(e)] (d)  Paying administrative costs incurred by  the authority to administer [ section 1, chapter
+608, Oregon Laws 2013, and ] the assessments imposed under  section 2, chapter 736, Oregon Laws
+2003.
+(3) Except for assessments imposed pursuant to section  2 (4)(b), chapter 736, Oregon Laws 2003,
+the authority may not  use moneys from the Hospital Quality Assurance Fund to supplant, directly
+or indirectly, other moneys made available to fund services described in subsection (2)  of this sec-
+tion.
+SECTION 37a.
+ Section  10, chapter 736, Oregon Laws 2003, as amended by section 3, chapter
+780, Oregon Laws 2007,  section 20, chapter 867, Oregon Laws 2009, section 8, chapter 608, Oregon
+Laws 2013, and section 6, chapter 16, Oregon Laws 2015, is amended to read:
+Sec. 10.  Sections 1 to 9, chapter 736, Oregon Laws 2003, apply  to net revenues earned by hos-
+pitals during a period beginning October 1, 2015, and ending the earlier  of September 30, [ 2019]
+2021, or the date on which the assessment no longer qualifies for federal financial participation
+under Title XIX or XXI of the Social Security Act.
+SECTION 38. Section 12, chapter 736, Oregon Laws 2003, as  amended by section 4, chapter 780,
+Oregon Laws 2007, section 21, chapter 867, Oregon  Laws 2009, section 9, chapter 608, Oregon Laws
+2013, and section 3, chapter 16, Oregon Laws 2015, is amended to read:
+Enrolled House Bill 2391 (HB 2391-A) Page 20
+Sec. 12. (1)  Sections 1 to 9, chapter 736, Oregon Laws 2003, [ and section  1, chapter 608, Oregon
+Laws 2013,] are repealed on January 2, [ 2024] 2026.
+(2) Section 1, chapter 608, Oregon Laws 2013, is repealed on July 1, 2018.
+SECTION 39.
+ Section 13, chapter 736, Oregon Laws 2003, as  amended by section 5, chapter 780,
+Oregon Laws 2007, section 22, chapter 867,  Oregon Laws 2009, section 10, chapter 608, Oregon Laws
+2013, and section 4, chapter 16, Oregon Laws 2015, is amended to read:
+Sec. 13.  Nothing in the repeal of  sections 1 to 9, chapter 736, Oregon Laws 2003, and section
+1, chapter 608, Oregon Laws  2013, by section 12, chapter 736, Oregon Laws 2003, affects the impo-
+sition and collection of a  hospital assessment under sections 1 to 9, chapter 736, Oregon Laws 2003,
+for a calendar quarter beginning before September 30, [ 2019] 2021.
+SECTION 40. Section 14, chapter 736, Oregon Laws 2003, as  amended by section 6, chapter 780,
+Oregon Laws 2007,  section 23, chapter 867, Oregon Laws 2009, and section 5, chapter 16, Oregon
+Laws 2015, is amended to read:
+Sec. 14.  Any moneys remaining in  the Hospital Quality Assurance Fund on December 31,
+[2023] 2025, are transferred to the General Fund.
+SECTION 41. The Oregon Health Authority shall  ensure that the Oregon Health and
+Science University receives net reimbursement of at least 84 percent but no more  than 100
+percent of the university’s costs of  providing services that are paid for, in whole or in part,
+with Medicaid funds. Net reimbursement means all  Medicaid payments less any amount that
+is transferred by the university to the authority.
+FUNDING
+SECTION 42. (1) An amount is transferred to the Health System Fund  established under
+section 2 of this 2017 Act from  the unexpended balance of the Health Insurance Exchange
+Fund established under ORS 741.102,  that equals the difference between the balance in the
+Health Insurance Exchange Fund and the projected expenditures from the Health Insurance
+Exchange Fund during the next six months.
+(2) Any unexpended balance of the Oregon Medical  Insurance Pool Account established
+in ORS 735.612 remaining of the effective  date of this 2017 Act is transferred to the Health
+System Fund established under section 2 of this 2017 Act.
+(3) The transfers described in subsections (1) and (2) of this section shall be made from
+moneys maintained, on  the effective date of this 2017 Act, in the Health Insurance Exchange
+Fund and the Oregon Medical Insurance Pool Account.
+OPERATIVE DATES, EFFECTIVE DATES, REPEALS
+AND TECHNICAL ADJUSTMENTS
+SECTION 43.
+Sections 3 to 12 of this 2017 Act  and the amendments to ORS 291.055,
+731.292 and 731.840 by sections 13 to 16 of  this 2017 Act become operative on January 1, 2018.
+SECTION 44. (1) If the Centers for Medicare  and Medicaid Services permits the state to
+impose the assessment under section 2, chapter 736, Oregon Laws 2003, on  type A hospitals
+and type B hospitals and to  exclude from the assessment public hospitals other than health
+district hospitals:
+(a) Section 41 of this 2017 Act and the amendments to sections 1,  2 and 9, chapter 736,
+Oregon Laws 2003, by sections 26, 28 and 34  of this 2017 Act become operative on the later
+of:
+(A) January 1, 2018; or
+(B) The date of the approval by the Centers for Medicare and Medicaid Services.
+(b) The amendments to sections 3, 7 and 9, chapter 736, Oregon Laws 2003,  by sections
+30, 32 and 35 of this 2017 Act become operative on July 1, 2018.
+Enrolled House Bill 2391 (HB 2391-A) Page 21
+(c) The amendments to sections 2 and 9,  chapter 736, Oregon Laws 2003, by sections 29
+and 36 of this 2017 Act become operative on July 1, 2019.
+(2) If the Centers for Medicare and Medicare Services denies approval for  the state to
+impose the assessment under  section 2, chapter 736, Oregon Laws 2003, on type A hospitals
+and type B hospitals and to exclude from the assessment  public hospitals other than health
+district hospitals, the amendments to section 9, chapter 736, Oregon Laws  2003, by section
+37 of this 2017 Act become operative on July 1, 2018.
+(3) The Director of the  Oregon Health Authority shall notify the Legislative Counsel upon
+receipt of an approval or denial by the Centers for Medicare and Medicaid Services of per-
+mission to impose the assessment  under section 2, chapter 736, Oregon Laws 2003, on type
+A hospitals  and type B hospitals and to exclude from the assessment public hospitals other
+than health district hospitals.
+SECTION 45.
+(1) Sections 18 to 22 of  this 2017 Act and the amendments to ORS 731.509
+and section 2, chapter 26, Oregon  Laws 2016, by sections 23 and 24 of this 2017 Act become
+operative on the later of:
+(a) The date the United  States Department of Health and Human Services approves a
+waiver for state innovation under 42 U.S.C. 18052 in accordance with section 2, chapter  26,
+Oregon Laws 2016, as amended by section 24 of this 2017 Act; or
+(b) January 1, 2018.
+(2) The Director of the Department of Consumer and Business Services  shall notify the
+Legislative Counsel upon receipt of the approval or  denial of funding for the Oregon Rein-
+surance Program under 42 U.S.C. 18052.
+SECTION 46.
+ The amendments to ORS 731.509  by section 25 of this 2017 Act become op-
+erative on January 2, 2024.
+SECTION 47. Section 15, chapter 389, Oregon Laws 2015, is repealed.
+SECTION 48. Sections 18 to 22 of this 2017 Act are repealed on January 2, 2024.
+SECTION 49. The Department of Consumer and  Business Services may take any action
+before the operative date specified in sections 43 and 45 of this 2017  Act for sections 2 to 12
+and 18 to 22 of this  2017 Act and the amendments to ORS 291.055, 731.292, 731.509 and 731.840
+and section 2, chapter 26, Oregon Laws 2016,  by sections 13 to 16, 23 and 24 of this 2017 Act
+that is necessary for the department to carry out sections 2 to 12 and 18 to  22 of this 2017
+Act and the amendments to ORS  291.055, 731.292, 731.509 and 731.840 and section 2, chapter
+26, Oregon Laws 2016, by sections 13 to 16, 23 and 24 of this 2017 Act on the operative date
+specified in sections 43 and 45 of this 2017 Act.
+SECTION 50.
+The unit captions used in this 2017 Act are provided  only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2017 Act.
+SECTION 51. This 2017 Act takes effect on the 91st day after the date on  which the 2017
+regular session of the Seventy-ninth Legislative Assembly adjourns sine die.
+Enrolled House Bill 2391 (HB 2391-A) Page 22
+Passed by House June 15, 2017
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Tina Kotek, Speaker of House
+Passed by Senate June 21, 2017
+..................................................................................
+Peter Courtney, President of Senate
+Received by Governor:
+........................M.,........................................................., 2017
+Approved:
+........................M.,........................................................., 2017
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2017
+..................................................................................
+Dennis Richardson, Secretary of State
+Enrolled House Bill 2391 (HB 2391-A) Page 23
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 179.610, ORS 182.126, ORS 182.132, ORS 192.245, ORS 243.105, ORS 291.050, ORS 291.055, ORS 352.002, ORS 383.004, ORS 413.101, ORS 414.025, ORS 414.620, ORS 414.631, ORS 414.651, ORS 414.688, ORS 440.315, ORS 442.015, ORS 442.470, ORS 456.562, ORS 469.421, ORS 469.681, ORS 477.210, ORS 477.760, ORS 656.506, ORS 656.612, ORS 656.614, ORS 705.145, ORS 706.530, ORS 723.114, ORS 731.292, ORS 731.508, ORS 731.509, ORS 731.510, ORS 731.511, ORS 731.512, ORS 731.516, ORS 731.574, ORS 731.804, ORS 731.808, ORS 731.820, ORS 731.824, ORS 731.828, ORS 731.840, ORS 731.854, ORS 731.859, ORS 735.612, ORS 741.102, ORS 743.018, ORS 743.022, ORS 743B.005, ORS 743B.013, ORS 756.310
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `eea3b775e78d07c45ae899b5bc2530745c190056d3790bc8ebb4a23634456722` (snapshot `_meta/snapshots/measure-2017r1-hb2391-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2391/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `b10cc8e07b62302c670a1e396753febe7066c33c1e78f1635d10c48b396e60b3` (snapshot `_meta/snapshots/measure-2017r1-hb2391-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2391/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2391` (part of the batched per-session fetch), sha256 `8a531c771f7c0531d1b6a422bf18d037d210e0e6cb92f247a009fd99e6400c68` of the shared session snapshot `_meta/snapshots/measures-2017r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+
