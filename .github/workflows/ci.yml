@@ -19,7 +19,7 @@ jobs:
   frontmatter:
     uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.8.0
     with:
-      toolkit-ref: v1.5.2
+      toolkit-ref: v1.8.0
 
   # NOT ENABLED YET. corpus_toolkit's verify-provenance.yml (checked at both
   # v1.0.5 and v1.2.0) has a header comment claiming "API/hybrid: verify
@@ -38,12 +38,12 @@ jobs:
   # provenance:
   #   uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.8.0
   #   with:
-  #     toolkit-ref: v1.5.2
+  #     toolkit-ref: v1.8.0
 
   links:
     uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.8.0
     with:
-      toolkit-ref: v1.5.2
+      toolkit-ref: v1.8.0
       # Same rationale as oregon-records-retention: lychee walks './**/*.md',
       # which would include _meta/templates/entity-doc.md — a skeleton whose
       # placeholder URL is not meant to resolve.

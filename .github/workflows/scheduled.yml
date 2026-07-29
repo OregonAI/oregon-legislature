@@ -20,4 +20,4 @@ jobs:
       issues: write
     uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.8.0
     with:
-      toolkit-ref: v1.5.2
+      toolkit-ref: v1.8.0
