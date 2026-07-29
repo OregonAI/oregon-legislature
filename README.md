@@ -7,13 +7,31 @@
 
 Part of the OregonAI civic corpus platform
 ([reference architecture](https://github.com/OregonAI/corpus-toolkit)).
-Archetype (`_meta/corpus.yml`): **api**, MCP interface contract v1 — still
-`api`, not yet flipped to `hybrid`. PHASE5-MCP-SPEC.md §1.1/§9 step 3b calls
-for that flip (plus the toolkit's G1 per-doc_type indexing convention); it is
-a deliberate prerequisite this build did not do, tracked separately from
-step 4 (the mirror pipeline below, which does not need the flip to write or
-validate its files — only for `authority_chain`/`issuing_body_profile` to be
-offered by the MCP server).
+Archetype (`_meta/corpus.yml`): **hybrid**, MCP interface contract v1.
+
+This paragraph used to say the archetype was "still `api`, not yet flipped to
+`hybrid`", and that `authority_chain`/`issuing_body_profile` were therefore not
+offered. The flip has since happened — `_meta/corpus.yml` declares
+`archetype: "hybrid"` — and the tool claim was never how the toolkit decides.
+What the server actually registers for this corpus, listed by building it:
+
+| tool | offered? | gated on |
+|---|---|---|
+| `search_corpus`, `get_document`, `resolve_citation`, `corpus_overview` | yes | mandatory core, every archetype |
+| `graph_neighbors` | **yes** | mandatory core — registered unconditionally, archetype irrelevant |
+| `authority_chain` | **yes** | archetype in (`document`, `hybrid`) |
+| `issuing_body_profile` | **no** | `plugins.issuing_body_registry`, which this corpus does not set — **not** the archetype |
+| `list_datasets`, `query_dataset`, `join_lookup` | **no** | `plugins.tools_module`, unset — see issue #11 |
+
+The `issuing_body_profile` row is the one worth reading twice: the old text
+reached the right answer for the wrong reason, so flipping the archetype would
+not have changed it and nobody would have known why.
+
+Note `graph_neighbors` and `authority_chain` being offered is not the same as
+their being useful here: there is no `_meta/graph.json` yet (step 7+), so they
+correctly report that the corpus has no relationship graph — on
+corpus-toolkit >= v1.7.0. On the pinned v1.5.2 they instead deny that the
+document exists at all; see `_meta/corpus.yml` and corpus-toolkit#5.
 
 | Entry point | For |
 |---|---|
