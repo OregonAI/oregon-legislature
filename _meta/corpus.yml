@@ -66,11 +66,33 @@ plugins:
   extra_schema_checks: []
 
 disclaimer_marker: "NON-AUTHORITATIVE"
-graph_path: "_meta/graph.json"                # absent until this corpus has relationships
-                                               # worth graphing (step 7+); tools that read
-                                               # it (graph_neighbors, authority_chain) are
-                                               # NOT OFFERED for this archetype anyway —
-                                               # PHASE5-MCP-SPEC.md §5.4.
+# ABSENT until this corpus has relationships worth graphing (step 7+). The file is not
+# on disk today; that is deliberate, and it is the whole of what this key currently says.
+#
+# It previously also claimed the tools that read it "are NOT OFFERED for this archetype
+# anyway — PHASE5-MCP-SPEC.md §5.4". Every part of that was wrong:
+#
+#   * `graph_neighbors` is a MANDATORY CORE TOOL for all archetypes (toolkit
+#     docs/mcp-interface-contract.md) and is registered unconditionally.
+#     `authority_chain` is registered for `document` and `hybrid` — and this corpus is
+#     `hybrid`, chosen deliberately a few lines above partly BECAUSE it "restores
+#     authority_chain + issuing_body_profile".
+#   * §5.4 of the spec is about live-response envelopes. The tool surface is §5.5, and it
+#     says the opposite: "authority_chain / graph_neighbors | available — hybrid restores
+#     them". The phrase "NOT OFFERED" appears nowhere in that document.
+#   * Verified rather than argued — building this corpus's own server and listing its
+#     tools returns: authority_chain, corpus_overview, get_document, graph_neighbors,
+#     resolve_citation, search_corpus.
+#
+# This mattered. Believing the tools were unexposed is why nobody checked what they
+# answered here, and what they answered was false: on the pinned toolkit,
+# graph_neighbors("measure-2025r1-hb3592") returns
+# `{"error": "no document with id 'measure-2025r1-hb3592'"}` for a document this same
+# server serves with full provenance (corpus-toolkit#5). Fixed in corpus-toolkit v1.7.0,
+# which reports the true condition instead:
+# `{"no_graph": true, "error": "this corpus has no relationship graph"}`. Bumping the
+# pins below to >= v1.7.0 is what adopts that; until then the false denial stands.
+graph_path: "_meta/graph.json"
 source_manifest_path: "_meta/source-manifest.yml"
 snapshot_dir: "_meta/snapshots"
 
