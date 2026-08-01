@@ -55,6 +55,17 @@ content_roots:
   #   doc_type: "???"        # step 8 decision — see cookbook/README.md
 
 plugins:
+  # Vector search over the prebuilt embeddings artifact. The implementation is shared --
+  # corpus_toolkit.semantic.search -- rather than a per-repo copy, because eight copies of a
+  # loader do not stay identical and the details that drift are the expensive ones (the
+  # convert-once matmul, the dim probe that fails a mismatched model closed).
+  #
+  # `_meta/embeddings/` is gitignored and mounted at runtime: it is derived from the
+  # documents beside it, it needs a GPU to build, and it is far too large to commit. If the
+  # mount is missing the server does NOT fail -- available() returns False and search_corpus
+  # serves keyword-only, silently. That is the documented sharp edge, so the compose
+  # healthcheck asserts availability rather than trusting a green container.
+  semantic_search_module: "corpus_toolkit.semantic.search"
   # citation_module: "src.citations"                  # step 5 (R6): register_scheme
   #   for "HB 2049" / "SB 12" / measure ids, with ask-or-default session inference.
   #   Not written — step 3 is documentation only, no Python.

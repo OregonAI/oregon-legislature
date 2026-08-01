@@ -10,3 +10,8 @@ tests/
 # corpus-verify-provenance; there is no reference to them anywhere under corpus_toolkit/mcp/.
 # Consequence: that validator cannot run inside the container. It is a CI gate, run it there.
 _meta/snapshots/
+
+# Mounted at runtime from the host, not copied. The artifact is built out of band on a GPU
+# machine; a git-clone build cannot see it anyway (gitignored), and COPYing it would put
+# hundreds of MB of vectors into an image that reads them from a bind mount.
+_meta/embeddings/
