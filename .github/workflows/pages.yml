@@ -9,9 +9,17 @@ name: pages
 #
 # src/build_site.py therefore owns BOTH jobs: it renders the site and calls the toolkit's
 # build_index to emit site/corpus-index.json at the same URL as before. That URL is load-
-# bearing for two consumers outside this repo — the org landing page reads it for live
-# document counts, and oregon-records-retention resolves citations INTO this corpus through
-# it — so dropping it would break a sibling silently rather than here.
+# bearing for ONE consumer outside this repo: the org landing page reads it for live document
+# counts.
+#
+# CORRECTION: this said "and oregon-records-retention resolves citations INTO this corpus
+# through it". IT NEVER DID. That corpus declared exactly one sibling —
+# executive-regulatory-frameworks — and registered no scheme pointing here; checked across
+# every `siblings:` block and citation module on the platform. oregon-records-retention has
+# since been retired entirely, so the named consumer is now doubly absent.
+#
+# Keep publishing the index anyway: the org page depends on it, and a real inbound consumer
+# may appear. But the reason is the org page, not a sibling that was never there.
 on:
   push:
     branches: [main]
