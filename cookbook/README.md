@@ -50,3 +50,6 @@ and the law-document types) has no obvious fit for "a worked example query and
 its shape," and inventing a new enum value is a toolkit change, not a content
 one. That decision belongs to step 8, alongside the entries themselves, not to
 this scaffolding step.
+
+- [live-bill-status.md](live-bill-status.md) — citation → mirror → live location → full docket history
+- [session-roster.md](session-roster.md) — sessions, the current one, and feed-vs-mirror coverage
