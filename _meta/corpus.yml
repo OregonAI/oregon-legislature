@@ -66,14 +66,21 @@ plugins:
   # serves keyword-only, silently. That is the documented sharp edge, so the compose
   # healthcheck asserts availability rather than trusting a green container.
   semantic_search_module: "corpus_toolkit.semantic.search"
-  # citation_module: "src.citations"                  # step 5 (R6): register_scheme
-  #   for "HB 2049" / "SB 12" / measure ids, with ask-or-default session inference.
-  #   Not written — step 3 is documentation only, no Python.
+  # Step 5 (R6), finally real (oregon-legislature#10): "HB 2049", the session-qualified
+  # form, and raw measure ids. The bare form fans candidates across all known sessions,
+  # newest first, and existence filtering keeps the ones this corpus holds — ambiguity
+  # is stated on the response, never guessed away.
+  citation_module: "src.citations"
   # Live half of the hybrid. HybridBackend SUBCLASSES FileBackend: search stays
   # file-backed over the mirror, because OData offers only substringof() with no
   # relevance ranking (spec §1.1). The live feed enriches get_document with an
   # envelope-stamped `live_status` block; it does not perform retrieval.
   retrieval_module: "src.odata_backend:HybridBackend"
+  # The hybrid extension tools (oregon-legislature#11): list_datasets/query_dataset over
+  # the three measured entity sets, ported from oregon-budget's budget_tools precedent.
+  # From toolkit v1.19.0 a hybrid without this refuses to start — deliberately; this
+  # corpus was the incident that enforcement names.
+  tools_module: "src.leg_tools:register"
   extra_schema_checks: []
 
 disclaimer_marker: "NON-AUTHORITATIVE"

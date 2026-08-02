@@ -11,10 +11,11 @@ still works and `get_document` still returns the mirrored record — with an exp
 `upstream_status: "unavailable"` on the status block rather than a missing or empty
 one. A reader can always tell which half of the answer is which.
 
-WHAT THIS DOES NOT DO. `measure_status`, `scheduled_for` and `measure_votes` (spec §5.5)
-are not here, because the toolkit has no way for a corpus to register its own MCP tools —
-`build_server()` hardcodes the seven. That gap is recorded as G3; until it is closed, the
-live data reaches callers through `get_document` enrichment only.
+WHAT THIS DOES NOT DO. Live QUERY tools live in src/leg_tools.py (list_datasets /
+query_dataset, registered via plugins.tools_module — the G3 gap this paragraph used to
+record closed in toolkit v1.6.0, and oregon-legislature#11 is why the tools now exist).
+This backend's job stays enrichment only: search stays file-backed over the mirror, and
+the live feed decorates get_document with an envelope-stamped `live_status` block.
 """
 from __future__ import annotations
 
