@@ -21,24 +21,17 @@ jobs:
     with:
       toolkit-ref: v1.19.0
 
-  # NOT ENABLED YET. corpus_toolkit's verify-provenance.yml (checked at both
-  # v1.0.5 and v1.2.0) has a header comment claiming "API/hybrid: verify
-  # entity docs against live API schema (drift check)", but
-  # corpus_toolkit/validate/provenance.py's check_file() has no branch for
-  # doc_type: entity_doc at all — it unconditionally requires a committed
-  # snapshot file per content file unless snapshot_policy: hash-only is set
-  # (which this repo's entity docs do set, precisely to survive this gap —
-  # see AGENTS.md "A known toolkit gap this build hit"). With hash-only set
-  # and no content_mode: verbatim, check_file() does in fact return zero
-  # findings for every entity doc in this repo today, so enabling this job
-  # would currently pass — but it would pass by doing NOTHING (no snapshot
-  # exists to hash, no full-text to diff, no live-schema comparison is
-  # implemented), which is a green checkmark that asserts nothing. Left
-  # disabled rather than shipped as a no-op that looks like a real gate.
-  # provenance:
-  #   uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.19.0
-  #   with:
-  #     toolkit-ref: v1.19.0
+  # ENABLED 2026-08-02 (M4). The previous disable comment dated from the v1.2-era
+  # corpus, when 3 hash-only entity docs were everything and the gate would green
+  # by doing nothing. Today it guards 6,134 measure documents with REAL committed
+  # snapshots (15,642 files) and real hashes — measured before enabling: a local
+  # run verifies 6,134 full-text sections. The 3 entity docs still pass without
+  # assertion; that residue is stated here rather than blocking the rest.
+  provenance:
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.21.0
+    with:
+      # Pin the CODE, not just the workflow file above — separate knobs.
+      toolkit-ref: v1.21.0
 
   links:
     uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.19.0
