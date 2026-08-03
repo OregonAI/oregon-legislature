@@ -16,8 +16,8 @@ source_sha256: 1aed5844ec208bb332d731ddaf37392d65a406b6c84bde28591025cd26a2ce70
 snapshot_id: measure-2025r1-sb264-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

@@ -11,8 +11,8 @@ source_url: "https://api.oregonlegislature.gov/odata/odataservice.svc/Legislativ
 source_format: odata
 snapshot_policy: hash-only
 status: current
-last_verified: '2026-07-26'
-verified_by: "@dzinck"
+last_verified: ''
+verified_by: ""
 maintainer: "@dzinck"
 live_schema_hash: "925869e2e18b43ee51418af08d1b4ee60a68dca5e88ef49d91584ed21a844bf8"
 relationships:

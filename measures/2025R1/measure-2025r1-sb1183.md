@@ -15,8 +15,8 @@ source_sha256: eaa970f50072a8077e1954eb5f147bff56301ebbf7c46dbdc20c62ed168363a7
 snapshot_id: measure-2025r1-sb1183-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

@@ -7,6 +7,18 @@ Repo-curation dates only — official effective dates live in frontmatter.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-02 — **Un-stamped fabricated `last_verified`/`verified_by` on all
+  6,137 content documents** (6,134 measures + 3 entity docs). Every stamp was
+  an ingestion date (2026-07-26/27/28, matching each doc's `retrieved` date
+  exactly) with `verified_by: @dzinck` written by the mirror pipeline, not by
+  a human reviewer. The platform rule (AGENTS.md rule 6 across corpora) is
+  explicit: these fields are set only by the human reviewer at approval —
+  "a fabricated verification stamp is worse than an obviously-empty one."
+  Both fields are now empty strings: schema-valid, read downstream as "never
+  verified", which is exactly true. Entity docs keep `live_schema_hash`, so
+  the schema-drift check loses nothing. This is the honest baseline for the
+  M4 verification pilot; STATUS.md's freshness table now reports 6,137 of
+  6,137 overdue instead of a fiction of zero.
 - 2026-08-02 — Regenerated the committed `STATUS.md`, stale since 2026-07-27: it
   reported 3,760 documents while the corpus on disk holds 6,137 (6,134
   `dataset_doc` + 3 `entity_doc`). Verified as staleness, not a toolkit bug —

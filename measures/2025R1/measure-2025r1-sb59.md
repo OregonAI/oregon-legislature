@@ -15,8 +15,8 @@ source_sha256: fda1db2766ad17c00bf2d066eb40307708acab55e8e884ea5b6f5a9c3417be7a
 snapshot_id: measure-2025r1-sb59-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

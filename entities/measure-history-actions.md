@@ -11,8 +11,8 @@ source_url: "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHis
 source_format: odata
 snapshot_policy: hash-only
 status: current
-last_verified: '2026-07-26'
-verified_by: "@dzinck"
+last_verified: ''
+verified_by: ""
 maintainer: "@dzinck"
 live_schema_hash: "1b2eef0c802d1d83ea028145e8c75951be27e6269e5fe0069fb4fcf73bc3cb03"
 relationships:

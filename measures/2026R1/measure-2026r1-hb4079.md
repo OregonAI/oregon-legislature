@@ -16,8 +16,8 @@ source_sha256: 6fc9687ae505ebad72c678ab928c55e0448bbb948dc1bf92ff6b6deeb1cf0c21
 snapshot_id: measure-2026r1-hb4079-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-28'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

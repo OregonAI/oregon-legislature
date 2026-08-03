@@ -15,8 +15,8 @@ source_sha256: 4786c61bed860b9fa9d65e3311d6fa36d310f686623602166b8d8d5a926a0a75
 snapshot_id: measure-2021r1-sb710-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

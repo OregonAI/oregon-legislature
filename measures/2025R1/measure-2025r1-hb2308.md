@@ -18,8 +18,8 @@ source_sha256: 9dd3edd0e7b82c7425e3805be31e9d4d51b1e4eeb76de62ada5602c4198b2c99
 snapshot_id: measure-2025r1-hb2308-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

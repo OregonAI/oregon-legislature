@@ -14,8 +14,8 @@ source_sha256: 7de1c976ac0a235331c74c7ad20178df3bab942183d0e8044e271230972dd723
 snapshot_id: measure-2021r1-sb762-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

@@ -15,8 +15,8 @@ source_sha256: 556b8472a3ab4559fcdb0ccfe2a9516265c5a2b0588ab108a4eda6f7aa933a9e
 snapshot_id: measure-2022r1-sjr201-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []
