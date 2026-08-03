@@ -1,15 +1,15 @@
 # STATUS — Oregon Legislature — Measures, History, and Sessions (OData)
 
-Generated 2026-07-27. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
 | doc_type | count |
 |---|---|
-| dataset_doc | 3757 |
+| dataset_doc | 6134 |
 | entity_doc | 3 |
 
-**Total: 3760**
+**Total: 6137**
 
 ## Source manifest
 
@@ -17,5 +17,5 @@ Generated 2026-07-27. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 90 days)
 
-0 of 3760 document(s) overdue for re-verification.
+0 of 6137 document(s) overdue for re-verification.
 

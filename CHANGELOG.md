@@ -6,6 +6,13 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Fixed
+- 2026-08-02 — Regenerated the committed `STATUS.md`, stale since 2026-07-27: it
+  reported 3,760 documents while the corpus on disk holds 6,137 (6,134
+  `dataset_doc` + 3 `entity_doc`). Verified as staleness, not a toolkit bug —
+  `corpus-generate-status` reproduces the on-disk count exactly; the file had
+  simply not been regenerated after later measure ingests landed.
+
 ### Added
 - 2026-07-26 — `src/ingest_measures.py` (PHASE5-MCP-SPEC.md step 4): the
   mirror pipeline. Fetches `Measures` (identity + CatchLine/MeasureSummary/
