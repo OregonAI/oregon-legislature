@@ -323,7 +323,7 @@ def build_frontmatter(m: dict, session: str, session_name: str, doc_id: str,
         "snapshot_id": snapshot_id,
         "status": "current",
         "content_mode": content_mode,
-        "last_verified": TODAY,
+        "last_verified": "",   # rule 6: only corpus-verify records a human act
         "verified_by": MAINTAINER,
         "maintainer": MAINTAINER,
         "relationships": {
