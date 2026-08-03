@@ -15,8 +15,8 @@ source_sha256: fda094c5509331c27a3dd36679302fe36d04eb562fb3b9b12b3f7b667aa4b917
 snapshot_id: measure-2017r1-hb2881-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

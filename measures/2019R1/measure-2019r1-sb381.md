@@ -16,8 +16,8 @@ source_sha256: e0e4cd601ecdc83a04e79a1993dce621f314c6487057244d79cb3b45009a9ccd
 snapshot_id: measure-2019r1-sb381-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

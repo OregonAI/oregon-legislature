@@ -17,8 +17,8 @@ source_sha256: d23c7993c7ad0f38168bde8553944229fd392834229380bce041bed7e64d416d
 snapshot_id: measure-2026r1-sjr201-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-28'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

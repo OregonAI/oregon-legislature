@@ -14,8 +14,8 @@ source_sha256: ac04fc276b13a32fdd72ea03a51f08dd6fd44763c04ebdfe0d0171b6351ea3a7
 snapshot_id: measure-2019r1-sb59-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

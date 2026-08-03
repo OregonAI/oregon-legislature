@@ -19,8 +19,8 @@ source_sha256: eb87f64bf5a6f4032dfd6092b9f7654f29c99b7631aab9464686d24671f33207
 snapshot_id: measure-2017r1-sb722-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

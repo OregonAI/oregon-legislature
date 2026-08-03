@@ -14,8 +14,8 @@ source_sha256: b0fc310b3911699bb0c786f195204fa17378bf68e3fd706a552f759a8e935d11
 snapshot_id: measure-2021r1-sb500-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

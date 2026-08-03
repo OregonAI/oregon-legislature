@@ -15,8 +15,8 @@ source_sha256: 76c459b0196519b70577a32038c08b75f63501cafc60e9041522c8e04a4e37cc
 snapshot_id: measure-2025r1-sb840-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

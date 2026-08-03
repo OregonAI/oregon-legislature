@@ -15,8 +15,8 @@ source_sha256: 95e151ec75c76c415907edb899f0fd6c6d061a6ab79a7b0888f33e573d08ff3c
 snapshot_id: measure-2025r1-sb485-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

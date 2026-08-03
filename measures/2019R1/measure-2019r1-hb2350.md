@@ -15,8 +15,8 @@ source_sha256: 12525b559aa6ed7b05285835d89313b7aabba3c687f8a3f6a21cab19007c1dc5
 snapshot_id: measure-2019r1-hb2350-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

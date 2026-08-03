@@ -16,8 +16,8 @@ source_sha256: b971657484758f5bb091c8686f8e318c16886332312955f006586d1b4ca1a663
 snapshot_id: measure-2017r1-sb80-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

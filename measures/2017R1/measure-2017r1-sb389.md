@@ -15,8 +15,8 @@ source_sha256: 58fde468c60b6390ada4103e4e81ae069e07b0ed32cd2dd15635f88743d7e88a
 snapshot_id: measure-2017r1-sb389-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

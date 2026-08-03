@@ -16,8 +16,8 @@ source_sha256: 77f3a5fe7736ac0f4e4d658a0f1b039a7d39ac07c58e4a86a98b6e79aa8b9e07
 snapshot_id: measure-2025r1-sb824-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

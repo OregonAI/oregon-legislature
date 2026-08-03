@@ -15,8 +15,8 @@ source_sha256: 85f0406be9b05c1bb52d72409653caab47a3e07256ca4f02e9df3cc0ca432679
 snapshot_id: measure-2021r1-sb5542-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

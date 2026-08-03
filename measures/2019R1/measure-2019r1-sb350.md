@@ -15,8 +15,8 @@ source_sha256: 4ed64d9cc2e223e82a3b058495315cb73eef4f8cb4fe4ccb2b06bd1b0c699b67
 snapshot_id: measure-2019r1-sb350-introduced
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []

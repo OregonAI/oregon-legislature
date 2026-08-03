@@ -16,8 +16,8 @@ source_sha256: 06fb9cf35e82f2cebbf1b65f2867175f6f5b4d6cd264ff9d85a256706ac00a9c
 snapshot_id: measure-2025r1-sb230-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-27'
-verified_by: '@dzinck'
+last_verified: ''
+verified_by: ''
 maintainer: '@dzinck'
 relationships:
   implements: []
