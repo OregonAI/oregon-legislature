@@ -18,6 +18,6 @@ jobs:
     permissions:
       contents: write
       issues: write
-    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.24.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.25.0
     with:
-      toolkit-ref: v1.24.1
+      toolkit-ref: v1.25.0
