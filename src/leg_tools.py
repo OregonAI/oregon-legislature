@@ -26,6 +26,11 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+# Declared so the SDK emits an output schema naming corpus/archetype/authoritative_source
+# (corpus-toolkit#96). A bare `-> dict` declares no schema at all, so the answer travels
+# only as JSON text and a validating client can check nothing.
+from corpus_toolkit.mcp.responses import ResponseEnvelope
+
 # Same trick as odata_backend.py: the toolkit's plugin loader puts the REPO ROOT on
 # sys.path, not src/ itself.
 sys.path.insert(0, str(Path(__file__).parent))
@@ -80,11 +85,11 @@ def register(mcp, framework):
     """Called by corpus-mcp-serve after every built-in tool."""
 
     @mcp.tool()
-    def list_datasets() -> dict:
+    def list_datasets() -> ResponseEnvelope:
         """The live OData entity sets this corpus can query, with their filterable
         columns. Call this before query_dataset. Live queries are SLOW (~5-15 s);
         the mirrored measures answer most questions faster via search_corpus."""
-        return {
+        return framework.with_envelope({
             "datasets": [
                 {"dataset": key,
                  "entity_set": d["entity"],
@@ -95,27 +100,30 @@ def register(mcp, framework):
                 for key, d in DATASETS.items()],
             "note": LATENCY_NOTE,
             "disclaimer": DISCLAIMER,
-        }
+        })
 
     @mcp.tool()
     def query_dataset(dataset: str, session: str = "", prefix: str = "",
                       number: int = 0, chamber: str = "",
-                      current_committee: str = "", limit: int = 50) -> dict:
+                      current_committee: str = "",
+                      limit: int = 50) -> ResponseEnvelope:
         """Query a live OData entity set with named filters (see list_datasets).
         Examples: dataset='measures', session='2025R1', prefix='HB', number=2049;
         dataset='measure-history-actions' for a bill's full action history.
         Live and slow (~5-15 s); results carry executed_query for auditability."""
         d = DATASETS.get(dataset)
         if d is None:
-            return {"error": f"unknown dataset {dataset!r}",
-                    "datasets": sorted(DATASETS),
-                    "note": "call list_datasets first"}
+            return framework.with_envelope(
+                {"error": f"unknown dataset {dataset!r}",
+                 "datasets": sorted(DATASETS),
+                 "note": "call list_datasets first"})
         supplied = {"session": session, "prefix": prefix, "number": number,
                     "chamber": chamber, "current_committee": current_committee}
         unknown = [k for k, v in supplied.items() if v and k not in d["filters"]]
         if unknown:
-            return {"error": f"{dataset!r} does not filter on {', '.join(unknown)}",
-                    "filterable": sorted(d["filters"])}
+            return framework.with_envelope(
+                {"error": f"{dataset!r} does not filter on {', '.join(unknown)}",
+                 "filterable": sorted(d["filters"])})
         filters = {}
         for arg, col in d["filters"].items():
             v = supplied.get(arg)
@@ -131,11 +139,11 @@ def register(mcp, framework):
         if not r.ok:
             out["note"] = ("the live feed could not be queried — this is NOT a result "
                            "of zero, and must not be reported as one")
-            return out
+            return framework.with_envelope(out)
         out["rows"] = r.rows
         out["n_rows"] = len(r.rows)
         if len(r.rows) >= limit:
             out["truncated"] = True
             out["note"] = (f"row cap {limit} reached; narrow the filters — "
                           f"{LATENCY_NOTE}")
-        return out
+        return framework.with_envelope(out)
