@@ -23,6 +23,10 @@ corpus:
   # proxied live. "hybrid" also restores authority_chain + issuing_body_profile,
   # which "api" gates off and which a mirrored corpus can genuinely answer.
   archetype: "hybrid"
+  # WHERE THE OFFICIAL RECORD LIVES. 6,134 of this corpus's 6,138 documents carry a
+  # source_url on olis.oregonlegislature.gov — the Legislature's own information system,
+  # which is the record this corpus mirrors. The remaining four come from its API host.
+  authoritative_source: "https://olis.oregonlegislature.gov/"
   schema_version: 1
   contract_version: 1
 
