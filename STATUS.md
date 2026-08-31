@@ -1,6 +1,6 @@
 # STATUS — Oregon Legislature — Measures, History, and Sessions (OData)
 
-Generated 2026-08-03. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-08-31. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
