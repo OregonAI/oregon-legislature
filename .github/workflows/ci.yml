@@ -5,21 +5,11 @@ on:
     branches: [main]
 
 jobs:
-  # Pinned to v1.2.0, not the template's default v1.0.5: v1.2.0 is the first
-  # tagged corpus-toolkit release whose bundled schema
-  # (schemas/document.frontmatter.v1.schema.json) recognizes doc_type:
-  # entity_doc / dataset_doc and the live_schema_hash field this corpus's
-  # entity docs use. An older toolkit-ref would reject every entity doc's
-  # doc_type as not in its enum. Note this pins the WORKFLOW FILE version;
-  # each reusable workflow also has its own `toolkit-ref` input (documented
-  # default v1.0.5 even inside the v1.2.0-tagged workflow file itself) that
-  # governs which corpus-toolkit checkout it actually installs and validates
-  # against — confirmed by reading corpus-toolkit's validate-frontmatter.yml
-  # at both tags. Pass it explicitly rather than relying on the tag alone.
+  # The reusable workflows are called at the floating `@v1` (corpus-toolkit ADR-0014): the
+  # release gate moves that tag only after its canary has validated this corpus on the
+  # candidate, and each workflow installs its own commit, so there is no second knob.
   frontmatter:
-    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.32.0
-    with:
-      toolkit-ref: v1.32.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1
 
   # ENABLED 2026-08-02 (M4). The previous disable comment dated from the v1.2-era
   # corpus, when 3 hash-only entity docs were everything and the gate would green
@@ -28,15 +18,11 @@ jobs:
   # run verifies 6,134 full-text sections. The 3 entity docs still pass without
   # assertion; that residue is stated here rather than blocking the rest.
   provenance:
-    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.32.0
-    with:
-      # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.32.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1
 
   links:
-    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.32.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1
     with:
-      toolkit-ref: v1.32.0
       # Same rationale as oregon-records-retention: lychee walks './**/*.md',
       # which would include _meta/templates/entity-doc.md — a skeleton whose
       # placeholder URL is not meant to resolve.

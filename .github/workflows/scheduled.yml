@@ -23,6 +23,4 @@ jobs:
       # ceiling for a reusable workflow, so the toolkit
       # declaring this is not enough on its own.
       pull-requests: write
-    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.32.0
-    with:
-      toolkit-ref: v1.32.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1
