@@ -17,9 +17,9 @@ jobs:
   # against — confirmed by reading corpus-toolkit's validate-frontmatter.yml
   # at both tags. Pass it explicitly rather than relying on the tag alone.
   frontmatter:
-    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.31.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.32.0
     with:
-      toolkit-ref: v1.31.1
+      toolkit-ref: v1.32.0
 
   # ENABLED 2026-08-02 (M4). The previous disable comment dated from the v1.2-era
   # corpus, when 3 hash-only entity docs were everything and the gate would green
@@ -28,15 +28,15 @@ jobs:
   # run verifies 6,134 full-text sections. The 3 entity docs still pass without
   # assertion; that residue is stated here rather than blocking the rest.
   provenance:
-    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.31.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.32.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.31.1
+      toolkit-ref: v1.32.0
 
   links:
-    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.31.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.32.0
     with:
-      toolkit-ref: v1.31.1
+      toolkit-ref: v1.32.0
       # Same rationale as oregon-records-retention: lychee walks './**/*.md',
       # which would include _meta/templates/entity-doc.md — a skeleton whose
       # placeholder URL is not meant to resolve.
