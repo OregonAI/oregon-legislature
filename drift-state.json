@@ -1,0 +1,39 @@
+{
+  "generated_by": "corpus-detect-changes 1.34.0",
+  "last_run": {
+    "date": "2026-09-03",
+    "group_filter": null,
+    "groups_in_scope": [
+      "manifest"
+    ],
+    "mode": "seed",
+    "red_reasons": [],
+    "toolkit_version": "1.34.0",
+    "totals": {
+      "accepted": 0,
+      "changed": 0,
+      "fetch_failed": 0,
+      "seeded": 0,
+      "total": 1,
+      "unchanged": 1,
+      "unreadable_json": 0,
+      "watch_path_missing": 0
+    }
+  },
+  "schema_version": 1,
+  "sources": [
+    {
+      "accepted_at": null,
+      "first_changed_at": null,
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "odata-metadata",
+      "new": "",
+      "observed_at": "2026-09-03",
+      "old": "",
+      "outcome": "unchanged",
+      "seeded_at": null,
+      "url": "https://api.oregonlegislature.gov/odata/odataservice.svc/$metadata"
+    }
+  ]
+}
