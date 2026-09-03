@@ -1,0 +1,37 @@
+{
+  "group_filter": null,
+  "groups": {
+    "manifest": {
+      "changed": 0,
+      "checked": 1,
+      "fetch_failed": 0,
+      "no_baseline": 0,
+      "unchanged": 1,
+      "unreadable_json": 0,
+      "watch_path_missing": 0
+    }
+  },
+  "groups_in_scope": [
+    "manifest"
+  ],
+  "mode": null,
+  "schema_version": 1,
+  "sources": [
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "odata-metadata",
+      "outcome": "unchanged",
+      "url": "https://api.oregonlegislature.gov/odata/odataservice.svc/$metadata"
+    }
+  ],
+  "totals": {
+    "changed": 0,
+    "fetch_failed": 0,
+    "no_baseline": 0,
+    "total": 1,
+    "unchanged": 1,
+    "unreadable_json": 0,
+    "watch_path_missing": 0
+  }
+}
