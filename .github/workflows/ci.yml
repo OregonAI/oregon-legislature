@@ -46,3 +46,11 @@ jobs:
       #
       # Authored prose (README, AGENTS, entities/, cookbook/) is still fully checked —
       # that is where a broken link is a human error rather than an artifact of mirroring.
+
+  # The gates every template-shaped corpus owes -- authority graph current, STATUS.md current,
+  # llms.txt Contents filled in -- run from the toolkit's reusable template-gates.yml, so they
+  # cannot drop out of this file one at a time (corpus-toolkit v1.35.0; CONTEXT.md "Template
+  # gates"). This corpus commits no authority graph (its relationships are OData joins, not a
+  # graph.json), so that gate reports a notice and moves on; STATUS.md and llms.txt are checked.
+  template-gates:
+    uses: OregonAI/corpus-toolkit/.github/workflows/template-gates.yml@v1
