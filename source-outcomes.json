@@ -2,6 +2,7 @@
   "group_filter": null,
   "groups": {
     "manifest": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 1,
       "fetch_failed": 0,
@@ -26,6 +27,7 @@
     }
   ],
   "totals": {
+    "archive_unreadable": 0,
     "changed": 0,
     "fetch_failed": 0,
     "no_baseline": 0,
