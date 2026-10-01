@@ -1,16 +1,17 @@
 {
-  "generated_by": "corpus-detect-changes 1.34.0",
+  "generated_by": "corpus-detect-changes 1.36.4",
   "last_run": {
-    "date": "2026-09-03",
+    "date": "2026-10-01",
     "group_filter": null,
     "groups_in_scope": [
       "manifest"
     ],
     "mode": "seed",
     "red_reasons": [],
-    "toolkit_version": "1.34.0",
+    "toolkit_version": "1.36.4",
     "totals": {
       "accepted": 0,
+      "archive_unreadable": 0,
       "changed": 0,
       "fetch_failed": 0,
       "seeded": 0,
@@ -29,7 +30,7 @@
       "had_baseline": true,
       "id": "odata-metadata",
       "new": "",
-      "observed_at": "2026-09-03",
+      "observed_at": "2026-10-01",
       "old": "",
       "outcome": "unchanged",
       "seeded_at": null,
